@@ -4,7 +4,7 @@ set -euo pipefail
 
 if [ "$#" -ne 3 ]; then
     echo "Usage: $0 START END NUM_JOBS"
-    echo "Example: $0 0 999 10"
+    echo "Example: $0 20000 21999 10"
     exit 1
 fi
 
@@ -52,11 +52,8 @@ for ((i=0; i<JOBS; i++)); do
 
     chunk_end=$((current_start + chunk_size - 1))
 
-    start_fmt=$(printf "X%03d" "$current_start")
-    end_fmt=$(printf "X%03d" "$chunk_end")
-
-    echo "Starting job $((i+1))/$JOBS: python3 genai.py $start_fmt $end_fmt"
-    python3 genai.py "$start_fmt" "$end_fmt" &
+    echo "Starting job $((i+1))/$JOBS: python3 genai.py $current_start $chunk_end"
+    python3 genai.py "$current_start" "$chunk_end" &
 
     pids+=($!)
     current_start=$((chunk_end + 1))
