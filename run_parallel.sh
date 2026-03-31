@@ -71,4 +71,4 @@ if [ "$failed" -ne 0 ]; then
     exit 1
 fi
 
-echo "All jobs finished successfully."
+echo "All jobs finished successfully."c
