@@ -16,3 +16,4 @@ build/
 .vscode/
 .idea/
 .DS_Store
+data/studium_parisiense_dataset.jsonl
