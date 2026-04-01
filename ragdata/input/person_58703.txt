@@ -1,0 +1,11 @@
+PERSON: MARTINUS de Banville
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1429-1429%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Bayeux ;.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en décret (Paris) en ) ;.
+University functions: Paris (Lecteur des Décrétales (livre III) en pour la 1ere année et le 1er volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 25/03/2025..

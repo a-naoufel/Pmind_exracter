@@ -1,0 +1,25 @@
+PERSON: GUILLELMUS de Ferrariis
+Also known as: Guillelmus de FERRARIIS; Guillelmus de FERRARIA; Guillaume de FERRIERES.
+Description: Cardinal-prêtre de Saint-Clément.
+Status: Incertain.
+Gender: male.
+Active during: %1280-1295%.
+Studied at: Orléans ;; Toulouse..
+Academic grades obtained: Maître en droit (Orléans ?) ;.
+Ecclesiastical positions held: Chanoine de Sens (‘Saint-Pierre’) ;; Prévôt de Marseille ;; Cardinal-prêtre de San-Clemente %1294-1295% ;.
+University functions: Toulouse (Faculté de droit : professeur %1284-1289%) ;; Orléans (Professeur de droit visiteur) ;.
+Authored work: 'Lectura super titulo ‘De actionibus’', composed around ?.
+Authored work: 'Nota de notariis', composed around ?.
+Authored work: 'Summa conceptionis libellorum', composed around .
+Authored work: 'Repetitio sur ‘Ex non scripto » (Inst. I 2 9)', composed around ?.
+Authored work: 'Repetitio sur la Décrétale ‘Is qui conqueritur’ (Décr. 3, 25, 5)', composed around ?.
+Authored work: 'Additiones ad Digestum novum', composed around ?.
+Authored work: 'Additiones ad Digestum vetus', composed around ?.
+Authored work: 'Additiones ad Infortiatum', composed around ?.
+Authored work: 'Additiones ad Codicem', composed around ?.
+Authored work: 'Additiones ad Institutiones', composed around ?.
+Authored work: 'Additiones ad Tres Libros', composed around ?.
+Authored work: 'Additiones ad Volumen', composed around ?.
+Authored work: 'Repetitiones sur le livre 10 du Code (C 10)', composed around ?.
+Authored work: 'Questio de cessione actionum', composed around ?.
+Source: MIRANDA : Cardinals of the holy Church :.

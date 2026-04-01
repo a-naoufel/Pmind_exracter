@@ -1,0 +1,31 @@
+PERSON: BERNARDUS de Alvernia 1
+Also known as: Bernardus de ALVERNIA; Bernardus ARVERNUS; Bernard d'AUVERGNE; Bernard de CLERMONT.
+Description: Évêqueélu de Clermont.
+Status: Gradué.
+Gender: male.
+Active during: %1294-1307%.
+Born in: Auvergne (Gannat)..
+Diocese of origin: Diocèse de Clermont ?.
+Studied at: Paris..
+Academic grades obtained: Bachelier en théologie (Paris) ca.%1294-1297%..
+College affiliation: Couvent (dominicain) de Paris (Jacobins) vers .<6b> Evêqueélu de Clermont-Ferrand %1304-1307% après la mort de Pierre d'AUVERGNE..
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Clermont..
+Religious functions: Définiteur au chapitregénéral (dominicain) d’Auxerre en (septembre).; Prieur du couvent (dominicain) de Paris (Saint-Jacques) %1301-1303%..
+University functions: Paris (Faculté de Théologie : lecteur au couvent dominicain %1294-1300%?) :; Paris (Faculté de Théologie : lecteur des Sentences au couvent dominicain %1298-1300%)..
+Authored work: 'Lectura super IV libros Sententiarum', composed around ?.
+Authored work: 'Impugnatio quodlibetorum Henrici de Gandavo (Contra dicta Henrici de Gandavo, quibus impugnat Thomam)', composed around ?.
+Authored work: 'Reprobatio quodlibetorum Godefridi de Fontibus', composed around ?.
+Authored work: '(Impugnationes Bernardi Claromontensis contre fratrem Egidium contradicentem Thomae super I Sent.")', composed around ?.
+Authored work: 'Improbatio quodl. I-II Iacobi de Viterbio', composed around ?.
+Authored work: 'Quaestiones 5 disputatae', composed around ?.
+Authored work: '(Sermon pour la fête de Saint PIERRE et Saint PAUL)', composed around ? (29 juin)..
+Authored work: '(Sermo Dom. III p. oct. Epiphaniae)', composed around (28 janvier)..
+Authored work: '(Collatio fr. Bernardi de Alvernia dom. IV p. oct. Epiphaniae)', composed around (4 février)..
+Authored work: '(Sermon pour le dimanche des Rameaux)', composed around (15 avril)..
+Authored work: '(Sermo Dom. IV p. Pascha)', composed around ?.
+Authored work: '(Collatio Dom. IV p. Pascha)', composed around (20 mai) : sermon pour le 4e dimanche après Pâques..
+Authored work: '(Sermo Dom. infra oct. Ascensionis)', composed around ?.
+Authored work: '(Collatio Dom. infra oct. Ascensionis)', composed around (3 juin)..
+Authored work: '(Sermon pour la fête de Sainte CÉCILE)', composed around (22 novembre)..
+Authored work: 'Sermo de beato Paulo editus a mag. Bernardo de Alvernia in domo Predicatorum', composed around ? à Paris (Couvent dominicain (Saint-Jacques))..
+Source: MIRABILE : http://sip.mirabileweb.it.

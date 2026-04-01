@@ -1,0 +1,12 @@
+PERSON: ULRICUS Viennensis
+Also known as: Ulricus VIENNENSIS.
+Description: Médecin.
+Status: Extérieur.
+Gender: male.
+Active during: %1280-1320%.
+Studied at: Prague ?.
+Academic grades obtained: Docteur en droit canon.
+Authored work: 'Fallaciae', composed around ?.
+Authored work: 'Clavis intencionum', composed around ?.
+Authored work: '(Commentaire sur les ‘Mineralia’ d’Avicenne)', composed around ?.
+Source: MIRABILE :.

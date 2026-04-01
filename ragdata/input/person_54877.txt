@@ -1,0 +1,11 @@
+PERSON: BERNARDUS de Granolhio
+Also known as: Bernardus de GRANOLHIO.
+Description: Chanoine de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1366-1374%.
+Studied at: ?.
+Academic grades obtained: Maître ;; Bachelier en droit canon en ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d’Angers %1366-1371% ;; Archidiacre de Thouars %1371-1374% ;; Chanoine de Poitiers %1371- % ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 19/12/2022..

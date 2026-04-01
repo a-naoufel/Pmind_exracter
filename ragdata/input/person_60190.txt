@@ -1,0 +1,15 @@
+PERSON: OLIVERIUS de La Haye
+Also known as: Olivier de LAHAYE; Oliverius de HAYA.
+Description: Notaire.
+Status: Maître.
+Gender: male.
+Active during: %1413-1439%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Tréguier ?.
+Studied at: Paris (Nation de France) ?.
+Academic grades obtained: Maître ès arts ;.
+College affiliation: Collège de Tréguier : boursier ?.
+Ecclesiastical positions held: Chapelain de Tréguier (cathédrale) ;.
+Other ecclesiastical functions: Transcripteur des actes épiscopaux et des actes de l’officialité du diocèse de Tréguier %1413-1422% ;.
+Authored work: '(Poème sur la Grande Peste)', composed around ..
+Source: I.R.H.T., base JONAS :.

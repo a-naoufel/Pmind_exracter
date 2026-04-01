@@ -1,0 +1,9 @@
+PERSON: PHILIPPUS de Comin
+Also known as: Philippe de COMIN.
+Description: Détenteur d’une maison parisienne.
+Status: Extérieur.
+Gender: male.
+Active during: %1258-1258%.
+Family relationships: Sa femme est THEOPHANIA ;.
+Social origin: Bourgeoisie ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/09/2023)..

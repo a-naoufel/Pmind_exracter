@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Puylaurens
+Also known as: Guillaume de PUYLAURENS.
+Description: Notaire.
+Status: Extérieur.
+Gender: male.
+Active during: %1225-1273%.
+Born in: ?Puylaurens..
+Ecclesiastical positions held: Clerc..
+Representation roles: Envoyé par RAYMOND VII, comte de Toulouse auprés du pape INNOCENT IV..
+Authored work: 'Historia Albigensium.', composed around %1145-1172%..
+Source: ARLIMA :.

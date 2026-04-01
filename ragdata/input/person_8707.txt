@@ -1,0 +1,9 @@
+PERSON: LUDOVICUS 4
+Also known as: LUDOVICUS; LOUIS.
+Description: Étudiant en médecine..
+Status: Étudiant.
+Gender: male.
+Active during: %1420-1421%.
+Studied at: Paris %1420-1421%..
+Academic grades obtained: Étudiant en médecine (Paris) %1420-1421% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 06/04/2021)..

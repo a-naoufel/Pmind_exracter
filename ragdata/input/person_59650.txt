@@ -1,0 +1,11 @@
+PERSON: ADAM Boyau
+Also known as: Adam BOYAU.
+Description: Trésorier de Saint-Germain-des-Prés.
+Status: Extérieur.
+Gender: male.
+Active during: %1473-1473%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.S.B. : moine (bénédictin) de Paris (Saint-Germain-des-Prés) ;.
+Religious functions: Trésorier de Paris (Saint-Germain-des-Prés) en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,13 @@
+PERSON: PETRUS Vidalle
+Also known as: Pierre VIDALLE.
+Description: Chapelain du Collège de Justice.
+Status: Étudiant.
+Gender: male.
+Active during: %1448-1453%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie ?) %1449-1479%..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Justice : hôte en ;; Collège de Justice : procureur en %1465-1471% ;; Collège de Justice : chapelain en %1471-1479% ;.
+Ecclesiastical status: Prêtre ?.
+Ecclesiastical positions held: Chapelain du Collège de Justice %1471-1479% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Marion BERNARD-SCHWEITZER, 13/10/2020)..

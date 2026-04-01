@@ -1,0 +1,14 @@
+PERSON: GERARDUS de Malliaco
+Also known as: Gerardus de MALLIACO; Guillelmus de MALLIACO.
+Description: Dominicain ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1275-1275%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant au couvent (dominicain) de Paris ?.
+College affiliation: Couvent (dominicain) de Paris (Jacobins) ?.
+Religious order: O.P. : frère dominicain ?.
+Authored work: 'Expositio super Ave Maria', composed around ?.
+Authored work: 'Sermones dominicales', composed around ?.
+Authored work: 'Sermones de sanctis', composed around ?.
+Source: MIRABILE : Andrea CENNINI :.

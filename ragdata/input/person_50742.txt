@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Liciis
+Also known as: Guillelmus de LICIIS.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1305-1308%.
+Studied at: Paris %1305-1308%..
+Academic grades obtained: Magister ..
+College affiliation: Sorbonne: socius et procureur en %1305-1308% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 1/04/2020..

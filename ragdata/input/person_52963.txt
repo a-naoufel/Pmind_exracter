@@ -1,0 +1,15 @@
+PERSON: PETRUS Courel
+Also known as: Petrus COUREL.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1464-1512%.
+Born in: Normandie (Rouen) ;.
+Diocese of origin: Diocèse de Rouen :.
+Studied at: Pavie %1458-1464% ;.
+Academic grades obtained: Étudiant (Pavie) %1458-1364% ;.
+Social origin: Bourgeoisie ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Rouen %1453-1489% ;; Sous-chantre de Rouen %1500-1505% ;; Curé de Montiviliiers (Sainte-Croix) ;.
+Other ecclesiastical functions: Doyen de l’exemption de Montivilliers ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/11/2021..

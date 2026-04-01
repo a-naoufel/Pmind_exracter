@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS Le Reverend
+Also known as: Guillelmus LE REVEREND.
+Description: Bachelier en droit canon.
+Status: Gradué.
+Gender: male.
+Active during: %1424-1439%.
+Studied at: Paris %1429-1435%..
+Academic grades obtained: Bachelier en décret (Paris) ..
+Academic relationships: Son maître est Johannes de SERVAVILLA, D.Cn.L., en ?%1427-1429%?..
+Religious order: O.S.B. : moine bénédictin.
+Religious functions: Prieur de Vauville (dépendance de Cerisy-la-Forêt dans le diocèse de Coutances) en ;; Abbé de Saint-Sauveur-le-Vicomte (diocèse de Coutances) en septembre ..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales en ?%1427-1429% ?) ;.
+Representation roles: Participe au concile de Bâle en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 29/03/2022)..

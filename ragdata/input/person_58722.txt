@@ -1,0 +1,19 @@
+PERSON: PETRUS Reicher de Pirchenvart
+Also known as: Petrus REICHER de Pirchenvart; Petrus de PIRICHENVART; Peter REICHER von Pirchenwart; Petrus de PIRCHENVARTH.
+Description: Recteur de l'Université de Vienne.
+Status: Extérieur.
+Gender: male.
+Active during: %1422-1436%.
+Studied at: Vienne..
+Academic grades obtained: Docteur en théologie en ;.
+Ecclesiastical positions held: Chanoine de Vienne (Saint-Étienne)..
+University functions: Vienne (Université : recteur ).; Vienne (Université : recteur ).; Vienne (Faculté de théologie : doyen ) ;; Vienne (Faculté de théologie : doyen ) ;; Vienne (Faculté de théologie : doyen ) ;.
+Authored work: 'Expositio in Baruch prophetam', composed around ?.
+Authored work: 'Comm. s. Evang. Johannis', composed around ?.
+Authored work: 'Comm. s. Epist. Pauli', composed around ?.
+Authored work: 'Lectura super Matthaeum', composed around ?.
+Authored work: 'In librum quartum Sententiarum', composed around ?.
+Authored work: 'Quaestiones theologicae', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Decretum reformationis canoniae ad S. Dorotheam Vindobonensis', composed around (22 juin)..
+Source: MIRABILE : http://www.mirabileweb.it/author/petrus-reicher-de-pirchenwart-v-1408-m-1436-author/26093 ;.

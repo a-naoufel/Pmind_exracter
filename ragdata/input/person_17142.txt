@@ -1,0 +1,10 @@
+PERSON: AUDOINUS de Cambrai
+Also known as: Audain de CAMBRAI.
+Description: Procureur de la Nation de France.
+Status: Maître.
+Gender: male.
+Active during: %1412-1412%.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès Arts ..
+University functions: Paris (Nation de France : procureur en ).; Il fait à ce titre partie d’un groupe de douze universitaires, comprenant les quatre procureurs des nations de la Faculté des Arts envoyés à Auxerre par l’Université de Paris à la demande (formulée en juillet ) de CHARLES VI, roi de France pour le conseiller lui et son fils Louis de GUYENNE..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 25/11/2020)..

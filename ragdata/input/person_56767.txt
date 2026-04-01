@@ -1,0 +1,11 @@
+PERSON: STEPHANUS de Manso Aurico
+Also known as: Stephanus de MANSOAURICO.
+Description: Chanoine de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1262-1277%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Mende %1262-1273% ;; Chanoine de Clermont %1264-1277% ;.
+Other ecclesiastical functions: Vicaire de Mende ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/10/2023..

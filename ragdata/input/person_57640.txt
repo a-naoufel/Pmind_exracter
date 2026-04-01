@@ -1,0 +1,7 @@
+PERSON: HELVIDUS
+Also known as: HELVIDUS.
+Description: Relation de Robert de Douai.
+Status: Incertain.
+Gender: male.
+Active during: %1258-1258%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/03/2024..

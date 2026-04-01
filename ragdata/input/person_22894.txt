@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Bacia
+Also known as: Guillermus de BACIA.
+Description: Bourgeois de Paris ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1282-1282%.
+Studied at: ?.
+Social origin: Bourgeois de Paris ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 08/03/2022.

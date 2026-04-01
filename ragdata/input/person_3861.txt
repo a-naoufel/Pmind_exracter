@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Faisseri
+Also known as: Guillelmus FAISSERI; Guillaume FAISSERI.
+Description: Maître ès arts à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1388-1394%.
+Studied at: Paris (Nation de France ?) %:1394-1394%..
+Academic grades obtained: Maître ès arts (Paris) attesté en ;; Étudiant en théologie (Paris) ..
+College affiliation: Boursier théologien au (Collège de Navarre) en ..
+Ecclesiastical status: Clerc du diocèse d'Auxerre ;.
+Ecclesiastical positions held: Candidat à un bénéfice à la collation de l'évêque d'Auxerre, Michel de CRENEY, ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe Genet, 30/04/2022.

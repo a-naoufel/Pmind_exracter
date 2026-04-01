@@ -1,0 +1,11 @@
+PERSON: HENRICUS Bormans
+Also known as: Henricus BORMANS; Henricus BERMANS; Henricus BORNANS.
+Description: Doyen de Saint-Martin de Liège.
+Status: Maître.
+Gender: male.
+Active during: %1450-1471%.
+Diocese of origin: Diocèse de Liège ;.
+Academic grades obtained: Paris ?; Maître ès arts (Paris) ?.
+Ecclesiastical status: Prêtre du diocèse de Liège en ;.
+Ecclesiastical positions held: Recteur de Landen (Sainte-Gertrude) au diocèse de Liège ;; Chanoine de Liège (Saint-Martin) ;; Doyen de Liège (Saint-Martin) ;; Chanoine d’Utrecht ;.
+Source: RAG ;.

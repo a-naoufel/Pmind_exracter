@@ -1,0 +1,11 @@
+PERSON: ALDRICUS Ermengosi
+Also known as: Aldricus ERMENGOSI; Audry ERMENGOS.
+Description: Chanoine d'Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1322-1330%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Metz % -1322% ;; Chanoine d'Amiens %1322-1330% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 26/06/2020)..

@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Peralto
+Also known as: Guillelmus de PERALTO.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1291-1303%.
+Born in: Languedoc ?.
+Studied at: ?.
+Academic grades obtained: Magister.
+Religious order: Dominicain : couvent (dominicain) de Rieux..
+University functions: Morlaas (couvent dominicain : lecteur en théologie, )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 08/04/2022..

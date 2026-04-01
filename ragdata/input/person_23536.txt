@@ -1,0 +1,16 @@
+PERSON: ALEXANDER Gemetencis
+Also known as: Alexander GEMETENCIS; Alexandre de JUMIEGES.
+Description: Abbé de Jumièges.
+Status: Maître.
+Gender: male.
+Active during: %1171-1213%.
+Born in: Normandie ?.
+Studied at: Paris..
+Academic grades obtained: Magister (Paris) ?.
+Academic relationships: Son maître est Petrus COMESTOR, selon le témoignage de Pierre de BLOIS ;.
+Religious order: O.S.B. : moine (bénédictin) de Jumièges en ;.
+Religious functions: Prieur (bénédictin) de Jumièges %1180-1198% ;; Abbé (bénédictin) de Jumièges %1198-1213% ;.
+Authored work: 'Epistula de Filio Hominis', composed around ?.
+Authored work: 'Miracula Sanctorum Pauli, Clari et Cyriaci', composed around ?.
+Authored work: '(Gesta de ROGER Ier, abbé de Jumièges)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 16/07/2018)..

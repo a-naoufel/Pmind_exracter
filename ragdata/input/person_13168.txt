@@ -1,0 +1,12 @@
+PERSON: ARNULPHUS de Fonte
+Also known as: Arnulphus de FONTE; Arnulphus de LAFONTAINE.
+Description: Docteur en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1393-1414%.
+Studied at: Paris %:1393-:1404%..
+Academic grades obtained: Licencié en théologie (Paris) ;; Docteur en théologie (Paris) ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Religious order: O.F.M. : frère franciscain de la province de Bourgogne..
+Religious functions: Ministreprovincial (franciscain) de Bourgogne en (grâce à l'intervention du pape JEAN XXIII)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland, révision, Jean-Philippe Genet 17/11/2020..

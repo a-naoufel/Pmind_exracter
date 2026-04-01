@@ -1,0 +1,7 @@
+PERSON: ALEXANDER de Crèvecoeur
+Also known as: Alexandre de CREVECOEUR.
+Description: Conseiller-lai au Parlement de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1334-1359%.
+Source: http://parismoyenage.fr.

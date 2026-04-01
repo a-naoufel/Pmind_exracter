@@ -1,0 +1,10 @@
+PERSON: PHILIPPUS Le Mesnier
+Also known as: Philippus LE MESNIER.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en ?.
+Family relationships: Il est peut-être le parent d'Andreas LE MESNIER qui s'acquitte de la contribution en même temps que lui..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/08/2015..

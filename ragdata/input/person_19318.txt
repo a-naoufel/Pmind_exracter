@@ -1,0 +1,8 @@
+PERSON: BERTRANDUS de Longueville
+Also known as: Bertrand de LONGUEVILLE.
+Description: ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1403-1403%.
+Studied at: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 16/03/2016)..

@@ -1,0 +1,12 @@
+PERSON: GALFREDUS Des Temeres
+Also known as: Gauffridus des TEMERES.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1403-1403%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse d’Évreux ;.
+Studied at: Paris (Nation de Normandie) ..
+Academic grades obtained: Maître ès arts (Paris) en ;.
+Ecclesiastical positions held: Candidat à un bénéfice ecclésiastique sur le rotulus de l’université de Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 12/08/2022..

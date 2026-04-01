@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS Anglicus 5
+Also known as: Guillelmus ANGLICUS; Guillelmus ANGLICI; Guillaume ANGLICUS.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1364-1379%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris (Nation de Normandie ?) %1364-1379%..
+Academic grades obtained: Maître ès arts (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ;; Étudiant en théologie (Paris) %1370-1379%..
+Ecclesiastical status: Prêtre du diocèse de Rouen, ? ;.
+Ecclesiastical positions held: Candidat à un canonicat d'Amiens, ;; Chanoine d'Amiens..
+University functions: Paris (Université : en tant que licencié en médecine, il a participé en (9 janvier) à la délibération à la suite de laquelle Hebertus de SARCELLIS, doyendela Faculté de Décret répond à la question posée par Petrus de MONTIBUS, doyendela Faculté de Medecine : un licencié en médecine, s'il devient prêtre, peut-il devenir maître et enseigner à la Faculté ?) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 11/05/2025..

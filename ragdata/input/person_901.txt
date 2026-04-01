@@ -1,0 +1,9 @@
+PERSON: ARNALDUS de Uzia
+Also known as: Arnaldus de UZIA; Arnaud DUESE; Arnaud d'EUSE.
+Description: Vicomte de Caraman.
+Status: Extérieur.
+Gender: male.
+Active during: %1321-1352%.
+Family relationships: Son frère est le pape JEAN XXII. Sa femme est Marguerite de L'ISLE-JOURDAIN. Son fils est Arnaud II, vicomte de CARAMAN ; Son fils est le Cardinal Jean de CARAMAN..
+Social origin: Noble : vicomte de Caraman, seigneur de Nègrepelisse, seigneur de Saint-Félix..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe GENET 7/11/2020)..

@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Pictaviensis
+Also known as: Guillelmus PICTAVIENSIS; Guillaume de POITIERS.
+Description: Amauricien.
+Status: Maître.
+Gender: male.
+Active during: %:1210-1210%.
+Studied at: Paris %:1210-1210%..
+Academic grades obtained: Magister (Paris) avant ?; Étudiant en théologie (Paris) ;.
+Academic relationships: Son maître est Amaury de BENE..
+Ecclesiastical status: Sous-diacre..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/12/2015)..

@@ -1,0 +1,11 @@
+PERSON: GALOTUS de Montereau
+Also known as: Galotus de MONTEREAU; Galeotus de MONTEREAU.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1498-1498%.
+Born in: Orléanais ?.
+Diocese of origin: Diocèse de Chartres..
+Studied at: Paris %1498-1498%..
+Academic grades obtained: Bachelier en décret (Paris) 20 décembre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 30/10/2021..

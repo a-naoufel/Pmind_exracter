@@ -1,0 +1,41 @@
+PERSON: ROBERTUS Cenalis
+Also known as: Robertus CENALIS; Robert CENEAU.
+Description: Évêque d’Avranches.
+Status: Maître.
+Gender: male.
+Active during: %1498-1560.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris..
+Studied at: Paris (Nation de France)..
+Academic grades obtained: Maître ès arts (Paris) avant .; Licencié en théologie (Paris) (26 janvier) ;; Maître en théologie (Paris) (5 avril) ;.
+College affiliation: Collège de Montaigu : étudiant ès arts ;; Collège de Montaigu : maître-régent en grammaire %1502-1505% ;; Collège de Montaigu : maître-régent ès arts %1505-1512% ;; Collège de Sorbonne : hôte ;; Collège de Sorbonne : socius ;.
+Family relationships: Son frère est Philibert CENEAU, vicomte de Saint-Philibert-sur-Risle ; Son frère est Cloud CENEAU, maître en théologie ;.
+Academic relationships: Son maître est John MAIR au Collège de Montaigu..
+Social origin: Noble ;.
+Ecclesiastical positions held: Candidat au moins sept fois à des bénéfices à la collation de l’université de Paris entre et ;; Chanoine de Soissons ;; Évêque de Vence %1523-1530% ;; Évêque de Riez %1530-1532% ;; Évêque de Riez %1532-1560% ;.
+University functions: Paris (Faculté des Arts : Maître-régent au collège de Montaigu %1502-1512%) ;; Paris (Nation de France : procureur ).; Paris (Université : recteur ) ;.
+Representation roles: Participe au concile de Trente, où il n’arrive qu’en (septembre), le concile siégeant alors à Bologne et y reste jusqu’à (juillet)..
+Authored work: 'Joannis Majoris doctoris theologi In quartum Sententiarum quaestiones utilissimae suprema ipsius lucubratione enucleatae cum duplici tabella, videlicet alphabetica materiam decisarum in fronte, quaestionum in calce', composed around ?.
+Authored work: 'Axioma catholicum, seu Institutio christiana, qua asseritur probatur praesentia Corporis Christi in Eucharistia, adversus Bucerum Berengarianae haeresis instauratorem, aeditum a reverendo in Christo patre domino Roberto Abrincensi episcopo', composed around ?.
+Authored work: 'Epistola nuncupatoria, in libellum Axiomatis catholici seu Institutionis christianae, adversus Bucerum', composed around ;.
+Authored work: 'Missale ad usum Abrincense', composed around ..
+Authored work: 'Appendix ad coenam dominicam per reverendum patrem Robertum episcopum Abricensem (R. Coenalem) … Tria autem hic habentur : primum, ad Buceranam defensionem, seu verius offensionem, pro parte catholicorum responsio. Secundo, argutiarum quas contra corporis Christi in Eucharistia presentiam excogitarunt heretici dilutio. Tertio, axioma catholicum, quo statuitur non esse necessarium laïco sub utraque specie hujus sacramenti communicationem', composed around ., dedicated to Dédié à FRANÇOIS Ier, roi de France..
+Authored work: 'Manuale Abrincensis', composed around ..
+Authored work: 'De matrimonio Mosaico, per legem Evangelicam refutato axioma, reverendo in Christo patre, Roberto Senali, divina clementia episcopo Abrincensi... authore', composed around ..
+Authored work: 'Pro tuendo sacro coelibatu axioma catholicum : authore reverendo in Christo patre Roberto, Arboricensi Præsule, doctore ordine origine Parisiensi', composed around ..
+Authored work: 'De utriusque gladii facultate, usuque legitimo, axioma catholicum : authore Reverendo in Christo patre D. Roberto, divina clementia arboricensi praesule, doctore theologo et ordine et origine parisiensi Adjecta est methodus quaedam apologetica, super comprimenda haereticorum ferocia ad D. Franciscum Baptistam Candelarium, aulae Rothomagensis Palatinae senatorem, jurisconsultissimorum aequissimum eodem authore', composed around ..
+Authored work: 'Antidotum ad postulata de [Interim # ] authore reverendo in Christo patre D. Roberto, divina clementia episcopo Abrincatensi, theologo doctore, ordine origine Parisiensi', composed around ..
+Authored work: '[Epistola ad auctorem]', composed around ;, dedicated to Adressé à Antonius SOLERIO..
+Authored work: 'Synodales constitutiones Arboricensis, alias Abrincensis', composed around ..
+Authored work: 'Traductio larvae sycophanticae petulantissimaeque impietatis Calvinicae, in tres partita tomos, authore reverendo in Christo patre Roberto, Arboricensium praesule...', composed around ..
+Authored work: 'Adversus quendam mali ominis, nullius vero, quod sciri, possit nominis, apologastrum in causa tenebrionum haereticorum, qui hodie cristas erigere coeperunt justa querimonia, opus recens excusum, authore... Roberto Coenali...', composed around ..
+Authored work: 'Ad sacramentariorum hujus saeculi haereticorum cervicosam ac malesonam petulantiam evertendam praesentissima Antidotus …', composed around ..
+Authored work: 'De Colloquiis commiscendis cum ecclesiae catholicae hostibus axioma', composed around ..
+Authored work: 'Liber prioris posteriorisque resolutionis cum tractatu de futuris contingentibus editus a magistro Roberto de Cenali,... adjectis nonnullis questionibus posterioristicis magistri Petre de Alliaco', composed around ?.
+Authored work: 'Tractatus terminorum', composed around ?.
+Authored work: 'De liquidorum leguminumque mensuris, ex variis Sacrae Scripturae et authorum veterum ac recentiorum locis congestae observantionculae', composed around ?.
+Authored work: 'Roberti Cœnalis,... episcopi Arboricensis,... Gallica historia, in duos dissecta tomos : quorum prior ad anthropologiam Gallici principatus, posterior ad soli chorographiam pertinet... Accessit appendix commodissima insigniorum Galliæ locorum necnon fluminum...', composed around ..
+Authored work: 'Arboricae seu hierarchia Arboretana in quinque deducta tomos', composed around ?.
+Authored work: 'De Gallica hierarchia ejusque origine primaeva', composed around ?.
+Authored work: 'Loraison de la paix faicte et prononcee a Cambray le .ixe. Daoust Mil cinq cens vingt neuf, par reverend pere en dieu Robert, evesque de Vance', composed around ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 16/12/2023..

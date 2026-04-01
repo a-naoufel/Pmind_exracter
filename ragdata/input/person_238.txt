@@ -1,0 +1,7 @@
+PERSON: AGATHA la Maresqualle
+Also known as: Agatha la MARESQUALLE; Agace la MARESCHALE.
+Description: Propriétaire d’une maison.
+Status: Extérieur.
+Gender: female.
+Active during: %1286-1298%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

@@ -1,0 +1,11 @@
+PERSON: GALTERIUS de Alliaco
+Also known as: Galterus de ALLIACO; Gauthier d'AILLY.
+Description: ?Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1300-1300%.
+Studied at: ?Paris..
+Academic grades obtained: Maître ès arts (Paris)..
+Authored work: 'Sophisma I', composed around ?.
+Authored work: 'Sophisma II', composed around ?.
+Source: MIRABILE : http://www.mirabileweb.it/author/galterius-de-alliaco-saec-xiv-author/2021 ;.

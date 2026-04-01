@@ -1,0 +1,7 @@
+PERSON: GALFREDUS Le Metoier
+Also known as: Gauffridus LE METTAYER; Gauffridus LE METOIER.
+Description: Serviteur de la reine de Sicile.
+Status: Extérieur.
+Gender: male.
+Active during: %1395-1402%.
+Ecclesiastical positions held: Clerc..

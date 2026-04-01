@@ -1,0 +1,9 @@
+PERSON: ADOLPHUS de Anchermont
+Also known as: Adolphus de ANCHERMONT; Adam de ANGERMONT.
+Description: Maître ès arts..
+Status: Maître.
+Gender: male.
+Active during: %1333-1352%.
+Studied at: Paris (Nation Anglo-allemande) %1333-1352%..
+Academic grades obtained: Licencié ès arts (Paris) ;; Maître ès arts (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 14/04/2020..

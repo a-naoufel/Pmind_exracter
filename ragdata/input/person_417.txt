@@ -1,0 +1,11 @@
+PERSON: ALBERTUS de Patavia
+Also known as: Albertus de PATAVIA.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1359-1359%.
+Born in: Pays-Bas ?.
+Studied at: ?Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Licencié ès arts (Paris) .; Maître ès arts (Paris) ..
+Academic relationships: Son maître est Artolfus de LAUTERBACH..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/06/2020)..

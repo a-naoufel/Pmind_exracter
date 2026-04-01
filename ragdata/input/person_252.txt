@@ -1,0 +1,10 @@
+PERSON: ALANUS Blanchet
+Also known as: Alain BLANCHET.
+Description: Médecin.
+Status: Incertain.
+Gender: male.
+Active during: %1459-1459%.
+Studied at: ?.
+Academic grades obtained: ?Maître en médecine..
+Authored work: 'Petit traictié contre pestillence', composed around ? ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux, dernière mise à jour 17/07/2015)..

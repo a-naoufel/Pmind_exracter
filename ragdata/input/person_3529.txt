@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Rogier
+Also known as: Guillaume ROGIER.
+Description: Étudiant en médecine.
+Status: Étudiant.
+Gender: male.
+Active during: %1499-1516%.
+Studied at: Paris..
+Academic grades obtained: Étudiant en médecine ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 28/05/2022..

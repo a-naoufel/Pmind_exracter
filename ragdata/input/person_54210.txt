@@ -1,0 +1,14 @@
+PERSON: PETRUS de Villa 2
+Also known as: Petrus de VILLA.
+Description: Trésorier de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1447-1470%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Sens ?.
+Studied at: ?.
+Academic grades obtained: Bachelier en droit canon ;; Licencié en droit civil ;.
+Family relationships: Son frère est Martial de VILLA, chanoine de Sens ;.
+Ecclesiastical status: Diacre à Paris ;.
+Other ecclesiastical functions: Chanoine de Sens %1448-1470% ;; Trésorier de Sens %1448-1470% ;; Prieur de Nemours (Saint-Jean) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 15/09/2022..

@@ -1,0 +1,10 @@
+PERSON: ANDREAS Glaync
+Also known as: Andreas GLAYNC.
+Description: Procureur de la nation anglo-allemande.
+Status: Maître.
+Gender: male.
+Active during: %1394-1396%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: B.A. (P) .; L.A. (P) .; M.A. (P) ..
+Academic relationships: Son maître est Egidius de JUTFAES..
+University functions: Paris (Nation Anglo-allemande : procureur en )..

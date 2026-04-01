@@ -1,0 +1,12 @@
+PERSON: NICOLAUS Parisiensis 2
+Also known as: Nicolaus PARISIENSIS; Nicolas de PARIS.
+Description: Maître en décret.
+Status: Maître.
+Gender: male.
+Active during: %1254-1263%.
+Born in: Ile-de-France (Paris ?) ?.
+Diocese of origin: Diocèse de Paris ?.
+Studied at: Paris ?.
+Academic grades obtained: Maître en décret (Paris) ?.
+University functions: Paris (Faculté des Décret : Maître-régent à Paris en %1254-1263% ?) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/05/2025..

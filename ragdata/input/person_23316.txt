@@ -1,0 +1,7 @@
+PERSON: X Drouet
+Also known as: DROUET.
+Description: Barbier.
+Status: Extérieur.
+Gender: male.
+Active during: %1433-1433%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 8/05/2018)..

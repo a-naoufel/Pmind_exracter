@@ -1,0 +1,12 @@
+PERSON: THOMAS Fortin 1
+Also known as: Thomas FORTIN.
+Description: Vicaire général d’Évreux.
+Status: Gradué.
+Gender: male.
+Active during: %1436-1458%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Coutances ?.
+Studied at: Paris.
+Academic grades obtained: Bachelier en décret (Paris) ;.
+Other ecclesiastical functions: Vicairegénéral d’Évreux ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/02/2023)..

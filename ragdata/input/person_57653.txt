@@ -1,0 +1,11 @@
+PERSON: HUGO Januensis
+Also known as: Hugo JANUENSIS.
+Description: Maître ?.
+Status: Maître.
+Gender: male.
+Active during: %1175-1175%.
+Born in: Italie (Ligurie : Gênes) ?.
+Diocese of origin: Diocèse de Gênes ?.
+Studied at: Paris ?.
+Academic grades obtained: Maître ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/03/2024..

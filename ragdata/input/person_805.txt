@@ -1,0 +1,10 @@
+PERSON: ANTHONIUS de Monte Sancti Eligii
+Also known as: Antoine du MONTSAINT-ELOI; Antoine de MONTE SANCTI ELIGII; Antoine du MONT SAINT ELOY.
+Description: Médecin.
+Status: Maître.
+Gender: male.
+Active during: %1491-1508%.
+Studied at: Paris %1491-1500%.
+Academic grades obtained: Étudiant en médecine (Paris) %1491-1492% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+University functions: Maîtrerégent de la facultédemédecine de Paris en %1500-1501%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; Jean-Philippe Genet, dernière mise à jour 28/09/2020)..

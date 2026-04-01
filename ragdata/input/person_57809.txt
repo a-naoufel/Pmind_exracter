@@ -1,0 +1,12 @@
+PERSON: THOMAS 5
+Also known as: THOMAS.
+Description: Évêque de Finlande.
+Status: Étudiant.
+Gender: male.
+Active during: %1230-1248%.
+Studied at: Paris vers ..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins) ;.
+Religious order: O.P. : frère dominicain..
+Ecclesiastical positions held: Évêque de Finlande %1234-1245% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 2/04/2021)..

@@ -1,0 +1,16 @@
+PERSON: FRANCISCUS de Busleyden
+Also known as: Francois de BUSLEYDEN.
+Description: Archevêque de Besançon.
+Status: Maître.
+Gender: male.
+Active during: %1468-1502%.
+Born in: Lorraine belge (Arlon) ;.
+Diocese of origin: Diocèse de Trèves ?.
+Studied at: Cologne ;; Dole ;; Paris (%1471-1473%) où il entre au Collège d'Italie ;; Pérouse ;; Rome %1473-1478% ;; Louvain .; Padoue ?.
+Academic grades obtained: Bachelier ès arts (Cologne) ;; Maître ès arts (Paris) ?; Etudiant en théologie (Paris) %1471-1473% ;; Docteur en droit canon (Pérouse) ;; Docteur in utroque jure ;.
+Family relationships: Son père est Gilles de BUSLEYDEN, bourgeois d’Arlon ; Sa mère est Jeanne MUSSET ; Son frère est Jérôme de BUSLEYDEN ; Son frère est Valère de BUSLEYDEN ;.
+Social origin: Noble ?.
+Ecclesiastical positions held: Curé d’Arlon (Saint-Martin) ;; Chanoine de Liège %1483-1485% ;; Archidiacre de Liège ;; Chanoine de Mons (Saint-Waudru) %1488-1497% ;; Prévôt de Hoogarden (Saint-Georges) %1488-1499% ;; Chanoine de Trèves (Saint-Siméon) ;; Chanoine d'Anderlecht (Saint-Pierre) %1490-1499%;; Chanoine de Malines (Saint-Rombaut) ;; Prévôt de Bruges (Saint-Donatien) %1490-1499% ;; Chanoine de Cambrai %1492-1502 ;; Chanoine de Bruxelles (Sainte-Gudule) %1492-1499% ;; Trésorier de Bruxelles (Sainte-Gudule) %1497-1499% ;; Doyen d'Anvers ;; Chanoine de Hoogarden (Saint-Georges) ;; Archevêque de Besancon %1498-1502% ;; Evêché de Coria (administrateur) %1501-1502% ;.
+Representation roles: Missions diplomatiques pour la papauté en France à Paris, en Espagne à Granada et auprès de Maximilien d'AUTRICHE..
+Authored work: 'Oratio in funere Leonardi de Robora', composed around ?.
+Source: Notice de Samuel Lucas : http://www.freewebs.com/busleyden/.

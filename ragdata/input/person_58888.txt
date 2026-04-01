@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Regna
+Also known as: Guillelmus de REGNA; Guillelmus de RAYNE.
+Description: Chanoine de Chalon.
+Status: Incertain.
+Gender: male.
+Active during: %1456-1500%.
+Studied at: ?.
+Academic grades obtained: Maître ès art ;.
+Ecclesiastical positions held: Chanoine de Chalon-sur-Saône %1456-1500% ;; Recteur de Saint-Maurice-en-Rivière ;; Prévôt de Chalon-sur-Saône ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/05/2025..

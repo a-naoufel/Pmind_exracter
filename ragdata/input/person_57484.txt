@@ -1,0 +1,12 @@
+PERSON: PETRUS Cornubiensis 3
+Also known as: Petrus CORNUBIENSIS.
+Description: Procureur de la Nation Anglo-allemande.
+Status: Maître.
+Gender: male.
+Active during: %1267-1267%.
+Born in: Angleterre (Cornouaille) ;.
+Diocese of origin: Diocèse d’Exeter ?.
+Studied at: Paris (Nation Anglo-allemande) en ..
+Academic grades obtained: Maître ès arts (Paris)..
+University functions: Paris (Nation Anglo-allemande : procureur en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/02/2024)..

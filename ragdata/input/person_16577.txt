@@ -1,0 +1,10 @@
+PERSON: REGINALDUS d'Orléans
+Also known as: Renaud d'ORLEANS.
+Description: Maître en décret.
+Status: Maître.
+Gender: male.
+Active during: %1205-1211%.
+Studied at: Paris %:1205-1211%..
+Academic grades obtained: Maître Décret (Paris) ?..
+Religious order: Dominicain ?.
+University functions: Maître en décret de Paris, %1205-1211%..

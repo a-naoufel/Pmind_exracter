@@ -1,0 +1,11 @@
+PERSON: GUARNACIUS
+Also known as: GUARNACIUS; GARNIER.
+Description: Chanoine de Trévise.
+Status: Extérieur.
+Gender: male.
+Active during: %1238-1238%.
+Born in: Italie ?.
+Studied at: ?.
+Academic grades obtained: Magister.
+Ecclesiastical positions held: Chanoine de Trévise en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/01/2022..

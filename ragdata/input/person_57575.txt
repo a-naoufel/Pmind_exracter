@@ -1,0 +1,10 @@
+PERSON: R. de Remis
+Also known as: R. de REMIS.
+Description: Chanoine de Notre-Dame de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1216-1216%.
+Studied at: ?.
+Academic grades obtained: Maître ?.
+Ecclesiastical positions held: Chanoine de Paris (Notre-Dame) en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/02/2024)..

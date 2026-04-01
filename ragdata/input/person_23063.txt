@@ -1,0 +1,10 @@
+PERSON: ODO de Bella Valle
+Also known as: Odo de BELLAVALLE.
+Description: Clericus.
+Status: Maître.
+Gender: male.
+Active during: %1266-1267%.
+Studied at: Paris %1266-1267% ;.
+Academic grades obtained: Magister (Paris ?) ;.
+Ecclesiastical status: Clerc..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 27/11/2023)..

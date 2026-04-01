@@ -1,0 +1,15 @@
+PERSON: BALDUINUS de Momardin
+Also known as: Balduinus de MOMARDIN.
+Description: Étudiant ès arts.
+Status: Étudiant.
+Gender: male.
+Active during: %1391-1391%.
+Born in: Liège ?.
+Diocese of origin: Diocèse de Liège ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant ès arts..
+Family relationships: Son père est Balduinus de MOMARDIN, chevalier de Liège..
+Social origin: Noble..
+Ecclesiastical status: Clerc du diocèse de Paris..
+Ecclesiastical positions held: Supplique en pour un canonicat avec expectative de prébende ou un office dans l'église de Liège..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 29/11/2020)..

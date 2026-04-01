@@ -1,0 +1,12 @@
+PERSON: FORTUNATUS de Guarenne
+Also known as: Fortuné GUARENNE; Fortunatus de GUARENNE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1505-1513%.
+Born in: Aquitaine.
+Diocese of origin: Diocèse de Lescar ;.
+Studied at: Paris (Nation de France) %1505-1513%..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en théologie (Paris) %1510-1513%..
+College affiliation: Etudiant au collège de LaMarche ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 17/08/2021)..

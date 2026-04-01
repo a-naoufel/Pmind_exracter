@@ -1,0 +1,8 @@
+PERSON: AEGIDIUS Le Fournier
+Also known as: Aegidius LE FOURNIER.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris .; Étudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 05/05/2020)..

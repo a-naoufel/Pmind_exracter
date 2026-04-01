@@ -1,0 +1,9 @@
+PERSON: GUILLELMA d'Aunay
+Also known as: GUILLELMA; Guillemette d'AUNAY.
+Description: Abbesse de Saint-Antoine-des-Champs.
+Status: Extérieur.
+Gender: female.
+Active during: %1255-1256%.
+Religious functions: Abbesse (cistercienne) de Paris (Saint-Antoine-des-Champs) %1255-1256%..
+Ecclesiastical positions held: O. Cist..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 06/02/2022..

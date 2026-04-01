@@ -1,0 +1,13 @@
+PERSON: ERNESTUS de Saxonia
+Also known as: Ernestus de SAXONIA.
+Description: Carme.
+Status: Maître.
+Gender: male.
+Active during: %1330-1345%.
+Born in: Saxe ?.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) ?.
+College affiliation: Couvent (carme) de Paris..
+Religious order: O.Carm. : frère de la province (carme) d’Allemagneinférieure..
+University functions: Paris (Faculté de Théologie : 23e maître-régent de l’école des Carmes)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 1/02/2021)..

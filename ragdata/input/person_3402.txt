@@ -1,0 +1,9 @@
+PERSON: GUIDO de Francavilla
+Also known as: Guido de FRANCAVILLA.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant (Paris) %1329-1330% ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 26/11/2019..

@@ -1,0 +1,13 @@
+PERSON: FIRMINUS Balehache
+Also known as: Firminus BALEHACHE.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1387-1387%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse d'Amiens..
+Studied at: Paris (Nation de Picardie ?) ..
+Academic grades obtained: Étudiant en décret (Paris) ;.
+College affiliation: Collège des Cholets : "serviteur" du Collège..
+Ecclesiastical positions held: Supplique pour un bénéfice ecclésiastique à la collation du doyen et du chapitre de l'églisecollégiale d'Abbeville (Saint-Wulfran) sur le rotulus du Collège des Cholets qu'il a écrit lui-même "de officio tabellionatus" en (31 juillet) ;; Provision en (3-6 août) pour un bénéfice ecclésiastique à la collation du doyen et du chapitre de l'églisecollégiale d'Abbeville (Saint-Wulfran) en réponse à un rotulus présenté par Julienne DUGUESCLIN, abbesse de Rennes (Saint-Georges) : mandat à l'Official de Paris ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 24/06/2021..

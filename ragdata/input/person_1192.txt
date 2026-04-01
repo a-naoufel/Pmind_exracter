@@ -1,0 +1,43 @@
+PERSON: BARTHOLOMAEUS de Brugis
+Also known as: Bartholomaeus de BRUGIS; Barthélemy de BRUGES.
+Description: Médecin.
+Status: Maître.
+Gender: male.
+Active during: %1307-1356%.
+Born in: Flandres (Bruges)..
+Diocese of origin: Diocèse de Tournai..
+Studied at: Paris (Nation de Picardie) %:1307:-:1309:%.; Montpellier ..
+Academic grades obtained: Maître ès arts (Paris) ;; Maître en médecine (Paris)..
+College affiliation: Collège de Sorbonne : socius à (Paris), ;.
+Ecclesiastical positions held: Chapelainperpétuel de Vieux-Ville (Diocèse de Liège) ;; Chanoine d'Andenne (Collégiale Sainte-Benne) ;; Chanoine de Cambrai %1331-1356%..
+University functions: Paris (Faculté de Médecine : Maîtrerégent, %1307-1309%) ;; Montpellier (Faculté de Médecine : Maîtrerégent en ;.
+Authored work: 'Quaestiones logicales', composed around ?.
+Authored work: 'Sophisma de intellectu vel de intelligentia', composed around ?.
+Authored work: 'Sophisma de subjecto logicae', composed around ?.
+Authored work: 'Sophisma de relatione', composed around ?.
+Authored work: 'Sophisma de affatu', composed around ?.
+Authored work: 'Quaestio de sensu agente', composed around %1307-1309%..
+Authored work: 'Quaestio de specie intelligibili', composed around ?.
+Authored work: 'Brevis expositio super Poeticam Aristotelis', composed around .
+Authored work: 'De Anima', composed around .
+Authored work: 'Meteora', composed around .
+Authored work: 'Quaestiones supra librum Physicorum', composed around %1307-1308%.
+Authored work: 'Quaestiones super de Generatione et Corruptione', composed around ?.
+Authored work: 'Expositio supra librum de inundatione Nili', composed around , dedicated to Dédié à Hannibaldus de CECCANO..
+Authored work: 'Brevis expositio super libellum de inundatione Nili', composed around ?.
+Authored work: 'Comm. in Aphorismos Hippocratis', composed around ?.
+Authored work: 'Comm. in Prognosticon Hippocratis', composed around ?.
+Authored work: 'De regimine acutorum morborum', composed around ?.
+Authored work: 'Comm. in Philareti librum de pulsibus', composed around ?.
+Authored work: 'Comm. in Theophili librum de urina', composed around ?.
+Authored work: 'Comm. in Artem Galeni', composed around ?.
+Authored work: 'Comm. in Tegna Galeni', composed around ?.
+Authored work: 'Dicta super Prognostica', composed around ?.
+Authored work: 'Commentarium et quaestiones super primum canonem Avicennae', composed around ?.
+Authored work: 'Tract. de epidymia', composed around .
+Authored work: 'Comm. in Isagogas Johannitii', composed around ?.
+Authored work: 'Expositio supra librum Oeconomicae', composed around ;, dedicated to Écrit à la demande d' Annibald GAETANI de CECCANO, chanoine d'Arras et ouvrage qui lui est dédié en ..
+Authored work: 'Quaestiones supra librum Oeconomicae', composed around , dedicated to Ecrit à la demande d' Hannibaldus de CECCANO, chanoine d'Arras, cet ouvrage lui est dédié en ;.
+Authored work: 'Conclusiones libri Oeconomicae', composed around ?.
+Authored work: 'Notule in Ysagogas Johannicii', composed around %1301-1400%.
+Source: MIRABILE, Alessia SCUOR :.

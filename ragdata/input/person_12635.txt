@@ -1,0 +1,12 @@
+PERSON: PETRUS Grenier
+Also known as: Petrus GRENIER.
+Description: Bachelier en droit canon.
+Status: Gradué.
+Gender: male.
+Active during: %1436-1436%.
+Born in: Normandie ?.
+Studied at: Paris %1436-1436%..
+Academic grades obtained: Bachelier en décret (Paris) (le 13 décembre) ..
+Religious order: O.S.B. : moine (bénédictin) du monastère de Saint-Wandrille (diocèse de Rouen) ;.
+University functions: Lecteur des Décrétales (1er cours) à Paris le 20 décembre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 17/03/2024..

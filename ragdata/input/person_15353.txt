@@ -1,0 +1,21 @@
+PERSON: RICARDUS de Mores
+Also known as: Richard de MORES; Ricardus ANGLICUS; Ricardus ADAGONITSA.
+Description: Prieur de Dunstable.
+Status: Maître.
+Gender: male.
+Active during: %1182-1242%.
+Born in: Angleterre..
+Studied at: Paris avant %1196-1191% puis en ;; Bologne avant ..
+Academic grades obtained: Magister (Paris) ;; Étudiant en théologie (Paris) ..
+Religious order: O.S.A. : chanoine augustin ;.
+Religious functions: Prieur du prieuré (augustin) de Dunstable..
+University functions: Paris (Magister enseignant le droit canon, %1186-1191%).; Bologne (professeur avant ) ;.
+Authored work: 'Apparatus ad compilationem primam', composed around ?.
+Authored work: 'Casus ad compilationem primam', composed around ?.
+Authored work: 'Brocarda', composed around ?.
+Authored work: 'Distinctiones Decretorum Gratiani', composed around ?.
+Authored work: 'Summa brevis super Decreta Gratiani', composed around ?.
+Authored work: 'Ordo iudicarius', composed around ?.
+Authored work: 'Summa quaestionum', composed around %1186-1191% à Paris..
+Authored work: 'Annales prioratus de Dunstaplia', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

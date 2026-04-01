@@ -1,0 +1,16 @@
+PERSON: GUILLELMUS de Matiscone 1
+Also known as: Guillelmus de MATISCONE; Guillelmus de MACON.
+Description: Évêque d’Amiens.
+Status: Maître.
+Gender: male.
+Active during: %1249-1308%.
+Born in: Bourgogne (Mâcon) ;.
+Diocese of origin: Diocèse de Mâcon ;.
+Studied at: Paris avant ;; Bologne..
+Academic grades obtained: Maître ès arts (Paris) ;; DCL (Bologne) ;; DCnL (Bologne) ;.
+Family relationships: Son neveu est Guillermus de MATISCONE, chanoine de Mâcon ; Son cousin est Nicolas de PARIS, maître en théologie ; Son parent est Stephanus de MATISCONE, chanoine de Mâcon ;.
+Ecclesiastical positions held: Chanoine de Lille (Saint-Pierre) ?; Chanoine de Mâcon %1259-1278% ;; Chanoine de Beauvais %1263-1267% ;; Chanoine de Laon %1267-1272% et %1275-1278% ;; Doyen de Laon %1266-1272% ;; Archidiacre d’Amiens %1275-1278% ;; Évêque d’Amiens %1278-1308%..
+University functions: Paris (Université : il est chargé avec Raymond d’AUBEROCHE évêque de Périgueux et Henri de GAND par le Cardinal Geoffroy de BAR au nom du pape MARTIN IV d’arbitrer le conflit entre les étudiants et les maîtres de l’Université de Paris et le chancelier de Paris) ;.
+Representation roles: Envoyé de PHILIPPE III, roi de France au Pape NICOLAS III en ;; Envoyé de PHILIPPE III, roi de France au Pape MARTIN IV en ;; Ambassadeur de PHILIPPE IV, roi de France à ÉDOUARD I, roi d’Angleterre en ;; Chargé de mener les négociations de paix entre la France et l’Angleterre en ;.
+Authored work: 'De disputationibus cum fratris Praedicantibus et Minoribus quantum ad privilegium in foro poenitentae eis datum', composed around ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, dernière mise à jour Jean-Philippe Genet, 4/04/2020..

@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Baudeti
+Also known as: Guillelmus BAUDETI; Guillermus BAUDETI.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1486-1486%.
+Studied at: Paris %1486-1486%..
+Academic grades obtained: Bachelier en décret (Paris) 20 décembre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 21/02/2022..

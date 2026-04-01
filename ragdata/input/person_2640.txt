@@ -1,0 +1,10 @@
+PERSON: GALTERIUS de Ongione
+Also known as: Galterus de ONGIONE; Gautier de ONGIONE.
+Description: Boursier grammairien au collège de Navarre..
+Status: Étudiant.
+Gender: male.
+Active during: %1350-1350%.
+Studied at: Paris (Collège de Navarre) %1350-1350%..
+Academic grades obtained: Étudiant en grammaire (Paris) ..
+College affiliation: Collège de Navarre : boursier grammairien en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 13/11/2021..

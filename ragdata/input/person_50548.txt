@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Bonetus
+Also known as: Guillelmus BONETUS.
+Description: Évêque de Bayeux.
+Status: Incertain.
+Gender: male.
+Active during: %1305-1312%.
+Born in: Anjou-Maine ?.
+Diocese of origin: Diocèse d’Angers..
+Studied at: ?.
+Academic grades obtained: ?.
+College affiliation: Collège de Bayeux : fondateur..
+Ecclesiastical positions held: Trésorier d’Angers % -1312% ;; Évêque de Bayeux %1305-1312% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 06/02/2020..

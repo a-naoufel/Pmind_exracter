@@ -1,0 +1,12 @@
+PERSON: BERTRANDUS 3
+Also known as: BERTRANDUS.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1272-1273%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant en théologie (Paris) %1272-1273% ?.
+College affiliation: Couvent ds Jacobins ?.
+Religious order: O.P. : frère dominicain.
+Authored work: '(Sermon)', composed around %1272-1273%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/03/2015).

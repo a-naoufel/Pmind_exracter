@@ -1,0 +1,13 @@
+PERSON: GILBERTUS de Segrave
+Also known as: Gilbert de SEGRAVE.
+Description: Évêque de Londres.
+Status: Extérieur.
+Gender: male.
+Active during: %1279-1316%.
+Born in: Angleterre..
+Studied at: Cambridge..
+Academic grades obtained: Magister av. ;; Docteur en droit canon..
+Social origin: Noble : son père est Nicholas, Lord SEGRAVE..
+Ecclesiastical positions held: Recteur de Kegworth (Leicestershire) %1279- % ;; Recteur de Aylestone (Leicestershire) %1293-1296% ;; Recteur de Fenstanton (Huntingdonshire) %1293-1313% ;; Chanoine de Londres (St.Paul) %1301-1313% ;; Recteur de Penn (Buckinghamshire) % -1301% ;; Chanoine de Lincoln %1302-1313% ;; Chanoine de Hereford %1304-1313% ;; Precentor de Londres %1306-1313% ;; Evêque de Londres %1313-1316%..
+University functions: Cambridge (Université : chancelier %1292-1293%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/01/2022..

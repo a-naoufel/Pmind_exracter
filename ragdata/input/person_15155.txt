@@ -1,0 +1,9 @@
+PERSON: PETRUS de Voutenay
+Also known as: Petrus de VOUTENAY; Pierre de VOUTENAY.
+Description: Chirurgien..
+Status: Maître.
+Gender: male.
+Active during: %1464-1471%.
+Studied at: Paris %1464-1464%..
+Academic grades obtained: Maître (Paris) en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 7/08/2016..

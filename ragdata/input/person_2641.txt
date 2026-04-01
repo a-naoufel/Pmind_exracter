@@ -1,0 +1,17 @@
+PERSON: GALTERIUS de Sancto Victore
+Also known as: Galterus de SANCTO VICTORE; Gauthier de SAINT-VICTOR.
+Description: Chanoine régulier de Saint-Victor.
+Status: Maître.
+Gender: male.
+Active during: %1162-1180%.
+Born in: Angleterre ?.
+Studied at: Paris..
+Academic grades obtained: Magister..
+College affiliation: Saint-Victor..
+Religious order: O.S.A. : chanoinerégulier de Paris (St-Victor)..
+Religious functions: Prieur de Paris (St-Victor) %1173-1180%..
+Authored work: 'Quaestiones et decisiones in epistolas Pauli', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Sermo de supercellenti baptismo Christi', composed around ?.
+Authored work: 'Contre quattuor laborynthos Franciae', composed around ?.
+Source: MIRABILE :.

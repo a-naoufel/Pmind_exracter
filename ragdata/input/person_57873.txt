@@ -1,0 +1,10 @@
+PERSON: HUGO de Chapalet
+Also known as: Huguet de CHAPALET; Hugo de CHAMALET.
+Description: Boursier du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1404-1404%.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Étudiant ès arts (Paris) ..
+College affiliation: Collège d’Autun : boursier ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

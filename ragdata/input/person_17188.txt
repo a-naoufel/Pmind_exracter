@@ -1,0 +1,11 @@
+PERSON: PETRUS Brunel 2
+Also known as: Petrus BRUNEL.
+Description: Martinet du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1435-1437%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Martinet au collège de Dormans-Beauvais %1435-1437%..
+Family relationships: Son frère est Guillaume BRUNEL, martinet au collège de Dormans-Beauvais ; Son frère est Adam BRUNEL, martinet au collège de Dormans-Beauvais ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/01/2024..

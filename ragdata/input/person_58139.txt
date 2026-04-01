@@ -1,0 +1,22 @@
+PERSON: THOMAS Maulevelt
+Also known as: Thomas MAULEVELT; Thomas MANLEFELT; Thomas MAULFELT.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1320-1359%.
+Born in: Angleterre ?.
+Studied at: Paris ?; Louvain ?.
+University functions: Paris (Faculté des Arts : il semble y avoir été régent entre et ) ;.
+Authored work: 'Fallaciae maiores', composed around ?.
+Authored work: 'Fallaciae minores', composed around ?.
+Authored work: 'Obligationes', composed around ;.
+Authored work: 'Questiones dialecticae de suppositionibus', composed around ?.
+Authored work: 'Regulae de suppositionibus', composed around ?.
+Authored work: 'Confusiones', composed around ?.
+Authored work: 'Questiones super veteri arte', composed around ?.
+Authored work: 'Consequentiae', composed around ?.
+Authored work: 'Fallaciae', composed around ?.
+Authored work: 'Insolubilia', composed around ?.
+Authored work: 'Tractatus contra modos significandi', composed around ?.
+Authored work: 'Tractatus de consequentiis', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 12/10/2024..

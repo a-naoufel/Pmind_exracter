@@ -1,0 +1,8 @@
+PERSON: YSABELLA
+Also known as: YSABELLA.
+Description: Détentrice d’une maison parisienne.
+Status: Extérieur.
+Gender: female.
+Active during: %1318-1325%.
+Family relationships: Son mari est Johannes CLARET, clerc écrivain..
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

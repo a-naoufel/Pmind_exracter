@@ -1,0 +1,10 @@
+PERSON: ARNULPHUS de Verli
+Also known as: Arnulphus de VERLI.
+Description: Official de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1209-1209%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Other ecclesiastical functions: Official de Rouen ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet 17/11/2020..

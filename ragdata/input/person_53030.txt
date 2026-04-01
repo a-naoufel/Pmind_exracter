@@ -1,0 +1,10 @@
+PERSON: ROBERTUS de Dours
+Also known as: Robertus de DOURS.
+Description: Prévôt d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1394-1396%.
+Studied at: ?.
+Academic grades obtained: Docteur en droit canon ;; Licencié en droit civil ;.
+Ecclesiastical positions held: Prévôt d’Amiens %1394-1396% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 29/11/2021..

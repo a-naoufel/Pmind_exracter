@@ -1,0 +1,9 @@
+PERSON: PETRUS de Francia
+Also known as: Petrus de FRANCIA.
+Description: Maître d’école.
+Status: Maître.
+Gender: male.
+Active during: %1451-1453%.
+Studied at: Paris..
+Academic grades obtained: Maître ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/06/2024..

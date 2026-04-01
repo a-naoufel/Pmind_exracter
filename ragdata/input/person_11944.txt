@@ -1,0 +1,10 @@
+PERSON: THOMAS Lekaton
+Also known as: Thomas LEKATON; Thomas de ATRIO.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1340-1342%.
+Studied at: Paris %1340-1342%..
+Academic grades obtained: Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Ecclesiastical positions held: Chanoine de Douai (Saint-Amé) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 10/10/2024..

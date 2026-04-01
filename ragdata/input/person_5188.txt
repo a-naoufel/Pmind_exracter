@@ -1,0 +1,9 @@
+PERSON: HUGO Linot
+Also known as: Hugo LINOT.
+Description: Étudiant..
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 06/06/2022..

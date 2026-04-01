@@ -1,0 +1,13 @@
+PERSON: HUGO Du Bourgel
+Also known as: Hugo DUBOURGEL.
+Description: Étudiant ès arts.
+Status: Étudiant.
+Gender: male.
+Active during: %1398-1403%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris (Nation de France) %1398-1403% ;.
+Academic grades obtained: Étudiant ès arts (Paris) %1398-1403% ;.
+Ecclesiastical status: Clerc du diocèse de Paris ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Magnus Rotulus (rotulus scolarium Parisiensum) de l’Université de Paris daté de (23 octobre) et présenté à BENOÎT XIII : il figure à deux reprises sur le rotulus ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 27/10/2018..

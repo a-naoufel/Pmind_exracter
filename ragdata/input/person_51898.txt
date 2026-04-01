@@ -1,0 +1,11 @@
+PERSON: PETRUS de Bessio
+Also known as: Petrus de BESSIO; Petrus de BERETO.
+Description: Évêque de Vaison.
+Status: Incertain.
+Gender: male.
+Active during: %1343-1356%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.Carm. : frère carme..
+Ecclesiastical positions held: Évêque de Grasse %1343-1348% :; Évêque de Vaison %1348-1356% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 2/02/2021)..

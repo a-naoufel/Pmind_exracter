@@ -1,0 +1,12 @@
+PERSON: MAURITIUS de Sancto Victore
+Also known as: Mauritius de SANCTO VICTORE.
+Description: Chanoine victorin.
+Status: Étudiant.
+Gender: male.
+Active during: %1150-1150%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) vers ?.
+College affiliation: Saint-Victor ?.
+Religious order: O.S.A. : chanoine de Saint-Victor..
+Authored work: 'Sermones', composed around ?.
+Source: MIRABILE :.

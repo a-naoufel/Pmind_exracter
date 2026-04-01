@@ -1,0 +1,9 @@
+PERSON: STEPHANUS Cognat
+Also known as: Etienne COGNAT.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1504-1504%.
+Studied at: Paris ;.
+Academic grades obtained: Maître en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

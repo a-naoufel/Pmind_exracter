@@ -1,0 +1,11 @@
+PERSON: BENEDICTUS de Chamery
+Also known as: Benedictus de CHAMERY; Benedictus de CHAMERI; Benedictus de CHAUMERY.
+Description: Bénédictin.
+Status: Maître.
+Gender: male.
+Active during: %1481-1500%.
+Studied at: Rouen ;; Paris (Faculté de décret) %1490-1490%..
+Academic grades obtained: Licencié Cn.L. (Rouen) ;; Licencié Cn.L. (Paris) le 4 avril ..
+Religious order: Bénédictin : monastère (bénédictin) de Saint-Julien (diocèse de Tours)..
+Religious functions: Abbé (bénédictin) de Saint-Julien ;; Abbé (bénédictin) de Lyre (diocèse d'Evreux), %:1481:-1490%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet 06/01/2021).

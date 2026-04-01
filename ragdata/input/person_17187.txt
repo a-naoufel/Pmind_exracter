@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Brunel
+Also known as: Guillaume BRUNEL.
+Description: Martinet du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1435-1437%.
+Studied at: Paris ..
+College affiliation: Martinet au collège de Dormans-Beauvais %1435-1437%..
+Family relationships: Son frère est Adam BRUNEL, martinet au collège de Dormans-Beauvais ; Son frère est Pierre BRUNEL, martinet au collège de Dormans-Beauvais ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 1/03/2022..

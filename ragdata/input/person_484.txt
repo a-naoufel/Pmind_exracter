@@ -1,0 +1,10 @@
+PERSON: ALEXANDER Scotus 2
+Also known as: Alexander de SCOTUS; Alexander de SCOTUS; Alexander de SCOTIA.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1343-1371%.
+Born in: Écosse..
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Licencié ès arts (Paris) ;; Maître ès art (Paris) ;.
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 08/07/2020..

@@ -1,0 +1,13 @@
+PERSON: HENRICUS de Arnhem 2
+Also known as: Henricus de ARNHEM.
+Description: Chanoine de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1394-1434%.
+Born in: Pays-Bas (Gueldre ?) ?.
+Diocese of origin: Diocèse de Cologne ;.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;; Bachelier en théologie ;.
+Ecclesiastical status: Clerc en ;; Prêtre en ;.
+Ecclesiastical positions held: Chanoine de Cambrai %1405-1429% ;; Chanoine de Cambrai (Saint-Géry) %1405- % ;; Doyen de Cambrai (Saint-Géry) %1405-1422% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 03/01/2026..

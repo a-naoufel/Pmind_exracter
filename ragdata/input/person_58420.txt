@@ -1,0 +1,35 @@
+PERSON: PETRUS de Tarentasia
+Also known as: Petrus de TARENTASIA; Pierre de TARENTAISE; INNOCENT V.
+Description: Pape dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1244-1276%.
+Born in: Savoie (Champagny) ;.
+Diocese of origin: Diocèse de Vienne..
+Studied at: Paris..
+Academic grades obtained: Bachelier en théologie (Paris) ;; Bachelier sententiaire (Paris) %1257-1259%; Maître en théologie (Paris) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins) %1257-1269%..
+Religious order: O.P. : frère dominicain du couvent (O.P.) de Lyon..
+Religious functions: Prédicateur général au chapitregénéral (dominicain) d’Orléans en ;; Membre de la commission des études au chapitregénéral de Valenciennes.; Provincial (dominicain) de France %1264-1267% ;; Provincial (dominicain) de France %1269-1272% ;.
+Ecclesiastical positions held: Archevêque de Lyon %1272-1273% :; Cardinal-Evêque d'Ostie-Velletri élu en (3 juin).; Pape élu à Arezzo en (21 janvier) et couronné à Rome en (22 février) : il prend le nom d'INNOCENT V..
+University functions: Paris (Faculté de Théologie : Maître-régent dans la chaire des Français vers %1259-1264%) ;; Paris (Faculté de Théologie : Maître-régent dans la chaire des Français vers %1267-1269%)..
+Representation roles: Missions diplomatiques en pour GREGOIRE XI pour rencontrer ALPHONSE VI, roi de Castille à Beaucaire et Rodolphe de HABSBOURG à Lausanne ;; Il prend part au Concile de Lyon en ;.
+Authored work: 'Comment. in libros I-IV Sentent.', composed around %1257-1259%..
+Authored work: 'Postillae super Pentateuchum', composed around ?.
+Authored work: 'Postillae super Cantica', composed around ?.
+Authored work: 'Postillae super Psalmos', composed around ?.
+Authored work: 'Postillae super Lucam', composed around /Oeuvre perdue..
+Authored work: 'Postillae super Mattheum', composed around ?.
+Authored work: 'Postillae super epistolas Pauli', composed around ?.
+Authored work: 'Postillae super epistolas canonicas', composed around ?.
+Authored work: 'Postillae super Apocalypsim', composed around ?.
+Authored work: 'Sermones', composed around à Paris et à Lyon..
+Authored work: 'Declaratio 108 Dubiorum', composed around ?, dedicated to Adressé à Jean de VERCELLI, maîtregénéral des Dominicains..
+Authored work: 'Quodlibet (36 quaestiones)', composed around Vers ..
+Authored work: 'De unitate formae', composed around ?.
+Authored work: 'De intellectu et voluntate', composed around ?.
+Authored work: 'Quaestiones 49 de lege et praeceptis', composed around ?.
+Authored work: 'Quaestiones 4 de materia coeli et de aeternitate mundi', composed around ?.
+Authored work: 'Quaestiones disputatae de malo', composed around ?.
+Authored work: 'Les heures de Notre-Dame', composed around ?.
+Source: MIRANDA : Cardinals of the Holy Church :.

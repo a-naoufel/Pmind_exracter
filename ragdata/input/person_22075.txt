@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Insula 2
+Also known as: Guillelmus de INSULA.
+Description: Chancelier de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1308-1348%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son père est ANCEAU, seigneur de Bellencuria ;.
+Social origin: Noble..
+Ecclesiastical positions held: Chancelier de Rouen %1308-1344% ;; Chanoine de Bayeux %1322-1344% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 28/03/2022..

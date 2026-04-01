@@ -1,0 +1,14 @@
+PERSON: VITALIS Archerii
+Also known as: Vitalis ARCHERII.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1403-1403%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse de LePuy ;.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant en décret (Paris) en ;.
+College affiliation: Collège de Dormans-Beauvais : chapelain en ;.
+Ecclesiastical status: Prêtre du diocèse de LePuy en ;.
+Ecclesiastical positions held: Chapelain de Paris (Collège de Dormans-Beauvais) ;; Candidat à un bénéfice sur le Magnus Rotulus (rotulus scolarium Parisiensum) de l’Université de Paris daté de (23 octobre) et présenté à BENOÎT XIII..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 28/10/2018..

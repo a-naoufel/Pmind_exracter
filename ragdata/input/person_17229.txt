@@ -1,0 +1,10 @@
+PERSON: BAUGERIUS de Crezeques
+Also known as: Baugerius de CREZEQUES; Baugerius de CROIEQUOS.
+Description: « Frère ».
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+Religious order: Régulier..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 5/01/2021..

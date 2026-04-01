@@ -1,0 +1,10 @@
+PERSON: X de Falcomonte
+Also known as: de FALCOMONTE.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ;; Il est qualifié de "dominus" ?.
+Family relationships: Son frère est Johannes de FALCOMONTE qui a signé en même temps que lui..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/01/2022..

@@ -1,0 +1,10 @@
+PERSON: PETRUS Michel 2
+Also known as: Pierre MICHEL.
+Description: Hôte du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1420-1421%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) %1420-1421%..
+College affiliation: Collège de Dormans-Beauvais : hôte %1420-1421% ;.
+Source: LAMOP : Opération Charles VI (n° 2517) :.

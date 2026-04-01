@@ -1,0 +1,12 @@
+PERSON: LUDOVICUS de Lovanio
+Also known as: Ludovicus de LOVANIO; Louis de LOVANIO.
+Description: Bachelier en médecine..
+Status: Gradué.
+Gender: male.
+Active during: %1326-1333%.
+Born in: Brabant (Louvain ?) ?.
+Diocese of origin: Diocèse de Liège ?.
+Studied at: Paris %1326-1326%..
+Academic grades obtained: Bachelier en médecine (Paris) ..
+Ecclesiastical positions held: Chanoine de Louvain (Saint-Pierre) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 2/09/2023..

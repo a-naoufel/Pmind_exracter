@@ -1,0 +1,11 @@
+PERSON: ROGARIUS Seherii
+Also known as: Rogerus SEHERII; Roger SEHIER; Robertus de FREDELLA.
+Description: Chanoine d’Évreux.
+Status: Incertain.
+Gender: male.
+Active during: %1190-1201%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d’Évreux %1190-1201% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 29/02/2023)..

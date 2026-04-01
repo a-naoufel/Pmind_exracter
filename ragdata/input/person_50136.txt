@@ -1,0 +1,10 @@
+PERSON: HERVEUS de Rocha
+Also known as: Herveus de ROCHA.
+Description: Chapelain d’une chapelle universitaire.
+Status: Maître.
+Gender: male.
+Active during: %1325-1325%.
+Studied at: Paris ..
+Academic grades obtained: Maître (Paris) ;.
+University functions: Chapelain de la chapelle de l’Université fondée sur le Trésor royal ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 2/01/2020..

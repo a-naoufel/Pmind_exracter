@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Hibernia
+Also known as: Guillelmus HIBERNICUS; Guillelmus de HIBERNIA; Guillelmus de YBERNIA.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1318-1319%.
+Born in: Irlande ?.
+Studied at: Paris (Nation Anglo-allemande?)..
+Academic grades obtained: Maître ès arts (Paris) avant ;.
+Ecclesiastical status: Prêtre ?.
+Ecclesiastical positions held: Provision pour un canonicat avec expectative de prébende de Dublin (Saint Patrick) en : mandat au doyen de Fern, au chancelier de Paris et à Nicholas de CECCANO, chanoine de Beauvais ;.
+University functions: Paris (Université : Recteur avant %1317-1318% ?).; Paris (Université : il assiste en (21 mars et 3 avril) à la transcription des privilèges de l’université qu’il doit aller faire renouveler à Avignon par le pape JEAN XXII, avec MICHAEL, chapelain de Lizy (léproserie), de Guillaume LOUVET, subsigillator de la Curie de Paris, prêtres, ainsi que de Ricardus de ORENGIA, clericus et de SIMON, bedeau de la Nation Anglo-allemande) : ‘Praesentibus magistro Guillelmo de Hybernia, in artium facultate regente, dominis Michaele capellano leprosariae de Lisiaco, Meldensis dioec., Guillelmo Louveti subsigillifero curiae Paris. presbyteris, Richardo de Orengia, Constantiensis dioec. clerico, et Simone bedello nationis Anglicorum, quaedam priyilegia summorum pontificum pro Universitate Paris. Transcribuntur’. Ces privilèges figurent dans CUP: I, 122, 204, 215, 352, 377, 512 ; ;; Paris (Université : mission en à la Curie à Avignon en tant que procureur de l’universite en (il est parti après le 3 avril et rentré avant le 5 juillet)) ;; Paris (Faculté des Arts : Maîtrerégent en %1318-1319%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 29/11/2024..

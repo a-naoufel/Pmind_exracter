@@ -1,0 +1,12 @@
+PERSON: FRANCISCUS Pardo
+Also known as: Franciscus PARDO.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1490-1490%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) avant ..
+College affiliation: Collège d’Harcourt vers ..
+Academic relationships: Son élève est Jacobus BERNIERES au collège d'Harcourt..
+University functions: Paris (Faculté des Arts : maître-régent au collège d’Harcourt vers )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 13/12/2023..

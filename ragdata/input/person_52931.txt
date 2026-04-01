@@ -1,0 +1,10 @@
+PERSON: REGINALDUS de Yvemesnillo
+Also known as: Reginaldus de YVESMESNILLO; Reginaldus de YVONIMESNILLO.
+Description: Chantre de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1269-1283%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Rouen ;; Chantre de Rouen %1274-1283% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 10/11/2021..

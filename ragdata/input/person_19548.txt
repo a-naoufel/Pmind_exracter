@@ -1,0 +1,12 @@
+PERSON: MARTINUS Pais
+Also known as: Martinus PAIS.
+Description: Chanoine régulier de Saint Augustin.
+Status: Étudiant.
+Gender: male.
+Active during: %1175-1175%.
+Born in: Portugal..
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) ?.
+Religious order: Chanoine régulier de Saint Augustin ?.
+Religious functions: Prieur de Coimbra..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 13/09/2023)..

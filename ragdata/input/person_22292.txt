@@ -1,0 +1,13 @@
+PERSON: EBRARDUS Claravallensis
+Also known as: Évrard de CLAIRVAUX.
+Description: Abbé de Clairvaux.
+Status: Étudiant.
+Gender: male.
+Active during: %1223-1237%.
+Studied at: Paris..
+Academic grades obtained: Étudiant ?.
+College affiliation: Collège Saint-Bernard ?.
+Academic relationships: Son maître est Edmond RICH..
+Religious order: O. Cist..
+Religious functions: Abbé (Cistercien) de Larrivour % -1235%.; Abbé (Cistercien) de Clairvaux %1235-1238%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 24/06/2021..

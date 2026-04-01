@@ -1,0 +1,9 @@
+PERSON: MARTINUS Boiny
+Also known as: Martinus BOINY; Martinus BOUY.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1478-1478%.
+Studied at: Paris %1478-1478%.
+Academic grades obtained: Licencié en théologie (Paris) (le 27 janvier) ;; Docteur en théologie (Paris) (le 19 octobre) ..
+Religious order: Cistercien.

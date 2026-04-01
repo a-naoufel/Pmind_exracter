@@ -1,0 +1,11 @@
+PERSON: GALFREDUS de Colombières
+Also known as: Geoffroy de COLOMBIÈRES.
+Description: Boursier théologien au Collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1315-1315%.
+Born in: Normandie ;.
+Studied at: Paris (Collège de Navarre) %1315-1315%..
+Academic grades obtained: Étudiant en théologie (Paris) ..
+College affiliation: Collège de Navarre : boursier théologien en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 6/10/2021..

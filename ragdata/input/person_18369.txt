@@ -1,0 +1,18 @@
+PERSON: ARNULPHUS Lexoviensis
+Also known as: ARNULPHUS; Arnulphus LEXOVIENSIS; Arnoul de LISIEUX; Arnulphe de LISIEUX.
+Description: Évêque de Lisieux.
+Status: Extérieur.
+Gender: male.
+Active during: %1134-1184%.
+Born in: Normandie ?.
+Studied at: Rome ?; Paris, mais à la fin de sa vie, quand il se retire à l'abbaye (augustine) de Paris (Saint-Victor)..
+Academic grades obtained: Magister ?.
+Family relationships: Son frère est Jean de NEUVILLE, évêque de Sées ; Son oncle est JEAN, évêque de Lisieux auquel il a succédé..
+Religious order: Les scolares de l'abbaye de Paris (Saint-Victor) sont requis de faire dire chaque semaine trois messes pour l'âme d' Arnulphus de LEXOVIIS en 1312 (février) : c'est probablement de lui qu'il s'agit..
+Ecclesiastical positions held: Archidiacre de Sées % -1141% ;; Évêque de Lisieux %1141-1181% ;.
+Representation roles: Il participe à la deuxième Croisade %1147-1149%..
+Authored work: 'Tractatus de schismato orto post Honorii II mortem', composed around %1134-1135%., dedicated to Dédié à Geoffroy de LEVES, évêque de Chartres..
+Authored work: 'Sermons', composed around ?.
+Authored work: 'Carmina', composed around ?.
+Authored work: 'Lettres', composed around %1166-1181%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

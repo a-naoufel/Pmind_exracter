@@ -1,0 +1,9 @@
+PERSON: DENISOT de Valencenis
+Also known as: Denisot de VALENCIANIS.
+Description: Rentier parisien.
+Status: Extérieur.
+Gender: male.
+Active during: %1299-1299%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 08/05/2021..

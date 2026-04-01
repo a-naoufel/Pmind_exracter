@@ -1,0 +1,10 @@
+PERSON: IVO de Marchia
+Also known as: Yvo de MARCHIA; Yves de MARCHIA.
+Description: Boursier grammairien au collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1380-1380%.
+Studied at: Paris (Collège de Navarre) %1380-1380%..
+Academic grades obtained: Étudiant en grammaire (Paris) ..
+College affiliation: Boursier grammairien au collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/06/2022)..

@@ -1,0 +1,15 @@
+PERSON: NICOLAUS Vernet
+Also known as: Nicolaus VERNET.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1478-1478%.
+Studied at: Paris %1478-1478%..
+Academic grades obtained: Licencié en théologie (Paris) (le 27 janvier) ;; Docteur en théologie (Paris) (le 17 juin) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère dominicain..
+Authored work: 'In S. Joannis Apocalypsim Commentaria', composed around ?.
+Authored work: 'In Magistrum Sententiarum', composed around ?.
+Authored work: 'Quaestiones Ordinariae', composed around ?.
+Authored work: 'Publicae Lectiones', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland et Anne Tourieroux ; revision, Jean-Philippe Genet, 27/11/2023..

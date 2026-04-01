@@ -1,0 +1,9 @@
+PERSON: G.
+Also known as: Magister G..
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1208-1209%.
+Studied at: Paris..
+Academic grades obtained: Magister.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 13/10/2018..

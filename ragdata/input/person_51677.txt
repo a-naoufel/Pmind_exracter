@@ -1,0 +1,11 @@
+PERSON: ANDREAS de Sancto Petro
+Also known as: Andreas de SANCTO-PETRO.
+Description: Boursier du Collège de Laon..
+Status: Étudiant.
+Gender: male.
+Active during: %1392-1402%.
+Born in: Picardie ?.
+Studied at: Paris (Nation de Picardie) %1392-1402%..
+Academic grades obtained: Étudiant (Paris) %1392-1407% ?.
+College affiliation: Collège de Laon : boursier ès arts en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/12/2020..

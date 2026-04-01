@@ -1,0 +1,20 @@
+PERSON: PETRUS de Aquila 1
+Also known as: Petrus de AQUILA; Petrus AQUILANUS; Pietro de L’AQUILA; Petrus SCOTELLUS.
+Description: Évêque de Trivento.
+Status: Maître.
+Gender: male.
+Active during: %1300-1361%.
+Born in: Italie (Abruzzes : Tornimparte, près de L’Aquila)..
+Studied at: Paris ou ..
+Academic grades obtained: Bachelier en théologie (Paris) vers ;; Maître en théologie (Paris) ?.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Academic relationships: Son maître est Johannes DUNS Scotus ;.
+Religious order: O.F.M. : frère franciscain du couvent (franciscain) de L’Aquila..
+Religious functions: Provincial (franciscain) de Tuscie %1334-1337% ;; Inquisiteur de Florence (Santa Croce) ..
+Ecclesiastical positions held: Évêque d’Avellino (San Angelo dei Lombardi) ;; Évêque de Tridento ;.
+University functions: Paris (Faculté de Théologie : lecteur des Sentences vers %1307-1307% au couvent franciscain) ;.
+Authored work: 'Commentarium in I-V libros sententiarum', composed around ?.
+Authored work: 'Compendium in Libros Sententiarum', composed around ?.
+Authored work: 'De sacramentis et de decem preceptis', composed around ?.
+Authored work: 'Expositio in libris Ethicorum Aristotelis', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, dernière mise à jour, 09/12/2025..

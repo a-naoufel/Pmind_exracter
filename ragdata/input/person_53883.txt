@@ -1,0 +1,11 @@
+PERSON: THEOBALDUS Silvani
+Also known as: Theobaldus SILVANIS.
+Description: Chanoine d Angers.
+Status: Étudiant.
+Gender: male.
+Active during: %1319-1347%.
+Studied at: ?.
+Academic grades obtained: Étudiant en et en ;; Étudiant (Paris) ;.
+Family relationships: Son parent est peut-être Johannes SILVANI, chanoine d’Angers ;.
+Ecclesiastical positions held: Doyen de Clisson ;; Chanoine d’Angers %1323-1347% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 07/06/2022)..

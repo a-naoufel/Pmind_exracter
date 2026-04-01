@@ -1,0 +1,9 @@
+PERSON: TALERANDUS Coconnerii
+Also known as: Talerandus COCONNERRII.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1357-1357%.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 11/10/2021..

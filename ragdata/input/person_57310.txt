@@ -1,0 +1,27 @@
+PERSON: RADULPHUS Niger 1
+Also known as: Radulphus NIGER; Ralph NIGER.
+Description: Chanoine de Lincoln.
+Status: Maître.
+Gender: male.
+Active during: %1160-1199%.
+Born in: Angleterre..
+Studied at: Paris ;; Poitiers vers ;.
+Academic grades obtained: Maître ès arts (Paris) vers ..
+Academic relationships: Son maître en droit canon est Gerardus PUCELLE.
+Ecclesiastical positions held: Chanoine de Lincoln après ?.
+University functions: Paris (Maître de théologie ?) vers %1172-1191% ;.
+Authored work: 'Expositio super Deuteronomium', composed around %1170-1190%.
+Authored work: 'Expositio super Chronic.', composed around %1170-1190%.
+Authored work: 'Moralia Regum', composed around %1170-1190%.
+Authored work: 'Digestum Levitici', composed around %1170-1190%.
+Authored work: 'Digestum Numerorum', composed around %1170-1190%.
+Authored work: 'Remediarius in Esdram', composed around %1170-1190%.
+Authored work: 'Epitoma Veteris testamenti', composed around %1170-1190%.
+Authored work: 'De quattuor frstivitatibus beatae Virginis Mariae', composed around %1170-1190%.
+Authored work: 'Philippicus', composed around %1170-1190%.
+Authored work: '(Glose versifiée des Topiques d’Aristote)', composed around ?.
+Authored work: '(Glose versifiée des Elenchos d’Aristote)', composed around ?.
+Authored work: 'Chronica Anglica', composed around ?.
+Authored work: 'Chronica universalis', composed around ?.
+Authored work: 'De re militari et triplici via peregrinationis Ierosolimitanae', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

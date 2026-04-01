@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS O.F.M.
+Also known as: GUILLELMUS.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1304-1304%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Couvent des Cordeliers ..
+Religious functions: Gardienducouvent (franciscain) de Paris..
+Ecclesiastical positions held: O.F.M. : frère franciscain du couvent (franciscain) de Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 7/3/2018..

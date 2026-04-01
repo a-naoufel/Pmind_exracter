@@ -1,0 +1,10 @@
+PERSON: RADULPHUS 3
+Also known as: RADULPHUS.
+Description: Abbé de Saint-Victor.
+Status: Maître.
+Gender: male.
+Active during: %1234-1248%.
+Studied at: ?.
+Academic grades obtained: Magister ?.
+Religious order: O.S.A. : chanoine (augustin) de Saint-Victor ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 21/11/2021..

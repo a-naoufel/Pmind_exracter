@@ -1,0 +1,12 @@
+PERSON: PETRUS Le Maistre
+Also known as: Petrus LE MAISTRE; Petrus MAGISTRI.
+Description: Docteur en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1397-1398%.
+Studied at: Paris %1397-1398%..
+Academic grades obtained: Licencié en théologie (Paris) ;; Docteur en théologie (Paris) ..
+College affiliation: Couvent (augustin) de Paris (Grands-Augustins)..
+Religious order: O.E.S.A. : frère augustin..
+University functions: Paris (Faculté de Théologie : Lecteur de la Bible avant ) ;; Paris (Faculté de Théologie : Lecteur des Sentences en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 24/03/2024..

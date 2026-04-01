@@ -1,0 +1,13 @@
+PERSON: NICOLAUS Gouillard de Savigny
+Also known as: Nicolas GOUILLARD de Savigny; Nicolas de SAVIGNY.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1394-1427%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Reims ;.
+Studied at: ?.
+Academic grades obtained: Licencié in utroque jure ;.
+Social origin: Commun : il est le fils d’un serf affranchi ;.
+Ecclesiastical positions held: Chanoine de Rouen %1401-1427% ;; Chanoine de Paris ;; Doyen de Lisieux ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/11/2021..

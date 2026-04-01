@@ -1,0 +1,15 @@
+PERSON: FURSEUS de Cambrai
+Also known as: Furseus de CAMBRAI.
+Description: Recteur de l'Université.
+Status: Maître.
+Gender: male.
+Active during: %1499-1553%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Noyon..
+Studied at: Paris (Nation de France) %1499-1553%..
+Academic grades obtained: Maître ès arts (Paris) ;; Licencié en théologie (Paris) (26 janvier) ;; Docteur en théologie (Paris) (24 septembre) ;.
+College affiliation: Collège de Dormans-Beauvais : boursier ;; Sorbonne : socius.; Paris (Collège de Dormans-Beauvais : étudiant puis maître-régent) ;; Paris (Collège de Presles : maître-régent) ;; Paris (Collège Sainte-Barbe : maître-régent en )..
+Academic relationships: Son maître est Philippe de NOZIERES pour la maîtrise. Son élève est Raoul TABARY au collège de Presles..
+Ecclesiastical positions held: Candidat à des bénéfices à la collation de l’université de Paris entre et ;; Chanoine de Noyon %1524-1553%..
+University functions: Paris (Faculté des Arts : maître-régent au collège de Dormans-Beauvais) ;; Paris (Faculté des Arts : maître-régent au collège de Presles) ;; Paris (Faculté des Arts : maître-régent au collège de Sainte-Barbe) ;; Paris (Université : recteur élu en (30 juin))..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 29/11/2020)..

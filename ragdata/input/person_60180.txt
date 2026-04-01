@@ -1,0 +1,13 @@
+PERSON: ROGARIUS Militis
+Also known as: Rogarius MILITIS.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1426-1426%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Troyes ;.
+Studied at: Paris ;.
+Academic grades obtained: Bachelier en décret (Paris) en ;.
+Ecclesiastical status: Prêtre du diocèse de Troyes ;.
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (L. I) en (23 septembre) pour la 3e année et le 3e volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 17/10/2025..

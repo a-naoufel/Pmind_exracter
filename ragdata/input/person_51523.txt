@@ -1,0 +1,10 @@
+PERSON: NICOLAUS de Seranar
+Also known as: Nicolaus de SERANAR.
+Description: Augustin..
+Status: Incertain.
+Gender: male.
+Active during: %1358-1359%.
+Studied at: Paris..
+Academic grades obtained: Étudiant en théologie ?.
+Religious order: O.E.S.A. : frère augustin..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 18/11/2020)..

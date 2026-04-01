@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Fuletot
+Also known as: Guillelmus de FULETOT.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1349-1352%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris (Nation de Normandie ?) en ..
+Academic grades obtained: Maître ès arts (Paris) ;; Maître en médecine (Paris) ;.
+Ecclesiastical status: Clerc du diocèse de Rouen en %1349-1352% :.
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiatique à la collation de l’abbé et du couvent du monastère (bénédictin) de Jumièges en réponse au rotulus de l’Université de Paris en : mandat à l’abbé de Paris (Sainte-Geneviève), au prieur (O.S.A.) de Rouen (Madeleine) et au sacriste d’Avignon ;; Provision pour un bénéfice ecclésiatique à la collation de l’abbé et du couvent du monastère (bénédictin) de Fécamp en réponse au rotulus de l’Université de Paris en : mandat à l’abbé de Paris (Sainte-Geneviève), à l’abbé (bénédictin) de Rouen (Saint-Ouen) et à Egidius de MALODIVERSORIO,chanoine de Rouen ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 4/02/2020..

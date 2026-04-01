@@ -1,0 +1,10 @@
+PERSON: RADULPHUS Porcher
+Also known as: Raoul PORCHER.
+Description: Étudiant en théologie.
+Status: Étudiant.
+Gender: male.
+Active during: %1274-1330%.
+Born in: Bretagne ?.
+Studied at: Paris vers ..
+Academic grades obtained: Étudiant en théologie (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/01/2023)..

@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS Le Gris
+Also known as: Guillelmus LEGRIS.
+Description: Moine clunisien de Saint-Martin des Champs.
+Status: Maître.
+Gender: male.
+Active during: %1484-1504%.
+Born in: Champagne ;.
+Diocese of origin: Diocèse de Troyes..
+Studied at: Paris ..
+Academic grades obtained: Licencié en théologie (Paris) ;.
+College affiliation: Sorbonne : hôte en ;.
+Ecclesiastical status: Prêtre.
+Religious order: O.S.B. : moine clunisien à Paris (Saint-Martin des Champs) %1504- % ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 13/05/2022..

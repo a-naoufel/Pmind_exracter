@@ -1,0 +1,14 @@
+PERSON: LUDOVICUS de Palude
+Also known as: Ludovicus de PALUDE; Louis de PALUDE.
+Description: Boursier artien au collège de Navarre à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1377-1398%.
+Born in: Bretagne..
+Diocese of origin: Diocèse de Quimper..
+Studied at: Paris (Nation de France), %1377-1389%..
+Academic grades obtained: Étudiant ès arts (Paris) ;; Maître ès arts (Paris) ;; Étudiant en théologie (Paris) %1380-1389%? ;; Bachelier en théologie (Paris) ..
+College affiliation: Boursier artien au collège de Navarre à Paris en ;.
+Religious order: O.S.A. : chanoineaugustin du monastère (augustin) de Daoulas (Sainte-Marie) avant ;.
+Religious functions: Candidat à un bénéfice à la collation d'un couvent du diocèse de Chartres en ;; Curé de l'église paroissiale de Plougastel en ;; Abbé de Daoulas (Sainte-Marie) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/09/2023)..

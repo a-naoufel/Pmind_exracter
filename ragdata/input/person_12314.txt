@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Tonavilla
+Also known as: Guillelmus de TONAVILLA; Wilhelmus de THONAVILLA.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1339-1339%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie) ..
+Academic grades obtained: Maître ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 22/01/2020..

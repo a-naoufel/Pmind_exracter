@@ -1,0 +1,10 @@
+PERSON: INGERANNUS Maleisie
+Also known as: Enguerrandus MALEISIE.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+Family relationships: Son parent est (peut-être) Petrus MALEISIE qui règle sa contribution en même temps que lui ; Son parent est (peut-être) Johannes MALEISIE qui règle sa contribution en même temps que lui ; Son parent est (peut-être) Guillermus MALEISIE qui règle sa contribution en même temps que lui ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/09/2022..

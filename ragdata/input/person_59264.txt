@@ -1,0 +1,15 @@
+PERSON: PETRUS de Gressio
+Also known as: Petrus de GRESSIO; Pierre de GREZ.
+Description: Évêque d’Auxerre.
+Status: Maître.
+Gender: male.
+Active during: %1290-1325%.
+Born in: Île-de-France (Brie) ;.
+Diocese of origin: Diocèse de Paris ?.
+Studied at: Paris ?.
+Academic grades obtained: Docteur en décret (Paris) ;.
+Family relationships: Son père est Jean de CORBEIL, seigneur de Grez ; Son oncle est Guillaume de GREZ, évêque d’Auxerre ; Son frère est Jean de GREZ, maréchal de France ; Son frère est Hugues de GREZ, sous-chantre de Chartres ; Sa sœur est Clémence de GREZ, abbesse d’Yerres ; Son parent est Enguerrand de MARIGNY ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine d’Auxerre %1293-1308% ;; Chanoine de Chartres %1296-1308% ;; Chancelier de Chartres %1296-1308% ;; Chanoine de Paris (Notre-Dame) %1296-1308% ;; Évêque d’Auxerre %1308-1325% ;.
+Representation roles: Il participe au concile de Vienne en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 27/03/2022)..

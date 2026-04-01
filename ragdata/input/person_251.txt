@@ -1,0 +1,10 @@
+PERSON: ALANUS Anglicus
+Also known as: Alanus ANGLICUS.
+Description: Procureur de la Sorbonne..
+Status: Maître.
+Gender: male.
+Active during: %1318-1321%.
+Studied at: Paris %1318-1321%..
+Academic grades obtained: Maître ès arts (Paris) ..
+College affiliation: ?Sorbonne : Procureur en ..
+Source: Projet ORESM. Dépouillements de Louise Gousseau 28/03/2023 ;.

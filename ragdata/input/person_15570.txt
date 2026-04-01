@@ -1,0 +1,11 @@
+PERSON: STEPHANUS Vomitis
+Also known as: Stephanus VOMITIS.
+Description: Clunisien.
+Status: Étudiant.
+Gender: male.
+Active during: %1386-1386%.
+Studied at: Paris %1386-1386%..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Étudiant du collège de Cluny à Paris en ..
+Religious order: O.S.B. : moine clunisien de LaCharité-sur-Loire (diocèse d'Auxerre) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 17/05/2016..

@@ -1,0 +1,10 @@
+PERSON: GALFREDUS Allencquin
+Also known as: Geoffroi ALLENCQUIN; Geoffroi ALLENQUIN; Geoffroi ALVEQUIN; Geoffroi AUCQUIN; Geoffroi ALVEKINI; Gaufridus ALVEQUIN; Ghoefridus ALVEKINI.
+Description: Chirugien de Louis XI.
+Status: Maître.
+Gender: male.
+Active during: %1464-1468%.
+Studied at: ?Paris..
+Academic grades obtained: Maître ;.
+University functions: Chargé apparemment par Louis XI d'une communication pour l'Université de Paris, ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 30/09/2021..

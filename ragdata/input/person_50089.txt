@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Belewe
+Also known as: William de BELEWE.
+Description: Recteur de Bolton-upon-Dearne.
+Status: Extérieur.
+Gender: male.
+Active during: %1274-1290%.
+Born in: Angleterre..
+Studied at: Oxford %1274-1280%..
+Academic grades obtained: Étudiant (Oxford) ;; Magister ;.
+Ecclesiastical positions held: Recteur de Bolton-upon-Dearne %1280-1290% au moins ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 4/12/2019..

@@ -1,0 +1,12 @@
+PERSON: DEIFILIUS de Montpensier
+Also known as: Deifilius de MONTPENSIER.
+Description: Bachelier en décret..
+Status: Gradué.
+Gender: male.
+Active during: %1474-1475%.
+Born in: Lyon..
+Diocese of origin: Diocèse de Lyon ?.
+Studied at: Paris %1474-1475%..
+Academic grades obtained: Bachelier en décret (Paris) (22 décembre) ;.
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales en (24 décembre)) ;; Paris (Faculté de Décret : Lecteur des Décrétales en (21 octobre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe GENET, 08/05/2021..

@@ -1,0 +1,8 @@
+PERSON: GILETA La Feniere
+Also known as: Gileta LA FENIERE; Gileta LA SEMERIE.
+Description: Maîtresse d'école.
+Status: Extérieur.
+Gender: female.
+Active during: %1436-1451%.
+Family relationships: Sa fille est Jaqueta, uxor Johannis VARIN ; Son gendre est Johannis VARIN..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 31/08/2020..

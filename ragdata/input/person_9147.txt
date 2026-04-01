@@ -1,0 +1,14 @@
+PERSON: NICOLAUS de Mola
+Also known as: Nicolas de MOLA.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1400-1409%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Sens ;.
+Studied at: Paris %1400-1403%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Ecclesiastical status: Sous-diacre du diocèse de Sens..
+Ecclesiastical positions held: Chanoine de Sens ;.
+University functions: Paris (Faculté de médecine : Maître régent au moins jusqu'en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 25/09/2022..

@@ -1,0 +1,9 @@
+PERSON: ANDREAS Le Mesnier
+Also known as: Andreas LEMESNIER.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris..
+Academic grades obtained: Étudiant ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, mise à jour 30/08/2020..

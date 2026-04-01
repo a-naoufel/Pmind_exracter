@@ -1,0 +1,14 @@
+PERSON: PETRUS de Baldeswell
+Also known as: Peter de BALDESWELL; Peter BAWDESWELL; Petrus de ANGLIA.
+Description: Franciscain.
+Status: Extérieur.
+Gender: male.
+Active during: %1302-1316%.
+Born in: Angleterre..
+Studied at: Oxford..
+Academic grades obtained: Docteur en théologie (Oxford) ca...
+Religious order: O.F.M. : frère franciscain du couvent (franciscain) d'Oxford..
+Religious functions: ?Provincial (franciscain) de HauteAllemagne %1309-1316%..
+University functions: Oxford (couvent franciscain : lecteur %1302-1303%)..
+Authored work: 'Quodlibet', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/01/2024)..

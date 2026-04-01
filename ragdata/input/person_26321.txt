@@ -1,0 +1,10 @@
+PERSON: PETRUS Hemerici
+Also known as: Petrus HEMERICI..
+Description: Clerc.
+Status: Incertain.
+Gender: male.
+Active during: %1327-1327%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical status: Clerc en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 19/03/2024..

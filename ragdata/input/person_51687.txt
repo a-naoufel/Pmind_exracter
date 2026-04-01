@@ -1,0 +1,12 @@
+PERSON: HENRICUS de Malle
+Also known as: Henricus de MALLE.
+Description: Étudiant au Collège de Laon..
+Status: Étudiant.
+Gender: male.
+Active during: %1324-1324%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Laon : reçu au collège en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,13 @@
+PERSON: PHILIPPUS 7
+Also known as: PHILIPPUS, abbé (O.S.A.) du Val (Sainte-Marie).
+Description: Abbé du Val.
+Status: Étudiant.
+Gender: male.
+Active during: %1426-1429%.
+Studied at: Paris %1426-1429%..
+Academic grades obtained: Étudiant en décret (Paris)..
+Academic relationships: Son maître est Johannes de SERVAVILLA ;.
+Ecclesiastical status: Prêtre ;.
+Religious order: O.S.A. : chanoinerégulier augustin ;.
+Religious functions: Abbé (O.S.A.) du Val (Sainte-Marie) au diocèse de Bayeux ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 29/03/2022)..

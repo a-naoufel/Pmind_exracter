@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Laire
+Also known as: Guillelmus de LAIRE; G. de LAIRE.
+Description: Bachelier en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1404-1437%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en théologie (Paris) ;.
+College affiliation: Sorbonne : socius..
+Ecclesiastical positions held: Curé de Mons (Saint-Germain)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/11/2021..

@@ -1,0 +1,13 @@
+PERSON: BERTRANDUS de Monteclaro
+Also known as: Bertrandus de MONTECLARO.
+Description: Vicairegénéral de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1374-1400%.
+Studied at: ?.
+Academic grades obtained: Licencié en droit canon ;.
+Ecclesiastical status: Prêtre ;.
+Religious order: O.S.B. : moine bénédictin ;.
+Religious functions: Prieur de Moissat %1374-1386% ;; PrieurClaustral de Clermont (Saint Alyre) ;; Prieur de Saint-Pourçain %1389-1400% ;.
+Other ecclesiastical functions: Vicairegénéral de Clermont %1384-1395% ;; Official de Clermont %1384-1395% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 19/09/2023..

@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Albia
+Also known as: Guillelmus de ALBIA; Guilllaume de SALBRIS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1275-1275%.
+Studied at: ?Paris ;.
+Academic grades obtained: Maître ès arts (Paris) ?.
+Authored work: 'Sententia libri Porphyri', composed around ?.
+Authored work: 'In Categorias', composed around ?.
+Authored work: 'In sex principia', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 3/12/2019..

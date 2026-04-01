@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Tignonvilla
+Also known as: Guillaume de TIGNONVILLE.
+Description: Prévôt de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1391-1414%.
+Born in: Orléanais (Beauce ?) ?.
+Diocese of origin: Diocèse de Chartres ?.
+Studied at: ?.
+Academic grades obtained: ?.
+Social origin: Noble ?.
+Authored work: 'Les dits moraux des philosophes', composed around Avant ..
+Source: ARLIMA : Laurent BRUN, René STUIP, David Joseph WRISLEY :.

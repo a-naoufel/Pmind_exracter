@@ -1,0 +1,10 @@
+PERSON: X d'Avy
+Also known as: d'AVY.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1405-1405%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Dormans-Beauvais : boursier ;.
+Source: LAMOP : Opération Charles VI (n° 2628) :.

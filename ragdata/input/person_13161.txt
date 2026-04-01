@@ -1,0 +1,11 @@
+PERSON: ANTHONIUS de Rubo
+Also known as: Anthonius de RUBO.
+Description: Carme.
+Status: Maître.
+Gender: male.
+Active during: %1442-1442%.
+Studied at: Paris %1442-1442%..
+Academic grades obtained: Licencié en théologie (Paris) (le 22 février) ;; Docteur en théologie (Paris) (le 13 décembre) ..
+College affiliation: Couvent (Carme) de Paris..
+Religious order: O.Carm. : frère carme..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; Jean-Philippe Genet, dernière mise à jour 28/09/2020)..

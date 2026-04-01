@@ -1,0 +1,7 @@
+PERSON: MILO de Vicinis
+Also known as: Milo de VICINIS.
+Description: ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1202-1202%.
+Studied at: ?.

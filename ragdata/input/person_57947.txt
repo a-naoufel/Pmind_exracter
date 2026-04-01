@@ -1,0 +1,8 @@
+PERSON: RAULET Dore
+Also known as: Raulet DORE.
+Description: Parcheminier.
+Status: Suppôt.
+Gender: male.
+Active during: %1437-1437%.
+Studied at: Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 08/07/2024..

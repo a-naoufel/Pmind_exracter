@@ -1,0 +1,14 @@
+PERSON: SIMON Le Poulailler
+Also known as: Simon LEPOULAILLER.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1382-1433%.
+Born in: Île-de-France (Paris) ;.
+Diocese of origin: Diocèse de Paris ?.
+Studied at: ?.
+Academic grades obtained: Bachelier en droit canon ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Rouen %1409-1433% ;.
+Other ecclesiastical functions: Officier de la cour de l’archevêque de Rouen %1408-1416% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 4/11/2021..

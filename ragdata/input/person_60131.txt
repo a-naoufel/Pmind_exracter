@@ -1,0 +1,10 @@
+PERSON: THEODERICUS Taquet
+Also known as: Terricus TAQUET.
+Description: Boursier du collège de Dainville.
+Status: Étudiant.
+Gender: male.
+Active during: %1394-1395%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dainville : boursier jusqu’en %1394-1395% ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

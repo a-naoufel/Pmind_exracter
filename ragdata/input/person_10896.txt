@@ -1,0 +1,13 @@
+PERSON: RICARDUS de Clive 2
+Also known as: Richardus de CLIVE; Richardus de CLYVE.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1286-1326%.
+Born in: Angleterre..
+Studied at: Oxford ;; Paris %1288-1288%..
+Academic grades obtained: ?Maître ès arts (Oxford) ;; Étudiant (Paris) ..
+Religious order: O.S.B. : moine bénédictin du prieurécathédral (bénédictin) de Canterbury ;.
+Religious functions: Procureur et commissaire du prieurécathédral (bénédictin) de Canterbury entre %1292-1313% ;; Visiteur du chapitre du prieurécathédral (bénédictin) de Canterbury "sede vacante" en ;; Procureur à la cour de Rome en ;; Sous-prieur du prieurécathédral (bénédictin) de Canterbury le 28 octobre ..
+Authored work: '[Questio]', composed around ? à Oxford..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 19/06/2024..

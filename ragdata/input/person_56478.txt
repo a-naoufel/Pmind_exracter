@@ -1,0 +1,22 @@
+PERSON: OLIVERIUS Trecorensis
+Also known as: Oliverius TRECORENSIS; Olivier de TREGUIER.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1285-1296%.
+Born in: Bretagne (Tréguier)..
+Diocese of origin: Diocèse de Tréguier..
+Studied at: Paris..
+Academic grades obtained: Bachelier en théologie (Paris) ?.; Maître en théologie (Paris) ?..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère dominicain..
+Religious functions: Guingamp (premier prieur du couvent dominicain, ) ;; MinistreProvincial (dominicain) de France ..
+University functions: Paris (Faculté de Théologie : lecteur des Sentences vers %1288-1290%) ;; Paris (Faculté de Théologie : maître-régent vers %1291-1293%) ;.
+Authored work: '(Commentarium super IV libros Sententiarum', composed around Vers %1288-1290%.
+Authored work: 'Expositio Evangelii "Missus est"', composed around ?.
+Authored work: 'Expositio Cantici "Magnificat"', composed around ?.
+Authored work: '(Sermones)', composed around .
+Authored work: 'Quodlibet I', composed around %1291-1292%.
+Authored work: 'Super libros Elenchorum', composed around ?.
+Authored work: 'Tractatus brevis de arte praedicandi', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

@@ -1,0 +1,13 @@
+PERSON: Religiosus de Firmitate super Gronam II
+Also known as: Religiosus de FIRMITATE-SUPER-GROSNAM II.
+Description: Cistercien.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Born in: Bourgogne ;.
+Diocese of origin: Diocèse de Chalon-sur-Saône..
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+College affiliation: Collège des Bernardins ;.
+Religious order: O. Cist. : abbaye (cistercienne) de La Ferté-sur-Grosne au diocèse de Chalon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 30/08/2016..

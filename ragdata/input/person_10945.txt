@@ -1,0 +1,11 @@
+PERSON: ROBERTUS Malapris
+Also known as: Robert MALAPRIS; Robert MALAPRINS.
+Description: Chanoine de Rouen..
+Status: Étudiant.
+Gender: male.
+Active during: %1452-1512%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie) %1452-1454%..
+Academic grades obtained: Étudiant en médecine (Paris) %1452-1454%..
+Ecclesiastical positions held: Chanoine de Rouen, %1490-1512% ;; Curé de Caudebec, %1490-1512% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 5/11/2021..

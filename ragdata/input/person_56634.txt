@@ -1,0 +1,10 @@
+PERSON: SYBILLA
+Also known as: SYBILLA.
+Description: Épouse de Renoaldus CHERIN.
+Status: Extérieur.
+Gender: female.
+Active during: %1209-1209%.
+College affiliation: Collège Saint-Honoré ;.
+Family relationships: Son mari est Renoaldus CHERIN ;.
+Social origin: Bourgeoisie parisienne..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 15/09/2023)..

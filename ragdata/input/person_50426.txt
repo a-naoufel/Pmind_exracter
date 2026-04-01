@@ -1,0 +1,12 @@
+PERSON: ODO Jacobi
+Also known as: Odo JACOBI.
+Description: Procureur du Collège de Sorbonne..
+Status: Maître.
+Gender: male.
+Active during: %1288-1295%.
+Born in: Île-de-France (Villeparisis ?) ?.
+Diocese of origin: Diocèse de Paris ?.
+Studied at: Paris en ..
+Academic grades obtained: Maître ès arts (Paris) en ?.
+College affiliation: Collège de Sorbonne : procureur en %1288-1295% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 4/02/2021)..

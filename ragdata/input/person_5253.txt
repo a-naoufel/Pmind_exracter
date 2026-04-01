@@ -1,0 +1,9 @@
+PERSON: IMBERTUS Lotharingus
+Also known as: Ymbertus LOTHARINGUS.
+Description: Habitant de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1312-1312%.
+Studied at: ?.
+Social origin: Commun, habitant de Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/09/2022.

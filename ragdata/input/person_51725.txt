@@ -1,0 +1,13 @@
+PERSON: ODO Carlier
+Also known as: Eudes CARLIER.
+Description: Principal du Collège de Laon..
+Status: Maître.
+Gender: male.
+Active during: %1471-1499%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie) vers %1471-1499%..
+Academic grades obtained: Maître ès arts (Paris) en ;; Étudiant en théologie (Paris) ;.
+College affiliation: Collège de Laon : Boursier ès arts %1471-1473% ;; Collège de Laon : Boursier en théologie %1484-1495% ;; Collège de Laon : procureur %1492-1494% ?.
+Ecclesiastical positions held: Principal du collège de Laon %1498-1499% ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 13/12/2020..

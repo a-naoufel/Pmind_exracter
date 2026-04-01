@@ -1,0 +1,9 @@
+PERSON: MICHAEL Bouchardi
+Also known as: Michaelis BOUCHARDI.
+Description: Chanoine de Chalon.
+Status: Incertain.
+Gender: male.
+Active during: %1442-1454%.
+Academic grades obtained: Maître ès arts ;; Bachelier en droit canon ;.
+Ecclesiastical positions held: Chanoine de Chalon %1442-1454% ;; Archidiacre de Tournus %1442-1454% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 27/05/2025..

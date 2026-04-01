@@ -1,0 +1,12 @@
+PERSON: PETRUS de Cuisy 1
+Also known as: Pierre de CUISY.
+Description: Évêque de Meaux.
+Status: Extérieur.
+Gender: male.
+Active during: %1223-1255%.
+Born in: Île-de-France (Cuisy ?) ?.
+Diocese of origin: Diocèse de Meaux ?.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Évêque de Meaux %1223-1255%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 06/11/2019..

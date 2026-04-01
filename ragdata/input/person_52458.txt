@@ -1,0 +1,11 @@
+PERSON: PETRUS Juvenis 2
+Also known as: Petrus JUVENIS; Petrus LEJOSNE.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1395-1438%.
+Studied at: ?.
+Academic grades obtained: Maître ;; Bachelier en droit civil ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Reims %1395-1438% ;; Chanoine de Reims (Sainte-Nourrice) ;; Curé d’Ecly %1400-1405% ;; Doyen de Justinnes %1400-1405% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 29/06/2021..

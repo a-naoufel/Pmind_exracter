@@ -1,0 +1,13 @@
+PERSON: NICOLAUS Cercheville
+Also known as: Nicolaus CERCHEVILLE.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1367-1371%.
+Born in: Aquitaine (Périgord) ?.
+Diocese of origin: Diocèse de Sarlat ?.
+Studied at: Paris vers %1367-1371%..
+Academic grades obtained: Étudiant en décret (Paris) vers %1367-1371%..
+Religious order: O.S.B. : moine bénédictin du monastère (bénédictin) de Couze (diocèse de Sarlat)..
+Religious functions: Prieur de Couze (diocèse de Sarlat) ;; Bénéfice à la collation de l'abbé et des moines de Bourgeuil-en-Vallée (diocèse d'Angers) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 9/10/2023)..

@@ -1,0 +1,11 @@
+PERSON: HUMILIS
+Also known as: HUMILIS.
+Description: Frater.
+Status: Étudiant.
+Gender: male.
+Active during: %1272-1273%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant ?.
+Religious order: Frater (ordre inconnu)..
+Authored work: '(Sermon)', composed around %1272-1273%, à Saint-Gervais..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 12/11/2020)..

@@ -1,0 +1,11 @@
+PERSON: PETRUS Clerc
+Also known as: Petrus CLERC.
+Description: Boursier du Collège de Justice.
+Status: Étudiant.
+Gender: male.
+Active during: %1475-1475%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie ?) ?.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Justice : boursier en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Marion BERNARD-SCHWEITZER 21/10/2020)..

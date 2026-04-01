@@ -1,0 +1,14 @@
+PERSON: HENRICUS de Parisiis
+Also known as: Henricus de PARISIIS.
+Description: Ermite de Saint Augustin.
+Status: Étudiant.
+Gender: male.
+Active during: %1300-1300%.
+Born in: Île-de-France (Paris ?) ?.
+Diocese of origin: Diocèse de Paris ?.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Couvent (Augustin) de Paris (Grands-Augustins)..
+Religious order: O.E.S.A. : frère augustin..
+Religious functions: Visiteur du Couvent (Augustin) de Paris (Grands-Augustins)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe GENET 6/11/2020)..

@@ -1,0 +1,12 @@
+PERSON: CLAUDIUS Alberti
+Also known as: Claudius ALBERTI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1444-1445%.
+Born in: Provence ?.
+Diocese of origin: Diocèse d'Embrun..
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) .; Licencié ès arts (Paris) .; Maître ès arts (Paris) ..
+Academic relationships: Son maître est Henricus HUGONIS..
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, dernière mise à jour 25/02/2021..

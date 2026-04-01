@@ -1,0 +1,52 @@
+PERSON: BERNARDUS Guidonis
+Also known as: Bernardus GUIDONIS; Bernard GUI; Bernard LAGUIONIE.
+Description: Évêque de Lodève.
+Status: Extérieur.
+Gender: male.
+Active during: %1286-1331%.
+Born in: Limousin (Royère)..
+Studied at: Montpellier %1289-1291%..
+Academic grades obtained: Montpellier, étudiant en théologie..
+Religious order: O.P. ; frère du couvent (dominicain) de Limoges ..
+Religious functions: Définiteur du chapitre au chapitreprovincial (dominicain) d’Albi en ;; Vicaireprovincial présidant le chapitreprovincial (dominicain) d’Auvillar en ;.
+Ecclesiastical positions held: Evêque de Tuy %1323-1324% ;; Evêque de Lodève %1324-1331%..
+University functions: Brive (Couvent dominicain : Lecteur de logique %1284-1285%) ;; Limoges (Couvent dominicain : Lecteur en ) ;; Albi (Couvent dominicain : Lecteur en même temps qu’il est prieur %1295-1297%); Carcassonne (Couvent dominicain : Lecteur en même temps qu’il est prieur jusqu’en , quand un nouveau lecteur est nommé) ;.
+Representation roles: Missions pour le compte de JEAN XXII avec Bertrand de LATOUR en Italie en et à Paris en pour convaincre Robert de BÉTHUNE, comte de Flandre d’exécuter le traité signé avec le roi de France..
+Authored work: 'Libellus de doctrina christiana (De articulis fideis et sacramentis Ecclesiae ; De praeceptis decalogi ; De septem sacramentis ecclesie)', composed around .
+Authored work: 'De ordinatio officii missae et de casibus qui inter celebrandum accidere possunt', composed around ?.
+Authored work: 'Nomina apostolorum Iesu Christi', composed around ..
+Authored work: 'Nomina discipulorum Domini Iesu Christi cum officia missae 72 discipulorum', composed around et ..
+Authored work: 'Legenda S. Thomae Aquino [addito Epilogo]', composed around ?.
+Authored work: 'Sanctorale', composed around %1320-1329%., dedicated to Écrit à la demande de Béranger de LANDORE et dédié au pape JEAN XXII..
+Authored work: 'Tractatus de practica officii inquisitionis', composed around ..
+Authored work: 'Tractatus brevis de temporibus et annis generalium et particularium conciliorium', composed around %1314-1317%.
+Authored work: 'Extractationes (de opere tripartito Humberti de Romanis) ex libro quem fecit fr. Hymbertus de Romanis de hiis que tractanda videbantur in concilio gen. Lugduni celebrando sub A.D. 1274', composed around ?.
+Authored work: 'Liber sententiarum', composed around %1308-1323%..
+Authored work: 'Registrum ecclesiarum (État des églises du diocèse de Lodève)', composed around ..
+Authored work: 'Statuta, ordinationes, constitutiones synodi Lodovensis', composed around %1325-1326%..
+Authored work: 'Flores chronicarum seu Catalogus Pontificum Romanorum', composed around .
+Authored work: 'Catalogus brevis, per modum chronicarum Romanorum Pontificum', composed around ..
+Authored work: 'Chronica brevis imperatorum', composed around %1312-1329%.
+Authored work: 'Nomina regum Francorum', composed around .
+Authored work: 'Arbor genealogiae regum Francorum', composed around %1314-1331%..
+Authored work: 'Reges Francorum', composed around %1312-1330%..
+Authored work: 'Descriptio Galliarum', composed around ?.
+Authored work: 'Comites Tolosani', composed around ?.
+Authored work: 'De quattuor in quibus deus Praedicatorum ordinem insignivit …', composed around ?.
+Authored work: 'Catalogus magistrorum Ordinis Praedicatorum [De tribus gradus Praelatorum in ordine Praedicatorum, I]', composed around , et.
+Authored work: 'Catalogus priorum provincialium [De tribus gradus Praelatorum in ordine Praedicatorum, II]', composed around %1304-1315%.
+Authored work: 'De fundatione et prioribus conventuum provinciarum Tholosanae et provinciae ordinis praedicatorum [De tribus gradus Praelatorum in ordine Praedicatorum, III]', composed around %1304-1315%.
+Authored work: 'Numerus et nomina conventuum ac monasteriorum sororum in singulis provinciis totius Ordinis … [De tribus gradus Praelatorum in ordine Praedicatorum, IV]', composed around ?.
+Authored work: 'Acta capitulorum generalium Ord. Praed. [De tribus gradus Praelatorum in ordine Praedicatorum, Va]', composed around ?.
+Authored work: 'Acta capitulorum provincialium provinciae Provinciae et provinciae Tolosanae[De tribus gradus Praelatorum in ordine Praedicatorum, Vb]', composed around ?.
+Authored work: 'Priores provinciales sic sedent in capitulo generali', composed around , et.
+Authored work: 'De fundatione et progressu monasterii Sancti Augustini Lemovicensis', composed around ?.
+Authored work: 'Nomina episcoporum Lemovicensium', composed around .
+Authored work: 'Nomina episcoporum Tolosane sedis', composed around .
+Authored work: 'Nomina sanctorum quorum corpora Lemovicensem diocesim ornant (Traité sur les saints du Limousin)', composed around ?.
+Authored work: 'Priores Grandimontis (Chronique des prieurs de Grandmont)', composed around ..
+Authored work: 'Priores ordinis Artigiae (Chronique des prieurs de l’Artige)', composed around ..
+Authored work: 'Catalogus episcoporum Lodovensis', composed around ..
+Authored work: 'Speculum de vita, conversatione et miraculis sanctorum quorumdam Tolos.', composed around .
+Authored work: 'Tract. de conceptione B. Virginis', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/09/2015..

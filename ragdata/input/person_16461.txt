@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS Longatre
+Also known as: Aegidius LONGATRE.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1378-1378%.
+Diocese of origin: Diocèse de Cambrai..
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Étudiant ès arts en ..
+Ecclesiastical positions held: Candidat à des bénéfices ecclésiastiques à la collation du doyen et du chapitre de l'église de Cambrai dans le rotulus composé par Guillaume de CHANAC, archidiacre de Reims..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 05/05/2020)..

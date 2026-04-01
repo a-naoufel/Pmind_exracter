@@ -1,0 +1,10 @@
+PERSON: SAMSON Desprez
+Also known as: Samson DESPREZ.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1412-1420%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) %1412-1420%..
+College affiliation: Collège de Dormans-Beauvais : boursier %1412-1420% ;.
+Source: LAMOP : Opération Charles VI (n° 2529) :.

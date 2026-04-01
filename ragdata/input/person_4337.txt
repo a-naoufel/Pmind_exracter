@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Noyen
+Also known as: Guillelmus de NOYEN.
+Description: Conseiller-lai au Parlement.
+Status: Incertain.
+Gender: male.
+Active during: %1345-1352%.
+Studied at: ?.
+Academic grades obtained: Magister ?.
+Social origin: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 07/01/2020..

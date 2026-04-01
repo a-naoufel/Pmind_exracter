@@ -1,0 +1,10 @@
+PERSON: BERTRANDUS de Pratis
+Also known as: Berthaudo de PRATIS; Bertrando de PRATIS.
+Description: Conseiller-lai au Parlement.
+Status: Extérieur.
+Gender: male.
+Active during: %1345-1345%.
+Studied at: ?.
+Academic grades obtained: ?.
+Social origin: Noble : chevalier, seigneur de Monpezat..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/02/2021..

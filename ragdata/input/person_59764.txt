@@ -1,0 +1,12 @@
+PERSON: GEORGIUS Kesselring
+Also known as: Georgius KESSELRING.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1483-1491%.
+Born in: Alémanie (Alsace : Colmar) ;.
+Diocese of origin: Diocèse de Bâle ;.
+Studied at: Bâle %1483-1486% ;; Paris (Nation Anglo-allemande) %1489-1491% ;.
+Academic grades obtained: Bachelier ès arts (Bâle) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+University functions: Paris (Nation Anglo-allemande : procureur élu en (2 juin), continué le 25 août, jusqu’au 23 septembre) ;; Paris (Nation Anglo-allemande : il est l’un des quatre députés de la nation désignés en (19 février) pour trancher une dispute sur l’élection du procureur de la nation de Picardie) ;.
+Source: RAG ;.

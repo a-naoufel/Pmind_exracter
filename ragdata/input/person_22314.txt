@@ -1,0 +1,22 @@
+PERSON: PETRUS de Ceffons
+Also known as: Petrus de CEFFONS.
+Description: O. Cist..
+Status: Maître.
+Gender: male.
+Active during: %1340-1353%.
+Born in: Champagne (Céffonds)..
+Studied at: Paris..
+Academic grades obtained: Bachelier en théologie (Paris) %1348-1349% ;; Maître en théologie (Paris) ..
+College affiliation: Collège Saint-Bernard..
+Religious order: O. Cist. : moine de l’abbaye (cistercienne) de Clairvaux..
+University functions: Paris (Faculté de Théologie : Lecteur des sentences %1348-1349%)..
+Authored work: '(Commentaire sur les Sentences)', composed around %1348-1349%..
+Authored work: 'Epistola Luciferi ad cleros', composed around ..
+Authored work: 'Centiloquium', composed around ..
+Authored work: 'Sermo in Capitulo generali', composed around ;.
+Authored work: 'Somnium', composed around ;.
+Authored work: 'Flores Boethii de consolacione', composed around ?.
+Authored work: 'Flores diversorum auctorum et philosophorum', composed around ?.
+Authored work: 'Epistolae', composed around ?.
+Authored work: 'Parvum decretum de potestate summi pontificis', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

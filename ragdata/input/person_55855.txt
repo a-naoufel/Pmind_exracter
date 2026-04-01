@@ -1,0 +1,10 @@
+PERSON: NICOLAUS de La Guerre
+Also known as: Nicolas de LAGUERRE; Nicolas DELAGUERRE.
+Description: Maître du collège de La Marche.
+Status: Gradué.
+Gender: male.
+Active during: %1502-1502%.
+Studied at: Paris..
+Academic grades obtained: Licencié ès arts en ;.
+College affiliation: Collège de LaMarche : maître-régent en ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

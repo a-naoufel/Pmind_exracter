@@ -1,0 +1,10 @@
+PERSON: CLAUDIUS Veron
+Also known as: Claudius VERON.
+Description: Étudiant en médecine ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1491-1507%.
+Studied at: Paris %1491-1507%..
+Academic grades obtained: ?Étudiant en médecine (Paris) ..
+University functions: Enseigne la médecine aux barbiers à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 15/04/2021..

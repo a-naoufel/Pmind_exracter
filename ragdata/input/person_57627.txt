@@ -1,0 +1,11 @@
+PERSON: GUIDO de Rupeforti
+Also known as: Guy de ROCHEFORT.
+Description: Évêque de Langres.
+Status: Extérieur.
+Gender: male.
+Active during: %1250-1266%.
+Studied at: ?.
+Academic grades obtained: ?.
+Social origin: Noble..
+Ecclesiastical positions held: Évêque de Langres %1250-1266 ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/03/2024..

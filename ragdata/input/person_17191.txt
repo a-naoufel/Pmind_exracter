@@ -1,0 +1,12 @@
+PERSON: ANTHONIUS de Fonte
+Also known as: Anthonius de FONTE.
+Description: Clerc de la chapelle du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1453-1459%.
+Studied at: Paris %1453-1459%..
+Academic grades obtained: Étudiant (Paris) %1453-1459%..
+College affiliation: Clerc de la chapelle du collège de Dormans-Beauvais %1453-1459%..
+Ecclesiastical status: Clerc..
+Ecclesiastical positions held: Chapelain ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/09/2020)..

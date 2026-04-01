@@ -1,0 +1,14 @@
+PERSON: ANGELUS de Furcio
+Also known as: Angelus de FURCIO; Angelo da FURSI.
+Description: Augustin.
+Status: Étudiant.
+Gender: male.
+Active during: %1266-1327%.
+Born in: Italie (Abruzzes : Fursi)..
+Studied at: Paris ;; Naples..
+Academic grades obtained: Étudiant (Paris) ;.
+Academic relationships: Son maître est AEGIDIUS Romanus..
+University functions: Naples (Université : lecteur en théologie) ;.
+Authored work: '(Super Matthaeum)', composed around ?.
+Authored work: '(Sermones)', composed around ?.
+Source: DBI :.

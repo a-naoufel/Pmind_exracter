@@ -1,0 +1,26 @@
+PERSON: GOMETIUS Hispanus
+Also known as: Gometius HISPANUS; Gomes de LISBOA; Gometius ULYSPONENSIS.
+Description: O.F.M..
+Status: Étudiant.
+Gender: male.
+Active during: %1476-1513%.
+Born in: Portugal (Lisbonne ?) ;.
+Diocese of origin: Diocèse de Lisbonne ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en théologie (Paris) ;; Bachelier en théologie ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) pour le programme du lectorat ?.
+Religious order: O.F.M. : frère (franciscain) du couvent de Venise..
+University functions: Paris (Faculté de théologie : lecteur %1477-1478% ?).; Venise (Studium franciscain : maître-régent) ;; Pavie (Studium franciscain : maître-régent) ;.
+Representation roles: Il participe au concile du Latran en ..
+Authored work: 'Lectura super Quatuor Libros Sententiarum', composed around ?.
+Authored work: 'Commentarius in primum librum facultatis theologicae Parisiensis in materia fidei et morum', composed around ?.
+Authored work: 'Questio perutilis de cuiuscumque scientie subiecto principaliter tamen naturalis philosophie', composed around ?.
+Authored work: 'Tractatus de incolentibus purgatorium . His est tractatus animas quas expia ignis Summum Pontificem solvere posse docens', composed around ?.
+Authored work: 'Lectura in Librum Primum Scripti Oxoniensis Scoti', composed around ?.
+Authored work: 'Questiones Quodlibeticaein Via Scoti', composed around ?.
+Authored work: 'Proverbia Solomonis cantata', composed around ?, dedicated to Dédié au Cardinal Francesco de QUIÑONES..
+Authored work: 'Super quaestiones Metaphysicae Antonii Andreae', composed around ?.
+Authored work: 'Summa de Casibus per Fratrem Astesanum de Ast. Maxima cura et sollicitudine famosissimi sacre theologie magistri fratris Bartholomei de Bellat de feltro circa iuris collationes necnon fratris Cometij hispani de Ulyxbona provincia Portugalie sacre theologue bacchalarij clarissimi in conventu Venetiarum circa residuum', composed around ..
+Authored work: 'Apologia de se ipso', composed around ?, dedicated to Adressé à Aloysius LIPPMANUS, évêque de Bergame..
+Authored work: 'Apologia Montium Pietatis, seu quaestio an licita sit institutio montis pietatis', composed around ?.
+Source: Franciscan authors (B. ROEST) :.

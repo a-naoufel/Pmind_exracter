@@ -1,0 +1,10 @@
+PERSON: CONRADUS 3
+Also known as: Dominus CONRALDUS.
+Description: "Dominus".
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris en ..
+Academic grades obtained: Étudiant ?.
+Ecclesiastical status: Clerc ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 22/04/2021..

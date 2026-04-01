@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Gardino 3
+Also known as: Guillelmus de GARDINO.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1428-1428%.
+Diocese of origin: Diocèse de Cambrai..
+Studied at: Paris %1428-1428%..
+Academic grades obtained: Bachelier en décret (Paris) 4 mars ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe GENET, 25/03/2022..

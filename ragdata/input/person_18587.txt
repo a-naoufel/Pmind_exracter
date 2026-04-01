@@ -1,0 +1,10 @@
+PERSON: PETRUS Chippot
+Also known as: Petrus CHIPPOT.
+Description: Frater.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+Religious order: Religieux d'un ordre non précisé ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 17/08/2015..

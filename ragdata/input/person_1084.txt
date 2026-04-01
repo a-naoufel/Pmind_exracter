@@ -1,0 +1,13 @@
+PERSON: ALBERICUS de Pratellis
+Also known as: Aubricus de PRATELLIS; Abrito de PRATELLIS; Aubry de PRATELLIS.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1378-1387%.
+Born in: Champagne..
+Diocese of origin: Diocèse de Châlons-en-Champagne..
+Studied at: Paris (Nation de France) %1378-1387%.
+Academic grades obtained: Maître ès arts (Paris) ;; Maître en médecine (Paris) ..
+Ecclesiastical status: Prêtre du diocèse de Châlons-en-Champagne en ;.
+Ecclesiastical positions held: Curé de Reims (Saint-Étienne) en .; Provision pour un canonicat avec expectative de prébende, office ou dignité à la cathédrale de Reims en ; mandat à l'abbé de Reims (Saint-Rémy), à l'abbé de Reims (Saint-Denis) et au doyen d'Avignon (Saint-Agricol).; Candidat à un canonicat avec expectative de prébende à la cathédrale de Chartres sur le rotulus de la Faculté de Médecine en ;; Candidat à une demi-prébende en la cathédrale de Reims, la première provision n'ayant pas été suivie d'effets, sur le rotulus de la Faculté de Médecine en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 23/06/2020)..

@@ -1,0 +1,10 @@
+PERSON: GALTERIUS de Arenis
+Also known as: Galterus de ARENIS.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1350-1350%.
+Studied at: Paris ?.
+Academic grades obtained: ?.
+College affiliation: Collège des Cholets : étudiant ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 23/10/2020)..

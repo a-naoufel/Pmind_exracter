@@ -1,0 +1,10 @@
+PERSON: MILO Du Plesis
+Also known as: Mile DUPLESIS.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1390-1391%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) %1390-1391% ;.
+College affiliation: Collège de Dormans-Beauvais : hôte %1390-1391% ;; Collège de Dormans-Beauvais : boursier ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 07/09/2019..

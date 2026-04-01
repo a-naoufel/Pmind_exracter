@@ -1,0 +1,11 @@
+PERSON: BARTHOLOMAEUS Moens de Bruxella
+Also known as: Bartholomaeus MOENS de Bruxella.
+Description: Bachelier en droit canon de Cologne.
+Status: Étudiant.
+Gender: male.
+Active during: %1442-1452%.
+Born in: Brabant (Bruxelles) ?.
+Diocese of origin: Diocèse de Cambrai ?.
+Studied at: Louvain %1442-1446%.; Paris avant ;; Cologne .; Paris avant ;.
+Academic grades obtained: Licencié ès arts (Louvain) .; Étudiant en décret (Paris) avant ?; Bachelier en droit canon (Cologne) ;.
+Source: RAG ;.

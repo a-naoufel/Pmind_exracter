@@ -1,0 +1,27 @@
+PERSON: RICARDUS de Furnivalle
+Also known as: Ricardus de FURNIVALLE; Richard de FOURNIVAL.
+Description: Chancelier d'Amiens.
+Status: Maître.
+Gender: male.
+Active during: %1220-1260%.
+Born in: Picardie (Amiens) ;.
+Diocese of origin: Diocèse d’Amiens ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en théologie (Paris) ;; Étudiant en médecine (Paris) ;; Maître en ..
+Family relationships: Son demi-frère est Arnoul de LAPIERRE, évêque d’Amiens ;.
+Ecclesiastical status: Sous-diacre en ..
+Ecclesiastical positions held: Chanoine d'Amiens, ;; Chancelier d'Amiens %1240-1260% ;; Chanoine de Rouen ;.
+University functions: Paris (Maître enseignant vers ) ;.
+Authored work: 'Nativitas', composed around ?.
+Authored work: 'Tractatus de alchymia', composed around ?.
+Authored work: 'Speculum astronomiae', composed around ?.
+Authored work: 'Li jugemens des urines', composed around ?.
+Authored work: '(Recette)', composed around ?.
+Authored work: 'De vetula', composed around ?.
+Authored work: 'Li bestaire d’amours', composed around ?.
+Authored work: 'Li consaus d’amours', composed around ?.
+Authored work: 'Commens d’amours', composed around ?.
+Authored work: '(Poèmes lyriques)', composed around ?.
+Authored work: 'Biblionomia', composed around %1240-1250% ?.
+Authored work: 'Poissance d’amours', composed around ?.
+Source: ARLIMA : Laurent BRUN, avec compléments de Renaud BECHTEL, Christopher LUCKEN, Johannes JUNGE RUHLAND, Max SCHMITZ, Juila C/ SZIRMAI et Eliza ZINGESSER :0.

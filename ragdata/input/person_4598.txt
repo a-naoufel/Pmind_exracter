@@ -1,0 +1,11 @@
+PERSON: HENRICUS de Clevis
+Also known as: Henricus de CLEVIS; Henri de CLEVIS.
+Description: Maître ès arts à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1351-1364%.
+Studied at: Paris %:1351-1355%..
+Academic grades obtained: Bachelier ès arts (Paris) ? ;; Licencié ès arts (Paris) ? ou ? ;; Maître ès arts (Paris) ? ou ?..
+Ecclesiastical positions held: Recteur de Burg (cercle de Lennep) ;; Chanoineprébendé de Zyfflich (cercle de Clèves) obtenus en ..
+University functions: ?Procureur de Nation d'Angleterre à l'Université de Paris, ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 25/06/2022..

@@ -1,0 +1,8 @@
+PERSON: ANDREAS de Epernon
+Also known as: André de EPERNON.
+Description: Prévôt des marchands.
+Status: Extérieur.
+Gender: male.
+Active during: %1394-1431%.
+Social origin: Bourgeois de Paris..
+Source: parismoyenage.fr.

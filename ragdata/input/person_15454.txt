@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Guillard
+Also known as: Guillelmus GUILLARD; Guillelmus GAILLARD.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1401-1408%.
+Studied at: Paris %1401-1401%..
+Academic grades obtained: Étudiant (Paris) ..
+Religious order: O.S.B. : moine bénédictin..
+Religious functions: Abbé de Saint-Rémi de Sens (diocèse de Sens) en %1401-1408%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; Jean-Philippe Genet, dernière mise à jour 03/05/2022..

@@ -1,0 +1,11 @@
+PERSON: PHILIPPUS 9
+Also known as: PHILIPPUS.
+Description: Maître.
+Status: Incertain.
+Gender: male.
+Active during: %1445-1445%.
+Born in: Bretagne ?.
+Studied at: Paris..
+Academic grades obtained: Maître ;.
+College affiliation: Boursier du collège de Carembert en 1445% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 06/10/2023..

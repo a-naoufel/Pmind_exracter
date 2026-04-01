@@ -1,0 +1,7 @@
+PERSON: GUIOTUS de Celles
+Also known as: GUIOT de Celles.
+Description: Cuisinier de Jehanne de Presles.
+Status: Extérieur.
+Gender: male.
+Active during: %1347-1347%.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

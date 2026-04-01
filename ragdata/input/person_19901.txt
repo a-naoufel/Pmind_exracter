@@ -1,0 +1,10 @@
+PERSON: ROGARIUS de Collepitre
+Also known as: Rogerius de COLLEPITRE.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Born in: ?Italie (Collapietrp dans les Abruzzes) ?.
+Studied at: Paris en ..
+Academic grades obtained: Étudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, denière mise à joue 31/08/2024..

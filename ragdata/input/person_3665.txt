@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Thierno 1
+Also known as: Guillelmus de THIERNO; Guillaume de THIERNO.
+Description: Boursier au collège de Navarre..
+Status: Étudiant.
+Gender: male.
+Active during: %1380-1398%.
+Studied at: Paris (Collège de Navarre) %1384-1386%..
+Academic grades obtained: Étudiant en grammaire (Paris) ;; Étudiant ès arts (Paris) ..
+College affiliation: Collège de Navarre : boursier grammairién en ;; Collège de Navarre : boursier artien en ;.
+Ecclesiastical positions held: Chanoine d'Amiens ?; Préchantre de Chartres %1380-1398% ;; Collation pontificale directe ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe Genet, 13/03/2020..

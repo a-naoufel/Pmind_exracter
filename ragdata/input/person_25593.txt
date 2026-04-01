@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Arboris
+Also known as: Guillelmus ARBORIS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1394-1394%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Langres ;.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) en ;.
+Ecclesiastical status: Clerc du diocèse de Langres en ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus présenté par Pierre d’AILLY à BENOÎT XIII en (13 décembre) à Avignon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 10/02/2019..

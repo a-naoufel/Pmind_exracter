@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Benedicti 1
+Also known as: Nicolaus BENEDICTI.
+Description: Licencié en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1340-1343%.
+Born in: Anjou-Maine ?.
+Diocese of origin: Diocèse de LeMans..
+Studied at: Paris %1340-1340% ;; Angers %1343-1343%..
+Academic grades obtained: Maître ès arts (?Angers ou Paris) avant ;; Licencié en médecine (Paris) ;; Maître en médecine (?Angers) avant ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 08/10/2023..

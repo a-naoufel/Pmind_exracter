@@ -1,0 +1,8 @@
+PERSON: TOUSSANUS Collaie
+Also known as: Toussanus COLLAIE.
+Description: Parcheminier.
+Status: Suppôt.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 31/08/2016..

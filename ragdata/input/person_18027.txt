@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Pardieu
+Also known as: Guillelmus de PARDIEU; Guillermus de PARDIEU.
+Description: Bachelier en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1446-1447%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse d'Amiens..
+Studied at: Paris (Nation de Picardie) %1446-1447%..
+Academic grades obtained: Maître ès arts (Paris) attesté en ;; Bachelier en décret (Paris) attesté en ..
+Ecclesiastical status: Clerc du diocèse d'Amiens..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (4e année) en (11 octobre)) ;; Paris (Faculté de Décret : Lecteur des Décrétales (5e année) en (octobre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 04/05/2015 ; révision Jean-Philippe Genet 08/04/2022..

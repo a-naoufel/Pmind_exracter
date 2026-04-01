@@ -1,0 +1,7 @@
+PERSON: ANDREAS Duperroy
+Also known as: Andreas DUPERROY.
+Description: Libraire juré..
+Status: Suppôt.
+Gender: male.
+Active during: %1408-1408%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 25/02/2020)..

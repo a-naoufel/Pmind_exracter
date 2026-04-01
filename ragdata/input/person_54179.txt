@@ -1,0 +1,10 @@
+PERSON: SIMON 12
+Also known as: SIMON.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1350-1350%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Sens ;; Doyen de Bray ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 10/09/2022..

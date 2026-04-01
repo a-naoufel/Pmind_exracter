@@ -1,0 +1,9 @@
+PERSON: MATTHAEUS de Beaumont
+Also known as: MATHIEU, comte de Beaumont.
+Description: Grand Chambrier.
+Status: Extérieur.
+Gender: male.
+Active during: %1155-1208%.
+Family relationships: Son père est Mathieu II de BEAUMONT ; Sa mère est Mathilde de CHATEAUDUN ; Sa femme (première) est Eléanore de VERMANDOIS. Sa femme (seconde) est Aliénore de SOISSONS..
+Social origin: Noble ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 4/04/2024)..

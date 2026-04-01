@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Doesi
+Also known as: Guillelmus DOESI.
+Description: Nonce pour le diocèse d'Angers.
+Status: Suppôt.
+Gender: male.
+Active during: %1455-1456%.
+Studied at: Paris %1455-1456%..
+University functions: Paris (Nation de France : Nonce pour le diocèse d'Angers en %1455-1456%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 26/05/2022..

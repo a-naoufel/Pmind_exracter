@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Bosco
+Also known as: Guillelmus BOSCO.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1330-1343%.
+Studied at: Paris %1335-1343%..
+Academic grades obtained: Étudiant en théologie (Paris)..
+Family relationships: Sa soeur est X BOSCO..
+Religious functions: Cellarier de Saint-Bertin, %1330-1331% ;; Prieur de Saint-Bertin, %1335-1343%..
+Ecclesiastical positions held: O.S.B. : moine (bénédictin) de l'abbaye (bénédictine) de Saint-Bertin..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol ; dernière mise à jour, Jean-Philippe Genet, 22/05/2018)..

@@ -1,0 +1,10 @@
+PERSON: COLINUS de Cadomo
+Also known as: Colinus de CADOMO.
+Description: Clerc.
+Status: Incertain.
+Gender: male.
+Active during: %1331-1331%.
+Studied at: ?Paris ..
+Academic grades obtained: ?.
+Ecclesiastical status: Clericus..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/04/2021..

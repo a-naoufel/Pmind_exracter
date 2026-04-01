@@ -1,0 +1,10 @@
+PERSON: IVO Godestar
+Also known as: Yves GODESTAR.
+Description: Principal du collège de Justice.
+Status: Maître.
+Gender: male.
+Active during: %1515-1516%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) avant ?.
+College affiliation: Collège de Justice : principal en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour, 08/11/2024..

@@ -1,0 +1,28 @@
+PERSON: BARTHOLOMAEUS de Parme
+Also known as: Bartolomeo da PARMA.
+Description: Professeur bolonais ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1280-1300%.
+Born in: Italie (Parma)..
+Studied at: ?Paris; ?Bologne ..
+University functions: Bologne (Université : professeur ?)..
+Authored work: 'Liber de occultis', composed around ?..
+Authored work: 'Breviloquium de fructu totius astronomiae', composed around à Bologne., dedicated to Dédié à Teodisius de FIESCHI ..
+Authored work: 'Ars geomantie', composed around à Bologne ..
+Authored work: 'Breviloquium artis geomantiae', composed around à Bologne..
+Authored work: 'Collecta de libro magno Geomantiae', composed around ..
+Authored work: 'Epistola astrologica', composed around ?.
+Authored work: 'Significationes naturales planetarum extractae de libro consiliorum', composed around ?.
+Authored work: 'Significationes planetarum cum fuerint Domini anni mundi in qualibet revolucione', composed around ?.
+Authored work: 'Tract. de electionibus horarum et ascendentium', composed around ?.
+Authored work: 'Liber de judiciis astrologicis', composed around ?.
+Authored work: 'Liber consiliorum', composed around ?.
+Authored work: 'Judicium particulare de mutationibus aeris', composed around ?.
+Authored work: 'Tractatus spherae', composed around %1297 -1300% à Bologne ..
+Authored work: 'Collecta et extracta de libro dispositoris anni omni anno quem fecit Albumasar ad Darium regem Indiae ante imperium Alexandri', composed around ?.
+Authored work: 'Compilatio libri Iudicia Ptolemae', composed around ?.
+Authored work: 'Consilia', composed around ?.
+Authored work: 'De interrogationibus', composed around ?.
+Authored work: 'Distinctio divisiones terrae et Paradisi delitiarum', composed around ?.
+Authored work: 'Editio libri particularis a Michaelo Scoto scripti'.

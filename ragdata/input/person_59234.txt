@@ -1,0 +1,14 @@
+PERSON: ROBERTUS de Lorriaco 2
+Also known as: Robertus de LORRIACO.
+Description: Chanoine d'Auxerre.
+Status: Incertain.
+Gender: male.
+Active during: %1365-1395%.
+Born in: Île-de-France ;.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: ?.
+Academic grades obtained: Bachelier in utroque en ;; Licencié en droit civil en ;.
+Family relationships: Son père est Robert de LORRIS, seigneur d’Ermenonville ; Son frère est Garinus de LORRIACO, archidiacre du Gâtinais ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine d’Auxerre %1362-1364% ;; Chanoine de Chartres %1365-1367% ;; Chanoine de Meaux %1367-1383% ;; Archidiacre de Brie %1367-1383% ;; Chanoine de Paris (Notre-Dame) %1367-1395% ;; Chanoine de Bruges (Saint-Donatien) %1367- % ;; Chanoine de Sens %1369-1370% ;; Archidiacre du Gâtinais %1369-1370% ;; Prévôt de Mazangé %1372-1395% ;; Chanoine de Cambrai %1374- % ;; Doyen de Cambrai %1383- % ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 24/06/2025)..

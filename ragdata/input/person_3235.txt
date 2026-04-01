@@ -1,0 +1,28 @@
+PERSON: GALFREDUS de Blenello
+Also known as: Galfredus de BLENELLO; Galfredus de BLEVELLO; Godefroid de BLENEAU; Godefridus BURGUNDUS.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1235-1250%.
+Born in: Bourgogne(Bléneau)..
+Diocese of origin: Diocèse de Sens..
+Academic grades obtained: Maître en théologie (Paris)..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Paris (Saint-Jacques)..
+University functions: Paris (Faculté de Théologie : maîtrerégent au %1235-1242%..
+Representation roles: Participe au Concile de Lyon en ..
+Authored work: 'Sermons', composed around .
+Authored work: '(Sermon pour l'Ascension)', composed around ca.%1235-1238%.
+Authored work: '(Sermon pour St-Nicolas)', composed around ca.%1235-1238% à Paris (Saint-Antoine)..
+Authored work: 'Sermo in dominica II Adventus', composed around (10 décembre)..
+Authored work: 'Sermo in dominica I post octavam Epiphanie', composed around (7 janvier)..
+Authored work: 'Sermo in dominica IV Quadragesimae', composed around (18 mars)..
+Authored work: 'Sermo in octavis Pasche', composed around (15 avril)..
+Authored work: 'Sermo in festo sanctorum Fabiani et Sebastiani', composed around (20 janvier)..
+Authored work: 'Sermo de sancto Martino', composed around ?.
+Authored work: 'Sermo in Epiphania', composed around ?.
+Authored work: 'Postilla super Psalterium', composed around ?.
+Authored work: 'Postillae supra epistolas Pauli', composed around ?.
+Authored work: 'Quaestio de beneficiis', composed around ?.
+Authored work: 'Quaestio de quolibet', composed around ?.
+Source: MIRABILE :.

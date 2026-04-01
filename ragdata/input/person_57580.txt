@@ -1,0 +1,12 @@
+PERSON: P.
+Also known as: P..
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1234-1234%.
+Born in: Italie (Latium : diocèse de Rome) ;.
+Diocese of origin: Diocèse de Rome..
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ;.
+Family relationships: Son père est SIXTUS, citoyen romain..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 19/02/2024)..

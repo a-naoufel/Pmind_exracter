@@ -1,0 +1,9 @@
+PERSON: MATHILDIS
+Also known as: MATHILDIS II, abbatissa S. Mariae Suessionis.
+Description: Abbesse de Soissons (Sainte-Marie).
+Status: Extérieur.
+Gender: female.
+Active during: %1126-1162%.
+Social origin: Noble ;.
+Religious functions: Abbesse (O.S.B.) de Soissons (Sainte-Marie) %1126-1162% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/04/2024)..

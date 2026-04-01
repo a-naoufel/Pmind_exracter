@@ -1,0 +1,9 @@
+PERSON: PHILIBERTUS Pin
+Also known as: Philibertus PIN.
+Description: Nonce pour le diocèse de Belley.
+Status: Suppôt.
+Gender: male.
+Active during: %1445-1445%.
+Studied at: Paris (Nation de France) ..
+University functions: Paris (Nation de France : il reçoit l'office de nonce pour le diocèse de Belley en (20 avril)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 12/09/2022..

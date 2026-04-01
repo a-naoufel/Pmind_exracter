@@ -1,0 +1,14 @@
+PERSON: PETRUS Philomena de Dacia
+Also known as: Petrus de DACIA; Petrus PHILOMENA de Dacia; Petrus de SANCTO AUDOMARO; Peder NATTERGAL.
+Description: Maître ès arts.
+Status: Étudiant.
+Gender: male.
+Active during: %1280-1310%.
+Studied at: Bologne vers ;; Paris, vers %1393-1300% ;.
+Academic grades obtained: Étudiant (Paris) ;; Maître ès arts, avant ;.
+Ecclesiastical positions held: Chanoine de Roskilde en %1291-1304% au moins ;.
+Authored work: 'Kalendarium', composed around ?.
+Authored work: 'Canones super Calendarium', composed around ?.
+Authored work: 'Tabulae computatoria', composed around .
+Authored work: 'Comment. in Algorithmum Joannis de Sacro Bosco', composed around ?.
+Source: Complete Dictionary of Scientific Biography, 2008 (Olaf PEDERSEN) :.

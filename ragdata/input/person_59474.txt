@@ -1,0 +1,10 @@
+PERSON: ANTHONIUS Besi
+Also known as: Anthoine BESI.
+Description: Maître du collège d’Autun.
+Status: Maître.
+Gender: male.
+Active during: %1463-1463%.
+Studied at: Paris ?.
+Academic grades obtained: Maître ;.
+College affiliation: Collège d’Autun : maître ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

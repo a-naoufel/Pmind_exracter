@@ -1,0 +1,11 @@
+PERSON: PETRUS de Grelleria
+Also known as: Petrus de GRELLERIA.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1450-1450%.
+Born in: Berry ?.
+Diocese of origin: Diocèse de Bourges ;.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/06/2023..

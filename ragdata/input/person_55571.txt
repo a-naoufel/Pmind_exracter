@@ -1,0 +1,13 @@
+PERSON: RADULPHUS de Conchis
+Also known as: Radulphus de CONCHIS.
+Description: Chantre d’Évreux.
+Status: Maître.
+Gender: male.
+Active during: %1197-1223%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse d’Évreux ?.
+Studied at: Paris ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d’Évreux %1197-1223% ;; Chantre d’Évreux %1223- % ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/03/2023)..

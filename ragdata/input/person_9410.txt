@@ -1,0 +1,10 @@
+PERSON: NICOLAUS de Bussoroliis
+Also known as: Nicholaus de BUSSOROLIIS; Nicholaus de BUSSEROLYS; Nicholaus de BUSSOROLIIS; Nicholaus de BUXEROLIIS.
+Description: Chanoine d'Évreux..
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1342%.
+Studied at: Paris %1329-1342%..
+Academic grades obtained: Étudiant (Paris) en .; Licencié en droit civil (Paris) attesté en ..
+Ecclesiastical positions held: Chanoine d'Évreux, avec expectative de prébende, en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 12/05/2023..

@@ -1,0 +1,12 @@
+PERSON: SIMON de Paris 2
+Also known as: Simon de PARIS.
+Description: Curé d’Escremeville.
+Status: Maître.
+Gender: male.
+Active during: %1264-1276%.
+Born in: Île-de-France (Paris ?) ?.
+Diocese of origin: Paris ?.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en décret (Paris ?) ?.
+Ecclesiastical positions held: Curé d'Escremeville (diocèse de Bayeux) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/05/2025..

@@ -1,0 +1,16 @@
+PERSON: LAMBERTUS de Stipite
+Also known as: Lambertus de STIPITE; Lambertus del STACHE; Lambertus de LA SOUCHE.
+Description: Docteur en droit canon.
+Status: Maître.
+Gender: male.
+Active during: %1386-1424%.
+Born in: Namurois (Dinant) ;.
+Diocese of origin: Diocèse de Liège ?.
+Studied at: Paris %1398-1404%..
+Academic grades obtained: Docteur en décret (Paris) ;.
+Religious order: O.S.B. : moine (bénédictin) de l'abbaye de Liège (Saint-Laurent) vers.
+Religious functions: Prieur de Bertrée (diocèse de Liège) en ;; Définiteur du chapitregénéral des Bénédictins nommé en ;; Chargé de réformer l'abbaye de Liège (Saint-Laurent) après ;; Chargé de réformer l'abbaye de Florennes (diocèse de Liège) en ;; Prieur ad commendam de Bertrée (diocèse de Liège) en ;; Prieur ad commendam de Namèche (diocèse de Liège) en ;; Prieur de Namèche (diocèse de Liège) après ;.
+University functions: Paris (Faculté de décret : Maître régent en ) ;; Paris (Faculté de décret : Maître régent en ) ;; Paris (Faculté de décret : Maître régent au moins jusqu'en ) ;.
+Representation roles: Participe à l'assemblée du clergé à Paris en juin ;; Procureur de l'évêque de Liège, des abbés de sa province et du chapitre et clergé de la ville de Liège au concile de Pise en ;; Ambassadeur de l'évêque et du chapitre cathédral de Liège, du duc de Brabant et de l'abbé de Cluny au concile de Constance ;; Envoyé pour persuader le pape BENOÎT XIII de résigner ;; Envoyé pour persuader le pape JEAN XXIII de résigner ;; Actif dans les négociations préalables au traité de Narbonne ;; Envoyé auprès du pape BENOÎT XIII pour l'avertir de sa déposition par le concile de Constance et de sa convocation à comparaître devant les Pères du concile de Constance ;; Ambassadeur de PHILIPPE le Bon, duc de Bourgogne, à la Curie romaine en ;.
+Authored work: 'Relatio schismatis quod fuit in Leodio inter Iohannem de Bavaria electum Leodiensem, et Theodoricum de Perwez instrusum per populum', composed around Ecrit vers %1407-1408% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe GENET, 17/08/2023..

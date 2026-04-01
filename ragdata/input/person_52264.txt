@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Sens
+Also known as: Guillaume de SENS.
+Description: Stationnaire.
+Status: Suppôt.
+Gender: male.
+Active during: %1270-1275%.
+Studied at: Paris ?.
+Family relationships: Sa femme est Margarita de SENS ; Son fils est peut-être André de SENS ; Son petit-fils est peut-être Thomas de SENS ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/04/2021..

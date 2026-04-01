@@ -1,0 +1,13 @@
+PERSON: AEGIDIUS de Crepy
+Also known as: Aegidius de CRÉPY.
+Description: Étudiant au Collège de Laon..
+Status: Étudiant.
+Gender: male.
+Active during: %1348-1365%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon..
+Studied at: Paris (Nation de Picardie) %1348-1350%..
+Academic grades obtained: Étudiant (Paris) %1348-1350% ?; Maître ès arts (Paris) en ;; Licencié en droit civil en ;.
+College affiliation: Collège de Laon : boursier %1348-1350% ;; Collège de Laon : procureur %1348-1350% ;.
+Ecclesiastical positions held: Chapelain de Sanghen jusqu'en ;; Chanoineprébendé de Noyon ;; Trésorier de Noyon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 12/12/2020..

@@ -1,0 +1,10 @@
+PERSON: HUGO Le Comte
+Also known as: Hugo LECOMTE.
+Description: Procureur au Châtelet.
+Status: Incertain.
+Gender: male.
+Active during: %1506-1509%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+College affiliation: Collège de Dainville : procureur en et en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

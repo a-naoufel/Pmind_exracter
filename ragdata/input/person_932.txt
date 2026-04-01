@@ -1,0 +1,10 @@
+PERSON: ARNALDUS 7
+Also known as: ARNOLDUS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1488-1488%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+University functions: Paris (Faculté des Arts : membre pour la nation Anglo-allemande de la légation envoyée auprès de CHARLES VIII en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction :Jean-Philippe Genet, dernière mise à jour 20/10/2020)..

@@ -1,0 +1,10 @@
+PERSON: THEOBALDUS 2
+Also known as: THEOBALDUS; THIBAUD.
+Description: Chanoine.
+Status: Étudiant.
+Gender: male.
+Active during: %1180-1180%.
+Studied at: Paris..
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Tours ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/09/2023)..

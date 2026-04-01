@@ -1,0 +1,11 @@
+PERSON: MATTHAEUS Piquot
+Also known as: Matthaeus PIQUOT; Mathieu PICOT.
+Description: Chanoine d’Angers.
+Status: Incertain.
+Gender: male.
+Active during: %1291-1326%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Angers %1291-1326% ;; Doyen de Craon ;.
+Other ecclesiastical functions: Official d’Angers ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/06/2022)..

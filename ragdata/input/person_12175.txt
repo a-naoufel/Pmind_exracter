@@ -1,0 +1,12 @@
+PERSON: URIEL von Gemmingen
+Also known as: Uriel Von GEMMINGEN.
+Description: Archevêque de Mayence.
+Status: Étudiant.
+Gender: male.
+Active during: %1484-1514%.
+Born in: Alémanie (Michelfeld, dans le Kraichgau)..
+Studied at: Paris ;; Padoue ..
+Academic grades obtained: Docteur in utroque jure (Padoue).
+Family relationships: Son frère est Georg von GEMMINGEN..
+Ecclesiastical positions held: Custos du chapitre de Worms ;; Chanoine de Mayence (Saint-Alban) ;; Doyen de Mayence %1505-1508% ;; Archevêque de Mayence %1508-1514%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 14/10/2024..

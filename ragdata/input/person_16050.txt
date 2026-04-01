@@ -1,0 +1,13 @@
+PERSON: AEGIDIUS de Fonte
+Also known as: Aegidius de FONTE.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1475-1477%.
+Born in: Orléanais ?.
+Diocese of origin: Diocèse de Chartres..
+Studied at: Paris %1475-1477%..
+Academic grades obtained: Bachelier en décret (Paris) ..
+Ecclesiastical status: Prêtre..
+University functions: Paris (Faculté de décret : Lecteur des Décrétales en ) ;; Paris (Faculté de décret : Lecteur des Décrétales en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 27/04/2020)..

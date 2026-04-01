@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Aalis
+Also known as: Guillelmus AALIS; Guillaume AALIS; Guillaume ALIZ; Guillaume AALIPS.
+Description: Chapelain de Notre-Dame de Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1400-1418%.
+Studied at: Paris (Faculté de Médecine) %1400-1403%..
+Academic grades obtained: Étudiant en médecine (Paris) %1400-1403%..
+Ecclesiastical positions held: Clerc du diocèse de Coutances ;; Chapelain de Notre-Dame de Paris, ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 06/02/2022..

@@ -1,0 +1,16 @@
+PERSON: FRANCISCUS de Ecclesiis
+Also known as: Franciscus de ECCLESIIS; Franciscus de POPULETO.
+Description: Docteur en théologie cistercien.
+Status: Maître.
+Gender: male.
+Active during: %1409-1416%.
+Born in: Catalogne ?.
+Diocese of origin: Diocèse de Tarragone ?.
+Studied at: Paris (Collège Saint-Bernard) %1409-1414%.
+Academic grades obtained: Licencié en théologie (Paris) ;; Docteur en théologie (Paris) ..
+College affiliation: Collège Saint-Bernard %1409-1414%. ;; Collège Saint-Bernard : régent vers %1413-1414%..
+Religious order: O.Cist. : moine cistercien du monastère (cistercien) de Poblet (Diocèse de Tarragone) ?.
+Religious functions: Abbé (cistercien) de LesChâtelliers en ..
+University functions: Paris (Faculté de Théologie : Maître-régent au collège Saint-Bernard vers %1413-1414%..
+Representation roles: Participe au Concilium fidei Parisiis à Paris à la fin de l'année et au début de l'année ;; ?Participe au concile de Constance en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 26/08/2021..

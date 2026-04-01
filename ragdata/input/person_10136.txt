@@ -1,0 +1,10 @@
+PERSON: PETRUS de Mano Opere
+Also known as: Petrus de MANO OPERE.
+Description: Maître en grammaire..
+Status: Maître.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Maître ?.
+University functions: Paris (Faculté des arts : Maître en grammaire avec sept étudiants) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 26/02/2024)..

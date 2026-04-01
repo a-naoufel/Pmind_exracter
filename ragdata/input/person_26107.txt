@@ -1,0 +1,9 @@
+PERSON: THOMAS 10
+Also known as: THOMAS.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1343-1343%.
+Studied at: Paris..
+Academic grades obtained: Licencié ès lois.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 2/04/2021)..

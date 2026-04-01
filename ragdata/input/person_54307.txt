@@ -1,0 +1,11 @@
+PERSON: MICHAEL 2
+Also known as: MICHAEL.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1222-1232%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Sens ;.
+Other ecclesiastical functions: Official de Sens %1222-1232% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 26/09/2022..

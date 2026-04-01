@@ -1,0 +1,9 @@
+PERSON: PETRUS de Altavilla
+Also known as: Petrus de ALTAVILLA.
+Description: Candidat à la licence en médecine..
+Status: Étudiant.
+Gender: male.
+Active during: %1330-1330%.
+Studied at: Paris %1330-1330%..
+Academic grades obtained: Étudiant en médecine (Paris), candidat à la licence en médecine en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 28/01/2024..

@@ -1,0 +1,10 @@
+PERSON: GUIDO de Mota
+Also known as: Guido de MOTA.
+Description: Serviteur de la Sorbonne.
+Status: Maître.
+Gender: male.
+Active during: %1471-1471%.
+Studied at: Paris ?.
+Academic grades obtained: Maître ;.
+College affiliation: ?Sorbonne ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/05/2018)..

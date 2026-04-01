@@ -1,0 +1,25 @@
+PERSON: ARMANDUS de Bellovisu
+Also known as: Armand de BELLOVISU; Armand de BELVEZER.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1313-1348%.
+Born in: Languedoc (Rouergue) ?.
+Diocese of origin: Diocèse de Rodez ?.
+Studied at: Montpellier ;; ?Bologne..
+Academic grades obtained: Bachelier en théologie (Bologne ?) ;; Maître en théologie (Montpellier ?) ..
+Religious order: O.P. : frère (dominicain) du couvent de Millau ?.
+University functions: Montpellier (Couvent dominicain : Lecteur en Théologie ) ;; Avignon (Sacré Palais : Magister Sacri Palatii %1327-1334%)..
+Representation roles: Mission diplomatique en Italie pour le compte de CLÉMENT V auprès de l’Empereur HENRI VII en ..
+Authored work: '(Declaratio difficilium terminorum tam theologicorum quam philosophie)', composed around ?, dedicated to Écrit à la demande de Johannes WULFING..
+Authored work: 'Collatio super Scripturam Sacram', composed around ?.
+Authored work: 'Introitus in Psalterium', composed around ?.
+Authored work: 'Collationes in Psalmos', composed around %1320-1328%.
+Authored work: '(Quaestiones super lecturam Psalterii)', composed around ..
+Authored work: 'Expositio hymni Veni Creator Spiritus', composed around ..
+Authored work: 'Comment. super Matth.', composed around ?.
+Authored work: 'Responsiones Magistri Armandi magistri sacri Palacii de ordine praedicatorum ad 19 articulos extractos ex scriptis Durandi de S. Porciano et Thomas Waleys ex parte beatitudinis apostolice missos fratri Armando, lectori sacri palatii', composed around (23 décembre)..
+Authored work: 'Sermones varii', composed around ?.
+Authored work: 'Preces ac meditationes devotissimae de vita et beneficiis salvatoris nostri Ihesu Christi', composed around ?.
+Authored work: '(Commentaire sur De ente et essentia)', composed around ?.
+Source: http://www.arlima.net/ad/armand_de_belvezer.html.

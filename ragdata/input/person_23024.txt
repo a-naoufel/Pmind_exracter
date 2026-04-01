@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Grez 1
+Also known as: Guillelmus de GREZ.
+Description: Évêque de Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1249-1267%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: ?Sorbonne ?.
+Ecclesiastical positions held: Doyen de Reims % -1249% :; Évêque de Beauvais %1249-1267%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 23/03/2020..

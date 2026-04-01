@@ -1,0 +1,11 @@
+PERSON: ANDREAS Violae
+Also known as: Andreas de VIOLAE.
+Description: Chanoine de Mâcon.
+Status: Étudiant.
+Gender: male.
+Active during: %1336-1339%.
+Studied at: ?.
+Academic grades obtained: Étudiant en droit (Paris) ?.
+Family relationships: Son parent est Johannes VIOLAE, chanoine d’Autun ;.
+Ecclesiastical positions held: Chanoine de Mâcon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/02/2023..

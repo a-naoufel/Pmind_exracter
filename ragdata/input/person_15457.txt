@@ -1,0 +1,13 @@
+PERSON: MATTHAEUS de Hedonville
+Also known as: Mattheus de HEDONVILLE.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1485-1500%.
+Born in: Artois ?.
+Diocese of origin: Diocèse d'Arras ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ..
+Religious order: O.S.B. : Moine bénédictin de l'abbaye de Saint-Vaast (diocèse d'Arras)..
+Religious functions: Sous-diacre ;; Socius du prieur de Sailly-sur-la-Lys (dépendance de Saint-Vaast dans le diocèse d'Arras) en ;; Socius du prieur de Sailly-sur-la-Lys (dépendance de Saint-Vaast dans le diocèse d'Arras) en ;; Socius du prieuré de Berclau (diocèse d'Arras) en ;; Socius du prieuré de Berclau (diocèse d'Arras) en ;; Moine de Saint-Gorre (diocèse d'Arras) en ou ..
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 17/09/2023).

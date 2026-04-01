@@ -1,0 +1,10 @@
+PERSON: PETRUS de Ogeria
+Also known as: Petrus de OGERIA; Pierre de OGERIA.
+Description: Boursier du collège de Navarre.
+Status: Étudiant.
+Gender: male.
+Active during: %1392-1396%.
+Studied at: Paris (Collège de Navarre) %1392-1396%..
+Academic grades obtained: Étudiant en grammaire (Paris) %1392-1396% ;; Étudiant ès arts (Paris) ..
+College affiliation: Boursier grammairien au collège de Navarre à Paris en %1392-1396% ;; Boursier artien au collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/04/2021..

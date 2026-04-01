@@ -1,0 +1,10 @@
+PERSON: AEGIDIUS de Prunais
+Also known as: Aegidius de PRUNAIS; Gilles de PRUNAIS.
+Description: Boursier artien au Collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1372-1372%.
+Studied at: Paris (Collège de Navarre) %1372-1372%..
+Academic grades obtained: Étudianr ès arts (Paris) ..
+College affiliation: Boursier artien au Collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 01/05/2020)..

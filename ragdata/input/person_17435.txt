@@ -1,0 +1,9 @@
+PERSON: BARTHOLOMAEUS de Grimaupont
+Also known as: Bartholomaeus de GRIMAUPONT; Bartholomaeus MEURANT.
+Description: Nuntius pour le diocèse de Cambrai.
+Status: Suppôt.
+Gender: male.
+Active during: %1476-1476%.
+Studied at: Paris (Nation de Picardie) ..
+University functions: Paris (Nation de Picardie : nuntius pour le diocèse de Cambrai)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 11/12/2020..

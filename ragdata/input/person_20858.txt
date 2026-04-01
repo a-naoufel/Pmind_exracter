@@ -1,0 +1,13 @@
+PERSON: Scolaris de Loco Sancti Bernardi
+Also known as: Scolaris de LOCO SANCTI BERNARDI.
+Description: Cistercien.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Born in: Flandres ?.
+Diocese of origin: Diocèse de Cambrai ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+College affiliation: Collège des Bernardins ;.
+Religious order: O. Cist. : abbaye (cistercienne) de Saint-Bernard-sur-Escaut ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 30/08/2016..

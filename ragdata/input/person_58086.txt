@@ -1,0 +1,9 @@
+PERSON: SIMON de Sancto Vedasto
+Also known as: Simon de SANCTO VEDASTO.
+Description: Bachelier en décret.
+Status: Maître.
+Gender: male.
+Active during: %1412-1415%.
+Academic grades obtained: Maître ès arts (Paris) avant ?; Bachelier en décret (Paris) vers ..
+University functions: Paris (Faculté de Décret : lecteur en (13 novembre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 18/09/2024..

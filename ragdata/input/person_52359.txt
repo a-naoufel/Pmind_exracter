@@ -1,0 +1,11 @@
+PERSON: ROBERTUS de Lorriaco 1
+Also known as: Robertus de LORRIACO; Robert de LORRIS.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1278-1291%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son frère est Stephanus de LORRIACO, chanoine de Reims ;.
+Ecclesiastical positions held: Chanoine de Reims %1278-1291% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 1/06/2021..

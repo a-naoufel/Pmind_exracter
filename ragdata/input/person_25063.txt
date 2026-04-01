@@ -1,0 +1,11 @@
+PERSON: ODARDUS de Soilly
+Also known as: Oudard de SOILLY; Oudin de SOILLY.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1373-1376%.
+Studied at: Paris %1373-1376% ;.
+Academic grades obtained: Étudiant (Paris) %1373-1376% ;.
+College affiliation: Collège de Dormans-Beauvais : boursier %1373-1376% ;.
+Family relationships: Son père est Pierre de SOILLY ; Son oncle est Clément de SOILLY ; Son parent est peut-être Jean de SOILLY, chanoine de Soissons ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 13/07/2021..

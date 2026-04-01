@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Coquillan
+Also known as: Guillelmus COQUILLAN; Guillaume COQUILLAN.
+Description: Étudiant en médecine à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1415-1415%.
+Studied at: Paris %1415-1415%..
+Academic grades obtained: Étudiant en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 04/03/2022..

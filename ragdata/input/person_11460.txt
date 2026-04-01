@@ -1,0 +1,11 @@
+PERSON: SIMON de Fraxino
+Also known as: Simon de FRAXINO.
+Description: Licencié en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1394-1403%.
+Diocese of origin: Diocèse de Thérouanne ;.
+Studied at: Paris (Nation de Picardie) %1394-1403% ;; Montpellier avant ..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Bachelier en médecine (Paris) ?? ;; Étudiant en médecine (Montpellier) ;; Licencié en médecine (Paris ?) ..
+Ecclesiastical status: Clerc du diocèse de Thérouanne..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision : Jean-Philippe Genet, 25/11/2018..

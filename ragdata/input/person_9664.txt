@@ -1,0 +1,9 @@
+PERSON: OTTO de Remalia
+Also known as: Ottho de REMALIA.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris en ..
+Academic grades obtained: Étudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction: Élisabeth Jean-Philippe Genet, dernière mise à jour 02/12/2023..

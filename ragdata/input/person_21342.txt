@@ -1,0 +1,11 @@
+PERSON: SIMON 13
+Also known as: SIMON.
+Description: O.S.B..
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+Religious order: O.S.B. : moine de l'abbaye (bénédictine) de Saint-Maur-des-Fossés ;.
+Religious functions: Il est décrit comme « Elemosinarius [de Sancto Mauro] » dans la liste des contributeurs à la collecte de ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 31/08/2016..

@@ -1,0 +1,10 @@
+PERSON: BENEDICTUS 4
+Also known as: BENEDICTUS.
+Description: Magister.
+Status: Étudiant.
+Gender: male.
+Active during: %1419-1419%.
+Studied at: Paris ?.
+Academic grades obtained: Magister ?; Étudiant en théologie..
+College affiliation: Collège de Sorbonne ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 6/01/2021..

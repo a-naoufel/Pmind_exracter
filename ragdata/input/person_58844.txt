@@ -1,0 +1,10 @@
+PERSON: PETRUS de Lineio
+Also known as: Petrus de LINEIO; Petrus de LICIO.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1274-1274%.
+Studied at: Paris ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Chanoine de Paris (Saint-Étienne) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 14/05/2025..

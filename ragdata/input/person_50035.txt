@@ -1,0 +1,10 @@
+PERSON: GERARDUS de Lalo
+Also known as: Gerardus de LALO.
+Description: Chapelain pontifical.
+Status: Extérieur.
+Gender: male.
+Active during: %1316-1338%.
+Studied at: ?.
+Academic grades obtained: Maître en médecine ;.
+Ecclesiastical positions held: Chanoine de Capoue ;; Chanoine de Clermont %1317-1337% ;; Archidiacre d'Aurillac %1329-1337% ;; Curé de Cavanac (diocèse de Carcassonne) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 24/10/2019..

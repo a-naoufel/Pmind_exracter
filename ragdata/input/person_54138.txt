@@ -1,0 +1,10 @@
+PERSON: STEPHANUS de Prato 1
+Also known as: Stéphanus de PRATO.
+Description: Chantre de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1255-1275%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Sens (du Trésor puis de Notre-Dame) %1255-1275% ;; Chantre de Sens %1274-1275% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 08/09/2022..

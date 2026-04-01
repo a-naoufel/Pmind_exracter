@@ -1,0 +1,12 @@
+PERSON: FRANCISCUS de Tervisio
+Also known as: Franciscus de TERVISIO.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1346-1346%.
+Born in: Italie (Marche de Trévise ?)..
+Studied at: Bologne..
+Academic grades obtained: Bachelier en théologie Bologne ;.
+Religious order: O.P. : frère dominicain ;.
+University functions: Bologne (Saint-Dominique : Lecteur des Sentences ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 21/03/2020..

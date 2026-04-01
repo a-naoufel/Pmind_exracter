@@ -1,0 +1,17 @@
+PERSON: THOMAS de Cracovia
+Also known as: Thomas de CRACOVIA.
+Description: Maître en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1378-1417%.
+Born in: Pologne..
+Diocese of origin: Diocèse de Cracovie ?.
+Studied at: Cracovie ;; Prague ;; Oxford vers %1378-1385% ;; Paris (Nation Anglo-allemande) vers %1385-1417%..
+Academic grades obtained: Étudiant en grammaire (Cracovie) ;; Bachelier ès arts (Prague) ;; Étudiant (Oxford) %1378:-:1385% ;; Maître ès arts (Paris) ;; Licencié en théologie (Paris) (après le 27 août) ;; Maître en théologie (Paris) (15 janvier) ..
+College affiliation: Sociétaire du collège de Sorbonne admis durant le provisorat d'Annibaldus de CECCANO débuté en ;.
+Academic relationships: Maître de Johannes MUREAUX, étudiant en théologie durant sa magna ordinaria en ..
+Ecclesiastical status: Clerc du diocèse de Cracovie ;.
+Ecclesiastical positions held: Candidat à la cure de Paris (Saints-Côme-et-Damien) vers ;; Candidat à un canonicat de Cracovie vers ..
+Representation roles: Participe à la seconde, troisième et quatrième sessions du Concilium fidei à Paris en %1413-1414%..
+Authored work: 'Dialogus de accendendo ad sacramentum altaris', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland, dernière mise à jour 01/04/2014..

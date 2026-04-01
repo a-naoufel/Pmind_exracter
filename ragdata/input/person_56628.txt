@@ -1,0 +1,11 @@
+PERSON: THEOBALDUS Floriacensis
+Also known as: Theobaldus FLORIACENSIS; Thibault de FLEURY.
+Description: Abbé de Fleury.
+Status: Extérieur.
+Gender: male.
+Active during: %1257-1265%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.S.B. : moine bénédictin ;.
+Religious functions: Abbé de Fleury (Saint-Benoît-sur-Loire) %1257-1265% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/09/2023)..

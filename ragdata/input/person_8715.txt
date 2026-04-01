@@ -1,0 +1,10 @@
+PERSON: LUDOVICUS de Peca
+Also known as: Ludovicus de PECA; Louis de PECA.
+Description: Boursier artien au collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1349-1349%.
+Studied at: Paris %1349-1349%..
+Academic grades obtained: Étudiant ès arts (Paris) ..
+College affiliation: Boursier artien au collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/09/2023)..

@@ -1,0 +1,9 @@
+PERSON: DIONYSIUS Hesselin
+Also known as: Denys HESSELIN.
+Description: Prévôt des marchands.
+Status: Extérieur.
+Gender: male.
+Active during: %1470-1500%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: http://www.parismoyenage.fr/.

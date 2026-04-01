@@ -1,0 +1,12 @@
+PERSON: GUIDO Mendine
+Also known as: Guido MENDINE.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1447-1464%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Nevers..
+Studied at: Paris %1447-1464%..
+Academic grades obtained: Bachelier en décret (Paris) 23 mars ..
+Ecclesiastical positions held: Clerc du diocèse de Nevers..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 02/02/2022)..

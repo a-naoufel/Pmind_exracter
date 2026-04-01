@@ -1,0 +1,10 @@
+PERSON: THEODERICUS de Montigniaco
+Also known as: Theodoricus de MONTIGNIACO.
+Description: Maître en théologie augustin.
+Status: Maître.
+Gender: male.
+Active during: %1370-1380%.
+Studied at: Paris :.
+Academic grades obtained: Bachelier en théologie (Paris) vers ?.
+University functions: Paris (Faculté de Théologie : lecteur des Sentences au couvent augustin après ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe GENET 7/11/2020)..

@@ -1,0 +1,9 @@
+PERSON: ALEXANDER Binandon
+Also known as: Alexander BINANDON.
+Description: Dépensier du Collège de Dormans-Beauvais.
+Status: Suppôt.
+Gender: male.
+Active during: %1452-1455%.
+Studied at: Paris ..
+College affiliation: Dépensier au collège de Dormans-Beauvais %1453-1455%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 27/06/2020)..

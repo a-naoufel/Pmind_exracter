@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Cornet 1
+Also known as: Guillelmus CORNET.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1454-1494%.
+Studied at: Paris..
+Academic grades obtained: Maître ;.
+College affiliation: Collège de Dainville : boursier en %1454-1456% ;.
+Other ecclesiastical functions: Official ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

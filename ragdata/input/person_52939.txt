@@ -1,0 +1,14 @@
+PERSON: RADULPHUS de Estoutevilla
+Also known as: Radulphus de ESTOUTEVILLA.
+Description: Chanoine de Rouen.
+Status: Étudiant.
+Gender: male.
+Active during: %1369-1396%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen ?.
+Studied at: Paris ;; Bologne ;; Orléans..
+Academic grades obtained: Étudiant (Paris) ;; Étudiant (Orléans) ;; Étudiant (Bologne) ;.
+Family relationships: Son père est Jean d’ESTOUTEVILLE, seigneur de Torcy ; Sa mère est Jeanne de FIENNES ; Son frère est Guillermus de ESTOUTEVILLA, évêque de Lisieux ; Son frère est Robertus de ESTOUTEVILLA, chanoine de Rouen ; Son frère est Thomas de ESTOUTEVILLA, évêque de Beauvais ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Lille ;; Chanoine de Rouen %1375-1396% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/11/2021..

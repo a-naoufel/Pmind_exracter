@@ -1,0 +1,10 @@
+PERSON: PETRUS Patin
+Also known as: Pierre PATIN.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1407-1407%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant ?.
+Ecclesiastical status: Laïc ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/03/2021..

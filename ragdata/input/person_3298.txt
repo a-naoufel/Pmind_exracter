@@ -1,0 +1,9 @@
+PERSON: GREGORIUS Guinameri
+Also known as: Gregorius GUINAMERI; Gregorius GUINOMERI; Gregoire GUINAMERI; Gregoire GUINOMERI.
+Description: Licencié en médecine à Paris..
+Status: Gradué.
+Gender: male.
+Active during: %1484-1492%.
+Studied at: Paris %1484-:1492:%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 21/01/2022..

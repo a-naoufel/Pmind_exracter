@@ -1,0 +1,18 @@
+PERSON: HUGO de Trajecto
+Also known as: Hugues d'UTRECHT; Hugo de TRAJECTO.
+Description: Maître ès arts ?.
+Status: Incertain.
+Gender: male.
+Active during: %1320-1320%.
+Born in: ?Pays-Bas (Utrecht ?)..
+Diocese of origin: Diocèse d’Utrecht ?.
+Studied at: ?.
+Academic grades obtained: Maître ès arts..
+Authored work: 'Quaestiones disputatae I', composed around ?.
+Authored work: 'Quaestiones disputatae II'.
+Authored work: 'Quaestiones disputatae III', composed around ?.
+Authored work: 'Questiones super Porphyrium', composed around ?.
+Authored work: 'Questiones de Pradicamentis', composed around ?.
+Authored work: 'Questiones super De Anima I-II'.
+Authored work: '(Gloses sur les Quaestiones de Sébastien d'Aragon)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 07-01-2025..

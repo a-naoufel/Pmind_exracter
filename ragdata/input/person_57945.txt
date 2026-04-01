@@ -1,0 +1,10 @@
+PERSON: RICARDUS Textoris
+Also known as: Ricardus TEXTORIS.
+Description: Clerc de la Sorbonne.
+Status: Suppôt.
+Gender: male.
+Active during: %1432-1433%.
+Studied at: Paris..
+Academic grades obtained: ?.
+College affiliation: Sorbonne : clericus communis ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 07/07/2024..

@@ -1,0 +1,11 @@
+PERSON: OBLAUDUS Vegardi
+Also known as: Oblaudus VEGARDI; OBLAUDR; OBOLDUS; OBOODUS.
+Description: Chanoine.
+Status: Maître.
+Gender: male.
+Active during: %1295-1307%.
+Born in: Norvège.
+Studied at: Paris, av. , vers %1299-1300%..
+Academic grades obtained: Maître ès arts? (Paris), av. ..
+Ecclesiastical positions held: Chanoine de Nidaros (Trondheim), %:1295-1307%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 25/02/2022..

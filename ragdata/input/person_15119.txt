@@ -1,0 +1,9 @@
+PERSON: PETRUS de Haquavilla
+Also known as: Pierre de HAQUAVILLA; Petrus de HAQUAVILLA.
+Description: Écolier de la Faculté de médecine..
+Status: Étudiant.
+Gender: male.
+Active during: %1408-1408%.
+Studied at: Paris %1408-1408%..
+Academic grades obtained: Étudiant en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 22/08/2015..

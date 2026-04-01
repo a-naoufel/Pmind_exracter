@@ -1,0 +1,8 @@
+PERSON: STEPHANUS de Le Hamaie
+Also known as: Stephanus de LEHAMAIE; Estienne de HOMEITE.
+Description: Propriétaire d’une maison.
+Status: Extérieur.
+Gender: male.
+Active during: %1287-1287%.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 19/02/2024)..

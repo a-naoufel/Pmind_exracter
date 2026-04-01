@@ -1,0 +1,10 @@
+PERSON: PETRUS de Muro
+Also known as: Petrus de MURO.
+Description: Archiprêtre du Lude.
+Status: Incertain.
+Gender: male.
+Active during: %1371-1371%.
+Studied at: ?.
+Academic grades obtained: Licencié en droit canon ;.
+Ecclesiastical positions held: Archiprêtre de LeLude ;; Chanoine d’Angers ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 03/06/2022)..

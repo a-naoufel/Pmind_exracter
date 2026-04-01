@@ -1,0 +1,12 @@
+PERSON: HERBERTUS 2
+Also known as: HERBERTUS.
+Description: Abbé de Sainte-Geneviève.
+Status: Étudiant.
+Gender: male.
+Active during: %1223-1240%.
+Studied at: Paris %1223-:1240:%..
+Academic grades obtained: Étudiant ?.
+College affiliation: Sainte-Geneviève %1223-:1240:%..
+Religious order: Chanoinerégulier(O.S.A. victorin) de Paris (Sainte-Geneviève)..
+Religious functions: Abbé (O.S.A) de Paris (Sainte-Geneviève) de jusqu’à vers-..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 20/01/2021)..

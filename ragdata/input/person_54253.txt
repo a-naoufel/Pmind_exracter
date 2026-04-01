@@ -1,0 +1,7 @@
+PERSON: PERETA La Guiote
+Also known as: Perrecte LAGUIOTE; Piereta LAVIETE.
+Description: Prisonnière au Châtelet.
+Status: Extérieur.
+Gender: female.
+Active during: %1444-1444%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 21/08/2022..

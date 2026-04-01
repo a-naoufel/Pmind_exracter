@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Turre
+Also known as: Guillelmus de TURRE.
+Description: Archidiacre d'Avignon.
+Status: Incertain.
+Gender: male.
+Active during: %1307-1317%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Reims %1307-1317% ;; Chanoine de Clermont %1307- % ;; Chanoine de Rouen % -1317% ;; Archidiacre d'Avignon % -1317% ;.
+Other ecclesiastical functions: Prévôt de Clermont ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 21/04/2022..

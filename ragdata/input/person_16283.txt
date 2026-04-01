@@ -1,0 +1,12 @@
+PERSON: ASTORGIUS de Turri
+Also known as: Astorgius de TURRE; Astorgius de AURELIACO; ASTORGIUS.
+Description: Étudiant.
+Status: Maître.
+Gender: male.
+Active during: %1316-1347%.
+Born in: Auvergne..
+Studied at: Paris (Nation de France ?) %1329-1330%..
+Academic grades obtained: Maître ès arts (Paris) .; Docteur en droit civil..
+College affiliation: ?Paris (Sorbonne : prieur %1325-1326%)..
+Ecclesiastical positions held: Chanoine de Rodez %1319-1347%.; Curé d'Aquabona en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 22/10/2020)..

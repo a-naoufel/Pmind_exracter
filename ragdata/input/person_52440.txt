@@ -1,0 +1,10 @@
+PERSON: PETRUS Sylvestris 1
+Also known as: Petrus SYLVESTRIS; Pierre LE SAUVAGE.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1408-1441%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical positions held: Chanoine de Reims %1417-1434% ;; Chanoine de Reims (églisecollégiale Sainte-Nourrice) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/06/2021..

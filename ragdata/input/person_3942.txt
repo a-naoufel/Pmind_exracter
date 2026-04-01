@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Juvenis 1
+Also known as: Guillelmus JUVENIS.
+Description: Licencié en droit civil ;.
+Status: Étudiant.
+Gender: male.
+Active during: %1379-1379%.
+Born in: Bretagne ;.
+Diocese of origin: Diocèse de Dol..
+Studied at: Paris..
+Academic grades obtained: Licencié en droit civil ;; Étudiant en décret (Paris)..
+Ecclesiastical status: Clerc du diocèse de Dol..
+Ecclesiastical positions held: Candidat à un canonicat de Nantes sur le rotulus de ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 07/05/2022..

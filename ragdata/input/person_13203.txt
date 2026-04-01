@@ -1,0 +1,10 @@
+PERSON: DIONYSIUS Burgensis
+Also known as: Dionysius BURGENSIS.
+Description: Licencié en théologie à Paris..
+Status: Gradué.
+Gender: male.
+Active during: %1476-1482%.
+Studied at: Paris %:1476-1482%..
+Academic grades obtained: Maître ès arts ;; Licencié en théologie (Paris) (28 mars) ..
+College affiliation: Sorbonne : socius en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 19/05/2021..

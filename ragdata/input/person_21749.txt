@@ -1,0 +1,12 @@
+PERSON: GUIDO de Stampis 2
+Also known as: Guido de STAMPIS; Guy d'ÉTAMPES.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1272-1273%.
+Studied at: Paris.
+Academic grades obtained: Étudiant ?.
+College affiliation: Couvent (franciscain) de Paris ?.
+Religious order: O.F.M. : frère franciscain du couvent (franciscain) de Paris ?.
+Authored work: '(Sermon pour l’exaltation de la Sainte Croix)', composed around (14 septembre) auxChampeaux..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/03/2020..

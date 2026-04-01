@@ -1,0 +1,11 @@
+PERSON: BARTHOLOMAEUS 2
+Also known as: BARTHOLOMAEUS II, abbas Firmitate.
+Description: Cistercien.
+Status: Extérieur.
+Gender: male.
+Active during: %1239-1266%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O. Cist..
+Religious functions: Abbé (Cistercien) de LaFerté-sur-Grosne %1239-1266%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 6/12/2020)..

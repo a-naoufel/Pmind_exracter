@@ -1,0 +1,11 @@
+PERSON: PETRUS de Luczenburgo
+Also known as: Petrus de LUCZENBURGH; Petrus de LUCZENBURGO.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1405-1405%.
+Born in: Luxembourg ?.
+Diocese of origin: Diocèse de Trèves ?.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 26/02/2024)..

@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Grandpuy
+Also known as: Guillelmus de GRANDPUY.
+Description: Évêque de Nevers.
+Status: Extérieur.
+Gender: male.
+Active during: %1254-1260%.
+Studied at: ?.
+Academic grades obtained: ?.
+Social origin: Noble..
+Ecclesiastical positions held: Trésorier de Sens % -1254% ;; Évêque de Nevers %1254-1260% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 19/04/2018..

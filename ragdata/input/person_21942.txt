@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Melloto
+Also known as: Guillelmus de MELLOTO; Guillaume de MELLO.
+Description: Prévôt d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1263-1291%.
+Studied at: ?.
+Academic grades obtained: Magister.
+Ecclesiastical status: Diacre..
+Ecclesiastical positions held: Chanoine d’Amiens %1263- % ;.
+Other ecclesiastical functions: Official d’Amiens %1266- % ;; Pénitencier d’Amiens %1275- % ;; Prévôt d’Amiens %1280-1291% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/07/2023)..

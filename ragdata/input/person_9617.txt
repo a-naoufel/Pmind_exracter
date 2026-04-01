@@ -1,0 +1,7 @@
+PERSON: ODO de Senonis 3
+Also known as: Odo de SENONIS.
+Description: Avocat au Châtelet.
+Status: Extérieur.
+Gender: male.
+Active during: %1377-1388%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 14/07/2021..

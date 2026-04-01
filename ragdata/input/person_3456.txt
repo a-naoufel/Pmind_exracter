@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Bachelier 1
+Also known as: Guillelmus BACHELIER; Guillaume BACHELIER; Guillaume BACHELLIER; Guillaume BACHALARII.
+Description: Licencié en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1474-1480%.
+Studied at: Paris (Faculté de Médecine) %1474-1480%..
+Academic grades obtained: Étudiant en médecine (Paris) %1474-1475% ;; Licencié en médecine (Paris) ..
+College affiliation: Collège de Justice : boursier en %1471-1473% ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 20/10/2020)..

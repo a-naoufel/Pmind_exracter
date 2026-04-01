@@ -1,0 +1,10 @@
+PERSON: G. de Pertico
+Also known as: G. de PERTICO.
+Description: Chanoine de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1303-1303%.
+Studied at: ?.
+Academic grades obtained: Magister ?.
+Ecclesiastical positions held: Chanoine de Paris ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/09/2021..

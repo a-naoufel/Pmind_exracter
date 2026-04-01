@@ -1,0 +1,11 @@
+PERSON: SIMON Langton
+Also known as: Simon LANGTON.
+Description: Chanoine de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1206-1248%.
+Born in: Angleterre.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris)..
+Family relationships: Son frère est Etienne LANGTON..
+Ecclesiastical positions held: Chanoine de Paris à partir de ..

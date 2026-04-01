@@ -1,0 +1,10 @@
+PERSON: PHILIPPUS de Loancio
+Also known as: Philippus de LOANCIO.
+Description: Chanoine de Saint-Benopit.
+Status: Maître.
+Gender: male.
+Active during: %1271-1271%.
+Studied at: Paris..
+Academic grades obtained: Maître ?.
+Ecclesiastical positions held: Chanoine de Paris (Saint-Benoît) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 24/04/2024..

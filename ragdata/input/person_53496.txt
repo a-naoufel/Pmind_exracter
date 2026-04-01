@@ -1,0 +1,10 @@
+PERSON: THOMAS Bonne
+Also known as: Thomas BONNE.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1444-1444%.
+Studied at: Paris ..
+Academic grades obtained: Licencié en décret (Paris) ;; Son rang est 15/26 ;.
+Academic relationships: Son maître est Johannes de MOTA pour la licence en décret en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ rédaction : Jean-Philippe Genet, 15/03/2022..

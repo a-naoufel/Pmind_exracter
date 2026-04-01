@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Longo Campo 2
+Also known as: Guillelmus de LONGO CAMPO; Guillaume de LONGO CAMPO.
+Description: Boursier au collège de Navarre..
+Status: Étudiant.
+Gender: male.
+Active during: %1386-1386%.
+Studied at: Paris (Collège de Navarre) %1386-1386%..
+Academic grades obtained: Étudiant en grammaire (Paris) ..
+College affiliation: Boursier grammairien au collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 31/03/2022..

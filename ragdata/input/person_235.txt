@@ -1,0 +1,13 @@
+PERSON: AEGIDIUS de Villecholle
+Also known as: Aegidius de VILLECHOLLE.
+Description: Étudiant en décret..
+Status: Maître.
+Gender: male.
+Active during: %1387-1387%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Noyon..
+Studied at: Paris (Nation de Picardie)..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en décret (Paris)..
+Ecclesiastical status: Clerc du diocèse de Noyon..
+Ecclesiastical positions held: Candidat à un bénéfice ecclésiastique à la collation du doyen et du chapitre de Saint-Quentin en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/05/2020)..

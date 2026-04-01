@@ -1,0 +1,11 @@
+PERSON: PHILIPPUS de Vouhé
+Also known as: Philippus de VOUHÉ.
+Description: Chanoine de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1298-1311%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Poitiers %1298-1311% ;; Prévôt de Poitiers %1305-1311% ;; Chanoine de Bourges % -1311% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 20/11/2022..

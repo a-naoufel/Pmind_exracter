@@ -1,0 +1,11 @@
+PERSON: SULPICIUS Morel
+Also known as: Sulpicius MOREL.
+Description: Religieux.
+Status: Étudiant.
+Gender: male.
+Active during: %1500-1500%.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant ?.
+College affiliation: Collège du Cardinal-Lemoine : hôte ?.
+Religious order: Religieux d’un ordre non précisé ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 22/10/2020)..

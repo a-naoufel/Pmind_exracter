@@ -1,0 +1,11 @@
+PERSON: HENRICUS Mile
+Also known as: Henri MILE.
+Description: Écolier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1397-1404%.
+Studied at: Paris %1397-1398% ;; Orléans ..
+Academic grades obtained: Étudiant (Paris) %1397-1398% ;; Étudiant (Orléans) ;.
+College affiliation: Collège de Dormans-Beauvais : écolier %1397-1398% ;.
+Family relationships: Son parent est peut-être Nicolas MILE ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 31/07/2022..

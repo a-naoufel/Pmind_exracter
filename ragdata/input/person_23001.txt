@@ -1,0 +1,12 @@
+PERSON: LAURENTIUS Alberti
+Also known as: Laurentius ALBERTI; LAURENTIUS; LAURENTZ.
+Description: Évêque.
+Status: Étudiant.
+Gender: male.
+Active during: %1283-1307%.
+Born in: Suède.
+Studied at: Paris, ..
+Academic grades obtained: É. (P), ..
+Family relationships: Son père est ALBERTUS..
+Ecclesiastical positions held: Prévôt de Linköping, ;; Évêque de Linköping, %1291-1307%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Élisabeth Mornet, 16/12/2017..

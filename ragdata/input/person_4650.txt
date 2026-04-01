@@ -1,0 +1,32 @@
+PERSON: HENRICUS Bate de Mechlinia
+Also known as: Henricus BATE de MECHLINIA; Henricus BATE; Henri de MALINES.
+Description: Chanoine de Liège.
+Status: Maître.
+Gender: male.
+Active during: %1266-1310%.
+Born in: Brabant (Malines ?) ;.
+Diocese of origin: Diocèse de Cambrai..
+Studied at: Paris %1266-1301%..
+Academic grades obtained: Maître ès arts (Paris) .; Maître en théologie (Paris) certainement en ..
+Ecclesiastical positions held: Chanoine de Liège (Saint-Lambert) %:1281-1290% ;; Chantre de Liège (Saint-Lambert) %1290-1309 %..
+Authored work: 'Tabule Mechlinenses', composed around .
+Authored work: 'Magistralis compositio Astrolabii', composed around (11 octobre) à Malines ;, dedicated to Dédié à Guillaume de MOERBEKE qui lui a demandé cette oeuvre au Concile de Lyon..
+Authored work: 'Equatorium planetarum', composed around .
+Authored work: 'Nativitas magistri Henrici Mechliniensis', composed around (fin mars) ;.
+Authored work: 'Liber de mundo vel saeculo', composed around 20 otobre à Liège et à Malines.
+Authored work: 'Liber introductorius ad astronomiam', composed around 22 août à Orvieto ;.
+Authored work: 'Tractatus de causis seu rationibus eorum quae dicuntur introductorie ad judicia astrorum', composed around (15-23 septembre) à Orvieto.
+Authored work: 'Liber introductorius ad judicia astrologiae', composed around (28 octobre) à Orvieto.
+Authored work: 'De fortitudine planetarum', composed around à Orvieto.
+Authored work: 'Tractatus de luminaribus seu diebus criticis', composed around (à Orvieto) pour Olga WEIJERS ;.
+Authored work: 'Speculum divinorum et quorumdam naturalium', composed around %1301-1304%, dedicated to Écrit à la demande de Guy d'AVESNES..
+Authored work: '[Addition "Mirabile quoddam" au Speculum]', composed around Rédigé vers %1305 ?.
+Authored work: 'De diebus criticis', composed around ?.
+Authored work: 'In librum Albumazar 'De conjunctione planetarum'', composed around ?.
+Authored work: 'Epistola ad Guidonem comitem', composed around ?.
+Authored work: 'Analytica posteriora', composed around ?.
+Authored work: 'De consuetudinibus planetarum in iudiciis astrorum', composed around ?.
+Authored work: 'De horis planetarum', composed around ?.
+Authored work: 'Tractatus super defectibus tabularum Alfonsi', composed around L’œuvre daterait d’environ ?.
+Authored work: 'De revolutionibus annorum mundi', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

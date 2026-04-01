@@ -1,0 +1,9 @@
+PERSON: ENGELBERTUS Alemannus
+Also known as: Engelbertus ALEMANNUS.
+Description: 'Hôte'.
+Status: Incertain.
+Gender: male.
+Active during: %1344-1344%.
+Born in: Allemagne ?.
+Studied at: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 9/09/2019)..

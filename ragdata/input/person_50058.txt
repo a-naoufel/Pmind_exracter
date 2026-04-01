@@ -1,0 +1,14 @@
+PERSON: GUIDO de Bolonia 1
+Also known as: Guido de BOLONIA; Guido de ALVERNIA; Guy de BOULOGNE.
+Description: Évêque de Tournai et de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1275-1336%.
+Born in: Artois (Boulogne) ;.
+Diocese of origin: Diocèse de Thérouanne ?.
+Studied at: ?.
+Academic grades obtained: Étudiant en ;; Étudiant en droit civil ?.
+Family relationships: Son père est ROBERT V, comte d'Auvergne et Boulogne ; Sa mère est Eléonore de BAFFIE ; Son frère est Robert de BOULOGNE, comte de Boulogne et comte d’ Auvergne ; Son neveu est le Cardinal Guy de BOULOGNE ;.
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine de Clermont %1298-1301% ;; Chanoine de Brioude %1298-1301% ;; Chanoine de Reims %1298-1301% ;; Chanoine de Bruges (Saint-Donatien) % -1301% ;; Évêque de Tournai %1301-1324% ;; Évêque de Cambrai %1324-1335%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 31/12/2025)..

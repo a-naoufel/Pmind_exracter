@@ -1,0 +1,13 @@
+PERSON: HENRICUS Bretislav
+Also known as: Henricus BRETISLAV; BRATISLAV III, duc de Bohême.
+Description: Évêque de Prague.
+Status: Incertain.
+Gender: male.
+Active during: %1157-1197%.
+Born in: Bohême ;.
+Diocese of origin: Diocèse de Prague..
+Studied at: ?; ?Étudiant : il est réputé avoir étudié à Paris sans doute vers %1150-1160%, mais il est difficile de trouver les sources de cette affirmation ?.
+Family relationships: Son père est Jindrich PREMYSL..
+Social origin: Noble..
+Ecclesiastical positions held: Prévôt de Vyserhad avant .; Évêque de Prague %1182-1197%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 10/05/2025..

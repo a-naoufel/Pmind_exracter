@@ -1,0 +1,13 @@
+PERSON: FRANCISCUS de Florentia 2
+Also known as: Franciscus de FLORENTIA; François de FLORENCE.
+Description: Bachelier en théologie..
+Status: Gradué.
+Gender: male.
+Active during: %1372-1392%.
+Born in: Italie (?Toscane : Florence ?) ;.
+Diocese of origin: Diocèse de Florence ?.
+Studied at: Paris (Nation de France) %1372-1392%..
+Academic grades obtained: Maître ès arts (?Paris) ;; Étudiant en théologie (Paris) ;; Bachelier en théologie (Paris) ..
+College affiliation: Collège de Navarre : boursier théologien en ;.
+University functions: Paris (Faculté de Théologie : ?lecteur en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 27/08/2021..

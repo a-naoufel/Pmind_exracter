@@ -1,0 +1,12 @@
+PERSON: NICOLAUS Perrenelle
+Also known as: Nicolaus PERRENELLE; Nicolaus PURNELLE.
+Description: Chanoine de Besançon.
+Status: Étudiant.
+Gender: male.
+Active during: %1415-1418%.
+Born in: Comté de Bourgogne (Pierrefontaine) ;.
+Diocese of origin: Diocèse de Besançon ;.
+Studied at: ?.
+Academic grades obtained: Étudiant (Paris) en ;.
+Ecclesiastical positions held: Chanoine de Besançon en %1415-1418% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/03/2022)..

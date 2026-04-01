@@ -1,0 +1,9 @@
+PERSON: ADAM Perrini
+Also known as: Adam PERRINI.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris..
+Academic grades obtained: Maître (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 12/04/2020..

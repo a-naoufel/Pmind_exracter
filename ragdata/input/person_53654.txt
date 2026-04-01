@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de Chaonnis dictus Blanche
+Also known as: Nicolaus de CHAONNIS; Nicolaus de CHAOMNIS; Nicolas BLANCHE.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1412-1420%.
+Studied at: Paris..
+Academic grades obtained: Bachelier décret (Paris) vers ;; Licencié en décret en (10 février) ;.
+Academic relationships: Son maître est Leonardus de PASSANO pour la licence en décret en (10 février) ;.
+University functions: Paris (Faculté de Décret : lecteur en (10 décembre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 20/04/2022)..

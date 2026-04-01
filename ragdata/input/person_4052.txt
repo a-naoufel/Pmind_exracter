@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Radicis 2
+Also known as: Guillermus RADICIS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1379-1379%.
+Born in: Picardie ;.
+Diocese of origin: Diocèse de Laon..
+Studied at: Paris (Nation de Picardie) ?.
+Academic grades obtained: Étudiant (Paris)..
+Ecclesiastical status: Clerc du diocèse de Laon..
+Ecclesiastical positions held: Chapelain de Laon (autel Saint-Cosme-et-Damien dans la cathédrale de Laon en ) ;; Provision pour un bénéfice à la collation de l'évêque, du doyen et du chapitre ee Noyon en réponse au rotulus des maîtres, licenciés, bacheliers et étudiants en : mandat à l'official de Laon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/05/2020..

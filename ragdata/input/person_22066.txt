@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Ligais
+Also known as: Guillermus LIGAIS.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1269-1269%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d'Orléans ;; Archidiacre d'Orléans ;; Chanoine de Reims ;.
+Other ecclesiastical functions: Official d'Orléans en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 10/12/2018..

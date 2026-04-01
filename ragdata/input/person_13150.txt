@@ -1,0 +1,12 @@
+PERSON: ALPHONSUS de Fontibus
+Also known as: Alphonsus de FONTIBUS.
+Description: Docteur en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1498-1508%.
+Born in: ?Espagne..
+Studied at: Paris %1498-1498%..
+Academic grades obtained: Licencié en théologie (Paris) (le 13 janvier) ;; Docteur en théologie (Paris) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère du couvent (dominicain) de Burgos ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol ; révision, Jean-Philippe Genet, dernière mise à jour 16/07/2020..

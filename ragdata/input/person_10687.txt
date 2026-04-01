@@ -1,0 +1,13 @@
+PERSON: RENERIUS de Tessena
+Also known as: Regnier de TESSENA.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1329-1342%.
+Born in: ComtédeBourgogne ;.
+Diocese of origin: Diocèse de Besançon..
+Studied at: Paris %1329-1335%..
+Academic grades obtained: Bachelier en médecine (Paris) %1331-1332% ;; Maître en médecine (Paris) ;.
+Ecclesiastical status: Clerc du diocèse de Besançon ;.
+Ecclesiastical positions held: Provision pour un bénéfice à la collation de l'abbé de Cerisy-la-Forêt (au diocèse de Bayeux) en : mandat à l'abbé de Paris (Sainte-Geneviève), au prieur (bénédictin)de Bayeux (Saint-VigorleGrand) et au prieur (bénédictin)de Saint-Nicolas-de-la-Chesnaye ;; Provision pour un bénéfice dans le diocèse de Besançon en : mandat à l'abbé (bénédictin) de Besançon (Saint-Paul), à l'abbé (bénédictin) de Besançon (Saint-Vincent) et au prieur (bénédictin)de Paris (Saint-Éloi) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux : révision, Jean-Philippe Genet, dernière mise à jour 16/01/2024)..

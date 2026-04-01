@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Pomerii 2
+Also known as: Guillelmus POMERII.
+Description: Bachelier en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1421-1421%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris..
+Studied at: Paris (Nation de France) %1421-1421%..
+Academic grades obtained: Maître ès arts (Paris) attesté en ;; Bachelier en décret (Paris) 3 septembre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 13/04/2015..

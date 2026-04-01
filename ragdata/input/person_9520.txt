@@ -1,0 +1,10 @@
+PERSON: NICOLAUS de Wademonte junior
+Also known as: Nicolas de VAUDÉMONT; Nicolaus de WADEMONTE junior.
+Description: Maître ès art.
+Status: Maître.
+Gender: male.
+Active during: %1385-1385%..
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès art (Paris) ..
+Academic relationships: Son élève est Henricus de MUNDERKENSE pour la licence en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 24/09/2022..

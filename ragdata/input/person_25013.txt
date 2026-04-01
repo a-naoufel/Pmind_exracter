@@ -1,0 +1,10 @@
+PERSON: IMAR
+Also known as: IMAR.
+Description: O.S.B..
+Status: Extérieur.
+Gender: male.
+Active during: %1453-1453%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.S.B..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 12/09/2022)..

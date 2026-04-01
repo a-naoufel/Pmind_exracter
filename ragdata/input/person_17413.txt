@@ -1,0 +1,11 @@
+PERSON: BALDUINUS Maistre
+Also known as: Balduinus MAISTRE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1482-1482%.
+Born in: Picardie ?..
+Diocese of origin: Diocèse d'Amiens..
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+University functions: Paris (Nation de Picardie : temptator in cameris pro examine Sancte Genovefe en pour le diocèse d'Amiens)..

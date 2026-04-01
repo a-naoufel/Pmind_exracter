@@ -1,0 +1,45 @@
+PERSON: BARTHOLOMAEUS de Tours
+Also known as: Bartholomaeus TURONENSIS; Barthélémy de TOURS; Barthélémy d'ANGERS.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1258-1272%.
+Born in: ?Touraine (Tours)..
+Diocese of origin: Diocèse de Tours ?.
+Studied at: Paris.
+Academic grades obtained: Maître en théologie (Paris) ;.
+College affiliation: Couvent (dominicain) de Paris (Jacobins) %1258-1259%..
+Religious order: O.P. : frère dominicain.
+Religious functions: Définiteur au chapitregénéral (dominicain) de Londres () ;; Prieur de Paris (Couvent Saint-Jacques) ;; Prédicateurgénéral des Dominicains..
+University functions: Paris (Couvent dominicain : Maîtrerégent %1258-1259% au moins)..
+Authored work: 'Bartholomeus Pred. Sermo in Ramis Palmarum', composed around .
+Authored work: '(Sermon pour le V° dimanche après la Pentecôte)', composed around .
+Authored work: '(Sermon pour la Trinité)', composed around .
+Authored work: '(Sermon pour le I° dimanche après l'Epiphanie)', composed around .
+Authored work: '(Sermon pour le I° dimanche de Carême)', composed around ?.
+Authored work: '(Sermon pour le dimanche des Rameaux)', composed around ?.
+Authored work: '(Sermons : In synodo)', composed around ?.
+Authored work: '(Sermon pour le XIV° dimanche après la Pentecôte)', composed around .
+Authored work: '(Sermon pour la Toussaint)', composed around .
+Authored work: '(Sermon pour le VII° dimanche après la Trinité)', composed around .
+Authored work: '(Sermon pour le XXIII° dimanche après la Trinité)', composed around .
+Authored work: '(Sermon pour la Sainte CATHERINE)', composed around .
+Authored work: '(Sermon pour la Septuagésime)', composed around .
+Authored work: 'Bartholomeus. Dominica in passione', composed around ?.
+Authored work: 'In Annuntiatione', composed around (25 mars)..
+Authored work: 'In Ascensione et collatio', composed around (22 mai)..
+Authored work: 'In festo Sancta Martini et collatio', composed around (11 novembre)..
+Authored work: '(Sermon pour le III° dimanche de l'Avent)', composed around .
+Authored work: '(Sermon pour le III° dimanche après l'Épiphanie)', composed around .
+Authored work: '(Sermon pour le IV° dimanche après l'Epiphanie)', composed around .
+Authored work: '(Sermon pour le III° dimanche de Carême)', composed around .
+Authored work: '(Sermon pour le IV° dimanche après Pâques)', composed around .
+Authored work: '(Sermon pour le VII° dimanche après la Pentecôte)', composed around .
+Authored work: '(Sermon pour le XII° dimanche après la Pentecôte)', composed around .
+Authored work: 'Sermo defuncti Bartholomei Iacobite, dominica XVII post. Trin.', composed around .
+Authored work: '(Sermon pour le XVIII° dimanche après la Pentecôte)', composed around .
+Authored work: 'In Sexagesima', composed around ?.
+Authored work: 'In Ascensione', composed around ?.
+Authored work: 'Sermo fr. Bartholomei factus in Gallico, dominica in Quinquagesima', composed around ?.
+Authored work: 'Sermo fr. Bartholomei apud Predicatores, dominica IV post Pascha', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/03/2015).

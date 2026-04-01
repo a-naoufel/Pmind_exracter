@@ -1,0 +1,9 @@
+PERSON: GALCHERUS Béliart
+Also known as: Gaucher BÉLIART.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1378-1380%.
+Studied at: Paris %1378-1380%..
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 16/01/2020..

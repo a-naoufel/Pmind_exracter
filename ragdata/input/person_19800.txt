@@ -1,0 +1,12 @@
+PERSON: FREDERICUS de Egstede
+Also known as: Fredericus de EGSTEDE.
+Description: Évêque de Cammin.
+Status: Étudiant.
+Gender: male.
+Active during: %:1330-1343%.
+Born in: AllemagneduNord (Schleswig-Holstein : Eggstedt ?) ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en théologie ?.
+College affiliation: Sorbonne..
+Ecclesiastical positions held: Chanoine de Cammin % -1330%.; Évêque de Cammin %1330-1343%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 19/09/2021..

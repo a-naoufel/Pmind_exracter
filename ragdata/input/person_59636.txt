@@ -1,0 +1,9 @@
+PERSON: PETRUS de Virban
+Also known as: Petrus de VIRBAN.
+Description: Clerc à la Chambre des Comptes.
+Status: Incertain.
+Gender: male.
+Active during: %1411-1411%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

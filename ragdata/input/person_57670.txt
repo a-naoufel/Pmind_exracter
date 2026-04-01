@@ -1,0 +1,11 @@
+PERSON: PETRUS de Chevry
+Also known as: Pierre de CHEVRY.
+Description: Abbé de Saint-Maur-des-Fossés.
+Status: Extérieur.
+Gender: male.
+Active during: %1256-1285%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.S.B. : moine bénédictin ;.
+Religious functions: Abbé de Saint-Maur-des-Fossés %1256-1285% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 28/03/2024)..

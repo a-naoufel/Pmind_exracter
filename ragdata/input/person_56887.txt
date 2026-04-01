@@ -1,0 +1,10 @@
+PERSON: LUDOVICUS Esslinger
+Also known as: Ludovicus ESSLINGER.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1401-1401%.
+Born in: Alémanie ?.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 27/11/2023)..

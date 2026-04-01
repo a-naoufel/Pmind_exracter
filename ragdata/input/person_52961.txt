@@ -1,0 +1,14 @@
+PERSON: PETRUS Escoulant
+Also known as: Petrus ESCOULANT.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1451-1489%.
+Born in: Normandie (Coutances) ;.
+Diocese of origin: Diocèse de Coutances :.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Social origin: Bourgeoisie ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Rouen %1453-1489% ;; Curé de Sainte-Marguerite-sur-Duclair %1463-1489% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/11/2021..

@@ -1,0 +1,12 @@
+PERSON: ANTHONIUS Taintelier
+Also known as: Anthonius TAINTELIER.
+Description: Boursier du collège de Dainville.
+Status: Maître.
+Gender: male.
+Active during: %1505-1506%.
+Born in: Artois ?.
+Diocese of origin: Diocèse d’Arras ;.
+Studied at: Paris (Nation de Picardie ?) en %1505-1506%..
+Academic grades obtained: Maître (Paris) en ;.
+College affiliation: Collège de Dainville : boursier en %1506-1510% ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

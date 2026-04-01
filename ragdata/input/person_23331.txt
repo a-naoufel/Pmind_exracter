@@ -1,0 +1,10 @@
+PERSON: FRALINUS Le Tellier
+Also known as: Fralinus LETELLIER.
+Description: Clerc du collège de Sorbonne.
+Status: Suppôt.
+Gender: male.
+Active during: %1437-1437%.
+Studied at: Paris..
+Academic grades obtained: ?.
+College affiliation: Sorbonne : clerc du collège en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 14/05/2018)..

@@ -1,0 +1,14 @@
+PERSON: PETRUS Pologii
+Also known as: Petrus POLOGII.
+Description: Carme.
+Status: Maître.
+Gender: male.
+Active during: %1318-1334%.
+Born in: Catalogne ?.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) avant ..
+College affiliation: Couvent (carme) de Paris..
+Religious order: O.Carm. : frère du couvent (carme) de Perpignan..
+Religious functions: Prieur du couvent (carme) d’Avignon % -1333% ;.
+University functions: Paris (Faculté de Théologie : lecteur des Sentences vers (‘pro tertio annno’) ;; Paris (Faculté de Théologie : 11e maître-régent du couvent (carme) de Paris)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 31/01/2021)..

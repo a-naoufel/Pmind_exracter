@@ -1,0 +1,10 @@
+PERSON: THOMAS de Kessel
+Also known as: Thomas de KESSEL; Thomas KESSEL.
+Description: Étudiant en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1428-1434%.
+Studied at: Paris ?.
+Academic grades obtained: Maître (Paris) en ;; Étudiant en théologie (Paris) ?.
+College affiliation: Sorbonne : socius %1428-1433% ;; Son clerc est puni en (9 octobre) à hauteur d'une pinte de vin, pour avoir fait du bruit à la porte pendant le repas des maîtres ; il est à nouveau puni en (10 janvier) et à nouveau le 12 janvier "quoniam defecerat in Ethica ; il est renvoyé et remplacé par un nouveau clerc, CRETE ;; Sorbonne : procureur en (10 octobre) ;; Sorbonne : il est élu librarius en (25 mars) ;.
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, dernière mise à jour 04/07/2024..

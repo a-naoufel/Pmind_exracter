@@ -1,0 +1,32 @@
+PERSON: DOMINICUS Gundisalvi
+Also known as: Dominicus GUNDISALVUS; Dominicus GUNDISSALINUS; Domenicus GUNDISALVI; Domingo GUNDISALVO; Domingo GONZALEZ.
+Description: Archidiacre de Cuèllar.
+Status: Incertain.
+Gender: male.
+Active during: %1158-1192%.
+Born in: Espagne..
+Studied at: Chartres ;; ?Paris ;.
+Academic grades obtained: Magister ?.
+Ecclesiastical positions held: Chanoine de Ségovie ;; Archidiacre de Cuèllar à la cathédrale de Ségovie ;; Archidiacre de Talavera à la cathédrale de Tolède %1162-1181% ;.
+Authored work: 'De ortu scientiarum', composed around ?.
+Authored work: '(Traduction du De intellectu de Al Kindi)', composed around ?.
+Authored work: '(Traduction du De intellectu de Al Fârâbi)', composed around ?.
+Authored work: '(Traduction de l’oeuvre d’ALEXANDRE de Aphrodisias)', composed around ?.
+Authored work: '(Traduction de la Métaphysique de Al Ghazâlî)', composed around ?.
+Authored work: 'Logica et philosophia Algazalis Arabis', composed around ?.
+Authored work: '(Traduction de l’Incohérence des Philosophes de Al Ghazâlî)', composed around ?.
+Authored work: 'Liber de Philosophia prima sive Scientia divina', composed around ?.
+Authored work: 'De Anima', composed around ?, dedicated to Dédié à Jean de CASTELMORON, archevêque de Tolède..
+Authored work: 'Fons vitae', composed around ?.
+Authored work: 'De anima'.
+Authored work: 'De divisione philosophiae', composed around ?.
+Authored work: 'De immortalitate animae', composed around ?.
+Authored work: 'De unitate et uno', composed around ?.
+Authored work: 'Fontes quaestionum', composed around ?.
+Authored work: 'Liber de diffinitionibus', composed around ?.
+Authored work: 'Liber exercitationis ad viam felicitatis', composed around ?.
+Authored work: 'Liber introductorius in artem logicae demonstrationis', composed around ?.
+Authored work: 'Liber de pratica arismetice', composed around ?.
+Authored work: '(Traduction du commentaire d’Avicenne sur la Physique d’Aristote)', composed around ?.
+Authored work: '(Traduction du De Caelo d’Avicenne)', composed around ?.
+Source: MIRABILE :.

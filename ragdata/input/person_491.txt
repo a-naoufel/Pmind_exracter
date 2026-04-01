@@ -1,0 +1,24 @@
+PERSON: ALEXANDER Achillini
+Also known as: Alexandre ACHILLINI; Alexandre ACHILLINUS; Alexandre de ACHILLINIS.
+Description: Médecin.
+Status: Étudiant.
+Gender: male.
+Active during: %1484-1512%.
+Born in: Italie (Émilie, Bologne)..
+Diocese of origin: Diocèse de Bologne ?.
+Studied at: ?Paris (Faculté des Arts) pendant 3 ans.; Bologne ;; Padoue..
+Academic grades obtained: Docteur (Padoue) ..
+Family relationships: Son père est Claudio IACHILINI di CAVALCASELLI ; Son frère est Giovanni Filotheo ACHILLINI ; Son neveu est Claudio ACHILLINI poète..
+University functions: Chaire de logique à Bologne %1484-1487% ;; Chaire de philosophie à Bologne %1487-1494% ;; Professeur de médecine et philosophie à Bologne %1494-1506% ;; Chaire de philosophie à Padoue en %1506-1508%?.; Professeur de médecine et philosophie à Bologne %1508-1512%..
+Authored work: 'Quolibeta de intelligentiis', composed around ?.
+Authored work: 'De universalibus', composed around ?.
+Authored work: 'Quaestio de potestate syllogismi', composed around ?.
+Authored work: 'De distinctionibus', composed around ?.
+Authored work: 'De orbibus', composed around ?.
+Authored work: 'De elementis', composed around ?.
+Authored work: 'De physico auditu [fragment]', composed around ?.
+Authored work: 'De proportionibus motuum', composed around ?.
+Authored work: 'Quaestio de subiecto medicinae', composed around ?.
+Authored work: 'De chyromantiae principis et physionomiae', composed around ?.
+Authored work: 'Anatomicae annotationes', composed around ?.
+Source: http://www.treccani.it/enciclopedia/alessandro-achillini_(Dizionario-Biografico)/.

@@ -1,0 +1,11 @@
+PERSON: REGINALDUS de Bourges
+Also known as: Reginaldus de BOURGES.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1258-1279%.
+Born in: Berry (Bourges ?) ;.
+Diocese of origin: Diocèse de Bourges..
+Studied at: Paris ?.
+Academic grades obtained: Maître ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 13/05/2025)..

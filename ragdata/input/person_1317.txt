@@ -1,0 +1,10 @@
+PERSON: BERNARDUS Martini
+Also known as: Bernard MARTINI.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1301-1312%.
+Studied at: ?.
+Academic grades obtained: Magister..
+Religious order: O.P. : frère du couvent (dominicain) de Figeac..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 5/02/2021)..

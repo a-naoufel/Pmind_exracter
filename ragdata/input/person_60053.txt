@@ -1,0 +1,13 @@
+PERSON: PETRUS Roguet
+Also known as: Petrus ROGUET.
+Description: Chanoine d’Arrouaise.
+Status: Étudiant.
+Gender: male.
+Active during: %1408-1418%.
+Born in: Artois ?.
+Diocese of origin: Diocèse d’Arras ?.
+Studied at: Paris..
+Academic grades obtained: Étudiant ?.
+College affiliation: Collège de Dainville : boursier ;.
+Religious order: O.S.A. : chanoine régulier de l’abbaye d’Arrouaise (Saint-Nicolas) en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

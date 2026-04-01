@@ -1,0 +1,13 @@
+PERSON: ALANUS Perioci
+Also known as: Alanus PERIOCI.
+Description: Étudiant en droit canon.
+Status: Étudiant.
+Gender: male.
+Active during: %1378-1385%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Tréguier..
+Studied at: Paris..
+Academic grades obtained: Étudiant en décret ;.
+Ecclesiastical status: Prêtre du diocèse de Tréguier ;.
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiastique à la collation du prieur du prieuré de Paris (Saint-Martin des Champs) en ;; Curé de Béhoust (Diocèse de Chartres) en ;; Candidat à un bénéfice ecclésiastique à la collation de l'évêque, du doyen et du chapitre de Senlis, ou à une grâce similaire à la collation de l'abbé et du couvent de Paris (Saint-Magloire)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 08/06/2020)..

@@ -1,0 +1,9 @@
+PERSON: MICHAEL de Hanonia
+Also known as: Michael de HANONIA.
+Description: Serviteur à la cuisine.
+Status: Suppôt.
+Gender: male.
+Active during: %1408-1418%.
+Studied at: Paris..
+College affiliation: Collège de Dainville : serviteur à la cuisine ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

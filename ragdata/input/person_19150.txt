@@ -1,0 +1,17 @@
+PERSON: BERTALDUS de Sancto-Dionysio 1
+Also known as: Berthaud de SAINT-DENYS.
+Description: Évêque d'Orléans.
+Status: Maître.
+Gender: male.
+Active during: %1278-1307%.
+Born in: ?Île-de-France (Saint-Denis) ,.
+Diocese of origin: Diocèse de Paris..
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) dés ..
+Ecclesiastical positions held: Chanoine de Paris (Notre-Dame) %1278-1299% ;; Chancelier de Paris %1288-1295% ;; Chanoine de Cambrai %1282-1299% ;; Archidiacre de Reims %1295-1299% ;; Évêque d'Orléans %1299-1307%..
+University functions: Paris (Faculté de Théologie : maître-Régent en %1278-1279%).; Paris (Université : chancelier %1288-1295%)..
+Authored work: '(Sermons pour la Sexagésime)', composed around (1er février)..
+Authored work: '(Sermon)', composed around ? à Paris (Saint-Jacques)..
+Authored work: 'Quodlibet, 17 q.', composed around (5 mars)..
+Authored work: 'Quaestio disput. de motu coeli', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/03/2015).

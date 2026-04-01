@@ -1,0 +1,11 @@
+PERSON: ALANUS de Tongres
+Also known as: Alanus de TONGRES.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1303-1303%.
+Studied at: Paris ..
+Academic grades obtained: Maître en théologie (Paris) ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Ecclesiastical positions held: O.F.M. : frère de la province (franciscaine) de Paris, custode de Liège..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/03/2020)..

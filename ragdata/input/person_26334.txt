@@ -1,0 +1,9 @@
+PERSON: BOEMUNDUS de Consol
+Also known as: Bemundus de CONSOL.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1359-1359%.
+Studied at: Nation Anglo-allemande ..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (dernière mise à jour, Jean-Philippe Genet, 23/03/2021)..

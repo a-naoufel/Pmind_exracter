@@ -1,0 +1,10 @@
+PERSON: MICHAEL Portian
+Also known as: Michelet PORTIAN.
+Description: Boursier en théologie du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1501-1501%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en théologie (Paris) ;.
+College affiliation: Collège d'Autun : boursier en théologie en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

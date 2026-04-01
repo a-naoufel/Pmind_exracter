@@ -1,0 +1,10 @@
+PERSON: GALTERIUS Mortimer
+Also known as: Walter MORTIMER.
+Description: Magister.
+Status: Extérieur.
+Gender: male.
+Active during: %1261-1276%.
+Studied at: Oxford ?.
+Academic grades obtained: Magister en ;.
+Ecclesiastical positions held: Recteur d'Abingdon (Saint Nicholas) ;; Recteur d'Uffington %:1270-1274% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 18/11/2021..

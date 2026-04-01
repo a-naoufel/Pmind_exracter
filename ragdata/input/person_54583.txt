@@ -1,0 +1,11 @@
+PERSON: PHILIPPUS Le Boulanger
+Also known as: Philippus LEBOULANGER.
+Description: Évêque de Sées.
+Status: Incertain.
+Gender: male.
+Active during: %1295-1315%.
+Academic grades obtained: Maître ;.
+Religious order: O.S.B. : moine (bénédictin) de l’abbaye (O.S.B.) de Saint-Evroult ;.
+Ecclesiastical positions held: Évêque de Sées %1295-1315% ;.
+Representation roles: Il participe au concile de Vienne en :.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 14/11/2022..

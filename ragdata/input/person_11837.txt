@@ -1,0 +1,16 @@
+PERSON: THEOBALDUS de Attigniaco
+Also known as: Theobaldus de ATTIGNIACO; Thibaud d'ATTIGNY.
+Description: Écolier au Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1349-1390%.
+Born in: Champagne (Attigny) ;.
+Diocese of origin: Diocèse de Reims ;.
+Studied at: Paris (Nation de France) %:1349-1389% ;.
+Academic grades obtained: Maître ès arts (Paris) ;; Docteur en médecine (Paris) ;.
+College affiliation: Collège de Dormans-Beauvais : boursier en %1377-1379% et en %1381-1384% ;; Collège de Dormans-Beauvais : boursier extraordinaire en %1387-1389% ;.
+Family relationships: Son oncle est Étienne de GIVRY, licencié en droit civil qui sera évêque de Troyes en %1395-1426% ; Son cousin est Tauny PETIT, boursier du Collège de Dormans-Beauvais ; Son parent est peut-être Jacques d'ATTIGNY qui sera chanoine de Reims en %1430-1438% ;.
+Ecclesiastical status: Sous-diacre du diocèse de Reims ;.
+Ecclesiastical positions held: Provision pour un bénéfice à la collation de l'archidiacre de Reims ;; Provision pour un bénéfice à la collation de l'archevêque de Reims sur le rotulus de la Faculté des Arts en ;; Chapelain de la chapelle du Château de Gueux au diocèse de Reims en ;; Provision pour l'égliseparoissiale de Roumare vacante en Curie sur le rotulus de l'Université de Paris en (mai) : mandat à l'abbé de Saint-Denis, à l'official de Rouen et à Nicolaus de HERMENDIVILLA, chanoine de Reims ;; Chanoine de Reims (Saint-Symphorien) %1363- % ;; Chanoine d'Arras %1368- % ;; Chanoine de Reims %1369-1390% ;; Candidat à un bénéfice à la collation du doyen et du chapitre de Châlons-en-Champagne en sur le rotulus de Richard PICQUE, archevêque de Reims ;.
+University functions: Paris (Faculté de Médecine : nonce pour la remise du rotulus de la Faculté de (février) au pape INNOCENT VI ;; Paris (Faculté de Médecine : maître-régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 1/06/2021..

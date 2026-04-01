@@ -1,0 +1,9 @@
+PERSON: ANTHONIUS Wirdi
+Also known as: Anthonius WIRDI.
+Description: Maître ès arts de Cologne.
+Status: Étudiant.
+Gender: male.
+Active during: %1487-1487%.
+Studied at: Paris ?.
+Academic grades obtained: Cologne ;; Étudiant (Paris) avant ?; Maître ès arts (Cologne) ;.
+Source: RAG ;.

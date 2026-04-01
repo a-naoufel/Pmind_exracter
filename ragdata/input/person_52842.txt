@@ -1,0 +1,12 @@
+PERSON: HUGO de Sarcus
+Also known as: Hugo de SARCUS; Hugo de SARQUUS; Hugues de SERQUEUX.
+Description: Archidiacre de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1212-1244%.
+Born in: Champagne (Serqueux) ;.
+Diocese of origin: Diocèse de Langres ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Archidiacre de Champagne %1212-1226% ;; Archidiacre de Reims %1226-1244% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 27/10/2021..

@@ -1,0 +1,12 @@
+PERSON: ARNALDUS Jandonis
+Also known as: Arnaldus JANDONIS.
+Description: Notaire.
+Status: Extérieur.
+Gender: male.
+Active during: %1333-1333%.
+Born in: Quercy ?.
+Diocese of origin: Diocèse de Cahors..
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Clerc du diocèse de Cahors..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 10/11/2020)..

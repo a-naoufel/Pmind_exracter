@@ -1,0 +1,9 @@
+PERSON: ANDREAS de Felburga
+Also known as: Andreas de FELBURGA.
+Description: Licencié ès arts..
+Status: Gradué.
+Gender: male.
+Active during: %1460-1460%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Licencié ès arts (Paris) ;.
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 31/07/2020).

@@ -1,0 +1,11 @@
+PERSON: THOMAS Hunin
+Also known as: Thomas HUNIN.
+Description: Nonce pour le diocèse d’Orléans.
+Status: Suppôt.
+Gender: male.
+Active during: %1445-1445%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris (Nation de France) ..
+University functions: Paris (Nation de France : il reçoit l'office de nonce pour le diocèse de Orléans en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 24/01/2024..

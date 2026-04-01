@@ -1,0 +1,10 @@
+PERSON: PETRUS de Viaco
+Also known as: Petrus de VIACO; Pierre de VI.
+Description: Chanoine d’Évreux.
+Status: Incertain.
+Gender: male.
+Active during: %1289-1304%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Évreux %1289-1304% ;; Archidiacre du Neubourg ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 23/03/2023)..

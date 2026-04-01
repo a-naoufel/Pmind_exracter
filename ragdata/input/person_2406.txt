@@ -1,0 +1,9 @@
+PERSON: G. Barrau
+Also known as: G. BARRAU.
+Description: Notaire ou secrétaire.
+Status: Incertain.
+Gender: male.
+Active during: %1386-1386%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/09/2021..

@@ -1,0 +1,9 @@
+PERSON: ADEMARUS de Textoria
+Also known as: Ademarus de TEXTORIA.
+Description: Bedeau de l'université de Toulouse.
+Status: Extérieur.
+Gender: male.
+Active during: %1317-1317%.
+Studied at: Toulouse..
+University functions: Toulouse (Université : bedellus)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019)..

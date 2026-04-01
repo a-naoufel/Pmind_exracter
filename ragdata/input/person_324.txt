@@ -1,0 +1,11 @@
+PERSON: ALARDUS de Burnham
+Also known as: Alard de BURNHAM.
+Description: Doyen de St-Paul.
+Status: Extérieur.
+Gender: male.
+Active during: %1173-1216%.
+Born in: Angleterre..
+Studied at: ?Oxford..
+Academic grades obtained: Magister ..
+Ecclesiastical positions held: Recteur de Brandon (?Norfolk ou Suffolk) ca.%1190-1192% ;; Chanoine de Londres (St-Paul) ?%1192-1198% ;; Archidiacre de Londres %1192-1204% ;; Recteur de la mediety de Little-Marlowe (Buckinghamshire) % -1204% ;; Doyen de Londres (St-Paul) %1202-1216%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 10/06/2020..

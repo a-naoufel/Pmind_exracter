@@ -1,0 +1,10 @@
+PERSON: CLEMENS 5
+Also known as: CLEMENS.
+Description: Maître-régent.
+Status: Maître.
+Gender: male.
+Active during: %1450-1450%.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+Academic relationships: Son élève pour le baccalauréat est Johannes ARGUELI..
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction, Jean-Philippe Genet, 15/04/2021..

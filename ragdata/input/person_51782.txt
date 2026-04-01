@@ -1,0 +1,25 @@
+PERSON: RICARDUS de Conington
+Also known as: Richard de CONINGTON.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1290-1330%.
+Born in: Angleterre (?Cambridgeshire) ;.
+Studied at: Oxford ;; Paris ?.
+Academic grades obtained: Étudiant (Paris) vers %1290-1293%?; Docteur en théologie (Oxford) en %1305-1306%..
+Religious order: O.F.M. : frère du couvent (franciscain) d'Oxford en ;.
+Religious functions: MinistreProvincial (franciscain) d’Angleterre, %1310-1316%..
+University functions: Oxford (Lecteur des Sentences %1302-1303%) ;; Oxford (Lecteur du couvent franciscain) en %1305-1306%) ;; Cambridge (Maître-régent au couvent franciscain)..
+Representation roles: Participant actif au Concile de Vienne en %1311-1312%..
+Authored work: 'Super Magistrum Sententiarum Libri Quatuor', composed around ?.
+Authored work: 'Quodlibet I', composed around ?.
+Authored work: 'Quodlibet II', composed around ?.
+Authored work: 'Quaestiones ordinariae', composed around ?.
+Authored work: 'In Quadragesimale Gregorii', composed around ?.
+Authored work: 'In Psalmos Poenitentiales', composed around ?.
+Authored work: 'Sermones Solennes', composed around ?.
+Authored work: '(Beatus qui intelligit) Tractatus contra opiniones Petri Johannis Olivi', composed around ..
+Authored work: 'Abbreviatura Communitatis de Intellectu et Observantia Paupertatis', composed around ?.
+Authored work: 'Responsiones ad conclusiones Domini Papae', composed around ..
+Authored work: 'De Christi Dominio', composed around Vers ..
+Source: Répertoire des auteurs franciscains préparé par Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress :.

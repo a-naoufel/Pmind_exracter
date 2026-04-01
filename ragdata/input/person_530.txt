@@ -1,0 +1,10 @@
+PERSON: AMALRICUS 1
+Also known as: ALMAURICUS; ALMARICUS.
+Description: Bénédictin.
+Status: Extérieur.
+Gender: male.
+Active during: %1377-1377%.
+Studied at: ?.
+Religious order: O.S.B. : moine bénédictin.
+Religious functions: Abbé (bénédictin) de Lonlay (Ste-Marie) jusqu'à sa mort en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2020)..

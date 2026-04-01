@@ -1,0 +1,14 @@
+PERSON: BERTRANDUS de Sancto Floro
+Also known as: Bertrandus de SANCTO FLORO Alvernus; Bertrand de SAINT-FLOUR.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1285-1300%.
+Born in: Auvergne ?.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris)..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère dominicain..
+University functions: Paris (Couvent dominicain : enseigne ca.%1285-1300%)..
+Authored work: 'Sermo in XXII dominica post Trin. fratris Bertrandi de Arvernia ordinis fratris predicatorum', composed around ?.
+Source: MIRABILE :.

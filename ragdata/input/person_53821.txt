@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Archidiaconis Ruthenensis
+Also known as: GUILLERMUS, archidiacre de Rodez.
+Description: Archidiacre de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1192-1209%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Archidiacre de Rodez %1192-1209% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 31/05/2022..

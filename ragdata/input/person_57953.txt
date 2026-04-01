@@ -1,0 +1,10 @@
+PERSON: PHILIPPUS Heleu
+Also known as: Philippus HELEU.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1448-1448%.
+Studied at: Paris..
+Academic grades obtained: Maître (Paris) ?.
+College affiliation: Collège de Sorbonne : il est reçu en (novembre ou décembre) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 08/07/2024..

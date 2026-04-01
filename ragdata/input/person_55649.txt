@@ -1,0 +1,12 @@
+PERSON: RADULPHUS de Civitate
+Also known as: Radulphus de CIVITATE.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1361-1361%.
+Born in: Italie (Ombrie : Città di Castello) ;.
+Diocese of origin: Diocèse de Città di Castello ?.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) avant ..
+University functions: Paris (Faculté de Théologie : maître-régent en (août)) ;; Paris (Faculté de Théologie : en (10 novembre) la Faculté lui donne procuration en tant que docteur en théologie pour être l’un de ses députés) ;.
+Source: CUP: III, n° 1256 ;.

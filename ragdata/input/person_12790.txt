@@ -1,0 +1,12 @@
+PERSON: PETRUS Le Tellier
+Also known as: Petrus LE TELLIER.
+Description: Bénédictin.
+Status: Gradué.
+Gender: male.
+Active during: %1499-1499%.
+Born in: Normandie ?.
+Studied at: Paris %1499-1499%..
+Academic grades obtained: Bachelier en théologie (Paris) ..
+Family relationships: ?Son parent est Simon LE TELLIER..
+Religious order: Bénédictin : abbaye de Jumièges (diocèse de Rouen)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 19/12/2023..

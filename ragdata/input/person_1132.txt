@@ -1,0 +1,28 @@
+PERSON: ARNULPHUS Greben
+Also known as: Arnulfus GREBEN; Arnoul GREBAN; Arnolfo di ARNOLFO.
+Description: Musicien.
+Status: Maître.
+Gender: male.
+Active during: %1444-1495%.
+Diocese of origin: Diocèse de Cambrai..
+Studied at: Paris (Nation Picarde) ?.
+Academic grades obtained: Maître ès arts (Paris) vers ;; Bachelier en théologie (Paris) ..
+Family relationships: Son frère est Simon GREBAN, Chanoine de LeMans (St-Julien)..
+Ecclesiastical positions held: Chanoine de LeMans vers ?; Chanoine de LeMans (St-Pierre-de-la-Cour) %1455-1473% ?; Chapelain de Florence (San Lorenzo) %1476-1479%..
+University functions: Paris (Faculté de Théologie : enseignant )..
+Authored work: 'Mystère de la passion', composed around ., dedicated to Commande des échevins d'Abbeville..
+Authored work: 'Mystère des Actes des Apôtres', composed around ?.
+Authored work: 'Lai en l'honneur de la Vierge', composed around ?.
+Authored work: 'Commentarius in Boethii Consolationem philosophie', composed around ?.
+Authored work: 'Philosophia', composed around ?.
+Authored work: 'Complainte amoureuse', composed around ?.
+Authored work: 'Rondeau "Le souvenir de vous me tue"', composed around ?.
+Authored work: 'Tractatulus de differentiis et generibus cantorum a Magistro Arnulpho de Sancto Gilleno editus', composed around ?.
+Authored work: 'Musique du rondeau "Le souvenir de vous me tue"', composed around ?.
+Authored work: '(Magnificat I)', composed around ?.
+Authored work: '(Magnificat II)', composed around ?.
+Authored work: '(Péan à la gloire de la république de Sienne)', composed around ?, dedicated to En l'honneur de la République de Sienne..
+Authored work: '(Chanson profane sur un texte italien)', composed around ?.
+Authored work: 'Leçons de ténèbres pour la Semaine Sainte', composed around ?.
+Authored work: 'Répons pour Santa Maria del Fiore', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

@@ -1,0 +1,12 @@
+PERSON: RADULPHUS de Bosco 1
+Also known as: Raoul de BOSCO.
+Description: Bachelier en arts..
+Status: Gradué.
+Gender: male.
+Active during: %1378-1378%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Sées..
+Studied at: Paris (Nation de Normandie) ;; Montpellier ..
+Academic grades obtained: Bachelier ès arts (Paris) en ;; Étudiant en médecine (Montpellier) ..
+Ecclesiastical status: Clerc du diocèse de Sées..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 2/12/2018..

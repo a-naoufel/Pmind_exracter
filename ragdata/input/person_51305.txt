@@ -1,0 +1,13 @@
+PERSON: SIMON de Plumetot
+Also known as: Simon de PLUMETOT.
+Description: Conseiller au Parlement de Paris.
+Status: Étudiant.
+Gender: male.
+Active during: %1391-1443%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse de Bayeux ?.
+Studied at: Paris.; Orléans..
+Academic grades obtained: Étudiant (Paris) ?; Bachelier en droit civil (Orléans) ;; Bachelier en droit canon (Orléans) ;; Docteur en droit civil (Orléans) ;.
+College affiliation: École de Saint-Victor ;; Boursier de Saint-Victor en tant que novice ;; Collège de Justice : proviseur en ;.
+Ecclesiastical positions held: Chanoine de Senlis ;; Chanoine de Chartres ;; Chanoine de Caen ;; Chanoine de Bayeux ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 15/10/2020..

@@ -1,0 +1,13 @@
+PERSON: HERVEUS de Coat-Difez
+Also known as: Herveus de COAT-DIFEZ; Hervé de COAT-DIFEZ.
+Description: Bénédictin..
+Status: Étudiant.
+Gender: male.
+Active during: %1330-1332%.
+Born in: Bretagne ?.
+Studied at: Paris (Collège de Cornouaille) ..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Cornouaille) ..
+Religious order: Bénédictin : monastère (bénédictin) de Landévennec (diocèse de Quimper)..
+Religious functions: Moine (bénédictin) de Landévennec diocèse de Quimper ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 11/08/2022..

@@ -1,0 +1,9 @@
+PERSON: EBRARDUS Molitoris
+Also known as: Efrardus MOLITORIS.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1465%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Étudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 30/06/2021..

@@ -1,0 +1,12 @@
+PERSON: ARTHURUS de Vendel
+Also known as: Arturus de VENDEL; Arturus de VANDEL.
+Description: Bachelier.
+Status: Gradué.
+Gender: male.
+Active during: %1444-1445%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Rennes..
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Academic relationships: Son maître est Gauffridus CALVI pour le baccalauréat en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 22/10/2020)..

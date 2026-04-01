@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Cercellis
+Also known as: Guillelmus de CERCELLIS; Guillaume de SARCELLES.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1242-1249%.
+Studied at: ?.
+Academic grades obtained: Magister ;; Bachelier en décret ;.
+Ecclesiastical status: Diacre ;.
+Ecclesiastical positions held: Chanoine de Reims %1242-1249% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 10/01/2019..

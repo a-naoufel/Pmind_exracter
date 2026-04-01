@@ -1,0 +1,15 @@
+PERSON: ISEMBARDUS Letellier
+Also known as: Ysembardus de LETELLLIER.
+Description: Moine cistercien de Loc-Dieu.
+Status: Maître.
+Gender: male.
+Active during: %1490-1509%.
+Born in: Normandie (Rouen) ?.
+Diocese of origin: Diocèse de Rouen ?.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie Paris ?.
+College affiliation: Collège Saint-Bernard : maître-régent ;.
+Religious order: O. Cist. : moine (cistercien) du monastère (cistercien) de Loc-Dieu ;.
+Authored work: 'Scriptum in quinque primo capita Genesis', composed around ?.
+Authored work: 'Sermones de tempore et de sanctis', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 4/01/2022..

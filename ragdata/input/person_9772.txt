@@ -1,0 +1,9 @@
+PERSON: PETRUS Beliardi
+Also known as: Petrus BELIARDI; Petrus BELLIARDI.
+Description: Maître en médecine et étudiant en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1365-1379%.
+Studied at: Paris %1365-1379%..
+Academic grades obtained: Maître ès arts (Paris) ;; Maître en médecine (Paris) ;; Étudiant en théologie (Paris) ..
+Ecclesiastical positions held: Clerc du diocèse du LeMans ;; Recteur de la paroisse de Canehan au diocèse de Rouen en ;; Candidat à un canonicat du LeMans en ..

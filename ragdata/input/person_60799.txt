@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Monte Mauri
+Also known as: Guillermus de MONTE MAURI.
+Description: Chanoine de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1317-1338%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Sous-diacre ;.
+Ecclesiastical positions held: Chanoine de Cambrai %1317-1338% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 02/01/2026..

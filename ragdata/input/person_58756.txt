@@ -1,0 +1,12 @@
+PERSON: RADULPHUS de Namurco
+Also known as: Radulphus de NAMURCO.
+Description: Chantre de Cambrai.
+Status: Maître.
+Gender: male.
+Active during: %1210-1210%.
+Born in: Namur ?.
+Diocese of origin: Diocèse de Liège ?.
+Studied at: Paris ?.
+Academic grades obtained: Magister (Paris) avant ?.
+Ecclesiastical positions held: Chantre de Cambrai..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 16/04/2024)..

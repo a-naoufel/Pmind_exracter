@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Landis
+Also known as: Guillelmus de LANDIS; Guillaume DESLANDES.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1349-1349%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Coutances ;.
+Studied at: Paris (Nation de Normandie) ..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en médecine (Paris) en ;.
+Ecclesiastical status: Clerc du diocèse de Coutances en ;; Diacre du diocèse de Coutances en ;.
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiastique à la collation de l’abbé et du couvent du monastère (bénédictin) de Saint-Sever en réponse au rotulus de l’Université de Paris en , après qu’il ait renoncé à tous ses bénéfices dans le diocèse de Coutances et dans l’archidiaconé de Passais à laquelleun bénéfice ecclésiastique à la collation de l’évêque, du doyen et du chapitre de Tournai : mandat à l’archidiacre de Passais, à l’archidiacre de Val-de-Vire et au sacriste d’Avignon ;; Provision pour un bénéfice ecclésiastique à la collation de l’abbé et du couvent du monastère (bénédictin) de Lessay en réponse au rotulus de l’Université de Paris en : mandat à l’abbé de Paris (Sainte-Geneviève), à Gaufridus LEMARHEC, chanoine de Coutances et à Nicolaus de VADOHERBERDI, chanoine de Coutances ;; Recteur d’Anneville-en-Cères ;; Provision pour un canonicat avec expectative de prébende de Poitiers (églisecollégiale Saint-Hilaire) en réponse au rotulus de l’Université de Paris en : mandat au sacriste d’Avignon (Saint-Agricol), à l’official de Paris et à l’official de Poitiers ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 04/03/2020..

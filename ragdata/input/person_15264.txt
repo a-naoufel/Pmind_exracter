@@ -1,0 +1,14 @@
+PERSON: BONIFACIUS Clutinc de Bruxelles
+Also known as: Bonifacius CLUTINC; Boniface de BRUXELLES; Saint Boniface de BRUXELLES; Saint BONIFACE.
+Description: Évêque de Lausanne..
+Status: Maître.
+Gender: male.
+Active during: %:1182:-1261%.
+Born in: Brabant (Bruxelles)..
+Diocese of origin: Diocèse de Cambrai..
+Studied at: Paris %1200-1229%.; Cologne %1229-1231% ?.
+Academic grades obtained: Étudiant ès arts (Paris) ;; Magister (Paris) ? ;; Maître de théologie (Paris)..
+Social origin: Bourgeoise ;.
+Ecclesiastical positions held: Chanoine de Bruxelles (Saint-Gudule) ;; Doyen de Bruxelles (Saint-Gudule), ;; Écolâtre de Cologne %1229-1231% ;; Évêque de Lausanne, %1231-1239%..
+University functions: Enseigne les arts à Paris, %1200-1215% ;; Paris (Régent en Théologie %1222-1229%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 26/03/2021)..

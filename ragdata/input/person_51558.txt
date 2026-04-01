@@ -1,0 +1,11 @@
+PERSON: PETRUS Girardi
+Also known as: Pierre GIRARD.
+Description: Martinet du Collège de Dormans-Beauvais.
+Status: Incertain.
+Gender: male.
+Active during: %1436-1436%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dormans-Beauvais : martinet %1436-1436% ;.
+Family relationships: Son parent est Jean GIRARD, martinet au Collège de Dormans-Beauvais en %1435-1437% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 12/09/2019..

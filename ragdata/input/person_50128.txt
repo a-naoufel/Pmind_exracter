@@ -1,0 +1,11 @@
+PERSON: HENRICUS Quillet
+Also known as: Henryet QUILLET.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1393-1405%.
+Studied at: Paris %1393-1394%.; Orléans %1404-1405% ;.
+Academic grades obtained: Étudiant (Paris) %1393-1394% ;.
+College affiliation: Collège de Dormans-Beauvais : boursier %1393-1394% ;.
+Family relationships: Son parent est peut-être Laurent QUILLET, maître ès arts ; Son parent est peut-être Robert QUILLET, hôte au Collège de Dormans-Beauvais ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 07/11/2019..

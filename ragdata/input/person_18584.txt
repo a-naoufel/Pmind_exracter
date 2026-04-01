@@ -1,0 +1,11 @@
+PERSON: ROBERTUS Remigii
+Also known as: Robertus REMIGII.
+Description: Recteur de l'Université.
+Status: Maître.
+Gender: male.
+Active during: %1450-1464%.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts ?.
+Academic relationships: Son élève est Nicolaus REGNIER pour la maîtrise en ;.
+University functions: Paris (Université : recteur élu en (25 juin) ;; Paris (Faculté des arts : lector Ethicorum élu en (9 septembre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 17/08/2015..

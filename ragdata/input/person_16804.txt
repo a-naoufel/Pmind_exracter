@@ -1,0 +1,169 @@
+PERSON: ARNALDUS de Villanova
+Also known as: Arnaud de VILLENEUVE; Arnaldus de VILLANOVA.
+Description: Médecin.
+Status: Extérieur.
+Gender: male.
+Active during: %1265-1312%.
+Born in: Valencia ?.
+Diocese of origin: Diocèse de Valencia ?.
+Studied at: Montpellier..
+Academic grades obtained: Docteur en médecine (Montpellier) avant .; Étudiant en théologie au couvent (dominicain) de Barcelone..
+Family relationships: Sa femme est Agnes BLASI ; Sa fille est MARIA..
+Ecclesiastical positions held: Clerc (ordres mineurs)..
+University functions: Montpellier (Professeur de médecine) %1285-1300%..
+Representation roles: Mission diplomatique en France en %1299-1300% pour le compte de JACQUES II, roi d' Aragon..
+Authored work: 'Allocutio super significatione nominis tetagrammaton, tam in lingua hebraica quam in latina, et super declaratione mysterii Trinitatis evidentibus rationibus atque signis', composed around (20 juillet) "in Castro Medullionis "..
+Authored work: 'Dialogus de elementis catholicae fidei seu Alphabetum Catholicorum ... ad inclytum dominum regem Aragonum pro filiis erudiendis in elementis catholicae fidei', composed around , dedicated to dédié à JACQUES II, roi d' Aragon..
+Authored work: 'De prudentia catholicorum scolarium', composed around ?%1296 -1297%.
+Authored work: 'Tractatus de tempore Adventus Antichristi (rédactions 1 et 2)', composed around pour la rédaction 1, mais il a commencé à y travailler dès ;.
+Authored work: 'Introductio in librum [Ioachim] De semine scripturarum seu de prophetis dormientibus', composed around ?.
+Authored work: 'De mysterio cymbalorum ecclesie, version primitive', composed around ?.
+Authored work: 'De mysterio cymbalorum ecclesie, version diffusée', composed around à Sculcola ..
+Authored work: 'Tractatus epistolarum christiani', composed around à Sculcola ..
+Authored work: 'Denuntiationes Gerundenses (Denuntiatio 1 contra Bernardum de Podio Certoso, O.P.)', composed around /Condamné en novembre au synode de Tarragone..
+Authored work: 'Denuntiationes Gerundenses (Denuntiatio 2 contra Bernardum de Podio Certoso, O.P.)', composed around Fin ou début à Gérone ..
+Authored work: 'Denuntiationes Gerundenses (Denuntiatio 3)', composed around Fin ou début à Gérone ..
+Authored work: 'Denuntiatio prima facta Massiliae (contra J. Vigorisi O.P.)', composed around (10 février) à Marseille..
+Authored work: 'Denuntiatio secunda facta Massiliae (contra J. Vigorisi O.P.)', composed around (28 février) à Marseille..
+Authored work: 'Denuntiatio tertia facta Massiliae', composed around (14 mars) à Marseille..
+Authored work: 'Gladius iugulans Thomatistas, ad magistrum Jacobum Albi', composed around ?, avant le 10 février, à Marseille ..
+Authored work: 'Carpinatio poetriae theologi deviantis, ad dominum Marcellum canonicum Cardonensem', composed around ?.
+Authored work: 'Allocutio christiani de his que conveniunt homini secundum propriam dignitatem creature rationalis, ad inclytum tertium Fredericum, Trinacriae regem illustrem', composed around ?%1304 -1305% (en Sicile )., dedicated to Dédié à FRÉDÉRIC III, roi de Trinacrie..
+Authored work: 'Eulogium de notitia verorum et pseudo-apostolorum', composed around à Gérone..
+Authored work: 'Philosophia catholica et divina, adnihilandi artem et versutias Antichristi et omnium membrorum eius', composed around à Nice ; le 29 août pour les lettres d'envoi..
+Authored work: 'Confessio Ilerdensis de spurcitiis pseudo-religiosorum', composed around à Lérida ..
+Authored work: 'De generibus abusionum veritatis et de pseudoministris Antichristi cognoscendis et de pastorali officio contra gregem exercendo', composed around ?.
+Authored work: 'Protestatio, praesentatio ac supplicatio Benedicto XI', composed around (2 juin ) à Avignon., dedicated to Adressé au pape BENOIT XI..
+Authored work: 'Protestatio facta Perusii coram domino camerario Summi Pontificis', composed around (18 juillet )..
+Authored work: 'Apologia de versutiis atque perversitatibus pseudo-theologorum et religiosorum, ad magistrum Jacobum Albi canonicum Dignensem', composed around , dedicated to Adressé à Jacques BLANC..
+Authored work: 'Expositio super Apocalypsi', composed around : écrit à Marseille (St-Victor)..
+Authored work: 'Expositio super XXIV capitulum Matthaei', composed around ?.
+Authored work: 'De consummatione seculi', composed around .
+Authored work: 'Protestatio facta coram domino rege Francorum contra theologos Parisienses', composed around (avant le 12 octobre)., dedicated to Adressé à PHILIPPE IV le Bel ..
+Authored work: 'Appellatio ad apostolicam sedem contra cancellarium et collegium theologorum Parisiensium', composed around (12 octobre)., dedicated to Adressé à BONIFACE VIII..
+Authored work: 'Epistola domino Bremundo', composed around ?.
+Authored work: 'Epistola Bartholomee Montaneri', composed around ?.
+Authored work: 'Dancia illustris domini regis Aragonum cum commento', composed around (5 juin)..
+Authored work: 'Antidotum contra venenum effusum per fratrem Martinum de Atheca, predicatorem, adversus denuntiatores finalium temporum', composed around (entre le 5 juin et le 24 août)..
+Authored work: 'Praesentatio facta Burdegalis coram Summo pontifice, domino Clemente V', composed around (24 août) à Bordeaux., dedicated to Adressé à CLÉMENT V..
+Authored work: 'Informacio espiritual per al rei Frederic', composed around , dedicated to Adressé à FRÉDÉRIC III, roi de Trinacrie..
+Authored work: 'Interpretatio de visionibus in somniis dominorum Iacobi secundi regis Aragonum et Friderici tertii regis Siciliae eius fratris', composed around (19 février) à Marseille., dedicated to Adressé à JACQUES II, roi d' Aragon ..
+Authored work: 'Collocutio Frederici regis Sicilae et magistri Arnoldi de Villanova', composed around .
+Authored work: 'De fine mundi', composed around ?.
+Authored work: '(Lettre à Jayme II, roi d’Aragon)', composed around ?, dedicated to Adressé à JACQUES II, roi d' Aragon..
+Authored work: 'Confessio de Barcelona', composed around (11 juillet)..
+Authored work: 'Raonament d’Avinyo', composed around à Almeria., dedicated to Adressé à JACQUES II, roi d’Aragon..
+Authored work: 'Informatio beguinorum', composed around (septembre ou octobre) ?, dedicated to Adressé aux Béguines de Narbonne..
+Authored work: 'Alia informatio beguinorum', composed around %1305-1311% ?, dedicated to Adressé aux Béguines de Barcelone..
+Authored work: 'Libellus', composed around ?.
+Authored work: 'De helemosiyna et sacrificio', composed around ?.
+Authored work: 'Libellus de caritate (ad priorissam)', composed around ?.
+Authored work: 'Libellus de humilitate et patientia Jesu Christi', composed around ?.
+Authored work: 'Epistola ad Clementem papam V, de Templariis', composed around ?Avant (19 février)., dedicated to Adressée à CLÉMENT V..
+Authored work: 'Epistola ad Iacobum II regem, de Templariis', composed around ? Avant ., dedicated to Adressée à JACQUES II, roi d’Aragon..
+Authored work: 'Epistola ad Philippum regem, de Templariis', composed around Avant ., dedicated to Adressée à PHILIPPE IV le Bel, roi de France..
+Authored work: '(Lettre au pape)', composed around ?.
+Authored work: 'Protesta al justícia de València', composed around ? (10 avril) à València..
+Authored work: 'Epistola ad gerentes zonam pelliceam', composed around ..
+Authored work: 'Tractatus quidam in quo respondetur obiectionibus quae fiebant contra tractatum Arnaldi De adventu Antichristi', composed around Avant ..
+Authored work: 'Conflictus iudaeorum', composed around ?.
+Authored work: 'Tractatus contra passagium ad partes ultramarinas', composed around ?.
+Authored work: 'Responsio contra Bernardum Sicardi', composed around ?.
+Authored work: 'Confessio coram episcopum Barchinonae', composed around ?.
+Authored work: 'Ad Raimundum Conesa', composed around (27 juillet), dedicated to Adressé à Raymond CONESA..
+Authored work: 'Lectio Cathaniae (Lliço de Catània)', composed around ?.
+Authored work: 'Lectio Almariae (Lliço d’Almeria)', composed around ?.
+Authored work: 'De humido radicali', composed around ?.
+Authored work: 'Epistola de reprobacione nigromantice ficcionis', composed around Avant ., dedicated to Dédié à Jaspert de BOTONAC i Castellnou, évêque de Valence.
+Authored work: 'Artis divisio', composed around ?.
+Authored work: 'Compendium astrologiae de judiciis infirmitatum secundum motum planetarum', composed around ?.
+Authored work: 'De iudiciis astronomiae', composed around ?.
+Authored work: 'De Sigillis', composed around à Anagni ..
+Authored work: 'Tabula syruporum et electuariorum', composed around ?.
+Authored work: 'Practica summaria', composed around ?, dedicated to Dédié au prieur (bénédictin) de Nîmes (Saint Baudile) plutôt qu’à CLÉMENT V, les deux dédicaces existant..
+Authored work: 'De viribus cordis et medicinis cordialibus', composed around %1281-1290% à Barcelone..
+Authored work: 'Liber de rigore et tremore et iectatione et spasmo', composed around , à Barcelone ..
+Authored work: 'Tractatus de intentione medicorum', composed around ?.
+Authored work: 'Commentum supra tractatum Galieni de malicia complexionis diverse', composed around ?.
+Authored work: 'Liber de parte operativa', composed around ?.
+Authored work: 'De regimine castra sequentium', composed around , dedicated to Écrit pour JACQUES II, roi d’Aragon.
+Authored work: 'Regimen sanitatis ad regem Aragonum', composed around %1305-1308% ?, dedicated to Pour JACQUES II, roi d’Aragon..
+Authored work: 'De esu carnium', composed around ?%1301-1305%..
+Authored work: 'Compendium regimenti acutorum', composed around ?.
+Authored work: 'Consilium sive cura febris hecticae', composed around ?.
+Authored work: 'Consilium sive regimen podagrae', composed around ?.
+Authored work: 'Signa leprosorum', composed around ?.
+Authored work: 'De amore qui heroicus nominatur', composed around %1273-1285% à Barcelona ?.
+Authored work: 'Errores medicorum', composed around ?.
+Authored work: 'Tractatus de urinis', composed around ?.
+Authored work: 'Tractatus de aquis medicinalibus', composed around ?.
+Authored work: 'Antidotarium', composed around ?.
+Authored work: 'Tractatus medicinae regales sive descriptio receptarum', composed around ?.
+Authored work: 'Simplicia (seu Areolae seu tabulae)', composed around ?.
+Authored work: 'Epistola de dosi tyriacalium medicinarum', composed around ? Montpellier ?.
+Authored work: 'Libellus de arte cognoscendi venena, cum quis proponit ea alicui ministrare', composed around ?.
+Authored work: 'Compilatio de conceptione (sive Tractatus de impregnatione mulierum)', composed around ?.
+Authored work: 'Liber aphorismus de graduationibus medicinarum per artem compositarum', composed around %1295-1300% ?.
+Authored work: 'Medicationis parabolae secundum instinctum veritatis aeternae', composed around à Montpellier ., dedicated to Dédié à PHILIPPE le Bel, roi de France..
+Authored work: 'Commentum super quasdam paraboles', composed around ?.
+Authored work: 'Aphorismi particulares', composed around ?.
+Authored work: 'Aphorismi de memoria', composed around ?.
+Authored work: 'Aphorismi extravagantes', composed around ?.
+Authored work: 'Aphorismi de gradibus', composed around ?.
+Authored work: 'De considerationibus operis medicine', composed around %1298-1300% à Montpellier..
+Authored work: 'Doctrina Galieni de interioribus', composed around ? à Montpellier..
+Authored work: 'Medicinalium introductorium speculum', composed around ? à Montpellier ..
+Authored work: 'Commentum super canonem : Vita brevis', composed around ..
+Authored work: 'Tabula super Commentum super canonem : Vita brevis', composed around ?.
+Authored work: 'Expositio super isto aphorismo Hippocratis : In morbis', composed around ?.
+Authored work: 'Regimen curativum et preservativum contra catarrhum', composed around ?.
+Authored work: 'De tremore cordis', composed around ?.
+Authored work: 'Curae breves', composed around ?.
+Authored work: 'Thesaurus pauperum', composed around ?, dedicated to Dédié à PHILIPPE IV le Bel, roi de France ..
+Authored work: 'Tractatus contra calculum', composed around %1303-1304%, dedicated to Dédié probablement à BENOIT XI..
+Authored work: 'Breviarium practicae a capite usque ad plantam pedis, cum capitulo generali de urinis et tractatus de omnibus febribus, peste, empiala et liparia', composed around Après ?.
+Authored work: 'Regimen sive consilium quartanae', composed around ?.
+Authored work: 'Abbreviatio libri Prognosticorum (sive Astrologia)', composed around ?.
+Authored work: 'De epilepsia', composed around ?.
+Authored work: 'De medicinis simplicibus', composed around %1270-1280% à Valence..
+Authored work: 'Commentum super Galieni librum De morbo et accidenti', composed around %1270-1280% à Montpellier ?.
+Authored work: 'Experimenta', composed around ?.
+Authored work: 'Experimentum ad scabies', composed around ?.
+Authored work: 'Recepta de piment per a l’estomac', composed around ?.
+Authored work: 'Testament', composed around (20 juillet) Barcelone..
+Authored work: 'Quaestiones XXX tam essentiales quam accidentales ad Bonifacium VIII', composed around ?, dedicated to Adressé à BONIFACE VIII ..
+Authored work: 'Tractatus de venenis (seu de theriaca)', composed around ?.
+Authored work: 'De bonitate memorie', composed around ?.
+Authored work: 'Tabulae quae medicum informant specialiter cum ignoratur aegritudo', composed around ?.
+Authored work: 'Liber de vinis', composed around ? rédigé en Afrique., dedicated to Dédié à ROBERT, roi de Naples ?.
+Authored work: 'Libellus regiminis de confortatione visus secundum sex res non naturales', composed around ?.
+Authored work: 'Super Balneis Puteoli', composed around ?.
+Authored work: 'Commentum super regimen Salernitanum', composed around ?.
+Authored work: 'De lege', composed around ?.
+Authored work: 'De physicis ligaturis', composed around ? à Barcelone ..
+Authored work: 'Liber de modo praeparandi cibos et potus infirmorum in aegritudine acuta', composed around ?.
+Authored work: 'Tractatus de sterilitate tam ex parte viri quam ex parte mulieris', composed around ?.
+Authored work: 'Cautelae medicorum', composed around ?.
+Authored work: 'De aquae vitae simplici et composito', composed around ?.
+Authored work: 'De coitu', composed around ?.
+Authored work: 'Liber de ornatu mulierum', composed around ?.
+Authored work: 'Recepta electuarii mirabilis preservantis ab epidemia et confortantis mineram omnium virtutem', composed around ?.
+Authored work: 'Novum lumen', composed around ?.
+Authored work: 'Flos florum', composed around ?, dedicated to Adressé au roi d’Aragon..
+Authored work: 'Epistola super alchymia ad regem Neapolitanum', composed around ?.
+Authored work: 'Liber appellatus Thesaurus thesaurorum', composed around ?.
+Authored work: 'De lapide philosophorum', composed around ?.
+Authored work: 'Liber deflorationis philosophorum, in compendio', composed around ?.
+Authored work: 'Rosa novella', composed around ?.
+Authored work: 'Lucidarium', composed around ?.
+Authored work: 'Liber de vita philosophorum', composed around ..
+Authored work: 'Recepta de compositione lapidis philosophorum', composed around ?.
+Authored work: 'Testamentum', composed around ?.
+Authored work: 'Tractus parabolarum', composed around ?.
+Authored work: 'De origine metallorum', composed around ?.
+Authored work: 'Trattato de geometria pratico', composed around ?.
+Authored work: 'Liber Novi Testamenti', composed around ?.
+Authored work: 'Remedium contra maleficia', composed around ?.
+Authored work: 'Speculum alchimiaea', composed around ?.
+Authored work: 'Tractatus de conferentibus et nocentibus', composed around ?.
+Source: http://grupsderecerca.uab.cat/arnau/.

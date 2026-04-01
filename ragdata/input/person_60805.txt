@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Ultra Aquam
+Also known as: Willelmus de ULTRA AQUAM.
+Description: Chanoine de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1390-1410%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de LeMans ;; Chanoine de Cambrai %1393-1410% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 03/01/2026..

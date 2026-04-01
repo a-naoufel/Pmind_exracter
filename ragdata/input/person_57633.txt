@@ -1,0 +1,9 @@
+PERSON: HEREMITA
+Also known as: HEREMITA.
+Description: Notaire.
+Status: Extérieur.
+Gender: male.
+Active during: %1254-1254%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/03/2024..

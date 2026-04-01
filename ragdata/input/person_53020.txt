@@ -1,0 +1,11 @@
+PERSON: ROBERTUS de Vadencourt
+Also known as: Robertus de VADENCOURT.
+Description: Chanoine d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1260-1276%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d’Amiens ;; Pénitancier d’Amiens ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/11/2021..

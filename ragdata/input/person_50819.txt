@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS de Sancto Clodoaldo
+Also known as: Guillelmus de SANCTO-CLODOALDO; Guillaume de SAINT-CLOUD.
+Description: Astronome.
+Status: Incertain.
+Gender: male.
+Active during: %1290-1301%.
+Studied at: ?.
+Academic grades obtained: Magister ?.
+Authored work: 'Almanach planetarum.', composed around ..
+Authored work: 'Kalendarium perpetuum', composed around ., dedicated to A la demande de la MARIE de Brabant, reine de France, seconde femme de PHILIPPE III le Hardi..
+Authored work: 'Correctio tabularum Alfonsii.', composed around ..
+Authored work: 'Utilitas instrumenti quod directorium appellatur', composed around /Il s’agit d’un schéma..
+Authored work: 'Nativitas', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 18/04/2020..

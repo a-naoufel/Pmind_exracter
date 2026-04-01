@@ -1,0 +1,7 @@
+PERSON: GAUSSE
+Also known as: GAUSSE.
+Description: Empirique parisienne.
+Status: Extérieur.
+Gender: female.
+Active during: %1423-1423%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 26/11/2021..

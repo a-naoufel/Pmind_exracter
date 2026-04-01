@@ -1,0 +1,12 @@
+PERSON: NICOLAUS Toustain
+Also known as: Nicolas TOUSTAIN.
+Description: Étudiant en médecine.
+Status: Étudiant.
+Gender: male.
+Active during: %1403-1403%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris %1403-1403%..
+Academic grades obtained: Étudiant en médecine (Paris) ..
+Ecclesiastical status: Clerc du diocèse de Rouen..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 27/11/2023)..

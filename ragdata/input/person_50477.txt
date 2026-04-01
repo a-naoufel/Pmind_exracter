@@ -1,0 +1,12 @@
+PERSON: PETRUS Raimbert
+Also known as: Petrus RAIMBERT; Petrus RAYMBERT.
+Description: Chapelain du Collège de Dormans-Beauvais.
+Status: Maître.
+Gender: male.
+Active during: %1421-1426%.
+Studied at: Paris (Nation de France) %1421-1426%..
+Academic grades obtained: Maître ès arts (Paris) ;.
+College affiliation: Collège de Dormans-Beauvais : chapelain %1421-1426% ;.
+Ecclesiastical status: Prêtre en ;.
+Ecclesiastical positions held: Chapelain du Collège de Dormans-Beauvais ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 07/11/2019..

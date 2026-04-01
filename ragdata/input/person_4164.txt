@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Bona Valle
+Also known as: Guillelmus de BONA VALLE.
+Description: Détenteur d'une maison taxée.
+Status: Maître.
+Gender: male.
+Active during: %1286-1286%.
+Studied at: Paris..
+Academic grades obtained: Magister ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 06/02/2020..

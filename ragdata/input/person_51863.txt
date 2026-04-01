@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Autissodoriensis
+Also known as: Guillaume d’AUXERRE.
+Description: Abbé de Sainte-Geneviève.
+Status: Étudiant.
+Gender: male.
+Active during: %1281-1281%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant ?.
+College affiliation: Saint-Victor ;; Sainte-Geneviève %1245-1246%..
+Religious functions: Camérier (O.S.A) de Paris (Sainte-Geneviève) en ?; Abbé (O.S.A) de Paris (Sainte-Geneviève) en ?.
+Ecclesiastical positions held: Curé d’Athis ;<6d> Chanoinerégulier(O.S.A. victorin) de Paris (Saint-Victor)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 20/01/2021)..

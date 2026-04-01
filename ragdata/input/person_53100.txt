@@ -1,0 +1,10 @@
+PERSON: PETRUS 7
+Also known as: PETRUS.
+Description: Pénitencier d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1271-1271%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Pénitencier d’Amiens ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 13/12/2021..

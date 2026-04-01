@@ -1,0 +1,12 @@
+PERSON: ALVARUS de Freitas
+Also known as: Don Alvaro de FREITAS.
+Description: Chanoine régulier de Saint Augustin.
+Status: Étudiant.
+Gender: male.
+Active during: %1131-1184%.
+Born in: Portugal..
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris)..
+Religious order: O.S.A. : Chanoine régulier de Saint Augustin vers .; Prévôt de Coimbra (Santa-Cruz) ;.
+Ecclesiastical positions held: Évêque de Lisbonne %1166-1184% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2020)..

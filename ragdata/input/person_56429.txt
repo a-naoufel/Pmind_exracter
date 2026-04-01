@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Morin
+Also known as: Nicholaus MORIN.
+Description: Chanoine du Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1326-1334%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Curé de Courtemanche ;; Chanoine de LeMans %1330-1334% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 5/08/2023)..

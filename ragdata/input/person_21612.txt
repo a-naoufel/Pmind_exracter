@@ -1,0 +1,12 @@
+PERSON: HENRICUS Tubeuf
+Also known as: Henricus TUBEUF de Serbona; Henricus dictus TUEBUEF.
+Description: Chanoine de Notre-Dame de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1249-1286%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Reims ?.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chanoine de Paris (Notre-Dame) %1249-1286% au moins..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 2/08/2022..

@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Meleduno 2
+Also known as: Guillelmus de MELEDUNO.
+Description: Franciscain.
+Status: Gradué.
+Gender: male.
+Active during: %1333-1334%.
+Studied at: Paris..
+Academic grades obtained: Bachelier en théologie (Paris) ?.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) ?.
+Religious order: O.F.M. : frère franciscain..
+University functions: Angers (Lecteur au couvent franciscain) ;; Paris (Faculté de Théologie : Lecteur des Sentences ?) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 31/01/2021)..

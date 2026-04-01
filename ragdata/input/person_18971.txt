@@ -1,0 +1,9 @@
+PERSON: INGERANNUS de Thumery
+Also known as: Inguerandus de TUMERY; Enguerrandus de THUMERY.
+Description: Élu sur le fait des aides.
+Status: Extérieur.
+Gender: male.
+Active during: %1451-1451%?.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 15/09/2022).

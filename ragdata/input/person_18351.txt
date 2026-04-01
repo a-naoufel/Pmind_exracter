@@ -1,0 +1,9 @@
+PERSON: DIONYSIUS de Molinis
+Also known as: Dionysius de MOLINIS; Dionysius des MOLINIS.
+Description: Nonce pour le diocèse de Viviers.
+Status: Suppôt.
+Gender: male.
+Active during: %1443-1445%.
+Studied at: Paris (Nation de France)..
+University functions: Paris (Nation de France : nonce pour le diocèse de Viviers, reçu en (16 juillet) et encore en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 3/04/2021)..

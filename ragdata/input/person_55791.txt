@@ -1,0 +1,10 @@
+PERSON: LUDOVICUS Du Puy
+Also known as: Loys du PUY.
+Description: Boursier du collège de La Marche.
+Status: Étudiant.
+Gender: male.
+Active during: %1516-1516%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) en ;.
+College affiliation: Collège de LaMarche : boursier en ;; Mentionné dans le bail à loyer en (12 août) de la maisonàl’EcudeBretagne passé par le collège de LaMarche à Jeanne PHILIPPE, veuve de Marin TROSNYER ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

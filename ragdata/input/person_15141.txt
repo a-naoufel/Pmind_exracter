@@ -1,0 +1,9 @@
+PERSON: PETRUS Roris 1
+Also known as: Pierre RORIS; Petrus RORIS.
+Description: Bachelier en médecine.
+Status: Gradué.
+Gender: male.
+Active during: %1458-1462%.
+Studied at: Paris (Nation de Normandie) %1458-1462%..
+Academic grades obtained: Bachelier en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 07/04/2024..

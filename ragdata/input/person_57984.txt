@@ -1,0 +1,16 @@
+PERSON: PONCIUS Provincialis
+Also known as: Pontius PROVINCIALIS; Ponce de PROVENCE; Pons le PROVENCAL.
+Description: Professeur.
+Status: Maître.
+Gender: male.
+Active during: %1236-1252%.
+Born in: ?Provence..
+Studied at: Paris ?; Toulouse ?; Orléans..
+Academic grades obtained: Magister ?.
+University functions: Toulouse (professeur ca.%1236-1238%) ;; Paris (professeur de dictamen après ) ;; Orléans (professeur)..
+Authored work: 'Summa dictaminis', composed around %1238-1243% ?.
+Authored work: 'Summa de constructione', composed around Après ..
+Authored work: 'Epistolarium', composed around .
+Authored work: 'Liber de cartis', composed around ?.
+Authored work: 'De libellis', composed around ?.
+Source: MIRABILE ; Pietro Antonio PODOLAK ;.

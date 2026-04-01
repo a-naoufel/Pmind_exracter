@@ -1,0 +1,10 @@
+PERSON: EBRARDUS de Tulle
+Also known as: Everardus de TULLE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1411-1412%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Ghisbertus SCAY pour le baccalauréat en ; Son maître est Guillelmus LOCHEM pour le baccalauréat en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 29/06/2021..

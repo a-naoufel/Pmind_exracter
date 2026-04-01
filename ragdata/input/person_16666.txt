@@ -1,0 +1,9 @@
+PERSON: BLANOTUS Morel
+Also known as: Blanotus MOREL.
+Description: Nonce pour le diocèse de Nantes.
+Status: Suppôt.
+Gender: male.
+Active during: %1446-1449%.
+Studied at: Paris (Nation de France) %1446-1449%..
+University functions: Paris (Nation de France : nonce pour le diocèse de Nantes %1446-1449%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 22/03/2021..

@@ -1,0 +1,10 @@
+PERSON: ANDREAS Ganske
+Also known as: Andreas GANSKE.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1457-1458%.
+Diocese of origin: Diocèse de Wroclaw (Vratislavensis)..
+Studied at: Paris (Nation Anglo-Allemande).
+Academic grades obtained: Bachelier ès arts (Paris) %1457-1458%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 28/08/2020..

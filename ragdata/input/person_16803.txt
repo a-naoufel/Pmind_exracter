@@ -1,0 +1,8 @@
+PERSON: MICHAEL de Villanova
+Also known as: Michael de VILLANOVA.
+Description: Écuyer.
+Status: Extérieur.
+Gender: male.
+Active during: %1247-1247%.
+Social origin: Noble : armiger.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/09/2023)..

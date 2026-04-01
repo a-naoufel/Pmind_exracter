@@ -1,0 +1,12 @@
+PERSON: PHILIPPUS de Franchelains
+Also known as: Philippus de FRANCHELAINS; Philippus de FRAINCHELAINS.
+Description: Maître-régent en décret.
+Status: Maître.
+Gender: male.
+Active during: %1422-1431%.
+Studied at: Paris %1422-1431%..
+Academic grades obtained: Licencié en décret (Paris) ;.
+Academic relationships: Son élève est Jacobus GALET pour la licence en décret en (30 mars), classé 7/57% ; Son élève est Johannes de VORDA pour la licence en décret en (30 mars), classé 9/57% ; Son élève est Robertus HEUTE pour la licence en décret en (30 mars), classé 28/57% ; Son élève est Guillelmus de HERIZ pour la licence en décret en (30 mars), classé 46/57% ; Son élève est Johannes FULQUETI pour la licence en décret en (30 mars), classé 50/57% ; Son élève est Symon CHEVESTRE pour la licence en décret en ; Son élève est Georgius BONETI pour la licence en décret en ; Son élève est Georgius DYEFFEMBACH pour la licence en décret en ; Son élève est Guillelmus de BILLY pour la licence en décret en ; Son élève est Johannes NOECTI pour la licence en décret en ;.
+Religious order: O.S.A. : Antonite ;; Précepteur (antonite) de la commanderie de Saint-AntoinedePauléon, à LaRochelle, diocèse de Saintes en %1423-1430% ;; Précepteur (antonite) d’Angleterre en ;.
+University functions: Paris (Faculté de Décret : Maître-régent en décret en (10 novembre)) ;; Paris (Faculté de Décret : Maître-régent en décret en (9 janvier)) ;; Paris (Faculté de Décret : Maître-régent en décret en (2 mars)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/04/2022..

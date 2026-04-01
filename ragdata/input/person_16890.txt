@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Hanonia 2
+Also known as: Guillelmus de HANONIA; Guillaume II de HAINAUT.
+Description: Comte de Hainaut..
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant (Paris)..
+Family relationships: Son père est GUILLAUME I, comte de Hainaut, (1304-1337) ; Sa mère est Jeanne de VALOIS, soeur de PHILIPPE VI, roi de France ; Sa soeur est MARGUERITE, épouse de Louis de BAVIERE ; Sa soeur est PHILIPPA, épouse d'ÉDOUARD III, roi d'Angleterre..
+Social origin: Noblesse..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 26/03/2022..

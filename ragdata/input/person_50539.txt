@@ -1,0 +1,9 @@
+PERSON: LUDOVICUS Wautruche
+Also known as: Ludovicus WAUTRUCHE; Loys WAIVERUCHE.
+Description: Conseiller-lai au Parlement.
+Status: Extérieur.
+Gender: male.
+Active during: %1345-1363%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Paris au Moyen Âge : les Parisiens :.

@@ -1,0 +1,11 @@
+PERSON: PETRUS de Gougis
+Also known as: Petrus de GOUGIS.
+Description: Augustin.
+Status: Étudiant.
+Gender: male.
+Active during: %1402-1402%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Couvent (augustin) de Paris (Grands-Augustins)..
+Religious order: O.E.S.A. : frère augustin..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 26/11/2020)..

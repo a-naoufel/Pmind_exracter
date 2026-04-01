@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS Du Mont
+Also known as: Aegidius du MONT.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1501-1501%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris %1501-1501%..
+Academic grades obtained: Bachelier en décret (Paris) (14 avril) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux, 25/11/2015..

@@ -1,0 +1,9 @@
+PERSON: STEPHANUS Troucheli
+Also known as: Stephanus TROUCHELI.
+Description: Maître d'école.
+Status: Suppôt.
+Gender: female.
+Active during: %1380-1380%.
+Studied at: Paris.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 17/05/2016..

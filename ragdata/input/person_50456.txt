@@ -1,0 +1,12 @@
+PERSON: PETRUS Le Maréchal
+Also known as: Petrus LEMARÉCHAL; Pierre LEMARÉCHAL.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1400-1400%.
+Born in: Champagne (LaChapelleMonthodon ?) ;.
+Diocese of origin: Diocèse de Soissons ;.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Dormans-Beauvais : boursier ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 1/10/2019..

@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Veaulle
+Also known as: Guillaume de VEAULLE.
+Description: ?.
+Status: Incertain.
+Gender: male.
+Active during: %1415-1415% ;.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,12 @@
+PERSON: CLAREMBALDUS Perronnelli
+Also known as: Clarembaudus PERRONNELLI; Clarembaut PERRONNEL.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1390-1398%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon..
+Studied at: Paris %1390-1390%..
+Academic grades obtained: Étudiant en décret (Paris) sur le rotulus de Nicolas LEDISEUR en ..
+Ecclesiastical positions held: Candidat à un bénéfice ecclésiastique à la collation du doyen et du chapitre de l'églisecollégiale de Paris (Saint-Germain-l'Auxerrois) en ..
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

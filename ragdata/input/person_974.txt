@@ -1,0 +1,10 @@
+PERSON: ARNALDUS Prel de Heppenaert
+Also known as: Arnoldus PREL de Heppenart; Arnoldus de HEPPENAERT.
+Description: Notaire.
+Status: Extérieur.
+Gender: male.
+Active during: %1366-1366%.
+Diocese of origin: Diocèse de Liège..
+Studied at: ?.
+Ecclesiastical status: Clerc du diocèse de Liège..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 24/6/2018..

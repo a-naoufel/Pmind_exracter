@@ -1,0 +1,12 @@
+PERSON: HENRICUS de Lane
+Also known as: Henricus de LANE.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1448-1448%.
+Born in: Lyonnais ?.
+Diocese of origin: Diocèse de Lyon..
+Studied at: Paris %1448-1448%..
+Academic grades obtained: Bachelier en décret (Paris) 14 mars ..
+Religious order: Frater..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 04-06-2015..

@@ -1,0 +1,15 @@
+PERSON: THOMAS Le Tourneur
+Also known as: Thomas LE TOURNEUR.
+Description: Chantre d’Évreux.
+Status: Maître.
+Gender: male.
+Active during: %1342-1384%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris (Nation de Normandie) ?.
+Academic grades obtained: Maître ès arts (Paris) avant ;.
+Family relationships: Son parent est peut-être Jean LETOURNEUR, vicomte de l’Eau à Rouen ;.
+Social origin: Bourgeoisie ;.
+Ecclesiastical status: Clerc du diocèse de Rouen ;.
+Ecclesiastical positions held: Candidat à un bénéfice ecclésiastique à la collation de l’abbé et du couvent du monastère (O.S.B.) de Saint-Wandrille dans le rotulus de l’université de Paris en ;; Chantre d’Évreux ;; Chanoine de Paris (Notre-Dame) ;; Chanoine de Laon %1354-1367% ;; Chanoine de Tournai %1356- % ;; Archidiacre de Tournai %1356- % ;; Chanoine d’Abbeville ;; Chanoine de Rouen %1357-1384% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 14/12/2025)..

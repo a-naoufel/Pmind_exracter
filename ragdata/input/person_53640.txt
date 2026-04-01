@@ -1,0 +1,10 @@
+PERSON: HUGO de Chassaigne
+Also known as: Hugo de CHASSAIGNE.
+Description: Chanoine de Besançon.
+Status: Incertain.
+Gender: male.
+Active during: %1408-1418%.
+Studied at: ?.
+Academic grades obtained: Licencié in utroque jure.
+Ecclesiastical positions held: Chanoine de Besançon %1408-1418% ;; Archidiacre de Salins %1413-1417% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/04/2022)..

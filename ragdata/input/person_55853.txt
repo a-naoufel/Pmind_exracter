@@ -1,0 +1,9 @@
+PERSON: HUMBERTUS de Banoncourt
+Also known as: Humbert de BANONCOURT.
+Description: Clerc-juré du tabellionage de la prévôté de Saint-Mihiel.
+Status: Extérieur.
+Gender: male.
+Active during: %1502-1502%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

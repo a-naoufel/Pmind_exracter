@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Guerardi
+Also known as: Nicolaus GUERARDI; Nicolaus GERARDI; Nicolas LEGUERARDI.
+Description: Maître.
+Status: Étudiant.
+Gender: male.
+Active during: %1410-1412%.
+Studied at: Paris..
+Academic grades obtained: Étudiant ?.
+College affiliation: Collège de Dainville : boursier %1409-1412% ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

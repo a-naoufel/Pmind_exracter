@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS Drueti
+Also known as: Aegidius DRUETI.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1373-1378%.
+Diocese of origin: Diocèse de Thérouanne..
+Studied at: Paris ..
+Academic grades obtained: Étudiant en décret (Paris) ..
+Ecclesiastical positions held: Recteur de l'égliseparoissiale de Romont (diocèse de Lausanne) en .; Prévôt de Turin (cathédrale).; Candidat à un canonicat avec expectative de prébende à l'églisecollégiale d'Aire-sur-la-Lys (Saint-Pierre) dans le rotulus composé par Mathilde d'AUVERGNE, comtesse de Genève en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 05/05/2020)..

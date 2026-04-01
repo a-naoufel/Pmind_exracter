@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Marc
+Also known as: Guillelmus MARC.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1438-1465%.
+Studied at: Paris %1438-1465% ?.
+Academic grades obtained: Étudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/05/2018)..

@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Argentolio
+Also known as: Guillelmus de ARGENTOLIO.
+Description: Chantre de Verdun.
+Status: Maître.
+Gender: male.
+Active during: %1298-1298%.
+Studied at: ?Paris..
+Academic grades obtained: Magister.
+Ecclesiastical positions held: Chantre de Verdun ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 29/03/2020..

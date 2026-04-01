@@ -1,0 +1,12 @@
+PERSON: EUSTASIUS de Mesy
+Also known as: Eustasius de MÉSY.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1263-1272%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Family relationships: Ses parents sont les vicomtes de Meulan ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Rouen ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 26/07/2021)..

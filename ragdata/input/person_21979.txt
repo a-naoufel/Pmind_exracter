@@ -1,0 +1,12 @@
+PERSON: AUBERTUS de Coucy
+Also known as: Aubert de COUCY.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1400-1404%.
+Born in: Picardie (Coucy ?) ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) %1400-1404%..
+College affiliation: Collège de Dormans-Beauvais : boursier %1400-1404% ;.
+Source: LAMOP : Opération Charles VI (n° 2538):.

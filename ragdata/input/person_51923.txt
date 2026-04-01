@@ -1,0 +1,10 @@
+PERSON: RADULPHUS de Piris
+Also known as: Radulphus de PIRIS; Raoul de PÉRIERS.
+Description: Procureur de la Sorbonne.
+Status: Maître.
+Gender: male.
+Active during: %1294-1335%.
+Studied at: Paris..
+Academic grades obtained: Magister.
+College affiliation: Sorbonne : procureur en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 4/02/2021)..

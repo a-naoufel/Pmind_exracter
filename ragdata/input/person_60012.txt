@@ -1,0 +1,10 @@
+PERSON: PHILIPPUS de Peromont
+Also known as: Philippus de PEROMONT.
+Description: Boursier du collège de Dainville.
+Status: Maître.
+Gender: male.
+Active during: %1418-1418%.
+Studied at: Paris..
+Academic grades obtained: Maître (Paris) ;.
+College affiliation: Boursier du collège de Dainville à partir de ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

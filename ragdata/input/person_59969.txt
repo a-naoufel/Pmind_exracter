@@ -1,0 +1,13 @@
+PERSON: GERMUNDUS
+Also known as: GERMUNDUS; GIRMUNDUS; GEIRMUNDUS.
+Description: Chanoine de Saint-Victor.
+Status: Incertain.
+Gender: male.
+Active during: %:1162:-:1172:%.
+Born in: Norvège?.
+Studied at: Paris (Saint-Victor);.
+Academic grades obtained: Incertain.
+Family relationships: Son père est NN, un aristocrate norvégien (storman); Sa mère est G., sœur d'ERVISIUS, abbé de Saint-Victor; Son oncle maternel est ERVISIUS, abbé de Saint-Victor;.
+Religious order: Chanoineaugustin: abbaye de Saint-Victor..
+Authored work: '[Epistula]', composed around Écrite %1162:-:1172% en Norvège..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 26/09/2025..

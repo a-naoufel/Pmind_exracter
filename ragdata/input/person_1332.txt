@@ -1,0 +1,10 @@
+PERSON: BERNARDUS de Insula
+Also known as: Bernardus de INSULA.
+Description: Chanoine de Tournai ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1198-1198%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chanoine de Tournai..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 1/02/2021)..

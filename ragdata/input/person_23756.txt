@@ -1,0 +1,10 @@
+PERSON: PETRUS Michaelis 4
+Also known as: Petrus MICHAELIS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1444-1445%.
+Studied at: Paris (Nation de France)..
+Academic grades obtained: Maître ès arts (Paris) avant ..
+University functions: Paris (Nation de France : maître-régent ) ;; Paris (Nation de France : maître-régent ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 11/07/2023..

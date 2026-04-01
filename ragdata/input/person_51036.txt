@@ -1,0 +1,7 @@
+PERSON: YSABELLA de France
+Also known as: Ysabellis de FRANCE.
+Description: Maîtresse d’école.
+Status: Suppôt.
+Gender: female.
+Active during: %1450-1450%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 29/08/2020..

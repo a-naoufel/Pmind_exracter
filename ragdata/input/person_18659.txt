@@ -1,0 +1,10 @@
+PERSON: RADULPHUS Pouyer
+Also known as: Radulphus POUYER.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en ?.
+Family relationships: Il est peut-être le parent de Dionysius POUYER qui s'acquitte de sa contribution à la collecte de en même temps que lui ; Il est peut-être le parent de Pascasius POUYER qui s'acquitte de sa contribution à la collecte de en même temps que lui ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 19/08/2015..

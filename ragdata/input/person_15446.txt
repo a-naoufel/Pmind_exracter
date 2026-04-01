@@ -1,0 +1,11 @@
+PERSON: MICHAEL Gontier
+Also known as: Michael GONTIER.
+Description: Clunisien.
+Status: Étudiant.
+Gender: male.
+Active during: %1383-1386%.
+Studied at: Paris %1383-1386%..
+Academic grades obtained: Étudiant (Paris) %1383-1386%..
+College affiliation: Résident au collège de Cluny à Paris en %1383-1386%..
+Religious order: O.Clun. : moine clunisien du prieuré de LaCharité-sur-Loire (diocèse d'Auxerre) en %1383-1386%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 17/03/2019..

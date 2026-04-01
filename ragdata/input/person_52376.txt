@@ -1,0 +1,21 @@
+PERSON: VINCENTIUS Belvacensis
+Also known as: Vincent de BEAUVAIS.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1220-1264%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris)..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère dominicain..
+Religious functions: Sous-prieur du couvent (dominicain) de Beauvais en .; Lecteur à l’abbaye (cistercienne) de Royaumont ..
+Authored work: 'Epistola conconsolatoria super morte Ludovici', composed around , dedicated to Pour LOUIS IX, roi de France ?.
+Authored work: 'Speculum doctrinale', composed around %1246-1250% ;.
+Authored work: 'Speculum Naturale', composed around (version bifaria) et (version trifaria)., dedicated to Désié à LOUIS IX, roi de France pour la version bifaria..
+Authored work: 'Speculum Historiale', composed around %1244-1253% ;.
+Authored work: 'Memoriale omnium temporum', composed around ;.
+Authored work: 'Speculum vel imago mundi', composed around ?.
+Authored work: 'De eruditione filiorum regalium', composed around %1246-1249%, dedicated to Dédié à MARGUERITE de Provence, reine de France..
+Authored work: 'De morali principis institutione', composed around %1260-1263%.
+Authored work: 'Speculum Morale', composed around Vers ;.
+Source: Vincent of Beauvais Newsletter ;.

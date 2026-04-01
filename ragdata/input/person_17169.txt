@@ -1,0 +1,11 @@
+PERSON: ANTHONIUS de Palude
+Also known as: Antoine de PALUDE.
+Description: Maître ès Arts.
+Status: Maître.
+Gender: male.
+Active during: %1427-1427%.
+Diocese of origin: Diocèse de Tournai ;.
+Studied at: Paris (Nation de Picardie ?) .; Louvain..
+Academic grades obtained: Maître ès arts (Paris)..
+University functions: Louvain (Faculté des Arts : enseignant à partir de )..
+Source: RAG ;.

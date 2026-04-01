@@ -1,0 +1,12 @@
+PERSON: THEODERICUS de Saulis
+Also known as: Terricus de SAULIS; Thierry de SAULIS.
+Description: O.F.M..
+Status: Étudiant.
+Gender: male.
+Active during: %1283-1283%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) ?.
+Religious order: O.F.M. : frère franciscain en ..
+Authored work: 'Sermo de tempore', composed around ..
+Source: Répertoire des auteurs franciscains préparé par Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress :.

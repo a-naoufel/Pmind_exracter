@@ -1,0 +1,14 @@
+PERSON: GALFREDUS de Turribus
+Also known as: Gaufridus de TURRIBUS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1378-1385%.
+Studied at: Paris (Nation de France) %1378-1385%..
+Academic grades obtained: Étudiant (Paris) en ;; Maître ès arts (Paris) avant ;.
+Family relationships: Son frère est Adhémar de TURRIBUS, aussi étudiant à Paris ; Son oncle est Adémar ROBERT, archevêque de Sens ;.
+Social origin: Noble ;.
+Ecclesiastical status: Clerc ;.
+Ecclesiastical positions held: Chapelain de Noyon (chapelle de Beaumont et chapelle d’Ailly) en ;; Chapelain de Villeneuve-la-Guyard (chapelle Saint-Louis) en ;; Candidat à un canonicat avec expectative de prébende de Furnes sur le rotulus de Adémar ROBERT, archevêque de Sens en ;; Chanoine de Sens en ?; Candidat à un canonicat avec expectative de prébende de Saint-Omer à la demande du Cardinal Pierre de MONTERUC en ;.
+University functions: Paris (Nation de France : lieutenant du procureur de la Nation de France en (5 septembre) lors de la sentence prononcée contre Amelius de BROLIO à Saint-Bernard de Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 18/08/2020..

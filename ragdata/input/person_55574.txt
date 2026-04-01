@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de Ely
+Also known as: Nicholas de ELY.
+Description: Évêque de Winchester.
+Status: Maître.
+Gender: male.
+Active during: %1249-1280%.
+Born in: Angleterre ?.
+Studied at: Paris..
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Londres (Saint-Paul) ;; Archidiacre d’Ely %1249-1266% ;; Évêque de Worcester %1266-1268% ;; Évêque de Winchester %1268-1280% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/03/2023)..

@@ -1,0 +1,11 @@
+PERSON: ALBERICUS Andree de Tullo
+Also known as: Aubry ANDREE DE TULLO.
+Description: Médecin.
+Status: Maître.
+Gender: male.
+Active during: %1394-1430%.
+Studied at: Paris ;; Montpellier ?..
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en médecine (Montpellier) ??..
+Family relationships: Sa femme est la fille de Pierre de USASCO, feu noble..
+University functions: Montpellier (Lecteur en médecine en %1393-1394%) ;; Avignon (Professeur de médecine (rue Sainte-Catherine) en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, dernière mise à jour Jean-Philippe Genet 16/04/2017..

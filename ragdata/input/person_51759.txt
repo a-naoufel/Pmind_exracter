@@ -1,0 +1,11 @@
+PERSON: GERARDUS de La Celle
+Also known as: Gerardus de LACELLE.
+Description: Étudiant du Collège de Laon..
+Status: Étudiant.
+Gender: male.
+Active during: %1349-1356%.
+Born in: Picardie ;.
+Studied at: Paris (Nation de Picardie) %1349-1356% ..
+Academic grades obtained: Étudiant (Paris) %:1349-1356% ?.
+College affiliation: Collège de Laon : étudiant %1349-1356% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 16/12/2020..

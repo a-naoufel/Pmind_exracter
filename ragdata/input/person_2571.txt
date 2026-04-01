@@ -1,0 +1,11 @@
+PERSON: GALFREDUS Ligator
+Also known as: Gaufridus LIGATOR.
+Description: Notaire.
+Status: Extérieur.
+Gender: male.
+Active during: %1300-1300%.
+Born in: Orléanais ?.
+Diocese of origin: Diocèse de Chartres..
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 16/11/2019..

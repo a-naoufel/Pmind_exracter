@@ -1,0 +1,14 @@
+PERSON: CAROLUS de Gouda 1
+Also known as: Carolus de GOUDA; Karolus de GOUDA.
+Description: Recteur de l'Université de Paris..
+Status: Maître.
+Gender: male.
+Active during: %1482-1496%.
+Born in: Pays-Bas (Hollande : Gouda ?) ??.
+Diocese of origin: Diocèse de Paris ?.
+Studied at: Paris (Nation de France) %1482-1496% ;.
+Academic grades obtained: Étudiant ès arts (Paris) ;; Maître ès arts (Paris) attesté en ;; Licencié en théologie (Paris) (27 janvier) ;; Maître en théologie (Paris) (27 juin) ..
+College affiliation: Collège de Navarre, %1482-1496%.; Collège de Navarre : en ;; Collège de Navarre : régent ;; Collège de Bourgogne : régent ;.
+Academic relationships: Élève de Johannes Le HERPEUR ; Maître d'étudiants en arts aux Collèges de Navarre et de Bourgogne ; Maître de Johannes DARAPTI au Collège de Navarre..
+University functions: Paris (Faculté des Arts : maître-régent) ;; Paris (Nation de France : "Examinator S. Genovefae" en (29 janvier) ;; Paris (Université : recteur élu par la Faculté des Arts en (24 mars) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux et Claire Priol-Hoogland ; Jean-Philippe Genet, dernière mise à jour 1/04/2021)..

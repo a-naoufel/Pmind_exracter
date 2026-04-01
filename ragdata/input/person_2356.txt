@@ -1,0 +1,99 @@
+PERSON: FRANCISCUS de Mayronis
+Also known as: Franciscus de MAYRONIS; François de MEYRONNES.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1304-1328%.
+Born in: Provence (Meyronnes)..
+Diocese of origin: ?Diocèse de Digne ??.
+Studied at: Toulouse %1318-1320% ;; Paris %1304-1307% et %1320-1324%..
+Academic grades obtained: Bachelier en théologie (Paris) %1320-1321% ;; Maître en théologie (Paris) ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) %1304-1307% et %1320-1324%..
+Academic relationships: ?Son maître est Johannes DUNS Scottus..
+Religious order: O.F.M. : frère du couvent (franciscain) de Digne..
+Religious functions: Custode de Sisteron.; Provincial (franciscain) de Provence ..
+University functions: Montpellier (lecteur au studium franciscain avant ) ;; Avignon (lecteur au studium franciscain avant ) ;; Toulouse (lecteur principal au studium franciscain %1318-1320%) ;; Paris (Faculté de Théologie : Lecteur des Sentences au studiumfranciscain à partir de l'automne ) ;; Paris (Faculté de Théologie : Maîtrerégent aucouvent franciscain en %1323-1324% ?) ;.
+Representation roles: Mission pour le compte du pape JEAN XXII en Gascogne depuis Avignon où il réside en ..
+Authored work: 'Comm. in I-IV Sentent.', composed around ?.
+Authored work: 'Flores collecti ex libris sancti Augustini', composed around .
+Authored work: 'Comm. in opera Dionysii Areopagitae', composed around ?, dedicated to Écrit à la demande de ROBERT Ier, roi de Naples..
+Authored work: 'Decalogi seu decem preceptorum Domini explanatio', composed around ?.
+Authored work: 'Tractatus de articulis fidei', composed around ?.
+Authored work: 'Tractatus super Pater Noster', composed around ?.
+Authored work: 'In Oratione Dominica', composed around ?.
+Authored work: 'In Angelica salutatione', composed around ?.
+Authored work: 'Tractatus diffusus de conceptione beatae Mariae virginis', composed around ?.
+Authored work: 'Tractatus in Anselmi "de conceptu virignali"', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'De indulgentiis', composed around ? C’est en fait un sermon prêché à la courpontificale d’Avignon un 1er août, fête de Saint PIERRE in Vinculis..
+Authored work: 'Tractatulus de XII Christi consiliis', composed around ?.
+Authored work: 'Tractatus de angelis', composed around ?.
+Authored work: 'Tractatus de baptismo', composed around ?.
+Authored work: 'Tractatus de poenitentia', composed around ?.
+Authored work: 'Tractatus de septem donis Spiritus Sancti', composed around ?.
+Authored work: 'Tractatus de suffragiis mortuorum', composed around ?.
+Authored work: 'Tractatus de ultimo iudicio', composed around ?.
+Authored work: 'Tractatus de vita contemplativa', composed around ?.
+Authored work: 'Tractatus super Magnificat', composed around ?.
+Authored work: 'Tractatus super Missus est', composed around ?.
+Authored work: 'De sacramento corporis et sanguinis Christi', composed around à Avignon : il s’agit d’un sermon prêché à la courpontificale d’Avignon..
+Authored work: 'Tractatus de passione Domini', composed around ?.
+Authored work: 'Apologia sanguinis Christi in ecclesia Trevirensi adservati', composed around ?.
+Authored work: 'Moralia sive de virtutibus', composed around ?.
+Authored work: 'Tractatus de ieiunio', composed around ?.
+Authored work: 'De Iuramento et Periuro', composed around ?.
+Authored work: 'De verbo divino', composed around ?.
+Authored work: 'Quaestiones morales diversae', composed around ?.
+Authored work: 'De ordine in divinis', composed around ?.
+Authored work: 'Quaestio de acceptatione divina', composed around ?.
+Authored work: 'Quaestio de haereticis', composed around ?.
+Authored work: 'Quaestio utrum tendenti ad perfectionem necessaria sit abdicatio temporalium', composed around ?.
+Authored work: 'Quodlibet de symbolo', composed around ?.
+Authored work: 'De fide', composed around ?.
+Authored work: 'De celebratione missarum', composed around ?.
+Authored work: 'Tractatus de contritione', composed around ?.
+Authored work: 'Tractatus de peccatis', composed around ?.
+Authored work: 'Tractatus de contemplatione', composed around ?.
+Authored work: 'Tractatus de humilitate', composed around ?.
+Authored work: 'Tractatus de gratia', composed around ?.
+Authored work: 'Tractatus de misericordia', composed around ?.
+Authored work: 'Tractatus de temptatione', composed around ?.
+Authored work: 'Tractatus de virginitate', composed around ?.
+Authored work: 'Determinatio de Opere Dominice Incarnationis', composed around ?.
+Authored work: 'Quodlibet I-II', composed around .
+Authored work: 'Tractatus de esse et essentia', composed around ?.
+Authored work: 'De quatuor signis naturae sive creature', composed around ?.
+Authored work: 'Passus super universalia, Praedicamenta et Perihermenias', composed around ?.
+Authored work: 'Tractatus de univocatione entis', composed around ?.
+Authored work: 'De transcendentibus', composed around ?.
+Authored work: 'De primo principio complexo', composed around ?.
+Authored work: 'Tractatus de identitate et distinctione predicamentorum', composed around ?.
+Authored work: 'De perfectionibus', composed around ?.
+Authored work: 'De relationibus', composed around ?.
+Authored work: 'De modis intrinsecis', composed around ?.
+Authored work: 'De intuitiva et abstractiva notitia', composed around ?.
+Authored work: 'De possibilitate fruendi Essentia sine Personis', composed around ?.
+Authored work: 'Tractatus de secundis intentionibus', composed around ?.
+Authored work: 'De usu terminorum', composed around ?.
+Authored work: 'De formalitatibus', composed around ?.
+Authored work: 'Questiones XL tum in logica tum in physica tum in metaphysica', composed around ?.
+Authored work: 'Quaestiones super III libros De anima', composed around ?.
+Authored work: 'De dilectione amicorum et inimicorum', composed around ?.
+Authored work: 'De distinctione attributorum', composed around ?.
+Authored work: 'Super libros I-VIII Physicorum', composed around ?.
+Authored work: 'Epitome in libros naturales Aristotelis', composed around ?.
+Authored work: 'Explanatio in capitulum Firmiter credimus', composed around ?.
+Authored work: 'Comm. in Decretal. Cum Marthae', composed around .
+Authored work: 'Replicationes contra Petrum Rogerii', composed around .
+Authored work: 'De dominio Apostolorum', composed around ?.
+Authored work: 'De paupertate Christi', composed around ?.
+Authored work: 'Determinatio paupertatis Christi et Apostolorum', composed around ?.
+Authored work: 'Tractatus de principatu temporali', composed around ..
+Authored work: 'Quaestio de subjectione', composed around ?.
+Authored work: 'Tractatus de principatu Regni Siciliae', composed around ?.
+Authored work: 'Quaestio de obedientia', composed around ?.
+Authored work: 'Quaestio de monarchia universali', composed around ?.
+Authored work: 'Quaestio de potestate Papae', composed around ?.
+Authored work: '(Consultation sur le Super Apocalypsim de Pierre de JEAN OLIVI)', composed around , dedicated to A la demande de JEAN XXII..
+Authored work: 'De octo beatitudinibus', composed around ?.
+Source: Répertoire des auteurs franciscains préparé par Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress ("Franciscus de Mayronis") : //http://users.bart.nl/~roestb/franciscan/index.htm.

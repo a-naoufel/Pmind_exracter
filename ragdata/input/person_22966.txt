@@ -1,0 +1,15 @@
+PERSON: GUILLELMUS Riveti
+Also known as: Guillelmus RIVETI.
+Description: Recteur de l’Université de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1443-1456%.
+Born in: ComtédeBourgogne.
+Diocese of origin: Diocèse de Besançon..
+Studied at: Paris (Nation de France) %1443-1456%..
+Academic grades obtained: Maître ès arts (Paris) attesté en ;; Bachelier en droit canon (Paris) en (21 novembre) ;; Licencié en droit canon (Paris) en ‘(avril) ;.
+College affiliation: Collège de Bourgogne : maître en mars , encore en ;.
+Academic relationships: Son maître est Johannes de MONTIGNY en ; Son élève est Petrus MARTINI pour le baccalauréat en ; Son élève est Johannes LAGUETA pour le baccalauréat en ; Son élève est Johannes VILLERIO pour le baccalauréat en ; Son élève est Johannes CHOLERETI pour le baccalauréat en ; Son élève est Guillermus ALBI pour la maîtrise en ;.
+Ecclesiastical status: Clerc du diocèse de Besançon..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (2e année) à Paris le 21 mars 1444 ;; Paris (Nation de France : il participe à l'élection du procureur en (23 septembre)) ;; Paris (Faculté des arts (Nation de France) : demande à être maître-régent pour l’année %1445-1446%) ;; Paris (Faculté de Décret : Lecteur des Décrétales (3e année) à Paris en octobre 1445 ;; Paris (Faculté de Décret : Lecteur des Décrétales (4e année) à Paris le 15 octobre 1446 . <r> FOURNIER: 2, 168.; Paris (Nation de France : receveur élu en 8 janvier) ;; Paris (Faculté des arts (Nation de France) : demande à être maître-régent pour l’année %1448-1449%) ;; Paris (Nation de France : procureur de la Nation de France élu en (2 juin) jusqu’au 26 août ;; Paris (Université : recteur élu en (19 mars) jusqu'en juin) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 04/05/2015 ; Révision : Jean-Philippe Genet, 14/05/2018..

@@ -1,0 +1,14 @@
+PERSON: PETRUS Peverel
+Also known as: Pierre PEVEREL.
+Description: Maître en décret à Paris.
+Status: Maître.
+Gender: male.
+Active during: %1200-1215%.
+Born in: ?Angleterre ;.
+Studied at: Paris avant %1209-1214%..
+Academic grades obtained: Maître en décret (Paris) ?..
+Ecclesiastical positions held: Chanoine de Paris (Notre-Dame).; Évêque d'Agde %1214-1215% ?.
+Other ecclesiastical functions: Juge délégué, employé à plusieurs reprises par INNOCENT III ;.
+University functions: Paris (Maîtrerégent enseignant le droit canon vers%1209-1214%) ;.
+Authored work: 'Ordo ‘Sapientiam affectant omnes’', composed around Avant ..
+Source: Bio-Bibliographical Guide to Medieval and Early Modern Jurists ;.

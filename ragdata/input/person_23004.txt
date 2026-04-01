@@ -1,0 +1,12 @@
+PERSON: CHETTILVASTUS
+Also known as: KETILVASTUS.
+Description: Chanoine.
+Status: Maître.
+Gender: male.
+Active during: %:1285:-:1291%.
+Born in: Suède.
+Studied at: ?Paris, ..
+Academic grades obtained: Mag. ?(P), ..
+Ecclesiastical positions held: Chanoine d'Uppsala (cathédrale), %:1286:-:1291%.
+Representation roles: Envoyé probable de l'archevêque et de l'Église d'Uppsala à la Curie romaine, ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 01/02/2018..

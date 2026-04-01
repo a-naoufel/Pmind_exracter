@@ -1,0 +1,11 @@
+PERSON: GAUCELMUS
+Also known as: GAUCELME.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1285-1300%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Bordeaux..
+University functions: Saint-Emilion (couvent dominicain : lect. en théologie )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/11/2021..

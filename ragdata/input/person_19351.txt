@@ -1,0 +1,9 @@
+PERSON: GERARDUS de Camery
+Also known as: Girardus de CAMERY.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1446-1446%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 26/07/2021..

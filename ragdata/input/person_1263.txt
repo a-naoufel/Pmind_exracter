@@ -1,0 +1,11 @@
+PERSON: BENENATUS de Catalonia
+Also known as: Benenatus de CATALONIA.
+Description: Augustin.
+Status: Incertain.
+Gender: male.
+Active during: %1358-1358%.
+Born in: ?Catalogne..
+Studied at: ?.
+Academic grades obtained: Bachelier en théologie ..
+Religious order: Augustin ;; Visiteurducouvent (augustin) de Paris envoyé par Grégoire de RIMINI en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 08/01/2021).

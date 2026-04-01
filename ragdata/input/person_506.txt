@@ -1,0 +1,10 @@
+PERSON: ALEXANDER de Gandavo
+Also known as: Alexandre de GANDAVO.
+Description: Maître ès arts ?.
+Status: Maître.
+Gender: male.
+Active during: %1312-1312%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) en ?.
+College affiliation: Sorbonne ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 2/01/2019..

@@ -1,0 +1,14 @@
+PERSON: HENRICUS de Tesval
+Also known as: Henricus de TESVAL; Henri de THÉVAL.
+Description: Chanoine du Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1276-1292%.
+Born in: Anjou-Maine ?.
+Diocese of origin: Diocèse de LeMans ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Social origin: Noble ;.
+Ecclesiastical status: Sous-diacre ;.
+Ecclesiastical positions held: Chanoine de LeMans %1276-1292% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/07/2023)..

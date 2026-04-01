@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS Martini
+Also known as: Aegidius MARTINI.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1378-1378%.
+Diocese of origin: Diocèse de Cambrai..
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Étudiant ès arts en ..
+Ecclesiastical positions held: Chapelain (autel Saint-André) de Beauvais (église collégiale Saint-Vesast) en; Candidat à des bénéfices ecclésiastiques à la collation de l'évêque, du doyen et du chapitre de l'église de Beauvais dans le rotulus composé par le Cardinal Jean de MUROL d'ESTAING en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 8/05/2020)..

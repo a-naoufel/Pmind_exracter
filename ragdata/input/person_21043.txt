@@ -1,0 +1,10 @@
+PERSON: PETRUS Paris
+Also known as: Petrus PARIS.
+Description: Régulier.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+Religious order: Régulier ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/08/2016..

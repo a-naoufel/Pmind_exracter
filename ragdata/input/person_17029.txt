@@ -1,0 +1,8 @@
+PERSON: AMBROSIUS Bertrandi
+Also known as: Ambrosius BERTRANDI.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris..
+Academic grades obtained: Magister.

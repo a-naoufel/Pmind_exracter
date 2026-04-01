@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Londenariis
+Also known as: Guillelmus de LONDENARIIS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1342-1342%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris (Nation de Normandie) %:1342-1342%..
+Academic grades obtained: Maître ès arts (Paris) ;.
+Ecclesiastical status: Clerc du diocèse de Rouen ;.
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiastique à la collation de l’archevêque de Rouen en réponse au rotulus de l'Université de Paris en : mandat à l'abbé (bénédictin) de Rouen (Saint-Ouen), à Ricardus de MESNILLO, chanoine de Rouen et à Dyonsius MAHUREL, chanoine de Rouen ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 3/04/2020..

@@ -1,0 +1,31 @@
+PERSON: LOTHARIUS de Segni (INNOCENT III)
+Also known as: INNOCENT III.
+Description: Pape.
+Status: Étudiant.
+Gender: male.
+Active during: %1175-1216%.
+Born in: Italie (Latium : Gavignano)..
+Diocese of origin: Diocèse de Rome ?.
+Studied at: Paris ;; Bologne, peut-être %1184-1187% ?.
+Academic grades obtained: Étudiant ès arts (Paris) ;; Étudiant en théologie (Paris) ;; Étudiant en droit (Bologne)..
+Family relationships: Son père est Tramundus de COMITIBUS SIGNIE ; Sa mère est Clarissa SCOTTI ;.
+Academic relationships: Son maître est Pierre de CORBEIL à Paris ; Son maître à Bologne a peut-être été UGUCCIONE..
+Social origin: Noble..
+Ecclesiastical status: Sous-diacre (Bologne en )..
+Ecclesiastical positions held: Cardinal-diacre des Saints-Serge-et-Bacchus %1190-1197% ;; Pape élu en (8 janvier)..
+Representation roles: Organisateur du concile de LatranIV en ..
+Authored work: 'De miseria humanae conditionis', composed around %1194-1195%..
+Authored work: 'De sacro altaris mysterio', composed around ?.
+Authored work: 'De quadripartita specie nuptiarum', composed around Vers ..
+Authored work: 'Commentarium in septem psalmos poenitentiales', composed around ?.
+Authored work: 'Libellus de eleemosyna', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'De beatissima virgine Maria et filio eius Iesu Christo encomium', composed around ?.
+Authored work: 'Hymnus de Christo et beatissima virgine Maria dignissima matre eius', composed around ?.
+Authored work: 'Orationes tres de omnibus sanctis, pro defensione et tranquillitate catholicae et orthodoxae', composed around ?.
+Authored work: 'De vita et passione domini nostri Iesu Christi, orationes tres', composed around ?.
+Authored work: 'Dialogus inter Deum et peccatorem', composed around Attribution incertaine ? <<c>> MS. München, BSB, Clm 7575.
+Authored work: 'Compilatio tertia', composed around ;.
+Authored work: 'Constitutiones Concilii Lateranensis IV', composed around ?.
+Authored work: 'Epistolae, Decretales, Constitutiones, etc …', composed around ?.
+Source: ARLIMA, Laurent BRUN :.

@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Durandi
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1293-1311%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en théologie (Paris) ?.
+College affiliation: Couvent (dominicain) de Paris (Jacobins) ;.
+Religious order: O.P. : frère dominicain..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/12/2023)..

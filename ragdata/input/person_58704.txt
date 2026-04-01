@@ -1,0 +1,10 @@
+PERSON: ROGARIUS Evardi
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1428-1430%.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en décret (Paris) en ;.
+Ecclesiastical positions held: Curé de Saint-Michel près de Coutances ;.
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (livre III) en (20 mars) pour la 1ère année et le 1er volume) ;; Paris (Faculté de Décret : Lecteur des Décrétales (livre I) en pour la 3e année et le 3e volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 25/03/2025..

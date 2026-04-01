@@ -1,0 +1,12 @@
+PERSON: GARNERIUS 2
+Also known as: GARNIER.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1188-1215%.
+Diocese of origin: Diocèse de Chartres ;.
+Studied at: ?.
+Academic grades obtained: Magister..
+Ecclesiastical status: Prêtre..
+Ecclesiastical positions held: Chanoine de Reims %1188-1215% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/09/2024)..

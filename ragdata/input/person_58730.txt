@@ -1,0 +1,12 @@
+PERSON: ALANUS Couturier
+Also known as: Alain COUTURIER.
+Description: Boursier du collège de Cornouaille.
+Status: Étudiant.
+Gender: male.
+Active during: %1422-1422%.
+Born in: Bretagne (Cornouaille) ;.
+Diocese of origin: Diocèse de Quimper..
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège des Dix-Huit : boursier jusqu’en ;; Collège de Cornouaille : boursier à partir de ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 06/04/2025..

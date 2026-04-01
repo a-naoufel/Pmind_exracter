@@ -1,0 +1,9 @@
+PERSON: GILBERTUS 2
+Also known as: GUILBERTUS.
+Description: Médecin parisien.
+Status: Incertain.
+Gender: male.
+Active during: %1322-1322%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 14/01/2022..

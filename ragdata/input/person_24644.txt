@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Roussel 1
+Also known as: Guillaume ROUSSEL.
+Description: Dépensier du Collège de Dormans-Beauvais.
+Status: Suppôt.
+Gender: male.
+Active during: %1424-1425%.
+Studied at: Paris %1424-1425%..
+Academic grades obtained: ?.
+College affiliation: Collège de Dormans-Beauvais : dépensier %1424-1425% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 30/05/2022..

@@ -1,0 +1,10 @@
+PERSON: SIMON Andrea
+Also known as: Simon ANDREA.
+Description: Chapelain perpétuel de Saint-Merry.
+Status: Extérieur.
+Gender: male.
+Active during: %1325-1325%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chapelain perpétuel de Paris (Saint-Merry)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 11/02/2020..

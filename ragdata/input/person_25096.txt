@@ -1,0 +1,11 @@
+PERSON: PETRUS Baudier
+Also known as: Petrus BAUDIER.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1401-1401%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Dormans-Beauvais : Écolier-boursier en ;.
+Family relationships: Son parent Jean BAUDIER ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 20/03/2020)..

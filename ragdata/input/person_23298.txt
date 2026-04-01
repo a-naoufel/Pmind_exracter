@@ -1,0 +1,10 @@
+PERSON: ANSELMUS de Vitriaco
+Also known as: Ancelmus de VITRIACO.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1371-1371%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant ?.
+Ecclesiastical positions held: Chanoine de Vitry (églisecollégiale Sainte-Marie) en .; Chapelain dans l'église de Vitry (Saint-Jacques); Provision pour un bénéfice ecclésiastique à la collation de l'évêque, du doyen et du chapitre de Paris en ; mandat à l'bbé de Paris (Sainte-Geneviève), au doyen de Chalons-sur-Marne et à l'official de Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/09/2020)..

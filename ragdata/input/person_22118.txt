@@ -1,0 +1,13 @@
+PERSON: GALTERIUS de Ath
+Also known as: Galterius de ATH; Gautier de ATH.
+Description: Chancelier de Tournai.
+Status: Incertain.
+Gender: male.
+Active during: %1189-1205%.
+Born in: Hainaut (Ath)..
+Diocese of origin: Diocèse de Tournai..
+Studied at: ?.
+Academic grades obtained: Magister ..
+Ecclesiastical status: Prêtre en ;.
+Ecclesiastical positions held: Chanoine de Tournai %1189-1238% ;; Hospitalier de Tournai %1205-1224% ;; Chancelier de Tournai %1230-1238% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/05/2017..

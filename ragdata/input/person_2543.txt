@@ -1,0 +1,9 @@
+PERSON: GALFREDUS de Pérusse des Cars
+Also known as: Gaufridus de PÉRUSSEDESCARS.
+Description: Évêque de Saintes.
+Status: Extérieur.
+Gender: male.
+Active during: %1411-1418%.
+Studied at: ?.
+Ecclesiastical positions held: Évêque de Saintes %1411-1418%..
+Representation roles: Nonce de JEAN XXIII chargé d'exiger le paiement d'un subside caritatif de l'Église de France et donc de l'université ;.

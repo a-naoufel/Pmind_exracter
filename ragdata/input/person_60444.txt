@@ -1,0 +1,10 @@
+PERSON: PETRUS de Rueil
+Also known as: Petrus de RUEIL.
+Description: Principal du collège de Presles.
+Status: Maître.
+Gender: male.
+Active during: %1511-1511%.
+Studied at: Paris ;.
+Academic grades obtained: Maître ;.
+College affiliation: Collège de Presles : principal en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

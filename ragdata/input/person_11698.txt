@@ -1,0 +1,9 @@
+PERSON: TANGUIDUS Moreau
+Also known as: Tanneguy MOREAU; Tanneguy MORREAU; Tanneguy MORELLI; Tanneguy MORELY.
+Description: Bachelier en médecine..
+Status: Gradué.
+Gender: male.
+Active during: %1492-1498%.
+Studied at: Paris %1492-1498%..
+Academic grades obtained: Étudiant en médecine (Paris) à partir de %1492-1493% ;; Bachelier en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/01/2024..

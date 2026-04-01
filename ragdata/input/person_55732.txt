@@ -1,0 +1,10 @@
+PERSON: PETRUS de Villiers
+Also known as: Pierre de VILLIERS.
+Description: Procureur du collège de Fortet.
+Status: Étudiant.
+Gender: male.
+Active during: %1421-1453%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Fortet, procureur en et en 1453% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/04/2023)..

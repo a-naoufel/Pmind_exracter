@@ -1,0 +1,12 @@
+PERSON: NICOLAUS Mulier
+Also known as: Nicolas MULIER.
+Description: Boursier du Collège de Montaigu.
+Status: Étudiant.
+Gender: male.
+Active during: %1414-1414%.
+Born in: Auvergne ;.
+Diocese of origin: Diocèse de Clermont..
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Montaigu : boursier jusqu’en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/04/2021..

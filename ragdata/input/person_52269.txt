@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS de Brocis
+Also known as: Guillelmus de BRESSIS; Guillelmus de BROCIS; Guillelmus de BROSSIS; Guillaume de BROCES.
+Description: Maître du Collège de Montaigu.
+Status: Maître.
+Gender: male.
+Active during: %1411-1434%.
+Born in: Auvergne ;.
+Diocese of origin: Diocèse de Clermont..
+Studied at: Paris (Nation de France) %1411-1434%..
+Academic grades obtained: Étudiant (Paris) en .; Maître ès arts (Paris) ;; Licencié en décret (Paris) ;.
+College affiliation: Collège de Montaigu : boursier %1411-1434%; Collège de Montaigu : maître %1416-1423%.
+Ecclesiastical positions held: Candidat à un bénéfice ecclésiastique ;.
+University functions: Paris (Université : Recteur pendant le schisme) ;; Paris (Université : Nuntius) ;; Ambassadeur de l’université auprès de HENRI V, roi d’Angleterre en ;; Paris (Université :Scribe de l’évêque de Beauvais conservateur des privilèges de l’Université de Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/04/2021..

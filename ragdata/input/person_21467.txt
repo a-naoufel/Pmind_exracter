@@ -1,0 +1,9 @@
+PERSON: SIMON Godichart
+Also known as: Simon GODICHART; Simon GODEZARDI.
+Description: Chirurgien ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1357%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant à la faculté de Médecine ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 13/09/2024 ..

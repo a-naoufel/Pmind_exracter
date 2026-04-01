@@ -1,0 +1,8 @@
+PERSON: ROGARIUS de Rue Neusve
+Also known as: Roger de RUE NEUSVE.
+Description: Relieur.
+Status: Suppôt.
+Gender: male.
+Active during: %1368-1368%.
+Studied at: Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 31/08/2024)..

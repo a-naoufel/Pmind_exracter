@@ -1,0 +1,12 @@
+PERSON: PETRUS de Lemet
+Also known as: Petrus de LEMET.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1272-1273%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Couvent (dominicain) de Paris (Jacobins) ?.
+Religious order: O.P. : frère dominicain..
+Authored work: 'Sermo fr. Petri de Lemet pred. ad beginas in f. Stephani in mane', composed around (26 décembre) au béguinage pour la fête de Saint ÉTIENNE..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 27/03/2020..

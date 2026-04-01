@@ -1,0 +1,12 @@
+PERSON: PETRUS Blesensis
+Also known as: Petrus BLESENSIS; Petrus BLECENENSIS; Pierre de BLOIS.
+Description: Chanoine de Rouen.
+Status: Maître.
+Gender: male.
+Active during: %1172-1212%.
+Born in: Orléanais (Blois) ?.
+Diocese of origin: Diocèse d'Orléans ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Rouen ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 16/11/2021..

@@ -1,0 +1,13 @@
+PERSON: PETRUS Camion de Summoputeo
+Also known as: Petrus CAMION de Summoputeo; Pierre CAMION.
+Description: Chantre de Châlons.
+Status: Maître.
+Gender: male.
+Active during: %1364-1382%.
+Born in: Champagne (Sompuis) ;.
+Diocese of origin: Diocèse de Châlons ;.
+Studied at: Paris (Nation de France) %1349-1369%..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Maître en médecine (Paris) ..
+Ecclesiastical status: Prêtre du diocèse de Châlons en ;.
+Ecclesiastical positions held: Chanoine de Châlons (Notre-Dame-en-Vaux) % -1364% ;; Chanoine de Reims %1364-1366% ;; Chanoine de Châlons %1365-1382% ;; Chantre de Châlons %1369-1382% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 23/06/2021..

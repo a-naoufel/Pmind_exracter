@@ -1,0 +1,9 @@
+PERSON: PETRUS Copu
+Also known as: Petrus COPU.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris en ..
+Academic grades obtained: Magister ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/01/2024)..

@@ -1,0 +1,11 @@
+PERSON: GALFREDUS Bovis
+Also known as: Gaufridus BOVIS; Geoffroy LEBOEUF; GAUFRIDUS cantor Dauratensis.
+Description: Maître en décret.
+Status: Maître.
+Gender: male.
+Active during: %1241-1248%.
+Studied at: Paris ..
+Academic grades obtained: Maître en décret (Paris) ;.
+Ecclesiastical positions held: Chantre du Dorat en ;.
+University functions: Paris (Faculté de Décret : maître-régent) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 6/08/2017).

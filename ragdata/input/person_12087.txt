@@ -1,0 +1,13 @@
+PERSON: THOMAS de Sancto Georgio
+Also known as: Thomas de SAINT-GEORGES.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1329-1332%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse d'Évreux..
+Studied at: Paris %1329-1332%..
+Academic grades obtained: Maître en médecine (Paris) avant ;.
+Ecclesiastical status: Clerc du diocèse d'Évreux ;.
+Ecclesiastical positions held: Il obtient l'expectative d'un bénéfice à la collation de l'abbesse du Saint-Sauveur (diocèse d'Evreux), ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 04/10/2024..

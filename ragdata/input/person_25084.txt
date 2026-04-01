@@ -1,0 +1,11 @@
+PERSON: GERARDUS Le Jay
+Also known as: Gerardus LEJAY.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1438-1453%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Il a une fille naturelle ;.
+Ecclesiastical positions held: Chanoine de Reims %1438-1453% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/12/2018..

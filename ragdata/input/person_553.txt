@@ -1,0 +1,13 @@
+PERSON: AMADEUS de Castello
+Also known as: Amadaeus de CASTELLO.
+Description: Augustin.
+Status: Maître.
+Gender: male.
+Active during: %1299-1314%.
+Studied at: Paris ?%1301-1302% et ?%1307-1314%..
+Academic grades obtained: Bachelier en théologie (Paris) .; Maître en théologie (Paris ?)..
+College affiliation: Couvent (augustin) de Paris..
+Religious order: O.E.S.A. : frère augustin..
+University functions: Pérouse (lecteur ) ;; Paris (Faculté de théologie : lecteur des Sentences %1301-1302%).; Paris (Maître-Régent en théologie ca.%1307-1314%)..
+Authored work: 'Quaestiones disputatae 17', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2020)..

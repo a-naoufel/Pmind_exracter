@@ -1,0 +1,10 @@
+PERSON: DIONYSIUS Nugandi
+Also known as: Dionysius NUGANDI.
+Description: Boursier du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1472-1473%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en %1472-1473%..
+College affiliation: Collège d’Autun : boursier %1472-1473% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 08/06/2024..

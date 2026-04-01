@@ -1,0 +1,13 @@
+PERSON: PETRUS de Ausona
+Also known as: Petrus de AUSONA; Pierre d’AUXONNE.
+Description: Professeur à l’école de droit d’Orléans.
+Status: Incertain.
+Gender: male.
+Active during: %1240-1240%.
+Born in: ComtédeBourgogne (Auxonne ?)..
+Diocese of origin: Diocèse de Besançon..
+Studied at: Bologne ;; Orléans ?.
+Academic grades obtained: Docteur en droit civil (Bologne)..
+Other ecclesiastical functions: Official de Canterbury..
+University functions: Orléans (École de droit : professeur de droit civil) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 22/08/2023)..

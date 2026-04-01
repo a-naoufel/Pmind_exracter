@@ -1,0 +1,18 @@
+PERSON: RADULPHUS Strode
+Also known as: Ralph STRODE.
+Description: Common Serjeant of London.
+Status: Extérieur.
+Gender: male.
+Active during: %1359-1387%.
+Born in: ?Angleterre (Kent : Strood)..
+Authored work: '(Summulae) De arte logica', composed around ?.
+Authored work: 'De principiis logicalibus', composed around ?.
+Authored work: 'De suppositionibus', composed around ?.
+Authored work: 'Consequentiae', composed around ?.
+Authored work: 'Obligationes', composed around ?.
+Authored work: 'De insolubilibus', composed around ?.
+Authored work: '(Fantasma Radulphi)', composed around ?.
+Authored work: 'Itinerarium Terrae Sanctae', composed around ?.
+Authored work: 'Decem Questiones', composed around ?..
+Authored work: 'Argumenta (XVIII Posiciones contra Wiclevum)', composed around ?.
+Source: MIRABILE : Beatrice BARAGATTI :.

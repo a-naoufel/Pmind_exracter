@@ -1,0 +1,9 @@
+PERSON: STEPHANUS Burgondus
+Also known as: Stephanus BURGONDUS.
+Description: Médicastre.
+Status: Incertain.
+Gender: male.
+Active during: %1322-1322%.
+Studied at: ?.
+Academic grades obtained: Maître ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 17/09/2024..

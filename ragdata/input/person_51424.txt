@@ -1,0 +1,13 @@
+PERSON: PETRUS Caronis 1
+Also known as: Petrus CARONIS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1384-1394%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris (Nation de Normandie ?) %1385-1394%..
+Academic grades obtained: Étudiant ès arts (Paris) %1384-1385%.; Maître ès arts (Paris) ?; Étudiant en décret depuis trois ans en ;.
+College affiliation: Collège d’Harcourt : petit boursier en %1384-1385% ;.
+Ecclesiastical positions held: Candidat à un bénéfice ecclésiastique à la collation de l’archevêque, du doyen et du chapitre de Rouen ou à à la collation du doyen et du chapitre de Pontoise (Saint-Mellon) en réponse au rotulus de l’Université de Paris en ;; Candidat à un bénéfice ecclésiastique à la collation de l’abbé et du couvent du monastère (cistercien) de Mortemer sur le rotulus réalisé par Jean de BOISSY, évêque d’Amiens en (18 mai) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe GENET 3/11/2020)..

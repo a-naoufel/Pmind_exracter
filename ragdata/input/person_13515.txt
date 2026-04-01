@@ -1,0 +1,29 @@
+PERSON: MENAULDUS de Rosariis
+Also known as: Menauldus de ROSARIIS; Menauldus de ROSIERS; Menaldus de ROSARIIS; Menaudus de ROSARIIS; Monaldus de ROSARIIS.
+Description: Carme.
+Status: Maître.
+Gender: male.
+Active during: %1488-1508%.
+Born in: Aquitaine (Gascogne : Bordeaux) ;.
+Diocese of origin: Diocèse de Bordeaux ?.
+Studied at: Paris %1489-1496%..
+Academic grades obtained: Bachelier en théologie formatus (Paris) ;; Licencié en théologie (Paris) (le 27 janvier) ;; Docteur en théologie (Paris) (le 26 septembre) ;.
+College affiliation: Couvent (Carme) de Paris..
+Religious order: O.Carm. : frère (carme) du couvent de Bordeaux (province de Gascogne)..
+Religious functions: Définiteur de la province de Gascogne au chapitre général de Rome en ;; Socius de la province de Gascogne en ;; Provincial de Gascogne en %1496-1503%..
+University functions: Paris (Faculté de Théologie : lecteur de la Bible, assigné au chapitre général de , à Paris en ) ;; Bordeaux (Université : Maître régent de l'université de Bordeaux nommé le 1er mai ) ;; Lecteur au couvent (Carme) de Bordeaux en ..
+Authored work: 'De Poenitentiis et Remissionibus', composed around ?.
+Authored work: 'In Sententias Lectura', composed around ?.
+Authored work: 'In quartum Sententiarum', composed around ?.
+Authored work: 'Determinationes Theologicae', composed around ?.
+Authored work: 'Lecturae quas habet Ticini', composed around ?.
+Authored work: 'De Conceptione B. V. Mariae', composed around ?.
+Authored work: 'Adversus Haereses', composed around ?.
+Authored work: 'Officium eiusdem Sancti', composed around ?.
+Authored work: 'In Canones Pontificum', composed around ?.
+Authored work: 'Sermones Quadragesimales', composed around ?.
+Authored work: 'Sermones per annum', composed around ?.
+Authored work: 'Epistolae ad diversos', composed around ?.
+Authored work: 'In Decretalem, omnis utriusque sexus', composed around ?.
+Authored work: 'Vita S. Simonis Anglici, Carmelit. Generalis', composed around Écrit en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, révision, Jean-Philippe Genet, 24/09/2023..

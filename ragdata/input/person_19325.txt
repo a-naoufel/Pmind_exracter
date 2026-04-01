@@ -1,0 +1,15 @@
+PERSON: EUSTASIUS de Nivernis
+Also known as: Eustachius de NIVERNIS.
+Description: Bachelier en décret.
+Status: Maître.
+Gender: male.
+Active during: %1398-1403%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse de LePuy..
+Studied at: Paris %1398-1403%..
+Academic grades obtained: Maître en ;; Bachelier en décret (Paris) vers ;.
+College affiliation: Collège d’Autun : boursier décrétiste au collège d’Autun %1398-1403% ;.
+Ecclesiastical status: Clerc du diocèse de LePuy ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Rotulus licentiatorum et bacallariorum in decretis Parisius adressé à BENOÎT XIII en ;.
+University functions: Paris (Faculté de Décret : lecteur %1399-1403%) ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

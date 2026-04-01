@@ -1,0 +1,10 @@
+PERSON: F. Brito
+Also known as: F. BRITO.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1274-1274%.
+Born in: Bretagne ?.
+Studied at: Paris ..
+Academic grades obtained: Maître en médecine (Paris) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 1/08/2021..

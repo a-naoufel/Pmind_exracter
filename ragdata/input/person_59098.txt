@@ -1,0 +1,10 @@
+PERSON: NICOLAUS de Verut
+Also known as: Nicolaus de VERUT; Nicolaus de VERTUT.
+Description: Official de Châlons.
+Status: Incertain.
+Gender: male.
+Active during: %1376-1376%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Other ecclesiastical functions: Official de Châlons-en-Champagne % -1376% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 14/06/2025.

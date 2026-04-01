@@ -1,0 +1,9 @@
+PERSON: ANTHONIUS de Chabannes
+Also known as: Anthonius de CHABANNES; Antoine de CHABANNES; Anthonius, comes SANCTIMARTINI.
+Description: Lieutenant de la ville de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1420-1488%.
+Family relationships: Son père est Robert de CHABANNES ; Son frère est Jacques de CHABANNES ; Sa femme est Marguerite de NANTEUIL, comtesse de Dammartin..
+Social origin: Noble..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/09/2020)..

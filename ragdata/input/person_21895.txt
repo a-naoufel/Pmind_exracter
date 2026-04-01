@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS Jacobi 1
+Also known as: Guillelmus JACOBI.
+Description: Chanoine de Rouen.
+Status: Étudiant.
+Gender: male.
+Active during: %1362-1379%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris (Nation de Normandie ?) :.
+Academic grades obtained: Étudiant ès arts (Paris)..
+Family relationships: Son cousin est Jean de FREXCOURT, chevalier ;.
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine de Rouen %1362-1379% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 21/04/2022..

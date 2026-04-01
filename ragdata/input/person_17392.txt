@@ -1,0 +1,11 @@
+PERSON: EUSTASIUS Bigrel
+Also known as: Eustachius BIGREL; Eustacius BIGREL.
+Description: Bachelier en décret..
+Status: Maître.
+Gender: male.
+Active during: %1495-1495%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Beauvais..
+Studied at: Paris (Nation de Picardie ?) %1495-1495%..
+Academic grades obtained: Maître ès arts (Paris) attesté en ;; Bachelier en décret (Paris) 1er juillet ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 24/07/2021)..

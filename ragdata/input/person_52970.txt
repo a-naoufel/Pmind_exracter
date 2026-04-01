@@ -1,0 +1,13 @@
+PERSON: PETRUS Bignon
+Also known as: Petrus BIGNON.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1430-1438%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Louvain ?.
+Academic grades obtained: Maître ès arts (Louvain ?) ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Rouen %1437-1438% ;; Curé de Rouen (Saint-Hélier) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 16/11/2021..

@@ -1,0 +1,18 @@
+PERSON: LEONARDUS Fibonacci de Pisa
+Also known as: Léonardus de PISA.
+Description: Leonardo BONACCI.
+Status: Extérieur.
+Gender: male.
+Active during: %1190-1240%.
+Born in: Italie (Toscane : Pise)..
+Diocese of origin: Diocèse de Pise..
+Studied at: ?.
+Social origin: Bourgeoisie ?.
+Authored work: 'Abacus', composed around ? mais révisé en ..
+Authored work: 'Flos super solutionibus quarumdam quaestionum ad numerum et geometriam', composed around ?, dedicated to Dédié au Cardinal Raniero CAPOCCI..
+Authored work: 'Liber quadratorum', composed around .
+Authored work: 'Practica geometriae', composed around .
+Authored work: 'Epistola ad magistrum Theodorum', composed around ?.
+Authored work: 'Quaestio mihi proposita a magistro Theodoro domini Imperatoris phylosopho', composed around ?.
+Authored work: 'Liber abaci minor', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

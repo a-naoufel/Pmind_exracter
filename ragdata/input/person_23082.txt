@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Magister
+Also known as: GUILLAUME; GUILLELMUS Magister.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1220-1220%.
+Studied at: Paris..
+Academic grades obtained: Magister ?.
+University functions: Paris (maître de grammaire)..
+Authored work: 'Summa grammaticalis', composed around ?.
+Authored work: 'Regulae De mediis sillabis', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 7/3/2018..

@@ -1,0 +1,12 @@
+PERSON: STEPHANUS 16
+Also known as: STEPHANUS, abbé de Hautecombe.
+Description: Abbé cistercien de Hautecombe.
+Status: Étudiant.
+Gender: male.
+Active during: %1335-1335%.
+Studied at: ?Paris..
+Academic grades obtained: Étudiant ?.
+College affiliation: Collège Saint-Bernard ?.
+Religious order: O. Cist. : moine cistercien..
+Religious functions: Abbé (cistercien) de Hautecombe en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 18/12/2019..

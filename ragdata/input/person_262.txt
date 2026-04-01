@@ -1,0 +1,12 @@
+PERSON: ALANUS O.S.B.
+Also known as: ALANUS, O.S.B..
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1428-1429%.
+Studied at: Paris..
+Academic grades obtained: Licencié in utroque jure ;; Étudiant en théologie (Paris)..
+Academic relationships: ?Élève de Magister Thomas MONACHUS ..
+Religious order: O.S.B. : moine bénédictin..
+Religious functions: Abbé de Longues (Sainte-Marie), au diocèse de Bayeux, à Longues-sur-Mer..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Dernière mise à jour, Jean-Philippe Genet 20/05/2020)..

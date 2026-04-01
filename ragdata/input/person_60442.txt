@@ -1,0 +1,8 @@
+PERSON: GUILLELMUS de Genly
+Also known as: Guillaume de GENLY.
+Description: ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1442-1442%.
+Family relationships: Son fils est Jean de GENLY.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

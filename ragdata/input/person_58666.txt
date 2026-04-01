@@ -1,0 +1,9 @@
+PERSON: LEONARDUS Camerellus
+Also known as: Leonardus CAMERELLUS.
+Description: Médecin.
+Status: Maître.
+Gender: male.
+Active during: %1501-1519%.
+Studied at: Paris (Nation Anglo-germanique) %1501-1505% ;; Bâle .; Montpellier ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Maître ès arts (Paris) ;; Maître ès arts (Bâle) ;; Docteur en médecine (Bâle) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 14/03/2025)..

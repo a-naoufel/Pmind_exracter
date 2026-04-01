@@ -1,0 +1,14 @@
+PERSON: PETRUS La Barbe
+Also known as: Petrus LA BARBE.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1252-1294%.
+Born in: Champagne (Reims) ;.
+Diocese of origin: Diocèse de Reims ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Bourgeoisie ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Reims (Saint-Timothée) %1252- % ;; Chanoine de Reims %1287-1294% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 13/07/2021..

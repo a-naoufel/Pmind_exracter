@@ -1,0 +1,12 @@
+PERSON: GALFREDUS de Vayrols
+Also known as: Goffredus de VAYROLS; Geoffroy de VAYROLS.
+Description: Archevêque de Toulouse.
+Status: Extérieur.
+Gender: male.
+Active during: %1342-1377%.
+Born in: Quercy ?.
+Diocese of origin: Diocèse de Cahors ?.
+Studied at: ?.
+Academic grades obtained: Licencié ès lois.
+Ecclesiastical positions held: Évêque de Lausanne %1342-1347% ;; Évêque de Carpentras %1347-1358% ;; Évêque de Carcassonne %1358-1361% ;; Archevêque de Toulouse %1361-1377% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 6/08/2021..

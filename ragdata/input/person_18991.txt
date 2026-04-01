@@ -1,0 +1,10 @@
+PERSON: CORRECTOR secundus
+Also known as: CORRECTOR secundus.
+Description: Franciscain ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1385-1385%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en théologie ?.
+Religious order: Franciscain ?.
+University functions: Paris (Couvent des Franciscains : corrector secundus en )..

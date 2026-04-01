@@ -1,0 +1,12 @@
+PERSON: REGINALDUS de Prato Gilberti
+Also known as: Reginaldus de PRATO GILBERTI; Reginaldus MILONIS.
+Description: Président aux enquêtes au Parlement de Paris.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1353%.
+Studied at: Paris %1329-1345%..
+Academic grades obtained: Étudiant en décret? (Paris) %1329-1330%.; Licencié in utroque jure ;.
+Ecclesiastical status: Clerc..
+Ecclesiastical positions held: Cur d'Accolay (diocèse d'Auxerre) ;; Chanoine d'Auxerre %1336-1353% ;; Chantre d'Auxerre %1343-1353% ;; Chanoine de Paris (Sainte-Chapelle) ;; Chanoine de Sens ;.
+University functions: Professeur de droit ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 12/01/2020..

@@ -1,0 +1,12 @@
+PERSON: ROBERTUS de Nigel
+Also known as: Robert de NIGEL.
+Description: Boursier du Collège de Laon..
+Status: Étudiant.
+Gender: male.
+Active during: %1399-1400%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie) %1399-1400%..
+Academic grades obtained: Étudiant ès arts (Paris) en %1399-1400% ;.
+College affiliation: Collège de Laon : Boursier ès arts %1399-1400% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 14/12/2020..

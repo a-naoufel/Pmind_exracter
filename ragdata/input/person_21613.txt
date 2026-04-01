@@ -1,0 +1,10 @@
+PERSON: ODARDUS de Chambliaco
+Also known as: Odardus de CHAMBLIACO.
+Description: Chanoine de Tours.
+Status: Incertain.
+Gender: male.
+Active during: %1326-1333%.
+Studied at: ?.
+Academic grades obtained: Magister.
+Ecclesiastical positions held: Provision pour un canonicat avec expectative de prébende d'Orléans en ;; Chanoine de Tours (Saint-Martin) en ;; Provision pour un canonicat avec expectative de prébende de Tours , étendu en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 27/11/2023)..

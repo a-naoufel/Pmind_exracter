@@ -1,0 +1,42 @@
+PERSON: MATHURINUS Clementis
+Also known as: Mathurinus CLEMENTIS; Mathurinus CLEMENS; Mathurin CLÉMENT.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1440-1509%.
+Born in: Berry ?.
+Diocese of origin: Diocèse de Bourges ?.
+Studied at: Paris %1449-1457%.
+Academic grades obtained: Bachelier en théologie (Paris) ;; Licencié en théologie (Paris) en (4 mars) ;; Docteur en théologie (Paris) en (29 septembre) ;.
+College affiliation: Couvent (carme) de Paris %1449-1457%..
+Religious order: O.Carm. : frère du couvent (carme) de Bourges (province de France)..
+Religious functions: Définiteur de la province (carme) de France à Bruxelles en ;; Définiteur de la province (carme) de France à Brescia en ;; Définiteur de la province (carme) de France à LaRochelle en ;; Provincial (carme) de France en ;; Provincial (carme) de France en ;; Provincial (carme) de France en ;; Provincial (carme) de France en ;; Provincial (carme) de France en ;; Provincial (carme) de France en ;; Provincial (carme) de France en ;; Provincial (carme) de France en ;; Fondateur du couvent (carme) de Saint-Amand le 30 août ;; Prieur du couvent (carme) de Saint-Amand en ;; Provincial (carme) de France en ..
+University functions: Paris (Faculté de théologie : lecteur de la Bible (baccalarius biblicus) en ) ;; Paris (Faculté de théologie : Lecteur des Sentences (baccalarius sententiarius) en ) ;; Bourges (Faculté de théologie : Doyen ) ;; Bourges (Faculté de théologie : Doyen )..
+Authored work: 'In Sacrum Scripturam Lecturae', composed around ?.
+Authored work: 'In Divi Matthaei Evangelium Commentarius', composed around Leçon donnée quand il est provincial de France et doyen de la faculté de théologie de Bourges..
+Authored work: 'Directorium in Evangelium S. Matthaei', composed around ?.
+Authored work: 'In Divi Pauli Epistolas ad Corinthios Commentarius', composed around ?.
+Authored work: 'In Divi Pauli Epistola ad Romanos Commentarius', composed around ?.
+Authored work: 'De resumpcione suarum leccionum', composed around ?.
+Authored work: 'De supersticionibus', composed around ?.
+Authored work: 'De materia votorum', composed around Écrit en février ou ..
+Authored work: 'Sermones de tempore', composed around ?.
+Authored work: 'Sermones de sanctis', composed around ?.
+Authored work: 'Quadragesimale quoque', composed around ?.
+Authored work: 'De Conceptione B. Virginis Mariae', composed around ?.
+Authored work: 'Oraciones ad clerum', composed around ?.
+Authored work: 'De Fide Catholica', composed around ?.
+Authored work: 'De Summa Trinitate', composed around ?.
+Authored work: 'Notae in Constitutiones Ordinis Carmelitarum', composed around ?.
+Authored work: 'Concordantiae super quatuor primas Regulas Religiosorum', composed around ?.
+Authored work: 'De Mysterio Sanctissima Trinitatis', composed around ?.
+Authored work: 'Adversus Epicuraneos caeterosque Philosophos Ethicos', composed around ?.
+Authored work: 'In Decretalium Innocentii Papae', composed around ?.
+Authored work: 'Aliud opusculum super prefatum decretale', composed around ?.
+Authored work: 'In decretalem eiusdem de sacramento eucharistie', composed around ?.
+Authored work: 'In aliud decretalem eiusdem de fide, etc', composed around ?.
+Authored work: 'In Clementinas', composed around ?.
+Authored work: 'Historia sanctissime matris Anne, de ortu et nascencia eiusdem', composed around Ecrit en ..
+Authored work: 'Reportorium historiarium ex libris Valerij Maximi more alphabetico', composed around ?.
+Authored work: 'Compendium S. Augustini de Civitate Dei', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland et Anne Tournieroux ; révision Jean-Philippe Genet, 25/09/2023..

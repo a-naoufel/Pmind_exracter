@@ -1,0 +1,12 @@
+PERSON: BARTHOLOMAEUS Jacquemin
+Also known as: Bartholomeus JACQUEMIN.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1481-1481%.
+Born in: Lorraine ?.
+Diocese of origin: Diocèse de Metz..
+Studied at: Paris %1481-1481%..
+Academic grades obtained: Bachelier en décret (Paris) (le 23 février) ..
+Ecclesiastical positions held: Clerc..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 15/12/2020).

@@ -1,0 +1,10 @@
+PERSON: AMIANUS Bonnetier
+Also known as: Amianus BONNETIER.
+Description: Bachelier Décret.
+Status: Gradué.
+Gender: male.
+Active during: %1487-1487%.
+Diocese of origin: Diocèse de Thérouanne..
+Studied at: Paris %1487-1487%..
+Academic grades obtained: Bachelier Décret (Paris) (le 20 août) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournierox ; Jean-Philippe Genet, dernière mise à jour 23/07/2020)..

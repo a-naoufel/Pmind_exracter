@@ -1,0 +1,11 @@
+PERSON: SIMON 7
+Also known as: SIMON, archidiaconus Pissiacensis.
+Description: Maître en décret.
+Status: Maître.
+Gender: male.
+Active during: %1272-1272%.
+Studied at: Paris (Faculté de Décret) ..
+Academic grades obtained: Maître en décret (Paris) ..
+Ecclesiastical positions held: Archidiacre de Pincerais en l'église de Chartres ;; Chanoine de Chartres ;.
+University functions: Paris (Faculté de Décret : Maître régent en décret en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 4/11/2021..

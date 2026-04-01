@@ -1,0 +1,10 @@
+PERSON: CLAUDIUS Poculot
+Also known as: Claudius POCULOT.
+Description: Bedeau de la faculté de décret.
+Status: Suppôt.
+Gender: male.
+Active during: %1475-1492%.
+Studied at: Paris..
+Academic grades obtained: ?.
+University functions: Sousbedeau de la faculté de décret de Paris en ;; Procureur de la faculté de décret en %1475-1479% ;; Sousbedeau de la faculté de décret de Paris en %1479-1492%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 14/04/2021..

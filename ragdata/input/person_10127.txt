@@ -1,0 +1,11 @@
+PERSON: PETRUS de Lemovicis
+Also known as: Petrus de LEMOVICIS.
+Description: Notaire..
+Status: Incertain.
+Gender: male.
+Active during: %1327-1327%.
+Born in: Limousin ;.
+Diocese of origin: Diocèse de Tulle ;.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/08/2016..

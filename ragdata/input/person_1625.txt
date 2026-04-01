@@ -1,0 +1,22 @@
+PERSON: CHRISTIANUS Foliot
+Also known as: Christianus FOLIOT; Christianus FOELGOT; Christianus FOLLIOT.
+Description: Recteur de l'Université de Paris.
+Status: Gradué.
+Gender: male.
+Active during: %1460-1490%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse de Bayeux ;.
+Studied at: Paris (Nation de Normandie) %1460-1490% ;.
+Academic grades obtained: Licencié en théologie (Paris) (15 février) ..
+College affiliation: Collège d'Harcourt : grand boursier ;; Collège d'Harcourt : socius en ;; Collège d'Harcourt : principal en ;; Collège du Trésorier : hôte à partir de ..
+Academic relationships: Son maître est Aegidius LE MARIÉ..
+University functions: Lecteur de la Bible à Paris, 2 juillet ;; Recteur de l'Université de Paris élu par la Faculté des Arts le 10 octobre ;; Recteur de l'Université de Paris élu à nouveau par la Faculté des Arts le23 juillet ..
+Authored work: 'Commentarium in Aristotelem logica : De philosophia generali', composed around ?.
+Authored work: 'Commentarium in Aristotelem logica : Liber praedicabilium Porphyrii', composed around ?.
+Authored work: 'Commentarium in Aristotelem logica : Liber predicamentorum', composed around ?.
+Authored work: 'Commentarium in Aristotelem logica : Perihermenias', composed around ?.
+Authored work: 'Commentarium in Aristotelem logica : Libri Priorum', composed around ?.
+Authored work: 'Commentarium in Aristotelem logica : Libri Posteriorum', composed around ?.
+Authored work: 'Commentarium in Aristotelem logica : Libri Topicorum', composed around ?.
+Authored work: 'Commentarium in Aristotelem logica : Libri Elenchorum', composed around ?.
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

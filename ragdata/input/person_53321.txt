@@ -1,0 +1,9 @@
+PERSON: GUIDO Billet
+Also known as: Guy BILLET.
+Description: Avocat de l’évêque de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1444-1446%.
+Studied at: Paris..
+Academic grades obtained: Maître ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/01/2022..

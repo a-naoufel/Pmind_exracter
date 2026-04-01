@@ -1,0 +1,10 @@
+PERSON: PETRUS de Castello
+Also known as: Petrus de CASTELLO.
+Description: Chanoine d’Évreux.
+Status: Incertain.
+Gender: male.
+Active during: %1308-1331%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Évreux %1325-1331% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 19/03/2023)..

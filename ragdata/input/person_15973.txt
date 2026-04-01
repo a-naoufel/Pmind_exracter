@@ -1,0 +1,13 @@
+PERSON: DURANDUS Fabri
+Also known as: Durandus FABRI.
+Description: Bachelier en décret..
+Status: Gradué.
+Gender: male.
+Active during: %1474-1474%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse de Saint-Flour..
+Studied at: Paris %1474-1474%..
+Academic grades obtained: Bachelier en décret (Paris) (le 2 décembre) ..
+Ecclesiastical status: Clerc..
+University functions: Lecteur des Décrétales à Paris le 4 décembre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; Jean-Philippe Genet, dernière mise à jour 23/06/2021)..

@@ -1,0 +1,11 @@
+PERSON: THEODERICUS Nicolai
+Also known as: Theodoricus NICOLAI; Theodricus NYCOLAY de Castro.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1467-1467%.
+Born in: Pays-Bas (‘Castro’)? ;.
+Diocese of origin: Diocèse de Utrecht ;.
+Studied at: Paris (Nation Anglo-allemande) %1466-1467% ;.
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Source: RAG ;.

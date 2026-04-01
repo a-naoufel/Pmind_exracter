@@ -1,0 +1,11 @@
+PERSON: ARMANDUS de Narcesio
+Also known as: Armandus de NARCESIO; Armand de NARCES.
+Description: Archevêque d'Aix.
+Status: Extérieur.
+Gender: male.
+Active during: %1317-1348%.
+Studied at: Toulouse..
+Academic grades obtained: Docteur in utroque (Toulouse) ..
+Ecclesiastical positions held: Doyen de Chartres % -1329% ;; Archevêque d'Aix-en-Provence %1329-1348%..
+University functions: Toulouse : professeur de droit..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 15/10/2020..

@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Simonis
+Also known as: Guillelmus SIMONIS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1339-1339%.
+Born in: Provence ?.
+Diocese of origin: Diocèse de Valence..
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 31/05/2022..

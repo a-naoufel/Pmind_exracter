@@ -1,0 +1,9 @@
+PERSON: ARNALDUS de Anden
+Also known as: Arnaldus de ANDEN.
+Description: Nonce.
+Status: Suppôt.
+Gender: male.
+Active during: %1489-1489%.
+Studied at: Paris (Nation Anglo-allemande) ..
+University functions: Nonce pour le diocèse de Münster en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 29/10/2020)..

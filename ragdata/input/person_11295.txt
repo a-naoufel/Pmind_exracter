@@ -1,0 +1,12 @@
+PERSON: ROSTELLANUS de Castellione
+Also known as: Rostellanus DE CASTELLIONE; Rostellanus DE CHATILLON.
+Description: Clunisien.
+Status: Étudiant.
+Gender: male.
+Active during: %1343-1343%.
+Studied at: Paris (Collège de Cluny) %1343-1343%..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Boursier du Collège de Cluny ..
+Religious order: Clunisien : monastère (clunisien) de Montdidier (Diocèse d'Amiens)..
+Religious functions: Moine (clunisien) du prieuré de Montdidier (Diocèse d'Amiens)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 28/10/2018..

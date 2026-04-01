@@ -1,0 +1,15 @@
+PERSON: NICOLAUS de Fernham
+Also known as: Nicolaus de FERNHAM; Nicolas de FARNHAM; Nicolas de FERNEHAM; Nicolas de FULY; Nicolas de FLII.
+Description: Évêque de Durham.
+Status: Maître.
+Gender: male.
+Active during: %1200-1258%.
+Born in: Angleterre (Surrey ?) ;.
+Studied at: Oxford avant ;; Paris vers %1200-1220% ;; Bologne vers %1220-1225% ;.
+Academic grades obtained: Étudiant ès arts (Oxford) avant ;; Étudiant ès arts (Paris) ;; Maître ès arts (Paris) ? ;; Étudiant en théologie (Paris) ;; ?Étudiant en médecine (Bologne) ?..
+Academic relationships: Élève de Simon de TOURNAI..
+Ecclesiastical positions held: Recteur d'Aldenham (Hertfordshire), ;; Recteur d'Essendon (Hertfordshire), %1222-1241% ;; Evêque de Coventry élu en ;; Evêque de Durham, %1241-1249%..
+University functions: Paris (Maître enseignant les arts libéraux vers %1200-1215% et après ;; Bologne (Professeur de Médecine à Bologne vers %1220-1225%) ;; Paris (Maître enseignant le théologie vers ) ;; Oxford (Maître de logique et de philosophie naturelle vers ;; ?Professeur à l'Université de Cambridge ;.
+Authored work: 'De practica medicine', composed around ?.
+Authored work: 'De viribus herbarum', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 14/08/2023)..

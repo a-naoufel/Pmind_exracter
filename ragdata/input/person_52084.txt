@@ -1,0 +1,9 @@
+PERSON: SIMON Thomas
+Also known as: Simon THOMAS.
+Description: Bedeau de la Faculté de décret.
+Status: Suppôt.
+Gender: male.
+Active during: %1372-1372%.
+Studied at: Paris : Bedeau de la Faculté de décret en ..
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/03/2021..

@@ -1,0 +1,10 @@
+PERSON: ROGARIUS de Pratis
+Also known as: Rogerius de PRATIS.
+Description: Propriétaire d'une maison à Paris ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1282-1282%.
+Studied at: ?.
+Academic grades obtained: ?.
+Social origin: Bourgeois de Paris ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 31/08/2024)..

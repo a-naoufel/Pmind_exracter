@@ -1,0 +1,10 @@
+PERSON: HENRICUS de Neuham
+Also known as: Henricus de NEUHAM; Henricus de NEUANNE; Henri de NEVANNE.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1342-1342%.
+Born in: Angleterre ?.
+Studied at: Paris ..
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 15/11/2019..

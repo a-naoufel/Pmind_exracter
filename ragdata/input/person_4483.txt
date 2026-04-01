@@ -1,0 +1,10 @@
+PERSON: GUIDO de Castro
+Also known as: Guido de CASTRO; Guy de CASTRO.
+Description: Maître en médecine à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1484-1500%.
+Studied at: Paris %1484-1486:%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+University functions: Maîtrerégent de la Faculté de Médecine à Paris par intermittence à partir de ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 26/01/2022..

@@ -1,0 +1,15 @@
+PERSON: REGINALDUS de Remis
+Also known as: Renaud de REIMS; Reginaldus de REMIS.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1273-1273%.
+Born in: ?Champagne (Reims) ;.
+Diocese of origin: Diocèse de Reims ?.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris).
+College affiliation: Collège de Sorbonne : procureur ;.
+University functions: Paris (Faculté de Théologie : maître-Régent, mais ce n'est pas sûr...) ;.
+Authored work: '(Sermon pour le Dimanche de Sexagésime)', composed around (12 février) à Saint-Antoine..
+Authored work: '(Sermon pour le 4e Dimanche de l’Avent)', composed around ? à Saint-Bernard..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 12/11/2020)..

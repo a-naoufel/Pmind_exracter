@@ -1,0 +1,11 @@
+PERSON: RICARDUS Delier
+Also known as: Richard DELIER.
+Description: Boursier du Collège de Laon..
+Status: Étudiant.
+Gender: male.
+Active during: %1392-1392%.
+Born in: Picardie ?.
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Laon : reçu en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 14/12/2020..

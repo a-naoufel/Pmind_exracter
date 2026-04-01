@@ -1,0 +1,10 @@
+PERSON: PETRUS de Cuisy 2
+Also known as: Petrus de CUISY; Petrus de QUISY.
+Description: Procureur de la Sorbonne.
+Status: Étudiant.
+Gender: male.
+Active during: %1312-1318%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Sorbonne : procureur en %1312-1318% ;; Voir son appel en (11 novembre) d’une délibération de la faculté des arts favorable à ce que Galterius de ANCIACO (Gautier d’Ansy), maître en théologie, puisse continuer à enseigner dans des écoles contigües à une maison de la Sorbonne ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 28/03/2023 ;.

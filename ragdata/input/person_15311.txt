@@ -1,0 +1,15 @@
+PERSON: CONO d'Estavayer
+Also known as: Conon d'ESTAVAYER.
+Description: Prévôt de Lausanne.
+Status: Étudiant.
+Gender: male.
+Active during: %1200-1243%.
+Born in: Savoie (Estavayer-le-Lac) ?.
+Diocese of origin: Diocèse de Lausanne ?.
+Studied at: Paris %1212-1215% et %1222-1223%..
+Academic grades obtained: Étudiant (Paris) ?.
+Family relationships: Fils des Sires d'ESTAVAYER..
+Social origin: Noble ?.
+Ecclesiastical positions held: Chanoine de Lausanne %1200-1243% ;; Prévôt de Lausanne %1202-1243%..
+Authored work: '(Cartulaire de Lausanne)', composed around %1202-1243%..
+Source: http://www.hls-dhs-dss.ch/textes/f/F12612.php.

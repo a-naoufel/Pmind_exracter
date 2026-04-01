@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Clermont
+Also known as: Guillelmus de CLERMONT; Guillermus de CLERMONT; Guillaume de CLERMONT; Guillaume FRETOLIN.
+Description: Docteur en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1509-1513%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse de Clermont..
+Studied at: Paris (Nation de France) %1510-1513%..
+Academic grades obtained: Maître ès arts (Paris) ;; Docteur en décret (Paris) ;; Étudiant en théologie (Paris) ..
+College affiliation: Collège de Navarre : étudiant %1509-1512%..
+Ecclesiastical status: Prêtre du diocèse de Clermont..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/03/2022)..

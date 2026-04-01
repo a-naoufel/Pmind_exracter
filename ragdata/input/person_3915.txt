@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Guistoch
+Also known as: Guillelmus GUISTOCH.
+Description: Étudiant en décret.
+Status: Incertain.
+Gender: male.
+Active during: %1385-1385%.
+Born in: Bretagne ;.
+Diocese of origin: Diocèse de Quimper..
+Studied at: ?.
+Academic grades obtained: Étudiant en décret (Paris) ?.
+Ecclesiastical status: Clerc du diocèse de Quimper..
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus de Walter TRAYL en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 6/12/2021..

@@ -1,0 +1,70 @@
+PERSON: ROBERTUS Kilwardby
+Also known as: Robert de KILWARDBY.
+Description: Archevêque de Canterbury.
+Status: Maître.
+Gender: male.
+Active during: %1235-1279%.
+Born in: Angleterre (?Leicestershire)..
+Studied at: Paris %1231-1245% ;; Oxford..
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en théologie (Oxford) vers ;; Docteur en théologie (Oxford) vers ..
+Religious order: O.P. ; frère dominicain ;.
+Religious functions: Provincial (dominicain) d'Angleterre %1261-1272%..
+Ecclesiastical positions held: Archevêque de Canterbury %1272-1279% ;; Cardinal-évêque de Porto (Santa-Rufina) %1278-1279%..
+University functions: Paris (Faculté des Arts : maître-régent %1237-1245% environ) ;; Oxford (Faculté de Théologie : maître-régent du couvent (dominicain) d'Oxford %1256-1261%).; Oxford (Université : il révise en les statuts de MertonCollege (Oxford) lors de sa visitation de l'Université)..
+Representation roles: Il prend part en au Concile de Lyon..
+Authored work: 'Quaestiones in libros I-IV Sententiarum', composed around %1252-1254%.
+Authored work: 'Concordantia ad libros Sententiarum', composed around ?.
+Authored work: 'Tabulae in Sententias, seu de divisione capitulorum Sententiarum', composed around ?.
+Authored work: 'Tabula de Concordantiis librorum Sententiarum', composed around ?.
+Authored work: 'Intentiones (seu Conclusiones vel Capitula) Patrum', composed around ?.
+Authored work: 'Tabulae Patrum', composed around ?.
+Authored work: 'Tabula de concordantiis quorundam originalium Patrum', composed around ?.
+Authored work: 'Quaestio de necessitate Incarnationis', composed around ?.
+Authored work: 'De passione Christi', composed around ?.
+Authored work: 'De confessione, satisfactione, misericordia', composed around ?.
+Authored work: 'Arbor consanguinitatis', composed around ?.
+Authored work: 'De imagine et vestigio Trinitatis', composed around ?.
+Authored work: 'Declaratio 43 quaestionum ad magistrum generalem', composed around .
+Authored work: 'Responsio ad Petrum de Confleto', composed around ..
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Comm. in Isagoge Porphyrii', composed around ?.
+Authored work: 'Comm. in Categorias Aristotelis', composed around ?.
+Authored work: 'Syncategoremata', composed around ?.
+Authored work: 'Comm. in libr. Priorum analyticorum', composed around ?.
+Authored work: 'Comm. in lib. Posteriorum Analyticorum', composed around ?.
+Authored work: 'Comm. in lib. Elenchorum', composed around ?.
+Authored work: 'Comm. in lib. Perihermenias', composed around ?.
+Authored work: 'Scriptum super libro Topicorum', composed around ?.
+Authored work: 'Super Aristotelis Praedicamenta'.
+Authored work: 'Sophismata', composed around ?.
+Authored work: 'Comm. in Summulas logicales Petri Hispani', composed around ?.
+Authored work: 'Glossulae super tractatione mag. Petri Hispani', composed around ?.
+Authored work: 'De spiritu imaginativo, seu de facultatibus animae', composed around ?.
+Authored work: 'De praedicamento relationis', composed around ?.
+Authored work: 'De modis significandi', composed around ?.
+Authored work: 'De tempore', composed around ?.
+Authored work: 'Tractatus de conscientia et de synderesi', composed around ?.
+Authored work: 'Divisiones super Boetium', composed around ?.
+Authored work: 'De lingua', composed around ?.
+Authored work: 'Lectura super librum Sex Principiorum', composed around ?.
+Authored work: 'De ortu scientiarum', composed around ?..
+Authored work: 'Comment. in Priscianum majorem', composed around ?.
+Authored work: 'Comm. in Priscianum minorem', composed around ?.
+Authored work: 'Comm. in Barbarismum Donati', composed around ?.
+Authored work: 'Comm. in De accentibus Prisciani', composed around ?.
+Authored work: 'Quaestiones in libros I-VII Physicorum', composed around Avant.
+Authored work: 'Comment. in lib. Meteororum', composed around ?.
+Authored work: 'Comment. in lib. de Generatione et Corruptione', composed around ?.
+Authored work: 'Comment. in parva naturalia Aristotelis', composed around ?.
+Authored work: 'Quaestiones in libros I-X Metaphysicae', composed around vers %1250-1256%.
+Authored work: 'Comment. in libros de anima', composed around ?.
+Authored work: 'Comment. in lib. de Coelo et Mundo', composed around ?.
+Authored work: 'Tabula super lib. Algazelis', composed around ?.
+Authored work: 'Tabula de rubricis Decretalis', composed around ?.
+Authored work: 'Errores 30 damnati', composed around .
+Authored work: 'Epistolae', composed around ?.
+Authored work: 'Constitutiones', composed around ?.
+Authored work: 'Commentarium in Aristotelis Ethicam', composed around ?.
+Authored work: 'Tabula super lib. De Civitate Dei', composed around ?.
+Authored work: 'Epistola ad novitios de excellentia ordinis Praedicatorum', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Clare Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 21/12/2020..

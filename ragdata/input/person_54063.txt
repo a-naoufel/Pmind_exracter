@@ -1,0 +1,9 @@
+PERSON: ROBERTUS Oliverii
+Also known as: Rupertus OLIVERII.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1424-1432%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : 15/08/2022..

@@ -1,0 +1,9 @@
+PERSON: PETRUS Davidis 1
+Also known as: Petrus DAVIDIS.
+Description: Maître d'école.
+Status: Suppôt.
+Gender: female.
+Active during: %1380-1380%.
+Studied at: Paris..
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 08/08/2023)..

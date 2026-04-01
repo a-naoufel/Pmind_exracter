@@ -1,0 +1,9 @@
+PERSON: GALTERIUS Lathomi
+Also known as: Galtherus LATHOMI.
+Description: Détenteur d’une maison.
+Status: Extérieur.
+Gender: male.
+Active during: %1288-1288%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/11/2021..

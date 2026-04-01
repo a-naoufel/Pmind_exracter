@@ -1,0 +1,13 @@
+PERSON: NICOLAUS de Hans
+Also known as: Nicolaus de HANS.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1250-1250%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Châlons ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Sous-diacre ;.
+Ecclesiastical positions held: Chanoine de Reims au XIIIe siècle ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/08/2021..

@@ -1,0 +1,26 @@
+PERSON: ANDALUS de Negro
+Also known as: Andalo di NEGRO.
+Description: Professeur.
+Status: Extérieur.
+Gender: male.
+Active during: %1285-1334%.
+Born in: Gênes..
+Studied at: ?.
+Family relationships: Son père est Egidio DINEGRO ; Son frère est Carlotto DINEGRO, "uffiziale di mare" et proche de Benedetto ZACCARIA..
+Social origin: Noble, il appartient à la grande famillegénoise DiNegro..
+University functions: Professeur non pas à Florence, comme le prétend Giovanni BOCCACCIO, mais certainement à Naples, comme semble le démontrer le salaire annuel de six onces d'or versé par la monarchie angevine qui servait en partie à rémunérer cette activité et où Giovanni BOCCACCIO a pu entendre ses cours, notamment en %1333-1334%..
+Representation roles: Ambassadeur en de la République de Gênes auprès de l'empereur de Trébizonde, Alexis COMNENE..
+Authored work: 'De compositione astrolabii (Opus preclarissimum astrolabii compositum a domino Andalo de Nigro genuensi [incunable])', composed around ?.
+Authored work: 'Hic incipit practica astrolabij et primo de nominibus instrumenti', composed around ?.
+Authored work: 'De operationibus scale quadrantis in astrolabio scripte', composed around ?.
+Authored work: 'Tractatus sphere materialis', composed around ?.
+Authored work: 'Alius Tractatus de Sphera liber secundus', composed around ?.
+Authored work: 'Theorica planetarum', composed around ?.
+Authored work: 'Theorica distantiarum omnium spherarum et planetarum a terra et magnitudinem eorum', composed around ?.
+Authored work: 'Canones super Almanach Profatii', composed around .
+Authored work: 'Tabula astronomica', composed around ?.
+Authored work: '(Commentaire sur le Centiloquim, c. 51)', composed around ?.
+Authored work: 'Centiloquium Andali Nigri Genuensis', composed around ?.
+Authored work: 'Introductorium ad judicia astrologiae', composed around ?.
+Authored work: 'De infusione spermatis', composed around ?.
+Source: http://www.treccani.it/enciclopedia/andalo-di-negro_(Dizionario-Biografico)/ (M. MUCILLO).

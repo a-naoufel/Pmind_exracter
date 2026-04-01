@@ -1,0 +1,11 @@
+PERSON: REGINALDUS de Donnobenigno
+Also known as: Reginaldus de DONNOBENIGNO.
+Description: Official de Châlons.
+Status: Incertain.
+Gender: male.
+Active during: %1296-1301%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Montfaucon ?.
+Other ecclesiastical functions: Official de Châlons-en-Champagne %1296-1301% ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/06/2025.

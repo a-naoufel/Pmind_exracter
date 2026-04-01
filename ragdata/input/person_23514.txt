@@ -1,0 +1,15 @@
+PERSON: THEODERICUS Thiefaine 1
+Also known as: Thierry THIEFAINE.
+Description: Avocat au Châtelet de Paris.
+Status: Maître.
+Gender: male.
+Active during: %:1378-1417%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Meaux..
+Studied at: Paris %:1378-1417% ;; Orléans %1378-1380%..
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en décret (Paris) ;; Bachelier in legibus (Orléans) ;.
+College affiliation: Collège de Dormans-Beauvais : avocat ;.
+Family relationships: Son neveu est Thierry THIEFAINE, hôte du Collège de Dormans-Beauvais ;.
+Ecclesiastical status: Clerc du diocèse de Meaux..
+University functions: Orléans, lecteur "in secundo volumine" en ;.
+Source: LAMOP : Opération Charles VI (n° 2442) :.

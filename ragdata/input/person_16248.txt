@@ -1,0 +1,11 @@
+PERSON: ALBERTUS Hugonis 2
+Also known as: Albertus HUGONIS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+College affiliation: Collège de Navarre en ;.
+Family relationships: Son parent est (peut-être) le Magister Johannes HUGONIS qui paye sa contribution à la collecte de en même temps que lui ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/06/2020)..

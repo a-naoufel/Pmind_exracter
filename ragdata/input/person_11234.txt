@@ -1,0 +1,11 @@
+PERSON: ROGARIUS de Bruge
+Also known as: Roger de BRUGE.
+Description: Fellow de University College.
+Status: Extérieur.
+Gender: male.
+Active during: %1307-1307%.
+Born in: Angleterre..
+Studied at: Oxford..
+Academic grades obtained: Maître ès arts (Oxford)..
+University functions: Oxford (University College : fellow )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019).

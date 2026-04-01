@@ -1,0 +1,12 @@
+PERSON: ASTORGIUS d'Ugnouas
+Also known as: Astorgius d'UGNOUAS.
+Description: Chanoine de Nesles.
+Status: Étudiant.
+Gender: male.
+Active during: %1349-1354%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse de Saint-Flour.
+Studied at: Paris (Faculté de Décret) en ;.
+Academic grades obtained: Étudiant en décret (Paris) ;; Étudiant en droit civil en ..
+Ecclesiastical positions held: Candidat à un canonicat avec expectative de prébende à l'églisecollégiale de Liège (Saint-Barthélemy) en ;; Chanoine de l'églisecollégiale de Liège (Saint-Barthélemy) en ;; Chanoine de Nesles (diocèse de Noyon) %1354- %..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 22/10/2020)..

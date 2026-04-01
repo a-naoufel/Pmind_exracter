@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Feukeriis
+Also known as: Guillaume de FEUQUIERES.
+Description: Chanoine d'Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1250-1250%.
+Studied at: Magister ?.
+Academic grades obtained: Maître en théologie (?) d'après le nécrologe d'Amiens ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d'Amiens au XIIIe siècle ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 12/03/2020..

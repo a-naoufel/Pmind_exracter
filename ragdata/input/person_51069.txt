@@ -1,0 +1,10 @@
+PERSON: HUGO de Monnayo
+Also known as: Hugo de MONNAYO.
+Description: Maître d’école.
+Status: Maître.
+Gender: male.
+Active during: %1437-1437%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts ( ?Paris)..
+Ecclesiastical status: Prêtre..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 1/09/2020..

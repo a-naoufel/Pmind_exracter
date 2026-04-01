@@ -1,0 +1,15 @@
+PERSON: GALFREDUS Calvi
+Also known as: Gauffridus CALVI; Gauffridus LE CHAUVE; Godefridus CALVI; Geoffroy LE MOAL.
+Description: Recteur de l'Université de Paris..
+Status: Maître.
+Gender: male.
+Active during: %1443-1464%.
+Born in: Touraine..
+Diocese of origin: Diocèse de Tours..
+Studied at: Paris (Nation de France) %1443-1464% ;.
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en théologie (Paris) ;; Licencié en théologie (Paris) (13 février) ;; Maître en théologie (Paris) (8 janvier) ..
+College affiliation: Collège de Cornouailles : %1445-1451% au moins ;; Collège de Cornouailles : maître-régent attesté en (9 janvier) ;.
+Academic relationships: Son élève est Anthonius GUERRY en et en ; Son élève est Guillelmus de PLACENCIA, maître ès arts, en ; Son élève est Guillelmus BOUILLÉ en ..
+University functions: Paris (Nation de France : procureur élu en (23 septembre) et prolongé le 21 octobre) ;; Paris (Nation de France : il est candidat au rectorat en (16 décembre), mais il est battu) ;; Paris (Nation de France : Maître-régent ès arts en %1445-1446% ?) ;; Paris (Nation de France : désigné comme "quodlibetarius" en (14 octobre )) ;; Paris (Nation de France : il assiste à l’audit des comptes de la Nation de France en (26 janvier) ;; Paris (Nation de France : il assiste à l’audit des comptes de la Nation de France en (8 janvier)) ;; Paris (Nation de France : élu receveur en (9 janvier) ;; Paris (Nation de France : Maître-régent ès arts en %1448-1449% ?) ;; Paris (Nation de France ; il assiste à l’audit des comptes de la Nation de France en (29 juin)) ;; Paris (Université : Recteur élu en (15 décembre)) ;; Paris (Université : Recteur élu en %1456 (23 juin)) ;; Paris (Nation de France ; un des officiels de la Nation de France lors de la réunion avec le paveur pour la rue de Fouarre à Paris, 28 septembre ) ;; Paris (Université : il est chargé de négocier, au nom de l'Université de Paris, avec l'évêque de Paris en (26 septembre)) ;; Paris (Nation de France : désigné comme "quodlibetarius" en (14 novembre )) ;; Paris (Faculté de Théologie : Lecteur de la Bible à Paris, comme bachelier en théologie, 11 mars ) ;; Paris (Faculté de Théologie : Lecteur des Sentences à Paris en septembre ) ;; Paris (Faculté des Arts : un des maîtres de la Faculté choisis pour rendre visite à l'abbé de Saint-Germain-des-Près à Paris concernant le pâturage des moutons au Près-aux-Clercs, 4 février ) ;; Paris (Faculté de Théologie : Maîtrerégent en (septembre)) ;; Paris (Faculté de Théologie : Maîtrerégent en (septembre)) ;; Paris (Faculté de Théologie : Maîtrerégent en (septembre)) ;; Paris (Faculté de Théologie : Maîtrerégent en (septembre)) ;; Paris (Université : vice-chancelier de Paris durant sa régence, %1460-1464%) ;.
+Authored work: '[Sermons]', composed around .
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol et Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 1/10/2021..

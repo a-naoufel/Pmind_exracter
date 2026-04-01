@@ -1,0 +1,10 @@
+PERSON: MATTHAEUS de Campis
+Also known as: Matthaeus de CAMPIS; Mathieu des CHAMPS.
+Description: Évêque de Chartres.
+Status: Extérieur.
+Gender: male.
+Active during: %1247-1259%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Évêque de Chartres %1247-1259% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 17/09/2023)..

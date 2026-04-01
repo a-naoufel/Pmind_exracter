@@ -1,0 +1,11 @@
+PERSON: GERARDUS Aymerici
+Also known as: Geraldus AYMERICI.
+Description: Prieur provincial augustin de Provence.
+Status: Extérieur.
+Gender: male.
+Active during: %1366-1366%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.E.S.A : frère augustin..
+Religious functions: Prieurprovincial (augustin) de Provence en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 4/02/2021)..

@@ -1,0 +1,14 @@
+PERSON: PETRUS Alamanni 1
+Also known as: Petrus ALAMANNI.
+Description: Évêque de Fréjus.
+Status: Incertain.
+Gender: male.
+Active during: %1322-1348%.
+Born in: Auvergne (Clermont) ;.
+Diocese of origin: Diocèse de Clermont ?.
+Studied at: ?.
+Academic grades obtained: Maître ;; Docteur in utroque jure ;.
+Family relationships: Son frère est Aymericus ALAMANNI, chanoine de Clermont ;.
+Social origin: Bourgeoisie ;.
+Ecclesiastical positions held: Chanoine de Clermont %1328-1338% ;; Archidiacre de Brioude en la cathédrale de Clermont %1331-1332% ;; Chanoine d'Autun %1332- % ;; Chanoine de Bourges %1333-1335% ;; Chanoine de Châlons %1333-1335% ;; Doyen de Brioude %1344-1346% ;; Chanoine de Paris (Notre-Dame) %1340-1346% ;; Chanoine de Rouen % -1346% ;; Évêque de Fréjus %1346-1348% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 17/11/2021..

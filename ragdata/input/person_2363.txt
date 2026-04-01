@@ -1,0 +1,17 @@
+PERSON: FRANCO Coloniensis
+Also known as: Francon de COLOGNE; Franco PARISIENSIS; Franco TEUTONICUS.
+Description: Musicien.
+Status: Maître.
+Gender: male.
+Active during: %1250-1275%.
+Born in: Rhénanie (?Cologne)..
+Studied at: ?Paris..
+Academic grades obtained: ?Magister.
+Academic relationships: Noble ?.
+Religious functions: PrécepteurdesHospitaliers de Cologne (St-Jean de Jérusalem) ?.
+Ecclesiastical positions held: Maîtredechapelle de Paris (Notre-Dame) ?.
+Authored work: '(Traité "Gaudent brevitate moderni")', composed around ?.
+Authored work: 'Ars cantus mensurabilis', composed around ?.
+Authored work: '(Traité Compendium discantus)', composed around ?%1270-1280%..
+Authored work: 'Motet', composed around ?.
+Source: Mirabile : http://www.mirabileweb.it/author/franco-coloniensis-fl-1260-1290-author/19730 ;.

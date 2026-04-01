@@ -1,0 +1,9 @@
+PERSON: GALFREDUS Chalot
+Also known as: Galfridus CHALOT; Gaufridus CHALOT.
+Description: "Non scolaris".
+Status: Extérieur.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 1/10/2021..

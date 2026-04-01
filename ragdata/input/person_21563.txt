@@ -1,0 +1,11 @@
+PERSON: G. Larcastus
+Also known as: G. LARCASTUS.
+Description: Étudiant en théologie ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1310-1310%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant en théologie ?.
+College affiliation: Sorbonne ?.
+Authored work: 'Compendium libri de regimine principum', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 19/11/2016..

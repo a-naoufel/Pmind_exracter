@@ -1,0 +1,12 @@
+PERSON: MATTHAEUS de Mediolano
+Also known as: Matthaeus de MEDIOLANO.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1334-1334%.
+Born in: Italie (Lombardie : Milan ?)..
+Diocese of origin: Diocèse de Milan ?.
+Studied at: Paris (Nation de France ?) ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège des Lombards : l'un des dix premiers boursiers lors de la fondation du collège..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 17/09/2023..

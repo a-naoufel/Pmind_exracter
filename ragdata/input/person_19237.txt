@@ -1,0 +1,7 @@
+PERSON: PETRUS Comitis 1
+Also known as: Petrus COMITIS; Pierre LECOMTE.
+Description: Serviteur de Marie de Blois.
+Status: Extérieur.
+Gender: male.
+Active during: %1395-1402%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 9/10/2020)..

@@ -1,0 +1,9 @@
+PERSON: CLEMENS 3
+Also known as: CLEMENS.
+Description: "Scriptor".
+Status: Extérieur.
+Gender: male.
+Active during: %1280-1280%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction, Jean-Philippe Genet, 15/04/2021..

@@ -1,0 +1,11 @@
+PERSON: ANTHONIUS de GomberInes
+Also known as: Anthonius de GOMBERINES; Anthonius de GOMBERMES.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1505-1514%.
+Studied at: Paris ?.
+Academic grades obtained: Maître ès arts (Paris) ;.
+College affiliation: Collège de Dainville : hôte en %1505-1506% ;.
+Ecclesiastical positions held: Prêtre ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

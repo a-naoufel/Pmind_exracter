@@ -1,0 +1,70 @@
+PERSON: HERVEUS Natalis
+Also known as: Herveus NATALIS; Hervaeus NATALIS; Hervé NEDELLEC; Hervé NOEL.
+Description: Maître dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1280-1323%.
+Born in: Bretagne (Tréguier)..
+Diocese of origin: Diocèse de Tréguier..
+Studied at: Paris %:1302:-:1309:%..
+Academic grades obtained: Bachelier Sent. (Paris) %1302-1303% ;; Licencié en théologie (Paris) ;; Maître en théologie (Paris) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P., frère dominicain du couvent (dominicain) de Morlaix en ..
+Religious functions: Prieurprovincial (dominicain) de France %1309-1318% ;; Maîtregénéral des Dominicains %1318-1323%..
+University functions: Paris (Faculté de Théologie : Lecteur des Sentences au Couvent Saint-Jacques à Paris) ;; Paris (Faculté de Théologie : Maîtrerégent de la faculté de Théologie à l'Université de Paris, %1307-1309%) ;.
+Authored work: 'In quatuor libros Sententiarum Comment.', composed around %1303-1304% (lectura), (Ordinatio) ?.
+Authored work: '[Contra I-II et IV Sent. Jacobi Metensis]', composed around ?%1302-1310%?.
+Authored work: '[Censure des 93 articles de Durand de Saint-Pourçain]', composed around .
+Authored work: 'Opinio de difficultatibus contra doctrinam fratris Thomae', composed around %1304-1307%.
+Authored work: 'Tractatus de peccato orignali', composed around .
+Authored work: 'Tractatus de beatitudine', composed around %1307-1309%.
+Authored work: 'Tractatus de virtutibus', composed around %1307-1309%.
+Authored work: 'Tractatus de relationibus', composed around ?.
+Authored work: 'Tractatus de aeternitate mundi', composed around ?.
+Authored work: 'Tractatus de cognitione primi principii', composed around ?.
+Authored work: 'Tractatus de materia coeli', composed around ?.
+Authored work: 'Tractatus de personis divinis', composed around ?.
+Authored work: 'Quodlibet I', composed around .
+Authored work: 'Quodlibet II', composed around .
+Authored work: 'Quodlibet III', composed around .
+Authored work: 'Quodlibet IV', composed around ?.
+Authored work: 'Quodlibet VI', composed around ?.
+Authored work: 'Quodlibet VII', composed around ?.
+Authored work: 'Quodlibet VIII', composed around ?.
+Authored work: 'Quolibet IX', composed around ?.
+Authored work: 'Quaestio de relatione Dei ad creaturas contra Durandum', composed around %1308-1309%.
+Authored work: 'Quaestio de unitate theologiae', composed around %1308-1314%.
+Authored work: 'Quaestio de frui et uti super primam dist. I libri Sent.', composed around ?.
+Authored work: 'Quaestiones variae', composed around ?.
+Authored work: 'Reprobationes excusationum Durandi', composed around .
+Authored work: 'De articulis pertinentibus ad quatuor libros Sent. Durandi', composed around %1314-1316%.
+Authored work: 'Correctiones super dicta Durandi in I° Quolibet Avenionensi', composed around .
+Authored work: 'Evidentiae contra Durandum super quartum Sententiarum', composed around .
+Authored work: 'De motu angeli', composed around ?.
+Authored work: 'De processione spiritus Sancti', composed around ?.
+Authored work: 'Sermo quem fecit mag. Herveus Brito de ord. pred., doctor in theologia, de Trinitate', composed around ?.
+Authored work: 'Tractatus de formis', composed around ?%1301-1307%?.
+Authored work: '[Determinationes. De quattuor materiis contra Henricum Gandavensem. I : De formis ; II : De esse et essentia ; III : De intellectu et specie ; IV : De voluntate et intellectu, additis in quibusdam codicibus ; V : De voto religiosorum necnon aliquibus qq. separatis (De materia et forma, De peccato veniali)]', composed around %1302-1307%.
+Authored work: 'Tractatus de verbo', composed around %1307-1309%.
+Authored work: 'De secundis intentionibus', composed around %:1309:-:1316:%.
+Authored work: 'Super Aristotelis Perihermeneias libros II', composed around ?.
+Authored work: 'De iurisdictione et exemptione religiosorum', composed around .
+Authored work: 'Dicta de dissolubilitate matrimonii non consummati per susceptionem ordinis', composed around .
+Authored work: 'Litterae encyclicae ad Ord. Praed.', composed around %1318-1323%.
+Authored work: 'Ordinationes pro mon. de Subtilia apud Columbarium', composed around à Spire.
+Authored work: 'Confirmat ea quae disposuit fr. Egno prior prov. Teut. de numero sororum recipiendarum in mon. Coronae Coeli propre Wormatiam', composed around à Worms.
+Authored work: 'Litterae ad priores conv. Moguntin. et Wormat.', composed around à Metz.
+Authored work: 'Litterae ad mon. Turicense de Oetenbach de iure sepulturae', composed around .
+Authored work: 'Ordinationes circa sorores portantes habitum O. Senis', composed around à Florence.
+Authored work: 'Litterae ad mon. in Subtilia apud Columbarium', composed around .
+Authored work: 'Litterae confraternitatis spir. pro d. Sybotone et d. Brigida', composed around à Vienne.
+Authored work: 'De potestate papae', composed around %1317-1318%.
+Authored work: 'De paupertate Christi et Apostolorum', composed around .
+Authored work: 'Epilogus mag. Ervei Britonis super novam logicam', composed around ?.
+Authored work: 'Comm. in lib. I-II Perihermenias (I)', composed around ?.
+Authored work: 'Logica vetus', composed around ?.
+Authored work: 'Responsiones propositionum communium mag. Hervei Britonis', composed around ?.
+Authored work: 'Super Communitatibus Porphyrii', composed around ?.
+Authored work: 'Super librum Divisionum Boetii', composed around ?.
+Authored work: 'Super Predicamenta', composed around ?.
+Source: MIRABILE :.

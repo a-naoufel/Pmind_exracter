@@ -1,0 +1,10 @@
+PERSON: PETRUS 4
+Also known as: PETRUS.
+Description: Archidiacre de Beauvais.
+Status: Incertain.
+Gender: male.
+Active during: %1237-1237%.
+Studied at: ?.
+Academic grades obtained: Magister..
+Ecclesiastical positions held: Archidiacre de Beauvais %1237- %.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/04/2021)..

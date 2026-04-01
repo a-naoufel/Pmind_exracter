@@ -1,0 +1,10 @@
+PERSON: AEGIDIUS Le Forestier
+Also known as: Aegidius LEFORESTIER.
+Description: Écolier du collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1394-1395%.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant..
+College affiliation: Collège de Dormans-Beauvais : boursier en %1394-1395% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 05/05/2020)..

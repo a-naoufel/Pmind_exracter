@@ -1,0 +1,29 @@
+PERSON: FRANCISCUS de Prato
+Also known as: Franciscus de PRATO.
+Description: Dominicain.
+Status: Incertain.
+Gender: male.
+Active during: %1330-1345%.
+Born in: Toscane (Alberona, près de Prato)..
+Studied at: Pérouse ;.
+Academic grades obtained: Bachelier en théologie (Pérouse) ..
+Religious order: O.P. : frère dominicain..
+Religious functions: Prédicateur-général des Dominicains ;; Prieur (dominicain) de Florence %1341-1343%..
+University functions: Sienne (Couvent dominicain : lecteur %1338-1339%) ;; Florence (Couvent dominicain : lecteur %1340-1341%) ;; Pérouse (Couvent dominicain : lecteur %1343-1345%)..
+Authored work: 'De dictione reduplicativa', composed around ?.
+Authored work: 'De suppositione terminorum', composed around ?.
+Authored work: 'De ente rationis (art.5 :De voce univoca)', composed around ?.
+Authored work: 'De intentionibus (de prima et secunda intentione)', composed around ?.
+Authored work: 'Liber de intentionibus (Declarationes ad totam logicam sive Liber de secundis intentionibus)', composed around ?.
+Authored work: 'De sex transcendentibus', composed around ?.
+Authored work: 'De universalibus', composed around ?.
+Authored work: 'Logica (pars I, tract. 1-4)', composed around ?.
+Authored work: 'Quaestio disputata', composed around ?.
+Authored work: 'Quaestiones 34 (secundum Francisco de Prato)', composed around ?.
+Authored work: 'De dictionibus distributivis', composed around ?.
+Authored work: 'De connexione accidentis cum substantia', composed around ?.
+Authored work: 'De dictione syncategorematica', composed around ?.
+Authored work: 'De toto integrali', composed around ?.
+Authored work: 'De veritate et falsitate', composed around ?.
+Authored work: 'Tractatus de praedicatione rei de re', composed around ?.
+Source: MIRABILE : http://www.mirabileweb.it/author/franciscus-de-prato-v-1330-1345-author/2615 ;.

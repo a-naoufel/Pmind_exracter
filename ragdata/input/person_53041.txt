@@ -1,0 +1,11 @@
+PERSON: RADULPHUS de Fossatis
+Also known as: Radulphus de FOSSATIS; Radulphus BRETON; Radulphus DES FOSSES.
+Description: Chanoine d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1299-1320%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d’Amiens %1299-1319% ;; Écolâtre d’Amiens ;; Archidiacre de Ponthieu %1319-1320% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 1/12/2021..

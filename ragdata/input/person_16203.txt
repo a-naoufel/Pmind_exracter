@@ -1,0 +1,8 @@
+PERSON: AEGIDIUS Havart
+Also known as: Aegidius HAVART.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1455-1455%.
+Studied at: Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 27/01/2020..

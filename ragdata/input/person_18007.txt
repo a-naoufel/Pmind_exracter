@@ -1,0 +1,9 @@
+PERSON: ROLANDUS Gauthier
+Also known as: Roulant GAUTHIER.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1368-1368%.
+Studied at: Paris..
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 10/02/2019..

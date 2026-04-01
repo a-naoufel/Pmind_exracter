@@ -1,0 +1,9 @@
+PERSON: AEGIDIUS de Stanno
+Also known as: Aegidius de STANNO.
+Description: Maître ?.
+Status: Maître.
+Gender: male.
+Active during: %1427-1429%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 03/05/2020)..

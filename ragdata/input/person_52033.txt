@@ -1,0 +1,12 @@
+PERSON: HERVEUS de Villanova 2
+Also known as: Herveus de VILLANOVA.
+Description: Dominicain.
+Status: Gradué.
+Gender: male.
+Active during: %1437-1437%.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en théologie (Paris) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins) en ?.
+Religious order: O.P. : frère dominicain..
+University functions: Paris (Faculté de Théologie : lecteur des Sentences au couvent dominicain en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/03/2021)..

@@ -1,0 +1,12 @@
+PERSON: GERLACUS de Wetsalaria
+Also known as: Gerlacus de WETSALARIA; Gerlach von WETZLAR.
+Description: Prévôt de Volkermarck.
+Status: Étudiant.
+Gender: male.
+Active during: %1290-1304%.
+Born in: Rhénanie (Hesse : Wetzlar ?)..
+Studied at: Paris vers ..
+Academic grades obtained: Étudiant (Paris) vers ;; Magister ;.
+Ecclesiastical positions held: Prévôt de Völkermarkt ;.
+Other ecclesiastical functions: Protonotaire de l'archevêque de Salzbourg en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 29/10/2019..

@@ -1,0 +1,12 @@
+PERSON: ANTONIUS Aldebaudi
+Also known as: Antonius ALDEBAUDI.
+Description: Clerc.
+Status: Extérieur.
+Gender: male.
+Active during: %1341-1345%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse de Saint-Flour ;.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical status: Clerc du diocèse de Saint-Flour ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

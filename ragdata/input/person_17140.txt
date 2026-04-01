@@ -1,0 +1,12 @@
+PERSON: ADENOFFLION Polin
+Also known as: Adenofflion dit POLIN.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1357-1357%.
+Born in: Artois..
+Diocese of origin: Diocèse de Thérouanne..
+Studied at: Paris (Nation de Picardie ?) ..
+Academic grades obtained: Étudiant à la Faculté des Arts en ..
+College affiliation: Collège de Boncourt ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 17/04/2020..

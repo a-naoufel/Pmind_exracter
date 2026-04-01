@@ -1,0 +1,12 @@
+PERSON: BOTUS de Vegevano
+Also known as: Boto de VIGEVANO.
+Description: Maître grammairien.
+Status: Extérieur.
+Gender: male.
+Active during: %1234-1234%.
+Born in: Italie (Lombardie : ?Vigevano)..
+Studied at: ?.
+Academic grades obtained: ?Magister ?.
+Academic relationships: Son maître est Maître DALPHYNI, contemporain de Boncompagno da SIGNA..
+Authored work: 'Liber floridus', composed around à Modène..
+Source: http://www.treccani.it/enciclopedia/boto-da-vigevano_(Dizionario-Biografico)/.

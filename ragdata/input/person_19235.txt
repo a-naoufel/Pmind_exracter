@@ -1,0 +1,11 @@
+PERSON: FULCO de Rupe
+Also known as: Fulco de RUPE.
+Description: Prieur du Grand-Lucé.
+Status: Extérieur.
+Gender: male.
+Active during: %1395-1402%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.S.A. : chanoine régulier augustin..
+Religious functions: Prieur du Grand-Lucé en %1395-1402%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/09/2021..

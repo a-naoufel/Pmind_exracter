@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS Thome
+Also known as: Aegidius THOME.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1475-1475%.
+Diocese of origin: Diocèse de Châlons-en-Champagne..
+Studied at: Paris %1475-1475%..
+Academic grades obtained: Bachelier en décret (Paris) ..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales en (22 juin)) ;; Paris (Faculté de Décret : Lecteur des Décrétales en (7 novembre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 12/05/2020)..

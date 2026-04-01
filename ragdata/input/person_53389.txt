@@ -1,0 +1,12 @@
+PERSON: CONRADUS de Hildesheim
+Also known as: Conrad de HILDESHEIM.
+Description: Évêque de Hildesheim.
+Status: Maître.
+Gender: male.
+Active during: %1209-1249%.
+Born in: Allemagne..
+Studied at: Paris..
+Academic grades obtained: Magister (Paris) avant ..
+Ecclesiastical positions held: Prévôt de Spire %1209-1216% ;; Écolâtre de Mayence %1216-1221% ;; Évêque de Hildesheim %1221-1248% ;.
+University functions: Paris (maître de théologie) avant ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 02/02/2022)..

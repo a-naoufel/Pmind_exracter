@@ -1,0 +1,10 @@
+PERSON: MILO de Castelleto
+Also known as: Milo de CASTELLETO.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1278-1303%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Sens %1288-1301% ;; Chanoine de Tours (Saint-Martin) ;; Archidiacre de Melun ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 25/09/2022..

@@ -1,0 +1,12 @@
+PERSON: THEODERICUS Caprioli de Girarvillari
+Also known as: Thierry CAPRIOLI de GIRARVILLARI; Theodoricus CAPRIOLI de GIRARVILLARI.
+Description: Maître en arts et écolier de médecine..
+Status: Maître.
+Gender: male.
+Active during: %1374-1379%.
+Born in: Lorraine ?.
+Diocese of origin: Diocèse de Toul..
+Studied at: Paris (Nation de France) %1374-1379%..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en médecine (Paris) %1374-1379%..
+Ecclesiastical positions held: Clerc du diocèse de Toul..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 10/02/2019..

@@ -1,0 +1,10 @@
+PERSON: PERRINUS de Monte Martini
+Also known as: Perrinus de MONTE MARTINI.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris en ..
+Academic grades obtained: Étudiant (Paris) en ;.
+Family relationships: Son frère est YMBERTUS qui souscrit en même temps que lui ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/08/2016..

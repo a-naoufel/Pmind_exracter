@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS de Ferrechal
+Also known as: Guillelmus de FERRECHAL; Guillelmus de FERRECHAT.
+Description: Bachelier en droit canon.
+Status: Gradué.
+Gender: male.
+Active during: %1410-1440%.
+Born in: Bourgogne..
+Studied at: Paris %1415-1415%..
+Academic grades obtained: Bachelier en décret (Paris) ..
+Academic relationships: Son maître est Johannes de SERVAVILLA, D.Cn.L. entre %1427-1430%..
+Social origin: Noble..
+Religious order: O.S.B. : moine bénédictin du monastère de Rouen (Saint-Ouen)..
+Religious functions: Aumônier de Rouen (Saint-Ouen) au moins en ;; Abbé de Saint-Wandrille (diocèse de Rouen) en %1419-1430% ;; Abbé de Saint-Denis en %1430-1440%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction, Claire Priol-Hoogland et Anne Tournieroux : dernière révision : Jean-Philippe Genet, 30/04/2022..

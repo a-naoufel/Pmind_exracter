@@ -1,0 +1,9 @@
+PERSON: BERNARDUS 7
+Also known as: BERNARD.
+Description: Chirurgien à Paris..
+Status: Extérieur.
+Gender: male.
+Active during: %1271-1271%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 14/01/2021)..

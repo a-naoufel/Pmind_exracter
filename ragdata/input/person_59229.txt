@@ -1,0 +1,10 @@
+PERSON: STEPHANUS de Sancto Hylario
+Also known as: Stephanus de SANCTO HYLARIO.
+Description: Chanoine d'Auxerre.
+Status: Incertain.
+Gender: male.
+Active during: % -1290%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Sacriste d’Auxerre %1278-1290% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 24/06/2025)..

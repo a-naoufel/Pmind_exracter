@@ -1,0 +1,11 @@
+PERSON: SALOMON
+Also known as: SALOMON.
+Description: Étudiant?.
+Status: Incertain.
+Gender: male.
+Active during: %:1162:-:1172:%.
+Born in: Norvège.
+Studied at: Paris (Saint-Victor);.
+Academic grades obtained: Incertain.
+Family relationships: Protégé de G., sœur d’ERVISIUS, abbé de Saint-Victor et de son époux, un grand aristocrate norvégien (storman)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 26/09/2025..

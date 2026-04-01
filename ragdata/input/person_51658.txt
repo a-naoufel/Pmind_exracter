@@ -1,0 +1,12 @@
+PERSON: NICOLAUS de Soloe
+Also known as: Nicolaus de SOLOE; Nicolaus de SOULOE.
+Description: Chanoine de Saint-Victor.
+Status: Maître.
+Gender: male.
+Active during: %1365-1379%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) ;; Maître en théologie (Paris)..
+College affiliation: Saint-Victor..
+Religious order: Chanoinerégulier (O.S.A.) de Paris (Saint-Victor) %1365-1379%..
+Religious functions: Prieur (O.S.A.) de Clermont en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 8/12/2020)..

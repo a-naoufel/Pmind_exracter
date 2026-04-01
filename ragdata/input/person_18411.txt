@@ -1,0 +1,9 @@
+PERSON: EUSTASIUS Francelle
+Also known as: Eustacius FRANCELLE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Maître (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 27/07/2021)..

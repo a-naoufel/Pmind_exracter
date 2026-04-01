@@ -1,0 +1,11 @@
+PERSON: PONCIUS Berbiguerii
+Also known as: Poncius BERBIGUERII.
+Description: Chanoine de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1467-1467%.
+Studied at: ?.
+Academic grades obtained: Licencié in utroque jure ;.
+Ecclesiastical positions held: Chanoine d’Albi ;.
+Other ecclesiastical functions: Official de Rodez ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 20/05/2022..

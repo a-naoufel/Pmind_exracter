@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Lombardus
+Also known as: Nicolaus LOMBARDUS.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1254-1254%.
+Studied at: Paris..
+Academic grades obtained: Magister.
+Social origin: Commun..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 29/04/2019..

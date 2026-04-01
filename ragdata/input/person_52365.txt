@@ -1,0 +1,10 @@
+PERSON: SIMON Motelli
+Also known as: Simon MOTELLI.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1334-1342%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Troyes (églisecollégiale Saint-Etienne) ;; Chanoine de Reims %1339-1342% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 2/06/2021..

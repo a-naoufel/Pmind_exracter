@@ -1,0 +1,12 @@
+PERSON: RICARDUS de Gedding
+Also known as: Richard DE GEDDING.
+Description: Fellow de Merton.
+Status: Étudiant.
+Gender: male.
+Active during: %1288-1307%.
+Born in: Angleterre..
+Studied at: Oxford (Merton College); ?Paris ..
+Academic grades obtained: Maître ès arts (Oxford).; Paris : étudiant %1288-1290% ?.
+Ecclesiastical positions held: Recteur de StaplefordTawney (Essex) en ..
+University functions: Oxford (Merton College : fellow av.)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 21/06/2024..

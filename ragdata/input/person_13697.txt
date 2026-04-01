@@ -1,0 +1,10 @@
+PERSON: STEPHANUS Arpentis
+Also known as: Stephanus ARPENTIS.
+Description: Licencié en théologie à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1476-1476%.
+Studied at: Paris %1476-1476% ;.
+Academic grades obtained: Licencié en théologie (Paris) (5 février) ..
+College affiliation: Collège de Navarre..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland, dernière mise à jour 01/04/2014..

@@ -1,0 +1,11 @@
+PERSON: THOMAS 11
+Also known as: THOMAS.
+Description: Étudiant en médecine..
+Status: Étudiant.
+Gender: male.
+Active during: %1474-1475%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie ?) %1474-1475%..
+Academic grades obtained: Étudiant en médecine (Paris) %1475-1475% ;.
+College affiliation: Boursier du collège de MaîtreGervais à Paris. ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 2/04/2021)..

@@ -1,0 +1,75 @@
+PERSON: GERARDUS Bruine de Remis
+Also known as: Girardo BRUINE de Remis; Gerardus de REMIS.
+Description: Chantre de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1268-1282%.
+Born in: Champagne (Reims) ;.
+Diocese of origin: Diocèse de Reims..
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) dés.
+Ecclesiastical positions held: Chanoine de Paris ;; Chantre de Paris ..
+University functions: Paris (Faculté de Théologie : Maître-régent ca.%1281-1282%)..
+Authored work: 'Collatio ‘Crux Christi in sacra scriptura multipliciter nominatur’', composed around ?.
+Authored work: 'Collatio ‘Est plenitudo quadruplex’', composed around ?.
+Authored work: 'Collatio ‘et accepit de Gen. Est duplex matrimonium’', composed around ?.
+Authored work: 'Collatio ‘et posset esse bonum thema in ramis palmarum’', composed around ?.
+Authored work: 'Collatio ‘Haec tria verba ponderantur’', composed around ?.
+Authored work: 'Collatio ‘In regno caelorum idest in ecclesia’', composed around ?.
+Authored work: 'Collatio ‘Miseretur sex generibus hominum’', composed around ?.
+Authored work: 'Collatio ‘Moraliter sex modis eicitur diabolus ab homine’', composed around ?.
+Authored work: 'Collatio ‘Multa bona vel multos bonos effectus facit in nobis eucharistia’', composed around ?.
+Authored work: 'Collatio ‘Nota, quod hanc quaestionem faciat Dominus in iudicio’', composed around ?.
+Authored work: 'Collatio ‘Oleum multipliciter reperitur in scriptura’', composed around ?.
+Authored work: 'Collatio Quattuor sunt genera nuptiarum', composed around ? (aux écoles)..
+Authored work: 'Collatio ‘Verba ista scripta sunt in Matthaeo’', composed around ?.
+Authored work: 'Homilia Bibere calicem hoc est sustinere passionem et dolorem', composed around ?.
+Authored work: 'Homilia ‘Bonum thema in dedicatione ecclesiae... Domus Dei multipliciter’', composed around ?.
+Authored work: 'Homilia ‘Dentes reperiuntur in septemplici differentia’', composed around ?.
+Authored work: 'Homilia ‘Est mors culpae’', composed around ?.
+Authored work: 'Homilia «Hic de iudicio agitur», Gerhardus Bruine de Remis v. 1271-1282, f. 58ra'.
+Authored work: 'Homilia ‘In his verbis duo tanguntur’’', composed around ?.
+Authored work: 'Homilia ‘Iste Ioseph significat quemlibet nostrum’’', composed around ?.
+Authored work: 'Homilia ‘Nomine caeli vir iustus intelligitur propter multas caeli proprietates’’', composed around ?.
+Authored work: 'Homilia ‘Nota, quod quattuor locis invenimus’', composed around ?.
+Authored work: 'Homilia ‘Notandum, quod Petrus significat’', composed around ?.
+Authored work: 'Homilia «Sacrificium multipliciter invenitur’', composed around ?.
+Authored work: 'Homilia ‘Tripliciter amicitia reprobatur in sacra scriptura’', composed around ?.
+Authored work: 'Homilia ‘Vinea ista est conscientia’', composed around ?.
+Authored work: 'Homilia ‘Vult tantum dicere in gallico’', composed around ? aux Béguines..
+Authored work: 'Homilia ‘In epistola hodierna verbum Dei vocatur gladius’', composed around ? aux Béguines (Dominica infra octav. beati Martini)..
+Authored work: 'Homilia «Praetermisso sensu literali', composed around (2e Dimanche avant la Toussaint)..
+Authored work: 'Homilia ‘Verbum istud scribitur in Matth.’', composed around %1268.
+Authored work: 'Sermo ‘Verbum ultimum scribitur in Matth.’', composed around .
+Authored work: 'Sermo ‘Verbum ultimum est in Matthaeo’', composed around ..
+Authored work: 'Sermo ‘Ista verba secundo proposita dicuntur in persona praedicatoris’', composed around ? (à Sainte-Geneviève)..
+Authored work: 'Sermo ‘Quaere cum aliis thematibus’', composed around ? (à Saint-Victor) ;.
+Authored work: 'Sermo ‘Quaere ibi: Tres sunt qui testimonium dant.’'.
+Authored work: 'Sermo ‘Verbum ultimum est in Ioh.', composed around ;.
+Authored work: '(Sermon pour le dimanche après Saint Martin)', composed around (13 novembre ; aux Béguines)..
+Authored work: '(Sermon ‘Hoc ultimum verbum scriptum est’ pour le 1er dimanche de l'Avent)', composed around (27 novembre : à l'église Saint-Méry)..
+Authored work: '(Sermo ‘In principio rogabimus Dominum’ pour le 2ème dimanche de l'Avent)', composed around (4 décembre : à l'église Saint-Magloire)..
+Authored work: '(Sermon pour la fête de Saint THOMAS)', composed around (27 décembre, à l'église Saint-Antoine)..
+Authored work: '(Sermon pour la fête de Saint PHILIPPE et Saint JACQUES)', composed around (1er mai, à l'église Saint-Antoine)..
+Authored work: '(Sermon ‘Per Petrum significatur praedicator’ pour la Vigile de l'Ascension)', composed around (17 mai, à l'église Sainte-Geneviève)..
+Authored work: '(Sermon pour le lundi de Pentecôte)', composed around (29 mai, aux Béguines)..
+Authored work: '(Sermon ‘Nos legimus in primo libro Bibliae’ pour le dimanche de la Trinité)', composed around (4 juin, à la Maison-Dieu)..
+Authored work: '(Sermon pour le 5e dimanche après la Pentecôte)', composed around (2 juillet, aux Béguines)..
+Authored work: '(Sermon « In principio loco thematis debetis scire » pour la Toussaint)', composed around (1er novembre, aux Béguines)..
+Authored work: '(Sermon ‘Verbum secundo propositum scriptum est’ pour le jour de Pâques)', composed around (24 avril)..
+Authored work: '(Sermon « Praetermisso sensu literali » pour le 2ème dimanche après la Toussaint)', composed around (9 novembre)..
+Authored work: '(Sermon «De his verbis sensus historicus patet» pour le dimanche de la Quinquagésime)', composed around (8 février)..
+Authored work: '(Sermon «Haec sunt verba Isaiae in persona Christi» pour le dimanche des Rameaux)', composed around (22 mars)..
+Authored work: '(Sermon «Haec verba per plures annos quam mille dicta fuerunt» pour la Vigile de l'Ascension)', composed around (6 mai)..
+Authored work: '(Sermon «In istis verbis Virgo gloriosa describitur» pour la Nativité de la Sainte VIERGE)', composed around ?.
+Authored work: '(Sermon pour la Toussaint)', composed around ?.
+Authored work: '(Sermon pour la Circoncision)', composed around ?.
+Authored work: '(Sermon pour le 3e dimanche après l'Epiphanie)', composed around (27 janvier)..
+Authored work: '(Sermon pour la fête de Saint ETIENNE)', composed around (26 décembre)..
+Authored work: 'Sermo de Communi', composed around ?.
+Authored work: 'Sermo ‘Desiderium sanctorum patrum adventum Christi in carnem de longinquo’', composed around pour le Vendredi saint ;.
+Authored work: 'Expositio super Ave Maria', composed around ?.
+Authored work: 'Angelica Expositio', composed around ?.
+Authored work: 'Sermo «Dominus circumcidi voluit propter duo»', composed around ?.
+Authored work: 'Sermo «In istis verbis sancta mater ecclesia reducit nos»', composed around ?.
+Source: MIRABILE :.

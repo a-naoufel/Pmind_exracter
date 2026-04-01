@@ -1,0 +1,12 @@
+PERSON: FLORENTIUS de Noerd
+Also known as: Florentius de NOERD; Florentius de NOERDE; Florent NOORD; Florentius NORD; Florentius NOORT; Florent de NOERD; Florent de NOERDE.
+Description: Procureur de la Nation Anglo-allemande à l'Université de Paris..
+Status: Gradué.
+Gender: male.
+Active during: %1458-1470%.
+Born in: Pays-Bas (Hollande (Leyde))..
+Diocese of origin: Diocèse d'Utrecht..
+Studied at: Paris (Nation Anglo-allemande) %1458-1461% ;.
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Bachelier en médecine (?Paris) ..
+University functions: Paris (Nation Anglo-allemande : procureur élu en (10 mars), continué le 9 avril) ;; Paris (Nation Anglo-allemande : receveur élu en (23 septembre))..
+Source: RAG ;.

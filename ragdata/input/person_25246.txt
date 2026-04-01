@@ -1,0 +1,12 @@
+PERSON: PETRUS de Montemor
+Also known as: Pedro de MONTEMOR.
+Description: Cistercien.
+Status: Étudiant.
+Gender: male.
+Active during: %1350-1350%?.
+Born in: Portugal..
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) ? ;.
+College affiliation: Collège Saint-Bernard ?.
+Religious order: O.Cist..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 3/01/2018)..

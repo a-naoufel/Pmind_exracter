@@ -1,0 +1,11 @@
+PERSON: LUDOVICUS Girardi
+Also known as: Ludovicus GIRARDI; Ludovicus GERARDI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1450-1451%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse de Clermont ;.
+Studied at: Paris (Nation de France) %1450-1451%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/01/2023..

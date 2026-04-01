@@ -1,0 +1,20 @@
+PERSON: HUGUCCIO de Pisa
+Also known as: Huguccio de PISA; Uguccio da PISA.
+Description: Evêque de Ferrare.
+Status: Extérieur.
+Gender: male.
+Active during: %1178-1210%.
+Born in: Italie (Toscane : Pise ?)..
+Studied at: Bologne..
+Academic relationships: Son maître à Bologna est GANDOLFO. Son élève est INNOCENT III à Bologne..
+Ecclesiastical positions held: Evêque de Ferrare %1190-1210% ;.
+University functions: Bologne (professeur de droit à partir de )..
+Authored work: 'Expositio de Symbolo Apostolorum', composed around ?.
+Authored work: 'De dubio accentu', composed around ?.
+Authored work: 'Rosarium', composed around ?.
+Authored work: 'Liber derivationum', composed around Vers. ..
+Authored work: 'Summa decreti, Causa 1-27', composed around .
+Authored work: 'Agiografia', composed around ?.
+Authored work: 'Comm. Sa', composed around ?.
+Authored work: 'Summa artis grammaticae', composed around ?.
+Source: Bio-bibliographical guide to medieval and early modern jurists, K. PENNINGTON :.

@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS Baudin
+Also known as: Guillelmus BAUDIN.
+Description: Licencié en théologie à Paris..
+Status: Gradué.
+Gender: male.
+Active during: %1452-1473%.
+Born in: Limousin ?.
+Diocese of origin: Diocèse de Limoges.
+Studied at: Paris %:1452-1462%..
+Academic grades obtained: Licencié en théologie (Paris) (11 janvier) ..
+College affiliation: Sorbonne, socius %:1458-1463% au moins ;; Sorbonne : Grand Procureur jusqu’en ;.
+Ecclesiastical status: Prêtre du diocèse de Paris..
+Ecclesiastical positions held: Chanoine d'Évreux ;; Chanoine de Paris % -1473% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 19/05/2018)..

@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Surmunt
+Also known as: Wilhelmus SURMUNT; AUP: I, 98 30..
+Description: Licencié ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1346-1346%.
+Studied at: Paris (Nation Anglo-allemande) ;.
+Academic grades obtained: Licencié ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 1/06/2022..

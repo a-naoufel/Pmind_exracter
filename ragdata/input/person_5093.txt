@@ -1,0 +1,15 @@
+PERSON: HERVEUS Brito 1
+Also known as: Herveus BRITO; Henricus BRITO; Hervé le BRETON, éd.,.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1280-1280%?.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris)..
+Authored work: 'Commentum super librum Predicamentorum', composed around ?.
+Authored work: 'Philosophia', composed around ?.
+Authored work: 'Questions super Porphyre librum', composed around ?.
+Authored work: 'Sententia libri Porphyrii', composed around ?.
+Authored work: 'Super libros Perihermeneias', composed around ?.
+Authored work: 'Super librum Divisionum Boethii', composed around ?.
+Authored work: 'Totius logice Aristotelis summa', composed around ?.

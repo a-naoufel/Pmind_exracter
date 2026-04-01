@@ -1,0 +1,11 @@
+PERSON: RICARDUS Totessan
+Also known as: Richard TOTESSAN.
+Description: Chevalier.
+Status: Extérieur.
+Gender: male.
+Active during: %1351-1351%.
+Born in: Angleterre ?.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Noble (chevalier ?) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 21/07/2021..

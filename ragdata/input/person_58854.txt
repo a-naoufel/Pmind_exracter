@@ -1,0 +1,11 @@
+PERSON: PETRUS de Monasterio 1
+Also known as: Petrus de MONASTERIO.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1429-1429%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Lisieux ;.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en décret (Paris) (10 mars) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 15/05/2025..

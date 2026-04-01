@@ -1,0 +1,29 @@
+PERSON: RODERICUS Jiménez de Rada
+Also known as: Rodrigo JIMÉNEZ de Rada.
+Description: Archevêque de Tolèfe.
+Status: Maître.
+Gender: male.
+Active during: %1170-1247%.
+Born in: Navarre (PuentedelaReina, château de Rada) ;.
+Diocese of origin: Diocèse de Pampelune ?.
+Studied at: Bologne %1195- % ;; Paris %1200-1204% ?.
+Academic grades obtained: Étudiant en théologie (Paris) ;; Magister ?.
+Family relationships: Son père est Jimeno PÉREZ de Rada, noble navarrais ; Sa mère est Eva de FINOJOSA, une castillane ; Son oncle est Saint Martin de HINOJOSA..
+Academic relationships: Son maître est Pedro de ARTAJONA, évêque de Pampelune qui l’aurait incité à aller à Paris. Son maître est Elias CORRIGIARIUS à Paris..
+Social origin: Noble..
+Ecclesiastical positions held: Évêque d'Osma %1208-1210% ;; Archevêque de Tolède %1210-1247% ;.
+Representation roles: Envoyé de SANCHE VII, roi de Navarre pour des négociations en avec la Castille qui aboutiront au traité de Guadalajara (29 octobre) ; il est apprécié par ALPHONSE VIII, roi de Castille qui l’attire à sa cour.; Il participe au concile de Latran IV en ;; Il participe au concile de Lyon en ;.
+Authored work: 'Dialogus libri vitae', composed around ?.
+Authored work: 'Exposiciones super Anticum et Novum Testamentum)', composed around ?.
+Authored work: 'Fueros', composed around ?.
+Authored work: 'Epistola Alfonsi octavi', composed around ?.
+Authored work: 'Epistolae ad Didacum Garsiae cancellarium', composed around ?.
+Authored work: 'Breviarium historiae ecclesiae catholicae', composed around ?.
+Authored work: 'De Rebus Hispanae', composed around ..
+Authored work: 'Hunnorum, Vandalorum, Suevorum, Alanorum et Siligorum Historia', composed around ?.
+Authored work: 'Ostrogothorum Historia', composed around ?.
+Authored work: 'Historia Romanorum', composed around ?.
+Authored work: 'Historia Arabum', composed around ?.
+Authored work: 'Códice de la Historia', composed around ?.
+Authored work: 'Anales de Roncesvalles', composed around ?.
+Source: https://sip-mirabileweb-it/author/rodericus-ximenii-de-rada-n-1170-1180-m-10-6-1247-author/19692 ;.

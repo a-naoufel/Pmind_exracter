@@ -1,0 +1,13 @@
+PERSON: LAURENTIUS Tassin
+Also known as: Laurent TASSIN.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1414-1414%.
+Born in: Île-de-France ;.
+Diocese of origin: Diocèse de Soissons ;.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Dormans-Beauvais : boursier ;.
+Ecclesiastical status: Clerc en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/08/2023)..

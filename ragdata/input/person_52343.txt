@@ -1,0 +1,11 @@
+PERSON: THOMAS Ponchardi
+Also known as: Thomas PONCHARDI.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1414-1416%.
+Studied at: ?.
+Academic grades obtained: Bachelier en décret ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Poitiers (Saint-Hilaire) ;; Chanoine de Reims %1416-1418% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 19/05/2021..

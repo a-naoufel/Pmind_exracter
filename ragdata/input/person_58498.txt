@@ -1,0 +1,10 @@
+PERSON: HERMANNUS Bokel
+Also known as: Hermannus BOKEL; Hermannus BOCHEL; Hermannus BUCCHEL.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1342-1344%.
+Studied at: Paris (Nation Anglo-allemande) %1342-1344%.
+Academic grades obtained: Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Nicholaus de COSFELDIA pour la maîtrise en ; Son élève est Nicholaus de GORINCHEM pour le baccalauréat en ; Son élève est Sygerus de GRUSBERG pour le baccalauréat en ; Son élève est Henricus de OS pour le baccalauréat en ; Son élève est Theoricus de HOESDEN pour la licence en ; Son élève est Nicholaus de GORINKEN pour la licence en ; Son élève est Rimarus de BRULA pour le baccalauréat en ; Son élève est Lubertus BOLLE pour le baccalauréat en ; Son élève est Gerardus de ATTENDERNA pour le baccalauréat en ; Son élève est Gerardus de ATTENDERNA pour la licence en ; Son élève est Lubertus de TRAJECTO (BOLLE) pour la licence en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/12/2024)..

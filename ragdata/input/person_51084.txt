@@ -1,0 +1,12 @@
+PERSON: ANDREAS Veleti
+Also known as: Andreas VELETI.
+Description: Maître en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1460-1474%.
+Studied at: Paris (Faculté de Théologie) %:1460-1474%..
+Academic grades obtained: Licencié en théologie (Paris) (22 avril) ;; Maître en théologie (Paris) (25 juin) ;.
+College affiliation: Couvent des Augustins..
+Religious order: O.E.S.A. : frère augustin ;.
+Religious functions: Provincial (augustin) de France ;.
+Source: AUP: V, 705 35 ;.

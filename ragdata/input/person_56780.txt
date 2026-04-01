@@ -1,0 +1,8 @@
+PERSON: NICOLAUS Le Parcheminier
+Also known as: Nicolaus LEPARCHEMINIER.
+Description: Parcheminier.
+Status: Suppôt.
+Gender: male.
+Active during: %1292-1292%.
+Studied at: Paris ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/10/2023..

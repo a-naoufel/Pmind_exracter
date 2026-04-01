@@ -1,0 +1,11 @@
+PERSON: ALANUS Rubeus
+Also known as: Alanus RUBEUS.
+Description: Bachelier ès Arts.
+Status: Gradué.
+Gender: male.
+Active during: %1455-1455%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Tréguier..
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès Arts (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 10/02/2019..

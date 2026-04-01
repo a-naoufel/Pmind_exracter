@@ -1,0 +1,13 @@
+PERSON: PETRUS Caillou
+Also known as: Petrus CAILLOU; Petrus CAILLON.
+Description: Abbé de Sainte-Geneviève.
+Status: Étudiant.
+Gender: male.
+Active during: %1433-1465%.
+Studied at: Paris %1433-1465%..
+Academic grades obtained: Étudiant ?.
+College affiliation: Sainte-Geneviève..
+Religious order: Chanoinerégulier(O.S.A. victorin) de Paris (Sainte-Geneviève)..
+Religious functions: Céllérier (O.S.A) de Paris (Sainte-Geneviève).; Abbé (O.S.A) de Paris (Sainte-Geneviève) %1433-1465%..
+University functions: Paris (Faculté des Arts : la faculté reçoit en (3 avril) Nicolas SAUVAGE, présenté par l'abbé pour la chancellerie de Sainte-Geneviève, à la suite de la démission en sa faveur de Nicolas COQUEREL) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 18/01/2021)..

@@ -1,0 +1,11 @@
+PERSON: MAURINUS
+Also known as: MAURINUS.
+Description: Archevêque de Narbonne.
+Status: Incertain.
+Gender: male.
+Active during: %1262-1272%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Archevêque de Narbonne %1262-1272% ;.
+Authored work: 'Maurinus archiespicopus Narbonensis scribit papae Clementi super hoc de quo reprehansus erat, videlicet de verbis indiscretis super sacramento altaris', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 02/04/2024)..

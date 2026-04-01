@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Le Cauchons
+Also known as: Nicholaus LECAUCHONS.
+Description: Prêtre de la paroisse d’Oissel.
+Status: Extérieur.
+Gender: male.
+Active during: %1508-1508%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical status: Prêtre..
+Ecclesiastical positions held: Prêtre de la paroisse d’Oissel en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

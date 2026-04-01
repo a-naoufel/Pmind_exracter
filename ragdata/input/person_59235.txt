@@ -1,0 +1,11 @@
+PERSON: ROBERTUS Abolant
+Also known as: Robertus ABOLANT.
+Description: Chanoine d'Auxerre.
+Status: Incertain.
+Gender: male.
+Active during: %1180-1214%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Religious order: O.Praem. : chanoineprémontré d’Auxerre (Saint-Marien) ;.
+Ecclesiastical positions held: Chanoine d’Auxerre %1180-1205% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 24/06/2025)..

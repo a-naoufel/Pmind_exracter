@@ -1,0 +1,11 @@
+PERSON: RAIMUNDUS de Curemonte
+Also known as: Raymond de CUREMONTE.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1269-1311%.
+Studied at: ?.
+Academic grades obtained: Magister.
+Religious order: O.P. : frère du couvent (dominicain) de Limoges..
+Religious functions: Prieur du couent (dominicain) de Bordeaux..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 4/02/2021)..

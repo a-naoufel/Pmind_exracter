@@ -1,0 +1,13 @@
+PERSON: GABRIEL de Vaccaria
+Also known as: Gabriel de VACCARIA.
+Description: Boursier du collège de Dainville.
+Status: Maître.
+Gender: male.
+Active during: %1506-1508%.
+Born in: Artois ?.
+Diocese of origin: Diocèse d’Arras ;.
+Studied at: Paris en %1506-1508%..
+Academic grades obtained: Étudiant (Paris) %1506-1508% ;.
+College affiliation: Collège de Dainville : boursier en %1506-1508%, à partir de (23 mai) ;.
+Family relationships: Son frère est Martinus de VACCARIA..
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

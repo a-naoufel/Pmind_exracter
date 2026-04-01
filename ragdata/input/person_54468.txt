@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Chateau-Landon
+Also known as: Guillelmus de CHATEAU-LANDON.
+Description: Official de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1233-1236%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Laon ;.
+Other ecclesiastical functions: Official de Sens %1233-1236% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 25 octobre 2022..

@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Muervis
+Also known as: Guillelmus de MUERVIS.
+Description: Commissaire au Châtelet.
+Status: Extérieur.
+Gender: male.
+Active during: %1381-1381%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 12/04/2020..

@@ -1,0 +1,10 @@
+PERSON: ALARDUS de Tovart
+Also known as: Alardus de TOVART.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1448-1448%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en théologie (Paris) ?.
+College affiliation: ?Collège de Sorbonne ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 15/06/2020..

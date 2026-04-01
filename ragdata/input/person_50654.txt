@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Foresta 2
+Also known as: Guillelmus de FORESTA; Guillaume de LAFOREST.
+Description: Seigneur.
+Status: Extérieur.
+Gender: male.
+Active during: %1308-1308%.
+Family relationships: Sa femme est Agnès de CAPELLA qui est veuve en ; Son fils est Johannes de FORESTA..
+Social origin: Noble ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 22/11/2019..

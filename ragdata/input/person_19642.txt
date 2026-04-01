@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Chenart
+Also known as: Guillermus CHENART.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+Family relationships: Son parent est sasns doute Johannes CHENART, qui s'acquitte en de sa quote-part en même temps que lui..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 3/03/2022..

@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Barrani
+Also known as: Guillelmus BARRANI.
+Description: Sacriste de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1382-1400%.
+Studied at: ?.
+Academic grades obtained: Licencié en droit canon ;.
+Ecclesiastical positions held: Prieur de San-Vensa (diocèse de Rodez) ;; Sacriste de Rodez %1388-1400% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 31/05/2022..

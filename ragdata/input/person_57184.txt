@@ -1,0 +1,11 @@
+PERSON: STEPHANUS Guepin
+Also known as: Stephanus GUEPIN; Stephanus QUEPIN.
+Description: Nonce pour le diocèse d’Auxerre.
+Status: Suppôt.
+Gender: male.
+Active during: %1456-1464%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris (Nation de France) %1456-1464% ;.
+University functions: Paris (Nation de France : il reçoit l'office de nonce pour le diocèse d’Auxerre en (31 janvier)) ;; Paris (Nuntius en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 09/01/2024..

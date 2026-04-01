@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Feuquières
+Also known as: Guillaume de FEUQUIERES.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1321-1338%.
+Studied at: Paris vers ..
+Academic grades obtained: Magister (Paris) vers ..
+College affiliation: Collège de Sorbonne : socius à partir de ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 10/03/2020..

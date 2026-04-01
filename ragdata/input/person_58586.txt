@@ -1,0 +1,12 @@
+PERSON: ALBERTUS de Käfernburg
+Also known as: Albertus de KÄFERNBURG; Adalbertus de MAGDEBURG.
+Description: Archevêque de Magdebourg.
+Status: Étudiant.
+Gender: male.
+Active during: %1190-1232%.
+Born in: Saxe (Thuringe ?).
+Studied at: Paris ;; Bologne en ;.
+Family relationships: Son père est GÜNTHER III, comte de Käfernburg ; Son frère est HENRI, comte de Schwarzburg..
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine de Magdebourg ?; Prévôt de Mayence (Collégiale Sancta Maria ad gradus) avant ;; Prévôt de Magdebourg %1200-1205% ;; Archevêque de Magdebourg %1205-1232% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 15/02/2025..

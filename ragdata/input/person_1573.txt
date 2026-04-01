@@ -1,0 +1,14 @@
+PERSON: BURELLUS Bovis
+Also known as: Burellus BOVIS; Bureau LEBOEUF.
+Description: Boursier grammairien au Collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1378-1403%.
+Born in: Île-de-France..
+Diocese of origin: Diocèse de Paris..
+Studied at: Paris %1378-1378%.
+Academic grades obtained: Étudiant en grammaire (Paris) ..
+College affiliation: Collège de Navarre : boursier grammairien à Paris en ..
+Family relationships: Son frère est Michel LEBOEUF, secrétaire du duc de Berry..
+Religious order: O.S.B. : moine de l'abbaye (bénédictine) SaintMaurdesFossés, attesté en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 27/03/2021)..

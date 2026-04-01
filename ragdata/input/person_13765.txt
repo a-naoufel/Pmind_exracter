@@ -1,0 +1,9 @@
+PERSON: MARTINUS 7
+Also known as: MARTINUS.
+Description: Maître en médecine..
+Status: Incertain.
+Gender: male.
+Active during: %1310-1310%.
+Studied at: Paris ?.
+Academic grades obtained: Maître en médecine..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 21/05/2022..

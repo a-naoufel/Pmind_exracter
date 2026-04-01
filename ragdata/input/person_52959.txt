@@ -1,0 +1,11 @@
+PERSON: PETRUS Giraudi
+Also known as: Petrus GIRAUDI ;.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1313-1318%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Curé d’Arques ;; Chanoine de Rouen %1313-1318% ;.
+Other ecclesiastical functions: Trèsorier de l’archevêque de Rouen :.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/11/2021..

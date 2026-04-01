@@ -1,0 +1,13 @@
+PERSON: LEONARDUS de Bagnaria
+Also known as: Leonardus de BAGNARIA; Leonardus de JANUA.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1431-1443%.
+Born in: Italie (Lombardie : Bagnaria ?) ;.
+Studied at: Paris %1437-1440%.
+Academic grades obtained: Licencié en théologie (Paris) (le 20 décembre) ;; Docteur en théologie (Paris) (le 31 août)..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère dominicain de la province de Lombardie..
+University functions: Paris (Faculté de Théologie : lecteur des Sentences "in magnis scolis" en %1432-1433%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 26/08/2023)..

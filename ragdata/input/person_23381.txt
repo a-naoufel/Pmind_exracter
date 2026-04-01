@@ -1,0 +1,13 @@
+PERSON: PETRUS de Orgemont 4
+Also known as: Pierre IV d'ORGEMONT.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1400-1401%.
+Studied at: Paris %1400-1401%..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Dormans-Beauvais : boursier %1399-1401% ;.
+Family relationships: Son père est Guillaume d’ORGEMONT, seigneur de Méry, trésorier des guerres ; Son grand-père est Pierre d’ORGEMONT, chancelier de France ; Son frère est Philippe d’ORGEMONT ; Son demi-frère est Étienne d’ORGEMONT ; Son oncle est Pierre II d’ORGEMONT, évêque de Paris ; Son cousin est Pierre III d’ORGEMONT ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Prévôt de Tours ;.
+Source: LAMOP : Opération Charles VI (n° 2641):.

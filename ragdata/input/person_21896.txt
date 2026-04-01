@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Landri
+Also known as: Guillelmus LANDRI.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1249-1249%.
+Studied at: ?.
+Academic grades obtained: Magister ?.
+Ecclesiastical positions held: Chanoine de Rouen ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 07/05/2022..

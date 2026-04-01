@@ -1,0 +1,12 @@
+PERSON: PETRUS de Saluciis
+Also known as: Petrus de SALUCII; Pierre de SALUCES.
+Description: Évêque de Mende.
+Status: Incertain.
+Gender: male.
+Active during: %1382-1412%.
+Born in: Savoie..
+Studied at: ?.
+Academic grades obtained: Docteur en droit canon ;.
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine d’Amiens %1382-1389% ;; Chanoine de Lyon ;; Évêque de Mende ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 2/12/2021..

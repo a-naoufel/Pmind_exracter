@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Sancto Laudo
+Also known as: Guillelmus de SANCTO LAUDO; Guillaume de SAINT-LÔ.
+Description: Abbé de Saint-Victor.
+Status: Maître.
+Gender: male.
+Active during: %1345-1349%.
+Studied at: ?Paris..
+Academic grades obtained: Maître en théologie ?.
+Social origin: Noble..
+Religious order: O.S.A. : chanoinerégulier de Paris (Saint-Victor) ?.
+Religious functions: Abbé de Paris (Saint-Victor) %1345-1349% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 27/03/2020..

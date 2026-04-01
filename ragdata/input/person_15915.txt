@@ -1,0 +1,7 @@
+PERSON: CASSINUS Becqueti
+Also known as: Cassinus BECQUETI.
+Description: Sergent du guet à cheval..
+Status: Extérieur.
+Gender: male.
+Active during: %1367-1367%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/03/2024..

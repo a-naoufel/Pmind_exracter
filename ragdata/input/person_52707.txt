@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Abbas S. Pauli extra muros Urbis
+Also known as: GUILLAUME, abbé de Saint-Paul-hors-les-Murs.
+Description: Abbé de Saint-Paul-hors-les-Murs.
+Status: Extérieur.
+Gender: male.
+Active during: %1372-1383%.
+Studied at: ?.
+Academic grades obtained: Docteur en décret ?.
+Religious order: O.S.B. : moine bénédictin..
+Religious functions: Abbé de Rome (Saint-Paul-hors-les-Murs) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 27/09/2021..

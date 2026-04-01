@@ -1,0 +1,13 @@
+PERSON: REGINALDUS de Raincheval
+Also known as: Regnault de RAINCHEVAL.
+Description: Écolier du collège de Dainville.
+Status: Étudiant.
+Gender: male.
+Active during: %1494-1494%.
+Born in: Picardie (Raincheval ?) ?.
+Diocese of origin: Diocèse d'Arras ?.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège de Dainville en ;.
+Family relationships: Son frère est Jehan de RAINCHEVAL.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Rioti
+Also known as: Guillelmus RIOTI; Guillelmus RIOCI.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1316-1316%.
+Studied at: Paris (Nation de France) en ..
+Academic grades obtained: Étudiant ?.
+Ecclesiastical positions held: Recteur de l’égliseparoissiale de Ploumaguer en %1316-1324% ;; Provision pour un canonicat avec expectative de prébende de Tréguier, en réponse au rotulus de l’Université de Paris en : mandat à l’écolâtre de Dol, à Alanus GONTERI, chantre de Nantes et à Nicolaus de CECCANO, chanoine d’Arras ;; Chanoine de Tréguier en ;; Chanoine de Saint-Brieuc (église collégiale Saint-Guillaume) ;; Archidiacre de Tréguier ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/05/2020..

@@ -1,0 +1,7 @@
+PERSON: ALANUS Poquelin
+Also known as: Alanus POQUELIN.
+Description: Barbier.
+Status: Extérieur.
+Gender: male.
+Active during: %1425-1425%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 08/06/2020)..

@@ -1,0 +1,12 @@
+PERSON: GALFREDUS Bayllon
+Also known as: Gaufridus BAYLLON.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1373-1379%.
+Studied at: Paris %1373-1379%.
+Academic grades obtained: Étudiant en décret (Paris) %1373-1379% ;.
+Ecclesiastical status: Prêtre en ;.
+Religious order: O.S.B. : moine (bénédictin) du monastère (bénédictin) de Bourgueil-en-Vallée (Diocèse d'Angers)..
+Ecclesiastical positions held: Candidat à l'obtention d’un priorat sur le rotulus de l’Université de Paris envoyé en au pape Grégoire XI ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol et Anne Tournieroux ; révision, Jean-Philippe Genet, 17/08/2020..

@@ -1,0 +1,25 @@
+PERSON: STEPHANUS de Venisiaco
+Also known as: Stephanus de VENISIACO; Stephanus de VENIZY; Etienne de VENIZY; Stephanus de VARNESIA.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1237-1250%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse d’Auxerre ?.
+Studied at: Paris %1237-1243%..
+Academic grades obtained: Bachelier Sententiaire. (Paris) avant .; Maître en théologie (Paris) ;.
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère dominicain : couvent (dominicain) d'Auxerre..
+University functions: Paris (Faculté de Théologie : Maître-régent en exercice au couvent dominicain en %1242-1243%)..
+Authored work: 'Comm. in IV libros Sententiarum', composed around ?.
+Authored work: 'Articuli reperti in expos. I Sent. fr. Stephani ab universitate Paris. condemnati', composed around .
+Authored work: 'Postilla in lib. proverbiorum', composed around ?.
+Authored work: 'Postilla in Ecclesiasten', composed around ?.
+Authored work: '(Sermons : Pour le IIIe dim. de Carême)', composed around ..
+Authored work: '(Sermons : Pour le IVe dim. après la Pentecôte)', composed around ..
+Authored work: '(Sermons : Pour le XXe dim. après la Pentecôte)', composed around ..
+Authored work: '(Sermons : Pour la fête de S. Barnabé)', composed around ..
+Authored work: '(Sermon : Pour le Ier dimanche de Carême)', composed around .
+Authored work: '(Collatio du sermon pour le 1er dimanche de Carême)', composed around .
+Authored work: 'Sermo [et collatio] in II dom. Adventus', composed around ?.
+Source: MIRABILE : Federico CONTINI :.

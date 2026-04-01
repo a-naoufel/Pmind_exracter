@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Fene
+Also known as: Guillaume FENE; Guillelmus FINE; Guillaume FEVE.
+Description: Chapelain au Collège de Laon (Cerny).
+Status: Maître.
+Gender: male.
+Active during: %1455-1473%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie) %1455-1473% ;.
+Academic grades obtained: Maître ès arts (Paris) en et sans doute avant ;; Étudiant en médecine (Paris) %1455-1458% ;.
+College affiliation: Collège de Laon : boursier en médecine %1455-1458% ;; Collège de Laon : chapelain de Cerny %1458-1467% ;.
+Ecclesiastical positions held: Chapelain au Collège de Laon (Cerny) %1458-1467% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 26/01/2024..

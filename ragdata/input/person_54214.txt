@@ -1,0 +1,12 @@
+PERSON: PETRUS de Thorigniaco
+Also known as: Petrus de THORIGNIACO.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1271-1294%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Sens ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Nevers ;; Chanoine de Sens ('Saint-Jean-Baptiste') % -1294% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 15/09/2022..

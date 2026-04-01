@@ -1,0 +1,9 @@
+PERSON: PETRUS Prierat
+Also known as: Petrus PRIERAT.
+Description: Nonce pour le diocèse de Nîmes.
+Status: Suppôt.
+Gender: male.
+Active during: %1444-1444%.
+Studied at: Paris (Nation de France) ..
+University functions: Paris (Nation de France : il reçoit l'office de nonce pour le diocèse de Nîmes à une date incertaine, peut-être en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 12/09/2022..

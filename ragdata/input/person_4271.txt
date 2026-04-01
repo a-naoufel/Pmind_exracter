@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS de Kaer 1
+Also known as: Guillelmus de KAER.
+Description: Docteur en droit canon.
+Status: Maître.
+Gender: male.
+Active during: %1376-1414%.
+Born in: Bretagne ;.
+Diocese of origin: Diocèse de Quimper ;.
+Studied at: Paris..
+Academic grades obtained: Bachelier en décret (Paris) avant ;; Docteur en décret (Paris) avant ;; Docteur in utroque jure ;.
+Ecclesiastical status: Prêtre du diocèse de Quimper..
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus de ;; Chanoine de Nantes pendant au moins 27 ans ;.
+University functions: Paris (Faculté de Décret : lecteur en %1376-1379%) ;; Paris (Université : l'un des maîtres participant à la deuxième session du Concilium Fidei en (4 décembre)) ;; Paris (Université : l'un des maîtres participant à la troisième session du Concilium Fidei en %1413-1414% (du 19 décembre au 5 janvier)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ rédaction : Jean-Philippe Genet, 29/03/2022..

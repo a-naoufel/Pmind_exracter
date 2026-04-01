@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Alneto
+Also known as: Guillelmus de ALNETO; Guillaume de ALNETO.
+Description: Étudiant en médecine à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1451-1455%.
+Born in: Bretagne ;.
+Diocese of origin: Diocèse de Rennes..
+Studied at: Paris (Nation de France) %1451-1455%..
+Academic grades obtained: Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Étudiant en médecine (Paris) %1451-1455%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 05/03/2022..

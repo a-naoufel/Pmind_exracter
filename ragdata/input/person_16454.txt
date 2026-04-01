@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS de Arragon
+Also known as: Aegidius de ARRAGON.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1380-1380%.
+Diocese of origin: Diocèse de Tournai..
+Studied at: Paris (Nation de Picardie ?)..
+Academic grades obtained: Étudiant ès arts ..
+Ecclesiastical positions held: Clerc du diocèse de Tournai.; Candidat à un bénéfice à la collation de l'évêque, du doyen et du chapitre de Tournai en dans le rotulus composé par Guy de ROYE, évêque de Verdun..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 25/11/2018..

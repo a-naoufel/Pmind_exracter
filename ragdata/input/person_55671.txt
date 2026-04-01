@@ -1,0 +1,12 @@
+PERSON: NICOLAUS Rioci
+Also known as: Nicolaus RIOCI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1451-1451%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Léon ;.
+Studied at: Paris (Nation de France).
+Academic grades obtained: Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Gauffridus CALVI pour la maîtrise en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 04/04/2023..

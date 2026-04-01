@@ -1,0 +1,10 @@
+PERSON: PETRUS Boneri
+Also known as: Petrus BOERI.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1469%.
+Studied at: Paris %1464-1469%..
+Academic grades obtained: Étudiant en décret (Paris) %1464-1469% ;.
+College affiliation: Collège d'Autun : boursier en décret %1464-1469% ;; Collège d'Autun : procureur ;; Collège d'Autun : receveur ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 09/07/2024..

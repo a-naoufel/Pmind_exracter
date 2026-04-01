@@ -1,0 +1,10 @@
+PERSON: GODEFRIDUS Moy
+Also known as: Godefridus MOY.
+Description: Chanoine de Saint-Martin de Liège.
+Status: Étudiant.
+Gender: male.
+Active during: %1429-1429%.
+Studied at: Paris avant .; Cologne ..
+Academic grades obtained: Étudiant (Paris) avant ;; Étudiant en droit (Cologne) ;.
+Ecclesiastical positions held: Chanoine de Liège (Saint-Martin) ;.
+Source: RAG ;.

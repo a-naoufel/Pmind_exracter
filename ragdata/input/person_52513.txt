@@ -1,0 +1,10 @@
+PERSON: OLIVERIUS Coge
+Also known as: Oliverius COGÉ.
+Description: Chanoine de Reims.
+Status: Maître.
+Gender: male.
+Active during: %1465-1482%.
+Studied at: Paris ?.
+Academic grades obtained: Maître ès arts (Paris ?) ;; Maître en médecine (Paris ?) ;.
+Ecclesiastical positions held: Chanoine de Laon % -1465% ;; Chanoine de Reims %1465-1482% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 14/07/2021..

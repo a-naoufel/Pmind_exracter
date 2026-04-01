@@ -1,0 +1,8 @@
+PERSON: ROBERTUS Piedefer 1
+Also known as: Robert PIEDEFER; Robertus PIEDEFET.
+Description: Conseiller-lai au Parlement.
+Status: Extérieur.
+Gender: male.
+Active during: %1336-1353%.
+Studied at: ?.
+Source: Paris au Moyen Âge : les Parisiens :.

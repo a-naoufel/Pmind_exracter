@@ -1,0 +1,11 @@
+PERSON: HUGO 5
+Also known as: HUGO.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1218-1231%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Sens %1226-1231% ;.
+Other ecclesiastical functions: Official de Sens %1226-1231% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 24 octobre 2022..

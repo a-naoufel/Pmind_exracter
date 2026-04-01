@@ -1,0 +1,11 @@
+PERSON: REGINALDUS de Crisseio
+Also known as: Reginaldus de CRISSEIO.
+Description: Chanoine d'Autun.
+Status: Incertain.
+Gender: male.
+Active during: % -1388%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d'Autun %1368-1388% ;; Recteur de Flory (léproserie) % -1375% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/01/2023)..

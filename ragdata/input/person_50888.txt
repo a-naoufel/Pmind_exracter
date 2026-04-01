@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Posterla
+Also known as: Guillelmus de POSTERLA; Guillelmus de PUSTERLA.
+Description: Chapelain pontifical.
+Status: Extérieur.
+Gender: male.
+Active during: %1333-1334%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chanoine de Milan en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 12/05/2020..

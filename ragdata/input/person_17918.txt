@@ -1,0 +1,13 @@
+PERSON: PETRUS Parisius
+Also known as: Petrus PARISIUS; Pierre de PARIS.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1299-1310%.
+Born in: ?.
+Studied at: Paris ?.
+Academic grades obtained: Maître ès arts ?.
+Authored work: 'Le Sautier', composed around %1290-1309%., dedicated to Pour Simon LERAT, Hospitalier de Saint-Jean de Jérusalem et Commandeur de l’ordre à Chypre..
+Authored work: 'Traduction et commentaire du De Consolatione philosophiae de Boèce)', composed around ..
+Authored work: '(Traduction de la Politique d’Aristote)', composed around Avant ..
+Source: I.R.H.T. Jonas: //https://jonas.irht.cnrs.fr/consulter/intervenant/detail_intervenant.php?intervenant764 ;.

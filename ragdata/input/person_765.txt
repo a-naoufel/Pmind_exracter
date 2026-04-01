@@ -1,0 +1,10 @@
+PERSON: ANSELMUS 2
+Also known as: ANSELMUS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1470-1470%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts..
+University functions: Paris (Maître-régent )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 03/09/2020..

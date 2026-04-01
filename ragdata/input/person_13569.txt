@@ -1,0 +1,15 @@
+PERSON: OLIVERIUS Michaelis 2
+Also known as: Oliverius MICHAELIS; Olivier MICHEL.
+Description: Maître en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1485-1512%.
+Born in: ?Bourgogne (Auxerre)..
+Diocese of origin: Diocèse d'Auxerre ?.
+Studied at: Paris %1485-1490%..
+Academic grades obtained: Licencié en théologie (Paris) (20 décembre) ;; Maître en théologie (Paris) ..
+College affiliation: Collège du Trésorier maître-régent ;; Collège de Maître-Gervais maître-régent ;; Collège d'Harcourt maître-régent ;.
+Academic relationships: Son élève est Johannes de NERY au collège d'Harcourt ; Superviseur de Petrus JOURDAN au collège du Trésorier ; Superviseur de Guillaume MORLAYE au collège du Maître-Gervais..
+Ecclesiastical positions held: Chanoine d'Auxerre (chapitre cathédral) % -1512% ;; Chantre d'Auxerre (chapitre cathédral) %1494-1512% ;; Théologal d'Auxerre (chapitre cathédral)..
+University functions: Paris (Collège d'Harcourt : régent ès arts) ;; Paris (Collège du Trésorier ; régent ès arts) ;;; Professeur au collège du Maître-Gervais..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire PRIOL-HOOGLAND ; révision, Jean-Philippe GENET, 1/10/2020)..

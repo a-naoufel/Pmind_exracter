@@ -1,0 +1,12 @@
+PERSON: GALTERIUS Oleris
+Also known as: Vernerus OLERIS.
+Description: Chanoine Prémontré.
+Status: Étudiant.
+Gender: male.
+Active during: %1452-1452%.
+Diocese of origin: Diocèse de Thérouanne ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège des Prémontrés ?.
+Religious functions: O.Praem. : chanoineprémontré de Furnes (Saint-Nicolas) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 06/08/2022..

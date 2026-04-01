@@ -1,0 +1,11 @@
+PERSON: ACHALIUS Chamzel Jacobi
+Also known as: Achalius CHAMZEL; Achaz CHAMZEL JACOBI.
+Description: Docteur en médecine.
+Status: Incertain.
+Gender: male.
+Active during: %1424-1424%.
+Born in: Autriche (Salzbourg) ;.
+Diocese of origin: Diocèse de Salzbourg ;.
+Studied at: Paris ?; Prague ?; Padoue ?; Ferrare..
+Academic grades obtained: ?Etudiant (Paris) avant ?; Docteur en médecine (Ferrare) ;.
+Source: RAG ;.

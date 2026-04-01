@@ -1,0 +1,9 @@
+PERSON: ARNALDUS Bouchier
+Also known as: Arnaldus BOUCHIER.
+Description: Avocat au Parlement.
+Status: Incertain.
+Gender: male.
+Active during: %1445-1483%.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Magister..
+Source: http://www.parismoyenage.fr/parisiens/nom_p.php?searchBouchernomBoucherprenomArnoul.

@@ -1,0 +1,41 @@
+PERSON: VITALIS de Furno
+Also known as: Vitalis de FURNO; Vital du FOUR.
+Status: Maître.
+Gender: male.
+Active during: %1285-1327%.
+Born in: Aquitaine ?.
+Studied at: Paris (?%1285- %).
+Academic grades obtained: Maître en théologie (Paris)..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Religious order: O.F.M. : frère franciscain..
+Religious functions: Ministreprovincial (franciscain) d'Aquitaine ().
+Ecclesiastical positions held: Cardinalprêtre de Sainte-MarieauxMonts () ;; Cardinal-évêque d'Albano ()..
+University functions: Paris (Faculté de Théologie : Maître régent au couvent (franciscain) en %1292-1295%) ;; Montpellier (lecteur %1295-1297%) ;; Toulouse (lecteur )..
+Authored work: 'In 4 libros Sententiarum', composed around ?.
+Authored work: 'Lectura in IVm librum', composed around à Montpellier..
+Authored work: 'Extraits (memorialia) de ses questions', composed around ?.
+Authored work: 'Quolibet I (18q.)', composed around ?.
+Authored work: 'Quaest. 7 de primo principio', composed around ?.
+Authored work: 'Quaestio de productione creaturarum', composed around ?.
+Authored work: 'Quaest. 6 de anima et potentiis', composed around ?.
+Authored work: 'Quodlibet II (14q.)', composed around ?.
+Authored work: 'Quaest. 8 de cognitione', composed around ?.
+Authored work: 'Quodlibet III (15q.)', composed around ?.
+Authored work: 'Quaest. de illuminatione angelorum', composed around ?.
+Authored work: 'De rerum principio', composed around ?.
+Authored work: 'Speculum morale totius Sacrae Scripturae', composed around .
+Authored work: 'Comment. in Apocalypsim', composed around ?.
+Authored work: '(Sermon pour la fête de Noël)', composed around ?.
+Authored work: '(Extraits (Memorialia) de Jean de Persora)', composed around ?.
+Authored work: '(Extraits (Memorialia) de P. de Jean Olieu)', composed around ?.
+Authored work: 'Lettres au chapitre général de Barcelone', composed around .
+Authored work: '(Lettres à la Supérieure des Clarisses, près de Todi)', composed around .
+Authored work: '(Répliques au Rotulus d'Ubertino de CASALE)', composed around %1311-1312%.
+Authored work: '(Consultation des 13 maîtres sur les quatre articles)', composed around à Avignon..
+Authored work: '(Consultation sur la Croisade)', composed around ..
+Authored work: 'Epistolae', composed around ?.
+Authored work: 'De paupertate Christi et Apostolorum', composed around ..
+Authored work: 'Additio fratris Vitalis', composed around ?.
+Authored work: 'Compendiosa resumptio dictorum D. Vitalis', composed around ?.
+Authored work: '(Instances et réponses nouvelles)', composed around ?.
+Source: MIRABILE :.

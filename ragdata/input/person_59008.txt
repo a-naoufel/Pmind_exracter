@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de Lesperon
+Also known as: Nicolaus de LESPERON.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1428-1428%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Coutances ;.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en décret (Paris) (4 novembre) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 25/02/2025..

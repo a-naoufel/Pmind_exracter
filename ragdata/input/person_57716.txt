@@ -1,0 +1,17 @@
+PERSON: PETRUS Helias
+Also known as: Petrus HELIE.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1120-1166%.
+Born in: Poitou (Nouaillé) ;.
+Diocese of origin: Diocèse de Poitiers..
+Studied at: Paris ;; Chartres..
+Academic grades obtained: Maître..
+Academic relationships: Son maître est Thierry de CHARTRES..
+University functions: Paris (Maître enseignant les arts libéraux et en particulier la grammaire dans l’école de Thierry de CHARTRES) ;.
+Authored work: 'Canticum metrice', composed around ?.
+Authored work: 'Summa super Priscianum', composed around ?.
+Authored work: 'Summa super De inventione Ciceronis', composed around ?.
+Authored work: 'Tractatus de iure emphytrutico', composed around ?.
+Source: MIRABILE :.

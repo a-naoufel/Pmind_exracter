@@ -1,0 +1,15 @@
+PERSON: THEOBALDUS de AlbaPetra
+Also known as: Theobaldus de ALBAETRA; Thibaut d'AUBEPIERRE.
+Description: Maître des grammairiens au collège de Navarre..
+Status: Maître.
+Gender: male.
+Active during: %1362-1390%.
+Born in: Champagne (Aubepierre-sur-Aube ?) ?.
+Diocese of origin: Diocèse de Langres ;.
+Studied at: Paris (Nation de France) %1362-1370%..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en décret (Paris) ;; Étudiant en théologie (Paris) ;; Bachelier en décret (Paris) avant ..
+College affiliation: Boursier théologien au collège de Navarre à Paris en ;; Maître des grammairiens au collège de Navarre à Paris en ;.
+Family relationships: ?Son parent est Johannes CHAREL de ALBAPETRA, boursier au collège de Navarre en %1342-1353%..
+Ecclesiastical positions held: Chapelain de Langres (cathédrale : chapelle Saint-André) en %1362-1371% ;; Candidat à un canonicat à Troyes sur une supplique envoyée pour lui par CHARLES V, roi de France, en ;; Curé de l'égliseparoissiale de Châlons-en-Champagne (Saint-Leudomaire) en ;; Chanoine de Troyes avec réserve de prébende obtenue en ;; Chanoine de Clamecy (diocèse d'Auxerre) en %1370-1371% ;; Chapelain d'Ury (chaplle Saint-Jean Baptiste) au diocèse de Paris en %1378-1390% ;; Candidat à un canonicat de Laon avec réserve de prébende en ;; Candidat à un canonicat d'Autun avec réserve de prébende en ;; Recteur de l'égliseparoissiale de Meaux (Saint-Christophe) en ;; Prêtre de l'hospice de Nuilly en ;; Candidat à un canonicat de Limoges en ;; Candidat à la cure de Chalon (Saint-Gengulphe) ;.
+University functions: Paris (Université ; recteur en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/09/2024..

@@ -1,0 +1,10 @@
+PERSON: GERAUD
+Also known as: GERAUD.
+Description: Archidiacre de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1300-1312%.
+Studied at: ?.
+Academic grades obtained: Magister en ..
+Ecclesiastical positions held: Archidiacre de Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/01/2022..

@@ -1,0 +1,12 @@
+PERSON: BARTHOLOMAEUS Faventinus
+Also known as: Bartholomaeus FAVENTINUS; Bartolomeo da FAENZA.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1235-1285%.
+Born in: Italie (?Faenza)..
+Studied at: ?Bologne.
+Academic grades obtained: Magister ?.
+Religious order: O.P. ; frère dominicain du couvent (dominicain) de Bologne..
+Authored work: 'Summa brevis introductoria in artem dictaminis', composed around a.
+Source: http://www.treccani.it/enciclopedia/bartolomeo-da-faenza_res-5f00e000-87e7-11dc-8e9d-0016357eee51_(Dizionario-Biografico)/.

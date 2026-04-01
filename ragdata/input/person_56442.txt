@@ -1,0 +1,10 @@
+PERSON: PETRUS de Sermesiis
+Also known as: Petrus de SERMESIIS.
+Description: Chanoine du Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1363-1371%.
+Studied at: ?.
+Academic grades obtained: Bachelier en droit canon ;.
+Ecclesiastical positions held: Chanoine de Paphos %1363-1368% ;; Chanoine de LeMans %1368- % ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 10/08/2023)..

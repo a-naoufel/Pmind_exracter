@@ -1,0 +1,11 @@
+PERSON: LANONARIUS de Laugellerie
+Also known as: Lanonarius de LAUGELLERIE.
+Description: Bénédictin.
+Status: Gradué.
+Gender: male.
+Active during: %1461-1461%.
+Studied at: Paris %1461-1461%..
+Academic grades obtained: ?Bachelier en théologie (Paris) vers ..
+Religious order: O.S.B. : moine bénédictin..
+University functions: Paris (Faculté de Théologie : Lecteur de la Bible (1er cours) en (1er septembre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 19/08/2023)..

@@ -1,0 +1,11 @@
+PERSON: FRANCISCUS Net
+Also known as: Franciscus NET.
+Description: Étudiant en théologie.
+Status: Étudiant.
+Gender: male.
+Active during: %1484-1485%.
+Born in: Péninsuleibérique..
+Studied at: Paris %1484-1485%..
+Academic grades obtained: Étudiant (en théologie ?) à Paris en %1484-1485%..
+College affiliation: Sorbonne ; hôte en ;; Il est admis à la probatio hospitalitatis en (27 septembre) malgré les disputes entre Espagnols – voir le cas de Durandus HISPANUS ;; Il est reçu comme hôte en (11 octobre) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 14/05/2018)..

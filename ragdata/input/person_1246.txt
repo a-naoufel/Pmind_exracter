@@ -1,0 +1,9 @@
+PERSON: BALDUINUS Mancel
+Also known as: Balduinus MANCEL; Balduinus MANSEL.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1464-1487%.
+Studied at: Paris %:1464-1472%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet 3/12/2020)..

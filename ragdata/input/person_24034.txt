@@ -1,0 +1,11 @@
+PERSON: RELIOTUS Alberti
+Also known as: Reliotus ALBERTI; Rely ALBERTI.
+Description: Chapelain du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1391-1394%.
+Studied at: Paris %1391-1394%..
+Academic grades obtained: Étudiant (Paris) %1391-1394%..
+College affiliation: Collège de Dormans-Beauvais : chapelain en %1391-1394% ;.
+Ecclesiastical positions held: Prêtre ;; Chapelain de Paris (Collège de Dormans-Beauvais) %1391-1394% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 19/10/2023)..

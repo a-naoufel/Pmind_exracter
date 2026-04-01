@@ -1,0 +1,9 @@
+PERSON: AGNES de Capella
+Also known as: Agnès de CAPELLA.
+Description: Propriétaire de terres.
+Status: Extérieur.
+Gender: female.
+Active during: %1308-1308%.
+Family relationships: Son mari est Guillelmus de FORESTA, écuyer, dont elle est veuve en ; Son fils est Johannes de FORESTA..
+Social origin: Noble ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 22/11/2019..

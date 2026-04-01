@@ -1,0 +1,12 @@
+PERSON: BERTALDUS de Sancto-Dionysio 2
+Also known as: Bertaldus de SANCTO-DIONYSIO; Bertaud de Saint-Denys.
+Description: Chanoine de Sainte-Geneviève.
+Status: Gradué.
+Gender: male.
+Active during: %1344-1345%.
+Studied at: Paris..
+Academic grades obtained: Bachelier en théologie ..
+College affiliation: Sainte-Geneviève..
+Religious order: O.S.A. : ChanoineRégulier de Paris (Sainte-Geneviève)..
+Ecclesiastical positions held: Curé de Paris ("ecclesie parrochialis contigue monasterii Sancte Genovefe")..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet,.

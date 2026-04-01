@@ -1,0 +1,7 @@
+PERSON: ANNETTE de Arke
+Also known as: Annette de ARKE.
+Description: Propriétaire d’une maison.
+Status: Suppôt.
+Gender: female.
+Active during: %1286-1286%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 03/09/2020)..

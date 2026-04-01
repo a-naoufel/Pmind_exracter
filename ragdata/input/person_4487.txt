@@ -1,0 +1,10 @@
+PERSON: GUYOMARUS de Villaordei
+Also known as: Guyomarus de VILLAORDEI.
+Description: Prêtre.
+Status: Suppôt.
+Gender: male.
+Active during: %1359-1359%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical status: Prêtre..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 08/06/2022)..

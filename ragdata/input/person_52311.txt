@@ -1,0 +1,14 @@
+PERSON: OLIVERIUS de Bourges
+Also known as: Olivier de BOURGES.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1493-1517%.
+Born in: Anjou-Maine ?.
+Diocese of origin: Diocèse de LeMans..
+Studied at: Paris (Nation de France)..
+Academic grades obtained: Maître ès arts (Paris) ;; Licencié en théologie (Paris) ;; Docteur en théologie (Paris) ;.
+College affiliation: Collège de Presles : Maître-régent ès arts ;; Collège de Narbonne : Maître-régent ès arts ;.
+Ecclesiastical positions held: Curé de Saint-Pierre de Couleus (diocèse de Sens) %1514-1515% ;; Curé de Saint-LéonarddeBrolio (diocèse de Meaux) en 1514-1515 ;.
+University functions: Paris (Faculté des arts : Maître-régent ès arts au Collège de Presles et au Collège de Narbonne) ;; Paris (Faculté des arts : Maître-régent en théologie %1514-1515%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 01/05/2021)..

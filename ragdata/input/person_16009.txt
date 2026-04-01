@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS de Acu
+Also known as: Aegidius de ACU; Egidius de ACU.
+Description: Bachelier en décret..
+Status: Gradué.
+Gender: male.
+Active during: %1456-1456%.
+Diocese of origin: Diocèse de Cambrai..
+Studied at: Paris %1456-1456%..
+Academic grades obtained: Bachelier Décret (Paris) ..
+Ecclesiastical status: Prêtre du diocèse de Cambrai..
+University functions: Lecteur des Décrétales à Paris le 20 novembre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux; révision, Jean-Philippe Genet, 19/04/2020)..

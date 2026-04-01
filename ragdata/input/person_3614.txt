@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Herbeni
+Also known as: Guillelmus de HERBENI; Guillaume de HERBENI.
+Description: Étudiant en médecine..
+Status: Étudiant.
+Gender: male.
+Active during: %1397-1398%.
+Studied at: Paris (Faculté de médecine) %1397-1398%..
+Academic grades obtained: Étudiant en médecine (Paris) %1397-1398%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 26/03/2022..

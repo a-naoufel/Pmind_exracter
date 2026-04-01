@@ -1,0 +1,11 @@
+PERSON: BERTRANDUS Grecimer
+Also known as: Bertrandus GRECIMER.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1486-1486%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse de Clermont..
+Studied at: Paris %1486-1486%..
+Academic grades obtained: Bachelier en décret (Paris) (9 février)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 20/03/2021)..

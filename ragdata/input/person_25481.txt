@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Cantor Sancti-Vedasti
+Also known as: GUILLELMUS.
+Description: Chantre de Saint-Vaast d'Arras.
+Status: Étudiant.
+Gender: male.
+Active during: %1443-1444%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en théologie (Paris) ?.
+College affiliation: Sorbonne ;.
+Religious order: O.S.B. : moine bénédictin d'Arras (Saint-Vaast)..
+Religious functions: Chantre d'Arras (Saint-Vaast) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 01/03/2022)..

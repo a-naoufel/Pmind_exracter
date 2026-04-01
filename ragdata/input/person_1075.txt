@@ -1,0 +1,7 @@
+PERSON: ASSOT
+Also known as: ASSOT.
+Description: Herboriste.
+Status: Extérieur.
+Gender: male.
+Active during: %1322-1322%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; dernière mise à jour, Jean-Philippe Genet, 19/05/2020)..

@@ -1,0 +1,12 @@
+PERSON: SIMON de Ruilly
+Also known as: Simon de RUILLY.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1397-1399%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège de Dormans-Beauvais : boursier %1397-1399% ;.
+Family relationships: Son père est Jacques de RUILLY, président au Parlement de Paris ; Son frère est Louis de RUILLY, mort à la bataille d'Azincourt ; Son frère est Maurice de RUILLY, mort à la bataille d'Azincourt ; Son frère est Philippe de RUILLY, Conseiller-clerc au Parlement de Paris en %1410-1440% ; Son frère est Ythier de RUILLY, mort jeune ;.
+Social origin: Noble..
+Source: LAMOP : Opération Charles VI (n° 2502) :.

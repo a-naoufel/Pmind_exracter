@@ -1,0 +1,10 @@
+PERSON: MAUGINUS Canonici
+Also known as: Mauginus CANONICI.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1446-1446%.
+Studied at: Paris ..
+Academic grades obtained: Licencié en décret (Paris) en (11 avril)) ;.
+Academic relationships: Son maître est Martinus de FRAXINIS pour la licence en (11 avril) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ rédaction : Jean-Philippe Genet, 15/05/2022..

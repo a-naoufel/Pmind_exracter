@@ -1,0 +1,27 @@
+PERSON: ROBERTUS de Sorbona
+Also known as: Robert de SORBON; Robertus de SORBONA.
+Description: Archidiacre de Laon.
+Status: Maître.
+Gender: male.
+Active during: %1250-1274%.
+Born in: Champagne..
+Studied at: Paris ..
+Academic grades obtained: Étudiant ès arts (Paris) ;; Maître ès arts (Paris) ;; Étudiant en théologie (Paris) jusque vers ;; Maître en théologie (Paris) ..
+Social origin: Commun.
+Ecclesiastical positions held: Chanoine de Cambrai, ;; Chanoine de Paris, ;; Archidiacre de Laon, ..
+University functions: Maîtrerégent à Paris, %1250-1274%..
+Authored work: 'Comment in Priora Analytica', composed around ?.
+Authored work: 'Glossae divinorum librorum', composed around ?.
+Authored work: 'Gloses sur l'Anticlaudien (d'Alain de Lille)', composed around ?.
+Authored work: 'De conscientia', composed around ?.
+Authored work: 'De tribus dietis', composed around ?.
+Authored work: 'De confessione', composed around ?.
+Authored work: 'De matrimonio', composed around ?.
+Authored work: '[Sermons]', composed around %1260-1261%.
+Authored work: '[Sermons]', composed around %1261-1263%.
+Authored work: '[Divers]', composed around ?.
+Authored work: '[Statuts du collège de Sorbonne]', composed around ?.
+Authored work: '[Testament]', composed around ?.
+Authored work: 'Liber penitentialis mag. Roberti', composed around ?.
+Authored work: '[Paraphrase du De tribus dietis]', composed around ?.
+Authored work: '[Paraphrases du De Conscientia]', composed around ?.

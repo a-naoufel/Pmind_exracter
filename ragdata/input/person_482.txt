@@ -1,0 +1,29 @@
+PERSON: ALEXANDER de Sancto Elpidio
+Also known as: Alexander de SANCTO ELPIDIO; Alexandre de SANT'ELPIDIO; Alexander FASSITELLI de SANCTO ELPIDIO.
+Description: Augustin.
+Status: Maître.
+Gender: male.
+Active during: %1296-1326%.
+Born in: Italie (Marche d'Ancône (Sant-Elpidio)).
+Diocese of origin: Diocèse d'Ancône..
+Studied at: Paris %1296-1308%..
+Academic grades obtained: Bachelier en théologie (Paris) ;; Maître en théologie (Paris) avant ;.
+College affiliation: Couvent (O.E.S.A.) de Paris (Grands-Augustins) en %1296-1308%..
+Academic relationships: Son maître est probablement Jacques de VITERBE..
+Religious order: O.E.S.A. : frère augustin..
+Religious functions: Prieurgénéral des Augustins, %1312-1326%..
+University functions: Paris (Maître-Régent) ;; Premier lecteur en Théologie à la Curie (Anagni)..
+Authored work: 'De triplici sacerdotio', composed around ?.
+Authored work: 'Expositio in principium Evangelii Joannis', composed around ?, dedicated to Dédié au cardinal Alexander Franciscus CAETANUS..
+Authored work: 'In lib. Priorum Anayticorum', composed around ?.
+Authored work: 'In lib. Topicorum', composed around ?.
+Authored work: 'Quaestiones ordinariae', composed around ?.
+Authored work: 'Quodlibet', composed around ?.
+Authored work: 'Epitome librorum S. Augustini de Civitate Dei', composed around .
+Authored work: 'De ecclesiastica potestate, ad Joannem XXII', composed around %1323-1334%, dedicated to Dédié à JEAN XXII..
+Authored work: 'De evangelica paupertate', composed around ?.
+Authored work: 'De jurisdictione imperii et auctoritate Summi Pontificis', composed around ?.
+Authored work: 'De unitate ecclesiae', composed around ?.
+Authored work: 'Metaphysicae Distinctiones', composed around ?.
+Authored work: 'Tractatus de usura', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 19/09/2024)..

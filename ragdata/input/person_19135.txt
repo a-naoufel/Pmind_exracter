@@ -1,0 +1,8 @@
+PERSON: GUILLELMUS Pie Dieu
+Also known as: Guillelmus PIE DIEU.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.

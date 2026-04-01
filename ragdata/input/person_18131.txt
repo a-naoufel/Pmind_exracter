@@ -1,0 +1,9 @@
+PERSON: HERVEUS Rousselli 2
+Also known as: Herveus ROUSSELLI.
+Description: Maître ès arts..
+Status: Maître.
+Gender: male.
+Active during: %1417-1417%.
+Studied at: Paris %1417-1417%..
+Academic grades obtained: Maître ès arts (Paris) attesté le 24 mars ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 01-06-2015..

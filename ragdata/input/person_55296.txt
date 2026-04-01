@@ -1,0 +1,11 @@
+PERSON: PETRUS de La Belouse
+Also known as: Petrus de LA BELOUSE.
+Description: Chanoine de Mâcon.
+Status: Incertain.
+Gender: male.
+Active during: %1443-1443%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;; Licencié en droit canon ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Mâcon % -1443% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 19/02/2023)..

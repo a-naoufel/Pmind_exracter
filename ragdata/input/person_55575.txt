@@ -1,0 +1,11 @@
+PERSON: RADULPHUS de Spedona
+Also known as: Radulphus de SPEDONA.
+Description: Trésorier d’Évreux.
+Status: Incertain.
+Gender: male.
+Active during: %1310-1338%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son parent est peut-être A. de SPEDONA, chanoine d’Évreux ; Son parent est peut-être Nicholaus de SPEDONA, chanoine d’Évreux ; Son parent est peut-être Gaufridus de SPEDONA, chanoine d’Évreux ;.
+Ecclesiastical positions held: Chanoine d’Évreux %1310-1327% ;; Trésorier d’Évreux %1310-1327% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/02/2023)..

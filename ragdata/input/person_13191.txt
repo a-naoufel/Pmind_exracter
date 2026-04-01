@@ -1,0 +1,11 @@
+PERSON: BONABINUS de Sancto Aegidio
+Also known as: Bonabinus de SANCTO AEGIDIO.
+Description: Augustin.
+Status: Maître.
+Gender: male.
+Active during: %1485-1486%.
+Studied at: Paris %1485-1486%..
+Academic grades obtained: Licencié en théologie (Paris) (le 20 décembre) ;; Docteur en théologie (Paris) (le 29 mars) ..
+College affiliation: Couvent (augustin) de Paris (Grands-Augustins)..
+Religious order: O.E.S.A. : frère augustin.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (dernière mise à jour, Jean-Philippe Genet, 24/03/2021)..

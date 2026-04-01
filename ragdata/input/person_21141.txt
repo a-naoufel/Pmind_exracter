@@ -1,0 +1,10 @@
+PERSON: PETRUS Bourgnier
+Also known as: Petrus BOURGNIER.
+Description: Suppôt.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Family relationships: Son parent est (peut-être) Johannes BOURGNIER qui s’acquitte de sa contribution en même temps que lui ;.
+University functions: Paris (Université : nuncius en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/08/2016..

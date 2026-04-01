@@ -1,0 +1,9 @@
+PERSON: PETRUS Caronis 4
+Also known as: Petrus CARONIS; Pierre LECARON.
+Description: Imprimeur-Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1489-1500%.
+Studied at: Paris..
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 22/10/2020)..

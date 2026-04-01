@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Trelen
+Also known as: Guillelmus de TRELEN.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1379-1379%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Quimper ;.
+Studied at: Paris..
+Academic grades obtained: Étudiant en droit canon (Paris) ;.
+Ecclesiastical positions held: Clerc du diocèse de Quimper ;; Candidat à un bénéfice sur le rotulus baccalareorum et scolarium in art. studii Paris. en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 21/04/2022..

@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Abindon 2
+Also known as: Guillelmus de ABINDON.
+Description: Maître.
+Status: Extérieur.
+Gender: male.
+Active during: %1318-1366%.
+Born in: Angleterre..
+Studied at: Oxford :.
+Academic grades obtained: Maître ès arts (Oxford)..
+Ecclesiastical positions held: Recteur de Shellingford (Berkshire) % -1366%.; Recteur de Boxford (Berkshire) %1362-1366%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 04/03/2022..

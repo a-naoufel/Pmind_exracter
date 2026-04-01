@@ -1,0 +1,10 @@
+PERSON: GALTERIUS de Brifuel
+Also known as: Galterus de BRIFUEL.
+Description: Chanoine de Leuze..
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris en ..
+Academic grades obtained: Étudiant (Paris) ?.
+Ecclesiastical positions held: Chanoine de l'églisecollégiale de Leuze (Saint-Pierre), diocèse de Cambrai ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 6/11/2021..

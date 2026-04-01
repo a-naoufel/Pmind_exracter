@@ -1,0 +1,10 @@
+PERSON: PHILIPPUS Guilbon
+Also known as: Philippus GUILBON; Philippus GUILLON.
+Description: Maître en théologie à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1490-1492%.
+Studied at: Paris %1492-1492%..
+Academic grades obtained: Licencié en théologie (Paris) (21 mars) ;; Maître en théologie (Paris) (3 novembre) ..
+College affiliation: Collège des Cholets en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire PRIOL-HOOGLAND ; dernière mise à jour : Jean-Philippe Genet 22/10/2020)..

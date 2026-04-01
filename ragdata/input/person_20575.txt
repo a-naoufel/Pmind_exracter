@@ -1,0 +1,14 @@
+PERSON: SIGFREDUS Rotgeri
+Also known as: SIGFRIDUS Rotgeri; Sigfridus ROTGERI.
+Description: Évêque.
+Status: Étudiant.
+Gender: male.
+Active during: %1323-1353%.
+Born in: Suède (Västerås)..
+Diocese of origin: Diocèse de Västerås..
+Studied at: Paris, %:1323:-:1325:%..
+Academic grades obtained: Étudiant (P), %:1323:-:1325:%..
+Family relationships: Son père est ROTGER; Son frère est EVRARD, civis Arosiensis; Son neveu (fils de sa sœur) est ROTGERUS Everardi, chanoine d'Uppsala; Son parent (consanguineus) est PETRUS Arnulphi, clerc de Västerås, chanoine d'Uppsala..
+Social origin: Bourgeoisie.
+Ecclesiastical positions held: Curé de Lexand (diocèse de Västerås), %:1329-:1346%;; Doyen d'Uppsala (cathédrale), %1329-1352%;; Chanoine de Västerås, ;; Chanoine de Strängnäs, ;; Archevêqueélu d'Uppsala, ;; Évêque de Skara, %1352-1353%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 26/07/2016, dernière révision 14/08/2018..

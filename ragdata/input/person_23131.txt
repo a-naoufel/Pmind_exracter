@@ -1,0 +1,9 @@
+PERSON: HUGO 7
+Also known as: HUGO.
+Description: Scribe.
+Status: Suppôt.
+Gender: male.
+Active during: %1270-1270%.
+Studied at: Paris ..
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/08/2022..

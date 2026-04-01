@@ -1,0 +1,10 @@
+PERSON: ANDREAS de Reate
+Also known as: Andreas de REATE.
+Description: Chirurgien.
+Status: Étudiant.
+Gender: male.
+Active during: %1328-1332%.
+Born in: Italie (Latium (Rieti)) ?.
+Studied at: Montpellier %1332-1332% ;; Paris ?.
+Academic grades obtained: Étdiant en médecine (Paris) ?; Bachelier en médecine (Montpellier) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/08/2020)..

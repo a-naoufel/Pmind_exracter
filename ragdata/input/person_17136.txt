@@ -1,0 +1,10 @@
+PERSON: AEGIDIUS Coopertoris
+Also known as: Aegidius COOPERTORIS.
+Description: Conseiller-clerc au Parlement.
+Status: Incertain.
+Gender: male.
+Active during: %1345-1345%.
+Studied at: ?.
+Religious order: O.S.B. (Clunisien) s'il est prieur du prieuré (clunisien) de Crépy-en-Valois (Saint-Arnoul) ;.
+Religious functions: Prieur du prieuré (clunisien) de Crépy-en-Valois (Saint-Arnoul) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 07/01/2020..

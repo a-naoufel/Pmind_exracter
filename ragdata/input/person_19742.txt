@@ -1,0 +1,12 @@
+PERSON: FRANCISCUS de Vleterne
+Also known as: Franciscus de VLETERNE.
+Description: Chanoine augustin ?.
+Status: Maître.
+Gender: male.
+Active during: %1349-1349%.
+Born in: Flandre (Vleteren ?) ?.
+Diocese of origin: Diocèse de Thérouanne..
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Maître ès arts (Paris) ?.
+Religious order: ?O.S.A. : Chanoine augustin ?; Provision pour un canonicat à l'abbaye (Chanoines augustins) de Voormezeele (Sainte-Marie) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 2/09/2021..

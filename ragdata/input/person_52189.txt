@@ -1,0 +1,14 @@
+PERSON: HENRICUS de Alemania 2
+Also known as: Henricus de ALEMANIA; Henricus ALMANNUS; Henri de HAUTE ALLMAGNE.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1303-1303%.
+Born in: Alémanie ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) ;.
+Religious order: O.F.M. : frère franciscain..
+Religious functions: Ministre provincial ?.
+Authored work: '(Reportatio des cours de Duns Scot sur le premier livre des Sentences)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 3/04/2021)..

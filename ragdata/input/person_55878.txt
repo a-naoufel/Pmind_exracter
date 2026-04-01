@@ -1,0 +1,9 @@
+PERSON: THEODERICUS Boucouzel
+Also known as: Therricus BOUCOUZEL.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1446-1446%.
+Studied at: Paris.(Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) avant ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Dernière mise à jour Jean-Philippe Genet, 21/O4/2023..

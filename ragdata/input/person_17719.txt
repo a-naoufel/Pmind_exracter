@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Brumel
+Also known as: Guillelmus BRUMEL.
+Description: Étudiant en droit canon..
+Status: Étudiant.
+Gender: male.
+Active during: %1416-1416%.
+Studied at: Paris %1416-1416%..
+Academic grades obtained: Étudiant en décret (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 1/03/2022..

@@ -1,0 +1,11 @@
+PERSON: ADOLPHUS de Werda
+Also known as: Adolphus de WERDA.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1354-1355%.
+Born in: Saxe (Werda ?) ?.
+Studied at: Paris (Nation Anglo-allemande)..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ..
+Academic relationships: Son maître est Themo JUDEI pour la baccalauréat en ; Son maître est Henricus de KEMPEN pour la licence et la maîtrise en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 14/04/2020..

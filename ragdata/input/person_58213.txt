@@ -1,0 +1,11 @@
+PERSON: GEORGIUS Meszlenyi
+Also known as: Georgius MESZLENYI; Georgius PINTER de Messlen.
+Description: Chanoine de Györ.
+Status: Étudiant.
+Gender: male.
+Active during: %1500-1523%.
+Born in: Hongrie (Meszlen) ;.
+Studied at: Vienne ;; Paris ..
+Academic grades obtained: Bachelier ès arts (Paris) (Vienne) ;; Maître ès arts (Paris) (Vienne) ;; Étudiant (Paris) ..
+Ecclesiastical positions held: Chanoine de Györ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour, 08/11/2024..

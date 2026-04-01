@@ -1,0 +1,12 @@
+PERSON: PETRUS de Ruppe
+Also known as: Petrus de RUPPE.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1367-1371%.
+Studied at: Paris %1367-1371%..
+Academic grades obtained: Étudiant en décret (Paris) %1367-1371%..
+Ecclesiastical status: Prêtre..
+Religious order: O.S.B. : moine bénédictin de l'abbaye de Saint-Laumer à Blois (diocèse de Chartres)..
+Religious functions: Candidat, confirmé par le pape GRÉGOIRE XI, au prieuré d'Hacqueville (dépendance de Conches-en-Ouche dans le diocèse de Rouen) le 11 mars ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 21/09/2023..

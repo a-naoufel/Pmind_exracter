@@ -1,0 +1,8 @@
+PERSON: GUILLELMUS Landel
+Also known as: Guillelmus LANDEL; William de LANDALIS.
+Description: Evêque de St-Andrews.
+Status: Extérieur.
+Gender: male.
+Active during: %1342-1385%.
+Ecclesiastical positions held: Évêque de Saint-Andrews %1342-1385% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 6/12/2021..

@@ -1,0 +1,10 @@
+PERSON: MARTINUS Bonnot
+Also known as: Martinus BONNOT; Martin BONNOT.
+Description: Licencié en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1484-1509%.
+Studied at: Paris %:1484-1511%..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en médecine (Paris) à partir de %1484-1485% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ..
+Family relationships: Son père est Jaquet BONNOT ; Sa mère est Germaine BONNOT ; Sa femme est ? Son frère est Jean BONNOT..
+University functions: Maître-régent de la faculté de médecine de Paris, %1496-1509%?..

@@ -1,0 +1,28 @@
+PERSON: GEORGIUS Dragisic
+Also known as: Georgius DRAGISIC; Juraj DRAGISIC; Georgius BENIGNUS Salviatis; Giorgio Benigno SALVIATI.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1485-1520%.
+Born in: Bosnie (Srebrenica ou Jajce)..
+Studied at: Pavie ;; Bologne ;; Paris ;; Oxford..
+Academic grades obtained: Étudiant (Paris) ;; ?Maître ès arts ;; ?Maître en théologie..
+College affiliation: ?Couvent (franciscain) de Paris (Cordeliers) avant ?.
+Ecclesiastical status: Diacre ;.
+Religious order: O.F.M. : frère franciscainobservant : couvent (franciscain) de Raguse puis au couvent (franciscain) de Ferrara (SantoSpirito) ;; O.F.M. : frère franciscainconventuel à Rome ;.
+Religious functions: Inquisiteurgénéra de Toscane %1488-1490% ;; Ministreprovincial de Toscane ..
+Ecclesiastical positions held: Archevêque de Nazareth %1512-1520% ;; Evêque de Barletta %1512-1520%? ;.
+University functions: Urbino (Studiogenerale de l’ordre franciscainconventuel : régent ) ;; Florence (couvent franciscainconventuel (Santa Croce) : lecteur %1483-1491%) ;; Florence (couvent franciscainconventuel (Santa Croce) : maître-régent de théologie %1488-1491%) ;; Pise (couvent franciscain conventuel : lecteur ) ;; Raguse (couvent franciscainconventuel : lecteur ) ;; Rome (couvent franciscainconventuel (Santa Maria degli Angeli) : lecteur ) ;; Assise (couvent franciscainconventuel : lecteur )..
+Representation roles: Il fait partie d’une légation en Allemagne menée par le Cardinal CARVAJAL auprès de l’Empereur MAXIMILIEN en; Il participe au concile de LatranV en %1512-1517% ;.
+Authored work: 'Defensio cardinalis Bessarionis', composed around %1470-1471%..
+Authored work: 'De libertate et immutabilitate Dei ad Bessarionem', composed around ?, dedicated to Dédié au Cardinal BESSARION..
+Authored work: 'Liber de Arcanis Dei', composed around ?.
+Authored work: 'De communicatione divinae naturae', composed around %1472-1482%., dedicated to Dédié à Federico de MONTEFELTRE, duc de Urbino..
+Authored work: 'Fridericus, de animae regni principe', composed around %1472-1482%., dedicated to Dédié à Federico de MONTEFELTRE, duc de Urbino..
+Authored work: 'Questiones De Natura Angelica'.
+Authored work: 'Dialectica nova secundum mentem Doctoris Subtilis et beati Thomae Aquinatis aliorurnque realistarum', composed around ?, dedicated to Dédié à Piero di MEDICI et au cardinal Giovanni di MEDICI..
+Authored work: 'Correctio erroris qui ex equinoctio vernali in kalendario procedere solet', composed around %1516-1517%., dedicated to Adressé au Pape LÉON X..
+Authored work: 'Oratio funebris pro Iunio Georgio', composed around à Raguse, prononcée devant le Sénat...
+Authored work: 'Apologeticum seu Defensorium (pro Francisco Maria De Ruvere)', composed around ., dedicated to Dédié à JULES II et au Sénat cardinalice..
+Authored work: 'Tractatus De Rebus Moralibus Atque Ad Civile Regimen Pertinentibus', composed around ?.
+Source: DBI: (G. ERNST et P. ZAMBELLI) :.

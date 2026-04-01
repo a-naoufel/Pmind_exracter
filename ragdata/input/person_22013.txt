@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Carpentatoris 1
+Also known as: Guillelmus CARPENTATORIS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1368-1369%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 01/03/2022)..

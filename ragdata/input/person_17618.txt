@@ -1,0 +1,10 @@
+PERSON: GERARDUS Blaudel
+Also known as: Giraldus BLAUDEL.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1496-1496%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Châlons-en-Champagne..
+Studied at: Paris %1496-1496%..
+Academic grades obtained: Bachelier Cn.L. (Paris) 14 décembre ..

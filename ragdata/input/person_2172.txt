@@ -1,0 +1,73 @@
+PERSON: EUSTASIUS Buisine
+Also known as: EUSTACHE; WISTASSE; HUTTATIUS; Eustache BUISINE.; WISTASSE, dis Buisine; Eustache d’ARRAS.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1245-1270%.
+Born in: Artois (Arras)..
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) %1268-1269%..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) en et en %1268-1270% au moins..
+Religious order: O.F.M. : frère franciscain à Paris..
+Ecclesiastical positions held: ?Évêque de Coutances %1282-1291%..
+University functions: Paris (Faculté de théologie : maître-régent %1268-1270%)..
+Representation roles: Mission à l'instance de LOUIS IX, roi de France en compagnie d'un autre franciscain Lambert de LA COUTURE auprès des cardinaux alors réunis en conclave pour les prier de hâter leur décision et de trouver une solution au conflit avec l'église grecque : la lettre-réponse des cardinaux est datée de (15 mai) : c'est la dernière mention d'Eustache d'ARRAS, si du moins on le distingue de l'évêque de Coutances..
+Authored work: '(Sermo de beato Thomas apostolo et Collatio)', composed around (21 décembre)..
+Authored work: '(Sermon pour l'Annonciation ; et collation)', composed around (25 mars)..
+Authored work: '(Sermon pour la fête de Saint Pierre, martyr', composed around (29 mars)..
+Authored work: '(Sermon pour la fête de Saint Barnabé)', composed around (11 juin)..
+Authored work: '(Sermon pour la fête de Saint Jean-Baptiste', composed around (24 juin)..
+Authored work: '(Sermon pour la fête de Saint Jean-Baptiste et Collatio)', composed around (24 juin)..
+Authored work: '(De apostolis Petro et Paulo [Sermon et Col.])', composed around (29 juin)..
+Authored work: '(Sermon pour la fête de Saint Laurent)', composed around (10 août)..
+Authored work: '(Sermon pour l'Assomption et Collatio)', composed around (15 août)..
+Authored work: '(Sermon pour la fête de Saint Augustin', composed around 8 août)..
+Authored work: '(Sermon pour la fête de Saint Barthélemy et Collatio)', composed around (24 août)..
+Authored work: '(Sermon pour la décollation de Saint Jean-Baptiste)', composed around (29 août)..
+Authored work: '(Sermon pour la Nativité de Marie)', composed around (8 septembre)..
+Authored work: '(Sermon de Angelis et Collatio)', composed around (2 octobre)..
+Authored work: '(Sermo in I Domino Adventus)', composed around ?.
+Authored work: 'Sermo in dominica I Adventus', composed around ?, dedicated to Adressé aux Clarisses de Saint-Cloud..
+Authored work: 'Sermo in dominica II Adventus', composed around ?.
+Authored work: 'Sermo in dominica II Adventus', composed around ?.
+Authored work: 'Sermo in dominica III Adventus', composed around ?.
+Authored work: 'Sermo in dominica IV Adventus', composed around ?.
+Authored work: 'Prima dominica in Quadragesima apud Sanctum Benedictum magistri Eustachi', composed around ?.
+Authored work: 'Sermo fratris Eustachii Buisine in eodem Dominica', composed around ?.
+Authored work: '(Sermon pour le Jeudi-Saint)', composed around .
+Authored work: '(Sermo De resurrectione pour la fête de Pâques)', composed around (13 avril).
+Authored work: '(Sermo De resurrectione. In Pascha sermo)', composed around ?.
+Authored work: '(Sermon pour le 10ème dimanche après la Trinité)', composed around (28 août)..
+Authored work: '(Sermon pour le 18ème dimanche)', composed around .
+Authored work: '(Sermon pour la dédicace ; et Collatio)', composed around ?.
+Authored work: '(Sermon sur la miséricorde)', composed around ?.
+Authored work: '(Sermon pour le dimanche après Noël)', composed around (27 décembre)..
+Authored work: '(Sermon pour le dimanche après l'Epiphanie', composed around .
+Authored work: '(Sermon pour le 8ème dimanche après la Trinité)', composed around (14 août)..
+Authored work: '(Sermon pour le 11ème dimanche)', composed around (4 septembre)..
+Authored work: '(Sermons de Carême)', composed around ? (à Saint-Benoît)..
+Authored work: '(Comm. super Sent.)', composed around ?.
+Authored work: 'Quaestio de equalitate animarum', composed around ?.
+Authored work: 'Quaestio de cognitione caritatis', composed around ?.
+Authored work: 'Quaestio de immortalitate', composed around ?.
+Authored work: 'Quaestiones de aeternitate septem', composed around ?.
+Authored work: 'Quaestiones de agente creato', composed around ?.
+Authored work: 'Quaestiones de angelis tres', composed around ?.
+Authored work: 'Quaestiones de anima in corpore tres', composed around ?.
+Authored work: 'Quaestiones de ascensu animarum tres', composed around ?.
+Authored work: 'Quaestiones de beatitudine tres', composed around ?.
+Authored work: 'Quaestiones de corruptione caritatis seu gratiae duo', composed around ?.
+Authored work: 'Quaestiones de diuinarum personarum distinctione duo', composed around ?.
+Authored work: 'Quaestiones de exitu animarum a corporibus sex', composed around ?.
+Authored work: 'Quaestiones de fide et scientia in patria tres', composed around ?.
+Authored work: 'Quaestiones de maternitate divina tres', composed around ?.
+Authored work: 'Quaestiones de naturali dilectione septem', composed around ?.
+Authored work: 'Quaestiones de ordine caritatis octo', composed around ?.
+Authored work: 'Quaestiones de veniali peccato [31 questions]', composed around ?.
+Authored work: 'Quodlibeta I-III', composed around ?.
+Authored work: 'Quaestiones de anima tres', composed around ?.
+Authored work: 'Quaestiones XI de productione rerum, de imagine et de anima', composed around ?.
+Authored work: '(Sermon pour le 2ème dimanche de l'Avent)', composed around .
+Authored work: '(Sermon pour l'Epiphanie)', composed around (6 janvier)..
+Authored work: 'Super librum Ethicorum', composed around ?.
+Source: B. ROEST, Franciscan Authors, 13th-18th Century : A catalogue in progress (Eustachius Atrebatensis) : http://users.bart.nl/~roestb/franciscan/index.htm.

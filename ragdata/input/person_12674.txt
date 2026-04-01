@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Lonuel
+Also known as: Guillelmus LONUEL.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1454-1454%.
+Studied at: Paris %1454-1454%..
+Academic grades obtained: Bachelier en théologie (Paris) ..
+Academic relationships: Son maître est Thomas TROUSSEL, D.T., en ..
+Religious order: O.S.B. : moine bénédictin ;.
+University functions: Paris (Faculté de Théologie : Lecteur de la Bible (1er cours) en (11 mai)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 15/05/2022..

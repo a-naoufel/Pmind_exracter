@@ -1,0 +1,11 @@
+PERSON: BALDUINUS Paillet
+Also known as: Balduinus PAILLET.
+Description: Hôte du collège de Dainville.
+Status: Maître.
+Gender: male.
+Active during: %1506-1512%.
+Diocese of origin: Diocèse de Thérouanne ;.
+Studied at: Paris (Nation de Picardie) en ..
+Academic grades obtained: Maître ès arts (Paris) ;.
+College affiliation: Collège de Dainville : hôte en %1506-1510% ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

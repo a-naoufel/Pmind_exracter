@@ -1,0 +1,10 @@
+PERSON: MICHAEL 4
+Also known as: MICHAEL.
+Description: Chapelain de la léproserie de Lizy-sur-Ourcq.
+Status: Incertain.
+Gender: male.
+Active during: %1318-1318%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chapelain de la léproserie de Lizy-sur-Ourcq en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 20/03/2020..

@@ -1,0 +1,12 @@
+PERSON: ROBERTUS de Valla
+Also known as: Robertus de VALLA.
+Description: Membre du Collège de Maître-Gervais.
+Status: Étudiant.
+Gender: male.
+Active during: %1382-1393%.
+Studied at: Paris %1382-1393%..
+Academic grades obtained: Étudiant (Paris) %1382-1393%..
+College affiliation: Collège de Maître-Gervais : socius %1382-1393% ;; Collège de Maître-Gervais : chapelain ;.
+Ecclesiastical status: Prêtre ?.
+Ecclesiastical positions held: Chapelain du Collège de Maître-Gervais en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Marion Bernard-Schweitzer 16/09/2020..

@@ -1,0 +1,9 @@
+PERSON: MARGARETA de Sens
+Also known as: Marguerite de SENS.
+Description: Marchande de livres.
+Status: Suppôt.
+Gender: female.
+Active during: %1292-1292%.
+Studied at: Paris ?.
+Family relationships: Son mari est Guillaume de SENS, libraire..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/04/2021..

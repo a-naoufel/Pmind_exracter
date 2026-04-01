@@ -1,0 +1,10 @@
+PERSON: GERARDUS de Lyn
+Also known as: Gerardus de LYN.
+Description: Licencié ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1357-1359%.
+Studied at: Paris (Nation Anglo-allemande) %1357-1359%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;.
+Academic relationships: Son maître est Henricus de EMBEKE pour le baccalauréat en ; Son maître est Albertus de SAXONIA pour la licence en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 7/01/2021.

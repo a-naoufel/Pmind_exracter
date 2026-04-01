@@ -1,0 +1,10 @@
+PERSON: GREGORIUS de Valle Scholarium
+Also known as: Gregorius de VALLE SCHOLARIUM.
+Description: Chanoine du Val des Écoliers.
+Status: Maître.
+Gender: male.
+Active during: %1267-1271%.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie ;.
+Religious order: O.S.A. : Chanoinerégulier du ValdesÉcoliers..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 21/01/2022..

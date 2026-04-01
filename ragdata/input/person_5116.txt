@@ -1,0 +1,14 @@
+PERSON: HIERONYMUS de Moravia
+Also known as: Jérôme de MORAVIE.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1260-1304%.
+Born in: Moravie..
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris)..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère dominicain.
+Authored work: 'Tractatus de Musica', composed around %1272-1304%..
+Authored work: 'Discantus positio vulgaris', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 7/10/2020..

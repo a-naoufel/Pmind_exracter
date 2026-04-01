@@ -1,0 +1,12 @@
+PERSON: BERNARDUS Sabatorii
+Also known as: Bernardus SABATORII; Bernardus de BALBONA.
+Description: Cistercien.
+Status: Maître.
+Gender: male.
+Active during: %1381-1390%.
+Studied at: Paris %1381-:1390%..
+Academic grades obtained: Licencié en théologie (Paris) (Carême) ;; Docteur en théologie (Paris) ..
+College affiliation: Collèges des Bernardins ?.
+Religious order: Cistercien.
+Religious functions: Prieur de l'abbaye de Boulbonne en ;; Chargé de réformer les abbayes des royaumes de Castille, d'Aragon, du Portugal et de Navarre par le chapitre général en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 20/02/2021).

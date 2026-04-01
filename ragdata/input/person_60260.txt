@@ -1,0 +1,12 @@
+PERSON: BOEMUNDUS de de Saarbrücken
+Also known as: Boemundus de SAARBRÜCKEN.
+Description: Archevêque de Trèves.
+Status: Étudiant.
+Gender: male.
+Active during: %1307-1367%.
+Studied at: Paris %1307-1308%..
+Academic grades obtained: Magister (université inconnue).; Étudiant en décret (Paris) %1307-1308% ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Trèves %1308-1354% ;; Chanoine de Verdun %1328-1342% ;; Chanoine de Coblence (St.Kastor) %1324-1346% ;; Archidiacre de Trèves %1325-1354% ;; Aumônier de Metz ;; Chanoine de Trèves (Saint-Paulin) %1335-1354% ;; Prévôt de Trèves (Saint-Paulin) %1335-1354% ;; Chanoine de Metz %1342-1354% ;; Chanoine de Cologne %1342-1354% ;; Archevêque de Trèves %1354-1362%..
+Other ecclesiastical functions: Official de Trèves %1338-1341%..
+Source: NDB (Richard LAUFNER) ;.

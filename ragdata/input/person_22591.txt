@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Bussy
+Also known as: Guillelmus de BUSSY; Guillelmus de BUCY.
+Description: Évêque d'Orléans.
+Status: Extérieur.
+Gender: male.
+Active during: %1237-1258%.
+Studied at: ?.
+Academic grades obtained: Magister ;; Prévôt de Reims %1237-1238% ;.
+Ecclesiastical positions held: Évêque de Orléans %1238-1258%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 19/04/2018..

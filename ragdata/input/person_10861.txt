@@ -1,0 +1,13 @@
+PERSON: RICARDUS de Clive 3
+Also known as: Richard de CLIVE.
+Description: Bénédictin.
+Status: Extérieur.
+Gender: male.
+Active during: %1306-1315%.
+Born in: ?Angleterre..
+Studied at: Oxford..
+Academic grades obtained: Bachelier en théologie (Oxford ?)..
+Religious order: O.S.B. : moine (bénédictin) de l'abbaye (bénédictine) d'Abingdon (Berkshire)..
+Religious functions: Abbé (bénédictin) d'Abingdon %1306-1315%..
+Authored work: '[Questio]', composed around ? à Oxford..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 19/06/2024).

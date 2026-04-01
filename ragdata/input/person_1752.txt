@@ -1,0 +1,10 @@
+PERSON: CONRADUS Kesselring
+Also known as: Conradus KESSELRING.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1411-1412%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Wilhelmus BLOC pour le baccalauréat. Son maître est Henricus GORICHEM pour la licence et la maîtrise..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 27/04/2021..

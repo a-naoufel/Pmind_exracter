@@ -1,0 +1,12 @@
+PERSON: ROBERTUS de Ursicampo
+Also known as: Robertus de URSICAMPO.
+Description: Cistercien.
+Status: Maître.
+Gender: male.
+Active during: %1428-1442%.
+Studied at: Paris %1428-1437%..
+Academic grades obtained: Bachelier en théologie biblicus (Paris) %1428-1429% ;; Licencié en théologie (Paris) (le 20 décembre) ..
+Religious order: O.Cist. : moine cistercien du ?monastère d'Ourscamp ;.
+Religious functions: ?Abbé de Longpont, %1430-1442%..
+University functions: Paris (Faculté de Théologie : Lecteur de la Bible (1er cours) à Paris en ) ;; Paris (Faculté de Théologie : Lecteur de la Bible (2e cours) en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 27/12/2018..

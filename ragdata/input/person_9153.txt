@@ -1,0 +1,10 @@
+PERSON: NICOLAUS de Seria
+Also known as: Nicolaus de SERIA; Nicolas de SERIA.
+Description: Boursier grammairien au collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1382-1382%.
+Studied at: Paris %1382-1382%..
+Academic grades obtained: Étudiant en grammaire (Paris) ..
+College affiliation: Boursier grammairien au collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/10/2023..

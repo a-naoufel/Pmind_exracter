@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Mestre
+Also known as: Guillelmus MESTRE.
+Description: Official de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1217-1218%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Other ecclesiastical functions: Official de Rodez %1217-1218% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 31/05/2022..

@@ -1,0 +1,10 @@
+PERSON: MICHAEL de Noroy
+Also known as: Michel de NOROY.
+Description: Écolier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1389-1389%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège de Dormans-Beauvais : écolier ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 27/09/2023)..

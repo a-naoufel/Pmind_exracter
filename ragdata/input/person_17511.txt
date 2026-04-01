@@ -1,0 +1,9 @@
+PERSON: GALFREDUS Cuillier
+Also known as: Gaufridus CUILLIER.
+Description: Maître en décret..
+Status: Maître.
+Gender: male.
+Active during: %1436-1436%.
+Studied at: Paris %1436-1436%..
+Academic grades obtained: Maître en décret (Paris) attesté le 20 mars ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 4/10/2021..

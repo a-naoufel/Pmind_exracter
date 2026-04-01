@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Divitis
+Also known as: Guillelmus DIVITIS; Guillaume LERICHE.
+Description: Procureur de l'Université au Châtelet de Paris.
+Status: Suppôt.
+Gender: male.
+Active during: %1421-1451%.
+Studied at: Paris..
+Academic grades obtained: Maître ?.
+Family relationships: Son gendre est THOMAS qui obtient un office de libraire à sa mort en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

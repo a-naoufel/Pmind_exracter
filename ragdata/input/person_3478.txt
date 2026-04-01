@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Cornet 2
+Also known as: Guillelmus CORNET; Guillaume CORNET.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1480-1501%.
+Studied at: Paris (Faculté de Médecine) %1480-1482% ;.
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ;.
+College affiliation: Collège de Maître-Gervais : socius ;; Grand bàursier en médecine ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

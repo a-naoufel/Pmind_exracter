@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Grimont
+Also known as: Guillelmus GRIMONT; Guillaume GRIMONT.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1403-1403%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie) %1403-1403%..
+Academic grades obtained: Maître ès arts (Paris) attesté en ;; Licencié en médecine (Paris) attesté en ;; Maître en médecine (Paris) attesté en ..
+Ecclesiastical positions held: Prêtre..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 20/03/2020..

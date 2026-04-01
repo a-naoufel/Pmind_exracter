@@ -1,0 +1,12 @@
+PERSON: MICHAEL Fabri 1
+Also known as: Michael FABRI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1349-1349%.
+Born in: Bourgogne ;.
+Diocese of origin: Diocèse de Chalon-sur-Saône..
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) ;.
+Ecclesiastical positions held: Candidat à un bénéfice ecclésiastique sur le rotulus de la Natio Gallicana en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 17/03/2019..

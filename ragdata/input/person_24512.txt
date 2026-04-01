@@ -1,0 +1,7 @@
+PERSON: HUGO Petit 1
+Also known as: Huguoni PETIT.
+Description: Peintre.
+Status: Extérieur.
+Gender: male.
+Active during: %1445-1445%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 09/09/2022..

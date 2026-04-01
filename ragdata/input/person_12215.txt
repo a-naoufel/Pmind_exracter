@@ -1,0 +1,9 @@
+PERSON: VALRAND
+Also known as: VALRAND.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1365-1365%.
+Studied at: Paris %1365-1365%..
+Academic grades obtained: Maître en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 14/10/2024..

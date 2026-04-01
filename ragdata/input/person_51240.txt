@@ -1,0 +1,39 @@
+PERSON: HUGO de Sancto Caro
+Also known as: Hugo de SANCTO CARO; Hugues de SAINT CHER; Hugues de VIENNE; Hugo BURGUNDUS.
+Description: Cardinal dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1210-1263%.
+Born in: Dauphiné (Saint-Cher ou Saint-Theudère, près de Vienne) ;.
+Diocese of origin: Diocèse de Vienne ?.
+Academic grades obtained: Docteur en droit canon (Paris) ;; Bachelier en théologie (Paris) ;; Maître en théologie %1230-1235%..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Paris (Saint-Jacques) ..
+Religious functions: Provincial de France en %1227-1230% et en %1236-1244%.; Vicaire-général des Dominicains %1240-1241% ;; Préside le Chapitre (dominicain) de Paris en ;.
+Ecclesiastical positions held: Cardinal-prêtre de Sainte-Sabine %1244-1263%..
+University functions: Paris (Maître en théologie en exercice) avant ;; Paris (Lecteur en Théologie) %1229-1230%..
+Representation roles: Il participe au concile de Lyon en ;; Chargé de missions par le pape INNOCENT IV %1243-1244% ;; Légat en Allemagne en %1251-1253%..
+Authored work: 'Comment. in 4 libros Sententiarum', composed around %1229-1230%.
+Authored work: 'Quaestiones disputatae', composed around ca..
+Authored work: 'Postillae in Bibliam', composed around ?.
+Authored work: '(Sermon pour des martyrs)', composed around ?%1235-1238%.
+Authored work: '(Sermon pour le 3e dimanche de Carême)', composed around .
+Authored work: '(Sermon pour le 4e dimanche de Carême)', composed around .
+Authored work: '(Sermon pour le dimanche des Rameaux)', composed around .
+Authored work: '(Sermon pour le 2e dimanche après Pâques)', composed around .
+Authored work: 'Sermones dominicales totius anni', composed around ?.
+Authored work: 'Sermones de tempore', composed around ?.
+Authored work: 'Themata', composed around ?.
+Authored work: '(Concordantiae Bibliae)', composed around ?%1236-1240%.
+Authored work: 'Speculum Ecclesiae', composed around ?.
+Authored work: '(Epistulae vel declarationes : Observations sur l'Evangelium aeternum)', composed around .
+Authored work: 'Correctorium Bibliae', composed around .
+Authored work: 'Expositio super Apocalypsim', composed around ?.
+Authored work: 'De duodecim utilitatibus tribulationum', composed around ?.
+Authored work: 'Summa praedicatorum', composed around ?.
+Authored work: 'Questio de beneficiis ecclesiasticis', composed around .
+Authored work: 'Expositiones super historiam scolasticam', composed around ?.
+Authored work: 'Littera de canonizatione beati Dominici', composed around ?.
+Authored work: 'Tractatus de confessione', composed around ?.
+Authored work: 'Epitome Sent. P. Lombardi', composed around ?.
+Source: ARLIMA, Laurent BRUN :.

@@ -1,0 +1,11 @@
+PERSON: PETRUS Le Royier
+Also known as: Petrus LE ROYIERS.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1450-1450%.
+Born in: Bretagne (Rennes) ?.
+Diocese of origin: Diocèse de Rennes ;.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 23/06/2023..

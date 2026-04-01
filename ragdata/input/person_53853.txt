@@ -1,0 +1,12 @@
+PERSON: AUGERIUS Baracii
+Also known as: Augerius BARACII; Augerius BARRÈS; Augerius BARASSII.
+Description: Chanoine de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1485-1501%.
+Studied at: ?.
+Academic grades obtained: Licencié in utroque jure ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Rodez %1485-1501% ;.
+Other ecclesiastical functions: Official de Rodez %1485-1494% ;; Vicaire de Rodez ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 2/06/2022..

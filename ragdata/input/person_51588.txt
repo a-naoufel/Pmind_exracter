@@ -1,0 +1,10 @@
+PERSON: CHRISTIANUS Coc
+Also known as: Christianus COC; Christianus COT.
+Description: Hôte de la Sorbonne.
+Status: Maître.
+Gender: male.
+Active during: %1380-1380%.
+Studied at: Paris..
+Academic grades obtained: Docreur en décret (Paris ?) ;.
+College affiliation: Sorbonne : hôte à une date inconnue ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 27/11/2020)..

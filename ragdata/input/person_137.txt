@@ -1,0 +1,9 @@
+PERSON: ADOLPHUS de Praellis
+Also known as: Adolfus de PRAELLIS.
+Description: Notaire ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1374-1374%.
+Studied at: ?.
+Academic grades obtained: ?Magister (Paris)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 14/04/2020..

@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Chesnel
+Also known as: Guillelmus CHESNEL.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1415-1415%.
+Studied at: Paris %1415-1415%..
+Academic grades obtained: Bachelier en décret (Paris) attesté en ..
+Religious order: Frater..
+University functions: Paris (Faculté de Décret : Lecteur des Clémentines (2e année) en (24 mai)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 3/03/2022..

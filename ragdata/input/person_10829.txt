@@ -1,0 +1,14 @@
+PERSON: RICARDUS Agoulant
+Also known as: Richard AGOULANT.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1362-1365%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Bayeux..
+Studied at: Paris (Nation de Normandie) %1362-1365%..
+Academic grades obtained: Maître ès arts (Paris) ;; Maître en médecine (Paris) ..
+Ecclesiastical status: Clerc du diocèse de Bayeux ;.
+Ecclesiastical positions held: Candidat à un canonicat de Coutances en ..
+University functions: Paris (Faculté de médecine : Maître régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 04/04/2021)..

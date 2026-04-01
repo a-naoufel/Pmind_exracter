@@ -1,0 +1,10 @@
+PERSON: MATTHAEUS de Bonaquist
+Also known as: Matthaeus de BONAQUIST.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1385-1385%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en théologie ?.
+Religious order: Franciscain..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 23/10/2020)..

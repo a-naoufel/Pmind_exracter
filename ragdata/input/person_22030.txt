@@ -1,0 +1,9 @@
+PERSON: CAROLUS de Mota 1
+Also known as: Carolus de MOTA; Charles de LAMOTHE.
+Description: Chanoine d'Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1467-1507%.
+Studied at: ?.
+Academic grades obtained: Maître.
+Ecclesiastical positions held: Chanoine d'Amiens %1467-1507% ;.

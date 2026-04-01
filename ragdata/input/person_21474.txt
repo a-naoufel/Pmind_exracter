@@ -1,0 +1,11 @@
+PERSON: Prior Sancti Eligii Parisiensis
+Also known as: Prior SANCTI ELIGII Parisiensis.
+Description: Prieur de Saint-Éloi.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant (Paris) ?.
+Religious order: O.S.B. : moine bénédictin..
+Religious functions: Prieur (bénédictin) de Paris (Saint-Éloi)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 12/05/2024..

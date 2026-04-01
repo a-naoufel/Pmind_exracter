@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS de Aldenardo
+Also known as: Egidius de ALDENARDO; Gilles d'AUDENARDE.
+Description: Socius de la Sorbonne.
+Status: Maître.
+Gender: male.
+Active during: %1308-1320%.
+Born in: Flandre (Audenarde) ?.
+Diocese of origin: Diocèse de Tournai ?.
+Studied at: Paris..
+Academic grades obtained: Magister.; Étudiant à la Faculté de Théologie ;.
+College affiliation: Sorbonne: socius et procureur en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 27/03/2020..

@@ -1,0 +1,9 @@
+PERSON: PETRUS Rosdien
+Also known as: Petrus ROSDIEN.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1448-1448%.
+Studied at: Paris (Nation de France) avant ..
+Academic grades obtained: Maître ès arts (Paris) avant ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/09/2023..

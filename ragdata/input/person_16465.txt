@@ -1,0 +1,12 @@
+PERSON: NICOLAUS Columbi
+Also known as: Nicolaus COLUMBI; Nicolas de COULOMPS; Nicolaus COLOMP; Nicolaus COULOM; Nicolaus COULOMP; Nicolaus COULONS.
+Description: Recteur de l'Université de Paris..
+Status: Maître.
+Gender: male.
+Active during: %1467-1500%.
+Studied at: Paris (Nation de Normandie) %1467-1500% ;.
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en théologie (Paris) ;; Licencié en théologie (Paris) (21 mars) ;; Maître en théologie (Paris) (22 octobre) ;.
+College affiliation: Collège de Maître-Gervais : socius %1467-1494% au moins ;; Collège de Maître-Gervais : procureur en %1473-1480% ;; Collège de Maître-Gervais : grand boursier théologien en ;; Collège de Maître-Gervais : principal des artiens en ;; Collège de Maître-Gervais : régent en arts ;; Collège de Maître-Gervais : principal en ;.
+Ecclesiastical positions held: Chanoine de Paris (Notre-Dame) ;; Archidiacre de Jouy-en-Josias, 3 août ;; Chanoine de Bayeux ;; Bénéfices à la collation de l'abbé et couvent de Saint-Victor de Paris 2 mars ;; Bénéfices à la collation de l'abbé et couvent de La-Couture-du-Mans, 2 mars ;.
+University functions: Paris (Collège de Maître-Gervais : régent en arts) ;; Paris (Université : recteur élu par la Faculté des Arts le 16 décembre ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet 16/09/2020..

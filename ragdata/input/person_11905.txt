@@ -1,0 +1,9 @@
+PERSON: THOMAS Falyn
+Also known as: Thomas FALYN.
+Description: Faux docteur en médecine..
+Status: Extérieur.
+Gender: male.
+Active during: %1118-1118%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/09/2024)..

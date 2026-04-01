@@ -1,0 +1,10 @@
+PERSON: BERTALDUS de Bréançon
+Also known as: Berthaud de BRÉANCON; Berthaud de BRIANCON; Berthaud de BRÉQUIGNY.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1313-1319%.
+Studied at: Paris..
+Academic grades obtained: Magister (Paris) ?.
+College affiliation: Sorbonne : cité comme prieur en ou ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/02/2021)..

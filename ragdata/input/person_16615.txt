@@ -1,0 +1,13 @@
+PERSON: HUGO de Bappalmis
+Also known as: Hugo de BAPPALMIS.
+Description: Maître en décret.
+Status: Maître.
+Gender: male.
+Active during: %1272-1303%.
+Born in: ?Artois (Bapaume ?) ?.
+Diocese of origin: Diocèse d'Arras ?.
+Studied at: Paris (Faculté de Décret) ..
+Academic grades obtained: Maître en décret (Paris) ..
+Ecclesiastical positions held: Chanoine d'Arras %1282-1303% ;.
+University functions: Paris (Faculté de Décret : Maître régent en droit canon en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 30/08/2022..

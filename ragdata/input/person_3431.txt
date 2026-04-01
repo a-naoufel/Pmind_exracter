@@ -1,0 +1,7 @@
+PERSON: GUILBERTUS de Guedinge
+Also known as: Guilbert de GUEDINGE.
+Description: Barbier parisien.
+Status: Incertain.
+Gender: male.
+Active during: %1301-1301%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe GENET, 06/02/2022..

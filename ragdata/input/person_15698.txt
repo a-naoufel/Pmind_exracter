@@ -1,0 +1,12 @@
+PERSON: ANTHONIUS de Sancto Georgio
+Also known as: Anthonius de SANCTOGEORGIO.
+Description: Bachelier Décret.
+Status: Gradué.
+Gender: male.
+Active during: %1482-1482%.
+Born in: Limousin ?.
+Diocese of origin: Diocèse de Limoges..
+Studied at: Paris %1482-1482%..
+Academic grades obtained: Bachelier Décret (Paris) (le 13 mars) ..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales à Paris en (17 mars) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; Jean-Philippe Genet, dernière mise à jour 28/09/2020)..

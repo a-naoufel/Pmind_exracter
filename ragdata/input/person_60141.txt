@@ -1,0 +1,11 @@
+PERSON: THOMAS Stauron
+Also known as: Thomas STAURON.
+Description: Écolier du collège de Dainville.
+Status: Maître.
+Gender: male.
+Active during: %1424-1424%.
+Studied at: Paris..
+Academic grades obtained: Maître ;.
+College affiliation: Collège de Dainville : écolier en ;.
+Ecclesiastical positions held: Chanoine d’Arras..
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

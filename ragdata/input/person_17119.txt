@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS de Couvino
+Also known as: Aegidius de COUVINO.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1365-1365%.
+Diocese of origin: Diocèse de Cambrai ;.
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Maître ès arts (Paris) en ;.
+Ecclesiastical status: Clerc du diocèse de Cambrai..
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiastique à la collation du doyen et du chapitre de Lille (collégiale Saint-Pierre) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 26/04/2020)..

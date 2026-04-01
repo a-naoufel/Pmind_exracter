@@ -1,0 +1,8 @@
+PERSON: ALANUS 5
+Also known as: ALANUS.
+Description: Prisonnier au Châtelet..
+Status: Extérieur.
+Gender: male.
+Active during: %1391-1391%.
+Studied at: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Dernière mise à jour, Jean-Philippe Genet 20/05/2020)..

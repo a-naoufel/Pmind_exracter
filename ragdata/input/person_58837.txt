@@ -1,0 +1,10 @@
+PERSON: ROBERTUS Parisiensis 3
+Also known as: Robertus PARISIENSIS.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1275-1275%.
+Studied at: Paris ?.
+Academic grades obtained: Maître ès arts ?.
+Authored work: 'Summa ‘Breve Sit’', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

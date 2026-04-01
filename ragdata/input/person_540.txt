@@ -1,0 +1,10 @@
+PERSON: ALPHONSUS Martini
+Also known as: Alphonsus MARTINI.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1436-1437%.
+Studied at: Paris (Faculté de Théologie) ..
+Academic grades obtained: Bachelier en théologie (Paris)..
+University functions: Paris (Faculté de Théologie : Cursor )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 16/07/2020..

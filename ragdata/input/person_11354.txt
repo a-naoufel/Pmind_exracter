@@ -1,0 +1,9 @@
+PERSON: SIMON 10
+Also known as: SIMON.
+Description: Notaire.
+Status: Extérieur.
+Gender: male.
+Active during: %1290-1290%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 4/11/2021..

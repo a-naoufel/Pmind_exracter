@@ -1,0 +1,9 @@
+PERSON: STEPHANUS de Moret
+Also known as: Stephanus de MORET.
+Description: Habitant de Paris ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1282-1282%.
+Studied at: ?.
+Social origin: Bourgeois de Paris ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 31/01/2024)..

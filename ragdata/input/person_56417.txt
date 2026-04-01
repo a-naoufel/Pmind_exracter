@@ -1,0 +1,10 @@
+PERSON: MATTHAEUS Dallicoet
+Also known as: Matthaeus DALLICOET.
+Description: Chanoine du Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1204-1209%.
+Studied at: ?.
+Academic grades obtained: Maître ;; Sous-diacre ;.
+Ecclesiastical positions held: Chanoine de LeMans %1204-1209% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 3/08/2023)..

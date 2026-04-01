@@ -1,0 +1,16 @@
+PERSON: HUGO de Borgognonibus Lucanus
+Also known as: Hugo de BORGOGNONIBUS; Hugo LUCANUS.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1291-1322%.
+Studied at: Cologne; Paris..
+Academic grades obtained: Étudiant (Cologne) ;; Étudiant (Paris) ;.
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Academic relationships: Son maître est ALBERTUS Magnus..
+Religious order: O.P. : frère dominicain..
+Religious functions: Prieur (dominicain) de Lucques %1291-1298% ;; Prédicateur général ;; Prieurprovincial (dominicain) de Rome %1299-1304%..
+University functions: Lucques (couvent dominicain : lecteur) ..
+Authored work: 'Epistola ad fratres conv. Lucani', composed around .
+Authored work: 'Chronica provinciae Romanae Ord. Praed.', composed around ?.
+Source: MIRABILE, Andrea CENCINI :.

@@ -1,0 +1,8 @@
+PERSON: BARTHOLOMAEUS Recent
+Also known as: Bartholomaeus RECENT.
+Description: Papetier de Troyes.
+Status: Suppôt.
+Gender: male.
+Active during: %1415-1415%.
+University functions: Paris (Université : papetier ou marchand de papier de Troyes)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 25/02/2020)..

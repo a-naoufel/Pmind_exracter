@@ -1,0 +1,9 @@
+PERSON: THOMAS Couillart
+Also known as: Thomas COUILLART.
+Description: Notaire.
+Status: Incertain.
+Gender: male.
+Active during: %1373-1373%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

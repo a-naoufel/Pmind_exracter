@@ -1,0 +1,12 @@
+PERSON: ALBERTUS de Spiria
+Also known as: Albertus de SPIRIA.
+Description: Bachelier.
+Status: Gradué.
+Gender: male.
+Active during: %1343-1343%.
+Born in: Rhénanie ?.
+Diocese of origin: Diocèse de Spire ?.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Academic relationships: Son maître est Johannes de SARBURGO..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/06/2020)..

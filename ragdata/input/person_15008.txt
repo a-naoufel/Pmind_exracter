@@ -1,0 +1,12 @@
+PERSON: HERMANNUS Lombardus
+Also known as: Hermanus LOMBARDUS; HERMANNUS.
+Description: Maître en médecine à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1322-1330%.
+Born in: Italie (Lombardie ?) ?.
+Studied at: Paris %:1322-1330%..
+Academic grades obtained: Maître en médecine (Paris) ..
+Ecclesiastical positions held: Clerc bénéficié ?.
+University functions: Paris (Faculté de Médecine : Maîtrerégent %1322-1330%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe GENET, 08/08/2022..

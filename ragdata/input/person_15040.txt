@@ -1,0 +1,11 @@
+PERSON: IVO de Guirer Brito
+Also known as: Yvo de GUIRER BRITO; Ivo de GUIRER Brito; Ives de GUIRER BRITO; Ives BRITO.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1330-1331%.
+Born in: Bretagne ?.
+Studied at: Paris %1330-1331%..
+Academic grades obtained: Maître en médecine (Paris) ?.
+University functions: Paris (Faculté de Médecine : Maître-régent %1330-1331%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Anne Tournieroux ; révision, Jean-Philippe Genet, 20/09/2022..

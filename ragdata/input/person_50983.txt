@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Catini
+Also known as: Guillelmus CATINI.
+Description: Doyen d’Auxerre.
+Status: Extérieur.
+Gender: male.
+Active during: %1285-1316%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Auxerre %1285-1316% ;; Doyen d’Auxerre %1312-1316% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 23/07/2020)..

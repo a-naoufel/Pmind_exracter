@@ -1,0 +1,10 @@
+PERSON: GALTERIUS de Cruce
+Also known as: Galterius de CRUCE; Walter de CROIX.
+Description: Évêque de Tournai.
+Status: Extérieur.
+Gender: male.
+Active during: %1252-1261%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Évêque de Tournai %1252-1261% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 24/03/2024..

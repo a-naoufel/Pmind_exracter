@@ -1,0 +1,14 @@
+PERSON: NICOLAUS de Ductu
+Also known as: Nicolaus de DUCTU.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1430-1434%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse de Lisieux ;.
+Studied at: Paris (Nation de Normandie ?) ..
+Academic grades obtained: Maître ès arts avant ;; Bachelier en décret (Paris) en (8 juin) ;; Licencié en décret (Paris) en (4 avril) ;.
+Academic relationships: Son maître est Johannes HUBERTI pour la licence en décret en ;.
+Ecclesiastical positions held: Curé de Montreuil-en-Auge (diocèse de Lisieux) ;.
+University functions: Paris (Lecteur des Décrétales (L. IV) en (22 juin) pour la 1ere année et le 1er volume) ;; Paris (Lecteur des Décrétales (L. V) en (11 octobre) pour la 2e année et le 2e volume) ;; Paris (Lecteur des Décrétales (L. III) en pour la 3e année et le 3e volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 30/05/2019..

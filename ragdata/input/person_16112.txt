@@ -1,0 +1,7 @@
+PERSON: NICOLAUS Romani
+Also known as: Nicolaus ROMANI.
+Description: Détenteur d’une maison.
+Status: Extérieur.
+Gender: male.
+Active during: %1255-1255%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/11/2023..

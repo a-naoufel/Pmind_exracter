@@ -1,0 +1,10 @@
+PERSON: MATTHAEUS de Arginis
+Also known as: Matthaeus de ARGINIS.
+Description: Procureur de la nation de Picardie.
+Status: Maître.
+Gender: male.
+Active during: %1266-1267%.
+Studied at: Paris (Nation de Picardie) %1266-1267%..
+Academic grades obtained: Maître ès arts (Paris) ..
+University functions: Paris (Nation de Picardie : procureur en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 26/01/2019..

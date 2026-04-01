@@ -1,0 +1,25 @@
+PERSON: LUCAS Iuliani del Viva
+Also known as: Lucas IULIANI del Viva; Lucas VIVA de Perusio; Lucas DELVIVA.
+Description: Maître dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1432-1466%.
+Born in: Italie (Ombrie : Pérouse ?) ;.
+Diocese of origin: Diocèse de Pérouse..
+Studied at: Pérouse ;; Paris..
+Academic grades obtained: Étudiant en théologie (Paris) ?; Bachelier en théologie (Pérouse) ;; Maître en théologie (Pérouse) ;.
+College affiliation: Couvent (domincain) de Paris (Jacobins) ..
+Religious functions: Couvent (dominicain) de Pérouse : maître des étudiants %1432-1433%..
+University functions: Paris (lecteur au couvent dominicain) ?; Pérouse (Université : professeur de théologie) ;.
+Authored work: 'In Petri Lombardi Sent. I contra Scotum', composed around ?.
+Authored work: 'De attributis divinis', composed around ?.
+Authored work: 'De concepcione Beatae Mariae Virginis', composed around ?.
+Authored work: 'Dominicale', composed around ?.
+Authored work: 'Recollecta', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Tractatus de peccato contra naturam', composed around ?.
+Authored work: 'Quaestiones', composed around ?.
+Authored work: 'De ente et essentia', composed around ?.
+Authored work: 'De societatibus et soccitis animalium', composed around ?.
+Authored work: 'Epistolae', composed around ?.
+Source: MIRABILE : Roberto GAMBERINI :.

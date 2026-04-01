@@ -1,0 +1,10 @@
+PERSON: THEOBALDUS de Saucy
+Also known as: Thibaut de SAUCY; THEOBALDUS.
+Description: Abbé cistercien de Cîteaux.
+Status: Incertain.
+Gender: male.
+Active during: %1284-1294%.
+Studied at: ?.
+Religious order: O. Cist. : moine cistercien..
+Religious functions: Abbé de Cîteaux %1284-1294% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 19/12/2019..

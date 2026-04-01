@@ -1,0 +1,7 @@
+PERSON: WALEQUIN Megnot
+Also known as: Walequin MEGOT.
+Description: Barbier.
+Status: Extérieur.
+Gender: male.
+Active during: %1466-1466%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 13/01/2024)..

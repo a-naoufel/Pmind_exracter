@@ -1,0 +1,12 @@
+PERSON: BERTRANDUS de Beauvau
+Also known as: Bertrandus de BEAUVAU.
+Description: Seigneur de Précigny.
+Status: Extérieur.
+Gender: male.
+Active during: %1407-1474%.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son père est Jean de BEAUVAU ; Son frère est Pierre de BEAUVAU..
+Social origin: Noble : Seigneur de Précigny..
+Representation roles: Ambassadeur auprès du duc de Milan ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 22/02/2021).

@@ -1,0 +1,11 @@
+PERSON: ODO de Claromonte 1
+Also known as: Odo de CLAROMONTE.
+Description: Célérier de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1201-1201%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Diacre ;.
+Ecclesiastical positions held: Célérier de Sens ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 24/09/2022..

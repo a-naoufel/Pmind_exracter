@@ -1,0 +1,11 @@
+PERSON: LAMBERTUS de Agro
+Also known as: Lambertus de AGRO.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1385-1385%.
+Studied at: Paris..
+Academic grades obtained: Étudiant en théologie (Paris) ;.
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. ; frère dominicain..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 18/08/2023..

@@ -1,0 +1,7 @@
+PERSON: EDELATA la Jujote
+Also known as: Edelata la JUJOTE.
+Description: Maîtresse d'école.
+Status: Suppôt.
+Gender: female.
+Active during: %1380-1380%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 9/09/2015)..

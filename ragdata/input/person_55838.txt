@@ -1,0 +1,12 @@
+PERSON: MICHAEL Quelin
+Also known as: Michael QUELIN.
+Description: Maître-régent du collège de La Marche.
+Status: Maître.
+Gender: male.
+Active during: %1504-1504%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) en ;.
+College affiliation: Collège de LaMarche : Maître régent en ;.
+Academic relationships: Son élève est Claudius LIZARDE ;.
+University functions: Paris (Faculté des Arts : maître-régent du collège de LaMarche en ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

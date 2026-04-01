@@ -1,0 +1,8 @@
+PERSON: RADULPHUS de Veneriis
+Also known as: Radulphus de VENERIIS; Raoul DESVÉNERIES.
+Description: Libraire et stationarius.
+Status: Suppôt.
+Gender: male.
+Active during: %1316-1316%.
+Studied at: Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 14/11/2019..

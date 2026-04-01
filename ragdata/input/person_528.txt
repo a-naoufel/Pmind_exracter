@@ -1,0 +1,9 @@
+PERSON: AMALRICUS de Narbonne
+Also known as: Amalric II de NARBONNE.
+Description: Vicomte de Narbonne.
+Status: Extérieur.
+Gender: male.
+Active during: %1289-1328%.
+Family relationships: Sa femme est Jeanne de L'ISLE-JOURDAIN..
+Social origin: Noble..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/12/2015)..

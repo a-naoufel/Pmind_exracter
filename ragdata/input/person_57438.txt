@@ -1,0 +1,12 @@
+PERSON: MICHAEL Poiret
+Also known as: Michel POIRET.
+Description: Boursier au Collège de Laon.
+Status: Étudiant.
+Gender: male.
+Active during: %1477-1478%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie) %1477-1478% ;.
+Academic grades obtained: Étudiant ès arts (Paris) %1477-1478% ;.
+College affiliation: Collège de Laon : boursier ès arts %1477-1478% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 28/01/2024..

@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Flamingi 2
+Also known as: Guillelmus FLAMENG.
+Description: Hôte du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1438-1438%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Dormans-Beauvais : hôte ;.
+Family relationships: Il est sans doute parent de Guillelmus FLAMINGI ; Il est sans doute parent de Franciscus FLAMINGI ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 23/08/2017..

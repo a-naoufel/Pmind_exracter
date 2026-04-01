@@ -1,0 +1,10 @@
+PERSON: REGINALDUS Picat
+Also known as: Regnaut PICAT; Regnaut PITAT; Regnaut du MONTET.
+Description: Boursier en théologie du collège d’Autun.
+Status: Maître.
+Gender: male.
+Active during: %1398-1398%.
+Studied at: Paris.
+Academic grades obtained: Maître (Paris) ;; Étudiant en théologie (Paris) ?.
+College affiliation: Collège d'Autun : boursier en théologie ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

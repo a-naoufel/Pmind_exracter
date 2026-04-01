@@ -1,0 +1,70 @@
+PERSON: MATTHAEUS de Acquasparta
+Also known as: Matthaeus de ACQUASPARTA; Matteo dei BENTIVENGHI; Matthieu d'AQUASPARTA.
+Description: Cardinal franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1254-1302%.
+Born in: Italie (Ombrie : Aquasparta)..
+Diocese of origin: Diocèse de Todi..
+Studied at: Paris, dès au moins..
+Academic grades obtained: Maître en théologie (Paris) ca...
+College affiliation: Couvent (dominicain) de Paris (Cordeliers)..
+Family relationships: Son frère est BENTIVENGA, cardinal-évêque d'Albano..
+Social origin: Noble..
+Ecclesiastical status: Prêtre..
+Religious order: O.F.M. : frère du couvent (franciscain) de Todi depuis ..
+Religious functions: Ministregénéral des Franciscains %1287-1289%..
+Ecclesiastical positions held: Cardinal-prêtre de San-LorenzoinDamaso %1288-1291% ;; Cardinal-évêque de PortoetSantaRufina %1291-1302% ;.
+University functions: Paris (Faculté de Théologie : lecteur biblique %1268-1269%) ;; Paris (Faculté de Théologie : lecteur des Sentences %1271-1272%) ;; Bologne (Lecteur %1272-1275% ?) ;; Paris (Faculté de Théologie : Maître-régent (actu regens) %1275-1277%?) ;; Rome (Lecteur en Curie %1279-1287%) ;.
+Representation roles: Missions diplomatiques au profit du Pape BONIFACE VIII, pour des arbitrages entre la France et l'Aragon, la France, la Flandre et l'Angleterre, pour la pacification de la Toscane et de la Lombardie..
+Authored work: 'Tractatus de excellentia Sacrae Scripturae', composed around Avant à Paris..
+Authored work: 'Principium (Introitus ad sacram theologiam)', composed around à Paris..
+Authored work: 'Comment. super quattuor libros Sententiarum', composed around ?%1271-1273%. à Paris..
+Authored work: 'Concordantiae super quatuor libros Sententiarum', composed around ?.
+Authored work: 'Disputationes in aula et vesperis', composed around à Paris..
+Authored work: 'De aeterna processione Spiritus Sanctus', composed around ?%1273-1274% à Paris..
+Authored work: 'Breviloquium de Trinitate', composed around ?.
+Authored work: 'Quaestio de morte Christi', composed around ?.
+Authored work: 'Tabula super originalia', composed around ?.
+Authored work: 'Commentarium in Psalmos 1-50', composed around ?.
+Authored work: 'Commentarium in Apocalypsim', composed around ?.
+Authored work: 'Commentarium in Job', composed around ?.
+Authored work: 'Brevis Expositio Libri Ecclesiasticae', composed around ?.
+Authored work: 'Postillae in Libros Psalmorum', composed around ?.
+Authored work: 'Postilla in Marcum', composed around ?.
+Authored work: 'Commentarium in Danielem', composed around ?.
+Authored work: 'Commentarium in Epistolas Pauli', composed around ?.
+Authored work: 'Sermones dominicales et feriales', composed around ?.
+Authored work: '(Sermon pour la fête de Saint Matthieu)', composed around %1272-1273% ?.
+Authored work: 'Quaestiones Bononiae disputatae', composed around ?.
+Authored work: 'De anima quaestiones 13', composed around %1273-1277% à Bologne ?.
+Authored work: 'De anima separata quaest. 3 disputatae', composed around ? (décembre) à Paris..
+Authored work: 'Quodlibet I', composed around %1275 (décembre) à Paris ?.
+Authored work: 'De cognitione animae separatae quaest. 2 disputatae', composed around .
+Authored work: 'De poena animae separatae quaest. 4 disputatae', composed around à Paris ?.
+Authored work: 'De animae beata quaest. 8 dis', composed around à Paris ?.
+Authored work: 'De fide quaest. 8 disputatae', composed around %1277-1278% à Paris ?.
+Authored work: 'De cognitione quaest. 10 disputatae', composed around %1277-1278% à Paris ?.
+Authored work: 'Quaestiones disputatae de ieiunio (3)', composed around %1279-1287% à la Curie..
+Authored work: 'Quodlibet II, 15 q.', composed around %1279-1287% à la Curie..
+Authored work: 'De productione rerum quaest. 9 dis', composed around %1279-1287% à la Curie..
+Authored work: 'Quodlibet III, 16 q.', composed around %1279-1287% à la Curie..
+Authored work: 'Quodlibet IV, 18 q.', composed around ? à la Curie..
+Authored work: 'De incarnatione et de lapsu quaest. 9 dis', composed around %1279-1287% à la Curie..
+Authored work: 'De providentia quaest. 6 dis', composed around ?%1279-1287% à la Curie..
+Authored work: 'Quodlibet V, 10 q.', composed around ?%1279-1287% à la Curie..
+Authored work: 'De gratia quaest. 10 dis', composed around ?%1279-1287% à la Curie..
+Authored work: 'Quodlibet VI, 17 q.', composed around ? à la Curie..
+Authored work: 'De legibus quaest. 6 dis', composed around %1279-1287% à la Curie..
+Authored work: 'Quaestiones de anima 6', composed around %1279-1287% à la Curie..
+Authored work: 'Quaestiones de materia, forma et privatione', composed around ?.
+Authored work: 'Epistolae', composed around ?.
+Authored work: 'De potentia papae ac primatu Ecclesiae Romanae', composed around ?.
+Authored work: '(Déclaration pour BONIFACE VIII contre la famille Colonna)', composed around (juillet)..
+Authored work: '(Sermon pour la canonisation de Saint LOUIS)', composed around (11 juillet), à Orvieto..
+Authored work: '(Lettres à JAIME II, roi d'Aragon)', composed around ..
+Authored work: '(Lettre à CHARLES II, roi de Naples)', composed around ..
+Authored work: '(Sermon prononcé pour l’ouverture de l’année jubilaire)', composed around (6 janvier), au Palais du Latran..
+Authored work: '(Réponse à la lettre de la noblesse française)', composed around ..
+Authored work: 'Sermo de potestate papae', composed around (24 juin) à Anagni..
+Source: HOUSER (R.E.), Matthew of Acquasparta :.

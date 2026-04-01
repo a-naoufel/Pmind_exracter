@@ -1,0 +1,17 @@
+PERSON: AEGIDIUS de Aurelianis 1
+Also known as: Aegidius de AURELIANO; Gilles d'ORLEANS I.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1280-1300%.
+Studied at: Paris.
+Academic grades obtained: Maître ès arts (Paris).
+Authored work: 'Quaest. super librum De generatione et coruptione', composed around ?.
+Authored work: 'Quest. libri Meteororum', composed around ?.
+Authored work: 'Quaest. super lib. de Anima', composed around ?.
+Authored work: 'Expositio libri De progressu animalium', composed around ?.
+Authored work: 'Quaestiones super Aristotelis Physica', composed around ?.
+Authored work: 'De eclipsis solis et lunae', composed around ?.
+Authored work: 'Quaestiones supra decem libros Ethicorum', composed around %1272-1277%.
+Authored work: 'Quaest. super lib. Politicorum', composed around ?.
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

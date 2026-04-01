@@ -1,0 +1,13 @@
+PERSON: GALFREDUS Henrici de Blenodio
+Also known as: Gaufridus HENRICI de BLENODIO; Geoffroi HENRICI de BLENODIO.
+Description: Clerc du diocèse de Toul..
+Status: Maître.
+Gender: male.
+Active during: %1403-1403%.
+Born in: Lorraine ?.
+Diocese of origin: Diocèse de Toul ;.
+Studied at: Paris (Nation de France) %:1403-1403%..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en médecine (Paris) ..
+College affiliation: Collège de LaMarche ?.
+Ecclesiastical status: Clerc du diocèse de Toul..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 14/10/2021..

@@ -1,0 +1,9 @@
+PERSON: ALANUS Bernardi
+Also known as: Alanus BERNARDI.
+Description: Locataire du collège de Dainville.
+Status: Étudiant.
+Gender: male.
+Active during: %1408-1418%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,10 @@
+PERSON: PETRUS de Morencourt
+Also known as: Petrus de MORENCOURT; Petrus de MORANCOURT; Petrus de MOLENCOURT; Petrus de MORANCURIE.
+Description: Sous-bedeau de la nation de France.
+Status: Suppôt.
+Gender: male.
+Active during: %1444-1447%.
+Studied at: Paris..
+Academic grades obtained: ?.
+University functions: Paris (Nation de France : sous-bedeau jusqu’en octobre ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/09/2023..

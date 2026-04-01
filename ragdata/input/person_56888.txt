@@ -1,0 +1,13 @@
+PERSON: NICOLAUS de Diesbach
+Also known as: Nicolaus de DIESBACH.
+Description: Doyen de Bâle.
+Status: Gradué.
+Gender: male.
+Active during: %1496-1550%.
+Born in: Alémanie (Berne) ?.
+Diocese of origin: Diocèse de Lausanne..
+Studied at: Paris (Nation Anglo-allemande) .; Rome ;; Sienne %1501-1509%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Docteur en droit canon (Sienne) ;.
+Ecclesiastical positions held: Prévôt de Soleure ;; Prieur de Grandson ;; Prieur de Vaucluse ;; Chanoine de Lausanne ;; Chanoine de Bâle ;; Doyen de Bâle %1516-1531% ;.
+Other ecclesiastical functions: Coadjuteur de l’évêque de Bâle %1519-1527%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 27/11/2023)..

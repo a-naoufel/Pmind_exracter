@@ -1,0 +1,13 @@
+PERSON: GALTERIUS 1
+Also known as: WALTER; GUALTERUS.
+Description: Chanoine de Tournai.
+Status: Incertain.
+Gender: male.
+Active during: %1125-1162%.
+Born in: Flandre (Tournai) ;.
+Diocese of origin: Diocèse de Tournai..
+Studied at: ?.
+Academic grades obtained: Magister ..
+Family relationships: Son père est LETBERT, chanoine de Tournai ;.
+Ecclesiastical positions held: Chanoine de Tournai %1092-1132% ;; Écolâtre de Tournai %1125-1126% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 14/05/2017..

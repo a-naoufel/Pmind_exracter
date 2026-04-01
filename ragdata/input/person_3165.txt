@@ -1,0 +1,14 @@
+PERSON: GERARDUS de Maynillis
+Also known as: Girardus de MAYNILLIS.
+Description: Recteur de l'Université.
+Status: Maître.
+Gender: male.
+Active during: %1353-1362%.
+Born in: Champagne ;.
+Diocese of origin: Diocèse de Châlons..
+Studied at: Paris (Nation de France)..
+Academic grades obtained: Maître ès arts (Paris)..
+Ecclesiastical status: Prêtre du diocèse de Châlons-en-Champagne..
+Ecclesiastical positions held: ¨Provision pour un bénéfice ecclésiastique à la collation de l'abbé et du couvent du monastère (O.S.B.) de Châlons (Saint-Pierre-aux-Monts) en réponse au rotulus de l'université de Paris en : mandat à l'abbé (O.S.A.) de Paris (Sainte-Geneviève), à l'abbé (O.S.A.) de Châlons (Toussaints) et au sacriste d'Avignon ;; Recteur de Recy (diocèse de Châlons) en ;; Supplique de la congrégation de l'université de Paris, alors qu'il est recteur, pour un canonicat avec expectative de prébende de Reims en complément au rotulus de ;; Provision pour un canonicat de Senlis en réponse à la supplique de la congrégation de l'université de Paris en ;; Chanoine de Senlis en ;; Chapelain de Persan (diocèse de Beauvais) en ;; Candidat à un canonicat avec expectative de prébende de Troyes sur le rotulus de l'université de Paris en ;.
+University functions: Paris (Université : Recteur en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 7/01/2021.

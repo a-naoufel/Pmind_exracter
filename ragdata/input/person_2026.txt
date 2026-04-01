@@ -1,0 +1,44 @@
+PERSON: DROCO de Altovillari
+Also known as: Droco de ALTOVILLARI; Drogo de ALTOVILLARI; Drouardus de ALTOVILLARI; Dreux de HAUTVILLERS.
+Description: Chanoine de Reims.
+Status: Maître.
+Gender: male.
+Active during: %1223-1272%.
+Born in: Champagne (Hautvillers)..
+Diocese of origin: Diocèse de Reims..
+Studied at: Paris..
+Academic grades obtained: Magister (Paris) ;; Docteur in utroque jure (Paris)..
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Écolâtre de Reims en %1266-1271% ;; Chanoine de Reims en %1238-1271%..
+Other ecclesiastical functions: Official de Reims en %1241-1243% ;.
+Authored work: 'Tractatus de vilitate et miseria naturae et conditionis humanae', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Versus de virtutibus et bonis operibus appetendis et peccatis fugiendis', composed around ?.
+Authored work: 'Liber de multiplici materia et ignota et inusitata ex variis scripturis collecta', composed around ?.
+Authored work: 'De beato Theodorico', composed around ?.
+Authored work: 'De beato Theodorico', composed around ?.
+Authored work: 'De translatione beati Nicasii', composed around ?.
+Authored work: 'Vita cum passione sancte Christine', composed around ?.
+Authored work: 'Discussio litis super hereditate Lazari et Marie Magdalene, sororis eius, videlicet quis eorum debeat habere eorum hereditatem', composed around ?.
+Authored work: 'De Cumeriis et de paribus adiacentibus', composed around ?.
+Authored work: 'De defectu vini habito anno MCCLX quarto', composed around ?.
+Authored work: 'Epitaphium domino Alberico, quondam scolastico Remensi', composed around ?.
+Authored work: 'Versus alii de domino Alberico', composed around ?.
+Authored work: 'Versus alii de domino Alberico', composed around ?.
+Authored work: 'Epitaphium de magistro Garino de Altovillari', composed around ?.
+Authored work: 'Versus de domino Clemente, quarto summo pontifice', composed around ?.
+Authored work: 'Versus de sancto Clemente, quondam pontifice, et de domino Clemente, nunc summo pontifice', composed around ?.
+Authored work: 'Versus de domino Johanne de Courtenay, archiepiscopo Remensi et eius fratre', composed around ?.
+Authored work: 'Versus de domino Johanne, Remensi archiepiscopo', composed around ?.
+Authored work: 'Versus de domino Karolo, comite Andegavie, nunc rege Cecilie et Apulie', composed around ?.
+Authored work: 'Versus de domino Ludovico, illustro rege Francorum', composed around ?.
+Authored work: 'Versus de domino Theobaldo, illustro rege Navarrae', composed around ?.
+Authored work: 'Versus super tumbam abbatis Sancti Basoli', composed around ?.
+Authored work: 'Versus super tumbam abbatissae Adae', composed around ?.
+Authored work: 'Versus super tumbam dominam De la Buissiere', composed around ?.
+Authored work: 'Versus super tumbam domini Iohannis, Remorum archiepiscopi', composed around ?.
+Authored work: 'Versus super tumbam dominam Guillermi', composed around ?.
+Authored work: 'Versus super tumbam magistri Drogonis de Altovillari, scolastici Remensis', composed around ?.
+Authored work: 'Versus super tumbam Nicholai, episcopi Trecensis', composed around ?.
+Authored work: 'Liber aureus, sive Summa, de omni facultate', composed around ?.
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

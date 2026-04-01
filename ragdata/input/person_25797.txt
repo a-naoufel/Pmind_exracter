@@ -1,0 +1,12 @@
+PERSON: HERMANNUS de Sancto Portu
+Also known as: Hermannus de SANCTO PORTU; Hermann de SAINT-PORT; Hermann von HEILIGENHAFEN; Hermann von HEILIGHAFEN.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1244-1284%.
+Born in: AllemagneduNord ?.
+Studied at: Paris ..
+Academic grades obtained: Magister..
+Ecclesiastical positions held: Curé de Heilgenhafen ;.
+Authored work: 'Herbarius communis', composed around ., dedicated to Dédié à ADOLPHE V, comte de Holstein..
+Source: Deutsche Biographie :.

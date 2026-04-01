@@ -1,0 +1,10 @@
+PERSON: ROBERTUS 15
+Also known as: ROBERTUS.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1399-1408%.
+Studied at: Paris (Nation de Picardie)..
+Academic grades obtained: Maître (Paris) ;; Étudiant en théologie (Paris)..
+College affiliation: Collège des Chollets : membre ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

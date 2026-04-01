@@ -1,0 +1,10 @@
+PERSON: GALFREDUS de Petrussia
+Also known as: Gaufridus de PETRUSSIA.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1387-1394%.
+Studied at: Paris %1387-1394% ?.
+Academic grades obtained: Bachelier en décret (Paris) ;; Licencié en décret ( ?Paris) ;; Bachelier en droit civil ;.
+Ecclesiastical positions held: Provision pour l’égliseparoissiale de ?Saint-AndréduSinobre au diocèse de Carcassonne, vacante en raison du mariage de Johannes d’ALBIGESIO en ;; Chanoine de Limoges ;; Chanoine de Burgos ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 27/08/2020..

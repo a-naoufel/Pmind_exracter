@@ -1,0 +1,14 @@
+PERSON: NICOLAUS Comitis 1
+Also known as: Nicolaus COMITIS; Nicolaus LE COMTE; Nicolaus LE CONTE; Nicolaus de MONS.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1400-1445%.
+Born in: Normandie ?.
+Studied at: Paris %1400-1429% ;; ?Caen..
+Academic grades obtained: Licencié en théologie (Paris) (le 2 mai) ;; Docteur en théologie (Paris) vers ..
+College affiliation: Collège Saint-Bernard ;.
+Religious order: O.Cist. : moine cistercien de l'abbaye (cistercienne) de LaValasse..
+Religious functions: Abbé d'Aulnay, %1421-1429% ;; Abbé (cistercien) de Barbery, %1411-:1421%..
+University functions: Paris (Faculté de théologie : maître-régent %1429-1431%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 9/10/2023)..

@@ -1,0 +1,10 @@
+PERSON: PETRUS de Colonia 1
+Also known as: Petrus de COLONIA; Pierre de COLOGNE.
+Description: Maître ès arts ?.
+Status: Incertain.
+Gender: male.
+Active during: %1300-1310%.
+Studied at: Paris ?.
+Academic grades obtained: Maître ès arts (Paris) ?.
+Authored work: 'Sophismata', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 10-02-2024..

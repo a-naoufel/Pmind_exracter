@@ -1,0 +1,10 @@
+PERSON: THOMAS de Fulcheriis
+Also known as: Thomas de FULCHERIIS; Thomas de FOUGÈRES.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1280-1280%.
+Diocese of origin: Bretagne (Fougères) ?.
+Studied at: Paris ?.
+Academic grades obtained: Licencié en décret (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/05/2025)..

@@ -1,0 +1,12 @@
+PERSON: BERTRANDUS de Tours
+Also known as: Bertrand de TOURS.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1263-1299%.
+Born in: Tours ?.
+Diocese of origin: Diocèse de Tours ?.
+Studied at: ?.
+Religious order: O.P. : frère du couvent (dominicain) de Millau en ..
+Religious functions: ?Prieur (dominicain) de Figeac..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/02/2021..

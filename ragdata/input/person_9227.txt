@@ -1,0 +1,13 @@
+PERSON: NICOLAUS Conchion de Montemirabili
+Also known as: Nicolaus CONCHION de MONTEMIRABILI; Nicolas de MONTMIRAIL; Nicolas CONCHION.
+Description: Boursier théologien au collège de Navarre à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1372-1378%.
+Born in: Champagne (Montmirail ?) ?.
+Diocese of origin: Diocèse de Soissons..
+Studied at: Paris (Nation de France), %1372-1378% ;; ?Orléans..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Étudiant en théologie (Paris) ;; Bachelier ès lois (?Orléans) attesté en ..
+College affiliation: Boursier théologien au collège de Navarre à Paris en ..
+Ecclesiastical positions held: Diacre ;; Curé de Mourmelon (diocèse de Reims) en ;; Candidat à un canonicat dans le diocèse de Soissons en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 9/10/2023)..

@@ -1,0 +1,10 @@
+PERSON: VINCENTIUS Veranneman
+Also known as: Vincentius VERANNEMAN; Vincentius VERANNEMAN.
+Description: Licencié en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1476-1476%.
+Studied at: Paris %1476-1476%..
+Academic grades obtained: Maître ès arts (Paris) attesté en ;; Bachelier décret (Paris) attesté en ;; Licencié décret (Paris) 23 avril ;.
+Academic relationships: Élève de Jacobus JUNII en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 10/02/2019..

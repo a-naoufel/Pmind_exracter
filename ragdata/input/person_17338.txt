@@ -1,0 +1,12 @@
+PERSON: BALDUINUS de Senercy
+Also known as: Balduinus de SENERCY.
+Description: Étudiant ès arts.
+Status: Étudiant.
+Gender: male.
+Active during: %1385-1385%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon..
+Studied at: Paris (Nation de Picardie ?) ..
+Academic grades obtained: Étudiant ès arts en ..
+Ecclesiastical positions held: Supplique en pour un bénéfice à la collation de l'abbé et du couvent du monastère (bénédictin) de Nogent-sous-Coucy..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 1/12/2020)..

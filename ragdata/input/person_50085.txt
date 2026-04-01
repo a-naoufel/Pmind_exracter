@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Bastardi de Celsis
+Also known as: Guillaume BASTARDI de Celsis; Guillaume Bastardi de CELSIS.
+Description: Prieur augustin.
+Status: Extérieur.
+Gender: male.
+Active during: %1339-1339%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.S.A. : Chanoinerégulier en ..
+Ecclesiastical positions held: Prieur d’un prieuré (augustin) du diocèse de Poitiers en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 18/12/2019..

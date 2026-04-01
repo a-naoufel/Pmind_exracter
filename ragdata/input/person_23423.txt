@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Le Gras
+Also known as: Nicolas LEGRAS.
+Description: Procureur du Collège de Dormans-Beauvais.
+Status: Incertain.
+Gender: male.
+Active during: %1401-1416%.
+Studied at: ?.
+Academic grades obtained: ?.
+College affiliation: Collège de Dormans-Beauvais : procureur du collège au Châtelet %1401-1416% ?.
+Source: LAMOP : Opération Charles VI (2490) :.

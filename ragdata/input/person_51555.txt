@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Bequillardi
+Also known as: Nicolas BEQUILLART.
+Description: Martinet du collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1434-1438%.
+Studied at: Paris %1434-1438%..
+Academic grades obtained: Étudiant (Paris) %1434-1438% ?.
+College affiliation: Collège de Dormans-Beauvais : martinet en %1434-1438% ;.
+Family relationships: Son parent est Pierre BEQUILLART, chapelain du Collège de Dormans-Beauvais en %1423-1431% ; Son parent est Pierre BEQUILLART, hôte du Collège de Dormans-Beauvais en %1424-1425% ; Son parent est Jean BEQUILLART, martinet du Collège de Dormans-Beauvais en %1431-1435% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 24/11/2020)..

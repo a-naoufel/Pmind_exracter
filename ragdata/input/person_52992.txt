@@ -1,0 +1,13 @@
+PERSON: NICOLAUS Coupequesne
+Also known as: Nicholaus COUPEQUESNE.
+Description: Chanoine de Rouen.
+Status: Maître.
+Gender: male.
+Active during: %1403-1432%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris (Nation de Normandie) ..
+Academic grades obtained: Maître ès arts avant ;; Bachelier en théologie ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Curé d’Hermanville ;; Curé d’Yvetot ;; Chanoine de Rouen %1423-1432% ;; Curé de Gonneville ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/11/2021..

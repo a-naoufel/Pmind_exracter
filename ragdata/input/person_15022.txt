@@ -1,0 +1,13 @@
+PERSON: NICOLAUS Colve de Saxe
+Also known as: Nicolas COLVE de Saxe; Nicolas Colve de SAXONIA; Nicolaus COLUEN; Nicolaus COLNE; Nicolaus COLBA.
+Description: Maître en médecine.
+Status: Étudiant.
+Gender: male.
+Active during: %1383-1414%.
+Born in: Saxe ?.
+Diocese of origin: Diocèse de Brandebourg..
+Studied at: Paris vers %1383-1393% ;; Montpellier %1394-1414%..
+Academic grades obtained: Étudiant (Paris) vers %1383-1393% ;; Bachelier ès arts (Montpellier) ;; Bachelier en médecine (Montpellier) ;; Maître en médecine (Montpellier) avant ;.
+Ecclesiastical status: Clerc du diocèse de Brandebourg..
+University functions: Montpellier (Faculté de Médecine : doyen) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 9/10/2023)..

@@ -1,0 +1,13 @@
+PERSON: Scolaris de Fulcardimonte
+Also known as: Scolaris de FULCARDIMONTE.
+Description: Cistercien.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+College affiliation: Collège des Bernardins ;.
+Religious order: O. Cist. : abbaye (cistercienne) de Foucarmont, diocèse de Rouen ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 30/08/2016..

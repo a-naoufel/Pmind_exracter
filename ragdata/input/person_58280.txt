@@ -1,0 +1,32 @@
+PERSON: RADULPHUS Agricola
+Also known as: Radulphus AGRICOLA; Rudolph HUESMAN.
+Description: Humaniste.
+Status: Étudiant.
+Gender: male.
+Active during: %1458-1485%.
+Born in: Pays-Bas (Frise : Baffloo)..
+Diocese of origin: Diocèse d’Utrecht ?.
+Studied at: Erfurt ;; Cologne ;; Louvain ;; Paris %1465-1468% ;; Pavie %1468-1471% ;; Ferrare %1475-1479% ?; Heidelberg %1484-1485% ?.
+Academic grades obtained: Bachelier ès arts (Erfurt) ;; Maître ès arts (Louvain) ;; Étudiant (Paris) ?%1465-1468% ;; Étudiant en droit civil (Pavie) %1468-1471%..
+University functions: Heidelberg (Université : professeur %1484-1485%)..
+Authored work: 'Oratio de nativitate Christi', composed around ?.
+Authored work: 'Carmen in laudem sanctae Annae Epicedion ad Mauritium comitem Spegelbergensem', composed around ?, dedicated to Dédié au comte Maurice de SPIEGELBERG..
+Authored work: 'In laudem philosophiae et reliquarum artium oratio', composed around ?.
+Authored work: 'De inventione dialectica', composed around ..
+Authored work: 'De formando studio', composed around ., dedicated to Dédié au musicien Jacques BARBEREAU..
+Authored work: 'Scholia in orationem pro lege Manilia', composed around ?.
+Authored work: 'Paraenesis ad Demonicum', composed around ?.
+Authored work: 'Declamationes', composed around ?.
+Authored work: '(Notes sur Sénèque)', composed around ?.
+Authored work: 'Oratio in laudem Matthiae Richili', composed around ?.
+Authored work: 'Progymnasmata', composed around ?.
+Authored work: 'Commentaria in Boethium', composed around ?.
+Authored work: 'Oratio ad Paulum de Baenst in principio studii Papiae', composed around %1471-1474 à Pavie ?, dedicated to Adressé à Paul de BAENST..
+Authored work: 'Oratio rectoratus Rhodolphi Agricolae per ipsum Papie pro domino Iohanne de Talberg publice dicta anno 1474', composed around %1474 à Pavie., dedicated to Adressé à Johannes de THALBERG..
+Authored work: 'Libellus de non facile credendis delationibus', composed around ?.
+Authored work: 'Axiochos Platonis, De contemnenda morte', composed around ?.
+Authored work: 'Vita Petrarca', composed around %1473-1474 à Pavie ?, dedicated to Écrit à la demande de Antonio SCROVIGNI..
+Authored work: 'De quatuor monarchiis', composed around ?, dedicated to Composé pour l’Électeur Palatin..
+Authored work: 'Epistola de congressu Imperatoris Frederici et Caroli Burgondiorum Ducis', composed around ?.
+Authored work: 'Gratulatio Innocentio VIII', composed around ?, dedicated to Adressé à INNOCENT VIII..
+Source: MIRABILE : Andrea CENCINI :.

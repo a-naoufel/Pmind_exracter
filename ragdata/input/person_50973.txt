@@ -1,0 +1,16 @@
+PERSON: GREGORIUS Anglici
+Also known as: Gregorius ANGLICI; Grégoire LANGLOIS.
+Description: Évêque de Sées.
+Status: Maître.
+Gender: male.
+Active during: %1346-1404%.
+Born in: Anjou-Maine (La Baroche-sous-Lucé) ?.
+Diocese of origin: Diocèse de LeMans ?.
+Studied at: Angers ;; ?Paris ;.
+Academic grades obtained: Licencié in utroque (Angers) ;.
+College affiliation: Collège de Sées : fondateur ;.
+Family relationships: Son neveu est Jean LANGLOIS ; Son neveu est Jean BELART ;.
+Social origin: Bourgeoisie ?.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Curé de Mayenne ;; Chapelain de LeMans (cathédrale) %1362-1364% ;; Chanoine de LeMans %1362-1379% ;; Chantre de LeMans %1367-1379% ;; Chanoine d’Auxerre %1367-1371% ;; Chanoine de Chartres %1367-1371% ;; Évêque de Sées %1379-1404% ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

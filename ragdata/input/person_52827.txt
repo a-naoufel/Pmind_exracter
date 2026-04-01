@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Gerval
+Also known as: Guillelmus dictus GERVAL.
+Description: Témoin d'un acte universitaire.
+Status: Incertain.
+Gender: male.
+Active during: %1364-1364%.
+Studied at: ?.
+Academic grades obtained: ?.
+University functions: Paris (Faculté de Théologie : témoin de la renonciation à ses erreurs de Denis FOULLECHAT, O.F.M. en (22 novembre) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 24/10/2021..

@@ -1,0 +1,9 @@
+PERSON: HARRICUS
+Also known as: HARRICUS.
+Description: Bedeau principal.
+Status: Suppôt.
+Gender: male.
+Active during: %1339-1339%.
+Studied at: Paris (Nation Anglo-allemande)..
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/06/2022)..

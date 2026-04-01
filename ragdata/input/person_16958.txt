@@ -1,0 +1,6 @@
+PERSON: ARNALDUS Bragman
+Also known as: Arnaldus BRAGMAN.
+Description: Conseiller du duc de Clèves.
+Status: Extérieur.
+Gender: male.
+Active during: %1485-1485%.

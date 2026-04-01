@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Le Maçon
+Also known as: Guillaume LEMAÇON.
+Description: Procureur au Châtelet.
+Status: Extérieur.
+Gender: male.
+Active during: %1418-1418%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

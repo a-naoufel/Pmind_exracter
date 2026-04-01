@@ -1,0 +1,14 @@
+PERSON: STEPHANUS de Gaigni
+Also known as: Stephanus de GAIGNI.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1272-1272%.
+Born in: Île-de-France (Gagny ?) ?.
+Diocese of origin: Diocèse de Paris ?.
+Studied at: ?Paris..
+Academic grades obtained: Étudiant ?.
+College affiliation: Couvent (dominicain) de Paris (Jacobins) ?.
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Paris (Jacobins)..
+Authored work: 'Sermo Fr. Stephani de Gaigni Iacobite, dom. XIV', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/09/2024)..

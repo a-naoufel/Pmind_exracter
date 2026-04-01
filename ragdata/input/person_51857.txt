@@ -1,0 +1,12 @@
+PERSON: BERNARDUS de Rupella
+Also known as: Bernardus de RUPELLA; Bernard de LAROCHELLE.
+Description: Abbé-élu de Sainte-Geneviève.
+Status: Étudiant.
+Gender: male.
+Active during: %1363-1364%.
+Studied at: Paris %1363-1364%..
+Academic grades obtained: Étudiant ?.
+College affiliation: Sainte-Geneviève %1363-1364%..
+Religious order: Chanoinerégulier(O.S.A. victorin) de Paris (Sainte-Geneviève)..
+Religious functions: Abbé-élu (O.S.A) de Paris (Sainte-Geneviève) en mais il est mort avant d’entrer en fonction..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 18/01/2021)..

@@ -1,0 +1,8 @@
+PERSON: BERNARDUS de Catellonia
+Also known as: Bernardus de CATELLONIA.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Born in: Catalogne ?.
+Studied at: Paris %1329-1330%..

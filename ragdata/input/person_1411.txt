@@ -1,0 +1,10 @@
+PERSON: BERNARDUS de Druye
+Also known as: Bernardus de DRUYE.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris %1313-1313%..
+Academic grades obtained: Étudiant (Paris) ..
+Religious order: O.S.B. : moine bénédictin d'Auxerre (Saint-Germain)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Claire Priol-Hoogland ;Jean-Philippe Genet, dernière mise à jour 26/01/2021)..

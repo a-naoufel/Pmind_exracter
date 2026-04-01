@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Bordelini
+Also known as: Guillelmus BORDELINI.
+Description: Chanoine de Chalon.
+Status: Incertain.
+Gender: male.
+Active during: %1250-1284%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical positions held: Chanoine de Chalon-sur-Saône %1250-1284% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/05/2025..

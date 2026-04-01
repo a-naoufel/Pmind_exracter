@@ -1,0 +1,11 @@
+PERSON: FULCO de Roe
+Also known as: Fulco de ROE.
+Description: Chanoine d’Angers.
+Status: Incertain.
+Gender: male.
+Active during: %1221-1244%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Angers %1227-1244% ;; Archidiacre d’Outre-Maine %1227-1244% ;.
+Other ecclesiastical functions: Official d’Angers %1221-1227% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 22/07/2022)..

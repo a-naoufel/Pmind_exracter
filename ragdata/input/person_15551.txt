@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Thierrici
+Also known as: Nicolaus THIERRICI.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1363-1367%.
+Studied at: Paris %1363-1367%..
+Academic grades obtained: Étudiant en décret (Paris) %1363-1367%..
+Religious order: O.S.B. : moine bénédictin ;.
+Religious functions: Nommé à la demande de CHARLES V, roi de France, au prieuré de Fontaine-Géhard (dépendance de Marmoutier dans le diocèse du LeMans) le 1er août ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 26/11/2023)..

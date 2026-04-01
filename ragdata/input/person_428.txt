@@ -1,0 +1,10 @@
+PERSON: ALBERTUS de Reynen
+Also known as: Albertus de REYNEN; Albertus VAN RENEN.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1380-1389%.
+Studied at: Paris (Nation Anglo-allemande) %1380-1382% ;; Cologne % -1389% ;; Heidelberg immatriculé en ..
+Academic grades obtained: Etudiant en droit canon (Cologne) en ;.
+Ecclesiastical positions held: Candidat à un bénéfice dans le diocèse de Liège en ?; Chapelain de Maastricht (béguinage) ;; Chanoine de Deventer ;.
+Source: RAG ;.

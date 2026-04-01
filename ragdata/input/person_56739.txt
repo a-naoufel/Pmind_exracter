@@ -1,0 +1,12 @@
+PERSON: PETRUS Robini 1
+Also known as: Petrus ROBINI.
+Description: Chanoine de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1453-1482%.
+Studied at: ?.
+Academic grades obtained: Licencié en droit canon ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Curé de Saint-Maigner ;; Chanoine de Clermont (Notre-Dame-du-Port) %1459-1469% ;; Chanoine de Billom ;; Archiprêtre de Menat ;; Chanoine de Clermont %1464-1482% ;.
+Other ecclesiastical functions: Chancelier de l’évêque de Clermont %1464-1471% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/10/2023..

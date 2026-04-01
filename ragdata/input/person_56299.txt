@@ -1,0 +1,10 @@
+PERSON: GUIDO 2
+Also known as: GUIDO.
+Description: Chanoine du Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1192-1233%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de LeMans %1192-1233% ;; Trésorier d’Avranches ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 03/07/2023)..

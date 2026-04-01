@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS Pepin
+Also known as: Aegidius PEPIN; Aegidius PEPPIN.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1462-1468%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) vers ?.
+College affiliation: Collège de Boncourt : étudiant en ?.
+Ecclesiastical positions held: Clerc séculier ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 22/10/2020)..

@@ -1,0 +1,8 @@
+PERSON: PONCIUS Gilbosus de Noblans
+Also known as: Poncius GILBOSUS de Noblans.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1323-1323%.
+Studied at: Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 15/11/2019..

@@ -1,0 +1,9 @@
+PERSON: Socius Petri de Meovannia
+Also known as: Socius Petri de MEOVANNIA.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Clerc bénéficié ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/09/2024)..

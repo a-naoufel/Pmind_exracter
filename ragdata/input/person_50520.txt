@@ -1,0 +1,12 @@
+PERSON: TAUNY Petit
+Also known as: Tauny PETIT.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1384-1384%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Dormans-Beauvais : boursier ;.
+Family relationships: Son oncle est Étienne de GIVRY, évêque de Troyes ; Son cousin est Thibaud d’ATTIGNY, boursier du Collège de Dormans-Beauvais ;.
+Ecclesiastical status: Clerc ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 29/109/2019..

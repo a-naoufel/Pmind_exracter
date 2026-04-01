@@ -1,0 +1,10 @@
+PERSON: FREDERICUS de Almeno
+Also known as: Fredericus de ALMENO.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1382-1382%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Academic relationships: Son maître est Johannes HOEKELEM pour le baccalauréat en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 19/09/2021..

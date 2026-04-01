@@ -1,0 +1,40 @@
+PERSON: GUIBERTUS Tornacensis
+Also known as: Guibertus TORNACESIS; Guibert de TOURNAI; Guibert de MORIEL-PORTE; Guibert d'AS-PIES..
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1225-1284%.
+Born in: Flandre (Tournai)..
+Diocese of origin: Diocèse de Tournai..
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris).; Maître en théologie (Paris) %1259-1261%..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Social origin: Noble..
+Religious order: O.F.M. : frère franciscain du couvent franciscain de Paris ?.
+University functions: Paris (Faculté de Théologie : Maître-Régent de Théologie au Couvent Franciscain en %1257-1260%)..
+Representation roles: Il participe au Concile de Lyon en ..
+Authored work: 'Commentarius in primum librum Sententiarum', composed around ?.
+Authored work: 'Sermones dominicales et de sanctis et de festis', composed around av...
+Authored work: 'Sermones ad varios status', composed around ? av. ..
+Authored work: 'Sermo in die cinerum', composed around (3 mars)..
+Authored work: 'De morte non timenda', composed around ..
+Authored work: 'De septem verbis domini nostri in cruce sermones XI', composed around ?.
+Authored work: 'Sermones decem in laudem melliflui nominis Jesu', composed around ?.
+Authored work: '?Sermo de Incarnatione', composed around ?.
+Authored work: '?Sermo de Natali Domini', composed around ?.
+Authored work: '?Sermo in Annuntiatione', composed around ?.
+Authored work: 'Sermones pro defunctis', composed around ?.
+Authored work: 'De officio episcopali et ecclesiae ceremoniis', composed around ?, dedicated to Écrit à la demande de Guillaume de BUSSY, évêque d’Orléans..
+Authored work: 'De locis mundi', composed around ?.
+Authored work: 'Tractatus de virginitate', composed around ?, dedicated to Adressé à ISABELLE, abbesse de Longchamps..
+Authored work: 'De pace et tranquillitate animi', composed around ?, dedicated to Dédié à Marie de DAMPIERRE, nonne (cistercienne) de Flines..
+Authored work: 'Rudimentum doctrinae', composed around ?.
+Authored work: 'De modo addiscendi', composed around ?, dedicated to Dédié à Jean de DAMPIERRE, et écrit à la demande de son prcepteur, Michael de LILLE..
+Authored work: 'Quaestio Quodlibetalis', composed around ?.
+Authored work: 'Pharetra', composed around ?.
+Authored work: 'Miraculorum Sancti Blasii libri duo', composed around ?.
+Authored work: 'Vita S. Eleutherii', composed around %1261-1266%, dedicated to Écrit à la demande de Jean BUCHIEN, évêque de Tournai..
+Authored work: 'Hodoeporicon primae profectionis Ludovici Galliae regis in Syriam', composed around ?.
+Authored work: 'Eruditio regum et principum', composed around ., dedicated to Adressé à LOUIS IX, roi de France..
+Authored work: 'Collectio de scandalis Ecclesiae', composed around %1273-1274%.
+Source: MIRABILE : Andrea CENCINI :.

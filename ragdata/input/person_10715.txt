@@ -1,0 +1,10 @@
+PERSON: REGINALDUS Garbetti
+Also known as: Reginaldus GARBETTI; Renaud GARBETTI.
+Description: Boursier artien au collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1384-1384%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant ès arts (Paris) ;.
+College affiliation: Boursier artien au collège de Navarre à Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 05-06-2024..

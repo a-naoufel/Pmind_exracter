@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Garbet
+Also known as: Nicolas GARBET.
+Description: Boursier du Collège de Laon..
+Status: Maître.
+Gender: male.
+Active during: %1392-1407%.
+Born in: Picardie ?.
+Studied at: Paris (Nation de Picardie) %1392-1400%..
+Academic grades obtained: Maître ès arts (Paris) avant ?; Étudiant ès arts (Paris) ;; Maître ès arts (Paris)..
+College affiliation: Collège de Laon : Boursier ;; Collège de Laon : Boursier en théologie ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 18/10/2023..

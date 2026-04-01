@@ -1,0 +1,26 @@
+PERSON: ADAM de Courlandon
+Also known as: Adam de COURLANDON.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1194-1232%.
+Born in: Champagne ?.
+Studied at: Paris %1200-1213% ;; Laon à partir de ..
+Academic grades obtained: Maître (Laon) vers ;; Maître (Paris) vers ;.
+Family relationships: ?Son frère serait Renaud COURLANDON, décédé en ..
+Academic relationships: Son maître à Laon est Michel de CORBEIL, doyen de Laon puis archevêque de Sens ; Son maître à Paris est Petrus CANTOR ;.
+Social origin: Noble ?.
+Ecclesiastical positions held: Doyen de Laon %1194-1223% ;; Chanoine de Paris (Notre-Dame) ;; Chantre de Laon %1223-1228%..
+University functions: Laon (Maître en théologie à partir de , quand il succède à Michel de CORBEIL) ;; Paris (Maître en théologie à Paris, %1200-1213%..
+Authored work: 'Commentarium in Actus Apstolorum', composed around ?.
+Authored work: 'Commentarium in Matthaeum', composed around %1194-1199%., dedicated to Dédié à Michel de CORBEIL..
+Authored work: 'Commentarium in Pentateuchum', composed around ?.
+Authored work: '?(Commentaire)', composed around ?.
+Authored work: 'Allegoriae morales', composed around ?.
+Authored work: 'Miscellanea I', composed around ?, dedicated to Dédié à Michel de CORBEIL..
+Authored work: 'Miscellanea II', composed around ?, dedicated to Dédié à Michel de CORBEIL..
+Authored work: 'Miscellanea III', composed around ?.
+Authored work: 'Miscellanea dedicata Micheli archiepiscopo Senonensi', composed around ?, dedicated to Dédié à Michel de CORBEIL..
+Authored work: 'De tribus canticis et quibusdam aliis', composed around ?.
+Authored work: 'Ordinaire de l'Église de Laon', composed around ?Entre et ..
+Source: Bibale : http://bibale.irht.cnrs.fr/personne/304.

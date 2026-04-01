@@ -1,0 +1,8 @@
+PERSON: SIMON Chappitault
+Also known as: Symone CHAPPITAULT.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1458-1458%.
+Studied at: Paris ?.
+Academic grades obtained: Licencié en décret ?.

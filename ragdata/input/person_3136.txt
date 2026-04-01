@@ -1,0 +1,13 @@
+PERSON: AEGIDIUS de Raveriis
+Also known as: Gilles de RAVERIIS; Egidius de RAVERIIS; Gilles de RAWERIIS.
+Description: Maître-régent de la Faculté de Médecine de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1322-1339%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Langres..
+Studied at: Paris (Faculté de Médecine) %1322-1332%..
+Academic grades obtained: Maître en médecine en ..
+Ecclesiastical positions held: Provision pour un bénéfice à la collation de l'évêque de Langres en ; mandat à l'abbé de Paris (Sainte-Geneviève), au chantre de Langres et à l'écolâtre de Toul ;; Recteur de la paroisse de Courl'Evêque ;.
+University functions: Maîtrerégent de la FacultédeMédecine de Paris, %1322-1332% :.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

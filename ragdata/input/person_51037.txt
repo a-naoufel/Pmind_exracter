@@ -1,0 +1,7 @@
+PERSON: PERETA La Gourdain
+Also known as: Perreta LAGOURDAIN.
+Description: Maîtresse d’école.
+Status: Suppôt.
+Gender: female.
+Active during: %1454-1454%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 29/08/2020..

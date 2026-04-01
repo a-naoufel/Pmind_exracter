@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Heleni
+Also known as: Guillelmus HELENI; Guillaume ELEN.
+Description: Abbé cistercien de Prières.
+Status: Maître.
+Gender: male.
+Active during: %1345-1372%.
+Studied at: Paris ?.
+Academic grades obtained: Maître en théologie (?Paris) ..
+College affiliation: Collège Saint-Bernard ?.
+Religious order: O.C. : moine cistercien ;; Abbé (cistercien) de Prières ?%1345-1372% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 20/03/2020..

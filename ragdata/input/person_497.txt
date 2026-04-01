@@ -1,0 +1,59 @@
+PERSON: ALEXANDER Nequam
+Also known as: Alexandre NEQUAM; Alexander NECKAM; Alexander NECKHAM.
+Description: Abbé de Cirencester.
+Status: Maître.
+Gender: male.
+Active during: %1182-1217%.
+Born in: Angleterre.
+Studied at: Paris ca.%1175-1182%.; Oxford ca.%1190-1200%..
+Academic grades obtained: Magister.
+Family relationships: Son frèredelait est RICHARD Coeur-de-Lion..
+Social origin: Sa mère est HODIERNA, nourrice de RICHARD Coeur-de-Lion..
+Religious order: O.S.A. : chanoine augustin de l’abbaye (chanoines augustins) de Cirencester (Gloc.) : il entre en religion entre et ..
+Religious functions: Abbé de Cirencester %1213-1217%..
+University functions: Paris : maître enseignant les arts c. %1178-1182% ;; Oxford : maître enseignant la théologie c./.
+Representation roles: Il participe au concile de LatranIV..
+Authored work: 'De naturis rerum et in Ecclasiasten', composed around %1197-1204%.
+Authored work: 'Laus sapientiae divinae', composed around ?.
+Authored work: 'Suppletio defectuum operis quod deservit laudi sapientiae divinae', composed around ..
+Authored work: 'Correctiones Bibliae', composed around ?.
+Authored work: 'Repertorium vocabulorum Bibliae', composed around ?.
+Authored work: 'Elucidarium bibliothecae ou Glossarium Bibliae ou Summa super Bibliam sive Corrogationes Promothei', composed around ..
+Authored work: 'Corrogationes novi Promothei', composed around ?.
+Authored work: 'Metricae corrogationes novi Promothei', composed around ?.
+Authored work: 'De Orthografia Nominum Hebraeorum', composed around ?.
+Authored work: 'Expositio in Cantica Canticorum', composed around ?.
+Authored work: 'Glossa super Psalterium', composed around ?.
+Authored work: 'Tract. super Parabolas Salomonis', composed around ?.
+Authored work: 'In mulierem fortem', composed around ?.
+Authored work: 'Super Symbolum Athanasii', composed around ?.
+Authored work: 'Expositio super caput aquilae', composed around ?.
+Authored work: 'De vanitate humanae fragilitatis (In Eccl. comment.)', composed around ?.
+Authored work: 'Speculum speculationum lib.4', composed around ?.
+Authored work: 'Meditationes de Magdalena', composed around ?.
+Authored work: 'Quaestiones de rebus theologicis', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Euphrastica', composed around ?.
+Authored work: 'Tract. de tribus viribus animae', composed around ?.
+Authored work: 'Hymnarius glossatus', composed around ?.
+Authored work: 'Sacerdos ad altare', composed around .
+Authored work: '?De vita monachorum', composed around ?.
+Authored work: 'Epistola ad discipulum', composed around ?.
+Authored work: 'Exhortatio ad religiosos', composed around ?.
+Authored work: 'Solatium fidelis animae', composed around ?.
+Authored work: 'Isagoge ad artes', composed around ?.
+Authored work: 'Super Marcianum de nuptiis Mercurii et Philologiae', composed around ?.
+Authored work: 'De nuptiis Mercurii', composed around ?.
+Authored work: 'Mithologiae, seu Scintillarium', composed around ?.
+Authored work: 'De nominibus utensilium', composed around ? à Paris..
+Authored work: 'Distinctiones verborum', composed around ?.
+Authored work: 'Suppletio defectuum', composed around ?.
+Authored work: 'Novus Aesopus', composed around ?.
+Authored work: 'Novus Avianus', composed around ?.
+Authored work: 'De commendatione vini', composed around ?.
+Authored work: 'Poésies', composed around ?.
+Authored work: 'Passio S. Albani', composed around ?.
+Authored work: '?Fabula de conceptione B.Mariae Virginis', composed around ?.
+Authored work: 'Moralia super evangelia lib. quatuor', composed around ?.
+Authored work: '(Allegoriae poeticae seu de veritate ac expositione poeticarum fabularum libri quatuor)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol et Jean-Philippe Genet, dernière mise à jour 29/10/2015)..

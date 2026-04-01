@@ -1,0 +1,12 @@
+PERSON: NICOLAUS de Orgemont
+Also known as: Nicolas d'ORGEMONT.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1468-1468%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Dormans-Beauvais : boursier ;.
+Family relationships: Son parent est peut-être Guillaume d’ORGEMONT, seigneur de Méry, trésorier des guerres ; Son parent est peut-être Pierre d’ORGEMONT, chancelier de France ; Son parent est peut-être Pierre IV d’ORGEMONT ; Son parent est peut-être Philippus d’ORGEMONT ; Son parent est peut-être Pierre II d’ORGEMONT, évêque de Paris ; Son parent est peut-être Pierre III d’ORGEMONT ;.
+Social origin: Noble ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 22/10/2019..

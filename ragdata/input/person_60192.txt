@@ -1,0 +1,10 @@
+PERSON: AMBROSIUS de Cruce
+Also known as: Ambrosius de CRUCE.
+Description: Bachelier en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1461-1471%.
+Diocese of origin: Diocèse de Cambrai ;.
+Studied at: Louvain ;; Paris ?; Cologne..
+Academic grades obtained: Étudiant (Paris) ?; Maître ès arts (université inconnue) en ;; Bachelier en décret (université inconnue) ;.
+Source: RAG ;.

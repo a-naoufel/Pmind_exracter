@@ -1,0 +1,10 @@
+PERSON: NICOLAUS de Fontaneto
+Also known as: Nicolaus de FONTANETO; Nicolaus de FONTENAY.
+Description: Licencié en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1381-1381%.
+Studied at: Paris avant ..
+Academic grades obtained: Licencié en théologie (Paris) ..
+Religious order: O.Cist. : moine cistercien de l'abbaye de Fontenay..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 15/08/2023)..

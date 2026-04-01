@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Ulmo 2
+Also known as: Guillermus de ULMO.
+Description: Abbé de La Chaise Dieu.
+Status: Incertain.
+Gender: male.
+Active during: %1348-1377%.
+Studied at: ?.
+Academic grades obtained: Licencié en droit canon ;.
+Religious order: O.S.B. : moine bénédictin ;.
+Religious functions: Prieur d’Albignac (diocèse de Limoges) ;; Prieur de Chirac (diocèse de Mende) ;; Abbé de LaChaise-Dieu (diocèse de Clermont) %1366-1377% ;.
+Other ecclesiastical functions: Official de Clermont %1349-1359% ;; Vicairegénéral de Clermont %1349-1359% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 27/09/2023)..

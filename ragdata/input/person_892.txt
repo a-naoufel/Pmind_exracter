@@ -1,0 +1,11 @@
+PERSON: ARNALDUS de Balbona
+Also known as: Arnaldus de BALBONA; Arnaud de BOULBONNE.
+Description: Licencié en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1375-1375%.
+Studied at: Paris %1375-1375%.
+Academic grades obtained: Licencié en théologie (Paris) ..
+College affiliation: Paris (Collège des Bernardins ?)..
+Religious order: Cistercien : ?abbaye de Boulbonne..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet 29/10/2020)..

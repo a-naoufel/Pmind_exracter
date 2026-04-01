@@ -1,0 +1,7 @@
+PERSON: ODO 10
+Also known as: EUDES.
+Description: Barbier parisien.
+Status: Extérieur.
+Gender: male.
+Active during: %1292-1292%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 18/09/2024..

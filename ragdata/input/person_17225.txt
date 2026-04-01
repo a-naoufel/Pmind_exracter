@@ -1,0 +1,10 @@
+PERSON: BERNARDUS Ruffy
+Also known as: Bernardus RUFFY.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+Family relationships: Son frère est peut-être Johannes RUFFY ; Son frère est peut-être Magister Stephanus RUFFY ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 20/02/2021).

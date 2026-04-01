@@ -1,0 +1,11 @@
+PERSON: THOMAS Avis 1
+Also known as: Thomas AVIS; Thomas LOISEAU.
+Description: Chanoine d Angers.
+Status: Incertain.
+Gender: male.
+Active during: %1366-1410%.
+Studied at: ?.
+Academic grades obtained: Licencié in utroque ;.
+Ecclesiastical status: Sous-diacre ;; Prêtre en ;.
+Ecclesiastical positions held: Chanoine de Saint-Malo ;; Chanoine d’Auxerre ;; Chanoine d’Angers %1373-1409% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 03/06/2022)..

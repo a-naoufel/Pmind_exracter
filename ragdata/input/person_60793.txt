@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Clavelli
+Also known as: Guillermus CLAVELLI; Guillaume CLAVEAU.
+Description: Chanoine de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1347-1371%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Sous-diacre ;.
+Ecclesiastical positions held: Chanoine de Cambrai %1347-1371%; Chanoine de Chartres %1350-1363%; Chanoine de Noyon % -1355%; Chanoine de Meung (Saint-Liéphard) % -1355%; Chanoine d’Amiens %1363-1371%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 01/01/2026..

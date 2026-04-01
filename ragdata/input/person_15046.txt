@@ -1,0 +1,8 @@
+PERSON: ODO de Saintyon
+Also known as: Odon de SAINTYON.
+Description: Étudiant en médecine.
+Status: Étudiant.
+Gender: male.
+Active during: %1485-1487%.
+Studied at: Paris %1485-1487%..
+Academic grades obtained: Étudiant en médecine (Paris) %1485-1487%..

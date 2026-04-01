@@ -1,0 +1,11 @@
+PERSON: BERTRANDUS Erbrandi
+Also known as: Bertrandus ERBRANDI.
+Description: Chanoine d’Agen.
+Status: Incertain.
+Gender: male.
+Active during: %1366-1371%.
+Studied at: ?.
+Academic grades obtained: Bachelier en droit canon ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Cahors ;; Chanoine d’Agen %1369-1371% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/05/2022)..

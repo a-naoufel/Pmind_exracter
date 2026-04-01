@@ -1,0 +1,15 @@
+PERSON: ALANUS O.F.M.
+Also known as: ALAIN; ALANUS.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1298-1311%.
+Studied at: Paris ..
+Academic grades obtained: Maître en théologie dès ..
+College affiliation: Couvent des Cordeliers..
+Religious order: O.F.M.: frère franciscain..
+Religious functions: Ministreprovincial (franciscain) de Touraine en ..
+University functions: Paris (?Régent des Franciscains en %1303-1304%)..
+Authored work: '(Interventions au principium de Gilles de Loigny)', composed around ..
+Authored work: '(Réplique au rotulus d'Ubertino de Casale)', composed around ?..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

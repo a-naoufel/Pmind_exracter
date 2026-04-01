@@ -1,0 +1,12 @@
+PERSON: PETRUS Martini 9
+Also known as: Petrus MARTINI; Pierre MARTIN.
+Description: Maître en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1465-1478%.
+Studied at: Paris %1465-1478%..
+Academic grades obtained: Étudiant en ;; Étudiant en théologie (Paris) ;; Bachelier en théologie (Paris) ;; Licencié en théologie (Paris) (27 janvier) ;; Maître en théologie (Paris) (24 novembre) ..
+College affiliation: Collège de Maître-Gervais : socius ;.
+Ecclesiastical positions held: ?Chanoine de Sens (chapitre cathédral), %1480-1481% ;; ?Théologal de Sens (chapitre cathédral)..
+University functions: Lecteur des Sentences à Paris le 12 septembre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol ; révision, Jean-Philippe Genet 16/09/2020..

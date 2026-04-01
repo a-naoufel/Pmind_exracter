@@ -1,0 +1,12 @@
+PERSON: PETRUS Burry
+Also known as: Petrus BURRY.
+Description: Chanoine d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1482-1504%.
+Born in: Bourgogne ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d’Amiens ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 3/12/2021..

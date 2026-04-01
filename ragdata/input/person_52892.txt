@@ -1,0 +1,12 @@
+PERSON: ROBERTUS Sadoc
+Also known as: Robertus SADOC.
+Description: Chanoine de Rouen.
+Status: Maître.
+Gender: male.
+Active during: %1349-1388%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse d’Évreux ;.
+Studied at: Paris (Nation de Normandie) en ..
+Academic grades obtained: Maître ès arts (Paris) ;; Docteur en médecine ;.
+Ecclesiastical positions held: Candidat à un bénéfice ecclésiastique sur le rotulus de l’université de Paris en ;; Curé de Barentin ;; Chanoine de Rouen %1371-1388% ;; Chanoine d’Avranches %1376-1388% ;; Chantre d’Avranches %1376-1388% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 5/11/2021..

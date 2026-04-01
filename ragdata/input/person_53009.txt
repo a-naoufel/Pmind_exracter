@@ -1,0 +1,13 @@
+PERSON: LUDOVICUS de Prung
+Also known as: Ludovicus de PRUNG.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1389-1431%.
+Born in: Limousin ?.
+Diocese of origin: Diocèse de Limoges ;.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Rouen %1391-1431% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/11/2021..

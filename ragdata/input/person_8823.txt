@@ -1,0 +1,10 @@
+PERSON: MARTINUS de Sancto Theobaldo
+Also known as: Martinus de SANCTO THEOBALDO; Martin de SANCTO THEOBALDO.
+Description: Boursier grammairien au collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1372-1372%.
+Studied at: Paris %1372-1372%..
+Academic grades obtained: Étudiant en grammaire (Paris) ..
+College affiliation: Boursier grammairien au collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 13/09/2023)..

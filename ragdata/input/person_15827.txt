@@ -1,0 +1,12 @@
+PERSON: CLAUDIUS Wepine
+Also known as: Claudius WEPINE.
+Description: Bachelier en décret.
+Status: Maître.
+Gender: male.
+Active during: %1435-1435%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse d'Autun..
+Studied at: Paris (Nation de France) %1435-1435%..
+Academic grades obtained: Maître ès arts (?Paris) ;; Bachelier en décret (Paris) ;.
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales en (28 novembre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révison Jean-Philippe Genet, 15/04/2021..

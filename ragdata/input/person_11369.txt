@@ -1,0 +1,9 @@
+PERSON: SIMON Brencole
+Also known as: Simon BRENCOLE.
+Description: Écolier de la Faculté de médecine..
+Status: Étudiant.
+Gender: male.
+Active during: %1406-1406%.
+Studied at: Paris %1406-1406%..
+Academic grades obtained: Étudiant en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 30/11/2018..

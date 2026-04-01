@@ -1,0 +1,13 @@
+PERSON: MARTINUS de Bellefaye
+Also known as: Martinus de BELLEFAYE; Martinus BELLEFAY.
+Description: Conseiller au Parlement de Paris.
+Status: Gradué.
+Gender: male.
+Active during: %1452-1502%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Social origin: Noble ;.
+Ecclesiastical status: Laïc ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/01/2023..

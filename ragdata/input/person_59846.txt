@@ -1,0 +1,10 @@
+PERSON: ADRIANUS Quentin
+Also known as: Adrianus QUENTIN.
+Description: Boursier du collège de Dainville.
+Status: Étudiant.
+Gender: male.
+Active during: %1508-1510%.
+Studied at: Paris (Nation de Picardie ?) en %1508-1510%..
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Dainville : boursier en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

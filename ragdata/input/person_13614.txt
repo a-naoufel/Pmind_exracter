@@ -1,0 +1,13 @@
+PERSON: PETRUS Mercerii 3
+Also known as: Petrus MERCERII; Petrus LE MERCIER; Petrus MARCERII; Petrus MERCADIER; Petrus MERCARII; Petrus MERCIER.
+Description: Maître en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1486-1490%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse d’Évreux ?.
+Studied at: Paris (Nation de Normandie) %1486-1490%..
+Academic grades obtained: Maître ès arts (Paris) attesté en ;; Licencié en théologie (Paris) (13 janvier) ;; Maître en théologie (Paris) (1er décembre) ..
+College affiliation: Collège de Sorbonne : socius durant le provisorat de Johannes LUILLIER (1460-1500).; Collège de Narbonne : primarius..
+University functions: Paris (Université : recteur élu en (15 décembre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 10/06/2022)..

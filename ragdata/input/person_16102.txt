@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Berges
+Also known as: William de BERGES.
+Description: Archidiacre de Berkshire.
+Status: Étudiant.
+Gender: male.
+Active during: %1287-1313%.
+Born in: Angleterre..
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+Ecclesiastical positions held: Chanoine de Salisbury ;; Archidiacre de Berkshire %1287-1313%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 08/03/2022..

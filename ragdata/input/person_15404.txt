@@ -1,0 +1,25 @@
+PERSON: GUILLELMUS de Valle Rugonis
+Also known as: Guillelmus de VALLE RUGONIS; Guillelmus de FORLEON; Guillelmus de FORLEAN; Guillelmus de VALLE REULAIN; Guillelmus de VALLE REULLON; Guillelmus de VARALLON; Guillelmus de VAUROUILLON; Guillelmus de VORILLON; Guillelmus de VORILLONG; Guillelmus VORILLONGUS; Guillelmus de VORILONGUS; Guillelmus de WORILLON.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1427-1463%.
+Born in: Bretagne (Vauruellan)..
+Diocese of origin: Diocèse de Saint-Brieuc ?.
+Studied at: Paris %1429-1448%.; Poitiers..
+Academic grades obtained: Bachelier en théologie (Paris) ?? ;; Licencié en théologie (Paris) (le 29 janvier) ;; Docteur en théologie (Paris) (le 1er avril) ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) %1427-1429% et à partir de , à son retour du Concile de Bâle..
+Academic relationships: Son maître est Lucas FRANCISCI de Assisio en %1429-1431% ; Son maître est Gerardus FEULETI de SALINIS en ..
+Religious order: O.F.M. : frère franciscain du couvent (franciscain) de Dinan..
+Religious functions: Procureur de la province (franciscaine) de Touraine au concile de Bâle ;; Ministre de la province (franciscaine) de Touraine entre %1449-1461%..
+University functions: Paris (Université : Lecteur des Sentences en septembre %1429-1431% pour les livres I-III) ;; Paris (Couvent franciscain : maître-régent à partir de ) ;; Poitiers (Maître-régent en théologie)..
+Representation roles: Il participe au concile de Bâle à partir du 18 septembre ..
+Authored work: 'Opus in quatuor libros sententiarum iuxta doctrinam S. Bonaventurae et Scoti', composed around ?.
+Authored work: 'Vademecum', composed around ?.
+Authored work: 'Summaria recapitulatio', composed around ?.
+Authored work: 'Collectarium super Quodlibeta Scoti', composed around ?.
+Authored work: 'Liber de Anima', composed around ?.
+Authored work: 'Decisiones regulares praesertim circa vitam et regulam Minorum', composed around ?.
+Authored work: 'Opuscula sacram Scripturam', composed around ?.
+Authored work: 'Quaestiones variae', composed around ?.
+Source: Franciscan authors (B. ROEST) :.

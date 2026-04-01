@@ -1,0 +1,14 @@
+PERSON: CHRISTOPHORUS de Cugneriis
+Also known as: Christophorus de CUGNERIIS; Christophorus de AUGERIIS; Christophorus de CUGNIERES.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1380-1389%.
+Born in: Picardie (Cuignères ?) ?.
+Studied at: Paris %1380-1389%.
+Academic grades obtained: Licencié en théologie (Paris) ;; Docteur en théologie (Paris) (août) ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers). %1380-1389%..
+Religious order: O.F.M. : frère franciscain..
+Religious functions: Correcteur du couvent (franciscain) de Paris ;; Gardien du couvent (franciscain) de Paris ..
+University functions: Paris (Faculté de Théologie : lecteur au couvent franciscain avant ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 09/04/2021..

@@ -1,0 +1,11 @@
+PERSON: RICARDUS de Tonnevilla
+Also known as: Ricardus de TONNEVILLA.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1235-1245%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Rouen %1235-1245% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 6/11/2021..

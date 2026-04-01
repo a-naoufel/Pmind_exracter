@@ -1,0 +1,13 @@
+PERSON: PETRUS de Merduno
+Also known as: Petrus de MERDUNO; Petrus de MORDUNO; Petrus de VERDUNO.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1373-1386%.
+Born in: ComtédeBourgogne ?.
+Diocese of origin: Diocèse de Lausanne ?.
+Studied at: Paris (Collège de Cluny) %1373-1386%..
+Academic grades obtained: Bachelier en théologie (Paris) ..
+College affiliation: Étudiant au collège de Cluny à Paris en %1373-1386%..
+Religious order: O.S.B. : moine clunisien de l'abbaye de Romainmôtier (dépendance de Cluny dans le diocèse de Lausanne) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 26/02/2024)..

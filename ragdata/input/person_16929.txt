@@ -1,0 +1,9 @@
+PERSON: PETRUS d'Encre
+Also known as: Petrus d'ENCRE.
+Description: Recteur de l'Université..
+Status: Maître.
+Gender: male.
+Active during: %1295-1295%.
+Studied at: Paris %1295-1295%..
+Academic grades obtained: Maître ès arts (Paris) attesté en ..
+University functions: Recteur de l'Université de Paris en ..

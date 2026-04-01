@@ -1,0 +1,9 @@
+PERSON: ANTHONIUS Veneti 1
+Also known as: Anthonius VENETI.
+Description: Nonce pour le diocèse de Béziers.
+Status: Suppôt.
+Gender: male.
+Active during: %1445-1449%.
+Studied at: Paris (Nation de France)..
+University functions: Paris (Nation de France : Nonce pour le diocèse de Béziers ).; Paris (Nation de France : Nonce pour le diocèse de Béziers )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/10/2020)..

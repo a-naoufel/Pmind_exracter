@@ -1,0 +1,9 @@
+PERSON: PETRUS de Fontanis
+Also known as: Petrus de FONTANIS.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1331-1332%.
+Studied at: Paris %1331-1332%..
+Academic grades obtained: Maître en médecine (Paris) %1331-1332%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 13/06/2023)..

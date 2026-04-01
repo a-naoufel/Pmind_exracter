@@ -1,0 +1,10 @@
+PERSON: BALDUINUS de Bordis
+Also known as: Balduinus de BORDIS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1380-1380%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant..
+Ecclesiastical positions held: Supplique en pour un bénéfice à la collation de l'évêque, du doyen et du chapitre de Paris (Notre-Dame)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 28/11/2020)..

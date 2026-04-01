@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Moyaco
+Also known as: Guillelmus de MOYACO.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris en ..
+Academic grades obtained: Étudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 04/04/2022..

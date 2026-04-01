@@ -1,0 +1,11 @@
+PERSON: BERTRANDUS Morici da Fermo
+Also known as: Bertrando MORICI da Fermo.
+Description: Maître ès arts.
+Status: Extérieur.
+Gender: male.
+Active during: %1302-1302%.
+Born in: Italie..
+Studied at: Bologne..
+Academic grades obtained: Maître ès arts ?.
+University functions: Bologne (enseignant de grammaire en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 20/03/2021)..

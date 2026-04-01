@@ -1,0 +1,11 @@
+PERSON: PETRUS de Vylarcheaus
+Also known as: Pierre de VYLARCHEAUS.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1282-1282%.
+Born in: Île-de-France (Villarceaux) ?.
+Diocese of origin: Diocèse de Paris ?.
+Academic grades obtained: Maître en théologie (Paris) ca...
+University functions: Paris (Maître-régent en Théologie) ;; Paris (Université : taxateur des maisons en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019).

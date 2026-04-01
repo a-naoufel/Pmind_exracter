@@ -1,0 +1,22 @@
+PERSON: SIGERUS de Cortraco
+Also known as: Siger de COURTRAI; Sigerus de CORTRACO.
+Description: Doyen de Courtrai.
+Status: Maître.
+Gender: male.
+Active during: %1303-1330%.
+Born in: Flandre (Courtrai ?) ;.
+Diocese of origin: Diocèse de Tournai ?.
+Studied at: Paris.
+Academic grades obtained: Maître ès arts (Paris) .; Étudiant en théologie (Paris) en ..
+College affiliation: Collège de Sorbonne : socius en .; Collège de Sorbonne : procureur en ..
+Ecclesiastical positions held: Doyen de Courtrai (Notre-Dame) ..
+University functions: Paris (Faculté des Arts : maîtrerégent %1308-1327)..
+Authored work: 'Ars libir Priorum', composed around ?.
+Authored work: 'Fallacie', composed around ?.
+Authored work: 'Summa modorum significandi', composed around ?.
+Authored work: 'Sophismata', composed around ?.
+Authored work: 'Ars obligatoria', composed around ?.
+Authored work: 'Comment. in Isagogen Porphyrii', composed around ?.
+Authored work: 'Comm. in Praedicamenta Aristotelis.', composed around ?.
+Authored work: 'Comment. in lib. Perihermenias', composed around ?.
+Source: MIRABILE : Federico CONTINI :.

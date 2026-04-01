@@ -1,0 +1,12 @@
+PERSON: HUBALDUS
+Also known as: HUBALDUS.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1106-1106%.
+Diocese of origin: Diocèse de Liège ?.
+Studied at: Paris.
+Academic grades obtained: Maître ?.
+College affiliation: Sainte-Geneviève..
+University functions: Paris (Maître de l’école de Sainte-Geneviève jusqu’en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/08/2024)..

@@ -1,0 +1,9 @@
+PERSON: ROBERTUS Scotus 2
+Also known as: Robertus SCOTUS; Robert d’ÉCOSSE.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1342-1342%.
+Studied at: Paris..
+Family relationships: Son parent est peut-être Nicolas d’ÉCOSSE, libraire en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 17/11/2019..

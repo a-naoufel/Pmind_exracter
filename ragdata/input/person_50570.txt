@@ -1,0 +1,19 @@
+PERSON: GERVASIUS Tilleberiensis
+Also known as: Gervais de TILBURY.
+Description: Juge du Comte de Provence.
+Status: Extérieur.
+Gender: male.
+Active during: %1170-1222%.
+Born in: Angleterre (Tilbury (Essex))..
+Studied at: Bologne.
+Academic grades obtained: Magister (Bologne ?)..
+Family relationships: Sa femme est X, parente de Imbert d’AIGUIERES, archevêque d’Arles..
+Social origin: Noble ?.
+Ecclesiastical status: Laïc, mais il semble être entré dans les ordres à la fin de sa vie, devenant peut-être chanoine (Prémontré) à l’abbaye de L’Huveaune, plutôt que chanoine à Ebsdorf..
+University functions: Bologne (enseignant de droit canon)..
+Authored work: 'Commentarium in Patrem nostrum', composed around ?, dedicated to Écrit pour les Prémontrés de L’Huveaune ?.
+Authored work: 'Liber facetiarum', composed around av..
+Authored work: 'Otia imperialia', composed around ., dedicated to Dédié à OTHON IV de Brunswick, Empereur romain-germanique..
+Authored work: 'De transitu B.M. Virginis et disciplorum gestis', composed around ?.
+Authored work: 'Vita abbreviatia et mirabilia beatissimi Antonii', composed around ?.
+Source: RICHARDSON (H.G.), Gervase of Tilbury, History, new ser., 46, 1961, 102-114 ;.

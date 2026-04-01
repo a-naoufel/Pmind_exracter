@@ -1,0 +1,14 @@
+PERSON: ALANUS Filius Guidonis Guilloti
+Also known as: Alanus FILIUSGUIDONISGUILLOTI; Alain GUILLOT.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1385-1385%.
+Born in: Bretagne..
+Diocese of origin: Diocèse de Quimper..
+Studied at: Paris %1385-1385%..
+Academic grades obtained: Étudiant..
+Family relationships: Son père est Guy GUILLOT..
+Ecclesiastical status: Clerc du diocèse de Quimper ;.
+Ecclesiastical positions held: Candidat à un bénéfice à la collation de l'évêque et du chapitre de Quimper ou, s'il n'y en a pas, de l'évêque, du doyen et du chapitre de Vannes en 1385 dans le rotulus présenté par Walter TRAYL en 1385 (mars) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 2/06/2020)..

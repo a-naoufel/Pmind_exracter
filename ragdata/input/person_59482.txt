@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Cucy
+Also known as: Guillaume CUCY.
+Description: Prêtre.
+Status: Incertain.
+Gender: male.
+Active during: %1459-1459%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical status: Prêtre ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

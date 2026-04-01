@@ -1,0 +1,9 @@
+PERSON: NICOLAUS de Monasterio
+Also known as: Nicolas du MOUSTIER; Nicolaus de MONASTERIO.
+Description: Bachelier en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1375-1375%.
+Studied at: Paris %1375-1375%..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Bachelier en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 13/10/2023..

@@ -1,0 +1,13 @@
+PERSON: PHILIPPUS Majoris
+Also known as: Philippus MAJORIS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1394-1394%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse d’Amiens ;.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) en ;.
+Ecclesiastical status: Clerc du diocèse d’Amiens en ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus présenté par Pierre d’AILLY à BENOÎT XIII en (13 décembre) à Avignon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 10/02/2019..

@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Quintini
+Also known as: Guillermus QUINTINI.
+Description: Chanoine de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1497-1527%.
+Studied at: ?.
+Academic grades obtained: Bachelier in utroque ;.
+Family relationships: Son parent est Vassaldus QUINTINI, chanoine de Clermont ?.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Clermont %1497-1527% ?; Abbécommendataire de Chantouin %1516-1517% ;; Archidiacre de Souvigny ;; Chantre de Clermont %1524-1527% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 17/10/2023..

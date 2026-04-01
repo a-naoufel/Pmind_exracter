@@ -1,0 +1,13 @@
+PERSON: PETRUS Lestournel
+Also known as: Petrus LESTOURNEL.
+Description: Chanoine d’Évreux.
+Status: Maître.
+Gender: male.
+Active during: %1448-1469%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse d’Évreux ;.
+Studied at: Paris..
+Academic grades obtained: Bachelier en décret (Paris) ;; Licencié en décret (Paris) ;.
+Ecclesiastical positions held: Chanoine d’Évreux %1458-1469% ;.
+University functions: Paris (Faculté de Décret : lecteur en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/03/2023)..

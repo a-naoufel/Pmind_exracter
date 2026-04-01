@@ -1,0 +1,13 @@
+PERSON: MARTINUS de Houdelaincuria
+Also known as: Martinus de HOUDELAINCURIA.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1394-1394%.
+Born in: Lorraine ?.
+Diocese of origin: Diocèse de Toul ;.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) ;.
+Ecclesiastical status: Prêtre du diocèse de Toul en ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus présenté par Pierre d’AILLY à BENOÎT XIII en (13 décembre) à Avignon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 11/02/2019..

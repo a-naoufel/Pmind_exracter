@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Alneyo
+Also known as: Guillelmus de ALNEYO; Guillaume de LAUNOY.
+Description: Official de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1326-1328%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Reims %1326-1328% ;.
+Other ecclesiastical functions: Official de Reims %1326-1328% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 10/01/2019..

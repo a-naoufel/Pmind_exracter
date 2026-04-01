@@ -1,0 +1,10 @@
+PERSON: GUIDO de Brienone
+Also known as: Guido de BRIENONE.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1247-1247%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Sens (‘Saint-Pierre’) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 26 octobre 2022..

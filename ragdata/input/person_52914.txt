@@ -1,0 +1,10 @@
+PERSON: ROBERTUS 9
+Also known as: ROBERTUS.
+Description: Archidiacre du Vexin Normand.
+Status: Incertain.
+Gender: male.
+Active during: %1256-1265%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Archidiacre du Vexin Normand %1256-1265% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 8/11/2021..

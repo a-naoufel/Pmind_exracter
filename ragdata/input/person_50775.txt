@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Militis 1
+Also known as: Guillelmus MILITIS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1342-1349%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Sées ;.
+Studied at: Paris (Nation de Normandie) %1342-1349%..
+Academic grades obtained: Maître ès arts (Paris) ..
+Ecclesiastical status: Clerc du diocèse de Sées en ;; Prêtre du diocèse de Sées en ;.
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiastique à la collation de l’abbé et du couvent du monastère bénédictin de Lobbes (Saint Pierre) en réponse au rotulus de l’Université de Paris en : mandat à l’évêque de Rennes, à l’évêque de Sées et à l’abbé (O.S.A.) de Paris (Sainte-Geneviève) ;; Recteur de Thuillies au diocèse de Liège ;; Provision pour un bénéfice à la collation du doyen et du chapitre de Langres au lieu de celui à la collation du chantre et du chapitre de Corbeil (Sainte-Marie) en réponse au rotulus de l’Université de Paris en ; mandat à l’abbé (O.S.A.) de Paris (Sainte-Geneviève), à l’archidiacre du Houlme (église de Sées) et au sacriste d’Avignon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 08/04/2020..

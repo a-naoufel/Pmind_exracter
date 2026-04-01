@@ -1,0 +1,9 @@
+PERSON: X Grange
+Also known as: X GRANGE.
+Description: Notaire.
+Status: Extérieur.
+Gender: male.
+Active during: %1383-1386%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 13/08/2021..

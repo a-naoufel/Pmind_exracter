@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Symonis 2
+Also known as: Guillelmus SYMONIS.
+Description: Bachelier en droit canon.
+Status: Gradué.
+Gender: male.
+Active during: %1415-1415%.
+Studied at: Paris %1415-1415%..
+Academic grades obtained: Bachelier en décret (Paris) (le 4 novembre) ..
+Religious order: O.S.B. : moine bénédictin..
+Religious functions: Prieur de Septennanco (?de Sainténay du diocèse de Coutances) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 1/06/2022..

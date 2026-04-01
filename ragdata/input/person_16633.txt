@@ -1,0 +1,9 @@
+PERSON: ROBINUS dictus Fallet
+Also known as: Robinus dictus FALLET.
+Description: Témoin d'un acte.
+Status: Extérieur.
+Gender: male.
+Active during: %1354-1354%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 13/01/2024)..

@@ -1,0 +1,9 @@
+PERSON: PETRUS Pernan
+Also known as: Petrus PERNAN.
+Description: Nonce pour le diocèse de Györ.
+Status: Suppôt.
+Gender: male.
+Active during: %1524-1524%.
+Studied at: Paris (Nation Anglo-allemande)..
+University functions: Paris (Nation Anglo-allemande : nonce pour le diocèse de Györ ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour, 08/11/2024..

@@ -1,0 +1,11 @@
+PERSON: AMBROSIUS Pivaignon
+Also known as: Ambrosius PIVAIGNON.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1451-1452%.
+Born in: Anjou-Maine ?.
+Diocese of origin: Diocèse de LeMans..
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Baccalauréat ès arts (Paris) .; Licencié ès arts (Paris) .; Maître ès arts (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 23/07/2020)..

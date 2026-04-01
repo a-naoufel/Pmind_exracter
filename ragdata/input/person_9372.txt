@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Tumerel de Arlino
+Also known as: Nicolaus TUMEREL de Arlino; Nicolaus de ARLINO.
+Description: Bachelier ès arts (Paris) ..
+Status: Gradué.
+Gender: male.
+Active during: %1403-1403%.
+Studied at: Paris (Nation Anglo-allemande) ;.
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Academic relationships: Son maître est Coenraedo LUBECK Wolfhagen pour le baccalauréat en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 27/11/2023)..

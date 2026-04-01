@@ -1,0 +1,11 @@
+PERSON: BERNARDUS Eschirli
+Also known as: Bernardus ESCHILRI.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1499-1499%.
+Born in: Alémanie..
+Diocese of origin: Diocèse de Coire..
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 3/02/2021)..

@@ -1,0 +1,11 @@
+PERSON: HUGO de Martigniaco
+Also known as: Hugo de MARTIGNIACO.
+Description: Chanoine d’Autun.
+Status: Incertain.
+Gender: male.
+Active during: %1370-1399%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;; Bachelier en droit civil ;.
+Ecclesiastical status: Sous-diacre ;.
+Ecclesiastical positions held: Recteur de Flotomanville (diocèse de Coutances) ;; Chanoine d’Autun %1371-1399% ;; Abbéséculier d’Autun (Saint-Pierre) %1373-1399% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 16/01/2023..

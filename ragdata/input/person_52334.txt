@@ -1,0 +1,10 @@
+PERSON: ADAM Oliverius
+Also known as: Adam OLIVERIUS.
+Description: Chanoine de Reims ?.
+Status: Incertain.
+Gender: male.
+Active during: %1385-1385%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Reims en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/05/2021..

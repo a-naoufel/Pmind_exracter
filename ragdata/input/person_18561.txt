@@ -1,0 +1,9 @@
+PERSON: HUGO Lamberti
+Also known as: Hugo LAMBERTI.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/08/2015..

@@ -1,0 +1,11 @@
+PERSON: ALEXANDER Anglicus
+Also known as: Alexandre l'ANGLAIS; Alexander ANGLICUS.
+Description: Musicien ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1271-1271%.
+Born in: ?Angleterre..
+Studied at: ?.
+Academic grades obtained: ?M.A..
+Authored work: 'Practica artis musicae', composed around (août)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 29/10/2015)..

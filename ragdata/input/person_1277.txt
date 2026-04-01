@@ -1,0 +1,10 @@
+PERSON: BENEDICTUS de Puteo
+Also known as: Benedictus de PUTEO.
+Description: Docteur en droit canon.
+Status: Extérieur.
+Gender: male.
+Active during: %1317-1317%.
+Studied at: Toulouse..
+Academic grades obtained: Docteur en décret ;.
+University functions: Toulouse (Faculté de décret : maître-régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet 06/01/2021).

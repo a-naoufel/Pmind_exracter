@@ -1,0 +1,10 @@
+PERSON: HENRICUS de Ghone
+Also known as: Henricus de GHONE; Henricus GHORRE.
+Description: Magister.
+Status: Incertain.
+Gender: male.
+Active during: %1341-1341%.
+Studied at: ?.
+Academic grades obtained: Maître en ;; Maître (?Paris)..
+Ecclesiastical positions held: Chanoine de Liège (Saint-Denis) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 22/9/2020..

@@ -1,0 +1,11 @@
+PERSON: HUGO 3
+Also known as: HUGO.
+Description: Chanoine de Chalon.
+Status: Incertain.
+Gender: male.
+Active during: %1195-1205%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Chanoine de Chalon-sur-Saône ;.
+Other ecclesiastical functions: Notaire de l’évêque de Chalon %1195-1205% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 22/05/2025..

@@ -1,0 +1,14 @@
+PERSON: HENRICUS Oresme 2
+Also known as: Henricus ORESME.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1379-1394%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris (Nation de Normandie) .; Orléans ;.
+Academic grades obtained: Maître ès arts (Paris) avant ;; Étudiant en décret (Paris) ;; Licencié en décret (Paris ?) ;; Licencié en droit civil (Orléans) ?.
+Family relationships: Son oncle est Nicolas ORESME, évêque de Lisieux ? Son oncle est Henri ORESME ;.
+Ecclesiastical status: Prêtre du diocèse de Rouen ;.
+Ecclesiastical positions held: Candidat à un bénéfice à la collation de l'évêque, du doyen et du chapitre de Lisieux sur le rotulus de plusieurs maîtres de l'université de Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/08/2021..

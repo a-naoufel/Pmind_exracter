@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Francisci alias Figuli
+Also known as: Guillelmus FRANCISCI; Guillaume FRANCISCI; Guillaume FRANCISCI alias FIGULI; Guillaume FIGULI.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1414-1432%.
+Studied at: Paris (Faculté de Médecine) %1414-1430%..
+Academic grades obtained: Étudiant en médecine (Paris) %1414-1415% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) (mars) ;; Maître en médecine (Paris) ..
+University functions: Paris (Faculté de Médecine : Maîtrerégent en %1424-1425%) ;; Paris (Faculté de Médecine : Maîtrerégent en %1426-1427%) ;; Paris (Faculté de Médecine : Maîtrerégent en %1429-1430%) ;.
+Representation roles: Participe au concile de Bâle en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 29/11/2020)..

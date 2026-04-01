@@ -1,0 +1,13 @@
+PERSON: THEODERICUS de Tynen
+Also known as: Theodoricus de TYNEN; Theodoricus de TIENEN; Theodoricus de DELFT.
+Description: Maître en arts et étudiant en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1345-1352%.
+Born in: Pays-Bas (Hollande : Delft ?) ?.
+Diocese of origin: Diocèse d'Utrecht..
+Studied at: Paris (Nation Anglo-allemande) %1345-1352%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Étudiant en médecine (Paris) %1345-1348% ;.
+Ecclesiastical positions held: Clerc du diocèse d'Utrecht..
+University functions: Paris (Nation Anglo-allemande : Procureur) ;; Paris (Nation Anglo-allemande : Receveur) ;; Paris (Faculté des arts : maître-régent encore en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 28/09/2024).

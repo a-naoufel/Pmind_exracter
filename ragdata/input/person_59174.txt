@@ -1,0 +1,7 @@
+PERSON: BECHINO de Maante
+Also known as: Bechino de MAANTE.
+Description: Drapier.
+Status: Extérieur.
+Gender: male.
+Active during: %1341-1345%.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Danielis 3
+Also known as: Guillelmus DANIELIS; Guillelmus DANIEL.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1434-1446%.
+Studied at: Paris %1434-1446%.
+Academic grades obtained: Baccalarius formatus (Paris) ;; Licencié en théologie (Paris) (le 20 janvier) ;; Docteur en théologie (Paris) (le 18 janvier) ..
+College affiliation: Couvent (carme) de Paris..
+Religious order: O.Carm. : frère carme..
+University functions: Lecteur de la Bible à Paris assigné par le chapitre général en , %1437-1438% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, 04/03/2022..

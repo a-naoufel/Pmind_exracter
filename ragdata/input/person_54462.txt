@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Fulchris
+Also known as: Guillelmus de FULCHRIS; Guillelmus de FURCHIIS.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1414-1415%.
+Studied at: ?.
+Academic grades obtained: Licencié ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Sens (‘Notre-Dame’) %1414-1415% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 25 octobre 2022..

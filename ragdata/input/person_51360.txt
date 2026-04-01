@@ -1,0 +1,14 @@
+PERSON: LAURENTIUS Veritatis
+Also known as: Laurentius VERITATIS.
+Description: Bachelier en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1363-1378%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris (Nation de Normandie) %1362-1378%..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en théologie (Paris) ;; Bachelier en théologie (Paris) ;.
+College affiliation: Collège d’Harcourt : socius ;.
+Ecclesiastical status: Clerc du diocèse de Rouen en ;; Prêtre du diocèse de Rouen en ;.
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiastique à la collation de l’abbé et du couvent du monastère (bénédictin) de Préaux en réponse au rotulus de l’université de Paris en ;; Provision pour un bénéfice ecclésiastique à la collation de l’abbé et du couvent du monastère (bénédictin) de Rouen (Saint-Ouen) avant ;; Provision pour un bénéfice ecclésiastique à la collation de l’archevêque, du doyen et du chapitre de Rouen en réponse au rotulus du collège d’Harcourt en ;; Provision pour un canonicat avec expectative de prébende de Beauvais en réponse au rotulus de l’université de Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 23/10/2020)..

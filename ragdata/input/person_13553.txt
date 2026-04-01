@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Lamberti
+Also known as: Nicolaus LAMBERTI; Nicolaus LAMBERT.
+Description: Docteur en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1441-1465%.
+Studied at: Paris %1441-1465%..
+Academic grades obtained: Maître ès arts (Paris) ;; Licencié en théologie (Paris) (le 29 avril) ;; Docteur en théologie (Paris) (le 27 janvier) ..
+Academic relationships: Son maître est Gerardus GEHE en ; Superviseur des lectures d'un seul étudiant en théologie entre %1456-1465%..
+University functions: Paris (Faculté de Théologie : Lecteur des Sentences en (septembre)) ;; Paris (Faculté de Théologie : Maîtrerégent %1456-1465%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, 25-03-2022..

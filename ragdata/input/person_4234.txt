@@ -1,0 +1,16 @@
+PERSON: GUILLELMUS de Exone
+Also known as: Guillelmus de EXONE; William EXCESTRE; William COURTENAY suggère qu'il peut s'agir de la même personne que William EXCESTRE, maître ès arts avant , qui est un compagnon d'études à Oxford de Johannes de GRANDISSON lui-même étudiant à Paris en ;.
+Description: Chanoine d'York et d'Exter.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1359%.
+Born in: ?Angleterre (Exeter)..
+Diocese of origin: Diocèse d'Exeter ?.
+Studied at: Paris en ;; Oxford..
+Academic grades obtained: Étudiant à Paris en ?; Maître ès Arts (Oxford ou Paris ?) ;; Docteur en théologie (Oxford) ;.
+Ecclesiastical positions held: Recteur de Stoke-in-Teignhead (Dorset) %1318-1328% ;; Chanoine de Lincoln ;; Recteur de Norton-Saint-David (Somerset) %1329-1330% ;; Recteur de Meonstoke (Hampshire) %1330-:1336% ;; Chanoine d'Exeter %1331-1351% au moins ;; Chanoine d'York %1336-1359% ;; Préchantre de Lincoln %1337-1340% ;; Subdean de York %1338-:1343% ;; Chancelier de Lincoln %1341-:1344% ;; Recteur de Brington (Northamptonshire) %1344- % ;; Recteur de Crofton (Yorkshire) %1345-1359% ;.
+Representation roles: Envoyé en France pour traiter avec le roi de France en ;.
+Authored work: 'De Generatione Christi', composed around ?.
+Authored work: '(Remède contre la surdité)', composed around ?.
+Authored work: 'Determinationes contra Ockham et alios fratres pro ecclesiae proprietate', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 11/04/2016..

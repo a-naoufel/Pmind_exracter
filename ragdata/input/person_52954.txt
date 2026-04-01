@@ -1,0 +1,14 @@
+PERSON: PETRUS de Narbonna
+Also known as: Petrus de NARBONNA; Pierre de NARBONNE.
+Description: Évêque d’Urgel.
+Status: Incertain.
+Gender: male.
+Active during: %1329-1348%.
+Born in: Languedoc ;.
+Diocese of origin: Diocèse de Narbonne ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son père est Amaury de NARBONNE, vicomte de Narbonne ;.
+Social origin: Noble ?.
+Ecclesiastical positions held: Chanoine de Rouen %1329-1334% ;; Archidiacre d’Eu %1329-1334% :; Chanoine de Reims %1329-1334% ;; Chanoine d’Évreux ;; Chanoine de Reims %1329-1334% ;; Chanoine de Narbonne (Saint-Paul) %1330-1331% ;; Sous-chantre de Narbonne (Saint-Paul) %1330-1331% ;; Abbé de Narbonne (Saint-Paul) %1330-1331% ;; Chanoine de Lérida %1333-1334% ;; Sous-chantre de Lérida %1333-1334% ;; Évêque d’Urgell %1341-1348% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 14/11/2021..

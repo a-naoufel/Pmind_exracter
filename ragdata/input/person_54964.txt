@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Montechauvelon
+Also known as: Guillelmus de MONTECHAUVELON; Guillermus de MONTECHAUNELON.
+Description: Chanoine d’Autun.
+Status: Incertain.
+Gender: male.
+Active during: %1438-1439%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse d’Autun ;.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d’Autun %1438-1439% ?; Chanoine de Mâcon ;; Chanoine de Chalon ;; Recteur de Couches-Saint-Martin (diocèse d’Autun) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/06/2025)..

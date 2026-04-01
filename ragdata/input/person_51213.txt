@@ -1,0 +1,10 @@
+PERSON: LAURENTIUS de Villanova
+Also known as: Laurentius de VILLANOVA.
+Description: Promoteur de la cour épiscopale de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1413-1413%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;; Licencié en décret ;.
+Other ecclesiastical functions: Promoteur et examinateur de la cour épiscopale de Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/09/2020)..

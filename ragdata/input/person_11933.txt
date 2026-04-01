@@ -1,0 +1,9 @@
+PERSON: THOMAS Jacobi
+Also known as: Thomas JACOBI.
+Description: Écolier de la faculté de médecine..
+Status: Étudiant.
+Gender: male.
+Active during: %1478-1480%.
+Studied at: Paris %1478-1480%..
+Academic grades obtained: Étudiant en médecine (Paris) %1478-1480%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 10/10/2024..

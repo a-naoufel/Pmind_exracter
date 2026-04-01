@@ -1,0 +1,7 @@
+PERSON: BERTRANDUS de Capdenaco
+Also known as: Bertrandus de CAPDENACO.
+Description: Magister hostiarius.
+Status: Extérieur.
+Gender: male.
+Active during: %1334-1334%.
+Social origin: Noble..

@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS Ricardi
+Also known as: Aegidius RICARDI.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1480-1480%.
+Born in: Artois ?.
+Diocese of origin: Diocèse de Arras..
+Studied at: Paris (Nation de Picardie)..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+College affiliation: Collège de Boncourt en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 12/05/2020)..

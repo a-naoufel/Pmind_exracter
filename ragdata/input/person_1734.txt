@@ -1,0 +1,12 @@
+PERSON: CONRADUS Arnhem
+Also known as: Conradus ARNEM; Conradus de AERNEM; Conradus AERNHEM; Conradus ARLNOM; Conradus HARNEM.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1405-1405%.
+Born in: Pays-Bas (Gueldre : Arnhem ?) ;.
+Diocese of origin: Diocèse d'Utrecht ?.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Maître ès arts (Paris)..
+University functions: Paris (Nation Anglo-allemande: Maître-régent ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 22/04/2021..

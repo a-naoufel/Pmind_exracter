@@ -1,0 +1,12 @@
+PERSON: PETRUS Almaurry
+Also known as: Petrus ALMAURRY; Perrenet ALMAURRY.
+Description: Écolier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1401-1401%.
+Born in: Île-de-France (Soissons) ;.
+Diocese of origin: Diocèse de Soissons.
+Studied at: Paris %1391-1394%..
+Academic grades obtained: Étudiant (Paris) %1391-1394%..
+College affiliation: Collège de Dormans-Beauvais : écolier en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 04/12/2023..

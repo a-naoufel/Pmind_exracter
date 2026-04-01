@@ -1,0 +1,7 @@
+PERSON: AGNES de Gravia
+Also known as: Agnès de GRAVIA.
+Description: Bourgeoise de Paris.
+Status: Extérieur.
+Gender: female.
+Active during: %1282-1282%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Dernière mise à jour, Jean-Philippe Genet, 19/05/2020)..

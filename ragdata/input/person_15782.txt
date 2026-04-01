@@ -1,0 +1,9 @@
+PERSON: CANDIDUS Textoris
+Also known as: Candidus TEXTORIS; Candidus TESTORIS.
+Description: Licencié Décret.
+Status: Maître.
+Gender: male.
+Active during: %1486-1488%.
+Studied at: Paris %1486-1488%..
+Academic grades obtained: Bachelier Décret (Paris) (le 19 octobre) ;; Licencié Décret (Paris) en (2 avril ou l7 avril) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 30/03/2021..

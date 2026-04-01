@@ -1,0 +1,10 @@
+PERSON: DIONYSIUS Nugues
+Also known as: Dionysius NUGUES; Denis NUGUEZ; Denis NUGES.
+Description: Maître en médecine à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1435-1449%.
+Studied at: Paris, %1435-1449%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ;.
+University functions: Paris (Faculté de médecine : Maîtrerégent de %1442-1443% jusqu'en %1448-1449%) ;; Paris (Faculté de médecine : doyen élu le 3 novembre ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 2/06/2021..

@@ -1,0 +1,19 @@
+PERSON: GUILLELMUS de Mara
+Also known as: Guillelmus de MARA; Guillelmus de LAMARE.
+Description: Recteur de l’université de Caen.
+Status: Maître.
+Gender: male.
+Active during: %1489-1525%.
+Born in: Normandie (LeDésert) ;.
+Diocese of origin: Diocèse de Coutances..
+Studied at: Paris (Nation de Normandie) %1489-1499% ;; Caen %1506-1506%..
+Academic grades obtained: Maître ès arts (Paris) attesté en ;; Bachelier en décret (Paris) 27 août ;; Docteur in utroque jure..
+Ecclesiastical positions held: Clerc du diocèse de Coutances ;; Candidat à un bénéfice à la collation de l'évêque et du chapitre de Paris en ;; Candidat à un bénéfice à la collation de l'évêque et du chapitre de Senlis en ;; Candidat à un bénéfice à la collation de l'évêque et du chapitre de Bourges en ;; Candidat à un bénéfice à la collation de l'évêque et du chapitre de Chartres en ;; Trésorier de Coutances (chapitre cathédral), dès ;; Chanoine de Coutances (chapitre cathédral), %1511-1525%..
+University functions: Paris (Faculté de Décret : lecteur des Décrétales (1e année) en (11 septembre) ;; Caen : professeur de droit en ;; Caen : Recteur en ..
+Authored work: 'In chimoeram conflictus, opere tripertito. De qua in catholica priore Ioannis ca II. Omne quod est in mundo : concupiscentia carnis est : et concupiscienta oculorum : et superbia vitae', composed around ?.
+Authored work: 'De tribus fugiendis ventre, pluma et Venere libelli tres : multis probatorum athorum sententiis et exemplis referti', composed around ?.
+Authored work: 'Sylvarum libri quatuor. Quorum primus describit superos, secundus illustrium virorum canit laudes, tertius flagitiosorum probra, quartus noenias, et epitaphia', composed around ?.
+Authored work: 'Epistolae et orationes [...] a Ioanne Vatello annototae ac diligenter recognitae', composed around ?.
+Authored work: 'Musoei poetoe antiquissimi et amoenissimi de insano, et ob id devitando Leandri ac Herus amore poemation, G. de M. [...] paraphraste luculentissimo', composed around ?.
+Authored work: 'De sacrosancta Eucharistia regisque nostri Ludovici laudibus de expeditione in Venetos opusculum egregium Guilelmi de Mara', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne TOURNIEROUX ; révision, Jean-Philippe Genet, 28/09/2020..

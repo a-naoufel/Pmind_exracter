@@ -1,0 +1,12 @@
+PERSON: ODO Darchon
+Also known as: Oudinet DARCHON.
+Description: Étudiant au Collège de Laon..
+Status: Étudiant.
+Gender: male.
+Active during: %1384-1384%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon..
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Laon : Boursier ès arts en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 12/12/2020..

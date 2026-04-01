@@ -1,0 +1,13 @@
+PERSON: ADAM Magistri
+Also known as: Adam MAGISTRI.
+Description: Étudiant ès arts.
+Status: Étudiant.
+Gender: male.
+Active during: %1388-1388%.
+Born in: ?Normandie..
+Diocese of origin: Diocèse d'Évreux..
+Studied at: Paris (Nation de Normandie) ..
+Academic grades obtained: Étudiant ès arts (Paris) ..
+Ecclesiastical status: Clerc du diocèse d'Évreux en ..
+Ecclesiastical positions held: Candidat à un bénéfice à la collation de l'évêque, du doyen et du chapitre d'Évreux en (11 avril)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 14/04/2020..

@@ -1,0 +1,12 @@
+PERSON: ALBERTUS Vicecomes de Placencia
+Also known as: Albertus VICECOMES de Placencia; Alberto VISCONTI.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Born in: Italie (Lombardie : Piacenza ?) ;.
+Diocese of origin: Diocèse de Piacenza ?.
+Studied at: Paris en ..
+Family relationships: Son parent est Albericus VICECOMES de Placencia ; Son parent est peut-être Garinus de PLACENTIA, chanoine de Paris (Notre-Dame) ; Son parent est peut-être Grimerius de PLACENTIA, chanoine de Paris (Notre-Dame) ; Son parent est peut-être Manuel de PLACENTIA, chanoine de Paris (Notre-Dame) ;.
+Social origin: Noble..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/06/2020)..

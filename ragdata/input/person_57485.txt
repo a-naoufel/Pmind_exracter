@@ -1,0 +1,12 @@
+PERSON: ODO de Polengeio
+Also known as: Odo de POLENGEIO.
+Description: Procureur de la Nation de France.
+Status: Maître.
+Gender: male.
+Active during: %1267-1267%.
+Born in: Champage (Poulangy) ?.
+Diocese of origin: Diocèse de Langres ?.
+Studied at: Paris (Nation de France) en ..
+Academic grades obtained: Maître ès arts (Paris)..
+University functions: Paris (Nation de France : procureur en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/02/2024)..

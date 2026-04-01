@@ -1,0 +1,9 @@
+PERSON: P. de NovoCastello
+Also known as: P. de NOVOCASTELLO.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1274-1274%.
+Studied at: Paris %1274-1274%..
+Academic grades obtained: Maître en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 03/12/2023..

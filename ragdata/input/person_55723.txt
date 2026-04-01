@@ -1,0 +1,10 @@
+PERSON: IVO de Cormeilles
+Also known as: Yves de CORMEILLES.
+Description: Boursier du collège de Fortet.
+Status: Étudiant.
+Gender: male.
+Active during: %1401-1401%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège de Fortet, boursier %1401-1401% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/04/2023)..

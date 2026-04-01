@@ -1,0 +1,14 @@
+PERSON: STEPHANUS de Rondemare
+Also known as: Stephanus de RONDEMARE.
+Description: Chanoine de Rouen.
+Status: Maître.
+Gender: male.
+Active during: %1419-1423%.
+Born in: Normandie (Harfleur) ;.
+Diocese of origin: Diocèse de Rouen ?.
+Studied at: Paris ;; Orléans ;.
+Academic grades obtained: Licencié in utroque jure (Paris et Orléans) ;.
+Family relationships: Son parent est Guillaume RONDEMARE, receveur des aides pour la guerre ;.
+Ecclesiastical positions held: Chanoine de Rouen %1419-1423% ;.
+Other ecclesiastical functions: Official de Rouen %1419-1422% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 3/11/2021..

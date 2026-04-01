@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Tardis
+Also known as: Guillelmus TARDIS.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+Family relationships: Son frère est peut-être Rogerus TARDIS qui s’acquitte en même temps que lui de la somme due pour la collecte de ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 01/06/2022..

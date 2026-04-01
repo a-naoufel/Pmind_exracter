@@ -1,0 +1,9 @@
+PERSON: ALBERICIANUS
+Also known as: ALBERICIANUS.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1160-1160%.
+Studied at: Paris vers ..
+Academic grades obtained: Maître ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/09/2024)..

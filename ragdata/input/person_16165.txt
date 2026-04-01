@@ -1,0 +1,12 @@
+PERSON: ADRIANUS Fortis
+Also known as: Adrianus FORTIS.
+Description: Maître ès arts..
+Status: Maître.
+Gender: male.
+Active during: %1479-1481%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Noyon..
+Studied at: Paris (Nation de Picardie)..
+Academic grades obtained: L.A. (P) ;; M.A. (P) ..
+Academic relationships: Élève de Fursio d’ATHIEZ pour la maîtrise..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019)..

@@ -1,0 +1,25 @@
+PERSON: PETRUS Cousturier
+Also known as: Pierre COUSTURIER; Pierre COUTURIER; Pierre LECOUSTURIER; Petrus SUTOR.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1494-1537.
+Born in: Anjou-Maine (Chéméré-le-Roy)..
+Diocese of origin: Diocèse de LeMans..
+Studied at: Paris (Nation de France ?)..
+Academic grades obtained: Maître arts (Paris).; Licencié en théologie (Paris) (5 février) ;; Maître en théologie (Paris) (16 avril) ;.
+College affiliation: Collège de Sainte-Barbe : régent ès arts ;; Sorbonne : socius en ..
+Religious order: O.Carth. : il devient chartreux en ..
+Religious functions: Prieur (O.Carth.) de Notre-Dame-du-Parc %1531-1533% ;.
+Ecclesiastical positions held: Candidat à des bénéfices à la collation de l’université de Paris à plusieurs reprises ;; Curé de Saint-Loyer (diocèse de Sées) en ;.
+University functions: Paris (Faculté des Arts : maître-régent au collège de Sainte-Barbe avant ..
+Authored work: 'De vita cartusiana libri duo', composed around ?, dedicated to Dédié à Guillaume BIBAUT, prieur de la Grande-Chartreuse et à Jean de GOVES, prieur de Vauvert..
+Authored work: 'De triplici concubio divae Annae disceptatio', composed around ?, dedicated to Dédié à Guillaume PETIT..
+Authored work: 'De traditione Bibliae et novarum reprobatione interpretationum lucubrationes variorum voluminum lectione undequaque collectae suam capiunt periodum', composed around ?.
+Authored work: 'Apologeticum in antIcomaritas praeclaris beatissime virginis Mariae laudibus detrahentes', composed around ?.
+Authored work: 'Adversus insanam Erasmi apologiam Petri Sutoris antopologia', composed around ?, dedicated to Dédié à Charles GUILLARD..
+Authored work: 'In damnata Lutheri haeresim de votis monasticis', composed around ?.
+Authored work: 'De potestate ecclesie in occultis', composed around ?.
+Authored work: 'La manière de faire testament tres salutaire', composed around ?.
+Authored work: 'Apologia pro vulgatae Bibliorum editioniis defensione', composed around ? ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 17/12/2023..

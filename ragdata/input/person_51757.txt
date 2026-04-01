@@ -1,0 +1,12 @@
+PERSON: G. de Sains
+Also known as: G. de SAINS.
+Description: Étudiant du Collège de Laon..
+Status: Étudiant.
+Gender: male.
+Active during: %1349-1350%.
+Born in: Picardie ;.
+Studied at: Paris (Nation de Picardie) %1349-1350% ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Laon : chapelain %1349-1350% ;.
+Ecclesiastical positions held: Chapelain du collège de Laon %1349-1350% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 16/12/2020..

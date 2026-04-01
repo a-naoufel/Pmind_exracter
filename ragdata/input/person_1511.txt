@@ -1,0 +1,16 @@
+PERSON: BLASIUS 3
+Also known as: BLESUS.
+Description: Prieur du couvent Saint-Jacques.
+Status: Étudiant.
+Gender: male.
+Active during: %1281-1283%.
+Studied at: Paris ?.
+Academic grades obtained: Peut-être étudiant à la Faculté de Théologie ?.
+Religious order: Dominicain.
+Religious functions: Prieur (dominicain) de Paris (St-Jacques) %1281-1282% ?.
+Authored work: 'Secunda dominica post oct. b. Remigii a Bleso predicatore (Sermon sur Matth. 9 4)', composed around (19 octobre)..
+Authored work: 'Dominica II in Adventu a predicatore Bleso (Sermon sur 1 Cor. 13 1)', composed around (14 décembre)..
+Authored work: 'Domenica II in Quadragesima a Bleso predicatore (Sermon sur Matth. 15 12)', composed around (22 février)..
+Authored work: 'Dominica III in Adventu a predicatore Bleso (Sermon sur 1 Cor. 4 5)', composed around (13 décembre)..
+Authored work: 'Domenica in Quinquagesima ante carnisprivium a predicatore Bleso (Sermon sur 1 Cor. 13 1)', composed around (28 février)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (dernière mise à jour, Jean-Philippe Genet, 18/09/2015)..

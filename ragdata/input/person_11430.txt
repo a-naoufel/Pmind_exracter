@@ -1,0 +1,13 @@
+PERSON: SIMON de Bosco 3
+Also known as: Simon de BOSCO.
+Description: Licencié en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1403-1408%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Bayeux ;.
+Studied at: Paris %1403-1408%..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;.
+College affiliation: Collège de Maître-Gervais : Grand Boursier %1403-1408% ;.
+Ecclesiastical status: Clerc du diocèse de Bayeux..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 23/04/2022..

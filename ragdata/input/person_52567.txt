@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Mylon
+Also known as: Nicolaus MYLON.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1484-1496%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;; Bachelier en droit canon..
+Ecclesiastical positions held: Chanoine de Reims %1484-1496% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/08/2021..

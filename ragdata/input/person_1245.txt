@@ -1,0 +1,11 @@
+PERSON: BALDUINUS Comitis
+Also known as: Baudouin COMITIS.
+Description: Bachelier en médecine à Paris..
+Status: Gradué.
+Gender: male.
+Active during: %1454-1458%.
+Born in: Tournai..
+Diocese of origin: Diocèse de Tournai..
+Studied at: Paris (Nation de Picardie), %1454-1458%..
+Academic grades obtained: Étudiant en médecine (Paris) %1454-1455% ;; Bachelier en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet 28/11/2020)..

@@ -1,0 +1,11 @@
+PERSON: MATTHAEUS 2
+Also known as: MATTHAEUS.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1221-1221%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+Religious order: O.P. : frère dominicain ;.
+Religious functions: Prieur (dominicain) de Paris ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 12/07/2023)..

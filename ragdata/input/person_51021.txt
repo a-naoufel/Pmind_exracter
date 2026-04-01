@@ -1,0 +1,13 @@
+PERSON: GALFREDUS Remondi
+Also known as: Gaufridus REMONDI.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1378-1394%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris (Paris) ?.
+Studied at: Paris %1378-1394% ;.
+Academic grades obtained: Étudiant (Paris) ;; Étudiant en décret (Paris) ;; Licencié en droit civil ;.
+Ecclesiastical status: Clerc du diocèse de Paris ?;.
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiastique à la collation de l’évêque, du doyen, et du chapitre de Paris sur un rotulus de Pierre d’ORGEMONT, chancelier de FranceS en %1378 : mandat à l’official de Paris% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 27/08/2020..

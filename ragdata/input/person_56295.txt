@@ -1,0 +1,15 @@
+PERSON: THEOBALDUS de Barro 2
+Also known as: Theobaldus de BARRO.
+Description: Évêque de Liège.
+Status: Étudiant.
+Gender: male.
+Active during: %1283-1312%.
+Born in: Lorraine ?.
+Diocese of origin: Diocèse de Toul ;.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ;.
+Family relationships: Son père est THIBAUD III, comte de Bar ; Sa mère est Jeanne de TOUCY ; Son frère est HENRI III, comte de Bar ; Son père est Renaud de BAR, évêque de Metz ; Son cousin est Guy de LAVAL, évêque de LeMansr ;.
+Social origin: Noble ;.
+Ecclesiastical status: Sous-diacre ;.
+Ecclesiastical positions held: Chanoine d’Évreux %1292-1301% ;; Chanoine de Toul %1294-1301% ;; Chanoine de Lincoln %1295-1303% ;; Chanoine de York %1295-1303% ;; Évêque de Metz %1296-1297% ;; Chanoine de Langres %1297- % ;; Chanoine de Beauvais %1297-1301% ;; Chanoine de Troyes %1297-1301% ;; Chanoine de Verdun %1297-1301% ;; Trésorier de York %1297-1303% ;; Chanoine de Limoges %1297-1303% ;; Chanoine de Paris (Notre-Dame) %1297-1303% ;; Chanoine de LeMans %1297-1303% ;; Chanoine de Reims %1297-1303% ;; Chanoine de Liège %1297-1303% ;; Évêque de Liège %1303-1312% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/06/2023)..

@@ -1,0 +1,11 @@
+PERSON: COLINUS de Coucy
+Also known as: Colin de COUCY.
+Description: Étudiant au Collège de Laon..
+Status: Étudiant.
+Gender: male.
+Active during: %1331-1331%.
+Born in: Picardie ?.
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Étudiant en médecine (Paris) ..
+College affiliation: Collège de Laon : boursier en médecine en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 12/12/2020..

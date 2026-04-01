@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Marnois
+Also known as: Guillelmus MARNOIS.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+Family relationships: Son parent est (peut-être) Andreas MARNOIS :.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 31/10/2020..

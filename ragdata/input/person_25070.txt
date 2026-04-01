@@ -1,0 +1,14 @@
+PERSON: NICOLAUS Tastey
+Also known as: Nicole TASTEY.
+Description: Chapelain du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1384-1384%.
+Born in: Île-de-France ;.
+Diocese of origin: Diocèse de Soissons ;.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Dormans-Beauvais : chapelain ;.
+Ecclesiastical status: Prêtre en ;.
+Ecclesiastical positions held: Chapelain du Collège de Dormans-Beauvais ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 26/11/2023)..

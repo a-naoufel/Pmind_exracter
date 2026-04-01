@@ -1,0 +1,10 @@
+PERSON: PETRUS de Ponteciso
+Also known as: Pierre de PONTECISO; Petrus de PONTECISO.
+Description: Maître régent de la Faculté de médecine..
+Status: Maître.
+Gender: male.
+Active during: %1292-1292%.
+Studied at: Paris %1292-1292%..
+Academic grades obtained: Maître en médecine (Paris) ..
+University functions: Maître régent de la Faculté de médecine de Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 19/10/2023)..

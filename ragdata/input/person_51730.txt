@@ -1,0 +1,12 @@
+PERSON: VAUDESSON de Maisy de Craonne
+Also known as: Vaudesson de MAISY.
+Description: Étudiant au Collège de Laon..
+Status: Étudiant.
+Gender: male.
+Active during: %1386-1388%.
+Born in: Picardie (Craonne ?) ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie) vers %1386-1388%..
+Academic grades obtained: Étudiant (Paris) vers %1386-1388% ;.
+College affiliation: Collège de Laon : étudiant vers %1386-1388% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 13/12/2020..

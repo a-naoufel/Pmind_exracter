@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Mathei
+Also known as: Guillelmus MATHEI.
+Description: Chanoine d’Angers.
+Status: Incertain.
+Gender: male.
+Active during: %1369-1382%.
+Studied at: ?.
+Academic grades obtained: Bachelier en droit canon en ;.
+Ecclesiastical status: Sous-diacre ;; Prêtre ;.
+Ecclesiastical positions held: Curé de Corné % -1371% ;; Chanoine d’Angers %1371-1382% ;; Chanoine de Nantes ;.
+Other ecclesiastical functions: Sous-collecteur pour Angers et Nantes %1369-1378% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 20/07/2022)..

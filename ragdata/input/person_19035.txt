@@ -1,0 +1,10 @@
+PERSON: HERVEUS 3
+Also known as: HERVAEUS.
+Description: Bedeau des Augustins.
+Status: Suppôt.
+Gender: male.
+Active during: %1385-1385%.
+Studied at: Paris ..
+Academic grades obtained: ?.
+Religious order: Paris (Couvent des Augustins : bedeau en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 13/06/2018..

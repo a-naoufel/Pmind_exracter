@@ -1,0 +1,9 @@
+PERSON: AGNES de Campis
+Also known as: Agnès de CAMPIS.
+Description: Épouse de Robert Rollant.
+Status: Extérieur.
+Gender: female.
+Active during: %1262-1262%.
+Family relationships: Son mari est Robertus ROLLANT ;.
+Social origin: Noble : son mari est décrit comme écuyer ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

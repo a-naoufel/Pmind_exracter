@@ -1,0 +1,10 @@
+PERSON: THOMAS de Rivofrigido
+Also known as: Thomas de RIVOFRIGIDO.
+Description: Chanoine de Saint-Pierre de Calais.
+Status: Extérieur.
+Gender: male.
+Active during: %1256-1256%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chanoine de Calais (Saint-Pierre) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 13/09/2023)..

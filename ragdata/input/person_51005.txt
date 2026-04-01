@@ -1,0 +1,26 @@
+PERSON: GUILLELMUS Duranti
+Also known as: Guillelmus DURANTI; Guillaume DURAND; Guillaume DURANT; SPECULATOR; Guillaume de MENDE.
+Description: Évêque de Mende.
+Status: Étudiant.
+Gender: male.
+Active during: %1250-1296%.
+Born in: Languedoc (Puymisson) ;.
+Diocese of origin: Diocèse de Béziers..
+Studied at: Montpellier ?; Paris ?; Bologne ;.
+Academic grades obtained: Étudiant (Paris) ?; Docteur en droit canon ?.
+Family relationships: Son neveu est Guillaume DURAND junior, évêque de Mende ;.
+Social origin: Noble ?.
+Ecclesiastical positions held: Chanoine de Beauvais ;; Chanoine de Narbonne ;; Doyen de Chartres ;; Évêque de Mende %1285-1296%..
+University functions: Bologne (Professeur de droit canon) ?; Modena (Professeur de droit canon)..
+Representation roles: Il participe au concile de Lyon en , et a rédigé certaines de ses constitutions.; Il fait partie de la commission qui accompagne le Cardinal Latino MALABRANCA à Bologne pour ramener la paix entre les Guelfes et les Gibelins de la cité en et de même pour ceux de Florence en ;.
+Authored work: 'Rationale divinorum officiorum', composed around %1290-1294% à Mende..
+Authored work: '(Recueil des bénédictions)', composed around %1280-1290% à Mende..
+Authored work: '(Ordinaire de Mende)', composed around à Mende..
+Authored work: 'Pontificale', composed around %1292-1294% à Mende..
+Authored work: 'Repertorium aureum super toto corpore iuris canonici', composed around pour la première rédaction, %1287-1291% pour la seconde..
+Authored work: 'Speculum judiciale', composed around %1271-1272% pour la première rédaction, %1287-1291% pour la seconde..
+Authored work: 'Speculum legatorum', composed around .
+Authored work: 'Apparatus super novissimis constitutionibus Gregorii X', composed around %1292-1294%, probablement entre (octobre) et (juillet) à Pérouse ;.
+Authored work: 'Instructiones et constitutiones', composed around %1292-1293% ;.
+Authored work: 'Coutumier de la sacristie de Mende', composed around ?.
+Source: ARLIMA : Laurent BRUN :.

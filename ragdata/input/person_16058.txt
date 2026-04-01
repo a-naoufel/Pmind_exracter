@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS Le Progneux
+Also known as: Aegidius LE PROGNEUX.
+Description: Bachelier en décret..
+Status: Gradué.
+Gender: male.
+Active during: %1418-1418%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Sens..
+Studied at: Paris %1418-1418%..
+Academic grades obtained: Bachelier en décret (Paris) (le 31 août) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; dernière mise à jour, Jean-Philippe Genet 07/05/2020)..

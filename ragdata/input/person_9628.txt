@@ -1,0 +1,11 @@
+PERSON: OLAVUS de Suecia
+Also known as: OLAVUS de Zwecia; Olavus de ZWECIA.
+Description: Étudiant.
+Status: Gradué.
+Gender: male.
+Active during: %1370-1370%.
+Born in: Suède.
+Studied at: Paris (NationAnglaise), ..
+Academic grades obtained: Bachelier ès arts (P), ..
+Academic relationships: ?Élève de MARSILE d'Inghen..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Révision Élisabeth Mornet, 06/05/2016..

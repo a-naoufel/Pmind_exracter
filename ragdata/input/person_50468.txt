@@ -1,0 +1,10 @@
+PERSON: PETRUS de Perona
+Also known as: Pierre PERONNE.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1323-1323%.
+Studied at: Paris %1323-1323%..
+Family relationships: Sa femme est Petronilla de PERONA ;.
+Ecclesiastical status: Clerc marié en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 13/11/2019..

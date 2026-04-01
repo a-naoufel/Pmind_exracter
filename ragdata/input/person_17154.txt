@@ -1,0 +1,9 @@
+PERSON: ALAIDIS de Bagneux
+Also known as: Alaidis de BAGNEUX.
+Description: Bourgeoise.
+Status: Extérieur.
+Gender: female.
+Active during: %1255-1255%.
+Family relationships: Son mari est Johannes de BAGNEUS..
+Social origin: Bourgeoisie parisienne ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Dernière mise à jour, Jean-Philippe Genet 20/05/2020)..

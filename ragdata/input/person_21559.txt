@@ -1,0 +1,10 @@
+PERSON: AEGIDIUS de Duno
+Also known as: Aegidius de DUNO.
+Description: Étudiant en théologie ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1350-1350%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant en théologie ?.
+College affiliation: Sorbonne ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 27/04/2020)..

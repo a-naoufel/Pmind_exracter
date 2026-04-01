@@ -1,0 +1,13 @@
+PERSON: VINCENTIUS Eude
+Also known as: Vincent EUDES.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1454-1465%.
+Born in: Normandie ?.
+Studied at: Paris %1459-1465%..
+Academic grades obtained: Bachelier sententiaire en théologie (Paris) en ?.
+College affiliation: Collège de Harcourt : boursier ;; Collège de Sorbonne : hôte en %1454-1460% ;.
+Ecclesiastical positions held: Recteur de Tourgéville ;.
+University functions: Paris (Faculté de Théologie : lecteur en %1459-1461%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe GENET 31/10/2020)..

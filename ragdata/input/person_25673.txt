@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS de Molis
+Also known as: Guillelmus de MOLIS.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1393-1403%.
+Born in: Limousin ?.
+Diocese of origin: Diocèse de Limoges ;.
+Studied at: Paris %:1393-1403%..
+Academic grades obtained: Bachelier en décret (Paris) ;; Licencié en décret (Paris) ;; Étudiant en théologie ;.
+Ecclesiastical status: Prêtre du diocèse de Limoges ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Rotulus quorundam licentiatorum et bacalariorum Universitatis Parisiensis présenté à BENOÎT XIII en (?) à Avignon ;; Candidat à un bénéfice sur le Rotulus licentiatorum et bacallariorum in decretis Parisius adressé à BENOÎT XIII en ;.
+University functions: Paris (Faculté de Décret : Lecteur en %1393-1396%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 28/02/2019..

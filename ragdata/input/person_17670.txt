@@ -1,0 +1,9 @@
+PERSON: BALDUINUS de Brinliva
+Also known as: Balduinus de BRINLIVA; Balduinus de BRUILIVA.
+Description: Donateur à la Sorbonne.
+Status: Étudiant.
+Gender: male.
+Active during: %1320-1320%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant en théologie ?.
+College affiliation: Sorbonne ?.

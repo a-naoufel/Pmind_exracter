@@ -1,0 +1,11 @@
+PERSON: ROBERTUS Warenne
+Also known as: Robert WARENNE.
+Description: Recteur de Steeple Langford.
+Status: Extérieur.
+Gender: male.
+Active during: %1298-1332%.
+Born in: Angleterre..
+Studied at: Oxford ..
+Academic grades obtained: Magister (Oxford) av...
+Ecclesiastical positions held: Recteur de ColfordSt-Mary (Wiltshire) %1298-1321% ;; Recteur de SteepleLangford (Wiltshire) %1321-1332% au moins..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 24/01/2024..

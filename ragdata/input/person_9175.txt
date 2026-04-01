@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de Brinulla
+Also known as: Nicolaus de BRINULLA; NICOLAUS rector de Brinulla.
+Description: Recteur.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Born in: ?.
+Studied at: Paris (?Nationanglaise), ..
+Academic grades obtained: ?Étudiant (P), ..
+Ecclesiastical positions held: Recteur de Brinulla, ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : révision Élisabeth Mornet, 14/02/2019..

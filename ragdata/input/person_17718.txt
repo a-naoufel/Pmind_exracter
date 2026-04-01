@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Claustre 1
+Also known as: Guillelmus CLAUSTRE.
+Description: Maître ès arts..
+Status: Maître.
+Gender: male.
+Active during: %1416-1416%.
+Studied at: Paris %1416-1416%..
+Academic grades obtained: Maître ès arts (Paris) .; Bachelier ou licencié en décret (^Paris) ?.
+University functions: Paris (Faculté de Décret : Il participe à une assemblée qui délibère en (1er octobre) pour savoir si la faculté doit souscrire au rotulus contenant les condamations des propositions de Johannes PARVI ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 3/03/2022..

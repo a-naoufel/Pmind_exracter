@@ -1,0 +1,11 @@
+PERSON: ANTHONIUS de Anezane
+Also known as: Antonius de ANEZANE.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1385-1385%.
+Studied at: Paris..
+Academic grades obtained: Étudiant en théologie (Paris) ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) ..
+Religious order: O.F.M. : frère franciscain..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; Jean-Philippe Genet, dernière mise à jour 21/09/2020)..

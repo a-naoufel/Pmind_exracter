@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de Sailleo
+Also known as: Nicolaus de SAILLEO; Nicolas de SAILLY.
+Description: Doyen de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1223-1247%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son frère est Thierry de SAILLEIO, chanoine de Reims ;.
+Ecclesiastical positions held: Chanoine de Reims %1223-1247% ;; Doyen de Reims %1246-1247% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/07/2021..

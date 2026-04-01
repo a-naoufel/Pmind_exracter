@@ -1,0 +1,12 @@
+PERSON: ALBERTUS de Sancto Audomaro
+Also known as: Albertus de SANCTO AUDOMARO.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1354-1354%.
+Born in: Artois (Saint-Omer ?) ?.
+Diocese of origin: Diocèse de Thérouanne ?.
+Studied at: Paris..
+Academic grades obtained: Maître ?.
+College affiliation: Sorbonne ?.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 3/04/2023 ;.

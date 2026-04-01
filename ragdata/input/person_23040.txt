@@ -1,0 +1,9 @@
+PERSON: NICOLAUS Le Mascon
+Also known as: Nicolaus LE MASCON.
+Description: Habitant de Paris ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1282-1282%.
+Studied at: ?.
+Social origin: Bourgeois de Paris ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 29/04/2019..

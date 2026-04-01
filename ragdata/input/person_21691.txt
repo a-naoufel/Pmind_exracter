@@ -1,0 +1,12 @@
+PERSON: AUBERTUS de Padua
+Also known as: Aubertus de PADUA.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1303-1303%.
+Born in: Italie (Vénétie : Padoue ?) ;.
+Diocese of origin: Diocèse de Padoue ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Religious order: O.F.M. : frère franciscain du couvent (franciscain) de Paris en ;.

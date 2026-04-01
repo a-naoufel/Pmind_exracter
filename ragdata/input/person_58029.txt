@@ -1,0 +1,10 @@
+PERSON: VENTURA Bergamensis
+Also known as: Ventura BERGAMENSIS.
+Description: Maître à Bergame ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1350-1350%.
+Studied at: ?.
+Academic grades obtained: ?.
+Authored work: 'Doctrina brevis dictaminis', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 10-09-2024..

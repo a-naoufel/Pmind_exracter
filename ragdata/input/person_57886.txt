@@ -1,0 +1,10 @@
+PERSON: PETRUS de Monasterio 2
+Also known as: Petrus de MONASTERIO.
+Description: Maître d’école.
+Status: Maître.
+Gender: male.
+Active during: %1451-1453%.
+Studied at: Paris..
+Academic grades obtained: Maître ?.
+Ecclesiastical status: Prêtre.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/06/2024..

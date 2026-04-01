@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Reginaldi 1
+Also known as: Guillelmus REGINALDI.
+Description: Extérieur.
+Status: Extérieur.
+Gender: male.
+Active during: %1433-1433%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical status: Prêtre ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 16/04/2015..

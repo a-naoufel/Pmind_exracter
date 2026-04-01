@@ -1,0 +1,10 @@
+PERSON: PETRUS Capelli de Valence
+Also known as: Pierre CAPELLI de Valence.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1283-1298%.
+Studied at: ?.
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Limoges..
+Religious functions: Figeac (couvent dominicain : lecteur de Théologie %1283-1298%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 2/01/2019..

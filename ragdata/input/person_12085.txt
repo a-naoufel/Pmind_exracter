@@ -1,0 +1,10 @@
+PERSON: THOMAS de Rupe
+Also known as: Thomas de RUPE.
+Description: Boursier théologien au collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1352-1352%.
+Studied at: Paris %1352-1352%..
+Academic grades obtained: Étudiant en théologie (Paris) ;.
+College affiliation: Boursier théologien au collège de Navarre à Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 04/10/2024..

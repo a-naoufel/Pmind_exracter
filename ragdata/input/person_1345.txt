@@ -1,0 +1,33 @@
+PERSON: BERNARDUS de Trilia
+Also known as: Bernard de TRILIA; Bernard de TRAILLIA; Bernard de TRILLY; Bertrand de TRILLIA; Bernard de LATREILLE.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1260-1292%.
+Born in: Languedoc (Nîmes)..
+Diocese of origin: Diocèse de Nîmes ?.
+Studied at: Paris %1260-1265% et %1281-1287%..
+Academic grades obtained: Maître en théologie (Paris) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins) ;.
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Montpellier ?.
+Religious functions: Définiteur du Chapitreprovincial (dominicain) de Castres ;; Participe au Chapitregénéral (dominicain) de Bordeaux ;; Définiteur pour le Chapitregénéral (dominicain) de Lucques ;; Président du Chapitregénéral (dominicain) de Pamiers ;; Vicaireprovincial (dominicain) de Provence en ;; Définiteur de Provence au Chapitregénéral (dominicain) de Palencia ;; Prieurprovincial (dominicain) de Provence en ..
+University functions: Montpellier (Couvent dominicain : Sous-Lecteur %1266-1267% et %1268-1269% ;; Avignon (Couvent dominicain : Lecteur %1267-1268% et %1274-1275%) ;; Bordeaux (Couvent dominicain : Lecteur) %1271-1272% ;; Marseille (Couvent dominicain : Lecteur) %1272-1273% ;; Toulouse (Couvent dominicain : Lecteur %1273-1274%, et %1276-1277%) ;; Paris (Faculté de Théologie : lecteur des Sentences au couvent dominicain %1281-1283% ?) ;; Paris (Faculté de Théologie : Maître-régent au couvent dominicain %1283-1286% ?) ;.
+Authored work: 'Postilla super IV libros Sententiarum', composed around ?.
+Authored work: 'Quaestiones disputatae. I : de differentia esse et essentiae', composed around ?.
+Authored work: 'Quaestiones disputatae. II : de spiritualibus creaturis', composed around ?.
+Authored work: 'Quaestiones disputatae. III : de potentia dei', composed around ?.
+Authored work: 'Postilla super Proverbia', composed around ?.
+Authored work: 'Postilla super Cantica Canticorum', composed around ?.
+Authored work: 'Postilla super Ecclesiasten', composed around ?.
+Authored work: 'Postilla super librum Sapientae', composed around ?.
+Authored work: 'Postillae in Evangelicum Ioannis 1-11', composed around ?.
+Authored work: 'Postillae in Psalmos', composed around ?.
+Authored work: 'Postilla super Apocalypsim', composed around ?.
+Authored work: 'Quodlibeta I-III', composed around ?.
+Authored work: 'Quaestiones XX de cognitione animae coniunctae corpori', composed around %1284-1287%.
+Authored work: 'Quaestiones disputatae XIII de cognitione animae separatae', composed around ..
+Authored work: '(Sermo dom. I in Adventu)', composed around (29 novembre)..
+Authored work: '(Sermo die inventionis S. Crucis)', composed around (3 mai)..
+Authored work: '(Sermo et collatio de resurrectione domini)', composed around ?.
+Authored work: 'Quaestiones de Sphera Ioannis de Sacro-Bosco', composed around ?.
+Source: http://sip.mirabileweb.it.

@@ -1,0 +1,10 @@
+PERSON: PETRUS Fournier 1
+Also known as: Petrus FOURNIER.
+Description: Procureur du collège de La Marche.
+Status: Étudiant.
+Gender: male.
+Active during: %1450-1450%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant ?.
+College affiliation: Collège de LaMarche : procureur en 1450 ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

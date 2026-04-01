@@ -1,0 +1,12 @@
+PERSON: PETRUS de Mincy
+Also known as: Pierre de MINCY.
+Description: Évêque de Chartres.
+Status: Maître.
+Gender: male.
+Active during: %1240-1276%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris).; Étudiant en décret (Paris) vers ..
+Family relationships: Son oncle est Henri de GRES, évêque de Chartres mort en ..
+Ecclesiastical positions held: Évêque de Chartres %1259-1276%..
+University functions: Paris (Maître enseignant les arts vers )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/08/2023)..

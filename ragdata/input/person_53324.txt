@@ -1,0 +1,7 @@
+PERSON: ADAM Bosco
+Also known as: Adam BOSCO.
+Description: Malfaiteur.
+Status: Extérieur.
+Gender: male.
+Active during: %1400-1400%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/01/2022..

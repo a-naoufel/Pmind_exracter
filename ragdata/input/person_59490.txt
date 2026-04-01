@@ -1,0 +1,9 @@
+PERSON: PHILIPPUS de Billy
+Also known as: Philippe de BILLY.
+Description: Huissier.
+Status: Extérieur.
+Gender: male.
+Active during: %1460-1460%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

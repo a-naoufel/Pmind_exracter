@@ -1,0 +1,10 @@
+PERSON: THEODERICUS de Baroncourt
+Also known as: Thierry de BARONCOURT; Thierry BANONCOURT; Thierry BAURUCOURT.
+Description: Boursier du collège de La Marche.
+Status: Étudiant.
+Gender: male.
+Active during: %1512-1514%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) en %1512-1514% ;.
+College affiliation: Collège de LaMarche : boursier en %1512-1514% ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

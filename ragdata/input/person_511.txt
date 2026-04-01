@@ -1,0 +1,9 @@
+PERSON: ALEXANDER de Lerves
+Also known as: Alexandre de LERVES; Alexandre de LEUS.
+Description: Chartreux.
+Status: Étudiant.
+Gender: male.
+Active during: %1180-1199%.
+Studied at: Paris .; Étudiant en droit canon..
+Religious order: Chartreux : chartreuse de Witham vers %1180-1186% ;; Bénédictin : abbaye (bénédictine) de Reading ..
+Ecclesiastical positions held: Chanoine séculier avant de devenir chartreux..

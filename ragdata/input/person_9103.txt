@@ -1,0 +1,12 @@
+PERSON: NICOLAUS Harel
+Also known as: Nicolas HAREL.
+Description: Étudiant en médecine.
+Status: Étudiant.
+Gender: male.
+Active during: %1469-1499%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Lisieux..
+Studied at: Paris %1469-1499%..
+Academic grades obtained: Étudiant en médecine (Paris) ;; ?Licencié en médecine (Paris) ..
+Ecclesiastical positions held: ?Curé de Cléon en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 7/08/2016..

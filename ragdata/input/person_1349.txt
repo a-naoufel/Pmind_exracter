@@ -1,0 +1,9 @@
+PERSON: BERNARDINUS Federicht
+Also known as: Bernardinus FEDERICHT.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1491-1491%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; dernière mise à jour, Jean-Philippe Genet, 14/01/2021).

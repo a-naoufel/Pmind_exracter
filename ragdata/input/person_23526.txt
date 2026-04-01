@@ -1,0 +1,9 @@
+PERSON: HENRICUS Chapelle
+Also known as: Henricus CHAPELLE.
+Description: Marchand.
+Status: Extérieur.
+Gender: male.
+Active during: %1445-1445%.
+Family relationships: Son frère est Nicolas CHAPELLE, avocat au Châtelet de Paris..
+Social origin: Bourgeois parisien..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 25/06/2022..

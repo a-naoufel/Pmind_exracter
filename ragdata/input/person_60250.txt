@@ -1,0 +1,9 @@
+PERSON: HENRICUS de Novocastro 1
+Also known as: Henri de NEUDFCHÂTEAU; Henricus de NOVOCASTRO.
+Description: Commandeur de l’Hôpital Saint-Jean.
+Status: Extérieur.
+Gender: male.
+Active during: %1324-1324%.
+Religious order: O.Hosp. : Hospitalier de Saint-JeandeJerusalem..
+Religious functions: Commandeur de l’Hôpital Saint-Jean en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

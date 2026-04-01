@@ -1,0 +1,11 @@
+PERSON: CAROLUS 5
+Also known as: KAROLUS.
+Description: Recteur de l'Université de Paris..
+Status: Maître.
+Gender: male.
+Active during: %1492-1492%.
+Studied at: Paris (Nation picarde) %1492-1492% ;; Paris (Collège d'Arras) %1492-1492%..
+Academic grades obtained: Magister (Paris) attesté en ..
+College affiliation: Collège d'Arras ..
+University functions: Recteur de l'Université de Paris élu en octobre , jusqu'au 15 décembre de cette année ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 31/03/2021)..

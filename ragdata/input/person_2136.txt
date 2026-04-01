@@ -1,0 +1,15 @@
+PERSON: INGERANNUS de Sancto Fusciano
+Also known as: Enguerrand de SAINT FUSCIEN; Inguerannus de SANCTO-FUSCIANO; Inguerannus de SANCTO-SUSSIANO; Anguerannus de SANCTO-FUSSIANO.
+Description: Médecin.
+Status: Maître.
+Gender: male.
+Active during: %1379-1426%.
+Born in: Picardie (Amiens ?) ;.
+Diocese of origin: Diocèse d'Amiens..
+Studied at: Paris, (Nation de Picardie) %1379-1385%..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en médecine (Paris) ;; Licencié en médecine (Paris) au plus tard en ;; Maître en médecine (Paris) ..
+College affiliation: Collège du Cardinal-Lemoine ?.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d'Amiens %1396-1425% ;; Prévôt d'Amiens %1396-1425% ;.
+Representation roles: Délégué au chapitreprovincial de Saint-Quentin en ;; Délégué au chapitreprovincial de Saint-Quentin en ;; Délégué au chapitreprovincial de Saint-Quentin en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 2/01/2022..

@@ -1,0 +1,13 @@
+PERSON: PETRUS Bartholomaeus de Amsterdam
+Also known as: Petrus BARTHOLOMAEUS de Amsterdam; Petrus de AMSTERDAM.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1376-1382%.
+Born in: Pays-Bas (Hollande, Amsterdam) ;.
+Diocese of origin: Diocèse d’Utrecht..
+Studied at: Paris (Nation Anglo-allemande)..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) (2 décembre) ;.
+Academic relationships: Son maître est Marsilius de INGHEN pour le baccalauréat en ; Son maître est Galterus de DELFT pour la licence en ; Son élève est Gevehardus de ZELBACH pour la maîtrise en ; Son élève est Alardus de DELFT pour la maîtrise en ; Son élève est Nicholaus de MONYCHEDAM pour la licence en ; Son élève est Hinricus CROWEL pour la maîtrise en ; Son élève est Nicholaus de MONYCHEDAM pour la maîtrise en ;.
+University functions: Paris (Nation Anglo-allemande : il paie en (10 mars) 1 franc pour son jocundo introitu : ‘… et magister Petrus de Amsterdam pro jocundo introitu reliquum francum solvere non recusavit;’) ;; Paris (Nation Anglo-allemande : Maître-régent %1379-1381%) ;; Paris (Nation Anglo-allemande : procureur élu en (18 novembre) jusqu’en (13 janvier)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/12/2024)..

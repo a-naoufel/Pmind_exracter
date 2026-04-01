@@ -1,0 +1,9 @@
+PERSON: ROBERTUS de Freullavilla
+Also known as: Robert de FREULLAVILLA; Robertus de FREULLAVILLA.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1332-1332%.
+Studied at: Paris %1332-1332%..
+Academic grades obtained: Maître en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 13/09/2023)..

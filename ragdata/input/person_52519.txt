@@ -1,0 +1,13 @@
+PERSON: NICOLAUS de Sparnaco
+Also known as: Nicolaus de SPARNACO; Nicolas d’ESPERNAY.
+Description: Chanoine de Reims.
+Status: Maître.
+Gender: male.
+Active during: %1344-1358%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Châlons ;.
+Studied at: Paris (Nation de France) ?.
+Academic grades obtained: Maître ès arts (Paris) ?; Maître en théologie (Paris) ?.
+Ecclesiastical status: Diacre ;.
+Ecclesiastical positions held: Chanoine de Reims %1344-1358% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/07/2021..

@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Garnierii
+Also known as: Guillelmus GARNIERII.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1452-1453%.
+Born in: Berry ?.
+Diocese of origin: Diocèse de Bourges..
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Bachelier ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet 01/05/2022.

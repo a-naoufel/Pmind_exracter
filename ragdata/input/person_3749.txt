@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Bonnet
+Also known as: Guillelmus BONNET.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1499-1499%.
+Studied at: Paris %1499-1499%.
+Academic grades obtained: Étudiant (Paris) ..
+Religious order: O.S.B. moine (Bénédictin ) de l'abbaye (bénédictine) de Jumièges..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; Jean-Philippe Genet, 24/02/2022..

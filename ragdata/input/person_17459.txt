@@ -1,0 +1,12 @@
+PERSON: FRANCISCUS de Parenti
+Also known as: Franciscus de PARENTI.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1498-1498%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse d'Amiens..
+Studied at: Paris %1498-1498%..
+Academic grades obtained: Bachelier en décret (Paris) 22 mars ..
+Ecclesiastical status: Clerc du diocèse d'Amiens..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux : révision, Jean-Philippe Genet, 31/08/2021..

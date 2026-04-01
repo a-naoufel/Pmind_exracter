@@ -1,0 +1,10 @@
+PERSON: GALO 2
+Also known as: GALO.
+Description: Grammaticus.
+Status: Maître.
+Gender: male.
+Active during: %1140-1140%.
+Studied at: Paris.
+Academic grades obtained: Magister.
+University functions: Paris (Maître en arts libéraux )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 26/11/2024..

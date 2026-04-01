@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Damargue
+Also known as: Nicole DAMARGUE.
+Description: Prêtre.
+Status: Extérieur.
+Gender: male.
+Active during: %1387-1388%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical status: Prêtre %1387-1388% ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,14 @@
+PERSON: GUIDO de Edua
+Also known as: Guy d’AUTUN.
+Description: Abbé de Chaalis.
+Status: Gradué.
+Gender: male.
+Active during: %1451-1471%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en ?; Bachelier en théologie (Paris) ;.
+College affiliation: Collège des Bernardins ;.
+Academic relationships: Son maître est Egidius de ROYA pour sa lecture cursive en ;.
+Religious order: O. Cist. : abbaye (cistercienne) de Fontenay en ;; O. Cist. : abbaye (cistercienne) de Chaalis (diocèse de Beauvais) ;.
+Religious functions: Abbé (cistercien) de Chaalis (diocèse de Beauvais) %1456-1471% ;.
+University functions: Paris (Faculté de Théologie : lecteur curseur de la Bible, 1er cours en (16 avril)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 30/08/2016..

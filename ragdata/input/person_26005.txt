@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Courtoys
+Also known as: Nicolaus COURTOYS.
+Description: Licencié ès lois.
+Status: Gradué.
+Gender: male.
+Active during: %1403-1403%.
+Studied at: Paris %1403-1403%..
+Academic grades obtained: Bachelier en décret (Paris)s avant ;; Licencié ès lois avant ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Rotulus licentiatorum et bacallariorum in decretis Parisius adressé à BENOÎT XIII en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 22/04/2019..

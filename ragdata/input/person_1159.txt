@@ -1,0 +1,10 @@
+PERSON: BALDUINUS Magistri
+Also known as: Balduinus MAGISTRI.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1448-1464%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Étudiant à la faculté des arts (Paris) en .; Maître ?.
+Academic relationships: Son maître est Albertus SCRIPTORIS en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 28/11/2020)..

@@ -1,0 +1,10 @@
+PERSON: RADULPHUS Guerout
+Also known as: Radulphus GUEROUT.
+Description: Membre du Collège de Maître-Gervais.
+Status: Étudiant.
+Gender: male.
+Active during: %1371-1371%..
+Studied at: Paris ..
+Academic grades obtained: Étudiant ès arts (Paris)..
+College affiliation: Collège de Maître-Gervais : socius ;; Boursier ès arts.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Marion Bernard-Schweitzer 16/09/2020..

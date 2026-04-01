@@ -1,0 +1,13 @@
+PERSON: OLIVERIUS 2
+Also known as: Oliverius.
+Description: Bachelier en droit canon.
+Status: Gradué.
+Gender: male.
+Active during: %1416-1416%.
+Born in: Bretagne ?.
+Studied at: Paris %1416-1416%..
+Academic grades obtained: Bachelier en décret (Paris) (le 20 février) ..
+Religious order: O.S.B. : moine bénédictin..
+Religious functions: Abbé de LaChaume (diocèse de Nantes) en ..
+University functions: Lecteur des Décrétales (1e cours) de Paris le 25 février ;; Lecteur des Décrétales (2e cours) de Paris le 16 octobre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/12/2023)..

@@ -1,0 +1,52 @@
+PERSON: GUERRICUS de Saint Quentin
+Also known as: Guerricus de SANCTO QUINTINO; Werricus de SANCTO QUINTINO; Gauricus de SANCTO QUINTINO; Guerricus FLANDRENSIS; Guéric de SAINT QUENTIN; Guerric de SAINT QUENTIN.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1225-1245%.
+Born in: Picardie (Saint-Quentin ?)..
+Studied at: Bologne ;; Paris %1225-1242%..
+Academic grades obtained: Maître ès arts (Paris) ;; Docteur en médecine; Maître en théologie (Paris) avant ..
+Religious order: Dominicain ca...
+University functions: Bologne (maître en exercice) ;; Paris (Couvent Saint-Jacques : maîtrerégent %1233-1242%)..
+Authored work: 'Sermones', composed around .
+Authored work: 'Sermo in media Quadragesima', composed around (10 février)..
+Authored work: 'Sermo dom. Quinquagesimae)', composed around (10 février)..
+Authored work: '(Sermon pour le 1er dimanche après Pâques)', composed around (7 avril)..
+Authored work: '(Sermon pour la Pentecôte)', composed around (à l’abbaye de Paris (Saint-Victor)..
+Authored work: '(Sermon pour la fête de Saint FRANCOIS)', composed around ?.
+Authored work: '(Deux sermons pour la fête de Saint AUGUSTIN)', composed around ?.
+Authored work: 'Quaestiones in libros Sententiarum', composed around ?.
+Authored work: 'Quaest. quodlibetales (VII, Quodl. "De unione", fragmenta). .', composed around ?.
+Authored work: 'Quaestio de superfluo', composed around ?.
+Authored work: 'Quaestio de vita activa et contemplativa', composed around ?.
+Authored work: 'Quaestio de transfiguratione domini', composed around ?.
+Authored work: 'Postillae in Lamentationes', composed around ?.
+Authored work: 'Postillae in Job', composed around ?.
+Authored work: 'Postillae in Psalmos', composed around ?.
+Authored work: 'Postillae in librum Proverbiorum', composed around ?.
+Authored work: 'Postillae in Eccle.', composed around ?.
+Authored work: 'Postillae in Canticum Canticorum', composed around ?.
+Authored work: 'Postillae in lib. Sapientiae', composed around ?.
+Authored work: 'Postillae in lib. Ecclesiastici', composed around ?.
+Authored work: 'Postillae in Isaiam', composed around ?.
+Authored work: 'Postillae in Hiezechielem', composed around ?.
+Authored work: 'Introitus s. Ezechiel per fr. Guerricum ord. pred. .', composed around ?.
+Authored work: 'Postillae in Os', composed around ?.
+Authored work: 'Postillae in Ioelem', composed around ?.
+Authored work: 'Postillae in Amos', composed around ?.
+Authored work: 'Postillae in Abdiam', composed around ?.
+Authored work: 'Postillae in Ionam', composed around ?.
+Authored work: 'Postillae in Micheam', composed around ?.
+Authored work: 'Postillae in Nahum', composed around ?.
+Authored work: 'Postillae in Habacuc', composed around ?.
+Authored work: 'Postillae in Sophoniam', composed around ?.
+Authored work: 'Postillae in Aggaeum', composed around ?.
+Authored work: 'Postillae in Zachariam', composed around ?.
+Authored work: 'Postillae in Malachiam', composed around ?.
+Authored work: 'In Luc.', composed around ?.
+Authored work: 'In Johannem', composed around ?.
+Authored work: 'In Act. Apost.', composed around ?.
+Authored work: 'Comm. in epist. Pauli', composed around ?.
+Authored work: 'Comm. in Apocalypsim', composed around ?.
+Source: MIRABILE (Federico CONTINI) :.

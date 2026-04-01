@@ -1,0 +1,9 @@
+PERSON: NICOLAUS Baron 1
+Also known as: Nicolaus BARON 1.
+Description: Bachelier en droit canon.
+Status: Gradué.
+Gender: male.
+Active during: %1415-1415%.
+Studied at: Paris %1415-1415%..
+Academic grades obtained: Bachelier en décret (Paris) ? ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 27-02-2024..

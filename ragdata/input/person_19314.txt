@@ -1,0 +1,9 @@
+PERSON: FIRMINUS Lamdon
+Also known as: Firminus LAMDON.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1429-1429%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en décret (Paris) vers %1426-1429% (?) ;.
+Academic relationships: Son maître est Thomas FIEVÉ ;.

@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de Vestfalia
+Also known as: Nicolaus de VESTFALIA.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1339-1339%.
+Born in: Westphalie ?.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+University functions: Paris (Nation Anglo-allemande : examinateur à Sainte-Geneviève pour le deuxième mois en ) ;; Paris (Nation Anglo-allemande : intrans pour l'élection du recteur (Ricardus de BILIACO) en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 14/10/2023)..

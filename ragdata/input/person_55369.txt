@@ -1,0 +1,11 @@
+PERSON: ALEXANDER 6
+Also known as: ALEXANDER.
+Description: Chanoine.
+Status: Incertain.
+Gender: male.
+Active during: %1249-1249%.
+Born in: Danemark.
+Studied at: ? av..
+Academic grades obtained: Magister (?), av. ;.
+Ecclesiastical positions held: Chanoine de Roskilde (cathédrale), avant ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth MORNET 23/01/2023..

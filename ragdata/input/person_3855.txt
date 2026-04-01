@@ -1,0 +1,17 @@
+PERSON: GUILLELMUS Euvrie
+Also known as: Guillelmus EUVRIE; Guillermus EUVERIE; Guillelmus ENERIE; Guillelmus ENURIE; Guillelmus EUVROYE; Guillelmus EVRIE.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1401-1427%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Bayeux ;.
+Studied at: Paris (Nation de Normandie) %:1402-1427% ;.
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en théologie (Paris) en ;; Bachelier en théologie (Paris) ;; Bachelier en théologie "formatus" (Paris) ;; Licencié en théologie (Paris) 3 mars ;; Maître en théologie (Paris) 13 avril ..
+Ecclesiastical status: Clerc du diocèse de Bayeux ;.
+Ecclesiastical positions held: Candidat à un bénéfice dans l’église de Bayeux, ou à un bénéfice à la collation de l’abbé et du couvent de l’abbaye (bénédictine) de Saint-Evroult, ou à un bénéfice à la collation de l’abbé et du couvent de l’abbaye (bénédictine) de Lyre, sur le Magnus Rotulus de l’Université de Paris daté de (21 octobre) et présenté à BENOÎT XIII ;; Écolâtre ("Scholasticus") d'Avranches, ;; Chanoine de Beauvais ;; Chanoine de Chartres avant ;; Chanoine de Reims (12 janvier) ;; Doyen de Reims (18 septembre) ;.
+University functions: Paris (Faculté des Arts : maître-régent pendant deux ans %1401-1403%) ;; Paris (Nation de Normandie : Procureur ?) ;; Paris (Université : il participe en tant que procureur de la Nation de Normandie à l’ambassade de l’université de Paris en (4 août) à Auxerre, pour participer aux discussions sur la paix dans le royaume) : l'Université écrit en (4 août) au roi qu'il est l'une des douze personnes notables qu'elle lui envoie à sa demande ;; Paris (Nation de Normandie : Procureur ?) ;; Paris (Université : il assiste à une assemblée universitaire qui examine les déclarations faites par le recteur au le nom de la faculté des Arts sur la collation des bénéfices par le pape, 7 mars ) ;; Paris (Université : il est l’ambassadeur de l'Université de Paris à divers endroits pour la promotion de l'union de l'Église, ) ;; Paris (Université : il est l’un des sept ambassadeurs de l'Université de Paris apportant un second rotulus demandant des bénéfices du pape MARTIN V : le pape accorde leur requête d'être considérés comme membres de l'université, 26 septembre ) ;; Paris (Université : il est l’un des membres de l’Université souhaitant être envoyé à CHARLES VI, roi de France à Troyes, aux alentours de février-mars ) ;; Paris (Université : ambassadeur auprès de CHARLES VI, roi de France pendant l’été ) ;; Paris (Université : ambassadeur en Angleterre en %1422-1423%) ;; Paris (Université : il représente l'Université de Paris, parmi d'autres, devant le Parlement de Paris en (9 janvier)) ;.
+Representation roles: Paris (Université : il est l’un des représentants universitaires présents au Concile de Constance) ;.
+Authored work: '[Traité sur la simonie]', composed around ?.
+Authored work: 'Invectiva in unum magnum clericum qui universatitem et eius processus ad pacem ecclesie vituperabat, qui prius laudaverat', composed around .
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 17/12/2018..

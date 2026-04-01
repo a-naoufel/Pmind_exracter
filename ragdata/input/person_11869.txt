@@ -1,0 +1,10 @@
+PERSON: THOMAS Anglicus 3
+Also known as: Thomas ANGLICUS.
+Description: Procureur de la Nation d'Angleterre..
+Status: Maître.
+Gender: male.
+Active during: %1331-1331%.
+Born in: ?Angleterre..
+Studied at: Paris (Nation d'Angleterre) %1331-1331%..
+Academic grades obtained: Maître ès arts (Paris) attesté en janvier ;.
+University functions: Maîtrerégent de la Faculté des arts de Paris en janvier ;; Procureur de la Nation d'Angleterre à Paris en janvier ..

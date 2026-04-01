@@ -1,0 +1,12 @@
+PERSON: ERNALDUS de La Grèverie
+Also known as: Ernaldus de LAGREVERIE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1403-1403%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris (Nation de Normandie) ..
+Academic grades obtained: Maître ès arts (Paris) ;.
+Ecclesiastical positions held: Candidat à un bénéfice ecclésiastique sur le rotulus de l'Université de Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 20/07/2021)..

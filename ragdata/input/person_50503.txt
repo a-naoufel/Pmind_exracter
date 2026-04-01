@@ -1,0 +1,10 @@
+PERSON: ROBERTUS de Vanoise
+Also known as: Robertus de VANOISE.
+Description: Conseiller au Parlement de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1345-1345%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical status: Clerc..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 12/01/2020..

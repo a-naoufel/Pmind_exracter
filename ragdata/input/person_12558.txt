@@ -1,0 +1,13 @@
+PERSON: PETRUS Richardi 1
+Also known as: Petrus RICHARDI.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1413-1416%.
+Studied at: Paris (Collège de Cluny) %1413-1416%..
+Academic grades obtained: Licencié en théologie (Paris) (autour du 25 décembre) ;; Docteur en théologie (Paris) ..
+College affiliation: Collège de Cluny %1413-1416%..
+Religious order: O.Clun. : moine clunisien.
+University functions: Prior scolarium du collège de Cluny en ..
+Representation roles: Participe aux troisième et quatrième sessions du Concilium fidei Parisiis en %1413-1414%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 12/12/2020..

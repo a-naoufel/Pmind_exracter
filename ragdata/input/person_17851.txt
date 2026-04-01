@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Le Goulien
+Also known as: Guillelmus LE GOULIEN.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1432-1432%.
+Studied at: Paris %1432-1432%..
+Academic grades obtained: Bachelier en décret (Paris) attesté en juillet ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : rédaction, Anne Tournieroux ; dernière révision : Jean-Philippe GENET, 13/05/2022..

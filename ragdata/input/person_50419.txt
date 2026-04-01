@@ -1,0 +1,9 @@
+PERSON: NICOLAUS de Scotia
+Also known as: Nicolaus de SCOTIA; Nicolas d’ÉCOSSE.
+Description: Libraire et stationarius.
+Status: Suppôt.
+Gender: male.
+Active during: %1323-1323%.
+Born in: Écosse ?.
+Studied at: Paris ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 16/11/2019..

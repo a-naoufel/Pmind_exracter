@@ -1,0 +1,13 @@
+PERSON: HUGO de Reims
+Also known as: Hugo de REIMS; Huet de REIMS.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1382-1385%.
+Born in: ?Champagne (Reims ?) ;.
+Diocese of origin: Diocèse de Reims ?.
+Studied at: Paris %1381-1384%..
+Academic grades obtained: Étudiant (Paris) %1381-1384% ?.
+College affiliation: Collège de Dormans-Beauvais : clerc de la chapelle %1382-1383% ;; Collège de Dormans-Beauvais : boursier %1383-1385% ;.
+Family relationships: Son parent est peut-être Girart de REIMS, clerc de la chapelle puis boursier du Collège de Dormans-Beauvais à la même époque ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 18/11/2019..

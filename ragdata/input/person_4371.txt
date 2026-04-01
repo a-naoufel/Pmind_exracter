@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Rupe 2
+Also known as: Guillelmus de RUPE.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris en ..
+Academic grades obtained: Étudiant ?.
+Ecclesiastical status: Clericus ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/05/2020..

@@ -1,0 +1,7 @@
+PERSON: DIONYSIA de Campis
+Also known as: Dionysia de CAMPIS.
+Description: Détentrice d’une maison.
+Status: Extérieur.
+Gender: female.
+Active during: %1255-1255%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/05/2021)..

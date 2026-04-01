@@ -1,0 +1,10 @@
+PERSON: GERARDUS Wilde
+Also known as: Geraerdus dictus WILDE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1368-1369%.
+Studied at: Paris (Nation Anglo-allemande) %1368-1369%.
+Academic grades obtained: Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est MARSILIUS pour la licence et la maîtrise en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/12/2024)..

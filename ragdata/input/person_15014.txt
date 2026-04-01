@@ -1,0 +1,9 @@
+PERSON: NICOLAUS Bruyere
+Also known as: Nicolas BRUYERE.
+Description: Étudiant en médecine.
+Status: Étudiant.
+Gender: male.
+Active during: %1475-1477%.
+Studied at: Paris %1475-1477%..
+Academic grades obtained: Étudiant en médecine (Paris) %1475-1477%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 8/10/2023)..

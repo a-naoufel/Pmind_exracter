@@ -1,0 +1,15 @@
+PERSON: GUILLEBERTUS de Saana
+Also known as: Guillebertus de SAANA.
+Description: Chanoine de Bayeux.
+Status: Maître.
+Gender: male.
+Active during: %1279-1279%.
+Born in: Normandie..
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris ?.
+Academic grades obtained: Magister (Paris ?) ;.
+College affiliation: Collège du Trésorier : procureur de son frère pour la fondation du collège ;.
+Family relationships: Son père est un prêtre ; Son frère est Guillelmus de SAANA, trèsorier de Rouen ;.
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine de Bayeux %1279-1279% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 06/02/2022..

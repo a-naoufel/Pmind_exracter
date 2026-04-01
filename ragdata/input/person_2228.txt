@@ -1,0 +1,12 @@
+PERSON: EBRARDUS de Brughenoye
+Also known as: Evrardus de BRUGHENOYE.
+Description: Chanoine régulier de Prémontré.
+Status: Gradué.
+Gender: male.
+Active during: %1362-1362%.
+Born in: Rhénanie ?.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en théologie (Paris) ..
+Religious order: O. Praemonstr. : monastère (prémontré) de Cappenberg..
+Ecclesiastical positions held: Provision en pour le rectorat de l'égliseparoissiale de Tassewithz, diocèse d'Olomouc, traditionnellement confiée à cet ordre et vacante par suite de la mort de Maître ADAM ; si il ne peut l'obtenir, il est prévu que l'égliseparoissiale de Stivele au diocèse de Cologne et à la collation du monastère (prémontré) d'Averbode ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 24/06/2021..

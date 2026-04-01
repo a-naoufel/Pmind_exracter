@@ -1,0 +1,11 @@
+PERSON: HENRICUS Le Franc de Venna
+Also known as: Henricus LEFRANC de Venna.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1350-1350%.
+Born in: Angleterre (Venn-Ottery ?) ;.
+Studied at: Paris..
+Academic grades obtained: ?.
+Social origin: Bourgeois de Paris ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 17/11/2019..

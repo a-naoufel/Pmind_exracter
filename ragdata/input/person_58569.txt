@@ -1,0 +1,9 @@
+PERSON: HUMBERTUS Burgundi
+Also known as: Imbertus BURGUNDI; Hymbertus BURGANDUS.
+Description: Sous-bedeau de la Nation de France.
+Status: Suppôt.
+Gender: male.
+Active during: %1349-1358%.
+Studied at: Paris (Nation de France)..
+University functions: Sous-bedeau de la nation de France en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

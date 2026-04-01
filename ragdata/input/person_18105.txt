@@ -1,0 +1,11 @@
+PERSON: HENRICUS Andree de Swecia inferioris
+Also known as: Henricus ANDREE; Henricus ANDREE de Swecia Inferioris.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1416-1441%.
+Born in: Suède ?.
+Studied at: Paris %1416-1416% ;; Cologne ?.
+Academic grades obtained: Bachelier en décret (Paris) 5 juin ;; Étudiant en théologie (Cologne) %1433-1441% ;.
+Representation roles: Concile de Bâle : il y participe en ;.
+Source: RAG ;.

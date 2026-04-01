@@ -1,0 +1,31 @@
+PERSON: LANDULPHUS Caracciolus
+Also known as: Landulphus CARACCIOLI; Landulphus de MAZORIIS; Landolfo CARACCIOLO.
+Description: Archevêque d’Amalfi.
+Status: Maître.
+Gender: male.
+Active during: %1295-1351%.
+Born in: Italie (Naples) ;.
+Diocese of origin: Diocèse de Naples ?.
+Studied at: Paris ?%1315-1320% ;; Naples..
+Academic grades obtained: Étudiant en théologie (Paris) avant ?; Maître en théologie (Naples ?) ?.
+College affiliation: Couvent (dominicain) de Paris (Jacobins) avant ?.
+Family relationships: Son père est Giovanni CARACCIOLO, chevalier ;.
+Social origin: Noble..
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Naples ?.
+Religious functions: Prieurprovincial (dominicain) du Labour %1320-1325% ?.
+Ecclesiastical positions held: Évêque de CastellamarediStabia %1327-1331%.; Archevêque d’Amalfi %1331-1355% ;.
+University functions: Paris (Faculté de Théologie : lecteur au couvent (franciscain) de Paris ?) ;; Naples (Université : professeur)..
+Authored work: 'Commentarium in quattuor libros Sententiarum', composed around ?, dedicated to Dédié à ROBERT I, roi de Naples..
+Authored work: 'Ars sermocinandi', composed around ?.
+Authored work: 'Sermones de sanctis et de tempore', composed around ?.
+Authored work: 'Liber collationum spiritualium', composed around ?.
+Authored work: 'Postilla super Evangelia dominicalia', composed around ?, dedicated to Dédié à Monaldo da PERUGIA, O.F.M., procureur à la Curia avignonaise en %1316-1322%..
+Authored work: 'In Zachariam Propheta', composed around ?.
+Authored work: 'In IV Evangelia', composed around ?.
+Authored work: 'In epistolam ad Hebreos', composed around ?.
+Authored work: 'Quaestio de Medio inter contradictoria', composed around ?.
+Authored work: 'Quodlibeta', composed around ?.
+Authored work: 'Quaestiones in metaphysicam', composed around ?.
+Authored work: 'Coram papa', composed around ?.
+Authored work: 'In mortem regis Andree', composed around ?.
+Source: Répertoire des auteurs franciscains préparé par Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress :.

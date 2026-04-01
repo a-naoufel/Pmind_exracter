@@ -1,0 +1,13 @@
+PERSON: FRANCISCUS de Columberio
+Also known as: Franciscus de COLUMBERIO.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1378-1379%.
+Born in: Savoie (Vaud) ?.
+Diocese of origin: Diocèse de Lausanne..
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+Social origin: ?Noble ..
+Ecclesiastical positions held: Doyen-rural de Neufchâtel en ;; Supplique en sa faveur d'Humbert de COLUMBIER, bailli de Vaud en pour un canonicat avec expectative de prébende à la cathédrale d'Embrun ;; Supplique en sa faveur d'Humbert de COLUMBIER, bailli de Vaud en pour un canonicat avec expectative de prébende vacant à la cathédrale d'Lausanne ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 26/08/2021..

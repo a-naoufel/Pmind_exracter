@@ -1,0 +1,9 @@
+PERSON: ANDREAS Fouet
+Also known as: Andreas FOUET.
+Description: Bachelier en droit canon.
+Status: Maître.
+Gender: male.
+Active during: %1474-1474%.
+Studied at: Paris %1474-1474%..
+Academic grades obtained: Maître ès arts (?Paris) ;; Bachelier en décret (Paris) (fin mars) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne TOURNIEROUX ; Jean-Philippe Genet, dernière mise à jour 21/08/2020)..

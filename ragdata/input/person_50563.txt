@@ -1,0 +1,56 @@
+PERSON: GUIDO Terreni
+Also known as: Guy TERRE; Guido de TERRENI.
+Description: Carme.
+Status: Maître.
+Gender: male.
+Active during: %1313-1342%.
+Born in: Catalogne (Perpignan)..
+Diocese of origin: Diocèse de Perpignan ?.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) avant ..
+College affiliation: Couvent (carme) de Paris %1313-1318%..
+Academic relationships: Son maître est Jean de POUILLY ; Son maître est Jacques de BRUGES Son maître est Godefroid de FONTAINES..
+Religious order: O. Carm. : frère carme..
+Religious functions: Prieurgénéral des Carmes.; Provincial (Carme) de Provence ;; Prieurgénéral des Carmes %1318-1321%..
+Ecclesiastical positions held: Évêque de Majorque ;; Évêque d'Elne ?.
+University functions: Paris (MaîtreRégent) %1313-1318% ?.
+Authored work: 'Comment. in libros Sententiarum', composed around %1307-1308%.
+Authored work: 'Quaestiones XII de Verbo divino', composed around %1313-1314%.
+Authored work: 'Quodlibet I (18 quaestiones)', composed around ..
+Authored work: 'Quodlibet II (18 quaestiones)', composed around ..
+Authored work: 'Quodlibet III (15 quaestiones)', composed around .
+Authored work: 'Quodlibet IV (16 quaestiones)', composed around .
+Authored work: 'Quodlibet V (15 quaestiones)', composed around .
+Authored work: 'Quodlibet VI (15 quaestione)', composed around , peut-être à Avignon ;.
+Authored work: 'Quodlibet VII', composed around , peut-être à Avignon ;.
+Authored work: 'Quodlibet VII', composed around Après , peut-être à Avignon ;.
+Authored work: 'Quaestiones disputatae : 1.Quaestiones XIII disput.', composed around ?.
+Authored work: 'Quaestiones disputatae 1 : Quaestiones diversae', composed around ?.
+Authored work: 'Quaestiones disputatae 2 : Utrum invocantes daemones sint haeretici(ad Joann. XXII)', composed around ?, dedicated to Adressé à JEAN XXII..
+Authored work: 'Quaestiones disputatae 3 : Collectio ex dictis sanctorum doctorum ad responsionem sequentium quaestionum de mandato domini papae', composed around ?.
+Authored work: 'Quaestio disputata ‘Utrum principalis articulae fidei nostre …’', composed around ?.
+Authored work: 'Quaestio de magisterio infallibili Romani pontificis', composed around ?.
+Authored work: 'Reprobatio operis Catalonici', composed around %1318-1321%.
+Authored work: '(Consultation des 13 Maîtres sur les quatres articles)', composed around ..
+Authored work: 'Vota quorundam magistrorum in theologia de Postilla super Apocalipsim fratris Petri Johannis Olivi', composed around %1318-1320%..
+Authored work: 'De perfectione vitae', composed around (24 décembre)..
+Authored work: 'Defensorium tractatus De perfectione vitae', composed around %1328-1334%.
+Authored work: 'Confutatio errorum quorumdam magistrorum', composed around .
+Authored work: 'De Concordia Evangeliorum', composed around %1328-1330%.
+Authored work: 'Expositio super tria cantica : Magnificat, Benedictus et Nunc dimittis...".', composed around .
+Authored work: 'Summa de haeresibus et earum confutationibus', composed around ca..
+Authored work: 'Vota quorundam magistrorum theologiae contra tres articulos partis Ordinis Minorum', composed around (avril) à Avignon : consultation à la demande de JEAN XXIII des 13 maîtres sur troisarticlesémanant des Franciscains après le 13 avril et avant le 11 juin..
+Authored work: 'Expositorium symboli', composed around ?.
+Authored work: 'Tractatus in quo satisfecit opinionibus Scoti et aliorum', composed around ?.
+Authored work: 'Quaestio in libros de Anima', composed around ?.
+Authored work: 'In libros Metaphysicorum', composed around .
+Authored work: 'In Perihermenias', composed around ?.
+Authored work: 'In libros de caelo et mundo', composed around ?.
+Authored work: 'In libros de generatione et corruptione', composed around ?.
+Authored work: 'In Parva naturalia', composed around ?.
+Authored work: 'Quaestio "Utrum mundus potuerit creari ab aeterno »', composed around ?.
+Authored work: 'Comm. in libros Physicorum', composed around ?.
+Authored work: 'Comment. super Decretum Gratiani', composed around %1336-1337%.
+Authored work: 'Quaestiones super libros Ethicorum', composed around ?.
+Authored work: 'Super libros Politicorum', composed around ?.
+Source: MIRABILE, Andrea CENCINI :.

@@ -1,0 +1,10 @@
+PERSON: ANDREAS Le Pele
+Also known as: Andreas LEPELÉ.
+Description: Bachelier en décret.
+Status: Maître.
+Gender: male.
+Active during: %1424-1424%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) en ;; Bachelier en décret (Paris) en ;.
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (L. I) en (10 octobre), pour la 1ère année et le 1er volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour, 09/12/2025..

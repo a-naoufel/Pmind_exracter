@@ -1,0 +1,10 @@
+PERSON: ARNULPHUS Lacaille
+Also known as: Arnulphus LACAILLE.
+Description: Secrétaire du duc d'Anjou.
+Status: Étudiant.
+Gender: male.
+Active during: %1375-1388%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant à la faculté de Décret, en troisième année d'audition en ..
+Ecclesiastical positions held: Chanoineprébendé de Senlis (églisecollégiale Saint-Règle) en .; Provision pour un canonicat avec expectative de prébende à la cathédrale de Rouen et d'un autre à la cathédrale de Bayeux en ;; Prévôt d'Aix ;; Provision pour un canonicat avec expectative de prébende à la cathédrale de Rouen en ;; Chanoineprébendé de Rouen %1381-1388% ;; Chanoineprébendé de Bayeux .; Chantre de Chartres ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet 17/11/2020..

@@ -1,0 +1,10 @@
+PERSON: ANDRICUS Maurand
+Also known as: Andricus MAURAND.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1293-1314%.
+Studied at: ?; Rien ne semble le relier à Paris..
+Religious order: Dominicain..
+University functions: Montauban (Couvent dominicain : Lecteur ).; Narbonne (Couvent dominicain : Sous-lecteur en Théologie ).; Albi (Couvent dominicain : Lecteur en Théologie )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 3/09/2020)..

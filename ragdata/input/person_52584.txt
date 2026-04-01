@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Caron
+Also known as: Nicolas CARON; Nicolaus LE CARON.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1442-1456%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;; Bachelier en droit canon ;.
+Ecclesiastical positions held: Chanoine de Reims %1442-1456% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 31/08/2021..

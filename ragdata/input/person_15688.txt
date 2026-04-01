@@ -1,0 +1,12 @@
+PERSON: ANTHONIUS Matz
+Also known as: Anthonius MATZ; Anthonius MAS.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1476-1479%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse du Puy-en-Velay..
+Studied at: ?Paris %1479-1479%..
+Academic grades obtained: Licencié en décret attesté en ;.
+College affiliation: Collège d'Autun : boursier en décret ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 05/06/2024)..

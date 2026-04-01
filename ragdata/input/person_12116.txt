@@ -1,0 +1,11 @@
+PERSON: TUCHO 1
+Also known as: THUKO.
+Description: Chanoine.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Diocese of origin: Danemark (Schleswig);.
+Studied at: Paris, ..
+Academic grades obtained: Étudiant (P), ..
+Ecclesiastical positions held: Chanoine de Schleswig (cathédrale), ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Révision Élisabeth Mornet, 12/02/2023..

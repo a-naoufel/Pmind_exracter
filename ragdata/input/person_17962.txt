@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Micheleti
+Also known as: Guillelmus MICHELETI.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1443-1443%.
+Studied at: Paris %1443-1443%..
+Academic grades obtained: Bachelier en décret (Paris) 16 mai ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 16/04/2015..

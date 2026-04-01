@@ -1,0 +1,13 @@
+PERSON: MARTINUS de Rothomago
+Also known as: Martinus de ROTHOMAGO.
+Description: Augustin.
+Status: Étudiant.
+Gender: male.
+Active during: %1385-1385%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en théologie ?.
+College affiliation: Couvent des Grands-Augustins(Paris)..
+Religious order: O.E.S.A. : frère augustin..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : rédaction et dernière révision : Jean-Philippe GENET, 29/08/2020..

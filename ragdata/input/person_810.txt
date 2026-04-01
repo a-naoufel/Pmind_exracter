@@ -1,0 +1,23 @@
+PERSON: ANTHONIUS Andreas
+Also known as: Antonius ANDREAS; Antonius ANDREAE; Antoni ANDREU; Doctor dulcifluus.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1304-:1320:%.
+Born in: Espagne (Catalogne)..
+Studied at: Lérida ;; Paris %:1304:-:1307:%..
+Academic grades obtained: Maître ès arts (Paris) ;; Maître en théologie (Paris)..
+Academic relationships: Élève de Johannes DUNS Scotus..
+Religious order: Franciscain.
+University functions: Paris (Maître-Régent %1304-1307%)..
+Authored work: 'Commentarius in Librum de sex principiis', composed around ?.
+Authored work: 'Compendiosum principium in IV libros Sententiarum', composed around ?.
+Authored work: 'Expositio in XII libros Aristotelis Metaphysicae', composed around ?.
+Authored work: 'Scriptum in artem veterem', composed around ?.
+Authored work: 'Tractatus abreviatus de modis distinctionum', composed around ?.
+Authored work: 'Tractatus de syllogismis demonstrativis', composed around ?.
+Authored work: 'De tribus rerum naturalium', composed around ?.
+Authored work: 'Questiones de anima', composed around ?.
+Authored work: 'Questiones in novam logicam', composed around ?.
+Authored work: 'Quaestiones super Physicam Aristotelis', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

@@ -1,0 +1,11 @@
+PERSON: SIMON Festuce
+Also known as: Simon FESTUCE.
+Description: Évêque de Meaux.
+Status: Incertain.
+Gender: male.
+Active during: %1290-1317%.
+Born in: Fontainebleau..
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Doyen de Blois (Saint-Sauveur) %1290-1301% ;; Chanoine de Chartres %1302-1308% ;; Archidiacre de Vendôme %1302-1308% ;; Chanoine de Sens %1306-1308% ;; Doyen de Sens %1306-1308% ;; Évêque de Meaux %1308-1317% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 10/09/2022..

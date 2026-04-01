@@ -1,0 +1,9 @@
+PERSON: CONRADUS Mercatorio
+Also known as: Conrardus MERCATORIO.
+Description: Marchand ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1433-1434%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 27/04/2021..

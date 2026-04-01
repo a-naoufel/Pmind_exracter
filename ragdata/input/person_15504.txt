@@ -1,0 +1,11 @@
+PERSON: PETRUS de Monasterio 3
+Also known as: Petrus de MONASTERIO.
+Description: Clunisien.
+Status: Étudiant.
+Gender: male.
+Active during: %1458-1458%.
+Studied at: Paris (Collège de Cluny) %1458-1458%..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Étudiant au collège de Cluny à Paris en ..
+Religious order: O.Clun. : moine clunisien ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/08/2023)..

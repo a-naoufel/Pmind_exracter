@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Senonensis
+Also known as: Guillelmus SENONENSIS.
+Description: Stationarius.
+Status: Suppôt.
+Gender: male.
+Active during: %1270-1270%.
+Studied at: Paris ..
+Academic grades obtained: ?.
+University functions: Paris (Université : stationarius) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 31/05/2022..

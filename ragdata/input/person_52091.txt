@@ -1,0 +1,10 @@
+PERSON: RADULPHUS Roussin
+Also known as: Raoul ROUSSIN.
+Description: Principal du Collège de Dacie.
+Status: Maître.
+Gender: male.
+Active during: %1385-1387%.
+Studied at: Paris %1385-1387%..
+Academic grades obtained: Maître (Paris) ?.
+College affiliation: Collège de Dacie : principal ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/03/2021..

@@ -1,0 +1,10 @@
+PERSON: OLAVUS Andree
+Also known as: Olavus ANDREE.
+Description: Licencié ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1520-1521%.
+Born in: Danemark?.
+Studied at: Paris (Nation anglo-allemande), %1520-1521%..
+Academic grades obtained: Bachelier ès arts (P), %1520-1521%.; Licencié ès arts (P), %1520-1521%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 10/01/2022..

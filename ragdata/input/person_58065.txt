@@ -1,0 +1,7 @@
+PERSON: ODELINA 4
+Also known as: EUDELINE.
+Description: Barbière parisienne.
+Status: Extérieur.
+Gender: female.
+Active during: %1292-1292%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 18/09/2024..

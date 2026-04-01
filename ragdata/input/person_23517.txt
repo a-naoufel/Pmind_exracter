@@ -1,0 +1,10 @@
+PERSON: MASSIOTUS Mauduit
+Also known as: Massiotus MAUDUIT; Massiot MAUDUIT; Macé MAUDUIT.
+Description: Hôte du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1391-1394%.
+Studied at: Paris %1391-1394%..
+Academic grades obtained: Étudiant (Paris) %1391-1394%..
+College affiliation: Collège de Dormans-Beauvais : hôte %1391-1394% ?.
+Source: LAMOP : Opération Charles VI (n° 2438) :.

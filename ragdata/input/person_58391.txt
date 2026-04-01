@@ -1,0 +1,11 @@
+PERSON: HUGO Primas
+Also known as: Hugo PRIMAS; Hugo AURELIANENSIS; Hugues d’ORLÉANS.
+Description: Professeur de grammaire.
+Status: Maître.
+Gender: male.
+Active during: %1113-1160%.
+Studied at: Orléans ;; Paris..
+Academic grades obtained: Maître..
+University functions: Paris (Maître de grammaire en ) ;.
+Authored work: 'Poèmes', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

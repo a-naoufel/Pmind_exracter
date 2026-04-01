@@ -1,0 +1,12 @@
+PERSON: THEODERICUS de Hasselt
+Also known as: Thierry de HASSELT.
+Description: Maître en arts..
+Status: Maître.
+Gender: male.
+Active during: %1362-1362%.
+Born in: Pays-Bas (Limbourg : Hasselt ?) ;.
+Diocese of origin: Diocèse d'Utrecht..
+Studied at: Paris (Nation Anglo-allemande) avant ;; Montpellier.
+Academic grades obtained: Maître ès arts (Paris) avant ;; Bachelier en médecine (Montpellier ?) ;.
+Ecclesiastical positions held: Candidat à un canonicat de Soest en ;; Candidat à un canonicat de Cologne (Saint-André) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 28/09/2024).

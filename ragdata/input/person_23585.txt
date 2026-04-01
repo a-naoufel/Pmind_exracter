@@ -1,0 +1,10 @@
+PERSON: PETRUS de Argent
+Also known as: Perrin d'ARGENT.
+Description: Hôte du Collège de Dormans-Beauvais ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1399-1402%.
+Studied at: Paris %1399-1402%..
+Academic grades obtained: Étudiant (Paris) %1399-1402%..
+College affiliation: Collège de Dormans-Beauvais : hôte %1399-1402% ?.
+Source: LAMOP : Opération Charles VI (n° 2350) :.

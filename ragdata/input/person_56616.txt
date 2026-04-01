@@ -1,0 +1,12 @@
+PERSON: PETRUS Transmont
+Also known as: Petrus TRANSMONT.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1445-1445%.
+Born in: Limousin ?.
+Diocese of origin: Diocèse de Limoges ;.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Firminus ROGERII pour la maîtrise en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/09/2023..

@@ -1,0 +1,10 @@
+PERSON: WARNACIUS
+Also known as: WARNACIUS.
+Description: Chanoine de Trévise.
+Status: Incertain.
+Gender: male.
+Active during: %1231-1231%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chanoine de Trévise %1229-1231% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 12/06/2023)..

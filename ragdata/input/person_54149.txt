@@ -1,0 +1,11 @@
+PERSON: STEPHANUS Baillivo
+Also known as: Stephanus BAILLIVO.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1266-1270%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Sens %1266-1270% ;; Curé de Saint-Julien-du-Sault ;.
+Other ecclesiastical functions: Bailli de l'archevêque ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 09/09/2022..

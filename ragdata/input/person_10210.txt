@@ -1,0 +1,8 @@
+PERSON: PETRUS de Villa Blovana
+Also known as: Petrus de VILLA BLOVANA.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1282-1282%.
+Studied at: ?Paris..
+Academic grades obtained: Magister ?.

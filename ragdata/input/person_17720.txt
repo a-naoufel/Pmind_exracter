@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Carois
+Also known as: Guillelmus de CAROIS.
+Description: Bachelier en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1417-1417%.
+Studied at: Paris %1417-1417%..
+Academic grades obtained: Maître ès arts (Paris) attesté en ;; Bachelier en décret (Paris) 23 août ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 12/03/2022..

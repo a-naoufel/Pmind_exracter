@@ -1,0 +1,12 @@
+PERSON: ODO de Villains
+Also known as: Eudes de VILLAINS.
+Description: Écolier du collège de Presles.
+Status: Étudiant.
+Gender: male.
+Active during: %1324-1324%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Soissons..
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège de Presles : écolier en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

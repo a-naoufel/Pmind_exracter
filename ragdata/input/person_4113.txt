@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Turci
+Also known as: Guillelmus TURCI; Guillaume le TUR.
+Description: Évêque de Châlons-sur-Marne.
+Status: Étudiant.
+Gender: male.
+Active during: %1377-1453%.
+Studied at: Paris (Collège de Navarre), %1377-1380%..
+Academic grades obtained: Étudiant ès arts (Paris) %1377-1380%..
+College affiliation: Boursier grammairien au Collège de Navarre à Paris en ;; Boursier artien au Collège de Navarre à Paris en ..
+Ecclesiastical positions held: Évêque de Châlons-sur-Marne, %1440-1453%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 03/06/2022)..

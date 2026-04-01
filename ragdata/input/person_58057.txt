@@ -1,0 +1,13 @@
+PERSON: STEPHANUS de Challenis
+Also known as: Stephanus de CHALLENIS.
+Description: Étudiant en médecine.
+Status: Gradué.
+Gender: male.
+Active during: %1373-1379%.
+Born in: Lorraine ?.
+Diocese of origin: Diocèse de Toul ;.
+Studied at: Paris (Nation de France) %1373-1379%..
+Academic grades obtained: Licencié ès arts (Paris) en ;; Étudiant en médecine (Paris) en ;.
+Ecclesiastical status: Clerc ;.
+Ecclesiastical positions held: Candidat à un bénéfice ecclésiastique sur le rotulus de l’Université de Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 17/09/2024..

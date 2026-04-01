@@ -1,0 +1,10 @@
+PERSON: AEGIDIUS Morel
+Also known as: Gilet MOREL.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1386-1386%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Boursier au collège de Dormans-Beauvais en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 12/05/2018)..

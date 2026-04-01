@@ -1,0 +1,9 @@
+PERSON: ANDREAS Hoernbach
+Also known as: Andreas HOERNBACH.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1465-1465%.
+Studied at: Paris (Nation Anglo-Allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 29/08/2020)..

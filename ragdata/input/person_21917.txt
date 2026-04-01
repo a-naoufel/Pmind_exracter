@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Flouriaco 1
+Also known as: Guillelmus de FLOURIACO.
+Description: Archidiacre du Ponthieu.
+Status: Incertain.
+Gender: male.
+Active during: %1285-1299%.
+Studied at: ?.
+Academic grades obtained: Magister en ;.
+Ecclesiastical positions held: Archidiacre du Ponthieu à la cathédrale d'Amiens %1285-1299% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 25/03/2022..

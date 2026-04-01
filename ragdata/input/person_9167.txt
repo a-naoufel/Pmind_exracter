@@ -1,0 +1,9 @@
+PERSON: NICOLAUS Le Page
+Also known as: Nicolaus LE PAGE; Nicolas le PAGE.
+Description: Boursier grammairien au collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1385-1385%.
+Studied at: Paris (Collège de Navarre) %1385-1385%..
+Academic grades obtained: Étudiant en grammaire (Paris) ..
+College affiliation: Boursier grammairien au collège de Navarre à Paris en ..

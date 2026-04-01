@@ -1,0 +1,14 @@
+PERSON: ROBERTUS de Duaco
+Also known as: Robert de DUACO; Robert DEDUACO.
+Description: Médecin.
+Status: Maître.
+Gender: male.
+Active during: %1245-1258%.
+Born in: Flandre (Douai)..
+Diocese of origin: Diocèse d'Arras ?.
+Studied at: Paris ?.
+Academic grades obtained: Magister ;.
+College affiliation: Sorbonne : il en est l’un des fondateurs..
+Ecclesiastical status: Clerc ;.
+Ecclesiastical positions held: Chanoine de Senlis ;; Chanoine de Saint-Quentin.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 23/9/2020).

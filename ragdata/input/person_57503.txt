@@ -1,0 +1,7 @@
+PERSON: MARIA de Cauda
+Also known as: Maria de CAUDA.
+Description: Légataire de Robert de Douai.
+Status: Extérieur.
+Gender: female.
+Active during: %1258-1258%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 20/02/2024)..

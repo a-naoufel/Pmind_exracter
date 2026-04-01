@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Camus
+Also known as: Guillaume CAMUS.
+Description: Procureur de la Nation Anglo-germanique au Parlement.
+Status: Suppôt.
+Gender: male.
+Active during: %1430-1430%.
+Studied at: Paris ..
+Academic grades obtained: Maître ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/01/2022..

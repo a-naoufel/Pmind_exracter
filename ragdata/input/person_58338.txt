@@ -1,0 +1,11 @@
+PERSON: PETRUS de Cecilia
+Also known as: Petrus de CECILIA; Petrus de SICILIA.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1355-1355%.
+Born in: Italie (Sicile ?) ?.
+Studied at: Paris en ?.
+Academic grades obtained: Maître ès arts (Paris) ?.
+University functions: Paris (Faculté des Arts : lecteur) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 02/01/2025)..

@@ -1,0 +1,8 @@
+PERSON: ROBINUS Quarre
+Also known as: Robin QUARRE.
+Description: Enlumineur.
+Status: Suppôt.
+Gender: male.
+Active during: %1368-1368%.
+Studied at: Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 13/01/2024)..

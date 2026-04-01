@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Guimondi
+Also known as: Guillelmus GUIMONDI; Guillaume GUIMONT; Guillaume GORMONT.
+Description: Garde de la prévôté de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1339-1350%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Bibliographie et chronologie de Paris au Moyen Âge :.

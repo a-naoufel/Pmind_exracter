@@ -1,0 +1,13 @@
+PERSON: RICARDUS Gassion
+Also known as: Richard GASSION.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1487-1505%.
+Born in: Normandie..
+Studied at: Paris (Nation de Normandie) %1487-1504%..
+Academic grades obtained: Étudiant en médecine (Paris) %1487-1488% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+College affiliation: Collège de Maître-Gervais : grand boursier en médecine en ;.
+Ecclesiastical status: Marié ;.
+University functions: Doyen de la Faculté de médecine de Paris en %1502-1504%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet 17/09/2020..

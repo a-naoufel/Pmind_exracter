@@ -1,0 +1,11 @@
+PERSON: LUCAS Parisiensis
+Also known as: Lucas PARISIENSIS.
+Description: Franciscain ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1412-1412%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.F.M. : frère franciscain ?.
+Authored work: 'Postilla', composed around ?.
+Source: Répertoire des auteurs franciscains préparé par Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress :.

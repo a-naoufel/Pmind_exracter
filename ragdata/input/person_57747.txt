@@ -1,0 +1,10 @@
+PERSON: ROBERTUS 1
+Also known as: ROBERTUS.
+Description: Chancelier de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1116-1117%.
+Studied at: Paris..
+Academic grades obtained: Maître ?.
+Ecclesiastical positions held: Chancelier de Paris %1116-1117% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/04/2024..

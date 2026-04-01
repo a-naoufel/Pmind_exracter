@@ -1,0 +1,45 @@
+PERSON: BERNARDUS Gordonii
+Also known as: Bernhardus GORDONII; Bernard de GOURDON; Bernard de GORDON.
+Description: Médecin.
+Status: Extérieur.
+Gender: male.
+Active during: %1283-1319%.
+Born in: Quercy (Gourdon) ?.
+Studied at: Montpellier..
+Academic grades obtained: Maître en médecine (Montpellier ?) ?.
+University functions: Montpellier (Professeur de médecine à partir de )..
+Authored work: 'Translatio Archani magni Dei revelati Tholomeo, regi Arabum de reductione geomantiae ad orbem', composed around .
+Authored work: 'Ratio computandi per digitos', composed around ?.
+Authored work: 'De astronomia medicorum', composed around ?.
+Authored work: 'De gradibus', composed around ..
+Authored work: 'De regimine acutorum morborum', composed around ..
+Authored work: 'Compendium de regimine acutorum', composed around ?.
+Authored work: 'Tractatus de crisi et de diebus criticis', composed around (25 janvier)..
+Authored work: 'Arbor egritidinum', composed around ..
+Authored work: 'De decem ingeniis curandorum morborum', composed around ..
+Authored work: 'Lilium medicine', composed around ..
+Authored work: 'De marasmode', composed around Après ..
+Authored work: 'De tyriaca', composed around %1305-1306%..
+Authored work: 'Tractatus de sterilitate mulierum', composed around ..
+Authored work: 'Liber de conservatione vite humane', composed around (9 novembre)..
+Authored work: 'Medicinale praeceptum contra calculum', composed around ?.
+Authored work: 'Nota de cautelis necessariis medico ad urinas', composed around ?.
+Authored work: 'De floribus dietarum', composed around ?.
+Authored work: 'De dosi medicinarum', composed around ?.
+Authored work: 'Modis medendi', composed around ?.
+Authored work: 'Flores antidotarii', composed around ?.
+Authored work: 'De neutralitatibus decidentie', composed around ?.
+Authored work: 'De rheumate', composed around ?.
+Authored work: 'De epidemia', composed around ?.
+Authored work: 'Tractatus ad faciendum sigilla et imagines contra infirmitates diversas', composed around ?.
+Authored work: 'Experimenta', composed around ?.
+Authored work: 'Quaestiones', composed around ?.
+Authored work: 'Antidotarius', composed around ?.
+Authored work: 'De natura et complexione superiorum quantum medico', composed around ?.
+Authored work: 'De cibis', composed around ?.
+Authored work: 'Codicillus, sive de morbis et eorum curationibus', composed around ?.
+Authored work: 'De conferentibus et nocentibus', composed around ?.
+Authored work: 'De fluxibus', composed around ?.
+Authored work: 'De raucedine', composed around ?.
+Authored work: 'Recepte', composed around ?.
+Source: IRHT : base FAMA, http://fama.irht.cnrs.fr/en/oeuvre/267549 ;.

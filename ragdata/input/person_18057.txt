@@ -1,0 +1,10 @@
+PERSON: MATTHAEUS de Atrebato 2
+Also known as: Matthaeus de ATREBATO.
+Description: Libraire et stationarius.
+Status: Suppôt.
+Gender: male.
+Active during: %1316-1323%.
+Studied at: Paris..
+Academic grades obtained: ?.
+Ecclesiastical status: Clerc ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 14/11/2019..

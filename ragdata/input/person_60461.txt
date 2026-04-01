@@ -1,0 +1,12 @@
+PERSON: GILBERTUS de Sainte-Aldegonde
+Also known as: Gilbert de SAINTE-ALDEGONDE.
+Description: Diacre de l'église de Saint-Omer..
+Status: Incertain.
+Gender: male.
+Active during: %1389-1389%.
+Born in: Diocèse de Thérouanne ?.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son frère est Guillaume de SAINTE-ALDEGONDE ;.
+Ecclesiastical status: Diacre de l’église de Saint-Omer..
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

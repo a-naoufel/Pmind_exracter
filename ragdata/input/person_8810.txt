@@ -1,0 +1,9 @@
+PERSON: MARTIALIS Galichier
+Also known as: Martialis GALICHIER; Martial GALLICHIER.
+Description: Étudiant en médecine..
+Status: Étudiant.
+Gender: male.
+Active during: %1487-1489%.
+Studied at: Paris %1487-1489%..
+Academic grades obtained: Étudiant en médecine (Paris) %:1487:-:1489:%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 17/11/2019..

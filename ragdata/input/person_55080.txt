@@ -1,0 +1,11 @@
+PERSON: PETRUS Amioti 3
+Also known as: Petrus AMIOTI; Pierre MYOT.
+Description: Chanoine d’Autun.
+Status: Incertain.
+Gender: male.
+Active during: %1418-1452%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;; Bachelier en droit canon ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d’Autun %1418-1452% ;; Chanoine de Troyes ;; Chanoine de Nevers ;; Chanoine de Besançon %1435-1443% ;; Archidiacre de Luxeuil %1435-1443% ;; Chanoine d’Avallon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/01/2023..

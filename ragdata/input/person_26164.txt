@@ -1,0 +1,12 @@
+PERSON: NICOLAUS de Vaux-de-Cernay
+Also known as: Nicolas de VAUX-DE-CERNAY.
+Description: Cistercien.
+Status: Maître.
+Gender: male.
+Active during: %1322-1324%.
+Studied at: Paris %1322-1324%..
+Academic grades obtained: Maître en théologie (Paris) ..
+College affiliation: Collège Saint-Bernard %1322-1324% ;.
+Religious order: O. Cist. : moine (cistercien) de l'abbaye (cistercienne) des Vaux-de-Cernay ;.
+Authored work: 'Quaestiones Quodlibetales', composed around ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 15-05-2019..

@@ -1,0 +1,14 @@
+PERSON: ADAM de Whitby
+Also known as: Adamus de WHITBY; Adam de WHITBY; Adam de WYTEBY.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1250-1250% ?.
+Studied at: ?Paris ?%1250-1250%?.
+Academic grades obtained: Magister..
+Family relationships: ?Son parent est Adam de Witheby, sherif de Londres en ..
+Authored work: 'Commentarium in librum De Memoria et reminiscentia', composed around ?.
+Authored work: 'Commentarium in librum De sensu et sensato', composed around ?.
+Authored work: 'Commentarium in librum Meteorum', composed around ?.
+Authored work: '[Questiones in De anima]', composed around ?.
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

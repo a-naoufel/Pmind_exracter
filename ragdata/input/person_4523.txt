@@ -1,0 +1,9 @@
+PERSON: HEBRANDUS de Frigia
+Also known as: Hebrandus de FRIGIA.
+Description: Étudiant ?.
+Status: Incertain.
+Gender: male.
+Active during: %1310-1310%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/06/2022)..

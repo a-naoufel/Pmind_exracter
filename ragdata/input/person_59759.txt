@@ -1,0 +1,13 @@
+PERSON: OSBERTUS de Sancto Victore
+Also known as: Osbert de SAINT-VICTOR.
+Description: Chanoine de Saint-Victor.
+Status: Étudiant.
+Gender: male.
+Active during: %1141-1141%.
+Born in: Angleterre..
+Studied at: Paris..
+Academic grades obtained: ?Étudiant.
+Religious order: O.S.A. : Chanoine régulier de Saint-Victor.
+Religious functions: Infirmarius de Paris (Saint-Victor) en ..
+Authored work: 'Epistola de morbo et obitu Hugonis'.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 10/09/2025..

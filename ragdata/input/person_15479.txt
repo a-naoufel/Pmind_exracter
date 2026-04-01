@@ -1,0 +1,11 @@
+PERSON: LAURENTIUS 8
+Also known as: LAURENTIUS.
+Description: Clunisien.
+Status: Étudiant.
+Gender: male.
+Active during: %1366-1367%.
+Studied at: Paris %1367-1367%..
+Academic grades obtained: Étudiant (Paris) ..
+Religious order: O. Clun. : moine clunisien..
+Religious functions: Définiteur du chapitre général de l'Ordre élu en ;; Visiteur de l'abbaye de Cluny en ;; Prieur d'Elincourt-Sainte-Marguerite (diocèse de Beauvais) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 30/03/2022)..

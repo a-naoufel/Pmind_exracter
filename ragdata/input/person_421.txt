@@ -1,0 +1,48 @@
+PERSON: ALBERTUS de Saxonia 1
+Also known as: Albertus de SAXONIA; Albert de SAXE; Albert de RICKMENSDORF; Albert de HELMSTEDE; Albertus de RICMESTORP de Helmstat; Albertus de HELMSTAT; Albertus dictus BERNARDI Divitis; ALBERTUCIUS.
+Description: Évêque de Halberstadt.
+Status: Maître.
+Gender: male.
+Active during: %1336-1390%.
+Born in: Saxe (Rickensdorf, près d'Helmstedt)..
+Diocese of origin: Diocèse de Halberstadt.
+Studied at: Paris (Nation Anglo-allemande) %1351-1362% ;; ?Erfurt ;; Prague ;; Vienne (fondateur)..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en théologie (Paris) %1351-1362%..
+Social origin: Bourgeoisie ;.
+Ecclesiastical positions held: Recteur de l'église de Paris (Saints Cosme et Damien) %1351-1362% au moins.; Provision pour une canonicat avec expectative de prébende à Mayence en .; Curé de Laa, dans le siocèse de Passau en ;; Chanoine de Hildesheim en ;; Évêque d'Halberstadt, %1366-1390% ;.
+University functions: Paris (Nation Anglo-allemande : Procureur en ) ;; Paris (Université : Recteur en ) ;; Paris (Faculté des Arts : lecteurs de la Politique d'ARISTOTE en ).; Paris (Faculté des Arts : l'un des maîtres présents lors de l'arbitrage sur le tracé de la frontière entre la Nation Picarde et la Nation Anglo-allemande tel qu'il est consigné dans l'acte de (12 juillet) ;; Paris (Faculté des Arts : "Examinator licenciandorum in artibus in examine vestro Beate Marie Parisien." en ).; Vienne (Université : recteur %1364-1366%) ;.
+Representation roles: Missions diplomatiques entre RODOLPHE IV, duc d'Autriche et le pape URBAIN V..
+Authored work: 'Commentarius in Tractatum de consequentibus', composed around ?.
+Authored work: 'Commentarius in Ps-Aristotelis De pomo', composed around ?.
+Authored work: 'De locis dialecticis', composed around ?.
+Authored work: 'Grammatica speculativa de modis significandi, quae solet subtilissimo Scoto attribui', composed around ?.
+Authored work: 'Perutilis logica', composed around ?.
+Authored work: 'Questiones in Aristotelis Analytica Posteriora', composed around ?.
+Authored work: 'Questiones in Aristotelis De anima', composed around ?.
+Authored work: 'Quaestiones super Artem veterem', composed around ?.
+Authored work: 'Quaestiones super logicam', composed around ?.
+Authored work: 'Quaestiones super libros Posteriorum', composed around ?.
+Authored work: 'Puncta super Posteriorum secundam quaestiones eius', composed around ?.
+Authored work: 'Sophismata', composed around ?.
+Authored work: 'De quadratura circuli', composed around ?.
+Authored work: 'De velocitate motuum', composed around ?.
+Authored work: 'Expositio super textum libri Physicorum Aristotelis', composed around ?.
+Authored work: 'Quaestiones in Aristotelis De caelo et mundo', composed around .
+Authored work: 'Puncta super De caelo et mundo secundum quaestiones eius', composed around ?.
+Authored work: 'Questiones in Aristotelis De generatione et corruptione', composed around ?.
+Authored work: 'Questiones in Aristotelis Meteora', composed around ?.
+Authored work: 'Questiones super octo libros Physicorum Aristotelis', composed around ?.
+Authored work: 'Questiones super Spheram Iohannis de Sacrobosco', composed around ?.
+Authored work: 'Questiones super Parva Naturalia', composed around ?.
+Authored work: 'Tractatus proportionum', composed around ?.
+Authored work: 'Dicta super Aristotelis Oeconomicam', composed around ?.
+Authored work: 'Expositio super decem libros Ethicorum Aristotelis', composed around ?.
+Authored work: 'Libri VII in epistolas canonicas', composed around ?.
+Authored work: 'Super quatuor libros Sententiarum', composed around ?.
+Authored work: 'Expositio textus libri Priorum', composed around ?.
+Authored work: 'Quaestiones super libros Priorum', composed around ?.
+Authored work: 'Commentaria super tabulas Alphonsi Regis ad judicia astronomiae', composed around ?.
+Authored work: 'De maximo et minimo', composed around ?.
+Authored work: 'Questiones in Aristotelis De sensu et sensato', composed around ?.
+Authored work: 'Secreta de herbis, lapidibus, et animalibus', composed around ?.
+Source: RAG ;.

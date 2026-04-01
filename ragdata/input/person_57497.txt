@@ -1,0 +1,10 @@
+PERSON: SIXTUS
+Also known as: SIXTUS.
+Description: Citoyen romain.
+Status: Extérieur.
+Gender: male.
+Active during: %1234-1234%.
+Born in: Italie (Latium : diocèse de Rome) ;.
+Diocese of origin: Diocèse de Rome..
+Family relationships: Père de P., un étudiant à propos duquel le pape GRÉGOIRE IX écrit à l’abbé de Paris (Saint-Germain-des-Prés) en (11 avril) pour lui rappeler de lui payer la pension qui lui est due ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 19/02/2024)..

@@ -1,0 +1,18 @@
+PERSON: HENRICUS de Provinis
+Also known as: Henricus de PROVINIS.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1272-1273%.
+Born in: Champagne (Provins ?) ?.
+Diocese of origin: Diocèse de Sens ?.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant ?.
+College affiliation: Couvent (dominicain) de Paris (Jacobins) %1272-1273%..
+Religious order: O.P. : frère dominicain..
+Authored work: 'Sermo ad S. Gervasium in dominica secunda Adventus', composed around (4 décembre).
+Authored work: 'Sermo ad S. Gervasium in dominica tertia Adventus', composed around (11 décembre).
+Authored work: 'Sermo ad S. Germanum in dominica secunda Epiphaniae', composed around (16 janvier).
+Authored work: 'Sermo ad Magdalenam in die S. Vincentii post prandium', composed around (22 janvier).
+Authored work: 'Sermo ad S. Gervasium in die dominica in Septuagesima [5.2.1273]', composed around (5 février).
+Source: MIRABILE :.

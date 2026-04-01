@@ -1,0 +1,13 @@
+PERSON: ROBERTUS 3
+Also known as: ROBERTUS.
+Description: Écolâtre de Cologne.
+Status: Maître.
+Gender: male.
+Active during: %1180-1180%.
+Born in: Allemagne ?.
+Studied at: Paris..
+Academic grades obtained: Magister.
+Academic relationships: Son élève est Philippus d’OTTERBERG..
+Ecclesiastical positions held: Chanoine de Cologne ?; Écolâtre de Cologne ?.
+University functions: Paris (Maître enseignant dans les années %1170-1180%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 12/01/2025..

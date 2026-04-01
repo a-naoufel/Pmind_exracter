@@ -1,0 +1,11 @@
+PERSON: EVENUS filius Yvonis Eveni
+Also known as: Evenus filius Yvonis EVENI; Evenus filius Yvonis BUENI.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1379-1379%.
+Diocese of origin: Diocèse de Quimper..
+Studied at: Paris..
+Academic grades obtained: Étudiant à l'université de Paris..
+Ecclesiastical status: Clerc du diocèse de Quimper..
+Ecclesiastical positions held: Demande d'un bénéfice à la collation de l'archevêque, du doyen et du chapitre de Tours ; mais il n'y a apparemment pas de provision ;.

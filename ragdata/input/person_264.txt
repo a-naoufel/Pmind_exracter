@@ -1,0 +1,8 @@
+PERSON: ALANUS 4
+Also known as: ALANUS.
+Description: Serviteur de la Faculté de Décret..
+Status: Suppôt.
+Gender: male.
+Active during: %1351-1351%.
+University functions: Paris (Faculté de Décret : serviteur)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Dernière mise à jour, Jean-Philippe Genet 20/05/2020)..

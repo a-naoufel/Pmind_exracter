@@ -1,0 +1,10 @@
+PERSON: ANTHONIUS Brian
+Also known as: Anthonius BRIAN.
+Description: Bénédictin.
+Status: Gradué.
+Gender: male.
+Active during: %1434-1434%.
+Studied at: Paris %1434-1434%.
+Academic grades obtained: Bachelier en théologie ?.
+Religious order: O.S.B. : mline bénédictin.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland et Anne Tournieroux ; révison, Jean-Philippe Genet 18/09/2020..

@@ -1,0 +1,11 @@
+PERSON: HENRICUS de Hergies
+Also known as: Henricus de HERGIES; Henricus de HIERGIES.
+Description: Chanoine de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1262-1266%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Cambrai %1262-1266% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 04/01/2026..

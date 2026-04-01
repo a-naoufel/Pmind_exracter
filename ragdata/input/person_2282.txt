@@ -1,0 +1,10 @@
+PERSON: FULCO de Brideport
+Also known as: Fulk de BRIDEPORT; Foulques de BRIDEPORT.
+Description: Clerc.
+Status: Extérieur.
+Gender: male.
+Active during: %1210-1231%.
+Born in: Angleterre..
+Studied at: Oxford ?.
+Academic grades obtained: Magister ? (Oxford) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/09/2021..

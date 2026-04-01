@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Pommetelli
+Also known as: Guillelmus POMMETELLI.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1440-1441%.
+Born in: Poitou ?.
+Diocese of origin: Diocèse de Poitiers..
+Studied at: Paris %1440-1441%..
+Academic grades obtained: Bachelier en décret (Paris) attesté en ;.
+Ecclesiastical positions held: Diacre du diocèse de Poitiers ;; Prêtre du diocèse de Poitiers en ;; Chanoine de Laon, %1440-1441% ;.
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (1e année) en (fin août)) ;; Paris (Faculté de Décret : Lecteur des Décrétales (2e année) en (17 octobre)) ;; Paris (Faculté de Décret : Lecteur des Décrétales (3e année) en (6 novembre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 16/04/2015..

@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Chiefdeville
+Also known as: Guillermus CHIEFDEVILLE.
+Description: Boursier du collège de Navarre.
+Status: Étudiant.
+Gender: male.
+Active during: %1475-1475%.
+Born in: Île-de-France ;.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Navarre : boursier en ?.
+Ecclesiastical status: Clerc du diocèse de Paris ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

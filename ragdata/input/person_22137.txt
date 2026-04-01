@@ -1,0 +1,12 @@
+PERSON: GODEFRIDUS de Gandavo
+Also known as: Godefridus de GANDAVO; Godefroid de GAND; Godefroid de TOURNAI; Godevert van DORNEKE.
+Description: Chanoine de Tournai.
+Status: Incertain.
+Gender: male.
+Active during: %1220-1256%.
+Born in: Flandre (Gand ?)..
+Diocese of origin: Diocèse de Tournai ?.
+Studied at: ?.
+Academic grades obtained: Magister ..
+Ecclesiastical positions held: Chanoine de Tournai %1220-1256% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/05/2017..

@@ -1,0 +1,10 @@
+PERSON: HERVEUS Saillanans
+Also known as: Hervaeus SAILLANANS; Hervaeus SAYLLANANT.
+Description: Notaire.
+Status: Extérieur.
+Gender: male.
+Active during: %1376-1376%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical status: Clerc..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 26/09/2021..

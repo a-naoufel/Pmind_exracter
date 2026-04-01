@@ -1,0 +1,10 @@
+PERSON: ANDREAS de Lespinay
+Also known as: Andreas de LESPINAY.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris..
+Academic grades obtained: Étudiant ?.
+Family relationships: Son parent est Robertus de LESPINAY qui s’acquitte de sa contribution à la collecte de en même temps que lui ; Son parent est Andreas de LESPINAY qui s’acquitte de sa contribution à la collecte de en même temps que lui ; Son parent est Johannes de LESPINAY qui s’acquitte de sa contribution à la collecte de en même temps que lui ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 2/08/2020)..

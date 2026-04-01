@@ -1,0 +1,11 @@
+PERSON: RICARDUS Barran
+Also known as: Ricardus BARRAN.
+Description: Bachelier en droit canon.
+Status: Maître.
+Gender: male.
+Active during: %1415-1415%.
+Studied at: Orléans ;; Paris %1415-1415%..
+Academic grades obtained: Maître ès arts (Paris ?) avant ;; Licencié ès lois (Orléans) ;; Bachelier en décret (Paris) avant ;.
+Ecclesiastical status: Clerc..
+University functions: Paris (Faculté de Décret : lecteur en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 29-02-2024..

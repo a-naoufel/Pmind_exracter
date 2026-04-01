@@ -1,0 +1,135 @@
+PERSON: HENRICUS de Langenstein
+Also known as: Henricus de LANGENSTEIN; Henricus HEINBUCHE; Henricus HEINBUCH; Henricus HEINEBUCHE; Henricus HEMBUCH; Henricus HEYNBUCH; Henricus de HASSIA; Henricus de HASSIA senior; Heinrichs HEINBUCH von LANGENSTEIN.
+Description: Maître en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1345-1397%.
+Born in: Rhénanie (Heinbuch)..
+Diocese of origin: Diocèse de Mayence..
+Studied at: Paris (Nation Anglo-allemande) %1363-1382% ;; Vienne %1384-1397%..
+Academic grades obtained: Bachelier ès arts (Paris) (13 février) ;; Licencié ès arts (Paris) (20 mai) ;; Maître ès arts (Paris) (22 mai);; Bachelier en théologie (Paris) en (janvier) ;; Bachelier en théologie formatus (Paris) attesté en (24 septembre) ;; Licencié en théologie (Paris) en ?décembre ;; Maître en théologie (Paris) (le 4 mars) ..
+Family relationships: Son neveu est Andreas de HASSIA de Langenstein..
+Academic relationships: Élève de Hermanus CONSUL de SAXONIA en ; Superviseur de nombreux bacheliers et licenciés ès arts entre %1364-1373%..
+Ecclesiastical status: Clerc du diocèse de Mayence ;.
+Ecclesiastical positions held: Candidat à un canonicatprébendé de Worms sur un rotulus de l'Université de Paris en ;; Bénéfice à la collation de l'abbé et de la communauté de Sankt-Maximin (diocèse de Trier) accordé en ;; Vice-chancelier de Paris, %1371-1381%..
+University functions: Paris (Nation Anglo-allemande : procureur élu le 24 août ) ;; Paris (Nation Anglo-allemande : il est chargé de porter le rotulus de la Nation à la Curie le 18 octobre ) ;; Paris (Nation Anglo-allemande : il est chargé de saluer un évêque écossais le 5 janvier ) ;; Paris (Université : il est chargé de présenter la salutation de l’Université de Paris à l'Empereur CHARLES IV de Luxembourg lors de sa venue à Paris en (5 janvier)) ;; Paris (Faculté de Théologie : maître-régent %1375-1382%) ;; Paris (Université : vice-Chancelier ) ;; Vienne (Faculté de Théologie : professeur %1384-1397%) ;; Vienne (Faculté de Théologie : lecteur en ) ;; Vienne (Faculté de Théologie : Doyen en ) ;; Vienne (Université : Recteur en %1393-1394%)..
+Authored work: 'Quaestiones super quattuor libros Sententiarum', composed around ?.
+Authored work: 'Lectura in Prologum Bibliae', composed around à Vienne..
+Authored work: 'In Genesim', composed around %1385-1392% à Vienne..
+Authored work: '[Comment. sur Isaïe]', composed around ?.
+Authored work: '[Comment. sur Matth.]', composed around à Paris..
+Authored work: '[Comment. sur Apocal.]', composed around ?.
+Authored work: '[Comment. sur le Pater noster]', composed around ?.
+Authored work: 'Quaestio de temptatione diabolica', composed around ?.
+Authored work: '[Comment. sur l'Ave Maria]', composed around ?.
+Authored work: '[Comment. sur le Credo I]', composed around ?.
+Authored work: 'Super symbolum apostolicum Thomaes de Aquino expositio aucta', composed around ?.
+Authored work: 'Meditationes super passionem domini nostri Iesu Christi', composed around ?.
+Authored work: 'Contra disceptationes et contrarias praedicationes fratrum mendicantium super conceptione Mariae virginis et contra maculam sancto Bernardo mendaciter impositam', composed around ?.
+Authored work: 'De blasphemia et peccato in Spiritum Sanctum', composed around ?.
+Authored work: 'De communicantibus et celebrantibus', composed around ?.
+Authored work: 'De confessione', composed around ?.
+Authored work: 'Directorium pro audiendis confessionibus infirmorum', composed around ?.
+Authored work: 'De distinctione horarum', composed around ?.
+Authored work: 'De eucharistia', composed around ?.
+Authored work: 'De modo vincendi seipsum', composed around ?.
+Authored work: 'De novem peccatis alienis', composed around ?.
+Authored work: 'De Verbo incarnato', composed around ?.
+Authored work: 'Declaratio super prophetia de ultimis temporibus', composed around ?.
+Authored work: 'Dicta (1)', composed around ?.
+Authored work: 'Dicta (2)', composed around ?.
+Authored work: 'Forma vivendi, quam tradidit Christus', composed around ?.
+Authored work: 'Dubia de jejunio', composed around ?.
+Authored work: 'Epistola ad bursarium Eberbacensem', composed around ?, dedicated to Adressé à Petrus de LUTERN, moine d’Eberbach..
+Authored work: 'Epistola de contemptu mundi ad abbatem Iacobum Eberbacensem', composed around à Worms..
+Authored work: 'Epistola de contemptu mundi ad Iohannem de Eberstein', composed around ?, dedicated to Adressé à Johannes de EBERSTEIN..
+Authored work: 'Epistola de quadam pictura ad Iohannem de Eberstein camerarium Moguntinum', composed around ?, dedicated to Adressé à Johannes de EBERSTEIN..
+Authored work: 'Epistola de contemptu mundi ad Eberhardum de Yppelbrunn sive Georgium Pataviensem episcopum', composed around ., dedicated to Adressé à Eberhardus de YPPELBRUNN..
+Authored work: 'Tractatus de contemptu mundi', composed around ?.
+Authored work: 'Epistola consolatoria ad Eckardum episcopum Wormatiensem de fratris obitu', composed around ., dedicated to Adressé à Eckard de DERCH, évêque de Worms..
+Authored work: 'Exhortatio', composed around ..
+Authored work: 'Secreta sacerdotum', composed around ;.
+Authored work: 'Responsio ad quaestiones octo circa passionem dominicam', composed around ?.
+Authored work: 'Tractatus de proprietate religiosorum', composed around ?.
+Authored work: 'Tractatus de quattuor peccata clamantia ad caelum', composed around ?.
+Authored work: 'Tractatus superstitionum', composed around ?.
+Authored work: 'Tractatus de missa', composed around ?.
+Authored work: 'Sermo de annuntiatione beatae Mariae virginis ‘Quomodo fiet istud’', composed around ?.
+Authored work: 'Sermo de conceptione beatae Mariae virginis', composed around ?.
+Authored work: 'Sermones de Beata Maria', composed around ?.
+Authored work: 'Sermo in festo conceptionis Mariae virginis', composed around ?.
+Authored work: 'Sermo de nativitate beatae Mariae virginis', composed around ?.
+Authored work: 'Sermo de assumptione beatae Mariae virginis', composed around ?.
+Authored work: 'Sermo de conceptione Christi', composed around ?.
+Authored work: 'Sermo de coena Domini ‘Accipite et manducate’', composed around ?.
+Authored work: 'Sermo de corpore Christi', composed around ?.
+Authored work: 'Sermo de morte Christi', composed around ?.
+Authored work: 'Sermo de sudore passionis Chtristi', composed around ?.
+Authored work: 'Sermo in festo lancee et clavorum domini', composed around ?.
+Authored work: 'Sermo de ascensione Domini', composed around ?.
+Authored work: 'Sermo de omnibus sanctis', composed around ?.
+Authored work: 'Sermo de sancta Catharina', composed around ..
+Authored work: 'Sermo de sancta Elisabeth in die natali', composed around ?.
+Authored work: 'Sermo de sancto Bernardo', composed around ?.
+Authored work: 'Sermo de sancta Magdalena', composed around ?.
+Authored work: 'Sermo de trinitate', composed around ?.
+Authored work: 'Sermo seu Tractatus de intelligentia illius passus evangeli : Qui non ex sanguinibus neque ex voluntate viri sed ex Deo nati sunt (Io 1, 13)', composed around ?.
+Authored work: 'Sermo de dignitate sacerdotum', composed around ?.
+Authored work: 'Sermo de proprietate', composed around ?, dedicated to Adressé aux chanoines (O.S.A.) de Klosterneuburg..
+Authored work: 'Sermones Wiennenses ad Iudaeos convertendos', composed around %1384-1397% ;.
+Authored work: 'Sermones dominicales', composed around ?.
+Authored work: 'Sermones de quattuor instinctibus', composed around ?.
+Authored work: 'Sermo de indulgentiis', composed around ?.
+Authored work: 'Sermo de sacerdote novo', composed around ?.
+Authored work: 'Sermo de vita communia et religiosa in claustris', composed around ?.
+Authored work: '(Sermones diversi)', composed around ?.
+Authored work: 'Theses theologicae facultatis theologicae universitatis Viennensis super articulos Johnnis Münzinger', composed around .
+Authored work: '?De cognitione peccati', composed around ?.
+Authored work: 'Somnium sive prophetia', composed around ?.
+Authored work: 'Visio quam habuit', composed around ?.
+Authored work: 'Speculum animae', composed around ?.
+Authored work: 'De discretione spirituum', composed around ?.
+Authored work: 'De habitudine causarum et influxu naturae communis', composed around ?.
+Authored work: 'De reductione effectuum spiritualium in virtutes communes', composed around ?.
+Authored work: 'Puncta et notata super tribus libris De anima', composed around ?.
+Authored work: 'Tractatus de arte predicandi', composed around ?.
+Authored work: 'Tractatus de modo predicandi', composed around ?.
+Authored work: 'Modus sermonicandi cum proemiis et petitionibus', composed around ?.
+Authored work: 'De reprobatione ecentricorum et epiciclorum', composed around .
+Authored work: 'Questio de cometa', composed around %1368-1369%.
+Authored work: 'Tractatus contra astrologos coniunctionistas', composed around .
+Authored work: 'De visione stellarum', composed around ?.
+Authored work: 'Quaestiones communis perspectivae', composed around ?.
+Authored work: 'Tractatus bipartitus de contractibus', composed around %1392-1393%..
+Authored work: 'Epistola de contractibus emptionis et venditionis ad consules Viennenses', composed around %1393-1396% ;, dedicated to Adressé aux échevins de Vienne..
+Authored work: 'Quaestiones de contractibus', composed around %1393-1396%..
+Authored work: 'Epistola de oblate episcopate Osiliensi in Livonia', composed around ., dedicated to Adressé à Eckhard de DERCH, évêque de Worms..
+Authored work: 'Epistola ad illustrissimum dominum Albertum de studio Wiennensi stabiliendo', composed around ., dedicated to Adressé à ALBERT III, duc d’Autriche..
+Authored work: 'Testament', composed around (11 juillet)..
+Authored work: 'Epistola exhortatoria imperatoris et aliorum regum et principum ad pacem ecclesiae universalis', composed around ., dedicated to Adressée à WENCESLAS..
+Authored work: 'Epistola pacis', composed around %1379-1389% ?.
+Authored work: 'Epistola concilii pacis', composed around ..
+Authored work: 'Epistola de futuris periculis ecclesie ex dictis sanctae Hildegardis', composed around ?, dedicated to Adressée à Eckard de DERCH, évêque de Worms..
+Authored work: 'Epistola ad episcopum Brixiensem de schismate', composed around %1383-1384% ?, dedicated to Dédié à Fridericum de ERDINGEN, évêque de Bressanone..
+Authored work: 'Tractatus de sedando schismate', composed around %1386-1389%..
+Authored work: 'Collatio proposita coram Urbano papa', composed around ?.
+Authored work: 'Epistola pro pace reformanda', composed around ., dedicated to Adressé à des nobles d’Autriche, notamment Johann Von LICHTENSTEIN et Johann Von TIRNA..
+Authored work: 'Epistola contra aemulos cleri ecclesiae Dei', composed around ;, dedicated to Adressée à Johannes Von LIECHTENSTEIN..
+Authored work: 'Epistola ad Robertum Bavariae Parvum Bavariae electorem super schismate', composed around ., dedicated to Adressée à RUPRECHT de Wittelsbach, Èlecteur-palatin (plus tard roi des Romains)..
+Authored work: 'Epistola ad cancellarium Parisiensem super unionem', composed around %1394-1395% ?, dedicated to Adressé à Pierre d’AILLY..
+Authored work: 'Epistola de cathedra Petri', composed around %1395-1396%., dedicated to Adressée à Berthold de WEHINGEN, évêque de Freising..
+Authored work: 'Conclusiones octo notabiles in materia scismatis', composed around (28 septembre)..
+Authored work: 'Tractatus de schismate', composed around ..
+Authored work: 'Carmen hexametricum de schismate', composed around ?.
+Authored work: 'Carmen pro pace', composed around Invectiva contra monstrum Babylonis.
+Authored work: 'Contra Telesphorum', composed around ., dedicated to Dédié à Gregor SCHENK von Osterwitz, prévôt de Salzbourg (plus tard archevêque de Salzbourg) ;.
+Authored work: 'De clavibus ecclesiae', composed around ?.
+Authored work: 'De quattuor novissimis', composed around ?.
+Authored work: 'Questio 'Utrum secundum naturalem philosophiam'', composed around ?.
+Authored work: 'Abbreviatura physicorum', composed around ?.
+Authored work: 'De Magnete', composed around ?.
+Authored work: 'Expositio terminorum astronomie', composed around ?.
+Authored work: 'Questio de corporibus duris', composed around ?.
+Authored work: 'Tractatus de sphera', composed around ?.
+Authored work: 'Tetragonis Aristotelis', composed around , écrit en Bohême ;.
+Source: VAN DUSSEN (M.), Aristotle's Tetragon: Compilation and Consensus during the Great Schism, dans VAN DUSSEN (M.) et SOUKUP (P.), Religious Controversy in Europe 1378-1536. Textual Transmission and Networks of Readership, (Medieval Church Studies, 27) Turnhout 2013, 187-210..

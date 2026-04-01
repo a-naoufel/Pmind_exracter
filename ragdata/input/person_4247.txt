@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Mercerii de Friburgo
+Also known as: Guillelmus de FRIBURGO; Guillelmus de FRIBURGO alias de LAUSANA; Guillelmus MERCERII de Friburgo; Guillaume MERCIER.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1331-1342%.
+Born in: Fribourg, ou Lausanne ?.
+Diocese of origin: Diocèse de Lausanne ?.
+Studied at: Paris %1331-1339%..
+Academic grades obtained: Maître ès arts (Paris) ;; Maître en médecine (Paris) ;.
+Ecclesiastical positions held: Curé de Corcelles (Vaud) en ;; Chanoine sous expectative de prébende de Lausanne en ;; Provision pour un canonicat avec expectative de prébende de Lausanne en réponse au rotulus de l'Université de Paris en : mandat à l'abbé (O.S.B.) de Paris (Saint-Germain), à l'abbé (O.S.A.) de Paris (Sainte-Geneviève) et à l'abbé (O.S.A.) de Paris (Saint-Victor) ;; Chanoine de Sens en ;; Chanoine de Péronne (églisecollégiale Saint Fursy) ;; Provision pour un canonicat avec expectative de prébende de Sens à la requête de BLANCHE, nonne (Clarisse) de Longchamp et fille de PHILIPPE VI, roi de France en (7 août) : mandat à l'abbé (O.S.B.) de Saint-Denis et au doyen de Paris ;; Provision pour un canonicat avec expectative de prébende de Verdun en réponse au rotulus de l'Université de Paris en : mandat à l'abbé (O.S.A.) de Paris (Sainte-Geneviève), au doyen de Paris et au prévôt d’Amiens ;; Chanoine de Sens en ;.
+University functions: Paris (Faculté de Médecine : Maître-régent en %1331-1339% ?) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 16/03/2020..

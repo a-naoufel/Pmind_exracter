@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Dorbes
+Also known as: Guillaume DORBES.
+Description: Chanoine de Saint-Jean des Vignes.
+Status: Incertain.
+Gender: male.
+Active during: %1324-1324%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.S.A. : chanoinerégulier de l’abbaye de Soissons (Saint-Jean-des-Vigne) ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,10 @@
+PERSON: STEPHANUS Bont
+Also known as: Stephanus BONT.
+Description: Étudiant en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1406-1417%.
+Studied at: Paris (Nation Anglo-allemande) %1406-1417%..
+Academic grades obtained: Licencié ès arts (Paris) en ;; Maître ès arts (Paris) en ;; Étudiant en médecine (Paris) en ;.
+Academic relationships: Son maître est Guillelmus BLOK pour la licence en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 17/09/2024..

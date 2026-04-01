@@ -1,0 +1,16 @@
+PERSON: GUILLELMUS de Narn
+Also known as: Guillelmus de NARN; William de NARN.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1372-1412%.
+Born in: Écosse..
+Diocese of origin: Diocèse de Saint-Andrews..
+Studied at: Paris (Nation Anglo-allemande) %:1372-1382% ;; Avignon..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Étudiant en droit canon (Avignon) %1391-1393% ;; Bachelier en décret (Avignon ?) ;.
+Academic relationships: Son maître est William de TREBRON pour le baccalauréat en ; Son maître est Gerardus KALCAR pour la licence en ; Son élève est Jacobus WATSON pour le baccalauréat en ;.
+Social origin: Noble ;.
+Ecclesiastical status: Clerc du diocèse de Saint-Andrews..
+Ecclesiastical positions held: Recteur de Carrington %1393-1398% ;; Chanoine de Moray %1393-1410% ;; Recteur d'Arbuthnot %1404-1410% ;; Provision pour un canonicat d'Aberdeen ;.
+University functions: Paris (Nation Anglo-allemande : Maître-régent ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 16/01/2019..

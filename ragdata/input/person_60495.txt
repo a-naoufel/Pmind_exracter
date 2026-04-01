@@ -1,0 +1,10 @@
+PERSON: ANDREAS Perier
+Also known as: Audry PÉRIER.
+Description: Proviseur du collège de Navarre.
+Status: Étudiant.
+Gender: male.
+Active during: %1501-1501%.
+Studied at: Paris ;.
+Academic grades obtained: Maître (Paris) ;.
+College affiliation: Collège de Navarre : proviseur en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

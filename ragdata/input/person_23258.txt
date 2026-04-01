@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Belin
+Also known as: Guillelmus BELIN.
+Description: Nonce.
+Status: Suppôt.
+Gender: male.
+Active during: %1447-1447%.
+Studied at: Paris (Nation de France) ..
+University functions: Paris (Faculté des Arts, Nation de France : nonce pour le diocèse d'Autun)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 21/02/2022..

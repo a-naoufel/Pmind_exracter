@@ -1,0 +1,14 @@
+PERSON: NICOLAUS de Audenarde
+Also known as: Nicolaus d’AUDENARDE.
+Description: Cistercien des Dunes.
+Status: Étudiant.
+Gender: male.
+Active during: %1470-1470%.
+Born in: Flandre (Audenarde) ?.
+Diocese of origin: Diocèse de Tournai ?.
+Studied at: Paris vers ?.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège Saint-Bernard ?.
+Religious order: O. Cist. : moine (cistercien) de l'abbaye (cistercienne) des Dunes ;.
+Authored work: '(Discours)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 24/02/2019..

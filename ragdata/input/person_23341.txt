@@ -1,0 +1,9 @@
+PERSON: X Goubertin
+Also known as: GOUBERTIN.
+Description: Marchand de vin ?.
+Status: Suppôt.
+Gender: male.
+Active during: %1433-1433%.
+Studied at: ?.
+College affiliation: Sorbonne : clerc de la Sorbonne ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 8/05/2018)..

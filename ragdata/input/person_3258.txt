@@ -1,0 +1,9 @@
+PERSON: GOMETIUS de Arroyo
+Also known as: Gomez de ARROYO; Gomez de HIERROIO; Gomez de CROYE; Gomez de ROYS.
+Description: Licencié en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1496-1500%.
+Studied at: Paris %1496-1500%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 19/01/2022..

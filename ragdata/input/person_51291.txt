@@ -1,0 +1,13 @@
+PERSON: PETRUS de Furno 2
+Also known as: Pierre de FURNO; Pierre de FORNO.
+Description: Hôte du Collège de Justice.
+Status: Maître.
+Gender: male.
+Active during: %1456-1468%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris (Nation de Normandie ?) %1456-1459%..
+Academic grades obtained: Maître ès arts (Paris) ..
+College affiliation: Collège de Justice : boursier en %1456-1459% ;.
+Ecclesiastical positions held: Détenteur de bénéfices ecclésiastiques pour lesquels il réclame une dispense ad incompatibilia ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Marion BERNARD-SCHWEITZER, 14/10/2020)..

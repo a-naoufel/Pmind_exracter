@@ -1,0 +1,11 @@
+PERSON: HENRICUS de Thenis
+Also known as: Henricus de THENIS.
+Description: Licencié en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1368-1378%.
+Born in: Pays-Bas ?.
+Diocese of origin: Diocèse d’Utrecht ?.
+Studied at: Paris (Nation Anglo-allemande)..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en théologie depuis trois ans en ;; Licencié en médecine (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 25/07/2021..

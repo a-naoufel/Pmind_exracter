@@ -1,0 +1,8 @@
+PERSON: ROBERTUS Presbyter Sancti Benedicti
+Also known as: ROBERTUS presbyter Sancti Benedicti.
+Description: Prêtre de Saint-Benoît.
+Status: Extérieur.
+Gender: male.
+Active during: %1259-1259%.
+Ecclesiastical positions held: Prêtre de Paris (Saint-Benoît)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/04/2024)..

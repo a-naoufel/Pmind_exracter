@@ -1,0 +1,10 @@
+PERSON: PETRUS Gonnault
+Also known as: Petrus GONNAULT; Petrus GONADI; Petrus GONAUDI.
+Description: Proviseur du collège d’Autin.
+Status: Étudiant.
+Gender: male.
+Active during: %1449-1457%.
+Studied at: Paris %1449-1457%..
+Academic grades obtained: Étudiant (Paris) %1449-1457% ;.
+College affiliation: Collège d'Autun : proviseur %1449-1457% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 10/07/2024..

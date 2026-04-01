@@ -1,0 +1,10 @@
+PERSON: GUILLOTUS Le Cotonnier
+Also known as: Guillotus LE COTONNIER.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1267-1267%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ..
+Ecclesiastical status: Clericus..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 20/03/2020..

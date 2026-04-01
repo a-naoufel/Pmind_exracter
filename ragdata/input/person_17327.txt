@@ -1,0 +1,12 @@
+PERSON: BONAVENTURA de Civitate Castelli
+Also known as: Bonaventura de CIVITATE CASTELLI.
+Description: Chanoine de Soissons.
+Status: Maître.
+Gender: male.
+Active during: %1342-1342%.
+Born in: Italie (Ombrie : CivitaCastellana)..
+Diocese of origin: Diocèse de Città-di-Castello ?.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+Ecclesiastical positions held: Provision pour un canonicat avec expectative de prébende à la cathédrale de Vérone en : mandat à l'abbé de Vérone (Saint-Firmin), à l'archidiacre de Bauptois (Coutances) et à Franciscus de TACOMENDA, chanoine de Noyon.; Chanoineprébendé de Soissons ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/09/2015)..

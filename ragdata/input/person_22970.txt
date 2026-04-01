@@ -1,0 +1,9 @@
+PERSON: BERTRANDUS 6
+Also known as: BARTRANDUS; BERTRANDUS.
+Description: Clerc de la Sorbonne.
+Status: Suppôt.
+Gender: male.
+Active during: %1475-1479%.
+Studied at: Paris ;.
+College affiliation: Sorbonne : "clericus communitatis" %1475-1479% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 3/05/2018).

@@ -1,0 +1,13 @@
+PERSON: HERVEUS de Villaveteri
+Also known as: Herveus de VILLAVETERI.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1378-1379%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Quimper ;.
+Studied at: Paris (Nation de France) %1378-1379%..
+Academic grades obtained: Bachelier ès arts (Paris) en ?.
+Ecclesiastical status: Clerc du diocèse de Quimper ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus de l'Université de Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 11/08/2022..

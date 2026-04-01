@@ -1,0 +1,29 @@
+PERSON: FERRARIUS Catalanus
+Also known as: Ferrarius CATALANUS; Ferrer de ENAYANS; Ferrier de CATALOGNE.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1272-1278%.
+Born in: Catalogne (Collbato)..
+Diocese of origin: Diocèse de Barcelone..
+Studied at: Paris %1274-1275%..
+Academic grades obtained: Maître en théologie (Paris) vers %1272-1276%..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère dominicain ;.
+University functions: Paris (Faculté de Théologie : Maître-régent %1272-1276% au couvent dominicain) ..
+Authored work: 'Sermo [et collatio] in II [dom.] Adventus', composed around ?.
+Authored work: 'Sermo [et collatio] in III dom. Adventus.', composed around (16 Décembre)..
+Authored work: 'Sermo [et collatio] in IV dom. Adventus.', composed around (23 Décembre)..
+Authored work: 'Dom. infra oct. Nativitatis Domini, [sermo et collatio]', composed around (30 Décembre)..
+Authored work: 'Sermo [et collatio] II dom. [Quadrag.]', composed around (13 Mars)..
+Authored work: 'Sermo in resurrectione Domini', composed around (14 Avril).
+Authored work: 'Sermo [et collatio] in dom. post Ascensionem', composed around (26 Mai)..
+Authored work: 'Sermo in I dom. post Trinitatem', composed around ?.
+Authored work: 'In VII dom. post Trin. [sermo et collatio] (Sermo de beato Jacobo)', composed around (28 Juillet).
+Authored work: 'Sermo [et collatio] XV dom. (après la Pentecôte)', composed around (22 Septembre)..
+Authored work: 'Sermo in quadragesima', composed around ?.
+Authored work: 'Prothema', composed around ?.
+Authored work: 'Quodlibetum I, qq. 21.', composed around (Pâques)..
+Authored work: 'Quodlibetum II, qq. 21', composed around ?.
+Authored work: '"Quaestio [disputata] est"', composed around ?.
+Source: MIRABILE : http://www.mirabileweb.it/author/ferrarius-catalanus-de-enayans-fl-1267-1276-author/20876 ;.

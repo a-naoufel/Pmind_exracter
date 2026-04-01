@@ -1,0 +1,10 @@
+PERSON: R. Archidiaconus Nannetensis
+Also known as: R. Archidiaconus Nannetensis.
+Description: Archidiacre de Nantes.
+Status: Extérieur.
+Gender: male.
+Active during: %1160-1160%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Archidiacre de Nantes vers ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 18/03/2024..

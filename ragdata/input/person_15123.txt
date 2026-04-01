@@ -1,0 +1,10 @@
+PERSON: PETRUS de La Court
+Also known as: Pierre de LACOURT.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1328-1328%.
+Studied at: Paris ..
+Academic grades obtained: Maître en médecine (Paris) ..
+University functions: Paris (Faculté de médecine : Maître régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 25/03/2021..

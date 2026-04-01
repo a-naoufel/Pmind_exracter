@@ -1,0 +1,13 @@
+PERSON: AEGIDIUS de Bisseuil
+Also known as: Aegidius de BISSEUIL.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1373-1378%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Reims..
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) %1373-1378%..
+College affiliation: Boursier au collège de Dormans-Beauvais %1373-1378%, avec plusieurs congés..
+Family relationships: ?Parent de Méline de BISSEUIL, bénédictine de l'abbaye (bénédictine) d'Avenay (diocèse de Reims)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 23/04/2020)..

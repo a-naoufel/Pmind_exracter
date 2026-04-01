@@ -1,0 +1,9 @@
+PERSON: BERTRANDUS Rebullet
+Also known as: Bertrandus REBULLET; Bertrand REBULET; Bertrand RIBULET.
+Description: Bachelier en médecine..
+Status: Gradué.
+Gender: male.
+Active during: %1464-1472%.
+Studied at: Paris, %1464-1472%..
+Academic grades obtained: Étudiant (Paris) en ?; Étudiant en médecine (Paris) %1467-1470% ;; Bachelier en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 21/03/2021..

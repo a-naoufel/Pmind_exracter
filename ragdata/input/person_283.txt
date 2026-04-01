@@ -1,0 +1,11 @@
+PERSON: ALANUS Levis
+Also known as: Alannus LEVIS.
+Description: Recteur de Mauregard.
+Status: Maître.
+Gender: male.
+Active during: %1403-1403%.
+Studied at: Paris (Nation de France, Province de Tours)..
+Academic grades obtained: Maître ès arts (Paris); Étudiant en décret.
+Ecclesiastical positions held: Recteur de Mauregard (diocèse de Meaux)..
+University functions: Paris (Nation de France : doyendelaprovince de Tours en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 04/06/2020..

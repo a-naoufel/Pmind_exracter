@@ -1,0 +1,15 @@
+PERSON: NAVNO Johannis
+Also known as: NAVNO Johannis; Navno JOHANNIS; Navno de DACIA.
+Description: Évêque.
+Status: Maître.
+Gender: male.
+Active during: %1398-1439%.
+Born in: Danemark (Sjaelland).
+Studied at: Paris (Nationanglaise), %1398-1403%..
+Academic grades obtained: B.A. (P), ;; L.A. (P), ;; M.A. (P), ;; B.Cn.L. (P), ..
+College affiliation: Collège de Skara..
+Family relationships: Son père est Jens GYRSTINGE, landsdommer de Sjaelland ("juge provincial"), † ; Son frère est ANDERS Jensen, landsdommer de Sjaelland après son père, et rigsråd (Conseiller du royaume);.
+Social origin: Noblesse.
+Ecclesiastical positions held: Chanoine de Roskilde, ;; Chanoine de Lund, ;; Évêque de Västerås, %1414-1421%;; Évêque d'Odense, %1421-1439%..
+University functions: Procureur de la Nationanglaise-allemande, élu le 2 juin ; en fonction jusqu'au 26 juillet; Procureur du collège de Skara, ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 10/10/2018..

@@ -1,0 +1,11 @@
+PERSON: HUGO de Bellaquercu
+Also known as: Hugo de BELLAQUERCU; Hugues de BEAUQUESNE.
+Description: Chanoine d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1226-1254%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d'Amiens %1227-1237% ;; Prévôt d'Amiens %1244-1254% ;.
+Other ecclesiastical functions: Official d'Amiens %1226-1233% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 2/1/2022..

@@ -1,0 +1,8 @@
+PERSON: SIMONIA uxor Johannis dicti Florie
+Also known as: Simonia uxor JOHANNIS dicti FLORIE.
+Description: Épouse divorcée d'un maître.
+Status: Extérieur.
+Gender: female.
+Active during: %1290-1290%.
+Family relationships: Épouse de Johannes dictus FLORIE maître-régent à l'Université de Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/02/2024)..

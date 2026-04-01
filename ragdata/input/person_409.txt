@@ -1,0 +1,12 @@
+PERSON: ALBERTUS de Kalbe
+Also known as: Albertus de KALBE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1378-1378%.
+Born in: Prusse (Frombork)..
+Diocese of origin: Diocèse d'Ermeland..
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+Ecclesiastical positions held: Chanoine d'Ermeland ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/06/2020)..

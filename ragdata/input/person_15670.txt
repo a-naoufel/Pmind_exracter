@@ -1,0 +1,11 @@
+PERSON: ANTHONIUS Clouan
+Also known as: Antonius CLOUAN.
+Description: Bachelier Décret.
+Status: Gradué.
+Gender: male.
+Active during: %1499-1499%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Sens..
+Studied at: Paris %1499-1499%..
+Academic grades obtained: Bachelier en décret (Paris) (le 24 mai) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet 19/09/2020..

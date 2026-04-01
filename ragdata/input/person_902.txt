@@ -1,0 +1,14 @@
+PERSON: ARNALDUS de Villemur
+Also known as: Arnaldus de VILLEMUR.
+Description: Cardinal-prêtre de Saint-Sixte.
+Status: Extérieur.
+Gender: male.
+Active during: %1347-1355%.
+Born in: Languedoc (Villemur)..
+Diocese of origin: Diocèse de Toulouse..
+Studied at: ?.
+Academic grades obtained: Docteur en droit canon.; Chanoine d'Angers % -1455% ;.
+Religious order: O.S.A. : ChanoineRégulier (augustin)..
+Religious functions: Prieur (augustin) de Sos (Diocèse de Pamiers).; Prieur de Pamiers % -1347%..
+Ecclesiastical positions held: Évêque de Périgueux %1347-1348% ;; Évêque de Pamiers %1348-1350% ;; Cardinal-prêtre de Saint-Sixte %1350-1355%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe GENET 6/11/2020)..

@@ -1,0 +1,9 @@
+PERSON: ODO Mestre d’école
+Also known as: EUDES.
+Description: Maître d’école.
+Status: Suppôt.
+Gender: male.
+Active during: %1292-1300%.
+Studied at: Paris..
+Ecclesiastical status: Laïc ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 19/04/2020)..

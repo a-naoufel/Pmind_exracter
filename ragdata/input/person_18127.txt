@@ -1,0 +1,9 @@
+PERSON: MARTINUS Florie
+Also known as: Martin FLORIE.
+Description: Magister ?.
+Status: Maître.
+Gender: male.
+Active during: %1386-1386%.
+Studied at: ?Paris ..
+Academic grades obtained: Maître (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 13/09/2023)..

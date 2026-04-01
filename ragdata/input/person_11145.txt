@@ -1,0 +1,11 @@
+PERSON: ROBERTUS de Ardioso
+Also known as: Robertus de ARDIOSO.
+Description: Clunisien.
+Status: Étudiant.
+Gender: male.
+Active during: %1343-1343%.
+Studied at: Paris.
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Cluny ..
+Religious order: O.S.B. : moine clunisien..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 11/02/2020..

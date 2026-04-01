@@ -1,0 +1,10 @@
+PERSON: GERARDUS Wiltensis
+Also known as: Gerardus WILTENSIS.
+Description: Étudiant en théologie ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1340-1340%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant en théologie ?.
+College affiliation: Sorbonne ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/01/2022..

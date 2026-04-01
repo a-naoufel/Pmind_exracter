@@ -1,0 +1,24 @@
+PERSON: ADAM de La Halle
+Also known as: Adam de LAHALLE; Adam de la HALE; le Bossu d'ARRAS.
+Description: Trouvère.
+Status: Étudiant.
+Gender: male.
+Active during: %1250-1287%.
+Born in: Artois (Arras)..
+Studied at: ?Paris..
+Academic grades obtained: Étudiant (Paris ?) ?.
+Family relationships: Son père est Henri le BOSSU, clerc des échevins ; Son épouse est Maroie LEJAIS qu'il épouse en ..
+Social origin: Bourgeoisie ?.
+Authored work: 'Jeu de la Feuillée.', composed around ?.
+Authored work: 'Li Congiés Adam', composed around ?.
+Authored work: 'Li ver d'amours', composed around ?.
+Authored work: 'Vers de la mort', composed around %1275-1276%.
+Authored work: 'Jeu de Robin et de Marion', composed around .
+Authored work: 'Jeu du pèlerin', composed around %1286-1289%.
+Authored work: '(Chanson latine)', composed around ?.
+Authored work: 'Li rondel', composed around .
+Authored work: '(Motets)', composed around .
+Authored work: '(Les chansons)', composed around .
+Authored work: 'Les Partures Adan', composed around .
+Authored work: '(La Chanson du roi de Sicile)', composed around ..
+Source: http://www.arlima.net/ad/adam_de_la_halle.html (Laurent BRUN).

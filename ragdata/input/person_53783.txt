@@ -1,0 +1,21 @@
+PERSON: HUGO de Evesham
+Also known as: Hugo de EVESHAM; Hugo ATRATUS; Hugues LE NOIR..
+Description: Médecin.
+Status: Étudiant.
+Gender: male.
+Active during: %1265-1287%.
+Born in: Angleterre (?Evesham )..
+Studied at: Oxford ;; ?Paris ;.
+Academic grades obtained: Maître ès arts avant ..
+Ecclesiastical positions held: Recteur de Goxhill (Lincolnshire) %1265-1281% ;; Recteur de Welton (Yorkshire) % -1272% ;; Recteur de Hemingbrough (Yorkshire) %1272- % ;; Recteur de Benefield (Northamptonshire) % -1277% ;; Recteur de Spofforth (Yorkshire) % -1287% ;; Archidiacre de Worcester ;; Chanoine de York %1279-1287% ;; Cardinal-prêtre de San-LorenzoinLucerna %1281-1287%..
+Authored work: 'Sermo in dominica Septuagesimae', composed around .
+Authored work: 'Distinctiones predicabiles', composed around ?.
+Authored work: 'Super opera febrium Isaac', composed around ?.
+Authored work: 'Canones medicinales', composed around ?.
+Authored work: 'De genealogia humanis', composed around ?.
+Authored work: 'Tractatus de peste', composed around ?.
+Authored work: 'Panacea', composed around ?.
+Authored work: '(Recette ‘contra phisum’)', composed around ?.
+Authored work: 'Recette pour l’aurum potabile', composed around ?.
+Authored work: 'Epistolae', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

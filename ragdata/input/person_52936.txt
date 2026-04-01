@@ -1,0 +1,13 @@
+PERSON: RADULPHUS de Cotevrart
+Also known as: Radulphus de COTEVRART.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1260-1265%.
+Born in: Normandie (Rouen) ?.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Bourgeoisie ;.
+Ecclesiastical positions held: Chanoine de Rouen %1260-1265% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/11/2021..

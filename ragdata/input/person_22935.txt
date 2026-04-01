@@ -1,0 +1,10 @@
+PERSON: X Ravaut
+Also known as: RAVAUT.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1443-1443%.
+Studied at: Paris ;.
+Academic grades obtained: Magister (Paris ?) ;.
+College affiliation: Sorbonne : mentionné en tant que Magister RAVAUT ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 3/05/2018)..

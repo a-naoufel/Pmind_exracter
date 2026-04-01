@@ -1,0 +1,10 @@
+PERSON: FRANCISCUS Menin
+Also known as: Franciscus MENIN.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1486-1486%.
+Diocese of origin: Diocèse de Tournai..
+Studied at: Paris %1486-1486%..
+Academic grades obtained: Bachelier en décret (Paris) 25 mai ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 09/09/2021..

@@ -1,0 +1,11 @@
+PERSON: HENRICUS Chicoti
+Also known as: Henricus CHICOTI.
+Description: Maîtrerégent de la Faculté de Théologie.
+Status: Étudiant.
+Gender: male.
+Active during: %1381-1400%.
+Academic grades obtained: Étudiant en théologie (Paris) attesté en ;.
+College affiliation: Couvent (carme) de Paris ?.
+Religious order: ?Carme en %1375-1400% ;; Délivre son "Principium pro recomendatione suae Moralis" à l'école des Carmes le dimanche avant la fête de l'été de saint Martin le 4 juillet ;.
+Authored work: 'Principium pro recomendatione suae Moralis', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol ; révision, Jean-Philippe Genet, 6/03/2019..

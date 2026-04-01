@@ -1,0 +1,10 @@
+PERSON: MICHAEL de Sancto Laudo
+Also known as: Michel de SAINT-LÔ.
+Description: Membre du Collège de Maître-Gervais.
+Status: Étudiant.
+Gender: male.
+Active during: %1454-1454%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Maître-Gervais : socius ;; Collège de Maître-Gervais : chapelain ;; Chapelain du collège de Maître-Gervais en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Marion Bernard-Schweitzer 16/09/2020..

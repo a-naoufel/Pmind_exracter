@@ -1,0 +1,7 @@
+PERSON: ALBERICUS Roussellus
+Also known as: Albericus ROUSSEL; Aubry ROUSSEL.
+Description: Avocat au Châtelet.
+Status: Extérieur.
+Gender: male.
+Active during: %1381-1381%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

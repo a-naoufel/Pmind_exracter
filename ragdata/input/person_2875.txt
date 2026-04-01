@@ -1,0 +1,11 @@
+PERSON: GERARDUS de Bessem
+Also known as: Gerardus de BESSEM.
+Description: Clerc.
+Status: Extérieur.
+Gender: male.
+Active during: %1365-1365%.
+Diocese of origin: Diocèse de Liège..
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical status: Clerc du diocèse de Liège..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 17/12/2021..

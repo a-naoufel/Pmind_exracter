@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Cornicorne
+Also known as: Guillelmus de CORNICORNE.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1250-1250%.
+Studied at: ?.
+Academic grades obtained: Magister ?.
+Ecclesiastical positions held: Chanoine de Rouen ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 21/03/2022..

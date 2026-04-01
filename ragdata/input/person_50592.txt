@@ -1,0 +1,9 @@
+PERSON: NICOLAUS Vaultier
+Also known as: Nicolaus VAULLTIER.
+Description: Libraire-juré.
+Status: Suppôt.
+Gender: male.
+Active during: %1500-1514%.
+Studied at: Paris..
+Academic grades obtained: ?.
+Source: DATA.bnf :.

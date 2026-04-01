@@ -1,0 +1,10 @@
+PERSON: DESIDERIUS Grugneti
+Also known as: Desiderius GRUGNETI.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1447-1447%.
+Studied at: Paris %1447-1447%..
+Academic grades obtained: Bachelier en décret (Paris) (le 19 décembre) ..
+Religious order: Ord. Hosp. S. Johannes Jherosolimitani..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 09/05/2021..

@@ -1,0 +1,11 @@
+PERSON: RADULPHUS de Bohun
+Also known as: Rauf de BOUN; Radulphus de BOHUN.
+Description: Magister.
+Status: Étudiant.
+Gender: male.
+Active during: %1287-1310%.
+Born in: Angleterre.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris ?) ?; ?Maître ès arts.
+Authored work: '(Abbréviation du Brut)', composed around , dedicated to Dédié à Henry de LACY, Earl of Lincoln..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction et dernière mise à jour, Jean-Philippe Genet, 21/04/2025..

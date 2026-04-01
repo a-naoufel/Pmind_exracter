@@ -1,0 +1,19 @@
+PERSON: GEORGIUS Hermonymus
+Also known as: Georges HERMONYME.
+Description: Scribe et professeur de grec.
+Status: Maître.
+Gender: male.
+Active during: %1470-1508%.
+Born in: Grèce (Mistra, près de Sparte)..
+Studied at: Paris..
+Academic relationships: Son élève est Johannes REUCHLIN en ; Son élève est David CHAMBELLAN en %1478-1479% ; Son élève est Guillaume BUDÉ en ; Son élève est Jacques LEFÈVRE d’Étaples avant ; Son élève est ERASME vers ; Son élève est Beatus RHENANUS en ; Son élève est Michael HUMMELBERG en ;.
+Representation roles: Chargé d’une mission diplomatique en Angleterre par le Pape SIXTE IV en pour obtenir la libération de George NEVILLE, archevêque d’York ;.
+Authored work: 'De via salutis hominum. Dialogus de quibusdam fidei articulis quos Turcorum imperator voluit ab eo scire', composed around ?.
+Authored work: 'Collectio sententiarum aurearum [Sanctis Patribus et auctoribus graecis]', composed around ?.
+Authored work: 'De virtutibus', composed around ?.
+Authored work: 'Septem sapientium apophthegmata', composed around ?.
+Authored work: 'Septem sapientium precepta', composed around ?.
+Authored work: 'Menandri Sententiae', composed around ?.
+Authored work: '(Notes personnelles et extraits divers copiés par Georgius HERMONYME)', composed around ?.
+Authored work: 'Vita Machometi', composed around ?.
+Source: MIRABILE (Andrea CENCINI) :.

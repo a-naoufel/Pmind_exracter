@@ -1,0 +1,25 @@
+PERSON: GUILLELMUS de Deguilevilla
+Also known as: Guillelmus de DEGUILEVILLA; Guillaume de DIGULEVILLE.
+Description: Moine (cistercien) de Chaalis.
+Status: Incertain.
+Gender: male.
+Active during: %1316-1358%.
+Born in: Normandie (Deguilleville).
+Diocese of origin: Diocèse de Coutances ?.
+Studied at: ?Paris..
+Academic grades obtained: Étudiant ?.
+College affiliation: Collège Saint-Bernard ?.
+Religious order: O.Cist. : moine de l'abbaye (citercienne) de Chaalis ..
+Authored work: 'Pélerinage de la vie humaine', composed around %1330-1331%..
+Authored work: 'Le pelerinage de l’ame', composed around ?.
+Authored work: 'Pélerinage de Jésus-Christ', composed around ?..
+Authored work: 'Le Roman de la fleur de lys', composed around ..
+Authored work: 'Cantica', composed around ?.
+Authored work: 'Super Cantica Canticorum', composed around ?.
+Authored work: 'Alpha et omega', composed around ?.
+Authored work: 'Carmina', composed around ?.
+Authored work: 'Letania', composed around ?.
+Authored work: 'Psalterium', composed around ?.
+Authored work: 'Versus de prodicione', composed around ?.
+Authored work: '(Vers latin ajoutés à la traduction française du Pèlerinage de la vie humaine)', composed around ..
+Source: MIRABILE, Andrea CENCINI :.

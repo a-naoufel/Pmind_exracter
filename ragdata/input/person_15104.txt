@@ -1,0 +1,10 @@
+PERSON: PETRUS Auricii
+Also known as: Petrus AURICII; Pierre de DACIA; Pierre dit SUBTILIS; Patricius AURICII de Dacia.
+Description: Maître en arts..
+Status: Maître.
+Gender: male.
+Active during: %1469-1475%?.
+Born in: Danemark (Copenhague).
+Diocese of origin: Diocèse de Roskilde..
+Studied at: Leipzig, ;; Petrus Auricii de Kopenhagen de Dacia, 6 gr.;; ?Cologne, ;; Paris, %1469-1472%;; ?Heidelberg, ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; ?Maître en médecine (Paris)..

@@ -1,0 +1,20 @@
+PERSON: HENRICUS Calstris
+Also known as: Henri CALSTRIS Lovaniensis; Heinrich van den CALSTRE von Löwen.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1290-1302%.
+Born in: Brabant (Louvain) ?.
+Diocese of origin: Diocèse de Liège ?.
+Studied at: Paris %1290-1293% ;; Cologne ?.
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious functions: Prieur (dominicain) de Louvain %1293-1297%..
+Ecclesiastical positions held: O.P. : frère dominicain..
+University functions: Cologne (Studium generale : Lecteur %1297-1302%)..
+Authored work: 'Epistula de sex quibusdam quae faciunt hominem immobiliter in divina unione persistere', composed around ?.
+Authored work: 'Sermo Coloniae habitus', composed around ?.
+Authored work: 'Dictum', composed around ?.
+Authored work: 'Dictum', composed around ?.
+Authored work: 'Excerpta', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 5/10/2020..

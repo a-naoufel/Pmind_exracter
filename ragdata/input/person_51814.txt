@@ -1,0 +1,12 @@
+PERSON: HENRICUS Marronier
+Also known as: Henricus MARRONIER.
+Description: Boursier du Collège de Laon.
+Status: Étudiant.
+Gender: male.
+Active during: %1468-1489%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie) %1468-1489%..
+Academic grades obtained: Étudiant ès arts (Paris) %1468-1489%.; Étudiant en théologie (Paris) %1476-1489%..
+College affiliation: Collège de Laon : boursier ès arts ;; Collège de Laon : boursier en théologie %1476-1489% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 6/01/2021..

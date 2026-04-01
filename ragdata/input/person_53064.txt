@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Moustardier
+Also known as: Guillelmus MOUSTARDIER.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1387-1387%.
+Studied at: Paris..
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 7/12/2021..

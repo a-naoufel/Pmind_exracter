@@ -1,0 +1,10 @@
+PERSON: ROBERTUS 13
+Also known as: ROBERTUS.
+Description: Prieur de Saint-Bénigne de Dijon.
+Status: Étudiant.
+Gender: male.
+Active during: %1325-1330%.
+Studied at: Paris %1329-1330%..
+Family relationships: Son neveu est JACOBUS..
+Religious order: O.S.B. : moine bénédictin.; Prieur (bénédictin) de Silmont (Saint-Bénigne) au diocèse de Toul avant ;; Prieur (bénédictin) de Dijon (Saint-Bénigne) à partir de janvier ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/04/2021)..

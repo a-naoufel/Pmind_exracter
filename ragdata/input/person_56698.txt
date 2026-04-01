@@ -1,0 +1,10 @@
+PERSON: PRIGENTIUS
+Also known as: PREGENTIUS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1452-1452%.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) en ;.
+University functions: Paris (Nation de France : temptator élu en (8 janvier)) ;; Paris (Nation de France : doyen de l'une des provinces en 1452%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 03/10/2023..

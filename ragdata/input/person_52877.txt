@@ -1,0 +1,12 @@
+PERSON: ROGARIUS Normanus
+Also known as: Rogerus NORMANUS; Roger LE NORMAN.
+Description: Doyen de Rouen.
+Status: Maître.
+Gender: male.
+Active during: %1165-1200%.
+Studied at: Bologne ;; Paris ;.
+Academic grades obtained: Magister ;.
+Family relationships: Son neveu est Guillaume le CHAPELAIN, curé de Saint-Germaind’Alisi ;.
+Ecclesiastical positions held: Chanoine de Rouen %1165-1200% ;.
+University functions: Paris (Maître enseignant le droit ?) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 3/11/2021..

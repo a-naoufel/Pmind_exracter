@@ -1,0 +1,9 @@
+PERSON: G. Coarti
+Also known as: G. COARTI.
+Description: Maître d’école.
+Status: Maître.
+Gender: male.
+Active during: %1445-1445%.
+Studied at: Paris ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 31/08/2020..

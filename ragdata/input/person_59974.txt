@@ -1,0 +1,11 @@
+PERSON: HAIMERICUS 5
+Also known as: EMERICUS.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1422-1426%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Dainville : étudiant ?.
+Religious order: O.S.B. : moine du prieuré (O.S.B.) d’Acquin, dépendance de l’abbaye (O.S.B.) de Saint-Bertin ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

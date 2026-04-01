@@ -1,0 +1,12 @@
+PERSON: HENRICUS de Fodringheye
+Also known as: Henry de FODRINGHEYE.
+Description: Maître ès arts.
+Status: Extérieur.
+Gender: male.
+Active during: %1284-1361%.
+Born in: Angleterre (Fotheringhay ?)..
+Studied at: Oxford (Merton College)..
+Academic grades obtained: Maître ès arts (Oxford)..
+Ecclesiastical positions held: Vicaire d'Ibstone (Buckinghamshire) %1305-1361%..
+University functions: Oxford (Merton College : fellow %1284-1305%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 05/09/2019..

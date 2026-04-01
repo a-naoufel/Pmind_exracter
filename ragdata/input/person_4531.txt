@@ -1,0 +1,11 @@
+PERSON: HELGHO de Suecia
+Also known as: Helgho de SUECIA.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1346-1346%.
+Born in: Suède..
+Studied at: Paris (Nation Anglo-allemande), %1346-1346%..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Academic relationships: Élève de BIRGERUS Gregorii (déterminance)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 24/04/2014..

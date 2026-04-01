@@ -1,0 +1,10 @@
+PERSON: RADULPHUS Mauhaut
+Also known as: Radulphus MAUHAUT; Radulphus MAUCHAUT.
+Description: Boursier du collège d'Harcourt.
+Status: Étudiant.
+Gender: male.
+Active during: %1384-1384%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant ès arts (Paris) ..
+College affiliation: Collège d’Harcourt : petit boursier en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 10/05/2019..

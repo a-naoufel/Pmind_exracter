@@ -1,0 +1,10 @@
+PERSON: GEORGIUS de Lavoutzac
+Also known as: Georgius de LAVOUTZAC.
+Description: Licencié en droit civil.
+Status: Gradué.
+Gender: male.
+Active during: %1403-1403%.
+Studied at: Paris %:1403-1403%.
+Academic grades obtained: Bachelier en décret (Paris) ;; Licencié en droit civil ;.
+Ecclesiastical positions held: Recteur et curé de Javeneyo (diocèse de Rennes) en ;; Administrateur de l’aumônerie de Sainte-MariedeBoechidosaco en ;; Chapelainperpétuel de Saint-LéonarddeChemeleyo ;; Chapelain de Busca en ;; Chapelain de Coudrat au diocèse d’Angers en ;; Candidat à un bénéfice sur le Rotulus licentiatorum et bacallariorum in decretis Parisius adressé à BENOÎT XIII en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 22/04/2019..

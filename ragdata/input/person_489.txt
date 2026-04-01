@@ -1,0 +1,10 @@
+PERSON: ALEXANDER 4
+Also known as: ALEXANDER.
+Description: Magister ?.
+Status: Incertain.
+Gender: male.
+Active during: %1250-1250%.
+Studied at: ?.
+Academic grades obtained: ?Magister.
+Authored work: 'Dialectica', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 27/06/2020)..

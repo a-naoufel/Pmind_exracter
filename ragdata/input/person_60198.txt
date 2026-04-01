@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Los
+Also known as: Nicolaus LOS.
+Description: Chapelain de l’église d’Oissel.
+Status: Extérieur.
+Gender: male.
+Active during: %1480-1480%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chapelain d’Oissel (église collégiale Sainte-Marie) ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

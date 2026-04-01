@@ -1,0 +1,22 @@
+PERSON: ZENOBIUS Bonaccii de Guasconibus
+Also known as: Zenobius BONACCII de Guasconibus; Zenobio GUASCONI.
+Description: O.P..
+Status: Étudiant.
+Gender: male.
+Active during: %1337-1383%.
+Born in: Italie (Toscane : Florence) ;.
+Diocese of origin: Diocèse de Florence ?.
+Studied at: Florence ;; Sienne ;; Paris ;.
+Academic grades obtained: Étudiant (Paris) entre et ;; Maître en théologie (Florence) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Family relationships: Son père est Piero di NARDO ;.
+Social origin: Bourgeoisie ?.
+Religious order: O.P. : frère (dominicain) du couvent (dominicain) de Florence (Santa Maria Novella) ;.
+Religious functions: Prieur (dominicain) de SanMiniato ;; Prieur (dominicain) de Florence (Santa-Maria Novella) ;; Définiteur au chapitregénéral (dominicain) de Bologne ;.
+University functions: Florence (Faculté de Théologie : Maître-régent ) ;; Florence (Maître-régent en théologie au couvent dominicain) ;; Sienne (Maître-régent en théologie au couvent dominicain) ;.
+Authored work: 'Sermones', composed around ?.
+Authored work: '(Volgarizzamento homilae Ps. Origenis s. Evang. Joh.)', composed around ?.
+Authored work: '(Volgarizzamento epistolae Hieronymi ad Demetriades)', composed around ?.
+Authored work: '(Volgarizzamento epistolae Hieronymi ad Sigismonda)', composed around ?.
+Authored work: 'Liber Novus', composed around ?%1360-1370%.
+Source: DBI (Sonia GENTILI) : //https://www.treccani.it/enciclopedia/zenobi-guasconi_(Dizionario-Biografico)/ ;.

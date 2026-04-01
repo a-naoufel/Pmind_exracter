@@ -1,0 +1,17 @@
+PERSON: GUIDO de Montmirail
+Also known as: Guido de MONTMIRAIL.
+Description: Bachelier en droit canon.
+Status: Gradué.
+Gender: male.
+Active during: %1474-1542%.
+Born in: Champagne (Montmirail ?) ?.
+Diocese of origin: Diocèse de Soissons ?.
+Studied at: Paris (Collège de Saint-Denis) %1474-1491%..
+Academic grades obtained: Bachelier en décret (Paris) (le 4 juillet) ..
+College affiliation: Collège de Saint-Denis : boursier en ..
+Family relationships: Son père est Robert de MONTMIRAIL, seigneur de Fouqueux, secrétaire de la Chambre des Comptes..
+Social origin: Noble..
+Religious order: Bénédictin : abbaye de Saint-Denis-en-France (diocèse de Paris)..
+Religious functions: Trésorier de Saint-Denis-en-France (diocèse de Paris) en ;; Prieur de Saint-Clair-sur-Epte (diocèse de Rouen) en %1487-1488% ;; Abbé de Montebourg (diocèse de Coutances) en ;; Abbé de Saint-Magloire (diocèse de Paris) en %1492-1524%? ;; Conservator privilegiorum du monastère de Ferrières-en-Gâtinais (diocèse de Sens) (ou Ferrières dans le diocèse de Poitiers) ;; Prieur de Pomey (dépendance de Saint-Denis-en-France) ;; Vicaire d'Aimerius de GOUFFIER, évêque d'Albi et abbé de Saint-Denis en ..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (1er cours) en (15 juillet)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 29/01/2022)..

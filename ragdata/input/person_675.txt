@@ -1,0 +1,10 @@
+PERSON: ANDREAS Marchand
+Also known as: Andreas MARCHAND; Andreas MARCHANT; Audry MARCHANT.
+Description: Prévôt de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1389-1439%.
+Born in: Poitou (LaRochelle)..
+Studied at: ?.
+Social origin: Noble : chevalier en ..
+Source: http://www.parismoyenage.fr/parisiens/nom_p.php?searchMarchantnomMarchantprenomAndry%A3ou%A3Andr%E9 ;.

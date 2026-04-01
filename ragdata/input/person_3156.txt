@@ -1,0 +1,12 @@
+PERSON: GERARDUS de Barro de Ducis
+Also known as: Girard de BAR-le-DUC; Gerardus de BARRO de DUCIS; Girart le LORRAIN.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1335-1362%.
+Born in: Lorraine (Bar-le-Duc) ?.
+Diocese of origin: Diocèse de Toul ?.
+Studied at: Paris %1335-1362%..
+Academic grades obtained: Maître ès arts (Paris).; Maître en médecine (Paris)..
+Ecclesiastical positions held: Chanoine de Lilliers ;; Chanoine et chantre de la chapelle ducale de Dijon ;; Chanoine de Toul ;; Chanoine prébendé de Lilliers en ;; Chanoine prébendé de Béthune (St-Barthélémy) ;; Chanoine de Lens (Notre-Dame) ;; Chanoine de Dijon (Chapelle ducale) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 17/12/2021..

@@ -1,0 +1,11 @@
+PERSON: X Cantor Andegavensis
+Also known as: M. Chantre d’Angers.
+Description: Chantre d’Angers.
+Status: Extérieur.
+Gender: male.
+Active during: %1261-1261%.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son oncle est Michel de VILLOISEAU, évêque d'Angers ; Son oncle est J. archidiacre d’Angers ; Son oncle est M. trésorier d’Angers ;.
+Ecclesiastical positions held: Chantre d’Angers ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 30/03/2020..

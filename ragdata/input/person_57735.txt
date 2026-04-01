@@ -1,0 +1,9 @@
+PERSON: RAIMUNDUS 2
+Also known as: REMUNDUS.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1247-1247%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 10/04/2024)..

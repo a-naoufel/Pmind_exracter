@@ -1,0 +1,10 @@
+PERSON: PETRUS Amati
+Also known as: Petrus AMATI.
+Description: Clunisien.
+Status: Maître.
+Gender: male.
+Active during: %1451-1451%.
+Studied at: Paris.
+Academic grades obtained: Bachelier en théologie (Paris) avant ;; Docteur en théologie (Paris) ;.
+Religious order: O.Clun. : moine clunisien..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 26/11/2022..

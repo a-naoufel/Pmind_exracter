@@ -1,0 +1,12 @@
+PERSON: STEPHANUS de Sancto Germano
+Also known as: Stephanus de SANCTO GERMANO.
+Description: Ermite de Saint Augustin.
+Status: Étudiant.
+Gender: male.
+Active during: %1358-1358%.
+Born in: Languedoc ?.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Couvent (Augustin) de Paris (Grands-Augustins)..
+Religious order: O.E.S.A. : frère augustin de la province (augustine) de Toulouse..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe GENET 6/11/2020)..

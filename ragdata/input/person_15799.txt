@@ -1,0 +1,11 @@
+PERSON: CAROLUS de Villemourren
+Also known as: Karolus de VILLEMOURREN; Karolus de VILLEMORREN.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1501-1501%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Châlons-en-Champagne ;.
+Studied at: Paris %1501-1501%..
+Academic grades obtained: Bachelier en décret (Paris) (22 mars) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 30/03/2021)..

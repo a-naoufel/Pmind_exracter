@@ -1,0 +1,12 @@
+PERSON: MATTHAEUS de Fonte
+Also known as: Matthaeus de FONTE.
+Description: Chanoine de Sées.
+Status: Incertain.
+Gender: male.
+Active during: %1414-1428%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Religious order: O.S.A. : chanoinerégulier augustin (Victorin)..
+Religious functions: Pénitencier de Sées %1414-1428% ;; Chanoine de Sées ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 11/11/2022..

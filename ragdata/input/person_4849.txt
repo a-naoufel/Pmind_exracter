@@ -1,0 +1,9 @@
+PERSON: HENRICUS de Alemania 4
+Also known as: Henricus de ALEMANIA.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Born in: Alémanie ?.
+Studied at: Paris %1329-1330%.; Étudiant (Paris) %1329-1330% ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 3/04/2021)..

@@ -1,0 +1,11 @@
+PERSON: FORTIS de Fortis
+Also known as: Fortis de FORTIS.
+Description: Franciscain.
+Status: Extérieur.
+Gender: male.
+Active during: %1345-1345%.
+Studied at: ?.
+Academic grades obtained: Maître en théologie ?.
+Religious order: O.F.M. : frère franciscain..
+Religious functions: Principal du couvent (franciscain) de Montpellier..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 17/08/2021)..

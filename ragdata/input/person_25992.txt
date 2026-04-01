@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Boisset
+Also known as: Guillaume de BOISSET; Guillaume DUBOISSEY.
+Description: Abbé de Cîteaux.
+Status: Étudiant.
+Gender: male.
+Active during: %1498-1521%.
+Studied at: Paris..
+Academic grades obtained: Étudiant en théologie ..
+College affiliation: Collège Saint-Bernard..
+Religious order: O.Cist. : moine (cistercien) de Cîteaux..
+Religious functions: Abbé (cistercien) de Candeil %1499-1517% ;; Abbé (cistercien) de Cîteaux %1517-1521% ;.
+Authored work: 'Liber quidam in tres partes divisus in quas: I, agitur de septena laudis decantatione, II, de authoritate et officio provisoris, magistri regentis, superioris magistri studentium', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 09/03/2022)..

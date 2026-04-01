@@ -1,0 +1,9 @@
+PERSON: PETRUS Descombiis
+Also known as: Petrus DESCOMBIIS.
+Description: Notaire au Châtelet de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1344-1344%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 3/10/2017..

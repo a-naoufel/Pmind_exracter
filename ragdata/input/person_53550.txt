@@ -1,0 +1,10 @@
+PERSON: ROBERTUS Le Caretier
+Also known as: Robertus LECARETIER; Robertus CHARTIER.
+Description: Abbé d’Ardenne.
+Status: Étudiant.
+Gender: male.
+Studied at: Paris %1427-1432%..
+Academic relationships: Son maître est Johannes HUBERTI en ;.
+Religious functions: Abbé d’Ardenne ;.
+Ecclesiastical positions held: O. Praem..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ rédaction : Jean-Philippe Genet, 25/03/2022..

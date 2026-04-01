@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Abbatis
+Also known as: Nicolaus ABBATIS.
+Description: Clunisien.
+Status: Gradué.
+Gender: male.
+Active during: %1464-1465%.
+Studied at: Paris vers %1464-1465%.
+Academic grades obtained: Bachelier en théologie (Paris) vers ..
+Academic relationships: Son maître est Johannes REGIS..
+Religious order: O.Clun. : moine clunisien ;.
+University functions: Paris (Faculté de Théologie : lecteur de la Bible en ) ;.

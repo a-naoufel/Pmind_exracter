@@ -1,0 +1,13 @@
+PERSON: PETRUS Clerici 1
+Also known as: Petrus CLERICI.
+Description: Bachelier en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1403-1420%.
+Diocese of origin: Diocèse de Tournai ;.
+Studied at: Paris (Nation de Picardie) %1403-1403% ;.
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en théologie (Paris) ;.
+Ecclesiastical status: Prêtre du diocèse de Tournai ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Magnus Rotulus de l’Université de Paris daté de (21 octobre) et présenté à BENOÎT XIII ;; Chanoine d'Auxerre %1410-1420% ;; Archidiacre d'Auxerre %1410-1420% ;.
+University functions: Paris (Faculté de Théologie : lecteur des Sentences en ).
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 01/07/2025..

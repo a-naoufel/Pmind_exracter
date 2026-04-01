@@ -1,0 +1,11 @@
+PERSON: FRANCISCUS Charmolue
+Also known as: Franciscus CHARMOLUE; François CHARMOLUE; François CHERMOLUE.
+Description: Médecin.
+Status: Maître.
+Gender: male.
+Active during: %1482-1495%.
+Studied at: Paris, %1482-1495%..
+Academic grades obtained: Étudiant en médecine (Paris) %1482-1483% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+College affiliation: Collège de Dormans-Beauvais : sous-maître ..
+University functions: Paris (Faculté de Médecine : Maîtrerégent %1493-1495% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 21/08/2021..

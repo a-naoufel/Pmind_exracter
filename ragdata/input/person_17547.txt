@@ -1,0 +1,9 @@
+PERSON: COLINUS Randouyn
+Also known as: Colinus RANDOUYN.
+Description: Nonce pour le diocèse d'Auxerre.
+Status: Suppôt.
+Gender: male.
+Active during: %1455-1455%.
+Studied at: Paris (Nation de France) ..
+University functions: Paris (Nation de France) : nonce pour le diocèse d'Auxerre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 22/04/2021..

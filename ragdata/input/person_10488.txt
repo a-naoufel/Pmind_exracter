@@ -1,0 +1,9 @@
+PERSON: RADULPHUS 7
+Also known as: RADULPHUS.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1284-1290%.
+Studied at: Paris (Faculté de décret)..
+Academic grades obtained: Licencié en décret (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 19/02/2024)..

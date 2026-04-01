@@ -1,0 +1,11 @@
+PERSON: HENRICUS de Meso
+Also known as: Henricus de MESO.
+Description: Chanoine de Troyes.
+Status: Incertain.
+Gender: male.
+Active during: %1312-1317%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Sous-diacre ;.
+Ecclesiastical positions held: Chanoine de Troyes %1312-1317% ;; Chanoine de Laon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 03/05/2023..

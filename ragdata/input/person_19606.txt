@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Villebresme
+Also known as: Guillelmus de VILLEBRESME.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1478%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+Family relationships: Son parent est Guillelmus de VILLEBRESME, secrétaire de CHARLES, duc d'Orléans en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/04/2022..

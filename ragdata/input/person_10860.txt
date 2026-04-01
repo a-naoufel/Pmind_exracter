@@ -1,0 +1,18 @@
+PERSON: RICARDUS de Clive 1
+Also known as: Richard de CLIVE.
+Description: Chancelier d'Oxford.
+Status: Étudiant.
+Gender: male.
+Active during: %1276-1306%.
+Born in: Angleterre..
+Studied at: Oxford (Collège de Merton) %:1276-1288% ;; Paris ;.
+Academic grades obtained: Maître ès arts (Oxford) ;; Maître en théologie (Oxford) .; Étudiant (Paris) ..
+Ecclesiastical positions held: Recteur de Dymchurch (Kent) %1287- % ;; Prêtre ;; Recteur de Hawkhurst (Kent) %1290- % ;; Recteur de Northfleet (Kent) %1301-1306% au moins..
+University functions: Oxford (Collège de Merton : fellow ?%1276-1287%) ;; Oxford (Collège de Merton : junior dean ) ;; Oxford (Collège de Merton : 3rd. bursar %1284-1285%).; Oxford (Université : maître-régent ) ;; Oxford (Université : chancelier %1297-1298%)..
+Authored work: 'Quaestio utrum beatitudo sit actus ipsius intellectus vel voluntatis. Quaestio utrum beati in patria videant Deum per essentiam formaliter tanquam per rationem videndi vel per speciem mediam rei', composed around ?.
+Authored work: 'Comm. in Analytica Priora', composed around ?.
+Authored work: 'Quaestiones 7 disputatae', composed around .
+Authored work: 'Quaestiones Metaphysica', composed around ?..
+Authored work: 'Quaestiones libri Physicorum', composed around ?.
+Authored work: 'Comment. in lib. Ethicorum', composed around ?.
+Source: MIRABILE :.

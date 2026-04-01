@@ -1,0 +1,11 @@
+PERSON: PHILIPPUS Languet
+Also known as: Philippus LANGUET; Philippus LANGUETI.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1474-1476%.
+Studied at: Paris (Collège de Saint-Denis) %1474-1476%..
+Academic grades obtained: Étudiant (Paris) %1474-1476% ;; Licencié ès lois (?Paris) ..
+College affiliation: Magister au collège de Saint-Denis à Paris en %1474-1476%..
+Religious order: O.S.B. : moine bénédictin..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/08/2016..

@@ -1,0 +1,11 @@
+PERSON: DROUINUS de Lucenayo
+Also known as: Droinus de LUCENAYO.
+Description: Chanoine de Saint-Symphorien.
+Status: Étudiant.
+Gender: male.
+Active during: %1379-1379%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en décret en ;.
+Religious order: Chanoine augustin du prieuré (augustin) d'Autun (Saint-Symphorien) en ;.
+Religious functions: Provision pour un bénéfice ecclésiastique à la collation du prieuré (ch. augustins) d'Autun (Saint-Symphorien) en : mandat au doyen d'Autun, au doyen d'Avignon (Saint-Agricol), et à l'official d'Autun ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet 18/06/2021..

@@ -1,0 +1,13 @@
+PERSON: CLAUDIUS Verneti
+Also known as: Claudius VERNETI.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1463-1487%.
+Born in: ComtédeBourgogne ?.
+Diocese of origin: Diocèse de Besançon ;.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) vers %1463-1464% ;.
+College affiliation: Collège de Bourgogne : étudiant en %1463-1464% ?.
+Academic relationships: Son maître est Galtherus de WALMA, maître-régent au collège de Bourgogne en %1463-1464% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 22/10/2020)..

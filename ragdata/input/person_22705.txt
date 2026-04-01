@@ -1,0 +1,9 @@
+PERSON: PHILIPPUS Du Four
+Also known as: Philippe DUFOUR.
+Description: Examinateur au Châtelet de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1474-1497%.
+Studied at: ?.
+Academic grades obtained: Maître ?.
+Source: Paris au Moyen Âge :.

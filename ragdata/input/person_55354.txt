@@ -1,0 +1,12 @@
+PERSON: GALFREDUS de Spedona
+Also known as: Gaufridus de SPEDONA.
+Description: Chanoine d’Évreux.
+Status: Incertain.
+Gender: male.
+Active during: %1304-1311%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son parent est peut-être A. de SPEDONA, chanoine d’Évreux ; Son parent est peut-être Nicholaus de SPEDONA, chanoine d’Évreux ; Son parent est peut-être Radulphus de SPEDONA, chanoine d’Évreux ; Son parent est peut-être Radulphus de SPEDONA, trésorier d’Évreux ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d’Évreux %1304-1311% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 23/02/2023)..

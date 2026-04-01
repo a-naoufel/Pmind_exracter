@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Sejourné
+Also known as: Guillaume SÉJOURNÉ.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1372-1377%.
+Studied at: Paris %1372-1377% ;.
+Academic grades obtained: Étudiant (Paris) %1372-1377% ;.
+College affiliation: Collège de Dormans-Beauvais : boursier %1372-1377% ;.
+Family relationships: Son parent est peut-être Jean SÉJOURNÉ ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 31/05/2022..

@@ -1,0 +1,10 @@
+PERSON: RAIMUNDUS Boneti
+Also known as: Raymundus BONETI.
+Description: Docteur en décret.
+Status: Maître.
+Gender: male.
+Active during: %1415-1415%.
+Studied at: Montpellier ;; Paris %1415-1415%..
+Academic grades obtained: Docteur en décret (Montpellier)..
+University functions: Paris (Faculté de Décret : lecteur en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24-02-2024..

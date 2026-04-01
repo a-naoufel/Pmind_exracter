@@ -1,0 +1,11 @@
+PERSON: CLAUDIUS de SanctoBartholomeo
+Also known as: Claudius de SANCTOBARTHOLOMEO.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1497-1499%.
+Diocese of origin: Diocèse de Lyon..
+Studied at: Paris %1497-1499%..
+Academic grades obtained: Bachelier en décret (Paris) (le 29 mai) ;; Licencié en décret (Paris) (le 27 mars) ..
+Ecclesiastical positions held: Prêtre..
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 12/04/2021..

@@ -1,0 +1,11 @@
+PERSON: GERARDUS Gourron
+Also known as: Gerardus GOURRON; Gerardus GORRON; Gerardus GOURON.
+Description: Maîtrerégent de la Faculté de Théologie de Paris..
+Status: Maître.
+Gender: male.
+Active during: %1421-1436%.
+Studied at: Paris %1421-1436%..
+Academic grades obtained: Licencié en théologie (Paris) (13 mars) ;; Maître en théologie (Paris) (2 décembre) ..
+Academic relationships: Son élève est Johannes de OLIVA (%1434-1435%)..
+University functions: Paris (Faculté de Théologie : Lecteur des Sentences à Paris en septembre ) ;; Paris (Faculté de Théologie : Maîtrerégent %1427-1428%, %1429-1431%, %1434-1436%) ;; Paris (Faculté de Théologie : témoin de la rétractation publique de ses erreurs par le dominicain Johannes SARRACENI en (30 mars), obtenue par Petrus de DIERREYO, doyen de la Faculté de Théologie en l’absence du Chancelier de Paris : elle se déroule d'abord devant la Congrégation aux Mathurins, puis dans l’aula de Girardus de SALINIS, O.F.M., puis enfin dans l'hôtel de l'évêque de Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, 9/01/2022..

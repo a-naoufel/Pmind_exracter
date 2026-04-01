@@ -1,0 +1,11 @@
+PERSON: FREDERICUS Lansteyn
+Also known as: Fredericus LANSTEYN.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1403-1403%.
+Born in: Allemagne ?.
+Studied at: Paris (Nation Anglo-allemande) ;.
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Academic relationships: Son maître est Conradus LUBECK pour le baccalauréat en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 19/09/2021..

@@ -1,0 +1,45 @@
+PERSON: NICOLAUS Trevet
+Also known as: Nicholas TREVET.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1283-1334%.
+Born in: Somerset..
+Studied at: Oxford ;; Paris %1307-1314%..
+Academic grades obtained: Docteur en théologie (?Oxford) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins) %1307-1314% ;.
+Family relationships: Son père est Sir Thomas TREVET ; Sa mère est Eleanor TREVET..
+Social origin: Gentry..
+Religious order: O.P. : frère du couvent (dominicain) de ?Londres..
+University functions: Oxford (regentmaster of the Dominicans c. et en %1314-1320% ;; Paris (Couvent dominicain : maître-régent ?) ;; Londres (Couvent Dominicain %1324- %)..
+Authored work: 'Commentarium super Genesim', composed around ?., dedicated to Adressé à JEAN XXII dans une version révisée..
+Authored work: 'Commentarium super Exodus', composed around ..
+Authored work: 'Expositio in Leviticum', composed around ?, dedicated to Adressé à Aymeric de PLAISANCE, MaîtreGénéral des Dominicains..
+Authored work: '(Commentaire sur le Livre des Chroniques)', composed around ?.
+Authored work: 'Postilla in libros Paralipomenon', composed around ?.
+Authored work: 'Expositio in Parabolas Salomonis', composed around ?.
+Authored work: 'De officio Missae', composed around ?, dedicated to Adressé à John DROKENFORD, évêque de BathandWells..
+Authored work: 'In Psalterium', composed around ?%1317-1320%, dedicated to Adressé à John of BRISTOL, Provincial des Dominicains..
+Authored work: 'Flores super regulam Beati Augustini', composed around %1314-1318% à Oxford..
+Authored work: 'De perfectione justitiae', composed around ?.
+Authored work: 'Quodlibeta 1-5 (et 5 Quaestiones Disputatae)', composed around %1303-1307% à Oxford..
+Authored work: 'Quodlibet 11', composed around .
+Authored work: 'In (librum) Boetii de consolatione Philosophiae', composed around ..
+Authored work: 'Commentum in pseudo-Boethii de disciplina scholarium', composed around ?.
+Authored work: 'Commentum in Iuvenalem', composed around ?.
+Authored work: 'In (librum) Gualterii Map Dissuasio Valerii Rufini de non ducenda uxore', composed around ?.
+Authored work: 'In declamationes Senecae', composed around %1307-1314%., dedicated to Dédié à John de LENHAM confesseur d'ÉDOUARD II..
+Authored work: 'In Tragoedias Senecae', composed around ., dedicated to A la demande du Cardinal Nicolas de PRATO..
+Authored work: 'Commentarius in Virgilii Eclogae seu Bucolica', composed around ?.
+Authored work: 'In Canones Eclipsum ad meridiem Sarum (Canon coniunctionum oppositionum et eclipsium ad meridiem civitatis Sarum)', composed around ?.
+Authored work: 'Commentum in Aristotelis Problemata', composed around ?.
+Authored work: 'De Astronomia', composed around ?.
+Authored work: 'De computu Hebraeorum', composed around ?.
+Authored work: 'Expositio librorum Titi Livii', composed around ca. %1316-1318%., dedicated to A la demande de JEAN XXII : il se peut fort bien qu'il s'agisse de l'oeuvre pour laquelle Rigaud d'ACHERES, collecteur pontifical a reçu l'ordre de lui faire un don d'argent pour lui permettre de faire face aux dépenses occasionnés par la préparation d'un ouvrage littéraire à la commande de JEAN XXII..
+Authored work: 'Annales Sex Regum Angliae qui a comitibus andegav. originem traxerunt', composed around ?..
+Authored work: 'Historia ab origine mundi ad Christum natum', composed around ?%1327-1329%., dedicated to Écrit à la demande de Hugues d'ANGOULÊME, archdeacon of Canterbury..
+Authored work: 'Cy commenca les cronycles ke frer Nichole Tryvetis escrit a dame Marie la fille mounsygnar le roy Edward le fiz Henry (Les gestes des Apostoiles, Empereurs e Rois)', composed around ?., dedicated to Dédié à MARY, nonne d'Amesbury, fille d'EDWARD I..
+Authored work: '?Extractio compendiosa dictorum in Politicis Aristotelis', composed around ?.
+Authored work: 'In libros Augustini de Civitate Dei', composed around ?.
+Authored work: 'De perfectione vitae spiritualis', composed around ..
+Source: MIRABILE :.

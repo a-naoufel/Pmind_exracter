@@ -1,0 +1,9 @@
+PERSON: PHILIPPUS de Layo
+Also known as: Philippus de LAYO; Philippus LAYACO.
+Description: Bedeau de la Faculté de Médecine.
+Status: Suppôt.
+Gender: male.
+Active during: %1331-1332%.
+Studied at: Paris.
+University functions: Paris (Faculté de médecine : bedeau)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 28/12/2019..

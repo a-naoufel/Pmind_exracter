@@ -1,0 +1,14 @@
+PERSON: PETRUS de Villaribus 2
+Also known as: Petrus de VILLARIBUS.
+Description: Chanoine d’Évreux.
+Status: Étudiant.
+Gender: male.
+Active during: %1371-1388%.
+Born in: Picardie (L’Isle-Adam) ;.
+Diocese of origin: Diocèse de Beauvais ?.
+Studied at: Paris (Nation de Picardie ?) ;; Orléans ..
+Academic grades obtained: Étudiant ès arts (Paris) en ; ;; Étudiant (Orléans) en ; ;.
+Family relationships: Son père est Pierre de VILLIARS, grandmaître de France ; Sa mère est Jeanne de BEAUVAIS, dame de Macy ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine d’Évreux ;; Archidiacre du Neubourg ;; Chanoine d’Orléans %1374-1388% ;; Archidiacre du Sologne %1374-1388% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 23/03/2023)..

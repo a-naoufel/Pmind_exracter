@@ -1,0 +1,12 @@
+PERSON: CONRADUS de Aernem
+Also known as: Conradus de AERNEM.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1405-1405%.
+Born in: Pays-Bas (Gueldre : Arnhem) ?.
+Diocese of origin: Diocèse d’Utrecht..
+Studied at: Paris (Nation Anglo-allemande ..
+Academic grades obtained: Maître ès arts (Paris) en ..
+University functions: Paris (Nation Anglo-allemande : maître-régent, il est élu en (22 février) "temptator bachellariorum") ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/12/2024)..

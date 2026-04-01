@@ -1,0 +1,10 @@
+PERSON: X Baillet 1
+Also known as: ... BAILLET.
+Description: Notaire.
+Status: Extérieur.
+Gender: male.
+Active during: %1411-1411%.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Peut-être membre de la famille Baillet, dont plusieurs membres appartiennent au Parlement de Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 25/11/2020)..

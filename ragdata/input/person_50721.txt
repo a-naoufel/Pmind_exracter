@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Blesensis 2
+Also known as: Guillelmus BLESENSIS; Guillaume de BLOIS; William of BLOIS.
+Description: Évêque de Lincoln.
+Status: Maître.
+Gender: male.
+Active during: %1169-1206%.
+Born in: Blois ?.
+Studied at: Paris..
+Academic grades obtained: Magister (Paris) ;.
+Social origin: Noble ?.
+Ecclesiastical positions held: Recteur de Durham (Saint-Nicholas) ;; Préchantre de Lincoln ;; Évêque de Lincoln %1203-1206%..
+University functions: Paris : il enseigne dans les écoles parisiennes au témoignage de Gerardus WALLENSIS ;.
+Source: ODNB (David SMITH) ;.

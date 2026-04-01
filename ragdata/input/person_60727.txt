@@ -1,0 +1,11 @@
+PERSON: BLANCARDUS de Nivella
+Also known as: Blancardus de NIVELLA.
+Description: Chanoine de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1270-1275%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Cambrai %1270-1275% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/12/2025)..

@@ -1,0 +1,9 @@
+PERSON: ADAM de Harly
+Also known as: Adam de HARLY.
+Description: Nuntius..
+Status: Suppôt.
+Gender: male.
+Active during: %1483-1483%.
+Studied at: Paris (Nation de Picardie)..
+University functions: Paris (Nation de Picardie : nuntius pour le diocèse de Arras, admis en (5 avril))..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

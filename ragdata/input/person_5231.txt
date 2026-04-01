@@ -1,0 +1,10 @@
+PERSON: HUGO de Godarville
+Also known as: Hugo de GODARVILLE; Hugues de GODARVILLE.
+Description: Boursier artien au Collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1352-1352%.
+Studied at: Paris (Collège de Navarre) %1352-1352%..
+Academic grades obtained: Étudiant ès arts (Paris) ..
+College affiliation: Boursier artien au Collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 01/09/2022..

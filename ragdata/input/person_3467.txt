@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Cadioci
+Also known as: Guillelmus CADIOCI; Guillaume CADIOCI.
+Description: Licencié en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1410-1412%.
+Studied at: Paris (Nation de France) %1410-1412%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 01/03/2022)..

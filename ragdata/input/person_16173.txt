@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS Farenboult
+Also known as: Aegidius FARENBOULT.
+Description: Maître ès arts..
+Status: Maître.
+Gender: male.
+Active during: %1477-1477%.
+Diocese of origin: Diocèse de Liège..
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+University functions: Paris (Nation de Picardie : examinateur en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 05/05/2020)..

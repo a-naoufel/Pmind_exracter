@@ -1,0 +1,10 @@
+PERSON: LAURENTIUS de Potetaria
+Also known as: Laurentius de POTETARIA; Laurentius de POTERIA.
+Description: Maître en décret.
+Status: Maître.
+Gender: male.
+Active during: %1272-1280%.
+Studied at: Paris (Faculté de Décret) ..
+Academic grades obtained: Maître en décret (Paris) avant .; Licencié en décret (Paris) en ;.
+University functions: Paris (Faculté de Décret : Maître régent en droit canon en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/04/2025)..

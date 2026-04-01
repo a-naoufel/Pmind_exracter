@@ -1,0 +1,36 @@
+PERSON: ADENULPHUS de Anania
+Also known as: Adenulphus de ANANIA; Adénulphe d'ANAGNI.
+Description: Évêque-élu de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1249-1289%.
+Born in: Italie (Latium : Anagni)..
+Diocese of origin: Diocèse d'Anagni..
+Studied at: Paris %:1272-1285%.
+Academic grades obtained: Maître ès arts (Paris) ;; Maître en théologie (Paris) ..
+Family relationships: Son onclematernel est GREGOIRE IX..
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine de Lincoln, %1237-1289% ;; Chanoine de Paris au chapitre de Notre-Dame, %1249-1289% ;; Chanoine de Reims en ;; Chanoine de Bayeux, %1259-1264% ;; Chanoine d'York, %1264-1289% ;; Prévôt de Saint-Omer, %1264-1273%..
+University functions: Paris (Faculté Théologie : maître-régent depuis sans doute, sûrement en %1282-1285%..
+Authored work: '[Sermon pour la Nativité de la Sainte Vierge]', composed around .
+Authored work: '[Sermon pour la Nativité de la Sainte Vierge]', composed around ?.
+Authored work: '[Sermon pour la fête de Sainte Catherine]', composed around , pour la fête de Sainte CATHERINE..
+Authored work: '[Sermon pour le 2e dimanche de l'Avent]', composed around .
+Authored work: '[Sermon pour la Purification]', composed around .
+Authored work: '[Sermon pour la fête de Sainte Catherine]', composed around ? pour la fête de Sainte CATHERINE..
+Authored work: '[Sermon pour la fête de Saint Dominique]', composed around ? pour la fête de Saint DOMINIQUE..
+Authored work: '[Sermon ou principium]', composed around ?.
+Authored work: '[Sermon]', composed around ?.
+Authored work: '[Sermon]', composed around ?.
+Authored work: '[Sermon]', composed around ?.
+Authored work: '[Sermon]', composed around ?.
+Authored work: '[Sermon]', composed around ?.
+Authored work: 'Notulae super librum Topicorum (R.1 et R.2)', composed around à Paris.
+Authored work: 'Quodlibets 18 q.', composed around .
+Authored work: '[Scriptum super libros Posteriorum]', composed around ?.
+Authored work: 'Summa causarum de facto et usu curie', composed around ?%1245-1249%.
+Authored work: 'Comm. in Acta apostolorum', composed around ?.
+Authored work: 'Comm. in Psalmos', composed around ?.
+Authored work: 'Comm. in Sententias', composed around ?.
+Authored work: 'Glossae in Hippocratis Aphorismos', composed around ?.
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

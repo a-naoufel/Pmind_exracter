@@ -1,0 +1,11 @@
+PERSON: STEPHANUS de Hamello
+Also known as: Stephanus de HAMELLO.
+Description: Chanoine d'Auxerre.
+Status: Étudiant.
+Gender: male.
+Active during: %1397-1407%.
+Studied at: Paris.
+Academic grades obtained: Étudiant (Paris) ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d'Auxerre %1397-1407%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 20/06/2025)..

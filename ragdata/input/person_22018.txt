@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Thurelli
+Also known as: Guillelmus THURELLI; Guillaume TUREL.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1383-1396%.
+Studied at: ?.
+Academic grades obtained: Magister..
+Ecclesiastical positions held: Chanoine de Reims %1383-1396% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 03/06/2022)..

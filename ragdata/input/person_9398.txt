@@ -1,0 +1,9 @@
+PERSON: NICOLAUS de Ateneyo
+Also known as: Nicolaus de ATENEYO.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ;.
+Religious order: Régulier ;.

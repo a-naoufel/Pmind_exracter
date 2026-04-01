@@ -1,0 +1,10 @@
+PERSON: FRANCISCUS 3
+Also known as: FRANCISCUS.
+Description: Hostularius de Saint-Victor.
+Status: Suppôt.
+Gender: male.
+Active during: %1331-1331%.
+Studied at: ?Paris..
+Academic grades obtained: ?.
+Religious order: ?Chanoinerégulier de Paris (Saint-Victor) en en tant qu'hostularius ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière mise à jour Jean-Philippe Genet, 7/04/2020..

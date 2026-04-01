@@ -1,0 +1,21 @@
+PERSON: ACARDUS de Sancto Victore
+Also known as: Achard de SAINT-VICTOR.
+Description: Abbé de Saint-Victor.
+Status: Maître.
+Gender: male.
+Active during: %1125-1171%.
+Born in: Angleterre..
+Studied at: Paris (école de Saint-Victor)..
+Academic grades obtained: Magister..
+College affiliation: Saint-Victor..
+Academic relationships: Son maître est Hugues de SAINT-VICTOR..
+Religious order: O.S.A. : chanoinerégulier (augustin) de Saint-Victor..
+Religious functions: Abbé de Saint-Victor en %1155-1161% : il est le second abbé..
+Ecclesiastical positions held: Évêque d'Avranches %1161-1171%..
+University functions: Paris (École de Saint-Victor : il a sans doute été l'un des maîtres enseignant à l'école de Saint-Victor)..
+Authored work: 'De tentatione Domini in Deserto', composed around ?.
+Authored work: 'De discretione animae, spiritus et mentis', composed around ?.
+Authored work: 'Sermones (15)', composed around ?.
+Authored work: 'De trinitate', composed around ?.
+Authored work: 'De unitate (Dei) et pluralitate creaturarum', composed around ?.
+Source: MIRABILE (MEL) :.

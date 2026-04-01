@@ -1,0 +1,10 @@
+PERSON: CAROLUS de Gaucourt
+Also known as: Charles de GAUCOURT.
+Description: Lieutenant du Roi.
+Status: Extérieur.
+Gender: male.
+Active during: %1472-1482%.
+Born in: Berry..
+Family relationships: Son père est Raoul de GAUCOURT ; Sa mère est Jeanne de PREUILLY ; Son fils est Charles II de GAUCOURT ; Son fils est Jean de GAUCOURT, évêque d'Amiens ; Son fils est Louis de GAUCOURT, évêque d'Amiens ;.
+Social origin: Noble..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/04/2021)..

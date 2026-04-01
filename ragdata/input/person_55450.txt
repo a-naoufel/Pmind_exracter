@@ -1,0 +1,11 @@
+PERSON: LAURENTIUS 5
+Also known as: LAURENTIUS.
+Description: Chanoine.
+Status: Incertain.
+Gender: male.
+Active during: %1288-1288%.
+Born in: Danemark.
+Studied at: ?.
+Academic grades obtained: Magister (?), avant ;.
+Ecclesiastical positions held: Chanoine de Roskilde, ;; ?Chanoine de Lund;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Élisabeth Mornet, 08/03/2023..

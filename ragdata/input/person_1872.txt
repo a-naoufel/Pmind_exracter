@@ -1,0 +1,10 @@
+PERSON: DAVID Ap Bledyn
+Also known as: DAVID; DAFYDD Ap BLEDYN.
+Description: Evêque de St.-Asaph.
+Status: Extérieur.
+Gender: male.
+Active during: %1314-1346%.
+Born in: ?Angleterre (Pays de Galles) ?.
+Studied at: ?.
+Ecclesiastical positions held: Evêque de Saint-Asaph %1314-1352%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 04/04/2021.

@@ -1,0 +1,14 @@
+PERSON: BERNARDUS de Oratorio
+Also known as: Bernardus de ORATORIO.
+Description: Docteur en droit canon.
+Status: Maître.
+Gender: male.
+Active during: %1369-1391%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse de Saint-Flour..
+Studied at: Bologne %1369-1369% ;; Paris %1378-1391%..
+Academic grades obtained: Étudiant en droit canon (Bologne) ;; Bachelier en décret (Paris) ;; Docteur en décret (Paris) ..
+Religious order: Clunisien : monastère de Lavoute-Chilhac (diocèse de Saint-Flour)..
+Religious functions: O. Clun. : moine de Lavoute-Chilhac (diocèse de Saint-Flour) en ;; Foris decanus du prieuré de Sauxillanges (diocèse de Clermont-Ferrand) jusqu'en ;; Prieur de Salgue (diocèse de Mende) entre %1369-1385% ;; Candidat à des bénéfices à la collation du monastère de Cluny sur un rotulus de l'Université en ;; Candidat à des bénéfices sur un rotulus de la Faculté de Décret en juillet ..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales en troisième année, "de consideratione" d'URBAIN V, en ) ;; Paris (Université : Procureur de l'Université lors du procès du chancelier Johannes BLANCHART le 14 avril ) ;; Paris (Faculté de Décret : Maître régent en %1384-1387%) ;; Paris (Faculté de Décret : Maître régent en %1390-1391%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Claire Priol-Hoogland et Anne Torneroux ; Jean-Philippe Genet, dernière mise à jour 1/02/2021)..

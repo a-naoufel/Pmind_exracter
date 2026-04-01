@@ -1,0 +1,11 @@
+PERSON: PETRUS de Platea
+Also known as: Pierre de LAPLACE; Pierre DELAPLACE; Petrus de PLATEA.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1475-1513%.
+Studied at: Paris %1475-1498%..
+Academic grades obtained: Étudiant en médecine (Paris) %1475-1476% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Ecclesiastical positions held: Chanoine de Rouen en ..
+University functions: Maître régent de la Paris (Faculté de médecine : Maître-régent, %1482-1498%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux : révision, Jean-Philippe Genet, dernière mise à jour 19/10/2023)..

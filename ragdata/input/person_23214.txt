@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Danes
+Also known as: Guillelmus DANES.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1453-1454%.
+Born in: Île-de-France (Paris ?) ?.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 04/03/2022..

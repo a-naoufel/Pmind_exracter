@@ -1,0 +1,16 @@
+PERSON: GALTERIUS Jorz
+Also known as: WALTER de JORZ.
+Description: Archevêque d'Armagh.
+Status: Extérieur.
+Gender: male.
+Active during: %1300-1321%.
+Born in: Angleterre (Nottinghamshire ?)..
+Studied at: Oxford..
+Academic grades obtained: ?.
+Family relationships: Son frère est le Cardinal Thomas de JORZ..
+Religious order: O.P. : frère dominicain du couvent (dominicain) d'Oxford %1301-1302%..
+Ecclesiastical positions held: Archevêque d'Armagh %1307-1311%..
+Authored work: 'Promptuarium Theologiae', composed around ?.
+Authored work: 'De peccatis in genere', composed around ?.
+Authored work: 'Quaestiones variae', composed around ?.
+Source: ODNB :.

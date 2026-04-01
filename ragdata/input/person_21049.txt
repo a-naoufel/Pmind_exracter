@@ -1,0 +1,10 @@
+PERSON: PETRUS Luillier
+Also known as: Petrus LUILLIER.
+Description: Maître de l'Hôtel-Dieu.
+Status: Suppôt.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris avant ..
+Academic grades obtained: ?.
+Ecclesiastical positions held: Maître de l'Hôtel-Dieu ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/08/2016..

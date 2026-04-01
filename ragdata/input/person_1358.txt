@@ -1,0 +1,14 @@
+PERSON: BERNARDUS Cariti
+Also known as: Bernardus CARITI.
+Description: Évêque d'Evreux.
+Status: Extérieur.
+Gender: male.
+Active during: %1348-1383%.
+Born in: Quercy ?.
+Diocese of origin: Diocèse de Cahors..
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son oncle est Bertrandus CARITI, archidiacre d'Eu qui est mort en ; Son parent est Guillelmus CARITI, chanoine de Rouen, qui est mort en ..
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine de Lavaur ;; Curé de Paris (Saint-Séverin) ;; Chanoine de Paris (Notre-Dame) %1359-1376% ;; Chanoine de Rouen %1352-1376% ;; Chanoine de Lisieux ;; Chanoine de Lisieux ;; Chanoine de Seclin (Saint-Piat) ;; Chanoine de Bayeux %1353-1376% ;; Chanoine d'Évreux %1353-1376% ;; Chanoine de Meaux ;; Archidiacre d'Eu (cathédrale de Rouen) %1373-1376% ;; Évêque d'Évreux %1376-1383%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/01/2021..

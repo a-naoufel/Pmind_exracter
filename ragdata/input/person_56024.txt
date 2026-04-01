@@ -1,0 +1,11 @@
+PERSON: PETRUS Colini 2
+Also known as: Petrus COLINI.
+Description: Chantre de Troyes.
+Status: Incertain.
+Gender: male.
+Active during: %1485-1508%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Curé de Siviriez (diocèse de Lausanne) % -1488% ;; Chanoine de Maurienne % -1488% ;; Chanoine de Troyes %1485-1508% ;; Chantre de Troyes %1488-1508% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 14/05/2023..

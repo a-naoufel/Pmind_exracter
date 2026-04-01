@@ -1,0 +1,10 @@
+PERSON: THOMAS Faverel 2
+Also known as: Thomas FAVEREL.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1490-1512%.
+Studied at: Paris..
+Academic grades obtained: Licence en théologie (Paris) (9 mai) ;; Maître en théologie (Paris) (16 janvier) ;.
+College affiliation: Sorbonne : socius %1501-1507% ;; Sorbonne : librarius %1500-1505% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 27/12/2023..

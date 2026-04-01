@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Hueti
+Also known as: Guillelmus HUETI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1430-1430%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) en ..
+University functions: Paris (Faculté de Théologie : témoin de la renonciation publique à ses erreurs par le dominicain Johannes SARRACENI en (30 mars) dans l'hôtel de l'évêque de Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 30/09/2022..

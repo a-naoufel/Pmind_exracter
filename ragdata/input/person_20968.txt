@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Albi
+Also known as: Nicolaus ALBI.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+Family relationships: Son parent est peut-être Johannes ALBI qui s'acquitte de sa quote-part en même temps que lui..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/08/2016..

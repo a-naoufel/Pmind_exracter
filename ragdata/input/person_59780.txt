@@ -1,0 +1,11 @@
+PERSON: GEORGIUS Thym
+Also known as: Georgius THYM.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1480-1480%.
+Born in: Franconie ;.
+Diocese of origin: Diocèse de Bamberg ;.
+Studied at: Paris (Nation Anglo-allemande) ;.
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 12/09/2025..

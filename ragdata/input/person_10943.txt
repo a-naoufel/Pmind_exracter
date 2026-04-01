@@ -1,0 +1,9 @@
+PERSON: ROBERTUS Majoris 2
+Also known as: Robert MAJORIS; Robertus MAJORIS; Robert LEMAIRE.
+Description: Licencié en médecine..
+Status: Gradué.
+Gender: male.
+Active during: %1424-1430%.
+Studied at: Paris (Nation de Picardie) %1424-1430%..
+Academic grades obtained: Maître ès arts (Paris) ?; Étudiant en médecine (Paris) %1424-1425% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 29/11/2021..

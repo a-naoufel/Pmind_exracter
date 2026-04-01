@@ -1,0 +1,10 @@
+PERSON: ANTHONIUS Bonefidei
+Also known as: Antonius BONEFIDEI.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1456-1456%.
+Born in: Auvergne..
+Diocese of origin: Diocèse de Saint-Flour..
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..

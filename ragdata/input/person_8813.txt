@@ -1,0 +1,12 @@
+PERSON: MARTINUS Cautes
+Also known as: Martinus CALITAS; Martin CAUTES.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1440-1440%.
+Born in: Moravie ?.
+Diocese of origin: Diocèse d'Olomouc..
+Studied at: Paris ;; Montpellier avant ..
+Academic grades obtained: Maître ès arts (Paris) ;; Licencié en médecine (Montpellier) ;; Bachelier en théologie ;; Maître en médecine (Paris) ..
+Ecclesiastical status: Clerc du diocèse d'Olomouc..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 11/09/2023)..

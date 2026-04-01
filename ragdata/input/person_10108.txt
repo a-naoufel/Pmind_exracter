@@ -1,0 +1,11 @@
+PERSON: PETRUS de Erdeto
+Also known as: Petrus de ERDETO.
+Description: Étudiant..
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Born in: Picardie ;.
+Studied at: Paris (Nation de Picardie) %1329-1330% ;.
+Academic grades obtained: Étudiant (Paris.).
+College affiliation: Paris (Collège des Cholets) %1329-1330%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/02/2024..

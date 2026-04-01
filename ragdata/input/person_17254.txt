@@ -1,0 +1,9 @@
+PERSON: CAROLUS Godeau
+Also known as: Karolus GODEAU.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris..
+Academic grades obtained: Maître (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 05/04/2021..

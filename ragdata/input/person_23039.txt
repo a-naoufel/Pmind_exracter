@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Chaucon
+Also known as: Guillelmus CHAUCON; G. CHAUCON.
+Description: Chanoine de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1296-1296%.
+Studied at: Paris en ;.
+Academic grades obtained: Magister (Paris) ;.
+Ecclesiastical positions held: Chanoine de Paris.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 2/03/2022..

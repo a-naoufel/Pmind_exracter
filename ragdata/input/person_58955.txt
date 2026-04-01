@@ -1,0 +1,11 @@
+PERSON: THEOBALDUS 9
+Also known as: THEOBALDUS.
+Description: Évêque de Chalon.
+Status: Incertain.
+Gender: male.
+Active during: %1261-1265%.
+Born in: Champagne ?.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical positions held: Chanoine de Troyes ?; Évêque de Chalon %1262-1265% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/05/2025..

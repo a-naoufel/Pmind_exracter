@@ -1,0 +1,11 @@
+PERSON: HEBERTUS de Sarcellis
+Also known as: Hebertus de SARCELLIS.
+Description: Docteur en décret.
+Status: Maître.
+Gender: male.
+Active during: %1358-1364%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) ;; Docteur en décret (Paris) ;; Licencié ès lois ..
+Ecclesiastical positions held: Candidat à un canonicat avec expectative de prébende, ou à un personnat ou à un office avec ou sans cura animarum dans l'église de Chartres sur le rotulus facultatis decretorum Parlsiensis de (23 novembre) ;.
+University functions: Paris (Faculté des Arts : l'un des témoins de l'accord sur leurs limites respectives entre la Nation Anglo-allemande et la Nation de Picardie en (12 juillet)) ;; Paris (Faculté de Décret : Doyen en %1362-1364%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/06/2022)..

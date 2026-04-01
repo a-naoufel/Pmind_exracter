@@ -1,0 +1,11 @@
+PERSON: BERARDUS de Serris
+Also known as: Berardus de SERRIS; Bernardus de SERRIS; Beraldus de SENIS.
+Description: Chanoine de Poitiers.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1349%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant en décret %1313-1321%..
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine de Bayeux %1313-1317% ;; Sous-doyen de Bayeux %1313-1317% ;; Chanoine de Poitiers %1313-1349% ;; Chévecier de Besançon %1314-1349% ;; Chanoine de Tolède %1313-1317% ;; Chanoine d'Agen ;; Prévôt d'Agen (Saint-Caprais) %1317-1341% ;; Chanoine de Padoue %1317-1327% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 13/01/2021).

@@ -1,0 +1,8 @@
+PERSON: SIMON Bourdon
+Also known as: Simon BOURDON.
+Description: Bourgeois de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1387-1387%.
+Studied at: Paris ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 4/08/2021..

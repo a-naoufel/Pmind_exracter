@@ -1,0 +1,7 @@
+PERSON: EPIPHANIA la Coumie
+Also known as: Epiphanie la COUMIE; Epiphanie LACOUMIE.
+Description: Propriétaire d'une maison.
+Status: Extérieur.
+Gender: female.
+Active during: %1287-1287%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/07/2021)..

@@ -1,0 +1,11 @@
+PERSON: GARNERIUS Mouret
+Also known as: Garnerus MOURET.
+Description: Chanoine d'Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1236-1240%.
+Studied at: ?.
+Academic grades obtained: Magister..
+Ecclesiastical status: Sous-diacre ;.
+Ecclesiastical positions held: Chanoine d'Amiens %1236-1240% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/11/2021..

@@ -1,0 +1,11 @@
+PERSON: HENRICUS de Reresby
+Also known as: Henricus de RERESBY; Henri de RERESBY.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1210-1229%.
+Born in: Angleterre..
+Studied at: Paris %:1210:-1229%..
+Academic grades obtained: Étudiant ès arts (Paris) ;; Maître ès arts (Paris) %1210-1229%..
+Religious order: O.F.M. : frère franciscain ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire PRIOL dernière mise à jour 29/04/2014..

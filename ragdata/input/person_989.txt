@@ -1,0 +1,10 @@
+PERSON: ARNALDUS de Beverhen
+Also known as: Arnaldus de BEVERHEN; Arnoldus de BEVERHEN.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1355-1355%.
+Studied at: Paris ()..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Academic relationships: Son maître est le Magister ALBERTUS..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 29/10/2020)..

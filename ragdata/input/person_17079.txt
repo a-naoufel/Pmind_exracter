@@ -1,0 +1,12 @@
+PERSON: ANTHONIUS Michaelis
+Also known as: Anthonius MICHAELIS.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Born in: Pays-Bas ?.
+Diocese of origin: Diocèse d'Utrecht ?.
+Studied at: Paris (Nation Anglo-allemande) ?.
+Academic grades obtained: Étudiant (Paris) en ?.
+Family relationships: Son parent est peut-être Galienus MICHAELIS qui s'acquitte de sa taxe en même temps que lui : dans ce cas, il serait un étudiant de la nation Anglo-allemande et originaire du diocèse d'Utrecht ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 9/10/2020)..

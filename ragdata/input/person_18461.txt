@@ -1,0 +1,11 @@
+PERSON: STEPHANUS Fabri
+Also known as: Stephanus FABRI; Étienne LEFEVRE.
+Description: Préchantre d’Amiens ?.
+Status: Maître.
+Gender: male.
+Active during: %1447-1467%.
+Studied at: Paris..
+Academic grades obtained: Maître (Paris) ?.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine d’Amiens %1447-1467% ;; Préchantre d’Amiens %1456-1467% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/11/2021..

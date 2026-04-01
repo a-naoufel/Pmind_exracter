@@ -1,0 +1,14 @@
+PERSON: GUIDO de Caroli Loco
+Also known as: Guido de CAROLI LOCO; Guy de CHARLIEU; Guy de CHERLIEU.
+Description: Abbé de Cherlieu.
+Status: Incertain.
+Gender: male.
+Active during: %1132-1158%.
+Studied at: ?.
+Academic grades obtained: Magister..
+Religious order: O. Cist. : moine (cistercien) de Clairvaux..
+Religious functions: Abbé (cistercien) de Cherlieu (1132-1158)..
+Authored work: 'Cantum quem cisterciensis ordinis', composed around ?.
+Authored work: 'Regulae de arte musica', composed around ?.
+Authored work: 'Regulae organi', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

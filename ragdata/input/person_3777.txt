@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Cabocardi
+Also known as: Guillelmus CABOCARDI.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1379-1379%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris (Nation de Normandie ?)..
+Academic grades obtained: Étudiant ès arts (Paris) ;.
+Ecclesiastical positions held: Clerc du diocèse de Rouen.; Candidat à un bénéfice sur le rotulus baccalareorum et scolarium in art. studii Paris. en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 01/03/2022)..

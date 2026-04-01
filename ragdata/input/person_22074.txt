@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Fabri 7
+Also known as: Guillermus FABRI; Guillaume LEFEVRE.
+Description: Chanoine de Noyon.
+Status: Incertain.
+Gender: male.
+Active during: %1413-1415%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical positions held: Chanoine de Reims %1413-1415% ;; Chanoine de Noyon %1415- % ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 1/09/2020..

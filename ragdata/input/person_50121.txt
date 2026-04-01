@@ -1,0 +1,12 @@
+PERSON: HENRICUS de Insula 1
+Also known as: Henry de INSULA.
+Description: Magister.
+Status: Extérieur.
+Gender: male.
+Active during: %1295-1330%.
+Born in: Angleterre..
+Studied at: Oxford ?.
+Academic grades obtained: Magister en ?.
+Ecclesiastical positions held: Recteur de Boddington (Northamptonshire) %1295-1306% ;; Recteur de WestHarptree (Somerset) %1314-1323% ;; Vicaire de Congresbury (Somerset) %1323-1330% au moins..
+Other ecclesiastical functions: Receveurdel'évêque de BathandWells %1311-1315%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 05/09/2019..

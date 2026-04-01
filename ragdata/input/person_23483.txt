@@ -1,0 +1,10 @@
+PERSON: REGINALDUS de Treloup
+Also known as: Regnaud de TRELOUP.
+Description: Hôte du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1384-1384%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Dormans-Beauvais : hôte ;.
+Source: LAMOP : Opération Charles VI (n° 2477) :.

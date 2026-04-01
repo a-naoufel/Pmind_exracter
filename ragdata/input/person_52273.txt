@@ -1,0 +1,10 @@
+PERSON: PETRUS Bougrini
+Also known as: Pierre BOUGRINI.
+Description: Boursier du Collège de Montaigu.
+Status: Étudiant.
+Gender: male.
+Active during: %1410-1410%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Montaigu : boursier jusqu’en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/04/2021..

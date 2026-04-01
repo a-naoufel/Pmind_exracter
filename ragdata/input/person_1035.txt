@@ -1,0 +1,9 @@
+PERSON: ARNALDUS Bouret
+Also known as: Arnoul BOURET.
+Description: Bachelier en médecine.
+Status: Gradué.
+Gender: male.
+Active during: %1331-1331%.
+Studied at: Paris %1331-1331%.
+Academic grades obtained: Bachelier en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet 21/10/2020)..

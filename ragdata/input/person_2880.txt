@@ -1,0 +1,12 @@
+PERSON: GERARDUS de Bruxeriis
+Also known as: Gerardus de BRUXERIIS; Gérard de BUSSIERES.
+Description: Cistercien.
+Status: Étudiant.
+Gender: male.
+Active during: %1364-1366%.
+Studied at: Paris..
+Academic grades obtained: Étudiant en théologie (Paris)..
+College affiliation: Collège Saint-Bernard..
+Religious order: Cistercien : monastère (cistercien) de Clairvaux..
+Religious functions: Abbé (Cistercien) de Trois-Fontaines %1364- %..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 26/07/2021..

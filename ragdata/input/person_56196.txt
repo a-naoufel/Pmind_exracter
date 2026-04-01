@@ -1,0 +1,9 @@
+PERSON: PETRUS Laurensoni
+Also known as: Petrus LAURENSONI.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1445-1446%.
+Studied at: Dole ;; Paris (Nation de France) %1445-1446%..
+Academic grades obtained: Bachelier ès arts (Dole) ;; Bachelier ès arts (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/06/2023..

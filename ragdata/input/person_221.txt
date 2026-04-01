@@ -1,0 +1,16 @@
+PERSON: AEGIDIUS de Duraemortis
+Also known as: Aegidius de DURAEMORTIS; Aegidius de DUREMONT; Aegidius de DUREMORT; Aegidius de DUREMORTIS; Aegidius de BELLOBECCO.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1403-1444%.
+Born in: Normandie (Rouen)..
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris %1403-1431%.
+Academic grades obtained: Bachelier en théologie formatus in theologia (Paris) ;; Licencié en théologie (Paris) ;; Docteur en théologie (Paris) ..
+College affiliation: Collège des Bernardins ?.
+Religious order: Cistercien : monastère (cistercien) de Beaubec..
+Religious functions: Abbé du monastère (cistercien) de Beaupré en ;; Abbé du monastère (cistercien) de Beaubec, %1413-1423% ;; Abbé du monastère (bénédictin) de Fécamp en ..
+University functions: Maître-régent à la faculté de théologie de Paris, %1423-1424% ;; Maître-régent à la faculté de théologie de Paris, %1424-1425% ;; Paris (Faculté de Théologie : Lecteur le jour précédent Noël en ) ;.
+Representation roles: Représentant, avec d'autres, chargé de défendre les libertés de l'Ordre cistercien à la Curie à Rome en ;; Ambassadeur du roi d'Angleterre chargé de négocier la paix avec le roi de France en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol et Anne Tournieroux ; révision, Jean-Philippe Genet, 27/04/2020)..

@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Rivopullo
+Also known as: Guillelmus de RIVOPULLO.
+Description: Maître en théologie cistercien.
+Status: Extérieur.
+Gender: male.
+Active during: %1335-1336%.
+Studied at: Toulouse..
+Academic grades obtained: Maître en théologie (Toulouse ?) ;.
+Religious order: O. Cist. : moine (cistercien) du monastère de Poblet ;.
+University functions: Toulouse (Université : lecteur en théologie en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/05/2020..

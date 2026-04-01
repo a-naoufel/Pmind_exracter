@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Baghuys de Erfordia
+Also known as: Nicolaus BAGHUYS de Erfordia; Nicolas Baghuys de ERFORDIA; Nicolas BAGHUS; Nicolas BAGHUSER.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1409-1412%.
+Born in: Saxe (Thuringe : Erfurt))..
+Diocese of origin: Diocèse de Paderborn ?.
+Studied at: Paris %1409-1412% ;; Erfurt ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Étudiant (Erfurt) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 31/12/2018..

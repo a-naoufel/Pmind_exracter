@@ -1,0 +1,9 @@
+PERSON: AEGIDIUS de Mure
+Also known as: Gilles de MURE.
+Description: Étudiant en médecine.
+Status: Étudiant.
+Gender: male.
+Active during: %1398-1399%..
+Studied at: Paris %1398-1399%..
+Academic grades obtained: Étudiant en médecine (Paris) %1398-1399%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 29/04/2020)..

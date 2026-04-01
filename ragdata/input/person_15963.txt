@@ -1,0 +1,11 @@
+PERSON: DIONYSIUS Majoris
+Also known as: Dyonisius MAJORIS; Peut-être s'agit-il de la même personne que Denis LEMAIRE, dépensier du collège de Beauvsi-Dormans en ..
+Description: Bachelier en décret..
+Status: Gradué.
+Gender: male.
+Active during: %1426-1426%.
+Born in: Orléanais.
+Diocese of origin: Diocèse de Chartres..
+Studied at: Paris %1426-1426%..
+Academic grades obtained: Bachelier en décret (Paris) (le 22 mai) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 1/06/2021..

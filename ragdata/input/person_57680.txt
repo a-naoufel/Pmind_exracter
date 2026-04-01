@@ -1,0 +1,9 @@
+PERSON: NICOLAUS de Altysiodoro
+Also known as: Nicolaus de ALTYSIODORO.
+Description: Bourgeois de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1282-1282%.
+Social origin: Bourgeois de Paris..
+University functions: ?; Paris (Université : en 1282, Arlotto de PRATO, O.F.M., et Hugo AYCELIN de Billom, O.P., maîtres en théologie, quatre maîtres ès arts et deux bourgeois de Paris, Johannes QUIDERNOIE et Nicolaus de ALTYSIODORO sont chargés d'établir la taxatio domorum) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 30/03/2024..

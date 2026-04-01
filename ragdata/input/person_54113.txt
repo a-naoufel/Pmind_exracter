@@ -1,0 +1,12 @@
+PERSON: GUIDO de Rupe
+Also known as: Guido de RUPE; Guy de ROCHECHOUART.
+Description: Évêque de Saintes.
+Status: Extérieur.
+Gender: male.
+Active during: %1426-1460%.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son père est Aymery de ROCHECHOUART ; Sa mère est Jeanne d'ANGLE..
+Social origin: Noble..
+Ecclesiastical positions held: Évêque de Saintes %1426-1460% ;.
+Source: WIKIPEDIA ;.

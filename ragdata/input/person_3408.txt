@@ -1,0 +1,9 @@
+PERSON: GUIDO de Montefora
+Also known as: Guido de MONTEFORA.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1226-1226%.
+Studied at: ?Paris en ..
+Academic grades obtained: Magister ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 29/01/2022)..

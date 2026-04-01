@@ -1,0 +1,10 @@
+PERSON: REGINALDUS de Tuderto
+Also known as: Raynaldus de TUDERTO; Raynaldus CARROCI de Tuderto.
+Description: Chanoine de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1296-1319%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Poitiers %1296-1319% ;; Archiprêtre d’Ardin ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 19/11/2022..

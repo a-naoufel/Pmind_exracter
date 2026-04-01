@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Thierno 2
+Also known as: Guillermus de THIERNO.
+Description: Chanoine de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1399-1418%.
+Studied at: ?.
+Academic grades obtained: Licencié en droit canon ;.
+Family relationships: Son parent est peut-être Bertrandus de THIERNO ?.
+Ecclesiastical positions held: Chanoine de Clermont %1402-1418% ;; Prévôt de Clermont %1402-1418% ;.
+Other ecclesiastical functions: Vicairegénéral de Clermont ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 27/09/2023)..

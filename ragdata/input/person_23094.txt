@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Rector de Haricuria
+Also known as: GUILLELMUS, recteur de Harcourt.
+Description: Recteur d'Harcourt.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris en ..
+Academic grades obtained: Étudiant (Paris) ?.
+Ecclesiastical positions held: Recteur d'Harcourt..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 7/3/2018..

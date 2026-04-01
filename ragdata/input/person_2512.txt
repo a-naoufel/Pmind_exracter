@@ -1,0 +1,12 @@
+PERSON: GARINUS 4
+Also known as: GUARINUS; GARIN.
+Description: Maître en théologie ?.
+Status: Maître.
+Gender: male.
+Active during: %1311-1317%.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) ?%1316-1317%..
+University functions: Paris (Maître-régent ?%1311-1313%)..
+Authored work: 'Quaestiones disputatae', composed around ?.
+Authored work: 'Quodlibet', composed around ?.
+Source: MIRABILE :.

@@ -1,0 +1,9 @@
+PERSON: FIRMINUS Coquerel 1
+Also known as: Firminus COQUEREL; Firmin de COCQUEREL.
+Description: Prévôt de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1306-1322%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: http://www.parismoyenage.fr/ ;.

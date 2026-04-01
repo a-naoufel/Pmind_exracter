@@ -1,0 +1,9 @@
+PERSON: GALFREDUS Legal
+Also known as: Gaufridus LEGAL; Gaufridus le GAL.
+Description: Avocat.
+Status: Incertain.
+Gender: male.
+Active during: %1327-1336%.
+Studied at: ?Paris ()..
+Academic grades obtained: Magister ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 19/10/2019..

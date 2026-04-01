@@ -1,0 +1,8 @@
+PERSON: ODO de Sancto Mederico
+Also known as: Odo de SANCTO MEDERICO.
+Description: ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1202-1202%.
+Studied at: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/11/2023..

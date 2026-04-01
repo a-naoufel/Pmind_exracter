@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Curis
+Also known as: Guillelmus de CURES.
+Description: Recteur de l'Université de Paris..
+Status: Maître.
+Gender: male.
+Active during: %1466-1479%.
+Born in: Normandie..
+Studied at: Paris (Nation de Normandie) %1466-1479% ;.
+Academic grades obtained: Maître ès arts (Paris) ? ;; Étudiant en théologie (Paris) et ;; Licencié en théologie (Paris) (12 février) ..
+College affiliation: Collège du Trésorier : boursier ;; Collège du Trésorier : principal des artistes ;; Collège du Trésorier : boursier en théologie ;; Collège du Trésorier : boursier en théologie ;; Collège de Navarre : %1466-1479% ;; Collège de Navarre : maître-régent ;.
+University functions: Paris (Faculté des Arts : maître-régent au Collège de Navarra en ) ;; "Lector Ethicorum", entre le 4 mai et 18 janvier ;; Recteur de l'Université de Paris élu par la Faculté des Arts en mars ..
+Authored work: 'Lectura supra Summulas Petri Hispani', composed around ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 25/09/2020)..

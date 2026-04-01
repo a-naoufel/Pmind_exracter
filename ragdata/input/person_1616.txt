@@ -1,0 +1,11 @@
+PERSON: CHRISTIANUS Le Feré
+Also known as: Christianus LE FERÉ; Chrétien LE FERÉ.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1460-1469%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie), %1460-1469%..
+Academic grades obtained: Étudiant en médecine (Paris) %1460-1461% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+University functions: Paris (Faculté de médecine : Maîtrerégent jusqu'en %1468-1469%) :.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 08/04/2021..

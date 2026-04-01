@@ -1,0 +1,9 @@
+PERSON: HENRICUS de Gres
+Also known as: Henricus de GRES; Henri de GRES.
+Description: Maître en Droit à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1230-1230%.
+Studied at: Paris vers ..
+University functions: Maître en Droit à Paris, vers ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 18/07/2022..

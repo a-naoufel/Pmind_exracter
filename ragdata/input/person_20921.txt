@@ -1,0 +1,14 @@
+PERSON: NICOLAUS Hebert
+Also known as: Nicolaus HEBERT.
+Description: Étudiant.
+Status: Maître.
+Gender: male.
+Active during: %1464-1491%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris (Nation de Normandie) ..
+Academic grades obtained: Étudiant en (Paris) ?; Maître ès arts (Paris) ;.
+College affiliation: Collège du Trésorier : boursier ;.
+Ecclesiastical positions held: Vicaire de Pontoise %1481-1491% ??.
+University functions: Paris (Nation de Normandie : procureur en ) ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

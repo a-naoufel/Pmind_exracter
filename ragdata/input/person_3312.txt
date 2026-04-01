@@ -1,0 +1,12 @@
+PERSON: GRIMALDUS Oliverii
+Also known as: Grimaldus OLIVERII.
+Description: Sous-diacre.
+Status: Suppôt.
+Gender: male.
+Active during: %1387-1387%.
+Diocese of origin: Diocèse de Tournai..
+Studied at: Paris (Nation de Picardie)..
+Academic grades obtained: ?.
+Ecclesiastical positions held: Sous-diacre du diocèse de Tournai..
+University functions: Paris (Nation de Picardie : bedellus)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 14/01/2022..

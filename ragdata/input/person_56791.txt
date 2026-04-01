@@ -1,0 +1,12 @@
+PERSON: RAIMUNDUS de Mauregart
+Also known as: Raymundus de MAUREGART.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1453-1453%.
+Born in: Île-de-France.
+Diocese of origin: Diocèse de Paris ?.
+Studied at: Paris (Nation de France) ?.
+Academic grades obtained: Maître ès arts (Paris) avant ;; Bachelier en décret (Paris) avant ;.
+Family relationships: Son père est Nicolas de MAUREGART ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 08/11/2023..

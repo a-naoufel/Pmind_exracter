@@ -1,0 +1,19 @@
+PERSON: NATALIS Beda
+Also known as: Natalis BEDA; Noël BAIDE; Noël BAYDE; Noël BEYDE; Noël BÉDIER.
+Description: Principal du collège de Montaigu.
+Status: Maître.
+Gender: male.
+Active during: %1490-1537%.
+Born in: Normandie (Mont-Saint-Michel) ;.
+Diocese of origin: Diocèse d’Avranches ?.
+Studied at: Paris (Nation de Normandie)..
+Academic grades obtained: Maître ès arts (Paris).; Licencié en théologie (Paris) ;; Docteur en théologie (Paris) ;.
+College affiliation: Collège de Montaigu : boursier ;; Collège de Montaigu : principal ;.
+University functions: Paris (Faculté de Théologie : syndic %1520-1522%) ;.
+Authored work: 'La doctrine nécessaire aux chréstiens et chrestiennes', composed around ?.
+Authored work: 'La petite Dyablerie dont Lucifer est le chef …', composed around Écrit en collaboration avec Thomas WARNET..
+Authored work: 'Scholastica declaratio sententiae et ritus ecclesiae de unica Magdalena … contra magistrorum Jacobi Fabri et Jodci Clichtovi contheologi scripta'.
+Authored work: 'Apologia pro filiabus et nepotibus beatae Annae … contra maagistri Jacobi Fabri'.
+Authored work: 'Restitutio duarum propositionum necessitatem peccati'.
+Authored work: 'Annotationes Natalis Bede … in Jacobum Fabrum Stapulensem Libri duo …'.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

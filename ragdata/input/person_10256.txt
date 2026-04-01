@@ -1,0 +1,10 @@
+PERSON: PHILIPPUS 7
+Also known as: PHILIPPUS.
+Description: Boursier théologien au collège de Navarre..
+Status: Étudiant.
+Gender: male.
+Active during: %1352-1352%.
+Studied at: Paris (Collège de Navarre) %1352-1352%..
+Academic grades obtained: Étudiant en théologie (Paris) ..
+College affiliation: Boursier théologien au collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 29/03/2022)..

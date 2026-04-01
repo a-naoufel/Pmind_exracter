@@ -1,0 +1,23 @@
+PERSON: PETRUS de Corbolio
+Also known as: Petrus de CORBOLIO; Pierre de CORBEIL.
+Description: Archevêque de Sens.
+Status: Maître.
+Gender: male.
+Active during: %1183-1222%.
+Born in: Île-de-France (Corbeil ?)..
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris)..
+Family relationships: Son frère est Michael de CORBOLIO auquel il succède..
+Academic relationships: Son élève est le futur INNOCENT III..
+Social origin: Noble ?.
+Ecclesiastical positions held: Chanoine de Paris (Notre-Dame) en ;; Écolâtre de Paris.; Archidiacre d’York ;; Évêque de Cambrai %1199-1200% ;; Archevêque de Sens ..
+University functions: Paris (Maître enseignant la théologie vers ) ;; Chapelain de PHILIPPEAUGUSTE (sa présence est attestée en et en ?.
+Authored work: 'Comment. in Psalmos', composed around ?.
+Authored work: 'Comment. in epistolas Paul', composed around ?.
+Authored work: 'Summa', composed around ?.
+Authored work: 'Officium Festi Fatuorum', composed around ?.
+Authored work: 'Office liturgique pour la fête de l' Assomption', composed around ?.
+Authored work: 'Satira adversus eos qui uxorem ducunt', composed around ?.
+Authored work: 'Statuts', composed around %1216-1218% (Synode de Melun).
+Authored work: '(Sur l'armement du roi Othon)', composed around .
+Source: MIRABILE, Antonio PODOLAK :.

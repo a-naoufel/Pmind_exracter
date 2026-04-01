@@ -1,0 +1,10 @@
+PERSON: DESIDERIUS Herment
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1459-1482%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical status: Clerc ;.
+Ecclesiastical positions held: Chanoine de Châlons-en-Champagne %1459-1482% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 09/05/2021..

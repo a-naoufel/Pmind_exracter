@@ -1,0 +1,21 @@
+PERSON: GUILLELMUS de Nogareto
+Also known as: Guillelmus de NOGARETO; Guillaume de NOGARET.
+Description: Garde des sceaux du roi de France.
+Status: Extérieur.
+Gender: male.
+Active during: %1280-1313%.
+Born in: Languedoc (Saint-FélixdeCaraman) ;.
+Studied at: Montpellier ;.
+Family relationships: Son grand-père est Raymond de NOGARET :.
+Social origin: Noble ?.
+University functions: Montpellier (Faculté de Droit : professeur de droit civil en )..
+Representation roles: Mission auprès du roi de Majorque (octobre) ;; Mission à la Curie à Rome en (février) avec MUSCIATO dans le cadre d’une ambassade conjointe avec les ambassadeurs d’Albert de HABSBOURG, Jean de SIERCK, évêque de Toul, et le Comte Ludwig d’ÖTTINGEN ;; Mission en Italie en : parti à la fin du mois de mars sans avoir reçu l’appeler au Concile auquel PHILIPPE IV, roi de France ne se résoudra que lors du conseil élargi du 13-14 juin, il semble avoir résidé au château de Staggia, non loin de Sienne, restant à l’écart de toute agitation, au point que n’ayant aucune nouvelle de lui, le roi envoie Pierre de PARAY, O.S.B. porter au pontife (ou s’il ne peut être reçu, afficher aux portes des églises) son exigence de la réunion d’un concile et son appel à ce concile pour désigner un nouveau pape (mi-août). C’est lorsqu’il apprend le 2 septembre que BONIFACE VIII entendait promulguer le 8 septembre depuis Anagni une bulle d’excommunication contre le roi de France (Super Petri solio) qu’il se met en mouvement et rejoint Rinaldo da SUPINO, capitaine de Ferentino sur la route d’Anagni : la petite troupe rencontre alors (inopinément ou à la suite d’un accord, nul ne sait) celle de Sciarra COLONNA qui a rassemblé quelques rebelles et cherche à récupérer les biens de sa famille confisqués par le pape : dans la nuit du 6 au 7 septembre, les assaillants entrent dans la ville et le 7 Sciarra COLONNA prend d’assaut le palais pontifical : alors même que le pape est menacé de mort par les hommes des Colonna, Guillaume de NOGARET s’introduit le pape et devant les panneaux fleurelysés qu’il avait apporté, cite devant témoins le pape à convoquer le concile et à comparaître devant lui ; il se réfugie ensuite à Ferentino avant de gagner après la mort du pape les environs de Rome où il retrouve Pierre de PARAY et de rentrer en France ;.
+Authored work: '(Acte notarié contenant le discours prononcé au Louvre pour dénoncer les crimes de Boniface et demander la convocation d’un concile)', composed around (12 mars).
+Authored work: '(Mémoire He sunt protestationes de Nogaret publié par l’official de la cour)', composed around (7 septembre)..
+Authored work: '(Mémoire Crudelis)', composed around (septembre)..
+Authored work: '(Mémoire Ad informandas conscientias adressé à la commission cardinalice chargée de l’affaire Boniface)', composed around (mai-juin) à Poitiers ?.
+Authored work: 'Mémoire Cum in presentia pour le début du procès de Boniface', composed around (16-20 mars) à Avignon..
+Authored work: 'Articles présentés à Clément V par Guillaume de Nogaret et de Guillaume de Plaisians', composed around (22 mai)..
+Authored work: 'Articles présentés à Clément V par Guillaume de Nogaret et de Guillaume de Plaisians ; deuxième rédaction', composed around (mi-juin)..
+Authored work: 'Mémoire Cum iuxta doctrinam présenté par Guillaume de Nogaret et de Guillaume de Plaisians et inséré dans les actes du procès', composed around (3 août)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 14/04/2020)..

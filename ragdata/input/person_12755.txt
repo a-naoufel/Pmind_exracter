@@ -1,0 +1,11 @@
+PERSON: HIERONYMUS Le Cognoulx
+Also known as: Hieronymus LE COGNOULX.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1493-1493%.
+Studied at: Paris %1493-1493%..
+Academic grades obtained: Docteur en théologie avant ?.
+Religious order: O. Clun. : moine du monastère (clunisien) de Saint-Martin-des-Champs (diocèse de Paris)..
+University functions: Paris (Faculté de Théologie : maître-régent en ?) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 25/08/2022..

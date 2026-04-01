@@ -1,0 +1,9 @@
+PERSON: AELIBUS Unsus
+Also known as: Aelibus UNSUS.
+Description: Étudiant..
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris en ..
+Ecclesiastical positions held: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

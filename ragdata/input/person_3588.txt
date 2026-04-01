@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS de Busco 3
+Also known as: Guillelmus de BUSCO; Guillelmus de BUSCHO; Guillaume de BUSCO; Guillaume de BUSCHO.
+Description: Maître en médecine à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1400-1412%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Lisieux..
+Studied at: Paris (Nation de Normandie) %1400-1412%..
+Academic grades obtained: Étudiant en médecine (Paris) ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Ecclesiastical status: Clerc du diocèse de Lisieux..
+Ecclesiastical positions held: Candidat à un bénéfice sur le Magnus Rotulus de l’Université de Paris daté de (21 octobre) et présenté à BENOÎT XIII ;.
+University functions: Paris (Faculté de Médecine : régent, %1408-1412%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournierous ; révision, Jean-Philippe Genet, 8/12/2018..

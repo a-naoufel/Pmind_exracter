@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Viviani 1
+Also known as: Guillelmus VIVIANI.
+Description: Dominicain.
+Status: Gradué.
+Gender: male.
+Active during: %1384-1385%.
+Studied at: Paris %1384-1385%..
+Academic grades obtained: Bachelier en théologie (Paris) ;.
+College affiliation: Couvent (dominicain) de Paris (Cordeliers) %1384-1385%..
+Religious order: O.P. : frère dominicain ;.
+University functions: Paris (Faculté de Théologie : lecteur des Sentences ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 27/12/2021..

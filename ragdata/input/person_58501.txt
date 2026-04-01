@@ -1,0 +1,10 @@
+PERSON: MATTHAEUS de Naours
+Also known as: Matthaeus de NAOURS; Mahieu de NAOURS.
+Description: Boursier du collège du Cardinal-Lemoine.
+Status: Étudiant.
+Gender: male.
+Active during: %1344-1344%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ;.
+College affiliation: Collège du Cardinal-Lemoine : boursier en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/02/2025)..

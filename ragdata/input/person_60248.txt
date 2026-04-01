@@ -1,0 +1,8 @@
+PERSON: SAMERSINE la Cornue
+Also known as: Samersine LACORNUE.
+Description: Tisserande.
+Status: Extérieur.
+Gender: female.
+Active during: %1310-1310%.
+Family relationships: Sa sœur est HÉLISSENT ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

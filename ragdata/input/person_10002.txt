@@ -1,0 +1,7 @@
+PERSON: PETRUS Amator
+Also known as: Petrus AMATOR; Pierre AMADOUR.
+Description: Épicier à Paris..
+Status: Extérieur.
+Gender: male.
+Active during: %1322-1331%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 26/11/2022..

@@ -1,0 +1,11 @@
+PERSON: PETRUS de Remis 2
+Also known as: Pierre de REIMS.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1300-1300%.
+Studied at: Paris..
+Academic grades obtained: Magister.
+College affiliation: Saint-Victor ?.
+Religious order: Chanoinerégulier O.S.A. (Saint-Victor) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 4/02/2021)..

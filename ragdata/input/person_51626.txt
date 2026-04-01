@@ -1,0 +1,12 @@
+PERSON: REMIGIUS de Orbai
+Also known as: Rémi d’ORBAIS.
+Description: Patron du Collège de Dormans-Beauvais.
+Status: Incertain.
+Gender: male.
+Active during: %1400-1404%.
+Studied at: ?.
+Academic grades obtained: ?.
+College affiliation: Collège de Dormans-Beauvais : patron % -1404% ;; Collège de Dormans-Beauvais : auditeur des comptes %1400-1401% ;.
+Religious order: Chanoine O.S.A. ;.
+Religious functions: Abbé (O.S.A.) de Soissons (Saint-Jean-des-Vignes) % -1404%..
+Source: LAMOP : Opération Charles VI :.

@@ -1,0 +1,11 @@
+PERSON: EBRARDUS 5
+Also known as: EVRARDUS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1259-1264%.
+Studied at: Paris..
+Academic grades obtained: Magister (Paris) ;; Étudiant en théologie (Paris)..
+Ecclesiastical positions held: Curé de Bettembois (diocèse d'Amiens) en ;; Candidat à l'église de Pontivo (Saint-Médard) soit Domart-enPonthieu (Saint-Médard] en ;.
+University functions: Paris (Maître-Régent pendant 5 ans av.)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 24/06/2021..

@@ -1,0 +1,9 @@
+PERSON: PETRUS Le Charon
+Also known as: Petrus LE CHARON.
+Description: Bachelier ès arts.
+Status: Incertain.
+Gender: male.
+Active during: %1447-1447%.
+Studied at: ?; ?.
+University functions: Paris (Nation de France : il est fidéjusseur du bedeau ^Guillaume NAVET en (11 octobre) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/06/2023..

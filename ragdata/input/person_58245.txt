@@ -1,0 +1,13 @@
+PERSON: PETRUS de Verebel
+Also known as: Petrus de VAREBEL.
+Description: O.E.S.A..
+Status: Maître.
+Gender: male.
+Active during: %1366-1366%.
+Born in: Hongrie..
+Studied at: Paris ..
+Academic grades obtained: Maître en théologie (Paris) en ..
+College affiliation: Couvent (augustin) de Paris (Grands-Augustins) en ..
+Religious order: O.E.S.A. : frère augustin..
+University functions: Paris (Faculté de Théologie : lecteur au couvent augustin)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour, 21/11/2024..

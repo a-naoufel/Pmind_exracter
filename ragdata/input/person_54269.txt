@@ -1,0 +1,10 @@
+PERSON: PETRUS de Auvernia
+Also known as: Petrus de AUVERNIA.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1343-1343%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Sens (‘Notre-Dame’) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 22/09/2022..

@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Castronantonis
+Also known as: Guillelmus de CASTRONANTONIS.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1259-1285%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Jargeau ;; Chanoine d’Orléans (Saint-Aignan) ;; Chanoine de Saint-Omer ;; Chanoine de Sens (‘Saint-Pierre’) %1281-1285% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 25 octobre 2022..

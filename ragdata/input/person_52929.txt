@@ -1,0 +1,10 @@
+PERSON: REGINALDUS de Bulla
+Also known as: Reginaldus de BULLA; Reginaldus de BULLIS.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1269-1283%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chanoine de Rouen %1240-1265% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 10/11/2021..

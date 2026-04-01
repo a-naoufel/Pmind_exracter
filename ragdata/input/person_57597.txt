@@ -1,0 +1,10 @@
+PERSON: ROBERTUS de Courton
+Also known as: Robertus de COURTON.
+Description: Maître.
+Status: Incertain.
+Gender: male.
+Active during: %1272-1272%.
+Studied at: Naples..
+Academic grades obtained: Maître..
+University functions: Naples (Université : professeur vers ?) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 18/03/2024..

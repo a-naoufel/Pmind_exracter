@@ -1,0 +1,9 @@
+PERSON: X Cordierus
+Also known as: X CORDIERUS.
+Description: Imprimeur.
+Status: Suppôt.
+Gender: male.
+Active during: %1482-1482%.
+Studied at: Paris..
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 28/04/2021)..

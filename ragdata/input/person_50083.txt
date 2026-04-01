@@ -1,0 +1,17 @@
+PERSON: GUILLELMUS Autissiodorensis 3
+Also known as: Guillaume d'AUXERRE; Guillelmus AUTISSIODORENSIS..
+Description: Dominicain.
+Status: Incertain.
+Gender: male.
+Active during: %1273-1293%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse d’Auxerre ?.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant ?.
+College affiliation: Couvent (dominicain) de Paris ?.
+Religious order: O.P. : frère dominicain.
+Religious functions: PrieurdelaProvince (dominicaine) de France %1292-1293%..
+Authored work: 'Sermo ad Sanctum Antonium in die Circumcisionis, in mane', composed around (1er janvier) à Saint-Antoine..
+Authored work: 'Sermo ad Sanctum Gervasium, in dominica in octavam Epiphaniae, post prandium', composed around (8 janvier) à Saint-Gervais..
+Authored work: 'Sermo in dominica secunda post Epiphaniam, ad beginas, in mane', composed around (15 janvier) au Béguinage de Paris..
+Source: MIRABILE : (A. CENCINI) :.

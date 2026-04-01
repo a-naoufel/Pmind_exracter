@@ -1,0 +1,10 @@
+PERSON: MATTHAEUS La Chapelle
+Also known as: Mathieu LACHAPELLE.
+Description: Hôte du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1410-1413%.
+Studied at: Paris %1410-1413%..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège de Dormans-Beauvais : hôte %1410-1413% ?.
+Source: LAMOP : Opération Charles VI (n° 2469) :.

@@ -1,0 +1,9 @@
+PERSON: REGINALDUS Monachus
+Also known as: REGINALDUS Monachus.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1142-1142%.
+Studied at: Paris..
+Academic grades obtained: Maître ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 06/06/2024..

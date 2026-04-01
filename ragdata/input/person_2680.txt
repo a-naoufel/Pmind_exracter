@@ -1,0 +1,9 @@
+PERSON: GEORGIUS Cantoris
+Also known as: Georges CANTORIS.
+Description: Licencié en médecine à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1409-1416%.
+Studied at: Paris, %1409-1416%..
+Academic grades obtained: Étudiant en médecine (Paris) %1409-1410% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 27/11/2021..

@@ -1,0 +1,15 @@
+PERSON: PETRUS Hospes de Insula
+Also known as: Petrus HOSPES de Insula; Pierre de LILLE; Petrus de INSULA..
+Status: Maître.
+Gender: male.
+Active during: %1290-1300%.
+Born in: Flandre (Lille)..
+Diocese of origin: Diocèse de Tournai ?.
+Studied at: Paris ?.
+Academic grades obtained: Maître ès arts (Paris ?)..
+Authored work: 'Sophismata. I. Quotiens fuisti Parisius totiens fuisti homo. Problema: Utrum intentio speciei in se includat intentionem generis et differentie', composed around ?.
+Authored work: 'Sophismata. II. Modi arguendi sunt duo. Problema: Utrum sint sex fallacie in dictione nec plures nec pauciores', composed around ?.
+Authored work: 'Sophismata. III. Logica est scientia. Problema: Utrum de intentionibus secundis possit esse scientia et utrum logica sit de ipsis', composed around ?.
+Authored work: 'Sophismata. IV. Tantum verum opponitur falso. Problema: Utrum verum sit falsum et econverso', composed around ?.
+Authored work: 'Sophismata. V. Omnis homo est omnis homo. Problema: Utrum definitio passionis vel subiecti vel aggregati ex utraque sit medium in demonstratione potissima', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, dernière mise à jour, 04-06-2025..

@@ -1,0 +1,11 @@
+PERSON: CHRISTIANUS 1
+Also known as: CHRISTIANUS.
+Description: Chanoine d'Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1205-1229%.
+Studied at: ?.
+Academic grades obtained: Maître..
+Ecclesiastical positions held: Chanoine d'Amiens %1205-1229% ;.
+Other ecclesiastical functions: Official d'Amiens %1205-1210% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 06/04/2021..

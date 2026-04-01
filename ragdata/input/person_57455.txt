@@ -1,0 +1,15 @@
+PERSON: PHILIPPUS de Coetquis
+Also known as: Philippe de COETQUIS.
+Description: Archevêque de Tours.
+Status: Maître.
+Gender: male.
+Active during: %1396-1441%.
+Born in: Bretagne (Morlaix ?) ;.
+Diocese of origin: Diocèse de Léon ?.
+Studied at: Angers ;; Paris, comme professeur de décret..
+Academic grades obtained: Licencié en droit (Angers) avant ;.
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine de Dol ;; Chanoine de Tournai ;; Évêque de Léon %1419-1427% ;; Archevêque de Tours %1427-1441% ;; Cardinal %1440-1441% ;.
+University functions: Angers (Maître-régent en droit en ) ;; Paris (Faculté de Décret : Maître-régent pour l'année %1415-1416%) ;.
+Representation roles: Représentant de CHARLES VII, roi de France au concile de Bâle..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 06/02/2024..

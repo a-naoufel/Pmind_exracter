@@ -1,0 +1,9 @@
+PERSON: FRANCISCUS Ludovici
+Also known as: Franciscus LUDOVICI.
+Description: Etudiant.
+Status: Incertain.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Etudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 08-09-2021..

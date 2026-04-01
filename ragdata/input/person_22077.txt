@@ -1,0 +1,10 @@
+PERSON: GARINUS Langlais
+Also known as: Guarinus LANGLAIS.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1200-1202%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Chanoine de Rouen ;.
+Other ecclesiastical functions: Official de Rouen ;.

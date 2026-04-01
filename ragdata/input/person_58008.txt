@@ -1,0 +1,9 @@
+PERSON: STEPHANUS Doublel
+Also known as: Stephanus DOUBLEL.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1343-1343%.
+Studied at: Paris..
+Academic grades obtained: Bachelier en théologie (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 5/09/2024..

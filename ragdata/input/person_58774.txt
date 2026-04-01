@@ -1,0 +1,10 @@
+PERSON: GUIDO de Ravenel
+Also known as: Guido de RAVENEL; Guido RAUMENELLO.
+Description: Chanoine de Rouen.
+Status: Maître.
+Gender: male.
+Active during: %1278-1280%.
+Studied at: Paris ;.
+Academic grades obtained: Licencié en décret (Paris) en ;.
+Ecclesiastical positions held: Chanoine de Rouen ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/03/2025)..

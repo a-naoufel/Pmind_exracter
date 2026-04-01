@@ -1,0 +1,9 @@
+PERSON: NICOLAUS Bellemaniere
+Also known as: Nicolaus BELLEMANIERE.
+Description: Domicellus de l’abbé de Saint-Victor.
+Status: Extérieur.
+Gender: male.
+Active during: %1331-1331%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 14/03/2020..

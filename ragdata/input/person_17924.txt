@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Valle 7
+Also known as: Guillelmus de VALLE.
+Description: Bachelier en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1464-1475%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Nevers..
+Studied at: Paris %1464-1475%..
+Academic grades obtained: Maître ès arts (Paris) dès avant , en tous cas attesté en ;; Bachelier en décret (Paris) attesté en ..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales en (15 mars)) ;; Paris (Faculté de Décret : Lecteur des Décrétales (4e année) en (8 novembre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 13/04/2015; révision Jean-Philippe Genet, 8/08/2015..

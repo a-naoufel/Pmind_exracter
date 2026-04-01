@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS de Agro 1
+Also known as: Aegidius de AGRO I.
+Description: Maître ès arts..
+Status: Maître.
+Gender: male.
+Active during: %1342-1342%.
+Diocese of origin: Diocèse de Thérouanne..
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+Ecclesiastical positions held: Provision pour une expectative de prébende à la collation du monastère (bénédictin) d'Afflighem (Saint-Pierre) dans le diocèse de Thérouanne en ; mandats à l'évêque de Bologne, à l'abbé du monastère de Ninove et au chantre de Bruxelles (Sainte-Gudule)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 19/04/2020)..

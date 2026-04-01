@@ -1,0 +1,11 @@
+PERSON: BERTALDUS Sorelli
+Also known as: Bertaudus SORELLL; Bertaud SOREYL; Bertrand SOREL.
+Description: Chanoine de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1329-1341%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts ?; Bachelier en théologie (Paris) .; Maître en théologie (Paris) ..
+Ecclesiastical positions held: Chanoine de Rouen ;; Chanoine de Paris en ;; Chanoine de Meaux ?; Chanoine de Reims ?; Chanoine d'Évreux ?.
+University functions: Maître-régent à la Faculté de Théologie %1331-1341%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/02/2021)..

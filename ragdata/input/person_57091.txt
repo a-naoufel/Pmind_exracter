@@ -1,0 +1,19 @@
+PERSON: VALRAND de La Varanne
+Also known as: Valerand de LAVARANNE.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1496-1516%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse d’Amiens ;.
+Studied at: Paris (Nation de Picardie)..
+Academic grades obtained: Maître ès arts (Paris).; Licencié en théologie (Paris) (26 janvier) ;; Maître en théologie (Paris) (16 novembre) ?.
+College affiliation: Collège de Boncour : étudiant ès arts ;; Collège de Boncour : régent ès arts pendant cinq ans ;; Collège des Cholets : bousier en théologie ;.
+Academic relationships: Son maître est Jacques de MANBUS au Collège de Boncour..
+University functions: Paris (Nation de Picardie : régent ès arts au Collège de Boncour) ;; Paris (Nation de Picardie : receveur en )..
+Authored work: 'Decertatio fidei et heresis carmen', composed around ?.
+Authored work: 'Comedia', composed around ?.
+Authored work: 'Habes, optime lector, in hoc libello que digesto sequuntur ordine. Primo. De Fornoviensi conflictu carmen. De domo Dei parisiensis carmen. De pia sacerrime crucis veneratione carmen. De preclara et insigni theologorum parisiensi facultate carmen', composed around ?, dedicated to Dédié à François de MELUN, prévôt de Saint-Omer..
+Authored work: 'Carmen de expugnatione Genuensi cum multis ad Gallicam historiam pertinentibus', composed around ?.
+Authored work: 'De gestis Joannes virginis, Francie egregie bellatricis, libri quatuor', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 31/12/2023..

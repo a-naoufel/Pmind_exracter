@@ -1,0 +1,12 @@
+PERSON: IVO Brito 3
+Also known as: Yvo BRITO.
+Description: Maître du collège Saint-Thomas du Louvre.
+Status: Maître.
+Gender: male.
+Active during: %1284-1284%.
+Born in: Bretagne ?.
+Studied at: Paris,.
+Academic grades obtained: Maître (Paris) ;.
+College affiliation: Collège du Louvre (Saint-Thomas) ;.
+Ecclesiastical status: Clerc ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 31/10/2021..

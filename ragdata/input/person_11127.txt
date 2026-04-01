@@ -1,0 +1,11 @@
+PERSON: ROBERTUS Semere Anglicus
+Also known as: Robertus SEMERE Anglicus; Robertus Semere ANGLICUS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1345-1345%.
+Born in: Angleterre ?.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Guillelmus de GRINLAW pour la licence et la maîtrise en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 29/08/2024)..

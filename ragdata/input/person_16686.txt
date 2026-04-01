@@ -1,0 +1,9 @@
+PERSON: CAROLUS Atrebatensis
+Also known as: Charles d'ARTOIS.
+Description: Comte d'Eu.
+Status: Extérieur.
+Gender: male.
+Active during: %1415-1472%.
+Family relationships: Son père est Philippe d'ARTOIS, comte d'Eu ; Sa mère est Marie de BERRY ; Sa femme (première) est Jeanne de SAVEUSE ; Sa femme (seconde) est Hélène de MELUN..
+Social origin: Noble..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 31/03/2021)..

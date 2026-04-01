@@ -1,0 +1,13 @@
+PERSON: GERARDUS Leden
+Also known as: Gerardus LEDEN.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1423-1440%.
+Born in: Rhénanie ;.
+Diocese of origin: Diocèse de Osnabrück ;.
+Studied at: Cologne %1423-1424% ;; Paris (Nation Anglo-allemande) ;.
+Academic grades obtained: Bachelier ès arts (Cologne) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Ecclesiastical status: Clerc en ;.
+Ecclesiastical positions held: Vicaire d’Osnabrück (Elftausend Jungfrauen) ;; Chanoine d’Osnabrück (cathédrale) ;; Chanoine d’Osnabrück (Saint-Jean) ;.
+Source: RAG ;.

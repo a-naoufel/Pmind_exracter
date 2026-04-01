@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS Haengreve
+Also known as: Aegidius HAENGREVE.
+Description: Bedeau de la Faculté de médecine.
+Status: Suppôt.
+Gender: male.
+Active during: %1458-1484%.
+Born in: Pays-Bas (Overijssel : Kampen) ;.
+Diocese of origin: Diocèse d’Utrecht..
+Studied at: Cologne %1458-1461% ;; Paris ;.
+Academic grades obtained: Bachelier ès arts (Cologne) ;; Maître ès arts (Cologne) ;.
+University functions: Paris (Faculté de Médecine : bedeau en ) ;.
+Source: RAG ;.

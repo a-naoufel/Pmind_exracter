@@ -1,0 +1,14 @@
+PERSON: ARNALDUS de Spina
+Also known as: Arnoldus de SPINA.
+Description: Vice-chancelier de l’université de Cologne.
+Status: Étudiant.
+Gender: male.
+Active during: %1412-1445%.
+Born in: Pays-Bas (Brabant : Bois-le-Duc) ;.
+Diocese of origin: Diocèse de Liège ?.
+Studied at: Paris ?; Cologne..
+Academic grades obtained: Étudiant (Paris) ?; Maître ès arts (Cologne) ;; Bachelier en théologie (Cologne) ;; Docteur en théologie (Cologne) ;.
+Ecclesiastical status: Prêtre du diocèse de Cologne ;.
+Ecclesiastical positions held: Recteur de Wellen (St. Jean-Baptiste) au diocèse de Liège ;; Chanoine de Cologne (Saints-Apôtres) %1424-1439% ;; Recteur de Lüsdorf ;; Chanoine de Cologne (Saint-Géréon) %1439-1445% ;.
+University functions: Cologne (Faculté des Arts : régent %1412-1426%) ;; Cologne (Faculté des Arts : doyen ) ;; Cologne (Faculté de Théologie : doyen %1431-1432%) ;; Cologne (Université : vice-chancelier %1436-1438%) ;.
+Source: RAG ;.

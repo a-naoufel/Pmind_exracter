@@ -1,0 +1,9 @@
+PERSON: CAROLUS Maignart
+Also known as: Carolus MAIGNART; Charles MAIGNART; Charles MAIGUART.
+Description: Étudiant en médecine à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1489-1491%.
+Studied at: Paris, %1489-1491%..
+Academic grades obtained: Étudiant en médecine (Paris) %1489-1491%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe GENET, 05/04/2021..

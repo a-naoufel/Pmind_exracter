@@ -1,0 +1,79 @@
+PERSON: GENTILIS de Fulgineo
+Also known as: Gentilis de FULGINEO; Gentile da FOLIGNO.
+Description: Professeur de médecine à Pérouse..
+Status: Extérieur.
+Gender: male.
+Active during: %1299-1348%.
+Born in: Italie (Ombrie : Foligno) ;.
+Diocese of origin: Diocèse de Foligno ?.
+Studied at: Bologne ?; Sienne %1322-1324% ;; Pérouse %1326-1340% au moins ;.
+Academic grades obtained: Docteur en médecine (Bologne ?) ;.
+Family relationships: Son père est Gentilis BARTHOLI, médecin de Foligno ; Son épouse est Giacoma DIGIOVANNIBONEMANI ; Son fils est Giacomo GENTILIS ; Son fils est Francesco GENTILIS ; Son fils est Ugolino GENTILIS ; Son fils est Roberto GENTILIS ;.
+University functions: Bologne (professeur de médecine % -1325%) ;; Pérouse (professeur de médecine %1325-1348%) ;.
+Authored work: 'Sermones', composed around à l’Université de Pérouse..
+Authored work: 'Commentum in librum de acutis morbis Hippocratis', composed around ?.
+Authored work: 'Expositio super aforismo Hippocratis', composed around ?.
+Authored work: 'Rationes contra Galenum in quinto aphorismo', composed around ?.
+Authored work: 'Libellus de divisione librorum Galeni', composed around ?.
+Authored work: 'Expositio et questiones super I° libri Microtechni Galeni', composed around ?.
+Authored work: 'Expositiones in canonem Avicennae', composed around ?.
+Authored work: 'Commentarium in De lepra Avicennae', composed around ?.
+Authored work: 'Commentum in carmen de urinis Aegidii Corboliensis', composed around ?.
+Authored work: 'Commentum in tractatum de pulsibus Egidii Corboliensis', composed around ?.
+Authored work: 'Reprobatio Mundini', composed around ?.
+Authored work: 'Supplementum in secundum librum compendii secretorum Ioannis Mesue', composed around ?.
+Authored work: 'Antidotarius brevis', composed around ?.
+Authored work: 'De balneis', composed around ?.
+Authored work: 'Tractatus de corde', composed around ?.
+Authored work: 'De motu cordis', composed around ?.
+Authored work: 'Consideraciones aliorum medicorum circa easdem pestilencias in Grecia et in aliis partibus commorancium', composed around ?.
+Authored work: 'De actione planetarum', composed around ?.
+Authored work: 'De causis dolorum', composed around ?.
+Authored work: 'De conditionibus tyriacam', composed around à Pérouse..
+Authored work: 'De cura calculorum', composed around ?.
+Authored work: 'De cura morborum infantium', composed around ?.
+Authored work: 'De differentia pronosticationis in morbis chronicis et acutis', composed around ?.
+Authored work: 'De exeuntibus epaticis', composed around ?.
+Authored work: 'De proportionibus medicinarum', composed around ?.
+Authored work: 'De temporibus partus', composed around ?, dedicated to Adressé à Cino da PISTOIA..
+Authored work: 'Tractatus de pestilentia et causis eius et remediis', composed around ?.
+Authored work: 'Summarium de peste', composed around ?.
+Authored work: 'De febribus', composed around ?.
+Authored work: 'De flebotomia in pleuresi flemmatica', composed around ?.
+Authored work: 'Tractatus de hydropisi', composed around à Pérouse..
+Authored work: 'Tactatus de resistentia membrorum', composed around (février).
+Authored work: 'Tactatus de temporibus morbis', composed around à Pérouse..
+Authored work: 'Consilia', composed around ?.
+Authored work: 'Consilia ad egretudines oculorum', composed around ?.
+Authored work: 'Consilia ad passiones oculorum', composed around (mars), à Pérouse., dedicated to Adressé à Francesco de FLORENTIA, chapelain du Cardinal Giovanni COLONNA..
+Authored work: 'Consilia ad egretudines pulminis et pectoris et dyagframatis', composed around ?.
+Authored work: 'Consilium ad cerebri humiditatem', composed around (mars)., dedicated to Adressé à FRANCESCO, évêque de Oleno..
+Authored work: 'Consilium ad concepcionem', composed around ?.
+Authored work: 'Consilium ad dissenteriam', composed around ?, dedicated to Adressé à FRANCESCO, comte de Urbino..
+Authored work: 'Consilia ad egretudinem stomaci', composed around ?, dedicated to Adressé à Johannes de VICO..
+Authored work: 'Consilium ad herniam intestinalem', composed around ?.
+Authored work: 'Consilium ad melancholium', composed around ?.
+Authored work: 'Consilium ad morsum serpentis', composed around ?.
+Authored work: 'Consilium ad sibila auris', composed around (mai), à Pérouse., dedicated to Adressé à Francesco de FLORENTIA, chapelain du Cardinal Giovanni COLONNA..
+Authored work: 'Consilium ad pestilentiam', composed around ?.
+Authored work: 'Consilium contra pestilentiam', composed around ?.
+Authored work: 'Consilium primum de pestilentia quae accidit Januae', composed around ..
+Authored work: 'Consilium in epidemia magna dum accidit Perusii', composed around ..
+Authored work: 'Consilium de pestilentia', composed around ?.
+Authored work: 'Consilium super pestilentiam', composed around ?.
+Authored work: 'Consilium de phtisi', composed around ou ..
+Authored work: 'Quaestio an calor in puero et iuvene sit equalis in radice', composed around à Pérouse..
+Authored work: 'Quaestio an sit licitum provocare abortum', composed around ..
+Authored work: 'Quaestio anticipans natus vel partus decem diebus', composed around ?.
+Authored work: 'Consilia et recepte ad egritudines et dispositiones matricis et prouocationem mestruorum et ad conceptionem', composed around ou ?.
+Authored work: 'Quaestio de actuatione medicinarum', composed around (17 avril) ou (17 avril) ?, dedicated to Adressé à Tommaso de AREZZO..
+Authored work: 'Quaestio de maioritate morbi', composed around ..
+Authored work: 'Quaestio de prolongatione febri', composed around à Pérouse..
+Authored work: 'Quaestio de febris', composed around ?.
+Authored work: 'Quaestio utrum complexio humana vel homo magis appropinquet', composed around (9 octobre) à Pérouse..
+Authored work: 'De proportionibus medicinarum scilicet de dosi', composed around ?.
+Authored work: 'Tractatus super lege VII° mense, ff. de statu hominum', composed around ?.
+Authored work: 'De dislocationibus et fracturis', composed around ?.
+Authored work: 'De gradibus', composed around ?.
+Authored work: 'De herba soldana', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

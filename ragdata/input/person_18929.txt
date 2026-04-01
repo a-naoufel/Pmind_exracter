@@ -1,0 +1,10 @@
+PERSON: EUSTASIUS de Portu
+Also known as: Eustasius de PORTU; Eustachius de PORTU; Eustachius PARISIENSIS de PORTU.
+Description: Dominicain.
+Status: Incertain.
+Gender: male.
+Active during: %1358-1358%.
+Studied at: ?Paris..
+Religious order: Dominicain..
+Authored work: 'Collationes seu distinctiones moralisate et collecte ac ordinate ex apostillis seu lectura super lib. Sapientie fr. Roberti Holchot Anglici', composed around ?.
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

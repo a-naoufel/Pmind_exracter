@@ -1,0 +1,11 @@
+PERSON: ROBERTUS de Noa
+Also known as: Robertus de NOA.
+Description: Chanoine de Troyes.
+Status: Incertain.
+Gender: male.
+Active during: %1225-1254%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Troyes ;; Doyen de Troyes ;.
+Other ecclesiastical functions: Official de Troyes %1225-1239% ;; Official de Sens %1244-1247% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 19/05/2023..

@@ -1,0 +1,13 @@
+PERSON: THEOBALDUS Violeti de Frangeyo
+Also known as: Theobaldus VIOLETI de Frangeyo.
+Description: Chanoine de Chalon.
+Status: Incertain.
+Gender: male.
+Active during: %1474-1491%.
+Born in: ComtédeBourgogne (Frangy) ?.
+Diocese of origin: Diocèse de Besançon ;.
+Studied at: ?.
+Academic grades obtained: Licencié en droit canon ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Besançon %1474-1491% ;; Chanoine de Chalon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/05/2025..

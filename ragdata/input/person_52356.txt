@@ -1,0 +1,10 @@
+PERSON: STEPHANUS de Villanova Regis
+Also known as: Stephanus de VILLANOVAREGIS.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1322-1335%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chapelain de Reims (Notre-Dame) %1322-1329% ;; Chanoine de Reims %1331-1335% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 1/06/2021..

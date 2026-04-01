@@ -1,0 +1,9 @@
+PERSON: MICHAEL Grignon
+Also known as: Michael GRIGNON; Michael GRYGNON.
+Description: Nonce pour les diocèses de Nantes et Dol.
+Status: Suppôt.
+Gender: male.
+Active during: %1449-1449%.
+Studied at: Paris (Nation de France) ..
+University functions: Paris (Nation de France : nonce pour le diocèse de Dol désigné prndnay que Guillelmus de PLACENCIA est procureur en ) ;; Paris (Nation de France : nonce pour le diocèse de Nantes désigné en (15 mai)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/02/2023..

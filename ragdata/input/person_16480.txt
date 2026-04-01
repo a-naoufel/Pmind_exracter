@@ -1,0 +1,11 @@
+PERSON: ALANUS de Schirburne
+Also known as: Alanus de SCHIRBURNE.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1316-1316%.
+Born in: Angleterre ?.
+Studied at: Paris (Nation Anglo-allemande) en ..
+Academic grades obtained: Étudiant (Paris) ?.
+Ecclesiastical positions held: Provision pour une expectative de prébende à la collation de l'archevêque d'York dans la cité d'York ou le diocèse d'York en ; mandats au doyen de Lincoln, au chancelier de Lincoln et à Nicolas de CECCANO, chanoine d'Arras..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

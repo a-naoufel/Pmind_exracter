@@ -1,0 +1,10 @@
+PERSON: ARNULPHUS de Villers
+Also known as: Arnulphus de VILLERS; Arnulphus VILLARIENSIS.
+Description: Cistercien.
+Status: Extérieur.
+Gender: male.
+Active during: %1271-1276%.
+Studied at: ?.
+Religious order: Cistercien..
+Religious functions: Abbé de l'abbaye (cistercienne) de Villers-en-Brabant %1271-1276%.; Son refus d'aller étudier à l'Université de Paris pour pouvoir se consacrer pleinement à la vie religieuse est donné en exemple dans la Chronica Villariensis..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet 17/11/2020..

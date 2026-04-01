@@ -1,0 +1,10 @@
+PERSON: PETRUS Gascoing
+Also known as: Petrus GASCOING; Pierre GASCOING.
+Description: Boursier au collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1343-1347%.
+Studied at: Paris %1343-1347%..
+Academic grades obtained: Étudiant en grammaire (Paris) %1343-1347% ;; Étudiant ès arts (Paris) ..
+College affiliation: Boursier grammairien au collège de Navarre à Paris en %1343-1347% ;; Boursier artien au collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 17/03/2024..

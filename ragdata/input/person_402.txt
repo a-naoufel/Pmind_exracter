@@ -1,0 +1,8 @@
+PERSON: ALBERTUS Veros de Sancto Presto
+Also known as: Albertus VEROS de Sancto Presto; Albertus de SANCTO PRESTO.
+Description: Étudiant..
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/06/2020)..

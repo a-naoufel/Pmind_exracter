@@ -1,0 +1,12 @@
+PERSON: GERARDUS de Monteacuto 2
+Also known as: Gerardus de MONTEACUTO.
+Description: Évêque de Poitiers.
+Status: Maître.
+Gender: male.
+Active during: %1385-1403%.
+Born in: Picardie ?.
+Studied at: Paris (Nation de Picardie ?) ?.
+Academic grades obtained: Maître ès arts (Paris) en ;; Licencié en droit civil ;.
+Family relationships: Son père est Gerard CASSINEL ; Son oncle est Ferry CASSINEL, archevêque de Reims ; Son frère est Jean de MONTAIGU, archevêque de Sens ;.
+Ecclesiastical positions held: Chanoine de Cambrai %1394-1404% ;; Archidiacre de Cambrai %1394-1404% ;; Chanoine d’Auxerre ;; Chanoine de Chartres %1397-1404% ;; Prévôt de Normandie en la cathédrale de Chartres %1397-1404% ;; Chanoine de Paris (Notre-Dame) %1399-1403% ;; Chanoine de Meaux % -1404% ;; Archidiacre de Narzenne en la cathédrale de Bourges % -1403% ;; Évêque de Poitiers %1403-1409% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 29 décembre 2025..

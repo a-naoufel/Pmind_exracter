@@ -1,0 +1,11 @@
+PERSON: GUICHARDUS
+Also known as: GUISCHARDUS; Guischardus de GUISCARDO.
+Description: Clunisien.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+Religious order: O.Clun. : moine clunisien..
+Religious functions: Prieur (bénédictin) de Cayrac en s'il est le moine bénédictin Guischardus de GUISCARDO..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 09/06/2020)..

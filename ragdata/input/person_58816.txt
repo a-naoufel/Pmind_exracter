@@ -1,0 +1,14 @@
+PERSON: PETRUS de Aspelt
+Also known as: Petrus de ASPELT; Peter von ASPELT.
+Description: Archevêque de Mayence.
+Status: Maître.
+Gender: male.
+Active during: %1261-1320%.
+Born in: Rhénanie (Trèves) ;.
+Diocese of origin: Diocèse de Trèves ?.
+Studied at: Bologne ;; Padoue en ;; Bologne ;; Paris ;.
+Academic grades obtained: Maître ès arts (Paris ?) ?; Maître en médecine (Paris ?) ?.
+Family relationships: Son père est Gebhard von ASPELT, un ministérial luxembourgeois résidant près de Rodenmacher ; Son frère est Whilhelm von ASPELT affranchi en par HENRI, comte de Luxembourg [HENRI VII]..
+Social origin: Noble : il appartient à une famille de ministériaux ;.
+Ecclesiastical positions held: Recteur de Riol en ;; Recteur de Birthingen en ;; Chanoine de Mayence ;; Écolâtre de Trèves (Saint-Siméon) ;; Prévôt de Bingen (Saint-Martin) ;; Chanoine de Prague ;; Chanoine de Vyserhad ;; Chanoine de Wroclaw ;; Recteur de Vienne (Saint-Étienne) ;; Évêque de Bâle %1297-1306% ;; Archevêque de Mayence %1306-1320% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 07/05/2025)..

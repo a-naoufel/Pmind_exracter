@@ -1,0 +1,10 @@
+PERSON: PETRUS de Savigniaco
+Also known as: Petrus de SAVIGNIACO.
+Description: Cistercien.
+Status: Gradué.
+Gender: male.
+Active during: %1397-1397%.
+Studied at: Paris %1397-1397%..
+Academic grades obtained: Licencié en théologie (Paris) ..
+Religious order: O.Cist. : moine (cistercien) de l'abbaye de Savigny..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/03/2024)..

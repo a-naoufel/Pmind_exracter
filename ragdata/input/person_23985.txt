@@ -1,0 +1,12 @@
+PERSON: PETRUS Mengin
+Also known as: Pierre MENGIN.
+Description: Chanoine régulier de Saint-Jean des Vignes.
+Status: Étudiant.
+Gender: male.
+Active during: %1450-1453%.
+Studied at: Paris %1450-1453%..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Dormans-Beauvais : religieux %1450-1453% ;.
+Ecclesiastical status: Prêtre ;.
+Religious order: O.S.A. : chanoinerégulier (OSA) de Soissons (Saint-Jean-des-Vignes) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/08/2016..

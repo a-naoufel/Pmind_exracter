@@ -1,0 +1,12 @@
+PERSON: BENEDICTUS Calvez
+Also known as: Benedictus CALVEZ.
+Description: Procureur du collège de Léon.
+Status: Étudiant.
+Gender: male.
+Active during: %1400-1400%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Léon ?.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Boursier du collège de Léon en ;; Procureur du collège de Léon en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 07/04/2025..

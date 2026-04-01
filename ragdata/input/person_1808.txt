@@ -1,0 +1,10 @@
+PERSON: CONRADUS Piscerna
+Also known as: Conrardus PISCERNA.
+Description: "Canonicus Solponensis".
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris en ..
+Academic grades obtained: Étudiant ?.
+Ecclesiastical positions held: "Canonicus Solponensis" ou "Salponensis" ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 28/04/2021)..

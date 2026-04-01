@@ -1,0 +1,12 @@
+PERSON: SIMON Rose
+Also known as: Simon ROSE.
+Description: Écolier-boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1425-1427%.
+Studied at: Paris %1425-1427%..
+Academic grades obtained: Étudiant (Paris) %1425-1427%..
+College affiliation: Collège de Dormans-Beauvais : boursier %1425-1427% ;.
+Family relationships: Son parent est Guillaume ROSE ; Son parent est Michel ROSE ; Son parent est Jacques ROSE ;.
+Social origin: Noble ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour, 15/09/2024..

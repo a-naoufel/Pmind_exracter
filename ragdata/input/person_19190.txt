@@ -1,0 +1,9 @@
+PERSON: CASTRO Gualfredi
+Also known as: Castro GUALFREDI.
+Description: Marchand florentin.
+Status: Extérieur.
+Gender: male.
+Active during: %1250-1250%.
+Born in: Italie (Florence)..
+Studied at: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 31/08/2020..

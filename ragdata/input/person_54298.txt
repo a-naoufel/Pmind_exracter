@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Guioti
+Also known as: Nicolaus GUIOTI.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1397-1418%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Sens (‘Notre-Dame’) %1398-1402% ;; Chanoine de Châlons %1405-1418% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 25/09/2022..

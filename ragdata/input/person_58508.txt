@@ -1,0 +1,9 @@
+PERSON: AUCHIER de Cayeu
+Also known as: Auchier de CAYEU.
+Description: Procureur au Parlement de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1344-1344%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/02/2025)..

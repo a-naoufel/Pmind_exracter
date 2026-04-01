@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS 3
+Also known as: GUILLAUME.
+Description: Magister.
+Status: Incertain.
+Gender: male.
+Active during: %1176-1180%.
+Studied at: ?.
+Academic grades obtained: Magister ?.
+Authored work: 'Microcosmographia', composed around ., dedicated to Dédié à Guillaume de CHAMPAGNE, archevêque de Reims en %1176-1202%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 7/3/2018..

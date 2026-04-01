@@ -1,0 +1,10 @@
+PERSON: GILBERTUS de Johanna
+Also known as: Gilbertus de JOHANNA.
+Description: Chanoine de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1495-1495%.
+Studied at: ?.
+Academic grades obtained: Bachelier in utroque ;.
+Ecclesiastical positions held: Chanoine de Rodez ;; Chanoine de Villefranche-de-Rouergue ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 31/05/2022..

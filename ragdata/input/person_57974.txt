@@ -1,0 +1,11 @@
+PERSON: PETRUS de Tilia
+Also known as: Petrus de TILIA.
+Description: Chapelain du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1398-1414%.
+Studied at: Paris %1398-1414%.
+Academic grades obtained: Étudiant (Paris) %1398-1414% ;.
+College affiliation: Collège d'Autun : proviseur jusqu’en ;; Collège d'Autun : boursier %1466-1473% ;.
+Ecclesiastical positions held: Chapelain du collège d’Autun jusqu’en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 10/07/2024..

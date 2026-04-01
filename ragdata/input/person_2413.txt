@@ -1,0 +1,9 @@
+PERSON: G. Paut.?
+Also known as: G. PAUT.(?).
+Description: Magister.
+Status: Incertain.
+Gender: male.
+Active during: %1371-1371%.
+Studied at: ?Paris.
+Academic grades obtained: Magister ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 10/06/2020)..

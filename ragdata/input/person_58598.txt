@@ -1,0 +1,14 @@
+PERSON: HENRICUS 1
+Also known as: HENRICUS.
+Description: Évêque de Lübeck.
+Status: Extérieur.
+Gender: male.
+Active during: %1150-1182%.
+Born in: Brabant (Bruxelles) ;.
+Diocese of origin: Diocèse de Cambrai ?.
+Studied at: ?.
+Academic grades obtained: Maître ?.
+Religious order: O.S.B. : moine bénédictin..
+Religious functions: Abbé de Braunschweig (Saint Gilles) jusqu’en ..
+Ecclesiastical positions held: Écolâtre de Hildesheim ?; Écolâtre de Braunschweig ?; Évêque de Lübeck %1173-1182%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 18/02/2025..

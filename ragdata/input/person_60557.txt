@@ -1,0 +1,12 @@
+PERSON: ROBERTUS Clementis 1
+Also known as: Robertus CLEMENTIS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1342-1350%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse de Bayeux ;.
+Studied at: Paris (Nation de Normandie) %1342-1350% ;.
+Academic grades obtained: Maître ès arts avant ;.
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiastique à la collation du grandarchidiacre de Chartres en réponse au rotulus de l’université de Paris en : mandat à l’abbé (O.S.A.) de Paris (Sainte-Geneviève), au doyen de Brive et à l’archidiacre des Vès en la cathédrale de Bayeux ;; Recteur de Prasville (diocèse de Chartres) en ;; Provision pour un bénéfice ecclésiastique à la collation de l’évêque, du doyen et du chapitre de Chartres en réponse au rotulus de l’université de Paris en : mandat à l’abbé (O.S.A.) de Paris (Saint-Victor), au trésorier de Rouen et à Grimier BONIFACE, chanoine d’Auxerre ;; Provision pour un bénéfice ecclésiastique à la collation de l’abbé et du couvent (O.S.B.) de Saint-Denis en réponse au rotulus de la Faculté des Arts de l’université de Paris en : mandat à l’abbé (O.S.A.) de Paris (Sainte-Geneviève), à l’abbé (O.S.A.) de Paris (Saint-Victor), au trésorier de Rouen et à Étienne de PARIS, chanoine de Paris ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

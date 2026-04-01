@@ -1,0 +1,11 @@
+PERSON: GALFREDUS de Wetemstede
+Also known as: Geoffrey de WETEMSTEDE; Geoffrey de WHETHAMSTEDE.
+Description: Recteur de Hunsdon.
+Status: Étudiant.
+Gender: male.
+Active during: %1284-1295%.
+Born in: Angleterre..
+Studied at: Paris ;; Oxford ;.
+Academic grades obtained: Étudiant à Paris ?; Étudiant en droit canon à Oxford en ?.
+Ecclesiastical positions held: Recteur de Hunsdon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 12/10/2021..

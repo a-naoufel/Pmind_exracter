@@ -1,0 +1,15 @@
+PERSON: AEGIDIUS Parisiensis
+Also known as: Aegidius PARISIENSIS; Gilles de PARIS; Gilles de DELPHES.
+Description: Chanoine de Paris (St-Marcel).
+Status: Maître.
+Gender: male.
+Active during: %1180-1224%.
+Studied at: Paris..
+Academic grades obtained: Étudiant à Paris où il a étudié avec Petrus de RIGA en même temps que Guillaume le BRETON vers ;; Maître ès arts (Paris) ?.
+Academic relationships: Son maître est Pierre de RIGA..
+Ecclesiastical positions held: Chanoine de Paris (Saint-Marcel) avant jusqu’à sa mort..
+Authored work: '(Vers rythmiques)', composed around ?.
+Authored work: '(Révisions I et II avec additions à l’Aurora)', composed around ?.
+Authored work: 'Poema de poenis inferni', composed around ?.
+Authored work: 'Carolinus (livres I-V)', composed around %1196-1200%, dedicated to Dédié à LOUIS (VIII) alors héritier du trône..
+Source: MIRABILE (MEL) :.

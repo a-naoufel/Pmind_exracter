@@ -1,0 +1,9 @@
+PERSON: REGINALDUS de Bellovisu
+Also known as: Reginaldus de BELLOVISU.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Maître (Paris)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 21/04/2022..

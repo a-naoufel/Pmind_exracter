@@ -1,0 +1,12 @@
+PERSON: FREDERICUS 1
+Also known as: FREDERICUS; FERRICUS.
+Description: Élu de Châlons.
+Status: Maître.
+Gender: male.
+Active during: %1200-1215%.
+Studied at: Paris vers ?.
+Academic grades obtained: Maître en droit canon (Paris) ?.
+College affiliation: ?Val-des-Ecoliers..
+Religious order: Chanoine (O.S.A.) du Val-des-Écoliers ;.
+Ecclesiastical positions held: Archidiacre de Châlons-en-Champagne vers ;; Archidiacre de Toul ;; Évêque-élu de Châlons-en-Champagne ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/07/2023)..

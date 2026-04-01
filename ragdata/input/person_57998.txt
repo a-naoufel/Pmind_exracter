@@ -1,0 +1,10 @@
+PERSON: PONCIUS Jasserant
+Also known as: Ponce JASSERANT; Ponce JOSSERANT; Poncius JAUSSERANDI; Poncet JOSSERANT.
+Description: Boursier du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1398-1404%.
+Studied at: Paris %1398-1404%.
+Academic grades obtained: Étudiant (Paris) en %1398-1404% ;.
+College affiliation: Collège d'Autun : boursier en ;; Collège d'Autun : proviseur en %1403-1404% ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,8 @@
+PERSON: PETRUS Le Bastard
+Also known as: Pierre le BASTARD.
+Description: ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1398-1398%.
+Family relationships: Sa femme est GILON..
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

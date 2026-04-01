@@ -1,0 +1,12 @@
+PERSON: PETRUS Rodelini
+Also known as: Petrus RODELINI.
+Description: Clerc.
+Status: Extérieur.
+Gender: male.
+Active during: %1341-1345%.
+Born in: Poitou ?.
+Diocese of origin: Diocèse de Poitiers ;.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical status: Clerc du diocèse de Poitiers ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,12 @@
+PERSON: GILBERTUS Parent
+Also known as: Gilbert PARENT.
+Description: Sous-prieur du Val des Écoliers.
+Status: Étudiant.
+Gender: male.
+Active during: %1423-1435%.
+Studied at: Paris %1272-1273%..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Paris (Sainte-Catherine) %1272-1273%..
+Religious order: Chanoinerégulier (O.S.A.) du Val-des-Écoliers ;.
+Religious functions: Sous-prieur du prieuré (O.S.A.) du Val-des-Écoliers (Sainte-Catherine)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 27/03/2019..

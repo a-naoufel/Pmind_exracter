@@ -1,0 +1,10 @@
+PERSON: TIDEMANNUS
+Also known as: TIDEMANNUS.
+Description: Magister.
+Status: Incertain.
+Gender: male.
+Active during: %1316-1316%.
+Born in: Suède.
+Studied at: ?Paris, ..
+Academic grades obtained: Mag. ?(P), ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 28/05/2018..

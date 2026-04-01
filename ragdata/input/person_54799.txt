@@ -1,0 +1,10 @@
+PERSON: HUGO de Masoneto
+Also known as: Hugo de MASONETO.
+Description: Chanoine de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1306-1331%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Poitiers (Saint-Hilaire) %1306-1331% ;; Chanoine de LaChapelleTaillefer %1316-1331% ;; Chanoine de Poitiers %1316-1331% ;; Doyenrural d’Aizenay (diocèse de Luçon) %1316-1327% ;; Abbéséculier du Dorat %1327-1331% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 07/12/2022..

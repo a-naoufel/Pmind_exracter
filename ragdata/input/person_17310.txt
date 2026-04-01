@@ -1,0 +1,10 @@
+PERSON: C. de Augusta
+Also known as: C. de AUGUSTA.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Born in: Alémanie (Augsbourg) ?.
+Studied at: Paris (Nation Anglo-allemande ?) en ..
+Academic grades obtained: Étudiant ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/03/2021)..

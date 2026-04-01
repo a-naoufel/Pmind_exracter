@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de Dacia 2
+Also known as: Nicholaus de DACIA.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Born in: Danemark.
+Studied at: Paris, %1329-1330%..
+Academic grades obtained: Étudiant? (Paris), %1329-1330%..
+College affiliation: Collège de Dacie.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 15/05/2019, révision Élisabeth Mornet, 24/05/2019..

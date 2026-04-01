@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Cerneau
+Also known as: Guillermus CERNEAU.
+Description: Maître ?.
+Status: Maître.
+Gender: male.
+Active during: %1435-1435%.
+Studied at: Paris..
+Academic grades obtained: Maître (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 22/05/2018)..

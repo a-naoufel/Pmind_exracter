@@ -1,0 +1,9 @@
+PERSON: PETRUS Colot
+Also known as: Petrus COLOT.
+Description: Procureur des chanoines de Saint-Benoît.
+Status: Maître.
+Gender: male.
+Active during: %1510-1510%.
+Studied at: Paris ?.
+Academic grades obtained: Maître ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,12 @@
+PERSON: NICOLAUS Mercerii
+Also known as: Nicolaus MERCIER; Nicolaus MERCERII.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1388-1388%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant ?.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Religious order: O.F.M. : frère franciscain.
+Religious functions: Custode du couvent (franciscain) de Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 2/12/2020)..

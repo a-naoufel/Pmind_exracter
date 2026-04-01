@@ -1,0 +1,11 @@
+PERSON: PETRUS de Plancheta
+Also known as: Petrus de PLANCHETA.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1451-1451%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Auxerre ;.
+Studied at: Paris (Nation de France) ?.
+Academic grades obtained: Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/09/2023..

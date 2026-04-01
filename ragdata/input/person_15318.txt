@@ -1,0 +1,15 @@
+PERSON: GALTERIUS de Wangiermès
+Also known as: Galterus de WANGIERMES; Gautier de WANGIERMES.
+Description: Maître ès arts à Paris.
+Status: Maître.
+Gender: male.
+Active during: %1220-1230%.
+Born in: Flandre (Tournai) ?.
+Diocese of origin: Diocèse de Tournai ?.
+Studied at: Paris %:1220-1230%..
+Academic grades obtained: Étudiant ès arts (Paris) ;; Maître ès arts (Paris) entre %1220-1230% ;; Étudiant en théologie (Paris ?) ;.
+College affiliation: Sorbonne ?.
+Family relationships: Son père est Jacques de WANGIERMES, bourgeois de Tournai..
+Social origin: Bourgeoisie de Tournai..
+Ecclesiastical positions held: Prévôt de Seclin (Saint-Piat) %1227-1242% ;; Chanoine de Tournai %1227-1257% ;; Trésorier de Tournai %1230-1257% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/05/2017..

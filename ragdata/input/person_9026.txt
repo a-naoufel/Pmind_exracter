@@ -1,0 +1,10 @@
+PERSON: MICHAEL de Junquerio
+Also known as: Michael de JUNQUERIO.
+Description: Magister.
+Status: Incertain.
+Gender: male.
+Active during: %1310-1310%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Other ecclesiastical functions: Clerc-juré de l'official de Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 37/09/2023)..

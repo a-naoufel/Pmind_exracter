@@ -1,0 +1,14 @@
+PERSON: AEGIDIUS de Presles
+Also known as: Gilles de PRESLES.
+Description: Abbé cistercien d'Aulne.
+Status: Maître.
+Gender: male.
+Active during: %1474-1484%.
+Studied at: Paris (Collège Saint-Bernard)..
+Academic grades obtained: Maître en théologie (Paris) ?.
+College affiliation: Collège Saint-Bernard.
+Family relationships: Son parent est Thomas de PRESLES, abbé d'Aulne, auquel il a succédé..
+Religious order: O. Cist. : moine cistercien de l'abbaye d'Aulne..
+Religious functions: Abbé (cistercien) d'Aulne %1478-1484%.; Procureurgénéral des Cisterciens à Rome..
+Authored work: 'Conciones super dominicas et festa sanctorum totius anni', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 01/05/2020)..

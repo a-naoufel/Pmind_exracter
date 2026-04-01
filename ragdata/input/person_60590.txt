@@ -1,0 +1,12 @@
+PERSON: PHILIPPUS de Florentia
+Also known as: Philippus de FLORENTIA.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1310-1310%.
+Born in: Toscane (Florence ?) ?.
+Diocese of origin: Diocèse de Florence ?.
+Studied at: Paris (Nation de France)..
+Academic grades obtained: Maître (Paris) ;.
+Authored work: 'Conclusiones ex Aristotelis VIII libri physicorum collecte', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 04/12/2025)..

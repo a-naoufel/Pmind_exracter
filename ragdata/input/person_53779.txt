@@ -1,0 +1,10 @@
+PERSON: PETRUS Fagonis
+Also known as: Petrus FAGONIS.
+Description: Chanoine de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1277-1310%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Rodez %1277-1302% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 20/05/2022..

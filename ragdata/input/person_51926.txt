@@ -1,0 +1,15 @@
+PERSON: PHILIPPUS de Bridlington
+Also known as: Philip of BRIDLINGTON.
+Description: Franciscain.
+Status: Extérieur.
+Gender: male.
+Active during: %1290-1302%.
+Born in: Angleterre..
+Studied at: Oxford..
+Academic grades obtained: Bachelier en théologie (Oxford) vers ;; Docteur en théologie (Oxford) vers ..
+Religious order: O.F.M. : frère franciscain du couvent (franciscain) d'Oxford..
+University functions: Oxford (couvent franciscain : 29e lecteur %1300-1302%..
+Authored work: 'Commentaire sur les Sentences', composed around ?.
+Authored work: 'Quaestio in Vesperis', composed around ?.
+Authored work: 'Quaestio', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 05/02/2021)..

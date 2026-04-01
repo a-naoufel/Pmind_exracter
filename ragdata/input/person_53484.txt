@@ -1,0 +1,16 @@
+PERSON: SIMON Parisiensis
+Also known as: Simon PARISIENSISI; Simon de PARIS.
+Description: Chancelier du royaume de Sicile.
+Status: Maître.
+Gender: male.
+Active during: %1230-1273%.
+Studied at: Naples après ..
+Academic grades obtained: Maître en droit civil (Bologne ?) ;.
+Academic relationships: Son maître est Jacobus BALDUINI ; Son élève à Orléans est Jacques de RÉVIGNY ;.
+Ecclesiastical positions held: Archidiacre de Vendôme ;.
+University functions: Orléans (professeur de droit civil vers %1235-1260%) ;; Paris (professeur de droit canon vers %1260-1269%) ?; Naples (recteur de l’Université) après ..
+Representation roles: Missions diplomatiques en France et en Castille pour le compte de CHARLES d’Anjou, roi de Sicile ;.
+Authored work: 'Argumenta et solutiones contre procuratorium', composed around ?.
+Authored work: 'Repetitiones', composed around ?.
+Authored work: 'Constitutiones novae', composed around ;.
+Source: MIRABILE : Roberto GAMBERINI :.

@@ -1,0 +1,10 @@
+PERSON: PETRUS Fabri 5
+Also known as: Pierre FABRI.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1463-1478%..
+Studied at: Paris (Nation de Picardie) %1463-1475%..
+Academic grades obtained: Maître ès arts en ?; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+University functions: Recteur de l'université de Paris en %1474-1475%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 24/08/2016..

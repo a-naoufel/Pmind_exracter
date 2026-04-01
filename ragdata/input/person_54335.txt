@@ -1,0 +1,15 @@
+PERSON: GUILLELMUS de Casale
+Also known as: Guillelmus de CASALE; Guillelmus CASALENSIS.
+Description: Ministre général de l’ordre franciscain.
+Status: Extérieur.
+Gender: male.
+Active during: %1410-1442%.
+Born in: Italie (Piémont : CasaleMonferrato) ;.
+Diocese of origin: Diocèse de CasaleMonferrato..
+Studied at: Padoue..
+Academic grades obtained: Bachelier en théologie ;; Maître en théologie ..
+Religious order: O.F.M. : frère francisicain..
+Religious functions: Procureur de l’ordre franciscain à la CurieRomaine ;; Ministregénéral des Franciscains %1430-1442% ;.
+Authored work: '(Lettres)', composed around ?.
+Authored work: 'Super Regulam S. Clarae Constitutiones et Declarationes', composed around ?.
+Source: DBI : Thomas CALO ;.

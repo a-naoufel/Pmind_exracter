@@ -1,0 +1,11 @@
+PERSON: PETRUS Gallensis
+Also known as: Petrus GALLENSIS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Born in: Bretagne (Auray) ?.
+Diocese of origin: Diocèse de Vannes ?.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 17/03/2024..

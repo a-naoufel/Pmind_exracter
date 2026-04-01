@@ -1,0 +1,12 @@
+PERSON: PETRUS Bacalarii
+Also known as: Petrus BACCALARII; Petrus BACALARII.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1450-1464%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris (Nation de France) %1450-1451%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Family relationships: Il est peut-être parent de Arnaldus BACCALARII, seigneur de Chaillot ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/05/2023..

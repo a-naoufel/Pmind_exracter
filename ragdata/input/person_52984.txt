@@ -1,0 +1,10 @@
+PERSON: IVO de Lourcio
+Also known as: Ivo de LOURCIO.
+Description: Chanoine d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1270-1270%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Amiens ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 19/11/2021..

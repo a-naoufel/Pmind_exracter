@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Vaste
+Also known as: Nicolaus VASTE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1401-1401%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie)..
+Academic grades obtained: Maître ès arts (Paris) ;.
+Family relationships: Diocèse de Rouen ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 29/10/2022..

@@ -1,0 +1,14 @@
+PERSON: NICOLAUS de Machelina
+Also known as: Nicolaus de MALINES; Nicolaus de MACHELINA.
+Description: Maître en théologie augustin..
+Status: Maître.
+Gender: male.
+Active during: %1359-1360%.
+Born in: Brabant (Malines ?) ?.
+Diocese of origin: Diocèse de Cambrai ?.
+Studied at: Paris..
+Academic grades obtained: Bachelier en théologie (Paris) avant ;; Maître en théologie (Paris) avant ;.
+College affiliation: Couvent (augustin) de Paris (Grands-Augustins)..
+Religious order: O.E.S.A. : frère augustin de la province de Saxe..
+University functions: Paris (Faculté de Théologie : maître-régent au couvent augustin %1359-1360%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 18/11/2020)..

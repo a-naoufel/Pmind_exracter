@@ -1,0 +1,10 @@
+PERSON: DEMAIAUDUS de Polonia
+Also known as: Demaiaudus de POLONIA.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Born in: Pologne ?.
+Studied at: Paris (Nation Anglo-allemande ?).
+Academic grades obtained: Étudiant.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 08/05/2021..

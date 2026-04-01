@@ -1,0 +1,10 @@
+PERSON: PETRUS de Noeriis
+Also known as: Petrus de NOERIIS.
+Description: Chanoine d’Auxerre.
+Status: Incertain.
+Gender: male.
+Active during: %1320-1326%.
+Studied at: ?.
+Academic grades obtained: Étudiant en ;.
+Ecclesiastical positions held: Chanoine d’Auxerre %1320-1326% ;; Chanoine de Verdun %1320-1321% ;; Chantre de Verdun %1320-1321% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 25/06/2025)..

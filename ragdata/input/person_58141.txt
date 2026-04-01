@@ -1,0 +1,9 @@
+PERSON: ROBERTUS Carpentarii 2
+Also known as: Robertus CARPENTARII.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1432-1432%.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en décret (Paris) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 11/10/2024..

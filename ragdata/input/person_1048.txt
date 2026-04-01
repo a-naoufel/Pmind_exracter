@@ -1,0 +1,14 @@
+PERSON: ARNULPHUS Leodiensis
+Also known as: Arnulphus LEODIENSIS; Arnulphe de LIEGE.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1276-1345%.
+Diocese of origin: Diocèse de Liège..
+Studied at: Paris..
+Academic grades obtained: Licencié en théologie (Paris) ;; Maître en théologie (Paris) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère dominicain..
+University functions: Paris (Couvent dominicain : Maître-Régent %1305-1307%)..
+Authored work: 'Quodlibetum (qq.10) disputatum sub. mag. Arnulpho, respondente Herveo NATALI', composed around %1305-1307% ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

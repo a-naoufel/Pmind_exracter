@@ -1,0 +1,18 @@
+PERSON: BERENGARIUS Pictaviensis
+Also known as: Berengarius PICTAVIENSIS; Béranger de POITIERS.
+Description: Clerc séculier.
+Status: Maître.
+Gender: male.
+Active during: %1130-1150%.
+Born in: Poitou ?.
+Diocese of origin: Diocèse de Poitiers ?.
+Studied at: Paris ;.
+Academic grades obtained: Maître ?.
+Academic relationships: Son maître est Pierre ABÉLARD..
+Ecclesiastical positions held: Clerc séculier..
+Authored work: 'Apologia contra Sanctum Bernardum Claravallensem Abbatem et alios qui condemnaverunt Petrum Abaelardum', composed around %1141-1142%..
+Authored work: 'Epistola ad Episcopum Mimatensem', composed around ?..
+Authored work: 'Epistola contra Cartusienses', composed around ?.
+Authored work: 'De incarnatione Christi', composed around ?.
+Authored work: 'Epistolae', composed around ?.
+Source: MIRABILE : Federico CONTINI :.

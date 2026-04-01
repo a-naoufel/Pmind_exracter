@@ -1,0 +1,11 @@
+PERSON: ANTHONIUS de Manso 1
+Also known as: Anthonius de MANSO.
+Description: Bachelier Décret.
+Status: Gradué.
+Gender: male.
+Active during: %1415-1415%.
+Studied at: Paris %1415-1415%..
+Academic grades obtained: Bachelier Décret (Paris) (avant le 22 septembre) ..
+Ecclesiastical positions held: Clerc..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (1er cours) en (22 septembre)) ;; Paris (Faculté de Décret : Lecteur des Décrétales (2e cours) en (8 novembre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; Jean-Philippe Genet, dernière mise à jour 28/09/2020)..

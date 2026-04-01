@@ -1,0 +1,12 @@
+PERSON: HUGO Fagot de Prart
+Also known as: Hugo dictus FAGOT de Prart; Hugo de PRART.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1349-1349%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ;.
+Studied at: Paris (Nation de Picardie) %:1349-1349%.
+Academic grades obtained: Maître ès arts (Paris) ;.
+Ecclesiastical status: Clerc du diocèse de Laon en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 05/09/2022..

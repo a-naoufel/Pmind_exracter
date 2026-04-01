@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS Fabri 5
+Also known as: Guillelmus FABRI; Guillaume FABRI.
+Description: Maître en médecine à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1399-1414%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Lisieux ;.
+Studied at: Paris (Nation de Normandie) %1399-1414%..
+Academic grades obtained: Étudiant en médecine (Paris) %1399-1400% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Ecclesiastical status: Clerc du diocèse de Lisieux ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Magnus Rotulus de l’Université de Paris daté de (21 octobre) et présenté à BENOÎT XIII ;.
+University functions: Maîtrerégent de la Faculté de médecine à Paris jusqu'en %1413-1414%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 17/12/2018..

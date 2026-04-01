@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Souris
+Also known as: Guillelmus SOURIS.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1379-1379%.
+Born in: Normandie..
+Studied at: Paris (Nation de Normandie) ..
+Academic grades obtained: Maître ès arts (Paris) ;; Licencié en décret (Paris) ..
+Ecclesiastical status: Prêtre en ;.
+Ecclesiastical positions held: Candidat à un canonicat de Beauvais sur le rotulus de ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 31/05/2022..

@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Grangerii de Sinemuro
+Also known as: Guillelmus GRANGERII; Guillelmus de SINEMURO.
+Description: Bachelier in utroque.
+Status: Gradué.
+Gender: male.
+Active during: %1371-1396%.
+Born in: Bourgogne (Semur-en-Auxois) ;.
+Diocese of origin: Diocèse d'Autun ;.
+Studied at: Paris %:1394-1396%..
+Academic grades obtained: Bachelier in utroque ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Recteur de Scey en ;; Candidat à un canonicat d'Autun sur le rotulus de ;; Candidat à un bénéfice sur le Rotulus quorundam licentiatorum et bacalariorum Universitatis Parisiensis présenté à BENOÎT XIII en (?) à Avignon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 3/03/2019..

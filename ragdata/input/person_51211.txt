@@ -1,0 +1,12 @@
+PERSON: LAURENTIUS Ouyn
+Also known as: Laurentius OUYN.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1407-1413%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris (Nation de Normandie) %1407-1413%..
+Academic grades obtained: Maître ès arts (Paris) ;.
+University functions: Paris (Faculté des Arts : Maître-Régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/09/2020)..

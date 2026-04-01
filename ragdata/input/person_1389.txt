@@ -1,0 +1,15 @@
+PERSON: BERNARDUS Roillet
+Also known as: Bernardus ROILLET.
+Description: Principal du collège de Bourgogne.
+Status: Maître.
+Gender: male.
+Active during: %1515-1516%.
+Born in: Lyonnais ?.
+Diocese of origin: Diocèse de Lyon..
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) avant ?.
+College affiliation: Collège de Bourgogne : principal en ;.
+Ecclesiastical status: Prêtre attesté en ;.
+Ecclesiastical positions held: Candidat à des bénéfices à la collation du chapitre de Notre-DamedeBeaujeu (diocèse de Mâcon) en; Candidat à des bénéfices à la collation du chapitre de Sainte-Marie-Madeleined'Aigueperse (diocèse d'Autun) en ;; Candidat à des bénéfices à la collation de l'abbé (bénédictin) de Saint-Germaind'Auxerre en ;; Candidat à des bénéfices à la collation du chapitre d'Amiens en ;; Candidat à des bénéfices à la collation du chapitre d'Autun en ;; Candidat à des bénéfices à la collation de l'église collégiale de Notre-DamedeBeaune (diocèse d'Autun) en ;; Candidat à des bénéfices à la collation de l'évêque et du chapitre de Langres en ;; Candidat à des bénéfices à la collation du prieur (clunisien) de Nogent-le-Rotrou (diocèse de Chartres) en ;; Candidat à des bénéfices à la collation de l'abbé de Saint-Germain-des-Prés en ;; Candidat à des bénéfices à la collation de l'archidiacre de Pithiviers en l'église d'Orléans en ;; Chanoine de Châlons-sur-Marne en ;; Chanoine de l'église collégiale de Saint-ThomasdeCuysello (diocèse de Lyon) en ;; Chapelain de la chapelle Sainte-Anne dans l'église de Mâcon en ;; Candidat à des bénéfices à la collation du chapitre de Saint-Germain-l'Auxerrois en ;; Candidat à des bénéfices à la collation du chapitre de Notre-DamedeParis en ;; Candidat à des bénéfices à la collation de l'évêque et du chapitre de Paris en février ;; Candidat à des bénéfices à la collation de l'abbé de Saint-Magloire en février ..
+University functions: Paris (Nation de France : procureur en ) ;; Paris (Université : recteur élu en (19 juin)) ;; Paris (Nation de France : Receveur en ) ;; Paris (Faculté de Décret : Maîtrerégent en ) ;; Paris (Faculté de Décret : doyen en %1510-1514%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour, 08/11/2024..

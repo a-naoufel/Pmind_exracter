@@ -1,0 +1,11 @@
+PERSON: ROBERTUS de Hamello
+Also known as: Robertus de HAMELLO; Robertus de HAMEL.
+Description: Docteur en droit canon.
+Status: Maître.
+Gender: male.
+Active during: %1357-1372%.
+Studied at: Paris vers %1357-1372%..
+Academic grades obtained: Étudiant en théologie (Paris) vers %1357-1366% ;; Étudiant en décret (Paris) vers %1357-1366% ;; Docteur en décret (Paris) vers ..
+Religious order: O.S.B. : moine clunisien..
+Religious functions: Prieur général des monachi nigri à l'Université de Paris en ;; Prieur de Sainte-Agathe (diocèse de Senlis) en ;; Prieur de Saint-Séverin-en-Condroz (diocèse de Liège) ?; Prieur de Saint-Séverin-en-Condroz (diocèse de Liège) en %1369-1372% ;; Grand-prieur de Cluny en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 13/09/2023)..

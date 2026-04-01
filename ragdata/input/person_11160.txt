@@ -1,0 +1,12 @@
+PERSON: ROBERTUS de Couciaco
+Also known as: Robertus de COUCIACO; Robert de COUCY.
+Description: ?Étudiant..
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Born in: Picardie (?Coucy)..
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Collège des Cholets) %1329-1330%..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège des Cholets..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction, Jean-Philippe Genet, dernière mise à jour 21/08/2024..

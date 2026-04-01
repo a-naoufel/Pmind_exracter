@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS de Gap
+Also known as: Guillaume de GAP; Guillaume de PROVENCE; Guillaume de SAINT-DENIS; Guillaume LEMIRE; Guillaume de MARCOURIS.
+Description: Abbé de Saint-Denis.
+Status: Incertain.
+Gender: male.
+Active during: %1152-1186%.
+Born in: Provence (Gap) ?.
+Studied at: ?.
+Academic grades obtained: Magister ?.
+Religious order: O.S.B. : moine bénédictin : abbaye (bénédictine) de Saint-Denis..
+Religious functions: Abbé de Saint-Denis %1173-1186% ;.
+Authored work: '(Éloge de saint Denys)', composed around %1169-1172%..
+Authored work: 'Vita Secundi philosophi, translata de graeco in latinum', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 16/04/2020..

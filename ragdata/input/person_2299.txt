@@ -1,0 +1,9 @@
+PERSON: FRANCISCUS Lumbardus
+Also known as: Franciscus LUMBARDUS.
+Description: Bachelier en médecine..
+Status: Gradué.
+Gender: male.
+Active during: %1329-1332%.
+Studied at: Paris %1329-1332%..
+Academic grades obtained: Bachelier en médecine (Paris) vers janvier ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 08-09-2021..

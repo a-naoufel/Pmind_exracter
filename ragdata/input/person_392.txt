@@ -1,0 +1,11 @@
+PERSON: ALBERTUS Roberti
+Also known as: Albertus ROBERTI; Albertus NOBLETI.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1386-1406%.
+Studied at: Paris %1386-1406%..
+Academic grades obtained: Bachelier en théologie (Paris) ?; Cette assignation a cependant été renouvelée au chapitregénéral (dominicain) de Palencia en (3 juin), et peut cette fois avoir abouti, en raison de la réintégration des Dominicains au sein de l’Université de Paris en (21 août) : ‘Assignamus ad legendum Sententias Parisius pro anno immediate sequenti intraneis debito fratrem Albertum Roberti de provincia Francie, cui substituimus fratrem Johannem Stephani Guingampensi …’ ;; Licencié en théologie (Paris) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins) %1386-1404% ?.
+University functions: Paris (Faculté de Théologie : lecteur des Sentences en %1403-1404% ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/06/2020)..

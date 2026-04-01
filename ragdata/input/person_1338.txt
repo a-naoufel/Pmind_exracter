@@ -1,0 +1,12 @@
+PERSON: BERNARDUS Magdunensis
+Also known as: Bernardus MAGDUNENSIS; Bernard de MEUNG.
+Description: Chanoine de Meung.
+Status: Extérieur.
+Gender: male.
+Active during: %1185-1200%.
+Studied at: Orléans ?.
+Academic grades obtained: Magister ?.
+Ecclesiastical positions held: Chanoine de Meung (St-Liphard)..
+Authored work: 'Summa dictaminum', composed around ?.
+Authored work: 'Vita Sancti Lifardi', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/03/2015).

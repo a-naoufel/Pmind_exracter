@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS Bachelier 2
+Also known as: Guillelmus BACHELER; Guillelmus BACHELIER.
+Description: Licencié en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1481-1496%.
+Diocese of origin: Diocèse de Tournai ;.
+Studied at: Paris (Nation de Picardie) %:1481-1496%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Maître ès arts (Paris) ;; Licencié en théologie (Paris) (27 janvier) ..
+College affiliation: Collège de Navarre ;; Collège de Maître-Gervais : grand boursier théologien en ;; Collège de Maître-Gervais : grand boursier théologien en ;.
+Academic relationships: Son maître est Petrus DOMVILLE pour la maîtrise en ;.
+Ecclesiastical status: Clerc du diocèse de Tournai ;.
+University functions: Paris (Collège de Maître-Gervais : régent ès arts) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet 17/09/2020..

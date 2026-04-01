@@ -1,0 +1,10 @@
+PERSON: BARTHOLOMAEUS Palissant
+Also known as: Barthélemy PALISSANT.
+Description: Auditeur des comptes du Collège de Dormans-Beauvais.
+Status: Incertain.
+Gender: male.
+Active during: %1384-1384%.
+Studied at: ?.
+Academic grades obtained: ?.
+College affiliation: Collège de Dormans-Beauvais : auditeur des comptes ;.
+Source: LAMOP : Opération Charles VI :.

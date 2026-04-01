@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Morel
+Also known as: Nicolaus MOREL; Colin MOREL.
+Description: Écolier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1425-1430%.
+Studied at: Paris %1425-1430%..
+Academic grades obtained: Étudiant (Paris) %1425-1430%..
+College affiliation: Collège de Dormans-Beauvais : écolier %1425-1430% ;.
+Family relationships: Son parent est peut-être Gilles MOREL ; Son parent est peut-être Jean MOREL ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 20/11/2023)..

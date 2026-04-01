@@ -1,0 +1,9 @@
+PERSON: FRANCISCUS Menardeau
+Also known as: Franciscus MENARDEAU; François MENARDEAU.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1498-1502%.
+Studied at: Paris %1498-1502%..
+Academic grades obtained: Étudiant en médecine (Paris) %1498-1499% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Docteur en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 09/09/2021..

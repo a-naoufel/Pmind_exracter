@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Villeblanche
+Also known as: Guillelmus de VILLEBLANCHE.
+Description: Maître ?.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Maître (Paris) en ?.
+Religious order: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/08/2015..

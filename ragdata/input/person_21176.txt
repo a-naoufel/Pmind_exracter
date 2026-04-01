@@ -1,0 +1,11 @@
+PERSON: PETRUS Clerici 8
+Also known as: Petrus CLERICI.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Born in: Picardie.
+Diocese of origin: Diocèse de Noyon..
+Studied at: Paris (Nation de Picardie) en ..
+Academic grades obtained: Maître (Paris) en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/08/2016..

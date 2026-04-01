@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Plaisance
+Also known as: Guillelmus PLAISANCE; Guillelmus PLAISANCE.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1379-1379%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris (Nation de France ?) ..
+Academic grades obtained: Étudiant (Paris) en ?.
+Ecclesiastical status: Clerc du diocèse de Paris en ;.
+Ecclesiastical positions held: Candidat à un bénéfice à la collation de l'évêque et du chapitre de Patis (Notre-Dame) sur le rotulus 'plurium magistrorum, doctorum, licentiatorum , baccal. et scolar. de Universitate Parisiens.' de ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019)..

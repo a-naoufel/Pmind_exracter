@@ -1,0 +1,12 @@
+PERSON: ROBERTUS de Maisenguerbe
+Also known as: Robertus de MAISENGUERBE.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1454-1454%.
+Born in: Artois (Mazingarbe ?) ?.
+Diocese of origin: Diocèse d’Arras ?.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège de Dainville : boursier en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

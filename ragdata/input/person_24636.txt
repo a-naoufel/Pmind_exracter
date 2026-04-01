@@ -1,0 +1,13 @@
+PERSON: HENRICUS de Gyen
+Also known as: Henricus de GYEN.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1398-1403%.
+Born in: Île-de-France (Paris) ?.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris %1398-1403% ;.
+Academic grades obtained: Étudiant en décret (Paris) en %1398-1403% ;.
+Ecclesiastical status: Clerc du diocèse de Paris en ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Magnus Rotulus (rotulus scolarium Parisiensum) de l’Université de Paris daté de (23 octobre) et présenté à BENOÎT XIII..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 8/11/2018..

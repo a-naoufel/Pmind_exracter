@@ -1,0 +1,11 @@
+PERSON: CAROLUS Cordier
+Also known as: Carolus CORDIER.
+Description: Chanoine de Troyes.
+Status: Étudiant.
+Gender: male.
+Active during: %1483-1495%.
+Studied at: Paris %1483-1495%..
+Academic grades obtained: Bachelier en droit civil :; Étudiant (Paris) %1493-1495%..
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Troyes %1483-1495% ;; Archidiacre d'Arcis-sur-Aube %1483-1493% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 31/03/2021)..

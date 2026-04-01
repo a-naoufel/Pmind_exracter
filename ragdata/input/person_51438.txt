@@ -1,0 +1,12 @@
+PERSON: GABRIEL de Rethonis
+Also known as: Gabriel de RETHONIS.
+Description: Ermite de Saint Augustin.
+Status: Étudiant.
+Gender: male.
+Active during: %1388-1390%.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Couvent (Augustin) de Paris (Grands-Augustins)..
+Religious order: O.E.S.A. : frère augustin..
+Religious functions: Prieurprovincial (augustin) de Terre-Sainte en %1388-1390% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe GENET 6/11/2020)..

@@ -1,0 +1,12 @@
+PERSON: STEPHANUS Remensis 3
+Also known as: Stephanus REMENSIS.
+Description: Doyen de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1239-1239%.
+Born in: Champagne (Reims ?) ;.
+Diocese of origin: Diocèse de Reims ?.
+Studied at: ?.
+Academic grades obtained: Maître ?.
+Ecclesiastical positions held: Chanoine de Reims ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire PRIOL ; dernière révision, Jean-Philippe GENET 2/06/2021..

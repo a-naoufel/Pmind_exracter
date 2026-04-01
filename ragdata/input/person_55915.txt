@@ -1,0 +1,15 @@
+PERSON: HERVEUS 1
+Also known as: HERVEUS.
+Description: Évêque de Troyes.
+Status: Maître.
+Gender: male.
+Active during: %1170-1223%.
+Born in: Champagne (Saint-Benoît-sur-Vanne : Courmorin) ;.
+Diocese of origin: Diocèse de Troyes ?.
+Studied at: Paris ;.
+Academic grades obtained: Maître en théologie ;.
+Academic relationships: Son maître est Pierre de CORBEIL.
+Social origin: Commun ;.
+Ecclesiastical status: Sous-diacre ;.
+Ecclesiastical positions held: Évêque de Troyes %1207-1223% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 03/05/2023..

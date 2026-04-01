@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Courtini
+Also known as: NICOLAUS Courtini.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1429-1429%.
+Studied at: Paris %1429-1429%..
+Academic grades obtained: Bachelier en théologie (Paris) ..
+Religious order: O.S.B. : moine bénédictin..
+University functions: Paris (Faculté de théologie : Lecteur cursor le 22 mars ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 24/02/2019..

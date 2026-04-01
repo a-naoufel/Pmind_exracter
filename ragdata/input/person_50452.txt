@@ -1,0 +1,10 @@
+PERSON: PETRUS Gilbert dit Bataille
+Also known as: Petrus GILBERT; Pierre GILBERT dit Bataille; Pierre BATAILLE; Perrenet GILBERT dit Bataille.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1435-1437%.
+Studied at: Paris (Nation de France) %1435-1437%..
+Academic grades obtained: Étudiant ès arts (Paris) %1435-1437%..
+College affiliation: Collège de Dormans-Beauvais : hôte %1435-1436% ;; Collège de Presles %1436-1437% ;; Collège de Dormans-Beauvais : boursier ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 10/09/2019..

@@ -1,0 +1,10 @@
+PERSON: SUNO Parvus
+Also known as: SWENO Parwus; Sweno PARWUS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1278-1278%.
+Born in: Suède.
+Studied at: Paris, ..
+Academic grades obtained: Étudiant (P), ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 02/02/2017..

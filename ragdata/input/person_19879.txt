@@ -1,0 +1,13 @@
+PERSON: FIRMINUS Coquerel 2
+Also known as: Firmin de COCQUEREL.
+Description: Doyen de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1316-1349%.
+Born in: Picardie ?.
+Studied at: ?.
+Family relationships: Son père est Geoffroy COQUEREL..
+Social origin: Bourgeoisie ;.
+Ecclesiastical positions held: Chanoine d'Amiens ;; Chanoine de Paris %1341-1348% ;; Doyen de Paris %1344-1348% ;; Évêque de Noyon %1348-1349% ;.
+Representation roles: Ambassadeur du roi de France auprès du Pape à Avignon %1344-1345% ;.
+Source: http://www.parismoyenage.fr/.

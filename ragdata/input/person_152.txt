@@ -1,0 +1,19 @@
+PERSON: ADRIANUS Van den Eeckhoute
+Also known as: Adrien VANDENEECKHOUTE.
+Description: Carme.
+Status: Maître.
+Gender: male.
+Active during: %1460-1498%.
+Born in: Flandre (Gand) ;.
+Diocese of origin: Diocèse de Tournai ?.
+Studied at: ?Paris..
+Academic grades obtained: ?Maître en théologie (Paris)..
+College affiliation: Couvent des Carmes..
+Religious order: Carme.
+Religious functions: Prieur (carme) de Gand %1466- % ;; Définiteur (province carme) de France ;; Visiteur (province carme) de Flandre..
+Authored work: 'In IV Sententiarum', composed around ?.
+Authored work: 'Sermones ad populum', composed around ?.
+Authored work: 'In Novum Testamentum', composed around ?.
+Authored work: 'In laude Sancti Crucis', composed around ?.
+Authored work: 'In Boethium de consolatione philosophiae', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

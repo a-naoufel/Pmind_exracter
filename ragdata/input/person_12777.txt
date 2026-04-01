@@ -1,0 +1,12 @@
+PERSON: PAULUS de La Platrière
+Also known as: Paulus de LA PLATRIERE; Paulus de PLATERIA.
+Description: Licencié en droit canon.
+Status: Maître.
+Gender: male.
+Active during: %1498-1525%.
+Studied at: Orléans ;; Paris %1498-1499%..
+Academic grades obtained: Bachelier droit canon (Orléans) ;; Étudiant en décret (Paris) ;; Licencié en décret (Paris) (le 27 mars) ..
+Academic relationships: Élève de Nicolaus de CONTY, D. Cn.L., en ..
+Religious order: O.S.B. : moine bénédictin de l'abbaye de Corbigny (diocèse d'Autun)..
+Religious functions: ?Moine de Saint-Leonard (sûrement Corbigny dans le diocèse d'Autun) en ;; Prieur de Bonny (probablement Bonny-sur-Loire dans le diocèse d'Autun) en ;; Abbé (O.S.B.) de Corbigny (diocèse d'Autun) en %1501-1525%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 03/12/2023..

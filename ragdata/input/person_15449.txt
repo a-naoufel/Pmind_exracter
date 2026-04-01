@@ -1,0 +1,11 @@
+PERSON: ANTHONIUS Grassy
+Also known as: Anthonius GRASSY; Anthonius GRASSEY; Anthonius GRASSI.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1478-1481%.
+Studied at: Paris (Collège de Sorbonne) ?%1478-1481%?..
+Academic grades obtained: Étudiant (Paris) ?%1478-1481%?..
+College affiliation: Hôte au collège de Sorbonne à Paris en ..
+Religious order: O.S.B. : moine bénédictin..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 6/10/2020..

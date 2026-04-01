@@ -1,0 +1,11 @@
+PERSON: REGINALDUS de Cuffia
+Also known as: Regnaud de CUFFIE.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1405-1405%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Dormans-Beauvais : boursier ;.
+Family relationships: Son parent est peut-être Jean de CUFFIE, boursier du Collège de Dormans-Beauvais en %1401-1403% ; Son parent est peut-être Robert CHAURE, huissier au Parlement de Paris, oncle de Regnaud de CUFFIE ; Son oncle est Robert CHAURE, huissier au Parlement de Paris ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 05/09/2019..

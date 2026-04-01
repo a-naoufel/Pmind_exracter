@@ -1,0 +1,11 @@
+PERSON: PETRUS Foulon
+Also known as: Petrus FOULON.
+Description: Chanoine d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1473-1498%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d’Amiens % -1498% ;; Curé d’Amiens (Saint-Nicolas le C.) %1473-1481% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 2/12/2021..

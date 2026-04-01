@@ -1,0 +1,10 @@
+PERSON: HENRICUS de Driden
+Also known as: Henricus de DRIDEN.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1397-1397%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) en ;.
+Academic relationships: Son maître est Gerardus DOMHER pour le baccalauréat en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 08/08/2025..

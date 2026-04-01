@@ -1,0 +1,13 @@
+PERSON: ANTHONIUS de Pararacio
+Also known as: Antonius de PARARACIO; Antonius PALLAVICINUS.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1373-1394%.
+Born in: Italie..
+Studied at: Florence..
+Academic grades obtained: Bachelier en théologie (Florence) ;; Maître en théologie..
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Milan (St-Eustorge)..
+Authored work: '(Opusculum in causa christifidelium contra novarum inventores sedicionum et scismatum, parricidas novos de perversitate (i.e. Universitate) Parisius) in quo renuntiationem Benedicti XIII impugnat)', composed around %1394..
+Authored work: 'Tractatus contra viam renunciationis domini nostri pape et atipape (propositam die 6 VI 1394 ab universitate Parisiensi', composed around %1394..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

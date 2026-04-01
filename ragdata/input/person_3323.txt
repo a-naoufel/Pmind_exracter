@@ -1,0 +1,10 @@
+PERSON: GARINUS Aurelianensis
+Also known as: Guerinus AURELIANENSIS; Guericus AURELIANENSIS.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1271-1271%.
+Studied at: ?.
+Academic grades obtained: Magister..
+Ecclesiastical positions held: Chanoine de Reims en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 7/01/2019..

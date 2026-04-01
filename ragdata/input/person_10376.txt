@@ -1,0 +1,12 @@
+PERSON: PETRUS de Bradley
+Also known as: Peter de BRADLEY; Peter de BRADELE; Pierre de BRADSLEY.
+Description: Fellow de Balliol College.
+Status: Extérieur.
+Gender: male.
+Active during: %1295-1310%.
+Born in: Angleterre..
+Studied at: Oxford..
+Academic grades obtained: Maître ès arts..
+University functions: Oxford (Balliol College : fellow %:1295-1310:%) ;.
+Authored work: 'Quaestio super Aristotelis Analytica priora', composed around ?.
+Authored work: 'Quaestio super Aristotelis Praedicamenta', composed around ?.

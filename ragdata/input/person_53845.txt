@@ -1,0 +1,11 @@
+PERSON: ADEMARUS de Belloforti
+Also known as: Ademarus de BELLOFORTI.
+Description: Chanoine de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1320-1334%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Limoges %1320-1333% ;; Chanoine de Rodez %1322-1333% ;.
+Other ecclesiastical functions: Vicaire de Rodez ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 2/06/2022..

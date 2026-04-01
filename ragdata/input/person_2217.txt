@@ -1,0 +1,10 @@
+PERSON: EBRARDUS de Wardes
+Also known as: Ewerardus de WARDES; Everhardus de WARDES.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1355-1355%.
+Born in: Livonie..
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 29/06/2021..

@@ -1,0 +1,21 @@
+PERSON: GUILLELMUS de Shyreswood
+Also known as: Guillaume de SHYRESWOOD; William SHIRWODE; William de SHERWWOD.
+Description: Trésorier de Lincoln.
+Status: Maître.
+Gender: male.
+Active during: %1254-1272%.
+Born in: Angleterre (Nottinghamshire ?)..
+Studied at: Oxford ?; Paris..
+Academic grades obtained: Maître ès arts (Paris) ?.
+Academic relationships: Pierre d'ESPAGNE est son élève ?.
+Ecclesiastical positions held: Trésorier de Lincoln %1252-1272% ;.
+University functions: Paris (Faculté des Arts : enseignant)..
+Authored work: 'Quaestiones super Petri Lombardi Sententias', composed around ?.
+Authored work: 'Syncategoremata', composed around ?.
+Authored work: 'Introductiones in logicam', composed around ?.
+Authored work: 'Petitiones contrarium', composed around ?.
+Authored work: 'Ars opponendi et respondendi', composed around ?.
+Authored work: 'De obligationibus', composed around ?.
+Authored work: 'De insolubilibus'.
+Authored work: 'Fallaciae', composed around ?.
+Source: MIRABILE, Federico CONTINI :.

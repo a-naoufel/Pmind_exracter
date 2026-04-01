@@ -1,0 +1,9 @@
+PERSON: HUBERTUS Fouchierre
+Also known as: Hubertus FOUCHIERRE.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 22/11/2018..

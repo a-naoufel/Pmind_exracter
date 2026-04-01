@@ -1,0 +1,10 @@
+PERSON: PETRUS Chopin
+Also known as: Petrus CHOPIN.
+Description: Official d’Angers.
+Status: Incertain.
+Gender: male.
+Active during: %1312-1314%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Other ecclesiastical functions: Official d’Angers %1368-1378% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/06/2022)..

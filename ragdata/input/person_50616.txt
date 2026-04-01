@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Sancto Jacobo
+Also known as: Guillelmus de SANCTO-JACOBO.
+Description: O.E.S.A..
+Status: Étudiant.
+Gender: male.
+Active during: %1335-1335%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Couvent (Augustin) de Paris en ..
+Religious order: O.E.S.A. : frère du couvent (Augustin) de Paris ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 05/09/2019..

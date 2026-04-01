@@ -1,0 +1,9 @@
+PERSON: HUGO Noël
+Also known as: Hugo NOËL; Hugues NOËL.
+Description: Étudiant en médecine à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1493-1495%.
+Studied at: Paris %1493-1495%..
+Academic grades obtained: Étudiant en médecine (Paris) %1493-1495%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe GENET, 08/09/2022..

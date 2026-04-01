@@ -1,0 +1,10 @@
+PERSON: RAIMUNDUS Johannis
+Also known as: Raimundus JOHANNIS.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Maître (Paris) en ?.
+Family relationships: Son parent est (peut-être) le Magister Johannes JOHANNIS ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 19/06/2016..

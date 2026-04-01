@@ -1,0 +1,9 @@
+PERSON: PHILIPPUS de Berigny
+Also known as: Philippus de BERIGNY; Philippus de BERIGNI; Philippus de BERINGI.
+Description: Apothicaire..
+Status: Incertain.
+Gender: male.
+Active during: %1322-1331%.
+Studied at: ?.
+Academic grades obtained: Étudiant ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 22/06/2021..

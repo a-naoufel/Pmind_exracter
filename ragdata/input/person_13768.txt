@@ -1,0 +1,9 @@
+PERSON: MATTHAEUS de Besu
+Also known as: Mathieu de BESU; Mathieu de BEZU; Mathieu de BORIZU.
+Description: Chirurgien parisien..
+Status: Extérieur.
+Gender: male.
+Active during: %1356-1356%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 17/09/2023)..

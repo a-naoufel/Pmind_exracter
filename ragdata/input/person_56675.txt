@@ -1,0 +1,14 @@
+PERSON: HUGO de Bansonio
+Also known as: Hugo de BANSONIO.
+Description: Évêque de Famagouste.
+Status: Incertain.
+Gender: male.
+Active during: %1229-1246%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse de Clermont ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Clermont %1235-1242% ;; Archidiacre de Saint-Flour %1235-1242% ;; Évêque de Famagouste ;.
+Other ecclesiastical functions: Official de Clermont ;; Official de Clermont %1230-1231% ;; Official de Clermont %1238-1240% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 28/09/2023)..

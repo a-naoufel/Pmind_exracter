@@ -1,0 +1,13 @@
+PERSON: NICOLAUS Bessy
+Also known as: Nicolaus BESSY; Nicolaus de BESSI; Nicolaus de BESSY.
+Description: Maîtrerégent de la Faculté de Théologie de Paris..
+Status: Maître.
+Gender: male.
+Active during: %1422-1454%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie) %1422-1435%..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Bachelier en théologie "cursor" (Paris) ;; Licencié en théologie (Paris) (31 décembre) ;; Maître en théologie (Paris) (8 juin) ;.
+College affiliation: Collège de Maître-Gervais ?.
+Academic relationships: Son élève est Albertus VORDEN lors de son premier cours des Lectures de la Bible, %1434-1435%..
+University functions: Paris (Faculté de Théologie : Lecteur de la Bible comme bachelier en théologie "cursor" le 8 juin ) ;; Paris (Faculté de Théologie : Lecteur des Sentences en septembre ) ;; Université (Nonce auprès du papa à Rome en ).; Paris (Faculté de Théologie : Maître-régent %1433-1435%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe GENET, 25/09/2022..

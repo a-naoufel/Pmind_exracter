@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Grewet
+Also known as: Guillelmus GREWET; Guillaume GREWET.
+Description: Étudiant en médecine à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1405-1406%.
+Studied at: Paris (Faculté de médecine) %1405-1406%..
+Academic grades obtained: Étudiant en médecine (Paris) %1405-1406%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe GENET, 20/03/2020..

@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS de Aula 1
+Also known as: Guillaume de AULA.
+Description: Bachelier en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1342-1349%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris.
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en théologie (Paris) ;.
+Ecclesiastical status: Prêtre en ..
+Ecclesiastical positions held: Provision pour un canonicat avec expectative de prébende de Saint-Denis (églisecollégiale Saint-Paul) : mandat à l’abbé de Paris (Sainte-Geneviève), à l’abbé de Paris (Saint-Victor) et au doyen de Paris ;; Recteur de Saint-Denis (égliseparoissiale Saint-Rémy).; Provision pour un bénéfice ecclésiastique à la collation de l’archevêque, du doyen et du chapitre de Sens : mandat à l’abbé de Paris (Sainte-Geneviève), au sous-chantre de Paris et à l’official de Paris ;.
+University functions: Paris (Faculté de théologie : lecteur des Sentences ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 23/11/2019..

@@ -1,0 +1,110 @@
+PERSON: BONAVENTURA de Bagnoregio
+Also known as: BONAVENTURA de Bagnoreggio; Jean de FIDENZA; Saint BONAVENTURE.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1242-1274%.
+Born in: Italie (Latium : CivitadiBagno-Regio)..
+Diocese of origin: Diocèse de Viterbo ?.
+Studied at: Paris %1235-1256%..
+Academic grades obtained: Maître ès arts (Paris).; Bachelier en théologie (Paris) : bachelier biblique en , sententiaire en ;; Maître en théologie (Paris) en ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Family relationships: Son père est Giovanni di FIDANZA, médecin ; Sa mère est Maria di RITELLO..
+Academic relationships: Son maître est Alexandre de HALES..
+Religious order: O.F.M. : frère franciscain ..
+Religious functions: MinistreGénéral des Mineurs..
+Ecclesiastical positions held: Cardinal-évêque d’Albano en ..
+University functions: Paris (Faculté de Théologie, couvent franciscain : lectures en tant que bachelier biblique, %1248-1250%, pour lesquelles il choisit de commenter l’évangile selon Saint LUC ;; Paris (Faculté de Théologie, couvent franciscain : lectures en tant que bachelier sententiaire, %1250-1252% ;; Paris (Faculté de Théologie, couvent franciscain : maître-régent %1253-1257%)..
+Authored work: 'Expositio in Lucam', composed around %:1248-1250% à Paris..
+Authored work: 'Commentarius in librum Ecclesiastae', composed around %:1248-1257% à Paris..
+Authored work: 'Comment. in Evangelium Joannis', composed around %1248-1257% à Paris..
+Authored work: '(Super Canticum Canticorum)', composed around %1248-1257% à Paris..
+Authored work: '(Super Librum Proverbiorum)', composed around %:1248-1257% à Paris..
+Authored work: 'Officium de passione Domini', composed around %1242-1248%, dedicated to À la demande de LOUIS IX, roi de France..
+Authored work: 'Christus unus omnium magister (sermo)', composed around ?, à Paris (Couvent Franciscain)..
+Authored work: 'Sermones de Tempore', composed around %1250-1251% ?.
+Authored work: 'Comment. in libros Sententiarum', composed around %1250-1252%..
+Authored work: 'Quaestiones disputatae VIII de mysterio Trinitatis', composed around %1253-54% env..
+Authored work: 'Quaestiones disputatae VII de scientia Christi', composed around %1253-1254%.
+Authored work: 'Quaestiones disputatae de productione rerum, de imagine Dei et anima humana', composed around %1253-1254%.
+Authored work: 'Quaestiones disputatae variae [Vaticanae] : Quaestiones 9 de ieiunio', composed around %1253-1254%.
+Authored work: 'Quaestiones disputatae variae [Vaticanae] : Quaestiones 8 de oratione', composed around ?.
+Authored work: 'Quaestiones disputatae variae [Vaticanae] : Quaestiones 17 de restitutione', composed around ?.
+Authored work: 'Breviloquium de intelligentia scripturae et fidei christianae', composed around Avant ..
+Authored work: 'De triplici testimonio sanctissimae Trinitatis (sermo)', composed around ?%1253-1257% à Paris..
+Authored work: 'Soliloquium', composed around ?..
+Authored work: 'De quinque festivitatibus pueri Jesu', composed around ?..
+Authored work: 'De praeparatione ad missam', composed around ?%1259-1260%..
+Authored work: 'Itinerarium mentis in Deum', composed around , à LaVerna..
+Authored work: 'Regula novitiorum', composed around ?%1259-1260%..
+Authored work: 'De perfectione vitae ad sorores', composed around ?., dedicated to À la demande d'Isabelle de FRANCE, fondatrice et abbesse du couvent de Longchamp..
+Authored work: 'Lignum vitae', composed around ?..
+Authored work: 'Vitis mystica', composed around ?..
+Authored work: 'Collationes VII de Decem Praeceptis', composed around (Carême : 6 mars-17 avril) à Paris..
+Authored work: 'Collationes IX de septem donis Spiritus Sancti [Diffusa]', composed around (25 février-7 avril) à Paris..
+Authored work: 'Collationes IX de septem donis Spiritus Sancti [Hortatur]', composed around ?.
+Authored work: 'De triplici via', composed around ?%1259-1269%..
+Authored work: 'Expositio super Regulam FF. Minorum', composed around ? à Paris..
+Authored work: 'De sanctissimo corpore Christi sermo', composed around ?%1270-1271% en Allemagne..
+Authored work: 'Tractatus de plantatione Paradisi', composed around ?..
+Authored work: 'Collationes in Hexaemeron', composed around (9 avril- 28 mai) au couvent (franciscain) de Paris..
+Authored work: 'Responsio ad obiecta contra quamdam distinctionem in divinis', composed around ?.
+Authored work: 'Quaestio de existentia angelorum', composed around ?.
+Authored work: 'Quaestio de existentia animae in corpore', composed around ?.
+Authored work: 'De regimine animae', composed around ?%1264-1274%, dedicated to ? A la demande de Blanche de FRANCE, fille de Saint LOUIS..
+Authored work: 'Epistola de imitatione Christi', composed around ?.
+Authored work: 'De reductione artium ad theologiam', composed around ?.
+Authored work: 'Sermo de regno Dei descripto in parabolis evangelicis', composed around ?.
+Authored work: 'Collationes in Evangelium Joannis', composed around ?.
+Authored work: 'Prothemata', composed around ?.
+Authored work: 'Sermones de Beata Virgine Maria', composed around ?.
+Authored work: 'Sermones de diversis', composed around ?.
+Authored work: '(Sermones de Sancti Francisci)', composed around ?.
+Authored work: 'Sermones de Sanctis', composed around ?.
+Authored work: 'De Angelis (sermo et collatio)', composed around ?.
+Authored work: 'De S.Thoma apostolo (sermo)', composed around ?.
+Authored work: 'In Assumptione B. Mariae Virginis', composed around ?.
+Authored work: 'In Coena Domini (sermo)', composed around ?.
+Authored work: 'In Parasceve (sermo)', composed around ?.
+Authored work: 'Sermones Dominicales', composed around ?.
+Authored work: 'Epistola de tribus quaestionibus ad magistrum innominatum', composed around ?.
+Authored work: 'Epistola continens viginti qinque memorialia', composed around ?.
+Authored work: 'Corona Beatae Mariae Virginis', composed around ?.
+Authored work: 'Laudismus de Sancta Cruce', composed around ?.
+Authored work: 'Quaestio de superfluo', composed around ?.
+Authored work: 'De sacramento confirmationis', composed around ?.
+Authored work: 'Quaestio de imagine recreationis', composed around ?.
+Authored work: 'Epistola ad omnes ministros provinciales et Custodes Ordinis Fratrum Minorum', composed around (23 avril à Paris)..
+Authored work: 'Epistola ad Guidonem comitem Flandriae et Matildem uxorem eius', composed around (à Saint-Omer)., dedicated to Adressée au Comte Gui de FLANDRE..
+Authored work: 'Epistola ad abatissam et sorores sanctae Clarae monasterii de Assisio', composed around (à LaVerna)., dedicated to Adressée aux Clarisses d'Assise..
+Authored work: 'Constitutiones generales Narbonenses', composed around ..
+Authored work: 'Definitiones Capituli generalis Narbonensis', composed around ..
+Authored work: 'Epistola ad Fratrem Ministrum Aragoniae', composed around (à Assise)., dedicated to Adressée au ministreprovincial d'Aragon..
+Authored work: 'Epistola ad fratrem Laurentium', composed around (29 septembre à Assise)., dedicated to Adressée au Frère LAURENT, VisiteurdesClarisses de Tuscie..
+Authored work: 'Rubricae datae in Capitulo generali Piseno', composed around (au ChapitreGénéral (franciscain) de Pise)..
+Authored work: 'Epistola ad omnes Ordinis Ministros Provinciales', composed around (à Paris)..
+Authored work: 'Epistola ad Fratres universos', composed around (le 27 mai à Paris)..
+Authored work: 'Explanationes Constitutionum generalium Narbonensium', composed around ?..
+Authored work: 'Epistola de concordia cum Capitulo sanctae Mariae Cameracensis stabilienda', composed around .
+Authored work: 'Epistola ad Recommandatos beatae Virginis in urbe Rome', composed around (7 juillet, à Rome)., dedicated to A l'archiconfrérie du Gonfalone (Rome)..
+Authored work: 'Epistola ad Fratres Custodem et Guardianum Pisarum', composed around (16 mai à Paris)..
+Authored work: 'Epistola ad Ministrum et Fratres Congregationis beatae Virginis in civitate Brixiensi', composed around (à Lyon)..
+Authored work: 'Epistola ad decanum et Capitulum Ecclesiae Sarburgensis', composed around (23 janvier à Lyon)., dedicated to Lettre de confraternité au Doyen et au Chapitre de Saarburg..
+Authored work: 'Epistola ad Capitulum Sanctae Mariae Mantensis', composed around (à Arras)., dedicated to Adressée au Chapitre de Mantes..
+Authored work: 'Epistola ad decanum et canonicos Werdenses', composed around (à Assise)., dedicated to Adressée aux chanoines de Kaiserswerth, près de Düsseldorf..
+Authored work: 'Epistola ad abbatem sanctae Mariae Blesensis', composed around (20 mars à Paris)., dedicated to Adressée à l'abbé (augustin) de Bourgmoyen (Blois)..
+Authored work: 'Legenda Sancti Francisci', composed around ?, dedicated to À la demande du ChapitreGénéral (franciscain) de Narbonne en pour substituer aux légendes sur Saint FRANÇOIS une biographie officielle sérieuse..
+Authored work: 'Legenda minor S. Francisci', composed around ?%1261-1262%.
+Authored work: 'Novem Lectiones de Canonizatione et de translatione Sancti Francisci', composed around ?.
+Authored work: 'Quaestiones disputatae IV de perfectione evangelica', composed around %1254-1256% à Paris..
+Authored work: 'Quaestio reportata de mendicitate cum annotationibus Gulielmi de S. Amore', composed around ?.
+Authored work: 'Apologia pauperum contra calumniatorem', composed around .
+Authored work: 'Quaestiones disputatae variae [Vaticanae] : Quaestiones 38 de elemosyna et mendicitate', composed around ?.
+Authored work: 'In librum Sapientiae Comment.', composed around %1248-1257% à Paris..
+Authored work: 'De sex alis Seraphim', composed around ?.
+Authored work: 'Determinationes quaestionum circa Regulam Fratrum Minorum', composed around ?.
+Authored work: 'Epistola de sandalis Apostolorum', composed around ?.
+Authored work: 'Quare Fratres Minores praedicent et confessiones audiant', composed around Après ..
+Authored work: '(Sermones de Sanctis)', composed around ?.
+Authored work: 'Sermo super regulam Fratrum Minorum', composed around ?.
+Source: MIRABILE :.

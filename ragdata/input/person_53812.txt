@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Polinhaco
+Also known as: Guillelmus de POLINHACO; Guillelmus de CHALENCONIO.
+Description: Chanoine de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1484-1504%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts en ;; Docteur in utroque jure en ;.
+Family relationships: Son parent est Bernard de CHALENCON, évêque de Rodez ; Son parent est Jacobus de POLINHACO auquel il succède à Rodez ;.
+Social origin: Noble ;.
+Ecclesiastical status: Clerc ;.
+Ecclesiastical positions held: Chanoine de Rodez %1484-1494% ;; Archidiacre de Millau %1494-1504% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 31/05/2022..

@@ -1,0 +1,11 @@
+PERSON: SIMON de Sanwyz
+Also known as: Simon de SANWYZ.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1224-1230%.
+Studied at: Paris ;.
+Academic grades obtained: Maître en ;.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) ..
+Religious order: O.F.M. : frère franciscain ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 9/05/2024..

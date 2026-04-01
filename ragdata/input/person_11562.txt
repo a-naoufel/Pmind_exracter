@@ -1,0 +1,28 @@
+PERSON: STEPHANUS Brulefer
+Also known as: Stephanus BRULEFER; Stephanus BROLEFER; Stephanus BROULEFER; Stephanus BRULEVER; Etienne BRULIFER; Stephanus PILLET.
+Description: Maître en théologie franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1474-1497%.
+Born in: Bretagne (Saint-Malo)..
+Diocese of origin: Diocèse de Saint-Malo ?.
+Studied at: Paris %1475-1482%..
+Academic grades obtained: Licencié en théologie (Paris) (le 4 mars) ;; Docteur en théologie (Paris) (le 15 octobre) ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) ..
+Academic relationships: Son maître est Guillelmus de VALLE RULLONIS, O.F.M...
+Religious order: O.F.M. : frère du couvent (franciscain) de Dinan ;.
+Religious functions: Frère du couvent (franciscain observant) de l'île de Césambre (près de SaintMalo) en %1490-1495% ;; Frère du couvent (franciscain) de Dinan en ..
+University functions: Mayence (Lecteur en Théologie au couvent franciscain) ;; Mayence (Lecteurgénéral au couvent franciscain) ;; Mayence (Directeur des études au couvent (franciscain) de Mayence) ;; Metz (Lecteur au couvent françiscain en ) ;.
+Authored work: 'Reportata in quatuor libros Sententiarum Sancti Bonaventurae', composed around ?.
+Authored work: 'Formalitates in doctrinam Scoti', composed around ?.
+Authored work: 'Identitatem et distinctionem', composed around ?.
+Authored work: 'Sermo de verbo divino', composed around ?.
+Authored work: 'Posito decem propositionum an personae in divinis sint, ut usu habet, depingendae et quae personarum sit depingibilis', composed around ?.
+Authored work: 'Tractatus seu questionis de timore servile, et ceteris donis Dei', composed around ?.
+Authored work: 'Questionis de symonia in administratione sacramentum', composed around ?.
+Authored work: 'Questionis de debita solutione atque missarum valore', composed around ?.
+Authored work: 'Declaratio totalis mysteriorum missae', composed around ?.
+Authored work: 'Sermonis de conceptione purissima, virtutum prerogativa, meritorum excellentia, assumptione quoque gloriosa, dignissime dei genitricis Marie', composed around ?.
+Authored work: 'Tractatus seu questionis paupertate christi et apostolorum eius', composed around ?.
+Authored work: 'Tractatum defensorium adversus quemdam episcopum minoritum', composed around ?.
+Source: Répertoire des auteurs franciscains préparé par Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress :.

@@ -1,0 +1,11 @@
+PERSON: PETRUS 11
+Also known as: PETRUS.
+Description: Magister.
+Status: Incertain.
+Gender: male.
+Active during: %1311-1311%.
+Born in: Suède.
+Studied at: ?.
+Academic grades obtained: Magister (?), avant ;.
+Other ecclesiastical functions: Procureur de NICOLAUS Catilli, archevêque d'Uppsala, à la Curieromaine, ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 25/05/2018, révision 07/04/2023..

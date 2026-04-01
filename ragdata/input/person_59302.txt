@@ -1,0 +1,10 @@
+PERSON: GALFREDUS Le Normant 2
+Also known as: Geoffroy LE NORMANT.
+Description: Maître des grammairiens du collège d’Autun.
+Status: Maître.
+Gender: male.
+Active during: %1446-1448%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) ?.
+College affiliation: Collège d’Autun : maître des grammairiens du Collège ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

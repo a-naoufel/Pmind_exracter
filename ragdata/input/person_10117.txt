@@ -1,0 +1,10 @@
+PERSON: PETRUS de Gellenkirken
+Also known as: Petrus de GELLENKIRKEN.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1355-1355%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Academic relationships: Son maître est Johannes de AQUIS pour le baccalauréat en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 20/02/2024..

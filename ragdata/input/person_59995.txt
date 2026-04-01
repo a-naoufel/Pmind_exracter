@@ -1,0 +1,10 @@
+PERSON: PETRUS Paste
+Also known as: Petrus PASTE.
+Description: Boursier du collège de Dainville.
+Status: Étudiant.
+Gender: male.
+Active during: %1409-1413%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) %1413-1418% ;.
+College affiliation: Collège de Dainville : boursier à partir de %1409-1410% jusqu’en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

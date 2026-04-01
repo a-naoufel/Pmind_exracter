@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Ciroberti
+Also known as: Guillelmus CIROBERTI.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1448-1448%.
+Born in: Lyonnais ?.
+Diocese of origin: Diocèse de Lyon..
+Studied at: Paris %1448-1448%..
+Academic grades obtained: Bachelier en décret (Paris) 24 juillet ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 3/03/2022..

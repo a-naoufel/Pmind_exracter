@@ -1,0 +1,10 @@
+PERSON: PETRUS Normanni
+Also known as: Petrus NORMANNI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1445-1445%.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) en ;.
+University functions: Paris (Nation de France : maître-régent en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 05/09/2023..

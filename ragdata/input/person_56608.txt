@@ -1,0 +1,11 @@
+PERSON: PETRUS de Vaux
+Also known as: Petrus de VAUX.
+Description: Licencié ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1451-1451%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Châlons ;.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Licencié ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 19/09/2023..

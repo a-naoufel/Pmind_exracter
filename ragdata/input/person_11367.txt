@@ -1,0 +1,9 @@
+PERSON: SIMON Bevion
+Also known as: Simon BEVION; Simon BENYON.
+Description: Licencié en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1496-1500%.
+Studied at: Paris %1496-1498%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 30/11/2018..

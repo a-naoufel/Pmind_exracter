@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Paris 2
+Also known as: Guillelmus PARIS.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1436-1442%.
+Studied at: Paris..
+Academic grades obtained: Bachelier en théologie curseur (Paris) %1436-1437% :.
+College affiliation: Sorbonne ?.
+Academic relationships: Son maître est Johannes PULCHRIPATRIS ;.
+University functions: Paris (Faculté de Théologie : Lecteur curseur, 1er cour en (9 janvier) ;; Paris (Faculté de Théologie : Lecteur curseur, 2e cour en (9 septembre)) ;; Paris (Faculté de Théologie : Lecteur des Sentences, %1437-1438%) ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 3/04/2023 ;.

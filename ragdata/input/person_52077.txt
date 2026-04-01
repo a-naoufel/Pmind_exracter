@@ -1,0 +1,9 @@
+PERSON: BERTRANDUS Le Bidault
+Also known as: Bertrand LE BIDAULT; Bertrand LE BIDAUT.
+Description: Exercice illégal de la médecine à Paris..
+Status: Extérieur.
+Gender: male.
+Active during: %1322-1322%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; dernière mise à jour, Jean-Philippe Genet, 20/03/2021)..

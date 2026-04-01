@@ -1,0 +1,11 @@
+PERSON: SIMON Bonnet
+Also known as: Simon BONNET.
+Description: Évêque de Senlis.
+Status: Incertain.
+Gender: male.
+Active during: %1447-1496%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Évêque de Senlis %1447-1496%.
+University functions: Paris (Université : conservateur des privilèges) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 7/12/2023..

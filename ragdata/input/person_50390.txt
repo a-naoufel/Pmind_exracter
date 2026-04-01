@@ -1,0 +1,11 @@
+PERSON: MATTHAEUS Forgeti
+Also known as: Mathieu FORGET.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1426-1432%.
+Studied at: Paris %1426-1432%..
+Academic grades obtained: Étudiant (Paris) %1426-1432%..
+College affiliation: Collège de Dormans-Beauvais : boursier %1426-1432% ;.
+Family relationships: Son parent est peut-être Jean FORGET ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 22/04/2019..

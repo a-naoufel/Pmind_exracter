@@ -1,0 +1,9 @@
+PERSON: EMELINA Regrateria
+Also known as: Emelina REGRATERIA.
+Description: Habitante de Paris.
+Status: Extérieur.
+Gender: female.
+Active during: %1312-1312%.
+Studied at: ?.
+Social origin: Commun, habitante de Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 14/07/2021)..

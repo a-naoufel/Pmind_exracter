@@ -1,0 +1,12 @@
+PERSON: GISLEBERTUS Over de Vecht
+Also known as: Gislebertus over de VECHT.
+Description: Chantre de Liège.
+Status: Étudiant.
+Gender: male.
+Active during: %1417-1455%.
+Diocese of origin: Diocèse de Cambrai ;.
+Studied at: Paris avant ;; Cologne %1417-1425%..
+Academic grades obtained: Étudiant (Paris) avant ;; Maître ès arts (Cologne) ;; Bachelier ès lois (Cologne) ;.
+Ecclesiastical positions held: Recteur de Nonilia avant ;; Chanoine de Tongeren ;; Prévôt de Tongeren ;; Vicaire de Liège (Saint-Martin) ;; Chanoine de Liège ;; Chantre de Liège % -1455% ;.
+Other ecclesiastical functions: Official de Liège ;.
+Source: RAG ;.

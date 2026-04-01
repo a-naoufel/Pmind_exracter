@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Anglicus 3
+Also known as: Guillelmus ANGLICUS; Guillaume L'ANGLAIS.
+Description: Maître.
+Status: Incertain.
+Gender: male.
+Active during: %1327-1327%.
+Studied at: Paris.
+Academic grades obtained: Magister..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/02/2022..

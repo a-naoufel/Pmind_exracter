@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Chery
+Also known as: Guillelmus de CHERY.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+Religious order: Régulier ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/03/2022)..

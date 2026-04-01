@@ -1,0 +1,12 @@
+PERSON: GUIDO Bridart
+Also known as: Guido BRIDART.
+Description: O. Cist..
+Status: Étudiant.
+Gender: male.
+Active during: %1428-1428%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège Saint-Bernard..
+Religious order: O. Cist..
+Religious functions: Sous-prieur du collège Saint-Bernard en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/01/2022..

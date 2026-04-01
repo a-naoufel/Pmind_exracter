@@ -1,0 +1,10 @@
+PERSON: HENRICUS Pictaviensis
+Also known as: Henricus PICTAVIENSIS.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1262-1262%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Sens ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 24 octobre 2022..

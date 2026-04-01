@@ -1,0 +1,13 @@
+PERSON: BLANCHETUS Bonis de Nemosio
+Also known as: Blanchetus BONIS de Nemosio.
+Description: Chanoine augustin.
+Status: Étudiant.
+Gender: male.
+Active during: %1385-1388%.
+Born in: Nemours ?.
+Diocese of origin: Diocèse de Sens..
+Studied at: Paris ..
+Academic grades obtained: Étudiant en décret (Paris) en ;.
+Religious order: Chanoinerégulier (augustin) de Soissons (Saint-Jean-des-Vignes) en ..
+Ecclesiastical positions held: Supplique en pour un bénéfice ecclésiastique dans la province de Sens à la collation de l'abbé et du couvent du monastère de Soissons (Saint-Jean-des-Vignes)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 22/03/2021..

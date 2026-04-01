@@ -1,0 +1,11 @@
+PERSON: GUIDO Sebastiani
+Also known as: Guido SEBASTIANI.
+Description: Chanoine de Mâcon.
+Status: Maître.
+Gender: male.
+Active during: %1365-1389%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts :; Étudiant en droit canon (Paris) :.
+Ecclesiastical positions held: Chanoine de Mâcon %1369-1389% ;; Recteur de Charlieu ;.
+Other ecclesiastical functions: Official de Mâcon %1365-1384% ;; Vicaire-général de Mâcon %1383-1389% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 13/02/2023)..

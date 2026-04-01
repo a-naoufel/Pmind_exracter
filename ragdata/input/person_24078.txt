@@ -1,0 +1,11 @@
+PERSON: GERARDUS Viot
+Also known as: Girard VIOT.
+Description: Clerc de la chapelle du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1448-1452%.
+Studied at: Paris %1448-1452%..
+Academic grades obtained: Étudiant (Paris) %1448-1452%..
+College affiliation: Collège de Dormans-Beauvais : clerc de la chapelle en %1448-1452% ;.
+Ecclesiastical positions held: Clerc de la chapelle de Paris (Collège de Dormans-Beauvais) %1448-1452% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/01/2022..

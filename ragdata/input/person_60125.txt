@@ -1,0 +1,10 @@
+PERSON: MICHAEL Grenet 1
+Also known as: Michael GRENET.
+Description: Résident du collège de Dainville.
+Status: Étudiant.
+Gender: male.
+Active during: %1394-1408%.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dainville : boursier en %1394-1395% puis résident du collège ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

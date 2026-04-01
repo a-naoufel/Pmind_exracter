@@ -1,0 +1,11 @@
+PERSON: HUGO de Novalis
+Also known as: Hugo de NOVALIS; Hugo de NOYALHES; Hugo de NOYALES.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1466%.
+Studied at: Paris (Collège de Marmoutier) %1464-1466%..
+Academic grades obtained: Étudiant (Paris) %1464-1466%..
+College affiliation: Etudiant au collège de Marmoutier de Paris en ;.
+Religious order: O.S.B. : moine bénédictin du monastère de Marmoutier (diocèse de Tours)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 03/09/2022)..

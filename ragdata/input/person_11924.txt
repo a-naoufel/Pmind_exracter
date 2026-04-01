@@ -1,0 +1,9 @@
+PERSON: THOMAS Guilbert
+Also known as: Thomas GUILBERT; Thomas GUILLEBERT; Thomas GILEBERT; Thomas GUILLEBERTI; Thomas GILBERTI.
+Description: Licencié en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1475-1482%.
+Studied at: Paris %1475-1482%..
+Academic grades obtained: Étudiant en médecine (Paris) %1475-1476% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 10/10/2024..

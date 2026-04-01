@@ -1,0 +1,10 @@
+PERSON: STEPHANUS Turbaudi
+Also known as: Stephanus TURBAUDI.
+Description: Chanoine de Lavaur..
+Status: Maître.
+Gender: male.
+Active during: %1328-1362%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant (Paris) %1329-1330%.; Maître ès arts (?Paris) attesté en ;; Docteur en théologie (?Paris) attesté en ..
+Ecclesiastical positions held: ?Curé de l'églisemonastique de Dourdan (Saint-Germain) au diocèse de Chartres jusqu'en ;; ?Prieur de Saint-Amour à Auxerre à partir de juillet ;; Chanoine avec expectative de prébende du chapitrecathédral de Lavaur en novembre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 17/05/2016..

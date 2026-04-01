@@ -1,0 +1,8 @@
+PERSON: SIMON de Nigella 1
+Also known as: Simon de NIGELLA; Simon de CLERMONT-NESLES.
+Description: Regent du royaume de France.
+Status: Extérieur.
+Gender: male.
+Active during: %1228-1286%.
+Social origin: Noble..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 19/02/2024)..

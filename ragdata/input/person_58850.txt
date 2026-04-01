@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Clamquin
+Also known as: Nicolaus CLAMQUIN; Nicolaus CLANQUIN.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1429-1429%.
+Born in: Hainaut (Cambrai) ?.
+Diocese of origin: Diocèse de Cambrai ;.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en décret (Paris) (juin) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 15/05/2025..

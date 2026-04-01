@@ -1,0 +1,12 @@
+PERSON: PETRUS Hays
+Also known as: Pierre HAYS; Petrus HAYS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1506-1513%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Lisieux..
+Studied at: Paris (Nation de Normandie) %1510-1513%..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Étudiant en décret (Paris) %1510-1513%..
+College affiliation: Étudiant au collège Coqueret à Paris, %1510-1513%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 29/11/2018..

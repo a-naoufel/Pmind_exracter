@@ -1,0 +1,10 @@
+PERSON: PHILIPPUS 2
+Also known as: PHILIPPUS.
+Description: Archidiacre de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1180-1180%.
+Studied at: Paris en ..
+College affiliation: Collège des Dix-Huit ?.
+Ecclesiastical positions held: Archidiacre de Paris (Notre-Dame)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 29/03/2022)..

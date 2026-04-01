@@ -1,0 +1,10 @@
+PERSON: EBRARDUS de Roia
+Also known as: Evrardus de ROIA.
+Description: Chanoine d'Amiens.
+Status: Extérieur.
+Gender: male.
+Active during: %1217-1217%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chanoine d'Amiens en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 29/06/2021..

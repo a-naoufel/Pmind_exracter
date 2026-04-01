@@ -1,0 +1,22 @@
+PERSON: GUILLELMUS de Conchis
+Also known as: Guillelmus de CONCHIS.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1110-1154%.
+Born in: Normandie (Conches ?) ?.
+Diocese of origin: Diocèse d’Évreux ?.
+Studied at: Chartres ;.
+Academic grades obtained: Magister (Chartres ?)..
+Academic relationships: Son maître est Bernard de CHARTRES ; Son élève est Johannes SARESBERIENSIS en %1138-1141% ;.
+University functions: Paris ?; Chartres (École cathédrale : maître enseignant à partir de environ)..
+Authored work: 'Philosophia Mundi', composed around %1125-1135% ?.
+Authored work: 'Dragmaticon Philosophiae', composed around ?.
+Authored work: 'Comentarium super Timaeum', composed around %1120-1125% ?.
+Authored work: 'Comentarium super Consolationem', composed around %1120-1125% ?.
+Authored work: 'Glosae super Macrobii Somnium Scipionis', composed around ?.
+Authored work: 'Glosae super Martianum Capellam', composed around ?.
+Authored work: 'Glosae in Juvenalem', composed around ?.
+Authored work: 'Glosae super Institutiones Prisciani', composed around ?.
+Authored work: 'Libellus in Physicam', composed around ?.
+Source: ARLIMA, Laurent BRUN et Thibaut RADOMME :.

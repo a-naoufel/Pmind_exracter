@@ -1,0 +1,10 @@
+PERSON: EVENUS Quelevet
+Also known as: Evenus QUELEVET.
+Description: Procureur de la Nation de France.
+Status: Maître.
+Gender: male.
+Active during: %1480-1480%.
+Studied at: Paris (Nation de France) ;.
+Academic grades obtained: Maître ès arts (Paris) ..
+University functions: Paris (Nation de France : procureur en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 30/07/2021..

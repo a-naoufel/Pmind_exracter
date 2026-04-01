@@ -1,0 +1,7 @@
+PERSON: MICHAEL Moreau
+Also known as: Michel MOREAU.
+Description: Barbier parisien..
+Status: Extérieur.
+Gender: male.
+Active during: %1425-1425%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 27/10/2018..

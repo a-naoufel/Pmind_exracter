@@ -1,0 +1,10 @@
+PERSON: PETRUS 13
+Also known as: PETRUS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris (Nation de Picardie ??).
+Academic grades obtained: Étudiant.
+Ecclesiastical positions held: Recteur d'Ailly-sur-Noye en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/04/2021)..

@@ -1,0 +1,10 @@
+PERSON: OLIVERIUS Prioleti
+Also known as: Oliverius PRIOLETI.
+Description: Chanoine de Nantes.
+Status: Gradué.
+Gender: male.
+Active during: %1446-1452%.
+Studied at: Paris..
+Academic grades obtained: Bachelier en décret (Paris) ;.
+Ecclesiastical positions held: Chanoine de Nantes ;; Archidiacre d’Ouche ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 31/03/2023)..

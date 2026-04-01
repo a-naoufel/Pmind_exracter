@@ -1,0 +1,11 @@
+PERSON: CONRADUS Swanbach
+Also known as: Conradus SWANBACH.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1492-1492%.
+Born in: Rhénanie ?.
+Diocese of origin: Diocèse de Mayence..
+Studied at: ?Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 28/04/2021)..

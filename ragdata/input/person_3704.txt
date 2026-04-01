@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Aimeline
+Also known as: Guillelmus AIMELINE.
+Description: Bachelier en décret.
+Status: Maître.
+Gender: male.
+Active during: %1379-1379%.
+Born in: Normandie..
+Studied at: Paris (Nation de Normandie)..
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en décret (Paris) ;.
+Ecclesiastical status: Sous-diacre..
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus de ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 07/02/2022)..

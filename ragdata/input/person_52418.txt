@@ -1,0 +1,11 @@
+PERSON: PRIOR
+Also known as: PRIOR; PRIEUR.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1216-1236%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Reims %1216-1226% ;.
+Other ecclesiastical functions: Official de Reims %1215-1226% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 16/06/2021..

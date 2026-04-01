@@ -1,0 +1,13 @@
+PERSON: ANCELINUS de Vitriaco
+Also known as: Ancelinus de VITRIACO.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1378-1378%.
+Born in: Champagne..
+Diocese of origin: Diocèse de Châlons-en-Champagne..
+Studied at: Paris (Faculté de Décret)..
+Academic grades obtained: Étudiant en décret..
+Ecclesiastical status: Prêtre du diocèse de Chalons-sur-Marne..
+Ecclesiastical positions held: Recteur de l'égliseparoissiale de Paris (Saint-Christophe) en ;; Chapelain (autel Saint-Léonard) de Paris (Notre-Dame) en ;; Chapelain (chapelle Saint-Jacques) de Vitry-en-Perthois (église collégiale Sainte-Marie) en ;; Chanoine prébendé de Vitry-en-Perthois (église collégiale Sainte-Marie) en ;; Provision pour un canonicat avec expectative de prébende à l'église de Chalons-sur-Marne en à la recommandation du Cardinal Hugues de SAINT-MARTIAL..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/08/2015..

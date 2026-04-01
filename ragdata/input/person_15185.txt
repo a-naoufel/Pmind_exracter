@@ -1,0 +1,12 @@
+PERSON: ROBERTUS Masselin 2
+Also known as: Robert MASSELIN.
+Description: Recteur de l'Université de Caen..
+Status: Étudiant.
+Gender: male.
+Active during: %1438-1446%.
+Born in: Normandie (Rouen) ;.
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris %1438-1438% ;; Caen %1441-1446%..
+Academic grades obtained: Étudiant en théologie (Paris) ;; Étudiant (Caen) %1441-1446%..
+University functions: Recteur de l'Université de Caen en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 8/12/2020)..

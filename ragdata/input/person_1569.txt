@@ -1,0 +1,12 @@
+PERSON: BURCARDUS Liber
+Also known as: Burcardus LIBER; Burcardus FRY.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1400-1429%.
+Born in: Alémanie (Engen)..
+Diocese of origin: Diocèse de Constance ?.
+Studied at: Heidelberg .; Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) .; Licencié ès arts (Paris) .; Maître ès arts (Paris) ..
+Academic relationships: Son maître est Hermannus ESLINGEN pour le baccalauréat et la licence ; Son maître est Johannes de SUTPHANIA pour la maîtrise ;.
+Source: RAG.<99c> STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 27/03/2021)..

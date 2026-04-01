@@ -1,0 +1,11 @@
+PERSON: ANDREAS de Galliano
+Also known as: Andreas de GALLIANO.
+Description: Franciscain.
+Status: Extérieur.
+Gender: male.
+Active during: %1313-1337%.
+Born in: Italie (?Abruzzes)..
+Studied at: Naples..
+Religious order: O.F.M. : frère du couvent (franciscain) de Solmona..
+Religious functions: Socius du provincial (franciscain) des Abruzzes %1313-1314% ;; Custode de Chieti ;; Provincial des Abruzzes..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 1/08/2020)..

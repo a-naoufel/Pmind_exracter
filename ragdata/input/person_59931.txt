@@ -1,0 +1,12 @@
+PERSON: HUGO de Bruay
+Also known as: Hugo de BRUAY.
+Description: Boursier du collège de Dainville.
+Status: Maître.
+Gender: male.
+Active during: %1505-1506%.
+Born in: Artois (Bruay-en-Artois ?) ?.
+Diocese of origin: Diocèse d’Arras ;.
+Studied at: Paris (Nation de Picardie) en ..
+Academic grades obtained: Maître (Paris) en ;.
+College affiliation: Collège de Dainville : boursier jusqu’en (16 mai) ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

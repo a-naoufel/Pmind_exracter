@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Feron
+Also known as: Guillermus FERON.
+Description: Boursier du collège de Dainville.
+Status: Maître.
+Gender: male.
+Active during: %1505-1510%.
+Born in: Artois ?.
+Diocese of origin: Diocèse d’Arras ;.
+Studied at: Paris en %1505-1510%..
+Academic grades obtained: Maître ès arts (Paris) ;.
+College affiliation: Collège de Dainville : boursier jusqu’en août ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

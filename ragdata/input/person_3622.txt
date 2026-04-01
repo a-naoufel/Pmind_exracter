@@ -1,0 +1,52 @@
+PERSON: GUILLELMUS de Luci
+Also known as: Guillelmus de LUCI; Guillelmus de LUXI; Guillelmus de LEXI; Guillelmus de LEXOVIO; Guillaume de LUXEUIL; Guillaume de LUXI; Guillaume de LEXI; Guillaume de LISI; Guillaume de LISSY; Guillaume de BUSSY; Guillaume de SISSY.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1267-1275%.
+Born in: Bourgogne ?.
+Studied at: Paris %1267-1275%..
+Academic grades obtained: Maître en théologie (Paris) )..
+College affiliation: Couvent (dominicain) de Paris %1267-1275%..
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Paris..
+University functions: Paris (Faculté de Théologie : maître-régent ca. %1269-1270% ou %1273-1274%)..
+Authored work: '(Postillae sur Jérémie)', composed around ?.
+Authored work: '(Postillae sur les Lamentations)', composed around ?.
+Authored work: '(Postillae sur Baruch)', composed around ?.
+Authored work: '(Postillae sur les XII prophètes mineurs)', composed around ?.
+Authored work: 'Postillae super Apocalipsim', composed around ?.
+Authored work: 'Postillae in Canonica', composed around ?.
+Authored work: '(Sermon pour la Sexagésime ; collation)', composed around (20 Février)..
+Authored work: '(Sermon pour le 1er dim. de Carême ; collation)', composed around (6 mars)..
+Authored work: 'Sermo (et collatio) de nativitate domini fr. Guillemi de Lissi', composed around .
+Authored work: '(Sermon pour la fête de S.Etienne)', composed around ..
+Authored work: 'Sermo<et collatio> de innocentibus fr. Guillemi de Lissi', composed around .
+Authored work: '(Sermon I pour la Septuagésime)', composed around (21 Février)..
+Authored work: '(Sermon II pour la Septuagésime)', composed around (21 Février)..
+Authored work: '(Sermon pour le 1er dimanche de Carême ; collation)', composed around (13 Mars)..
+Authored work: '(Sermon pour le 2ème Dimanche de Carême)', composed around (20 Mars)..
+Authored work: '(Sermon pour l'Annonciation)', composed around (25 Mars)..
+Authored work: '(Sermon pour les Rameaux ; collation)', composed around (17 Avril)..
+Authored work: '(Sermon pour le 1er dim.aprés Pâques)', composed around (1 Mai)..
+Authored work: '(Sermon pour le 3e dim. aprés Pâques ; collation)', composed around (15 Mai)..
+Authored work: '(Sermon pour la Trinité)', composed around ?.
+Authored work: '(Sermon pour le 4e dim. aprés la Pentecôte)', composed around (10 Juillet)..
+Authored work: '(Sermon pour le 8e dim. aprés la Pentecôte)', composed around (7 Août)..
+Authored work: '(Sermon pour le 15e dim. aprés la Pentecôte)', composed around (2 Octobre)..
+Authored work: '(Sermon pour le lundi de la pentecôte)', composed around (29 Mai)..
+Authored work: '(Sermon pour le 3e dim. de l'Avent)', composed around (16 Décembre)..
+Authored work: '(Sermon pour le 1er dim. de Carême)', composed around (3 Mars)..
+Authored work: '(Sermon pour le 24e dim. aprés la Pentecôte)', composed around (10 Nov)..
+Authored work: '(Sermon pour Noël)', composed around (25 Déc)..
+Authored work: '(Prothema Mag. Willelmi de Lusci)', composed around ?.
+Authored work: '(Extraits d'un sermon)', composed around ?.
+Authored work: 'Sermo<et collatio> in XXII dom. fr. Guillemi de Busci', composed around ?.
+Authored work: 'Sermo in Nativit. B. Marie fr. Willelmi de Busci', composed around ?.
+Authored work: 'De B.Maria fr.Willelmi de Busci', composed around ?.
+Authored work: 'Sermo in Adventu vel nativ. Domini vel annuncicione fr.Guillelmi de Buscy', composed around ?.
+Authored work: 'Sermo in Asumpcione b.Marie fr.Guillelmi de Buscy', composed around ?.
+Authored work: 'Sermo in quolibet sabbato per annum fr. Guillelmi de Busci', composed around ?.
+Authored work: 'Sermo de b. Katerina fr. Guillelmi de Busci', composed around ?.
+Authored work: '(Sermon)', composed around .
+Authored work: '(Sermon pour le 4e dim. après l'Epiphanie ; collation)', composed around (30 janvier)..
+Source: MIRABILE, Andrea CENCINI :.

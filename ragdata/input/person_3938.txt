@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Johannis Filii Willelmi
+Also known as: Guillelmus JOHANNISFILIIWILLELMI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1362-1362%.
+Diocese of origin: Diocèse de Tournai..
+Studied at: Paris (Nation de Picardie)..
+Academic grades obtained: Maître ès arts (Paris) ..
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus de la Nation de Picardie en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 8/02/2018..

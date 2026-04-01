@@ -1,0 +1,46 @@
+PERSON: FRANCISCUS Eiximenis
+Also known as: Francesc EIXIMENIS.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1360-1409%.
+Born in: Catalogne (Gérone) ;.
+Diocese of origin: Diocèse de Barcelone..
+Studied at: Paris (couvent franciscain) ;; Oxford (couvent franciscain) ;; Cologne (couvent franciscain) ;; Toulouse..
+Academic grades obtained: Maître en théologie (Toulouse) ;.
+Religious order: Franciscain : couvent (franciscain) de Gérone..
+Religious functions: Custode du couvent (franciscain) de Barcelone %1375-1383%..
+Ecclesiastical positions held: Diacre du diocèse de Barcelone en ;; Patriarche d’Alexandrie ;; Evêque d’Elne %1408-1409%..
+University functions: Valence %1383-1408%..
+Representation roles: Concile de Perpignan en ..
+Authored work: 'Doctrina compendiosa', composed around ?.
+Authored work: 'Sermonaris', composed around ?.
+Authored work: 'Summa theologica', composed around ..
+Authored work: 'Liber de angelis [versio latine]', composed around ?.
+Authored work: 'Llibre dels Angels [versio catalane]', composed around à Valence..
+Authored work: 'Pastorale', composed around ., dedicated to Dédié à Hugo de LLUPIA Y BAGES, évêque de Valence et Michele MIRACLE, curé de Penaguila..
+Authored work: 'Llibre del Crestiá (Primer del Crestiá)', composed around %1378-1381%., dedicated to Ecrit à la demande de PIERRE III, roi d’Aragon et des magistats et des patriciens de Barcelone : l’ouvrage devait comporter 12 volumes dont seul quatre (I, II, III, XII) ont été écrit tandis que le Regiments de la cosa publica a été rajouté comme les chapitres 357 à 395..
+Authored work: 'Llibre del Crestiá (Segon del Crestiá)', composed around %1382-1383%..
+Authored work: 'Llibre del Crestiá (Terç del Crestiá)', composed around à Valence..
+Authored work: 'Psalterium alias laudatorium Papae Benedicto XIII dedicatum', composed around ., dedicated to Dédié au Pape BENOÎT XIII..
+Authored work: 'Exposicio del Psalms', composed around ?.
+Authored work: 'Llibre de les Dones', composed around ..
+Authored work: 'Vida de Jesucrist', composed around %1397-1398%, dedicated to Écrit à la demande de Pedro de ARTES à l’intention des laïcs..
+Authored work: 'Scala Dei o tractat de contemplacio', composed around ?.
+Authored work: 'Cercapou', composed around ?.
+Authored work: 'Exposició de la Regla dels Frares Menors', composed around ?.
+Authored work: 'De Religio', composed around ?.
+Authored work: 'Libro de les virtuts', composed around ?.
+Authored work: 'De pomo', composed around ?.
+Authored work: 'Compendium Animae', composed around ?.
+Authored work: 'Lettres (2)', composed around et ; autographes..
+Authored work: 'Summa philosophica', composed around ?.
+Authored work: 'Ars praedicandi populo', composed around ..
+Authored work: 'Allegationes … ad probandum quod ecclesia Christi sive praelati eiudem habeant de iure temporalem iurisdictionem', composed around ?.
+Authored work: 'Regiment de la cosa publica', composed around à Valence., dedicated to Dédié aux Jurats de Valence..
+Authored work: 'Llibre del Crestiá (Dotzé del Crestiá)', composed around ?.
+Authored work: 'El `Tractat d'usura'-148.', composed around ?.
+Authored work: 'De triplici statu mundi', composed around ..
+Authored work: 'Tractat de la concepció de la Verge', composed around ?.
+Authored work: 'Doctrina compendiosa de vivre justament', composed around ?.
+Source: JONAS (Marie-Laure SAVOYE) : http://jonas.irht.cnrs.fr/.

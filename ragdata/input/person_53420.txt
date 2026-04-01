@@ -1,0 +1,16 @@
+PERSON: REGINALDUS de Puteorum Villa
+Also known as: Reginaldus de PUTEORUMVILLA; Renaud de POUZZOLES.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1240-1242%.
+Born in: Ialie (Campanie : Pouzzoles ?) ?.
+Studied at: Paris ?.
+Academic grades obtained: Maître en théologie (Paris) ?.
+University functions: Paris (Faculté de Théologie : maître-régent vers %1240-1242% ?) ?.
+Authored work: 'Comment in lib. III-IV Sententiarum', composed around %1240-1242% ?.
+Authored work: 'Super I Sent', composed around %1240-1242% ?.
+Authored work: 'Super II Sent', composed around %1240-1242% ?.
+Authored work: 'Super IV Sent', composed around %1240-1242% ?.
+Authored work: 'Super IV Sent', composed around %1240-1242% ?.
+Source: MIRABILE : Pietro Antonio PODOLAK :.

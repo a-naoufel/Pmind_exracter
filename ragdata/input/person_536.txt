@@ -1,0 +1,12 @@
+PERSON: ALPHONSUS de Hispania 1
+Also known as: Alfonso of SPAIN; Alphonse d'ESPAGNE.
+Description: Recteur de Dungarvan.
+Status: Extérieur.
+Gender: male.
+Active during: %1285-1295%.
+Born in: Espagne ?.
+Studied at: Oxford ..
+Academic grades obtained: Magister ..
+Family relationships: Sa parente est ELEANORE de Castille, reine d'Angleterre..
+Social origin: Noble..
+Ecclesiastical positions held: Recteur de Dungarvan (Co. Wexford) %1293-1295% au moins..

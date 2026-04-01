@@ -1,0 +1,11 @@
+PERSON: LUDOVICUS de Bavaria
+Also known as: Ludovicus de BAVARIA.
+Description: Augustin..
+Status: Extérieur.
+Gender: male.
+Active during: %1360-1361%.
+Born in: Bavière ?.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.E.S.A. : frère (augustin)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 18/11/2020)..

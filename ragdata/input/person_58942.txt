@@ -1,0 +1,12 @@
+PERSON: RADULPHUS de Montaium
+Also known as: Radulphus de MONTANIUM; Raoul de MONTAGNY.
+Description: Archidiacre de Bresse.
+Status: Incertain.
+Gender: male.
+Active during: %1234-1235%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Chalon ;.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical positions held: Chanoine de Chalon %1234-1235% ;; Archidiacre de Bresse %1234-1235% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/05/2025..

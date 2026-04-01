@@ -1,0 +1,10 @@
+PERSON: IVO Sinonis
+Also known as: Yvo SINONIS.
+Description: Chanoine de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1448-1495%.
+Studied at: ?.
+Academic grades obtained: Bachelier en droit canon en ;.
+Ecclesiastical positions held: Vicairegénéral de Poitiers %1456-1457% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 16/11/2022..

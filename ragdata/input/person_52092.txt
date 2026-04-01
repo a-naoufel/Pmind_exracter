@@ -1,0 +1,10 @@
+PERSON: RADULPHUS Porcelet
+Also known as: Raoul PORCELET.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1371-1371%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+Ecclesiastical status: Clerc..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/03/2021..

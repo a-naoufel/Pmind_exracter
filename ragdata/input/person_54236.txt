@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Boyvin
+Also known as: Guillelmus BOYVIN.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1438-1438%.
+Studied at: Paris..
+Academic grades obtained: Bachelier en théologie (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 19/09/2022..

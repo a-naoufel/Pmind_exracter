@@ -1,0 +1,13 @@
+PERSON: ROGARIUS de Monasterio
+Also known as: Rogerus de MONASTERIO.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1425-1428%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris ?) ;; Bachelier en décret (Paris) en (17 août) ;; Licence en décret (Paris) en (30 mars) ;.
+Academic relationships: Son maître est Herveus POUCHARDI pour la licence en décret en ;.
+Ecclesiastical status: Prêtre en ;.
+Ecclesiastical positions held: Curé de Trévières (diocèse de Bayeux) en ;.
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (L. IV) en (20 septembre) pour la 1ère année et le 1er volume) ;; Paris (Faculté de Décret : Lecteur des Décrétales (L. III) en (29 octobre) pour la 2e année et le 2e volume) ;; Paris (Faculté de Décret : Lecteur des Décrétales (L. VI) en (15 février) pour la 3e année et le 3e volume) ;; Paris (Faculté de Décret : Lecteur des Décrétales (L. V) en (11 octobre) pour la 4e année et le 4e volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/03/2022)..

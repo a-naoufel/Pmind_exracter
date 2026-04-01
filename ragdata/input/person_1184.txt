@@ -1,0 +1,12 @@
+PERSON: BARTHOLOMAEUS 1
+Also known as: BARTHELEMY.
+Description: Cardinal.
+Status: Maître.
+Gender: male.
+Active during: %1220-1230%.
+Born in: Lombardie ?.
+Studied at: Paris..
+Academic grades obtained: Maître en décret..
+Family relationships: Son parent est (peut-être) Johannes de FLORENTIA ; Son neveu est Piovano di FIGLINO de Fiesole..
+Ecclesiastical positions held: Chanoine de Châlons (La Trinité) ;; Chanoine de Châlons %1220-1228% ;; Cardinal-prêtre de Ste-Prudentienne %1227-1230%..
+Source: http://www2.fiu.edu/~mirandas/bios1227.htm#Barthelemy.

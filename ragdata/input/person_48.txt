@@ -1,0 +1,9 @@
+PERSON: ADAM Martin
+Also known as: Adam MARTIN; Adam MARTINI.
+Description: Chirurgien.
+Status: Maître.
+Gender: male.
+Active during: %1422-1447%.
+Studied at: Paris %1425-1447%.
+Academic grades obtained: Maître-chirurgien ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux, dernière révision : Jean-Philippe GENET, 13/08/2022..

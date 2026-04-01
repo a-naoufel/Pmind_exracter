@@ -1,0 +1,9 @@
+PERSON: PETRUS de Noa
+Also known as: Petrus de NOA.
+Description: Bachelier en médecine.
+Status: Gradué.
+Gender: male.
+Active during: %1326-1326%.
+Studied at: Paris %1326-1326%..
+Academic grades obtained: Bachelier en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 26/02/2024)..

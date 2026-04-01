@@ -1,0 +1,10 @@
+PERSON: GALFREDUS Le Caron
+Also known as: Gauffridus LECARON; Gauffridus le CARON.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1431-1431%.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en théologie (Paris) ;; Bachelier curseur..
+University functions: Paris (Faculté de Théologie : curseur, premier cours en (23 janvier)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 03/06/2022)..

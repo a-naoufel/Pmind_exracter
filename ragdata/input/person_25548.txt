@@ -1,0 +1,14 @@
+PERSON: FULCO Darifabre
+Also known as: Fulco DARIFABRE.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1394-1394%.
+Born in: Limousin ?.
+Diocese of origin: Diocèse de Tulle ;.
+Studied at: Paris (Nation de France ?) %1394-1394% ;.
+Academic grades obtained: Étudiant (Paris) ;.
+Social origin: Noble ;.
+Ecclesiastical status: Clerc du diocèse de Tulle en ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus présenté par Elias de LESTRANGE, évêque de Saintes à BENOÎT XIII en (25-29 octobre) à Avignon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 3/02/2019..

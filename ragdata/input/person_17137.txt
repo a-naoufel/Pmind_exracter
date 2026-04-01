@@ -1,0 +1,9 @@
+PERSON: ADAM de Gravia
+Also known as: ADAM de GRAVIA.
+Description: Chanoine de Chartres.
+Status: Incertain.
+Gender: male.
+Active during: %1345-1345%.
+Studied at: ?.
+Ecclesiastical positions held: Chanoine de Chartres en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

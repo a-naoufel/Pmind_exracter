@@ -1,0 +1,9 @@
+PERSON: PETRUS Videt 1
+Also known as: Petrus VIDET.
+Description: Procureur.
+Status: Incertain.
+Gender: male.
+Active during: %1456-1456%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

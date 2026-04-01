@@ -1,0 +1,11 @@
+PERSON: LUDOVICUS de Aurelianis
+Also known as: Louis d’ORLÉANS.
+Description: Évêque de Beauvais.
+Status: Incertain.
+Gender: male.
+Active during: %1385-1396%.
+Studied at: ?.
+Academic grades obtained: Licencié ès lois ;.
+Family relationships: Noble ? Son grand-père est PHILIPPE VI, roi de France. Son père est PHILIPPE, duc d’Orléans ;.
+Ecclesiastical positions held: Chanoine de Rouen %1385-1389% ;; Archidiacre de Cambrai %1388-1391% ;; Évêque de Poitiers %1391-1395% ;; Évêque de Beauvais %1395-1396% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 06/01/2023.

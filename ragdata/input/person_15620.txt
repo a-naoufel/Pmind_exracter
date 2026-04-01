@@ -1,0 +1,12 @@
+PERSON: ANCELINUS Doublet
+Also known as: Ancelinus DOUBLET.
+Description: Bachelier Décret.
+Status: Gradué.
+Gender: male.
+Active during: %1487-1487%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse d'Amiens.
+Studied at: Paris %1487-1487%..
+Academic grades obtained: Bachelier Décret (Paris) (le 11 mai) ..
+Ecclesiastical status: Prêtre du diocèse d'Amiens..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 20/08/2015..

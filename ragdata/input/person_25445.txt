@@ -1,0 +1,13 @@
+PERSON: ODO Beatricis
+Also known as: Odo BEATRICIS; Oudard BIATRIX.
+Description: Écolier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1401-1403%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Soissons ;.
+Studied at: Paris (Nation de France) %1401-1403%..
+Academic grades obtained: Étudiant ès arts (Paris) ;.
+College affiliation: Collège de Dormans-Beauvais : écolier en %1401-1403% ;.
+Ecclesiastical status: Clerc en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/01/2019..

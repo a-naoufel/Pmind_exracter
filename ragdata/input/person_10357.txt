@@ -1,0 +1,18 @@
+PERSON: PETRUS de Anglia
+Also known as: Petrus de ANGLIA; Pierre d'ANGLETERRE.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1303-1316%.
+Born in: Angleterre..
+Studied at: Paris %:1303-1305%..
+Academic grades obtained: Maître en théologie (Paris ) ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Religious order: O.F.M. : frère franciscain..
+Religious functions: Ministreprovincial (franciscain) de Haute-Allemagne à Cologne.; il présida le chapitreprovincial (franciscain) de Munich () ;; il présida le chapitreprovincial (franciscain) de Francfort () ;; il présida le chapitreprovincial (franciscain) de Fribourg-en-Brisgau-im-B. () ;; il participa au chapitregénéral (franciscain) de Barcelone en ;; il présida le chapitreprovincial (franciscain) de Strasbourg () ;; il présida le chapitreprovincial (franciscain) de Ratisbonne ()..
+University functions: Paris (Faculté de Théologie : Maître-régent au couvent franciscain %1303-1305%)..
+Representation roles: Il participe au concile de Vienne en en tant que maître en théologie..
+Authored work: 'Quodlibet I', composed around %1303-1304%.
+Authored work: 'Quodlibet II', composed around %1304-1305%.
+Authored work: 'Quodlibet II', composed around %1305-1306%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 10/02/2021..

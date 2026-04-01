@@ -1,0 +1,11 @@
+PERSON: GERARDUS Hesseli
+Also known as: Gerardus HESSELI; Gerardus HESSELN.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1469-1470%.
+Born in: Pays-Bas (Hollande) ;.
+Diocese of origin: Diocèse de Utrecht ;.
+Studied at: Paris (Nation Anglo-allemande) %1469-1470% ;.
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Source: RAG ;.

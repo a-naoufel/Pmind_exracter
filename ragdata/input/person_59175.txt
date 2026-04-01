@@ -1,0 +1,8 @@
+PERSON: EGIDIA de Maante
+Also known as: Egidia de MAANTE.
+Description: Femme d’un drapier.
+Status: Extérieur.
+Gender: female.
+Active during: %1341-1345%.
+Family relationships: Son mari est Bechino de MAANTE, drapier ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

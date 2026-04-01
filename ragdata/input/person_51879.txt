@@ -1,0 +1,11 @@
+PERSON: PETRUS de Molento 2
+Also known as: Petrus de MOLENTO.
+Description: Clunisien.
+Status: Étudiant.
+Gender: male.
+Active during: %1350-1360%.
+Studied at: Bologne ;.
+Academic grades obtained: Paris.; Étudiant en théologie (Paris) ;.
+Religious order: O. Clun..
+University functions: Bologne (l’un des membres fondateurs de la Faculté de Théologie vers ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 29/01/2021)..

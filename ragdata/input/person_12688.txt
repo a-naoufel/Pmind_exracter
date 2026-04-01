@@ -1,0 +1,12 @@
+PERSON: ROGARIUS Lonnet
+Also known as: Rogerius LONNET.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1460-1460%.
+Studied at: Paris %1460-1460%..
+Academic grades obtained: Bachelier en théologie (Paris) vers ..
+Academic relationships: Son maître est Johannes de OLIVA, D.T., en ..
+Religious order: O.S.B. : moine bénédictin ;.
+University functions: Lecteur de la Bible (1er cours) à Paris le 25 mai ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 05/09/2024)..

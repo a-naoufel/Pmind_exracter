@@ -1,0 +1,12 @@
+PERSON: MATTHAEUS de Atrebato 1
+Also known as: Mathaeus de ATREBATO.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1295-1295%.
+Born in: Artois (Arras ?) ?.
+Diocese of origin: Diocèse d’Arras ?.
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Maître ès arts (Paris) en.
+University functions: Paris (Université : témoin d’un acte du recteur en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/11/2019..

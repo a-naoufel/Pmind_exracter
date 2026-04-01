@@ -1,0 +1,11 @@
+PERSON: PETRUS Ruffi de Casan
+Also known as: Petrus RUFFI de Casan.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1451-1464%.
+Born in: Lyonnais ?.
+Diocese of origin: Diocèse de Lyon ;.
+Studied at: Paris (Nation de France) %1451-1464%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 17/08/2016..

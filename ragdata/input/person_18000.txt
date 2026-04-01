@@ -1,0 +1,8 @@
+PERSON: PETRUS Emmelet
+Also known as: Pierre EMMELET.
+Description: Parcheminier.
+Status: Suppôt.
+Gender: male.
+Active during: %1368-1368%.
+Studied at: Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 13/03/2024)..

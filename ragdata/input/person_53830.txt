@@ -1,0 +1,10 @@
+PERSON: BERTONIUS de Vaxello
+Also known as: Bertonius de VAXELLO; Bertonius de VASSELLO.
+Description: Chanoine de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1438-1438%.
+Studied at: ?.
+Academic grades obtained: Bachelier in utroque jure ;.
+Ecclesiastical positions held: Chanoine de Rodez ;; Prévôt de Clermont (Sainte-Marie) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 1/06/2022..

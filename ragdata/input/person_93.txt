@@ -1,0 +1,9 @@
+PERSON: ADAM de Melun
+Also known as: Adam de MELUN; Adam de MELEUN.
+Description: Chambellan du roi de France.
+Status: Extérieur.
+Gender: male.
+Active during: %1360-1360%.
+Studied at: ?.
+Social origin: Noble..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

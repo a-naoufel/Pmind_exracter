@@ -1,0 +1,12 @@
+PERSON: NICOLAUS Guernapin
+Also known as: Nicolas GUERNAPIN.
+Description: Bachelier en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1385-1387%.
+Born in: Île-de-France (Paris) ;.
+Diocese of origin: Diocèse de Paris ?.
+Studied at: Paris %1385-1387%..
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en médecine (Paris) ..
+Ecclesiastical status: Clerc..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 18/10/2023)..

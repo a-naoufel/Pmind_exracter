@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Brechir
+Also known as: Guillelmus BRECHIR.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1402-1403%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Tréguier ;.
+Studied at: Paris %1402-1403% ;.
+Academic grades obtained: Étudiant en décret (Paris) en %1403-1403% ;.
+Ecclesiastical status: Prêtre du diocèse de Tréguier en ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Magnus Rotulus (rotulus scolarium Parisiensum) de l’Université de Paris daté de (23 octobre) et présenté à BENOÎT XIII..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 6/11/2018..

@@ -1,0 +1,8 @@
+PERSON: RAULINA La Ruelle
+Also known as: Raulina LARUELLE.
+Description: Maîtresse d’école.
+Status: Suppôt.
+Gender: female.
+Active during: %1449-1451%.
+Studied at: Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 29/08/2020..

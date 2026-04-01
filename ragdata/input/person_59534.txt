@@ -1,0 +1,10 @@
+PERSON: RADULPHUS de Don
+Also known as: Rodulphus de DON.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1370-1370%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Maître ès arts (Paris) en ;.
+Academic relationships: Son élève est Johannes de BUREN pour le baccalauréat en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 07/08/2025..

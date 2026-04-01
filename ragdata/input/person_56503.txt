@@ -1,0 +1,14 @@
+PERSON: PETRUS de Valenciennes
+Also known as: Pierre de VALENCIENNES.
+Description: Maître.
+Status: Étudiant.
+Gender: male.
+Active during: %1180-1200%.
+Born in: Hainaut (Valenciennes ?) ?.
+Diocese of origin: Diocèse de Cambrai ?.
+Studied at: Paris..
+Academic grades obtained: Maître (Paris) ?.
+University functions: Paris (Maître enseignant le droit canon)..
+Authored work: 'Prologue ‘Bene composite domui’', composed around Vers ..
+Authored work: '(Gloses sur la Summa)', composed around ?.
+Source: Bio-Bibliographical Guide to Medieval and Early Modern Jurists ;.

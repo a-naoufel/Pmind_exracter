@@ -1,0 +1,17 @@
+PERSON: EBRARDUS Yprensis
+Also known as: Everard d’YPRES; Eberhardus YPRENSIS.
+Description: Cistercien.
+Status: Maître.
+Gender: male.
+Active during: %1146-1226%.
+Born in: Flandres (Ypres)..
+Diocese of origin: Diocèse de Thérouanne ?.
+Studied at: Chartres.; Paris %1141-1142% ;.
+Academic grades obtained: Magister..
+Academic relationships: Son maître est Gilbert de LAPORREEà la fois à Chartres et à Paris..
+Religious order: O.Cist. : moine de l’abbaye (cistercienne) de MoutierenArgonne.; O.Cist. : moine cistercien de Clairvaux..
+University functions: Paris (professeur de droit ?)..
+Authored work: 'Epistola de quibusdam articulis fidei', composed around ?.
+Authored work: 'Dialogus Rati et Everardi', composed around ?..
+Authored work: 'Summula decretionum questionum', composed around Vers ..
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

@@ -1,0 +1,15 @@
+PERSON: THOMAS Le Cervoisier
+Also known as: Thomas LECERVISIER.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1423-1473%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Coutances ;.
+Studied at: ?.
+Academic grades obtained: Bachelier in utroque ;.
+Family relationships: Son oncle est Raoul ROUSSEL, archevêque de Rouen ;.
+Social origin: Commun ?.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Rouen %1448-1473% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 31/10/2021..

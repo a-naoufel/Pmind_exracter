@@ -1,0 +1,11 @@
+PERSON: PETRUS Le Prestre
+Also known as: Petrus LEPRESTRE; Pierre LEPRESTRE.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1465-1465%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Dormans-Beauvais : boursier ;.
+Family relationships: Il est peut-être parent de Johannes LEPRESTRE, boursier du Collège de Dormans-Beauvais en %1448-1451% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 3/10/2019..

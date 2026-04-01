@@ -1,0 +1,8 @@
+PERSON: NICOLAUS de Columbi
+Also known as: Nicolaus de COLUMBI.
+Description: ?.
+Status: Incertain.
+Gender: male.
+Active during: %1339-1339%.
+University functions: Paris (Nation Anglo-allemande : témoin de la remise en (1er juin) de 7 livres au nonce de la nation, Ulricus de AUGUSTA par le procureur Nicolaus de SCHILTBERGHE et deux autres maître : "Ego Nicolaus de Columbi fui presens in dicta concessione facta dicto nuncio per magistros Nicolaum Schiltberghe procuratorem nacionis, Warnerum Woulfran, Ulricuro de Vuerlinghen dicte nacionis, anno et die predictis, presentibus Corrardo et Egidio bedellis dicte nacionis, et Henrico de Rosenberg, testibus etc." ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 07/01/2025)..

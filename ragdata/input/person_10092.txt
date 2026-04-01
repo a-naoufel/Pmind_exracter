@@ -1,0 +1,12 @@
+PERSON: PETRUS de Crotoy
+Also known as: Petrus de CROTOY; Petrus de TROTOY; Pierre de BECHEILLE.
+Description: Docteur en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1329-1342%.
+Born in: Picardie (LeCrotoy ?) ;.
+Diocese of origin: Diocèse d'Amiens ;.
+Studied at: Paris (Nation de Picardie ?) %1329-1330%..
+Academic grades obtained: Étudiant (Paris) en %1329-1330% ;; Maître ès arts (Paris) ;; Docteur en médecine avant ;.
+Ecclesiastical positions held: Provision pour un bénéfice à la collation de l'évêque et du chapitre d'Amiens ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/03/2021)..

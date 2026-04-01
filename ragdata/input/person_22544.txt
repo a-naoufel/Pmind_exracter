@@ -1,0 +1,14 @@
+PERSON: MATTHAEUS Guidonis de Atrebato
+Also known as: Matthaeus GUIDONIS de Atrebato; Matthaeus de ATREBATO.
+Description: Chanoine de Reims.
+Status: Maître.
+Gender: male.
+Active during: %1248-1262%.
+Born in: Artois ?.
+Diocese of origin: Diocèse d’Arras ;.
+Studied at: Paris ;.
+Academic grades obtained: Maître en décret (Paris) ;.
+Ecclesiastical positions held: Chanoine de Reims %1253-1262% ;.
+Other ecclesiastical functions: Official de Reims %1254-1259% ;.
+University functions: Paris (Faculté de Décret: Maître-régent en ) :.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 1/09/2021..

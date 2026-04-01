@@ -1,0 +1,27 @@
+PERSON: PROFACIUS Massiliensis
+Also known as: PROFACIUS Massieliensis; Jacob ben Makhir IBNTIBBON; Profiat TIBBON.
+Description: Médecin.
+Status: Extérieur.
+Gender: male.
+Active during: %1236-1304%.
+Born in: Provence (Marseille)..
+Studied at: Montpellier..
+Academic grades obtained: Magister..
+University functions: Montpellier (Faculté de Médecine : maître-régent) ?.
+Authored work: '(Éléments)', composed around ?.
+Authored work: '(Traité sur la sphère armillaire)', composed around ?.
+Authored work: '(Sefer ha-Mattanot)', composed around ?.
+Authored work: '(Ma'amar Ṭalḳus)', composed around ?.
+Authored work: '(Les trois traités sur la sphère)', composed around ?.
+Authored work: '(Ma'amar bi-Tekunah)', composed around ?.
+Authored work: '(Traité sur l'astrolabe)', composed around ?.
+Authored work: '(Compendium de l'Almageste)', composed around ?.
+Authored work: '(Iggeret ha-Ma'aseh be-Luaḥ ha-Niḳra Sofiḥah)', composed around ?.
+Authored work: '(Préface)', composed around ?.
+Authored work: '(Extrait de l'Almageste sur l'arc d'un cercle)', composed around ?.
+Authored work: '(Ḳiẓẓur mi-Kol Meleket Higgayo)', composed around ?.
+Authored work: '(Paraphrase des livres XI-XIX du De animalibus)', composed around ?.
+Authored work: 'Mozene ha-'Iyyunim', composed around ?.
+Authored work: '(Description du quadrant)', composed around ?.
+Authored work: '(Tables astronomiques commençant en 1300 (1er mars)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 12/05/2024..

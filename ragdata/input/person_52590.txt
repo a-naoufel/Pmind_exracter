@@ -1,0 +1,10 @@
+PERSON: LAURENTIUS Henrietti
+Also known as: Laurentius HENRIETTI; Laurent HENRIET.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1434-1470%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Reims %1434-1470% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 1/09/2021..

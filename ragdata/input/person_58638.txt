@@ -1,0 +1,17 @@
+PERSON: LABORANS
+Also known as: LABORANS.
+Description: Cardinal.
+Status: Maître.
+Gender: male.
+Active during: %1130-1190%.
+Born in: Italie (Toscane : Pontormo, près de Florence ?) ;.
+Diocese of origin: Diocèse de Florence..
+Studied at: Capoue ;; Paris..
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Cardinal-diacre de Santa-Maria-in-Portico %1171-1179% ;; Cardinal-prêtre de Santa-Maria-in-Trastevere %1179-1190% ;.
+Representation roles: Légat en Lombardie en et en ..
+Authored work: 'Compilatio decretorum', composed around %1132-1162%, dedicated to Écrit à la demande de Pedro de PARIS, évêque de Pampelune, sans doute son compagnon d’études à Paris..
+Authored work: 'De iustitia et iusto', composed around Avant , date de l’assassinat de Maion de BARI ?, dedicated to Dédié à Maion de BARI, Grand-Amiral de Sicile..
+Authored work: 'Epistola ad Hugonem contra Sabellianos rursum Reviviscentes', composed around Avant , date de la mort de Hugo de PALERMO, archevêque de Palerme ; avant d’être archevêque de Palerme, celui-ci avait été archevêque de Capoue, ville où LABORANS a fait une partie de ses études ;, dedicated to Adressé à Hugo de PALERMO, arhcevêque de Palerme..
+Authored work: 'Epistola ad Vivianum cardinalem S. Stephani in Coelio Monte de appellationibus', composed around %1175-1185% ?, dedicated to Adressé au Cardinal VIBIANO, juriste réputé et cardinal en %1175-1185%..
+Source: MIRANDA, Cardinals of the Holy Church :.

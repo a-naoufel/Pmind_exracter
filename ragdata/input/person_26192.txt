@@ -1,0 +1,16 @@
+PERSON: RENERIUS de Claromarisco
+Also known as: Rénier de CLAIRMARAIS; Raginarius de CLAROMARISCO; Régnier de CLAIRMARAIS; Rainier MARQUETTE de Clairmarais.
+Description: Abbé cistercien de Claimarais.
+Status: Maître.
+Gender: male.
+Active during: %1293-1301%.
+Born in: Flandre (Marquette) ;.
+Academic grades obtained: Maître en théologie (Paris av.)..
+College affiliation: Collège Saint-Bernard : maître-régent %1295-1301% ;.
+Academic relationships: Son maître est Jean de WEERDE..
+Religious order: O. Cist. : Moine (cistercien) du monastère (cistercien) de Clairmarais ;.
+Religious functions: Abbé (cistercien) de Clairmarais %1293-1295% ;.
+University functions: Paris (Régent en théologie %1295-1301%)..
+Authored work: 'Quodlibet I', composed around ?.
+Authored work: 'Quodlibet II', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 21-05-2019..

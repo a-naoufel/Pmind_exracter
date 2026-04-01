@@ -1,0 +1,14 @@
+PERSON: PETRUS de Fonte
+Also known as: Petrus de FONTE.
+Description: Chanoine de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1349-1379%.
+Born in: Limousin ;.
+Diocese of origin: Diocèse de Limoges ;.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;; Bachelier en droit canon ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Poitiers %1364-1365 ;; Chanoine de Chatellerault ;; Chanoine de Poitiers (Sainte-Radegonde) %1364-1367 ;; Écolâtre de Poitiers (Sainte-Radegonde) %1365 ;; Archiprêtre de la Sie %1366 ;.
+Other ecclesiastical functions: Auditeur à la Curie de Maillezais ;; Official de Maillezais ;; Auditeur à la Curie de Poitiers ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 21/11/2022..

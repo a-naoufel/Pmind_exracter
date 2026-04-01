@@ -1,0 +1,18 @@
+PERSON: GUILLELMUS de Cuneo
+Also known as: Guillelmus de CUNEO; Guillelmus de CUNIO; Guillelmus de CUN; Guillelmus de CUGNO.
+Description: Évêque de Saint-Bertrand-de-Comminges.
+Status: Extérieur.
+Gender: male.
+Active during: %1315-1336%.
+Studied at: Toulouse..
+Academic grades obtained: Docteur en droit ?.
+Ecclesiastical positions held: Évêque de Bazas %1319-1325% ;; Évêque de Saint-Bertrand-de-Comminges %1325-1336% ;.
+University functions: Toulouse (Professeur de droit civil %1315-1316% ;.
+Authored work: 'Lectura Codicis', composed around ?.
+Authored work: 'Lectura Digesti veteris', composed around ?.
+Authored work: 'Distinctiones', composed around ?.
+Authored work: 'Tractatus de muneribus', composed around ?.
+Authored work: 'Tractatus de securitate', composed around ?.
+Authored work: 'Additiones', composed around ?.
+Authored work: 'Tractatus de officiis', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

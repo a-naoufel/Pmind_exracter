@@ -1,0 +1,9 @@
+PERSON: ANDREAS de Autienca
+Also known as: Andreas de AUTIENCA.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1456-1456%.
+Diocese of origin: Diocèse de Sigüenza..
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..

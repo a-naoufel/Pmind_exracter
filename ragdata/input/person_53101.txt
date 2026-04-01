@@ -1,0 +1,11 @@
+PERSON: PETRUS de Belvaco
+Also known as: Petrus de BELVACO.
+Description: Chanoine d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1264-1264%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d’Amiens ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 13/12/2021..

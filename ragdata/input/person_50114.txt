@@ -1,0 +1,10 @@
+PERSON: HENRICUS de Domparia
+Also known as: Henricus de DOMPARIA; Henricus de DOMPETRA; Henri de DOMPIERRE.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1325-1366%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Laon %1327-1366% ;; Chanoine de Soissons % -1333% ;; Chanoine de Reims %1327-1366% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 5/12/2019..

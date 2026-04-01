@@ -1,0 +1,12 @@
+PERSON: FRANCISCUS de Montebelluno
+Also known as: Franciscus de MONTEBELLUNO.
+Description: Bénédictin.
+Status: Extérieur.
+Gender: male.
+Active during: %1352-1363%.
+Born in: Italie (Vénétie : Montebelluna) ?.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.S.B. : moine bénédictin à l’abbaye (bénédictine) de Dijon (Sainte-Bénigne) avant ..
+Authored work: 'Tragicum argumentum de miserabili statu regni Franciae', composed around ?.
+Source: MIRABILE : http://www.mirabileweb.it/calma/franciscus-de-montebelluna-osb-n-1320-1325-m-1363/2132 ;.

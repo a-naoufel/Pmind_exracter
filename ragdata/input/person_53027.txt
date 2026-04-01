@@ -1,0 +1,13 @@
+PERSON: ROBERTUS Majoris 4
+Also known as: Robertus MAJORIS; Robertus MAIORIS; Robert LEMAIRE.
+Description: Chanoine d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1412-1463%.
+Born in: Picardie (Amiens) ;.
+Diocese of origin: Diocèse d’Amiens ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d’Amiens %1412-1463% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 29/11/2021..

@@ -1,0 +1,12 @@
+PERSON: INGERANNUS de Cantiers 2
+Also known as: Ingerannus de CANTIERS.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1338-1338%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Rouen ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 05/01/2022..

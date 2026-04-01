@@ -1,0 +1,9 @@
+PERSON: PETRUS de Lengres
+Also known as: Pierre de LENGRES; Pierre dit CLAUDUS.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1270-1270%.
+Studied at: Paris..
+Academic grades obtained: Maître en médecine (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 20/08/2016..

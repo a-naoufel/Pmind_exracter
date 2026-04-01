@@ -1,0 +1,18 @@
+PERSON: ANSELMUS de Buciaco
+Also known as: Anselmus de BUCIACO; Anselme du MESNIL; Anselme de BOISSY; Ancellus de BUCIACO.
+Description: Chanoine de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1261-1280%.
+Born in: ?Île-de-France (Boissy ?)..
+Diocese of origin: Diocèse de Paris..
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) ..
+College affiliation: Sorbonne ?.
+Family relationships: Son frère est Pierre de GONESSE, si du moins l'on accepte l'identité entre Anselme du MESNIL et Anselme de BOISSY..
+Ecclesiastical positions held: Chanoine de Rouen %1261-1264% au moins ;; Chanoine de Paris. %1267-1280% au moins..
+Authored work: '(Sermon sur Act. 2 4)', composed around ..
+Authored work: '(Sermon et Collation sur Luc 24 32)', composed around ?.
+Authored work: '(Sermon pour le IV dimanche de Carême)', composed around prononcé à Paris (Notre-Dame)..
+Authored work: '(Sermon sur Act. 2 4 et Tren. 4 20)', composed around ?otre-Dame)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/02/2023)..

@@ -1,0 +1,10 @@
+PERSON: GEORGIUS de Blangy
+Also known as: Georgius de BLANGY.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) en ;.
+University functions: Paris (Université : receveur du compte de ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/09/2016..

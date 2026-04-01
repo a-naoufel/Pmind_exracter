@@ -1,0 +1,17 @@
+PERSON: MARTINUS Anglicus
+Also known as: Martinus ANGLICUS; Martin l'ANGLAIS; Martinus de BYLOND.
+Description: Maître ès arts ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1350-1350%.
+Born in: ?Angleterre.
+Academic grades obtained: Maître ès arts ?.
+Authored work: 'De veritate et falsitate', composed around ?.
+Authored work: 'De consequentiis', composed around ?.
+Authored work: 'Insolubilia', composed around ?.
+Authored work: 'Introductorium in artem dialecticam', composed around ?.
+Authored work: 'Objectiones consequentiarum', composed around ?.
+Authored work: 'Tractatus de obligationibus', composed around ?.
+Authored work: 'Tractatus de suppositione', composed around ?.
+Authored work: 'Tractatus paralogismorum', composed around ?.
+Source: MIRABILE : Roberto GAMBERINI :.

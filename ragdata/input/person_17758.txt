@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Bouguyer 1
+Also known as: Guillelmus BOUGUYER; Guillermus BOUGUYER; Guillelmus BOUGUIER.
+Description: Licencié en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1486-1490%.
+Studied at: Paris %1486-1490%..
+Academic grades obtained: Bachelier en décret (Paris) 20 décembre .; Licencié en décret (Paris) 5 avril ..
+Academic relationships: Son maître est Robertus TULLEU en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, révision, Jean-Philippe Genet, 28/02/2022.

@@ -1,0 +1,10 @@
+PERSON: PONCIUS Stephani
+Also known as: Poncius STEPHANI.
+Description: Chanoine d’Auxerre.
+Status: Incertain.
+Gender: male.
+Active during: %1334-1340%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Auxerre ;; Chanoine de Béziers ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 25/06/2025)..

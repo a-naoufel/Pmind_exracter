@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Anno Novo
+Also known as: Guillelmus de ANNONOVO.
+Description: Chanoine de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1465-1485%.
+Studied at: ?.
+Academic grades obtained: Bachelier in utroque ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Rodez %1465-1485% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 31/05/2022..

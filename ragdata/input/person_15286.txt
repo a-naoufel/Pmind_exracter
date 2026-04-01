@@ -1,0 +1,14 @@
+PERSON: REGINALDUS de LaBuscherie
+Also known as: Reginaldus de LABUSCHERIE; Reginaldus de BUSSIERE; Reginaldus de BUXERIA; Reginaldus de BUSCHERIA; Reginaldus de BUSCHERIE; Reginaldus de ALNA.
+Description: Docteur en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1377-1400%.
+Studied at: Paris %1377-1379% ;; Heidelberg %1386-1387% ;; Cologne %1389-1400%..
+Academic grades obtained: Licencié en théologie (Paris) ;; Docteur en théologie (Paris) (avant mai) ;.
+Religious order: O.Cist. : moine cistercien de l'abbaye d'Aulne-sur-Sambre en ;.
+University functions: Paris (Faculté de Théologie : maître-régent en mai ) ;; Heidelberg (Premier professeur de théologie à l'université vers %1386-1387%) ;; Cologne (Doyen de la faculté de théologie en ) ;.
+Authored work: 'Lectura super Ecclesiasten Salomonis, cum expositione aliquorum evangeliorum dominicalium', composed around A Paris vers ..
+Authored work: 'Expositiones aliquorum evangeliorum dominicalium', composed around ?.
+Authored work: 'Lectura super libros Sapientales et Sermones', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 03-06-2024..

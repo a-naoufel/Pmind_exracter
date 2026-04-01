@@ -1,0 +1,18 @@
+PERSON: PEROTINUS
+Also known as: PEROTINUS; PETRUS; Magister PEROTINUS magnus.
+Description: Préchantre de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1183-1236%.
+Studied at: ?Paris..
+Academic grades obtained: Maître..
+Ecclesiastical positions held: Chantre de Paris (Notre-Dame) ,.
+Authored work: 'Organum quadruplum Sederunt principes', composed around ?..
+Authored work: 'Organum quadruplum Viderunt omnes', composed around ?..
+Authored work: 'Organum quadruplum Sederunt principes', composed around ?..
+Authored work: 'Magnum librum organi', composed around ?.
+Authored work: 'Alleluia Posui adjutorium', composed around ?.
+Authored work: 'Alleluia Nativitas', composed around ?.
+Authored work: 'Dum sigillum summi Patris', composed around ?.
+Authored work: 'Beata viscera', composed around ?.
+Source: MIRABILE : Pietro Antonio PODOLAK :.

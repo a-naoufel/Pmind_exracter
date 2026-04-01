@@ -1,0 +1,10 @@
+PERSON: ANTHONIUS Genevesii
+Also known as: Anthonius GENEVESII.
+Description: Bachelier Décret.
+Status: Gradué.
+Gender: male.
+Active during: %1500-1500%.
+Diocese of origin: Diocèse de Lyon..
+Studied at: Paris %1500-1500%..
+Academic grades obtained: Bachelier Décret (Paris) (13 novembre)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 6/10/2020..

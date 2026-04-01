@@ -1,0 +1,12 @@
+PERSON: MICHAEL Herve
+Also known as: Michel HERVÉ; Michiel HERVIER.
+Description: Chapelain du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1400-1403%.
+Studied at: Paris %1400-1403%..
+Academic grades obtained: Étudiant (Paris) %1400-1403%..
+College affiliation: Collège de Dormans-Beauvais : chapelain en %1400-1403% ;.
+Ecclesiastical status: Prêtre en ;.
+Ecclesiastical positions held: Curé de Montreuil ?; Chapelain du collège de Dormans-Beauvais : chapelain en %1400-1403% ;; Curé de Montreuil ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 17/09/2019..

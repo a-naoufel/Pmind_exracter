@@ -1,0 +1,12 @@
+PERSON: HENRICUS de Kaercoen
+Also known as: Henricus de KAERCOEN; Henricus KAVERCM.
+Description: Docteur en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1453-1454%.
+Studied at: Paris %1453-1454%..
+Academic grades obtained: Bachelier en théologie formatus (Paris) ;; Licencié en théologie (Paris) (le 29 avril) ;; Docteur en théologie (Paris) (le 3 octobre) ..
+College affiliation: Collège Saint-Bernard ?.
+Religious order: Cistercien.
+Religious functions: Abbé du monastère breton de LeRelecq en ;; Chargé par le chapitre général de régler un conflit opposant deux monastères de l'Ordre en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 18/07/2022..

@@ -1,0 +1,9 @@
+PERSON: GOBERTUS Bintardi
+Also known as: Gobertus BINTARDI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1387-1387%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 4/08/2021..

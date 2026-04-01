@@ -1,0 +1,11 @@
+PERSON: LANFREDUS de Turri
+Also known as: Lanfredus de TURRI.
+Description: Doyen de Saint-Marcel.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant (Paris) ?.
+Ecclesiastical positions held: Doyen de Paris (Saint-Marcel) ;.
+Other ecclesiastical functions: Sub-executor en matière de prébendes de Petrus de CASALIS, chanoine de Paris (Notre-Dame) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 19/08/2023)..

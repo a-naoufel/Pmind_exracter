@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Theobaldi 1
+Also known as: Guillelmus THEOBALDI.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1464-1478%.
+Studied at: Paris %1464-1478%..
+Academic grades obtained: Étudiant en ?; Bachelier en théologie formatus (Paris) ;; Licencié en théologie (Paris) (le 5 février) ;; Docteur en théologie (Paris) (le 1er avril) ..
+Religious order: O.S.B. : moine bénédictin ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 02/06/2022..

@@ -1,0 +1,8 @@
+PERSON: ROBERTUS de Migornia
+Also known as: Robertus de MIGORNIA; Robertus de WIGORNIA; Robert de MIGORNE; Robert de WIGORNE.
+Description: Libraire et stationarius.
+Status: Suppôt.
+Gender: male.
+Active during: %1316-1316%.
+Studied at: Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 4/10/2019..

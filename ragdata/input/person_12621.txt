@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Le Mesle
+Also known as: Guillelmus LE MESLE.
+Description: Abbé de Saint-Ouen de Rouen.
+Status: Maître.
+Gender: male.
+Active during: %1402-1434%.
+Studied at: Paris %1431-1431%..
+Academic grades obtained: Licencié en décret (Paris) ;; Licencié in utroque jure..
+Religious order: O.S.B. : moine bénédictin..
+Religious functions: Abbé de Rouen (Sainte-Catherine-du-Mont) ;; Abbé de Rouen (Saint-Ouen) en %1428-1434%..
+University functions: Paris (Faculté de Décret : Maître régent en ) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 20/09/2022..

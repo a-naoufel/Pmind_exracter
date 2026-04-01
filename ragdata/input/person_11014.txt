@@ -1,0 +1,13 @@
+PERSON: ROBERTUS de Riplingham
+Also known as: Robert de RIPLINGHAM.
+Description: Maître en théologie.
+Status: Extérieur.
+Gender: male.
+Active during: %1284-1332%.
+Born in: Angleterre..
+Diocese of origin: Diocèse d'York..
+Studied at: Oxford (Merton College)..
+Academic grades obtained: Maître ès arts (Oxford) ;; Docteur en théologie ..
+Ecclesiastical positions held: Chancelier de York %1297-1332%..
+University functions: Oxford (Merton College : fellow %1284-1297%) ;; Oxford (Merton College : 3rd bursar %1286-1287%) ;; Oxford (Merton College : 1st bursar %1289-1290%)..
+Authored work: '(Questiones super Librum primum Sentetiarum)', composed around ?.

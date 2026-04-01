@@ -1,0 +1,11 @@
+PERSON: GERARDUS de Alneto
+Also known as: Gerardus de ALNETO.
+Description: Chantre de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1271-1271%.
+Studied at: ?.
+Academic grades obtained: Magister..
+Ecclesiastical status: Prêtre..
+Ecclesiastical positions held: Chantre de Reims ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 16/12/2021..

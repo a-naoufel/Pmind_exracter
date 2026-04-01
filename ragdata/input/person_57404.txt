@@ -1,0 +1,14 @@
+PERSON: ROMANUS Du Fay
+Also known as: Romanus DUFAY.
+Description: Chanoine de Saint-Quentin.
+Status: Étudiant.
+Gender: male.
+Active during: %1467-1535%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie) %1467-1479% ;.
+Academic grades obtained: Étudiant ès arts (Paris) %1467-1470% ;.
+College affiliation: Collège de Laon : boursier ès arts %1467-1471% ;; Collège de Laon : hôte %1476-1477% ;; Collège de Laon : boursier en décret %1477-1479% ;.
+Social origin: Noble ?.
+Ecclesiastical positions held: Chanoine de Saint-Quentin ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 28/01/2024..

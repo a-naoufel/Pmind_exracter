@@ -1,0 +1,9 @@
+PERSON: GUIDO de Roy
+Also known as: Guido de ROY.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1286-1286%.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Chanoine de Reims ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 8/01/2019..

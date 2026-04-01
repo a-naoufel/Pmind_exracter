@@ -1,0 +1,24 @@
+PERSON: CONRADUS d'Ebrach
+Also known as: Conrad d'EBRACH.
+Description: Cistercien.
+Status: Étudiant.
+Gender: male.
+Active during: %1369-1399%.
+Born in: Bavière..
+Studied at: Bologne.; Paris (Collège des Bernardins) .; Prague ;; Vienne..
+Academic grades obtained: Étudiant (Paris) ;; Maître en théologie (Bologne) ..
+College affiliation: Collège Saint-Bernard ..
+Religious order: O.Cist. : moine de l'abbaye (cistercienne) d'Ebrach..
+Religious functions: Fondateur et organisateur du collège (cistercien) de Prague (St. Bernard) ;; Fondateur et organisateur du collège (cistercien) de Vienne (St. Nicolas) ;; Visiteur des abbayes (cisterciennes) de Scandinavie, Allemagne et Bohême de l’obédience romaine ;; Participe au chapitregénéral (cistercien) de Vienne ;; Participe au chapitregénéral (cistercien) de Heilbronn ;.
+University functions: Bologne (Lecteur des Sentences %1368-1369%) ;; Prague (Université : Professeur de Théologie %1376-1384%) ;; Vienne (Faculté de Théologie : Professeur %1384- %)..
+Authored work: 'Liber in quatuor Sententiarum', composed around %1368-1369% pour la lectio à Bologne, et %1376-1377% pour la lectio à Prague..
+Authored work: 'Recommandatio Sacrae Scripturae', composed around ?.
+Authored work: 'Quaestio in vesperiis', composed around ?.
+Authored work: 'Quaestio in aula', composed around ?.
+Authored work: '(Sermon en l'honneur de Saint THOMAS d'Aquin)', composed around (7 mars)..
+Authored work: 'De cognitione anime Christi', composed around ..
+Authored work: 'Compendium de confessione)', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Collacio ad prelatos et sacerdotes'.
+Authored work: '(Traité sur les contrats ou cens)', composed around %1375-1378%..
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

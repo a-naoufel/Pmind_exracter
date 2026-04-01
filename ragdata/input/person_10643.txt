@@ -1,0 +1,9 @@
+PERSON: RAIMUNDUS de Roissiaco
+Also known as: Raymundus de ROISSIACO.
+Description: Moine.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris.
+Academic grades obtained: Étudiant ?.
+Religious order: Moine ;.

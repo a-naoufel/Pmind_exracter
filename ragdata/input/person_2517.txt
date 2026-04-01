@@ -1,0 +1,22 @@
+PERSON: GARNERIUS de Rupeforti
+Also known as: GARNERIUS; Garnerius de RUPEFORTI; Garnerius de LANGRES.
+Description: O. Cist..
+Status: Incertain.
+Gender: male.
+Active during: %1160-1225%.
+Born in: Bourgogne..
+Studied at: ?.
+Academic grades obtained: ?.
+Social origin: Noble ;.
+Religious order: O. Cist. : abbaye (cistercienne) de Longay..
+Religious functions: Abbé (cistercien) de Auberive %1175-1186% ;; Abbé (cistercien) de Clairvaux %1186-1193% ;.
+Ecclesiastical positions held: Évêque de Langres %1193-1199%..
+Authored work: 'Tractatus contra Amaurianos', composed around ?.
+Authored work: 'Isagogae theophaniarum symbolicae', composed around ?.
+Authored work: 'De contrarietatibus in sacram Scripturam', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Distinctiones', composed around ?.
+Authored work: 'Glosae in Willelmi Lucensis Commentum in tertiam Hierarchiam Dionisii', composed around ?.
+Authored work: 'Isagogae theophanarium symbolicae', composed around ?.
+Authored work: 'Epistola ad Willelmum archiepiscopum Remensem', composed around ..
+Source: MIRABILE :.

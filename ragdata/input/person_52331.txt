@@ -1,0 +1,11 @@
+PERSON: HUMBALDUS de Chareto
+Also known as: Humbaudus de CHARETO.
+Description: Chanoine de Reims ?.
+Status: Incertain.
+Gender: male.
+Active during: %1348-1348%.
+Born in: Bourgogne (Avallon : Chareto) ;.
+Studied at: ?.
+Academic grades obtained: Licencié in utriusque juris..
+Ecclesiastical positions held: Chanoine de Reims en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 17/05/2021..

@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de La Porte
+Also known as: Nicolaus de LAPORTE.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1404-1404%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Dormans-Beauvais : boursier ;.
+Family relationships: Son parent est peut-être Aubry de LAPORTE, abbé de Saint-Thierry-lèz-Reims ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 24/09/2019..

@@ -1,0 +1,8 @@
+PERSON: AEGIDIUS 11
+Also known as: GILLETUS.
+Description: Locataire de la Sorbonne.
+Status: Extérieur.
+Gender: male.
+Active during: %1484-1484%.
+Studied at: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 8/05/2018)..

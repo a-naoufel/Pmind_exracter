@@ -1,0 +1,15 @@
+PERSON: THOMAS Becket
+Also known as: Thomas BECKET.
+Description: Archevêque de Canterbury.
+Status: Étudiant.
+Gender: male.
+Active during: %1140-1170%.
+Diocese of origin: Angleterre (Londres)..
+Studied at: Paris %1140-1141% ;; Bologna %1146-1153%..
+Academic grades obtained: Étudiant (Paris) %1140-1141% ;; Étudiant (Bologna) %1146-1153%..
+Family relationships: Son père est Gilbert BECKET, marchand de Londres ; Sa mère est Mathilda BECKET..
+Social origin: Bourgeoisie..
+Ecclesiastical positions held: Archidiacre de Canterbury ;; Chanoine de Lincoln ;; Chanoine de London ;; Recteur de London (Saint-Mary-le-Strand) ;; Prévôt de Beverley ;; Archevêque de Canterbury %1162-1170% ;.
+Representation roles: Ambassade en France en ;; Mission en France en ;; Il participe au concile de Tours en ..
+Authored work: 'Epistolae', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 19/01/2024..

@@ -1,0 +1,12 @@
+PERSON: GRIMERIUS Bonifacii 2
+Also known as: Grimerius BONIFACII.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1378-1379%.
+Born in: Normandie ?.
+Studied at: Paris %1378-1379%.
+Academic grades obtained: Étudiant (Paris) %1378-1379%..
+Religious order: O.S.B. : moine (bénédictin) de l'abbaye (bénédictine) de Sainte-Catherine-du-Mont (Diocèse de Rouen)..
+Religious functions: Candidat à un prieuré dans un rotulus de novembre -octobre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire-Priol-Hoogland ; révision, Jean-Philippe Genet, 13/08/2021..

@@ -1,0 +1,10 @@
+PERSON: BALDUINUS Pasquier
+Also known as: Baudonnet PASQUIER.
+Description: Boursier du collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1413-1413%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dormans-Beauvais : boursier en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 4/12/2020..

@@ -1,0 +1,9 @@
+PERSON: ANDREAS 5
+Also known as: ANDREAS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1489-1489%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Maître ès arts (Paris) avant ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 27/07/2020)..

@@ -1,0 +1,15 @@
+PERSON: THOMAS Rondel
+Also known as: Thomas RONDEL; Thomas RUNDEL; Thomas RUNDELL.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1298-1309%.
+Born in: Angleterre..
+Studied at: Oxford ;; Paris ..
+Academic grades obtained: Bachelier en théologie (Paris) ;; Docteur en théologie (Oxford) ..
+Religious order: O.F.M. : Franciscain : couvent (franciscain) d'Oxford..
+University functions: Paris (Faculté de Théologie : lecteur des Sentences) ;; Oxford (couvent franciscain : 27e lecteur ) ;; Londres (couvent franciscain : lecteur ) ?.
+Authored work: '(Commentaire sur les Sentences)', composed around ?.
+Authored work: 'Determinationes', composed around ? : elles sont reportées à Oxford ;.
+Authored work: 'Responsio', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 5/11/2018..

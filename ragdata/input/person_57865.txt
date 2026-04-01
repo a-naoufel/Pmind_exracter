@@ -1,0 +1,7 @@
+PERSON: ODINETA
+Also known as: ODINETA.
+Description: Locataire de la Sorbonne.
+Status: Extérieur.
+Gender: female.
+Active during: %1434-1434%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 14/06/2024.

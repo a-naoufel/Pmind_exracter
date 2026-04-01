@@ -1,0 +1,16 @@
+PERSON: ALBERTUS de Roya
+Also known as: Albertus de ROYA; Albert de ROYE.
+Description: Évêque de Laon.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1338%.
+Born in: Picardie..
+Diocese of origin: Diocèse d'Amiens ?.
+Studied at: Paris en ..
+Academic grades obtained: Étudiant, sans doute en droit canon, en ;; Docteur en droit civil..
+College affiliation: Paris (Collège de Laon : supérieur %1326-1338%)..
+Family relationships: Son père est Mathieu de ROYE, seigneur de Germigny ; Son neveu est Guy de ROYE, archevêque de Reims, mort en ..
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine d'Amiens %1316-1324% ;; Chanoine de Beauvais %1316-1320% ;; Chanoine de Noyon ;; Chanoine de Châlons-sur-Marne %1321-1324% ;; Chanoine de Thérouanne ;; Évêque de Laon %1326-1338%..
+University functions: ?Paris (Professeur de droit ?) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 1/07/2015..

@@ -1,0 +1,9 @@
+PERSON: ADAM de Braguelongue
+Also known as: Adam de BRAGUELONGUE.
+Description: Maître ès arts..
+Status: Maître.
+Gender: male.
+Active during: %1427-1427%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 13/10/2019..

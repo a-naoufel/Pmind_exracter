@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Militis 6
+Also known as: Guillelmus MILITIS; Guillermus MILITIS.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1498-1498%.
+Diocese of origin: Diocèse de Thérouanne..
+Studied at: Paris %1498-1498%..
+Academic grades obtained: Bachelier en décret (Paris) 31 mai ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 07/05/2015..

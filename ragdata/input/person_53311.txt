@@ -1,0 +1,9 @@
+PERSON: NICOLAUS de Savigny
+Also known as: Nicole de SAVIGNY.
+Description: Avocat au Parlement de Paris.
+Status: Suppôt.
+Gender: male.
+Active during: %1424-1425%.
+Studied at: Paris..
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 7/01/2022..

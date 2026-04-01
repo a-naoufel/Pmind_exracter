@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Bèze
+Also known as: Guillaume de BEZE.
+Description: Conseiller au Parlement de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1404-1435%.
+Studied at: ?.
+Academic grades obtained: Maître ?.
+Source: Bibliographie et chronologie de Paris au Moyen Âge :.

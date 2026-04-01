@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Le Tort
+Also known as: Guillelmus dictus LETORT; Willelmus LETORT.
+Description: Évêque de Marseille.
+Status: Maître.
+Gender: male.
+Active during: %1379-1403%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse d'Évreux..
+Studied at: Paris (Nation de Normandie)..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Bachelier in utroque jure en .; Docteur en droit civil ;.
+Ecclesiastical status: Clerc du diocèse d'Évreux en ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus de ;; Chanoine de LeMans %1385-1392% ;; Chanoine de Cambrai %1390-1397% ;; Évêque de Marseille %1397-1403% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 02/01/2026..

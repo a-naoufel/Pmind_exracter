@@ -1,0 +1,11 @@
+PERSON: AMALRICUS 2
+Also known as: AMALRICUS.
+Description: Évêque de Lectoure.
+Status: Incertain.
+Gender: male.
+Active during: %1453-1479%.
+Studied at: ?.
+Academic grades obtained: Maître en théologie ?.
+Ecclesiastical positions held: Évêque de Lectoure %1453-1479% ;.
+Other ecclesiastical functions: Official de Rodez ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 2/06/2022..

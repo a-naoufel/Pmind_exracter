@@ -1,0 +1,10 @@
+PERSON: GERARDUS 2
+Also known as: GIRAUD; GIRALDUS.
+Description: Maître en décret.
+Status: Maître.
+Gender: male.
+Active during: %1205-1211%.
+Studied at: Paris %:1205-1211%..
+Academic grades obtained: Maître en décret (Paris) ?..
+University functions: Maître en décret de Paris, enseignant vers %1205-1211%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 8/12/2021..

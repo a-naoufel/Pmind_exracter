@@ -1,0 +1,11 @@
+PERSON: PETRUS Sorel
+Also known as: Petrus SOREL.
+Description: Chanoine de Châlons.
+Status: Incertain.
+Gender: male.
+Active during: %1501-1501%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son parent est peut-être Geoffroy SOREL, évêque de Châlons ?.
+Ecclesiastical positions held: Chanoine de Châlons-en-Champagne ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 17/06/2025.

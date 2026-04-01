@@ -1,0 +1,10 @@
+PERSON: GERARDUS Galli
+Also known as: Gerardus GALLI.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+Family relationships: Son parent est (peut-être) Hugo GALLI qui s’acquitte de son dû pour la collecte de en même temps que lui..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 9/01/2022..

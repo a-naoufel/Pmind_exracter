@@ -1,0 +1,13 @@
+PERSON: GUIDO de Mehuciaco
+Also known as: Guido de MEHUACIACO.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1394-1396%.
+Born in: ComtédeBourgogne ;.
+Diocese of origin: Diocèse de Besançon ;.
+Studied at: Paris %:1394-1396%..
+Academic grades obtained: Bachelier en décret ;.
+Ecclesiastical status: Clerc du diocèse de Besançon ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Rotulus quorundam licentiatorum et bacalariorum Universitatis Parisiensis présenté à BENOÎT XIII en (?) à Avignon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 3/03/2019..

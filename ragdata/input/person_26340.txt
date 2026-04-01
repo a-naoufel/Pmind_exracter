@@ -1,0 +1,9 @@
+PERSON: PETRUS Ref de Suecia
+Also known as: Petrus REF de Suecia.
+Description: Prêtre.
+Status: Incertain.
+Gender: male.
+Active during: %1294-1294%.
+Born in: Suède..
+Studied at: Paris, ;; Bologne, ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet 11/08/2019..

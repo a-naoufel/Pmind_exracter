@@ -1,0 +1,8 @@
+PERSON: MARIONNA La Myngote
+Also known as: Marionna LA MYNGOTE.
+Description: Maîtresse d’école.
+Status: Suppôt.
+Gender: female.
+Active during: %1437-1437%.
+Studied at: Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 31/08/2020..

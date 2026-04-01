@@ -1,0 +1,11 @@
+PERSON: HENRICUS Boniol
+Also known as: Henri BONIOL.
+Description: Étudiant en médecine.
+Status: Extérieur.
+Gender: male.
+Active during: %1458-1458%.
+Born in: Pays-Bas ?.
+Diocese of origin: Diocèse d'Utrecht ;.
+Studied at: Avignon..
+Academic grades obtained: Bachelier en médecine (Avignon) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 1/05/2022..

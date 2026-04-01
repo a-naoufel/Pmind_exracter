@@ -1,0 +1,12 @@
+PERSON: THOMAS Faverel 1
+Also known as: Thomas FAVEREL.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1407-1407%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère domincain..
+University functions: Paris (Faculté de Théologie : lecteur au couvent dominicain ?) ?.
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, dernière mise à jour 23/02/2021..

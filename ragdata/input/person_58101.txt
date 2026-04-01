@@ -1,0 +1,9 @@
+PERSON: STEPHANUS de Ruppe 1
+Also known as: Stephanus de RUPPE.
+Description: Bachelier en décret..
+Status: Maître.
+Gender: male.
+Active during: %1416-1416%.
+Studied at: Paris %1416-1416%..
+Academic grades obtained: Maître ès arts ?; Bachelier en décret (Paris) (6 février)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20-09-2024.

@@ -1,0 +1,10 @@
+PERSON: ROBERTUS de Lespinay
+Also known as: Robertus de LESPINAY.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en ?.
+Family relationships: Son parent est Johannes de LESPINAY qui s’acquitte de sa contribution à la collecte de en même temps que lui ; Son parent est Andreas de LESPINAY qui s’acquitte de sa contribution à la collecte de en même temps que lui ; Son parent est Johannes de LESPINAY qui s’acquitte de sa contribution à la collecte de en même temps que lui ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 19/06/2016..

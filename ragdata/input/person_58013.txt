@@ -1,0 +1,10 @@
+PERSON: VITALIS Verrerii
+Also known as: Vitalis VERRERII; Vital VERRIER.
+Description: Boursier en décret du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1398-1404%.
+Studied at: Paris %1398-1404%..
+Academic grades obtained: Étudiant en décret (Paris) %1398-1404% ;.
+College affiliation: Collège d'Autun : boursier en décret %1398-1404% ;; Collège d'Autun : responsable des comptes %1400-1403% ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,9 @@
+PERSON: ALANUS Spinefort
+Also known as: Alain SPINEFORT.
+Description: Grand libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1486-1487%.
+Studied at: Paris %1486-1487%.
+Family relationships: Son parent est Robert GAGUIN, maîtregénéral des Mathurins ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 28/11/2019..

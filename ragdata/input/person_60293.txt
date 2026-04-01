@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Feydeau
+Also known as: Guillaume FEYDEAU.
+Description: Maître au Collège de Chanac.
+Status: Maître.
+Gender: male.
+Active during: %1493-1493%.
+Studied at: Paris ;.
+Academic grades obtained: Maître ?.
+College affiliation: Collège de Chanac : maître au collège en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

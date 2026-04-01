@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Malo-Diversorio
+Also known as: Guillelmus de MALO-DIVERSORIO.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1379-1382%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris..
+Academic grades obtained: Étudiant en droit canon (Paris) ;.
+Ecclesiastical status: Prêtre du diocèse de Rouen ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Rotulus plurium magistrorum, doctorum, licentiatorum , baccal. et scolar. de Universitate Parisiens. en ;; Chanoine de Lisieux en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

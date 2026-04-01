@@ -1,0 +1,11 @@
+PERSON: PETRUS Lombert
+Also known as: Pierre LOMBERT.
+Description: Martinet du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1434-1434%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Dormans-Beauvais : martinet ;.
+Family relationships: Son parent est peut-être François LOMBERT, boursier du Collège de Dormans-Beauvais en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 4/10/2019..

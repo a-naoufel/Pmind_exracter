@@ -1,0 +1,10 @@
+PERSON: NICASIUS Mouvet
+Also known as: Nicaise MOUVET.
+Description: Sous-maître du Collège de Dormans-Beauvais.
+Status: Maître.
+Gender: male.
+Active during: %1414-1417%.
+Studied at: Paris %1414-1417%..
+Academic grades obtained: Maître ès arts (Paris) ..
+College affiliation: Collège de Dormans-Beauvais : sous-maître secondaire %1414-1417% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 7/10/2023)..

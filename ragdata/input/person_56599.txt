@@ -1,0 +1,9 @@
+PERSON: THEOPHANIA
+Also known as: THEOPHANIA.
+Description: Détentrice d’une maison parisienne.
+Status: Extérieur.
+Gender: female.
+Active during: %1259-1259%.
+Family relationships: Son mari est Philippe de COMIN ;.
+Social origin: Bourgeoisie ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/09/2023)..

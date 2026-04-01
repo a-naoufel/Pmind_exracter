@@ -1,0 +1,14 @@
+PERSON: REGINALDUS de Vallibus
+Also known as: Reginaldus de VALLIBUS.
+Description: Chanoine d'Autun.
+Status: Incertain.
+Gender: male.
+Active during: %1302-1309%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse d'Auxerre ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son parent est Pierre de VAUX, écuyer à Merry-la-Vallée ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine d'Autun %1302-1303% ;; Chanoine d'Autun (collégiale Notre-Dame) ;; Chanoine de Beaune ;; Chanoine d'Auxerre %1303-1309% ;; Archidiacre d'Auxerre %1308-1309% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/01/2023)..

@@ -1,0 +1,11 @@
+PERSON: HENRICUS Gauffridi
+Also known as: Henricus GAUFFRIDI; Henri GEOFFROY.
+Description: Prévôt de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1482-1486%.
+Studied at: ?.
+Academic grades obtained: Licencié en droit canon ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Prévôt de Reims %1482-1486% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 5/12/2019..

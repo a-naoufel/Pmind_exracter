@@ -1,0 +1,12 @@
+PERSON: HENRICUS de Oliva
+Also known as: Henricus de OLIVA.
+Description: Bourgeois de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1454-1454%.
+Born in: Bretagne ;.
+Diocese of origin: Diocèse de Quimper..
+Studied at: ?.
+Family relationships: Son fils est Dyonisius de OLIVA, étudiant parisien;.
+Social origin: Bourgeois de Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24-07-2022..

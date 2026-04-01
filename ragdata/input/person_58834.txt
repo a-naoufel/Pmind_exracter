@@ -1,0 +1,14 @@
+PERSON: ROBERTUS de Chesney
+Also known as: Robert de CHESNEY.
+Description: Èvêque de Lincoln.
+Status: Maître.
+Gender: male.
+Active during: %1135-1166%.
+Born in: Angleterre (Midlands ?)..
+Studied at: Paris ?.
+Academic grades obtained: Magister (Paris ?) ;.
+Family relationships: Son père est Roger de CHESNEY ; Sa mère est Alice de LANGETOT. Son neveu est Gilbert FOLIOT, évêque de Londres..
+Social origin: Noble..
+Ecclesiastical status: Prêtre en (13 décembre), à la veille de sa consécration épiscopale..
+Ecclesiastical positions held: Chanoine d’Oxford (Saint-GeorgeintheCastle) ;; Archidiacre de Leicester avant ;; Évêque de Lincoln %1148-1166% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 11/05/2025..

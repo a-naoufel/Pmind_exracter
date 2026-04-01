@@ -1,0 +1,10 @@
+PERSON: NICOLAUS 12
+Also known as: NICOLAUS.
+Description: Capellanus Sancti Benedicti..
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant (Paris) ?.
+Ecclesiastical positions held: "Capellanus Sancti Benedicti"..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 7/10/2023)..

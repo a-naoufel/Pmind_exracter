@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS de Castro Villani 2
+Also known as: Guillelmus de CASTROVILLANI; Guillaume de CHÂTEAUVILLAIN.
+Description: Trésorier de Reims.
+Status: Maître.
+Gender: male.
+Active during: %1297-1347%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Langres..
+Studied at: Paris (Nation de France) %1329-1347%..
+Academic grades obtained: Étudiant (Paris) en %1329-1330% ;; Maître ès arts (Paris) avant ..
+Family relationships: Son parent est Jean de CHÂTEAUVILLAIN, évêque de Châlons ?.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Reims %1335-1340% ;; Trésorier de Reims ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 10/01/2019..

@@ -1,0 +1,8 @@
+PERSON: DAVID Tarleon
+Also known as: David TARLEON.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts.

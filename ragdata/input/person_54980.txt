@@ -1,0 +1,10 @@
+PERSON: HUGO Perennini
+Also known as: Hugo PERRENINI.
+Description: Chanoine d’Autun.
+Status: Incertain.
+Gender: male.
+Active during: %1416-1450%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Autun %1416-1450% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 16/01/2023..

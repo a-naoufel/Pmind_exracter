@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Novocastro
+Also known as: Guillaume de NEUCHÂTEL; Saint GUILLAUME de Neuchâtel.
+Description: Chanoine de Neuchâtel et Lausanne.
+Status: Incertain.
+Gender: male.
+Active during: %1196-1232%.
+Studied at: ?.
+Academic grades obtained: Magister ?.
+Ecclesiastical positions held: Chanoine de Neuchâtel %1196-1232%; Chanoine de Lausanne % -1232%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/04/2022)..

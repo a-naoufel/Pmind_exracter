@@ -1,0 +1,8 @@
+PERSON: HELISSENT
+Also known as: HÉLISSENT.
+Description: Tisserande.
+Status: Extérieur.
+Gender: female.
+Active during: %1310-1310%.
+Family relationships: Sa sœur est Samersine LACORNUE ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

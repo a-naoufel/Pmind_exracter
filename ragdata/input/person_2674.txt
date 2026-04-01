@@ -1,0 +1,10 @@
+PERSON: GALFREDUS de Condington
+Also known as: Geoffroy de CONDINGTON.
+Description: Maître ès arts.
+Status: Extérieur.
+Gender: male.
+Active during: %1279-1297%.
+Born in: Angleterre..
+Studied at: Oxford (Merton College) %1279-1292%..
+Academic grades obtained: Maître ès arts (Oxford) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 06/10/2021..

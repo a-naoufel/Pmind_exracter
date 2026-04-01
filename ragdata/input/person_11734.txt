@@ -1,0 +1,9 @@
+PERSON: THEOBALDUS de Sorbona
+Also known as: Theobaldus de SORBONA; Theolbaldus de SERBONA.
+Description: Procureur de la Sorbonne.
+Status: Maître.
+Gender: male.
+Active during: %1284-1285%.
+Studied at: Paris..
+Academic grades obtained: Magister (Paris)..
+College affiliation: Collège de Sorbonne : procureur en :.

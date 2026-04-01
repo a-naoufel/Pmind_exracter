@@ -1,0 +1,13 @@
+PERSON: BERENGARIUS de Monte Alto
+Also known as: Berengarius de MONTEALTO; Béranger de MONTAUT.
+Description: Évêque de Couserans.
+Status: Maître.
+Gender: male.
+Active during: %1342-1362%.
+Born in: Aquitaine..
+Studied at: Montpellier ;; Paris ..
+Academic grades obtained: Maître en décret (Paris ?) ..
+Social origin: Noble..
+Ecclesiastical positions held: Provision pour un canonicat avec expectative de prébende à la cathédrale d'Albi en : mandat à l'évêque de Thérouanne, à l'abbé (bénédictin) de Gaillac et à l'abbé (cistercien) de Candeil.; Provision pour un canonicat vacant par le décès de Guillaume DURAND à la cathédrale de Paris en : mandat à l'évêque de Thérouanne, à l'archidiacre de Saint-Bertrand-de-Comminges et à Geraldus de CHANTU, chanoine de Chartres.; Chanoine de Paris ;; Chanoine de Chartres ;; Archidiacre de Lodève ;; Évêque de Couserans %1361-1362%..
+University functions: Paris (Faculté de Décret : maître-régent en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 13/01/2021)..

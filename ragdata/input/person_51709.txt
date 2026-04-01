@@ -1,0 +1,12 @@
+PERSON: ROBERTUS de Vecel
+Also known as: Robertus de VECEL.
+Description: Étudiant au Collège de Laon..
+Status: Étudiant.
+Gender: male.
+Active during: %1382-1383%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon..
+Studied at: Paris (Nation de Picardie) %1382-1383%..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Laon : boursier reçu au collège en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 12/12/2020..

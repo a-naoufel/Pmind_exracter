@@ -1,0 +1,9 @@
+PERSON: CAROLUS de Savoisy
+Also known as: Charles de SAVOISY.
+Description: Grand Bouteiller de France.
+Status: Extérieur.
+Gender: male.
+Active during: %:1368:-1420%.
+Family relationships: Son père est Philippe de SAVOISY ; Son frère est Pierre de SAVOISY, évêque de Beauvais ; Son cousin est Henri de SAVOISY, archevêque de Sens ; Sa femme est Yolande de RODEMACH ; Son fils est Philippe de SAVOISY..
+Social origin: Noble : il est seigneur de Seignelay..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/03/2021)..

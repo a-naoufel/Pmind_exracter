@@ -1,0 +1,11 @@
+PERSON: PETRUS Des Portes 1
+Also known as: Pierre DES PORTES.
+Description: Hôte du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1433-1435%.
+Studied at: Paris %1433-1435%..
+Academic grades obtained: Étudiant (Paris) %1433-1435% ;.
+College affiliation: Collège de Dormans-Beauvais : hôte %1433-1435% ;.
+Family relationships: Son parent est peut-être Robert MAUGER, président au Parlement de Paris ; Son parent est peut-être Étienne des PORTES, conseiller au Parlement de Paris ; Son parent est peut-être Jean des PORTES, hôte au Collège de Dormans-Beauvais en %1434-1438% ; Son parent est peut-être Pierre des PORTES, martinet au Collège de Dormans-Beauvais en %1437-1439% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 7/10/2019..

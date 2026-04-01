@@ -1,0 +1,22 @@
+PERSON: AEGIDIUS de Damme
+Also known as: Gilles de SABINA; Gilles de DAMME.
+Description: Cistercien.
+Status: Gradué.
+Gender: male.
+Active during: %1450-1463%.
+Born in: Flandres (Damme)..
+Studied at: Paris (Collège des Bernardins)..
+Academic grades obtained: Bachelier en théologie (Paris)..
+College affiliation: Collège Saint-Bernard..
+Religious order: O.Cist. : moine cistercien de l'abbaye des Dunes ;.
+Religious functions: Prieur des cisterciennes de Spermalie près de Bruges ;; Aumônier des cisterciennes de Spermalie près de Bruges.; Prieur de l'abbaye (cistercienne) des Dunes ;.
+Authored work: 'Libellus de regimine monialium', composed around ?.
+Authored work: 'Regulae confessoris monialium', composed around ?.
+Authored work: 'Dialogus inter animam et hominem religiosum', composed around ?.
+Authored work: 'Collectaneus divinorum eloquiorum', composed around ?.
+Authored work: 'Lectura super primam psalterii quinquagenum', composed around ?.
+Authored work: 'Item super secundam et tertium', composed around ?.
+Authored work: 'Super epistolas Paulis', composed around ?.
+Authored work: 'Collectaneus Martirologii', composed around ?.
+Authored work: 'Directorium originalium B.Hieronymi, B.Ambrosii, B.Gregorii, B. Bernardi', composed around ?.
+Authored work: 'Malogranatum', composed around ?.

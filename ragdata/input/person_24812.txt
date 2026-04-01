@@ -1,0 +1,13 @@
+PERSON: HENRICUS d'Avize
+Also known as: Henri d'AVIZE; Henri d'AMBONNAY.
+Description: Écolier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1376-1382%.
+Born in: Champagne (Avise ?) ;.
+Diocese of origin: Diocèse de Châlons..
+Studied at: Paris %1376-1381%..
+Academic grades obtained: Étudiant (Paris) %1376-1381%..
+College affiliation: Collège de Dormans-Beauvais : écolier-boursier %1376-1381% ;.
+Family relationships: Son cousin est Gérard d'AMBONNAY, conseiller-clerc au Parlement de Paris ; Son cousin est Renaud d'AMBONNAY, élu sur le fait des Aides du diocèse de Reims ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 25/06/2022..

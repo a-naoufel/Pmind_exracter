@@ -1,0 +1,10 @@
+PERSON: CAESARIUS
+Also known as: CAESARIUS; CAESAR; CÉSAR.
+Description: Magister.
+Status: Extérieur.
+Gender: male.
+Active during: %1250-1250%.
+Studied at: ?.
+Academic grades obtained: ?Magister..
+Authored work: 'Notulae in grammaticam', composed around ?.
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

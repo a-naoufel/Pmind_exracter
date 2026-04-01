@@ -1,0 +1,13 @@
+PERSON: LUDOVICUS Raguier 1
+Also known as: Ludovicus RAGUIER.
+Description: Évêque de Troyes.
+Status: Incertain.
+Gender: male.
+Active during: %1421-1488%.
+Studied at: ?.
+Academic grades obtained: Maître ;; Licencié en droit civil ;.
+Family relationships: Son père est Hémon RAGUIER, argentier et clerc aux deniers de Isabeau de BAVIERE, reine de France puis trésorier des guerres ; Sa mère est Gillette de LAFONTAINE ; Son frère est Antoine RAGUIER, trésorier des guerres ; Son neveu est Jacques RAGUIER, évêque de Troyes %1484-1518% ; Son neveu est Ludovicus RAGUIER, évêque de Lisieux %1460-1474% ; Son neveu est Antoine RAGUIER, évêque de Lisieux ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Châlons-en-Champagne %1440-1450% ;; Archidiacre de Châlons-en-Champagne %1440-1450% ;; Chanoine de Paris (Notre-Dame) ;; Chanoine de Troyes (Saint-Pierre) ;; Doyen d’Auxerre ;; Abbé (commendataire) de Montier-la-Celle %1462-1476% ;; Évêque de Troyes %1450-1483% ;.
+Representation roles: Ambassadeur de LOUIS XI auprès des Liégeois révoltés en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 13/06/2025..

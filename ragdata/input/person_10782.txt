@@ -1,0 +1,9 @@
+PERSON: RICARDUS Lepelé
+Also known as: Ricardus LEPELE.
+Description: Habitant de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1312-1312%.
+Studied at: ?.
+Social origin: Commun, habitant de Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 28/06/2024..

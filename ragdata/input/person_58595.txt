@@ -1,0 +1,11 @@
+PERSON: GEBHARDUS 1
+Also known as: GEBHARD.
+Description: Archevêque de Salzbourg.
+Status: Extérieur.
+Gender: male.
+Active during: %1050-1088%.
+Born in: Souabe?.
+Studied at: ?.
+Social origin: Noble..
+Ecclesiastical status: Prêtre ..
+Ecclesiastical positions held: Archevêque de Salzburg %1060-1088% ;.

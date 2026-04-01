@@ -1,0 +1,12 @@
+PERSON: ANTHONIUS de Billy
+Also known as: Antoine de BILLY.
+Description: Chanoine régulier.
+Status: Étudiant.
+Gender: male.
+Active during: %1453-1455%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant ?.
+College affiliation: Boursier au collège de Dormans-Beauvais %1453-1455%..
+Family relationships: ?Parent du boursier Guillaume de BILLY..
+Social origin: ?Noble..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/09/2020)..

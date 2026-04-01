@@ -1,0 +1,14 @@
+PERSON: ROBERTUS Vallée alias de Becco
+Also known as: Robertus VALLEE alias de BECCO; Robert DU BEC.
+Description: Docteur en droit canon.
+Status: Maître.
+Gender: male.
+Active during: %1413-1430%.
+Born in: Normandie ?.
+Studied at: Paris %1413-1429%.
+Academic grades obtained: Docteur en décret (Paris) vers ..
+Family relationships: Son oncle est l'abbé du Bec-Hellouin jusqu'en ..
+Religious order: O.S.B. : moine bénédictin du monastère de LeBec-Hellouin (diocèse de Rouen)..
+Religious functions: Prieur de Fontaines-la-Soret (dépendance de LeBec-Hellouin dans le diocèse d'Evreux) en ;; Prieur de Notre-Dame-du-Pré de Rouen (dépendance de LeBec-Hellouin dans le diocèse de Rouen) en ;; Abbé du Bec-Hellouin (diocèse de Rouen) en %1418-1430%..
+University functions: Paris (Faculté de décret : Doyen %1413-1415%) ;; Paris (Faculté de décret : Vice-doyen en octobre ) ;; Paris (Faculté de décret : Maître-régent en ) ;; Paris (Faculté de décret : Maître-régent en ;; Paris (Faculté de décret : Maître-régent en %1427-1429% au moins) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 15/11/2023..

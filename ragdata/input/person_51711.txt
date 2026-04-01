@@ -1,0 +1,12 @@
+PERSON: ODO Darchon de Voyennes
+Also known as: Eudes DARCHON de Voyennes.
+Description: Étudiant au Collège de Laon..
+Status: Étudiant.
+Gender: male.
+Active during: %1383-1385%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon..
+Studied at: Paris (Nation de Picardie) %1383-1385%..
+Academic grades obtained: Étudiant (Paris) %1383-1385% ?.
+College affiliation: Collège de Laon : Boursier ès arts en %1383-1385% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 12/12/2020..

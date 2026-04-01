@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Fabri 1
+Also known as: Guillelmus FABRI.
+Description: Étudiant ?.
+Status: Maître.
+Gender: male.
+Active during: %1329-1349%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse de Saint-Flour ;.
+Studied at: Paris (Nation de France ?) %1329-1330%..
+Academic grades obtained: Maître ès arts (Paris) %1329-1330% ;; Étudiant en théologie ;.
+Ecclesiastical status: Prêtre en ;.
+Ecclesiastical positions held: Curé de Paris (Saint-Martial) %1329-1330% ;; Provision pour un bénéfice à la collation du doyen et du chapitre de Poitiers, au lieu de la demande d'une provision de quiconque aussi bien à Paris que dans le diocèse de Paris en réponse au rotuus de l'Université de Paris en :.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 10/03/2020..

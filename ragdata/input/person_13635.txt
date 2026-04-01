@@ -1,0 +1,13 @@
+PERSON: PETRUS Vigneron
+Also known as: Petrus VIGNERON.
+Description: Carme.
+Status: Maître.
+Gender: male.
+Active during: %1469-1488%.
+Studied at: Paris %1474-1482%..
+Academic grades obtained: ?Bachelier en théologie (Paris) ;; Licencié en théologie (Paris) (le 4 mars) ..
+College affiliation: Couvent (carme) de Paris %1472-1488%..
+Religious order: O.Carm. : frère carme..
+Religious functions: Prieur du couvent (carme) de Paris en ..
+University functions: Paris (Faculté de Théologie : Lecteur de la Bible vers %1474-1475%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 15/08/2016..

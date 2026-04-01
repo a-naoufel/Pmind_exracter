@@ -1,0 +1,12 @@
+PERSON: PETRUS Pinardelli
+Also known as: Petrus PINARDELLI.
+Description: Archiprêtre de Ruffec.
+Status: Incertain.
+Gender: male.
+Active during: %1432-1441%.
+Born in: Limousin ?.
+Diocese of origin: Diocèse de Limoges ;.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical positions held: Archidiacre de Brioux ;; Archiprêtre de Ruffec %1432-1441% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 21/11/2022..

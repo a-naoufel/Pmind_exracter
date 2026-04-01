@@ -1,0 +1,15 @@
+PERSON: MATTHAEUS Capitosi
+Also known as: Matthaeus CAPITOSI; Matthaeus CAPITOLI.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1479-1504%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse d'Amiens ?.
+Studied at: Paris %1479-1489%.
+Academic grades obtained: Licencié en théologie (Paris) (le 12 mars) ;; Docteur en théologie (Paris) (le 30 mars) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins) %1479-1489%..
+Religious order: O.P. : frère dominicain du couvent (dominicain) d'Amiens..
+Religious functions: Inquisiteur du diocèse d'Amiens, d'Arras et de Thérouanne, %1503-1504%..
+University functions: Paris (Faculté de Théologie : Lecteur de la Bible ordinarie au couvent Saint-Jacques en ) ;; Paris (Faculté de Théologie : Lecteur des Sentences en %1483-1484% assigné en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 02/02/2023..

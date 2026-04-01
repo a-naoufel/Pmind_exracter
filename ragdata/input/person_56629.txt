@@ -1,0 +1,11 @@
+PERSON: STEPHANUS 10
+Also known as: STEPHANUS.
+Description: Prieur de Fleury.
+Status: Extérieur.
+Gender: male.
+Active during: %1260-1260%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.S.B. : moine bénédictin ;.
+Religious functions: Prieur de Fleury (Saint-Benoît-sur-Loire) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/09/2023)..

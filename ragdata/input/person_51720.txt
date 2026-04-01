@@ -1,0 +1,12 @@
+PERSON: MURARDUS Roussel de Saint-Marcel
+Also known as: Mourard ROUSSEL de Saint-Marcel.
+Description: Étudiant au Collège de Laon..
+Status: Étudiant.
+Gender: male.
+Active during: %1385-1388%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie) %1385-1388%..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Laon : boursier %1385-1388% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 13/12/2020..

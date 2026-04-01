@@ -1,0 +1,12 @@
+PERSON: NICOLAUS Esculi
+Also known as: Nicolaus ESCULI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1446-1446%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris ?.
+Studied at: Paris (Nation de France).
+Academic grades obtained: Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est le maître Johannes ALMANUS pour la maîtrise en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/03/2023..

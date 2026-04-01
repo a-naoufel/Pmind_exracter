@@ -1,0 +1,11 @@
+PERSON: BERNARDUS Escribos de Demuyn
+Also known as: Bernardus ESCRIBOS de Demuyn; Bernardus de DEMUYN.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1337-1337%.
+Studied at: Paris ..
+Academic grades obtained: Maître en théologie ..
+Ecclesiastical positions held: Provision pour un canonicat avec expectative de prébende dans la cathédrale de Noyon..
+University functions: Paris (Faculté de Théologie : Maître-régent en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 3/02/2021)..

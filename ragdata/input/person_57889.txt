@@ -1,0 +1,9 @@
+PERSON: RICARDUS Amireti
+Also known as: Ricardus AMIRETI.
+Description: Maître d’école.
+Status: Suppôt.
+Gender: male.
+Active during: %1449-1449%.
+Studied at: Paris..
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/06/2024..

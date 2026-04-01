@@ -1,0 +1,11 @@
+PERSON: ADAM de Sancto Dyonisio
+Also known as: Adam de SANCTO DYONISIO; Adam de SANCTO DIONISIO.
+Description: Archidiacre de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1230-1263%.
+Studied at: ?.
+Academic grades obtained: Maître ?.
+Ecclesiastical positions held: Chanoine de Cambrai %1230-1248% ;; Archidiacre de Cambrai ?%1241-1248 ;; Archidiacre de Rouen %1260-1263 ;.
+Other ecclesiastical functions: Official de Cambrai %1238-1241% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 18/12/2025..

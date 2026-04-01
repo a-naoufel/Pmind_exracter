@@ -1,0 +1,9 @@
+PERSON: NICOLAUS de Bincellier
+Also known as: Nicolaus de BINCELLIER.
+Description: Maître d'école.
+Status: Suppôt.
+Gender: female.
+Active during: %1380-1380%.
+Studied at: Paris ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 29/08/2020..

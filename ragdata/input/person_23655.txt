@@ -1,0 +1,11 @@
+PERSON: MATTHAEUS Burgondi
+Also known as: Matthaeus BURGONDI.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1339-1339%.
+Born in: Viennois ?.
+Diocese of origin: Diocèse de Valence..
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 07/01/2020..

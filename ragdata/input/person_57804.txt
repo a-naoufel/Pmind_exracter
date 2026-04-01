@@ -1,0 +1,10 @@
+PERSON: CLAUDIUS Boys
+Also known as: Claudius BOYS.
+Description: Boursier du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1485-1485%.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Étudiant ès arts (Paris) en ..
+College affiliation: Collège d’Autun : boursier en arts ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

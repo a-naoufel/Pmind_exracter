@@ -1,0 +1,14 @@
+PERSON: PETRUS de Area
+Also known as: Petrus de AREA.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1398-1403%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse de Clermont ;.
+Studied at: Paris %1398-1403%..
+Academic grades obtained: Licencié en décret (Paris) ;.
+College affiliation: Collège d'Autun ?.
+Ecclesiastical status: Clerc du diocèse de Clermont en ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Rotulus licentiatorum et bacallariorum in decretis Parisius adressé à BENOÎT XIII en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 20/07/2025..

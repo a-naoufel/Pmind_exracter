@@ -1,0 +1,10 @@
+PERSON: GERARDUS Ruina
+Also known as: Gerardus RUINA.
+Description: Chantre de Bourges.
+Status: Incertain.
+Gender: male.
+Active during: %1275-1275%.
+Studied at: ?.
+Academic grades obtained: Maître ?.
+Ecclesiastical positions held: Chantre de Bourges..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 11/01/2022..

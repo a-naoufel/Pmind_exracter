@@ -1,0 +1,11 @@
+PERSON: GUIDO Gentilhomme
+Also known as: Guido GENTILHOMME; Guido LEGENTILHOMME.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %:1446-1447%.
+Diocese of origin: Diocèse de Chartres..
+Studied at: Paris (Nation de France)..
+Academic grades obtained: Bchelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Guillelmus BRÉMONT pour le baccalauréat en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/01/2022)..

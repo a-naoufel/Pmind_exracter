@@ -1,0 +1,11 @@
+PERSON: MATTHAEUS de Omervilla
+Also known as: Matheus de OMERVILLA; Mathieu d'OMERVILLE.
+Description: Moine de Saint-Denis.
+Status: Maître.
+Gender: male.
+Active during: %1330-1333%.
+Studied at: Paris %1330-1333%..
+Academic grades obtained: Bachelier en théologie (Paris) ;.
+College affiliation: Collège de Saint-Denis ?.
+Religious order: O.S.B : moine (bénédictin) du couvent (bénédictin) de Saint-Denis en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol et Anne Tournieroux ; révision Jean-Philippe Genet, 16/09/2019..

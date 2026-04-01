@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Valle 8
+Also known as: Guillelmus de VALLE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1477-1478%.
+Diocese of origin: Diocèse de Thérouanne ;.
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Johannes MOURET pour le baccalauréat en ; Son maître est Johannes de VENDOLIO pour la maîtrise en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 22/04/2022..

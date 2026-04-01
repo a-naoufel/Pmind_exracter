@@ -1,0 +1,13 @@
+PERSON: Frater GUILLELMI Hake de Capella
+Also known as: X de CAPELLA.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1357-1357%.
+Born in: Pays-Bas ?.
+Diocese of origin: Diocèse d'Utrecht ?.
+Studied at: Paris (Nation Anglo-allemande)..
+Academic grades obtained: Étudiant (Paris ?) ;.
+Family relationships: Son frère est Guillelmus HAKE de Capella qui est aussi étudiant à Paris ;.
+University functions: Paris (Nation Anglo-allemande : il participe aux négociations avec la Nation de Picardie sur les limites respectives des deux nations en : il est cité dans les Responsiones nacionis Anglicorum ad articulos Picardorum de Nicolaus MACER de Almekerke parmi les maîtres originaires de la région des rives de la OudeMaas, "citra Mosam")" ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 18/09/2021..

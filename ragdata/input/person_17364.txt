@@ -1,0 +1,10 @@
+PERSON: BERNARDUS de Ranchicort
+Also known as: Bernardus de RANCHICORT.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1378-1380%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en droit canon (Paris) ;.
+Ecclesiastical positions held: Grâce pour un bénéfice à la collation de l'évêque, du doyen et du chapitre d'Amiens ;; Provision en retour à sa demande, sur le rotulus de Johannes de SANCTIS, nuntius universitatis Parisiensis en , de la chapellenie de Saint-Genebaud dans la cathédrale de Laon qui doit devenir vacante quand Jacobus FOLETUS aura son canonicat et sa prébende de Laon : un bénéfice "vocatum cornetum seu angulum maioris altaris" à la cathédrale de Noyon sur le rotulus particulier de Johannes de SANCTIS, nuntius universitatis Parisiensis en ;; Provision en pour un canonicat avec expectative de prébende dans l'égliseparoissiale de Calais (Saint-Pierre) : mandat à l'official d'Arras.; Candidat en à un bénéfice à la collation du doyen et du chapitre de Saint-Quentin (Saint-Quentin)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 12/02/2021)..

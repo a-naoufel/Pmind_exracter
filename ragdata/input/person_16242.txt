@@ -1,0 +1,10 @@
+PERSON: ALANUS de Rosmadec
+Also known as: Alanus de ROSMADEC.
+Description: Bachelier ès Arts.
+Status: Maître.
+Gender: male.
+Active during: %1444-1455%.
+Born in: Bretagne ?.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Licencié ès Arts (Paris) .; Maître ès Arts (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 28/05/2020..

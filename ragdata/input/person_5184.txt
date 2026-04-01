@@ -1,0 +1,11 @@
+PERSON: HUGO de Hermen
+Also known as: Hugo de HERMEN; Hugo de HERMEIN; Hugo de ARMANCO; Hugo de HERMENCO.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1276-1304%.
+Studied at: Paris ;; Orléans ?.
+Academic grades obtained: Magister ;; Maître en décret (Paris ou Orléans ?)..
+Ecclesiastical positions held: Chanoine d'Auxerre %1278-1304% ;; Archidiacre d'Auxerre jusqu'en ;.
+University functions: Paris (Maître enseignant le décret) ?; Orléans (Professeur de droit canon ?) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 29/04/2025)..

@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Vaudrey
+Also known as: Guillelmus de VAUDREY.
+Description: Abbé de Saint-Martin-ès-Aires.
+Status: Extérieur.
+Gender: male.
+Active during: %1367-1367%.
+Studied at: ?.
+Religious order: O.Clun. : moine (Clunisien)..
+Religious functions: Abbé (bénédictin) de Bèze % -1367% ;; Abbé (bénédictin) de Troyes (Saint-Martin-ès-Aires) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 22/04/2022..

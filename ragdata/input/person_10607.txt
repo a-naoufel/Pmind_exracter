@@ -1,0 +1,13 @@
+PERSON: RAIMUNDUS Guillermi
+Also known as: Raymond GUILLERMI.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1265-1291%.
+Born in: Villefranche ?.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Couvent Saint-Jacques : lecteur (cursus du lectorat ?)..
+Religious order: O.P. : dominicain..
+University functions: Paris (Lecteur en Théologie en au couvent dominicain)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 05/04/2024..

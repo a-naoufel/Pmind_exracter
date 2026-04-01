@@ -1,0 +1,20 @@
+PERSON: GUILLELMUS de Bonkis
+Also known as: William de BONKES; Guillaume de BONKIS..
+Description: Recteur de Dufton.
+Status: Extérieur.
+Gender: male.
+Active during: %1291-1300%.
+Born in: Angleterre ;.
+Diocese of origin: Diocèse de Carlisle..
+Studied at: Oxford..
+Academic grades obtained: Maître ès arts (Oxford) av...
+Ecclesiastical positions held: Recteur de Dufton (Cumberland) %1292- % ;; Recteur-coadjuteur de LongMarton (Westmoreland) %1298- % ;.
+University functions: Oxford (Balliol College : fellow %1291-1293% au moins) ;; Oxford (Université : régent )..
+Authored work: 'Quaest. super lib. Perihermenias', composed around ?.
+Authored work: 'Quaestiones super Priscianum', composed around ?.
+Authored work: 'Quaest. in lib. I-XII Metaphysicae', composed around .
+Authored work: 'Quaest. in lib. Physicorum', composed around ?.
+Authored work: 'Quaest. in lib. De Coelo et mundo', composed around ?.
+Authored work: 'Quaest. in lib. De Generatione et corruptione', composed around ?.
+Authored work: 'Quaest. in lib. Meteororum', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 10/01/2019..

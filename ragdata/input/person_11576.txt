@@ -1,0 +1,10 @@
+PERSON: STEPHANUS Ermengart
+Also known as: Stephanus ERMENGART; Etienne ERMENGART.
+Description: Étudiant ès arts.
+Status: Étudiant.
+Gender: male.
+Active during: %1386-1386%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant ès arts (Paris) ..
+College affiliation: Boursier ès Arts au Collège de Navarre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20-09-2024.

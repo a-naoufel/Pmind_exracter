@@ -1,0 +1,10 @@
+PERSON: SIMON Marete
+Also known as: Simon MARETE.
+Description: Maître d’école.
+Status: Suppôt.
+Gender: male.
+Active during: %1428-1428%.
+Studied at: Paris..
+Academic grades obtained: ?.
+Ecclesiastical status: Prêtre ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/06/2024..

@@ -1,0 +1,10 @@
+PERSON: ANDREAS Ruffus
+Also known as: Andreas RUFUS.
+Description: Chanoine d’Angers.
+Status: Incertain.
+Gender: male.
+Active during: %1338-1349%.
+Studied at: ?.
+Academic grades obtained: Licencié in utroque jure ;.
+Ecclesiastical positions held: Chanoine d’Angers %1343-1349% ;; Chantre d’Angers %1348-1349% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 23/07/2022)..

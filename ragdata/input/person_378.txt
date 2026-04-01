@@ -1,0 +1,13 @@
+PERSON: ALBERTUS Fabri
+Also known as: Albertus FABRI.
+Description: Licencié en théologie..
+Status: Incertain.
+Gender: male.
+Active during: %1416-1422%.
+Studied at: Paris %:1416-1422%..
+Academic grades obtained: Bachelier en théologie "formatus" (Paris) ;; Licencié en théologie (Paris) (le 19 décembre) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère du couvent (dominicain) d'Angers en ;.
+Religious functions: Substitut du frater Johannes AMARINI à Paris, assigné par le chapitre général, en ;; O.P. : frère du couvent (dominicain) de Poitiers en ..
+University functions: Lecteur du couvent (dominicain) d'Angers en ;; Magister studentium du couvent de Toulouse, assigné par le chapitre général, en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/06/2020)..

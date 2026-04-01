@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Berthier
+Also known as: Guillelmus BERTHIER; Guillermus BERTHIER.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1501-1501%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse d'Autun..
+Studied at: Paris %1501-1501%..
+Academic grades obtained: Bachelier en décret (Paris) 19 octobre ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet 24/11/2020)..

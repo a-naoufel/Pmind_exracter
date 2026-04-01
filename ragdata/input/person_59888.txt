@@ -1,0 +1,12 @@
+PERSON: GODEFRIDUS Gompele
+Also known as: Godefridus GOMPELE.
+Description: Professeur de l’université de Louvain.
+Status: Étudiant.
+Gender: male.
+Active during: %1425-1456%.
+Born in: Flandres (Dessel ?) ?.
+Diocese of origin: Diocèse de Tournai ?.
+Studied at: Paris avant ?; Louvain ..
+Academic grades obtained: Étudiant (Paris) avant ;.
+University functions: Louvain (Faculté des Arts : professeur %1425-1445%) ;; Louvain (Faculté des Arts : Doyen en et en ;; Louvain (Fondateur en du Pedagogium Castrum, l’une des quatre pédagogies de Louvain) ;; Louvain (Université : recteur )..
+Source: RAG ;.

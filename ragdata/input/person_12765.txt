@@ -1,0 +1,10 @@
+PERSON: PETRUS Duchemin
+Also known as: Petrus DUCHEMIN.
+Description: Bachelier Décret.
+Status: Gradué.
+Gender: male.
+Active during: %1496-1496%.
+Studied at: Paris ..
+Academic grades obtained: Bachelier Décret (Paris) ..
+Religious order: O.S.B. : moine bénédictin..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 13/03/2024)..

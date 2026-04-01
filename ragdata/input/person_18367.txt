@@ -1,0 +1,10 @@
+PERSON: AEGIDIUS de Tillia
+Also known as: Aegidius de TILLIA; Gilles du THEIL; Gilles de GAND.
+Description: ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1321-1338%.
+Born in: Flandres ?.
+Studied at: Paris ?.
+College affiliation: Collège de Sorbonne ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 03/05/2020)..

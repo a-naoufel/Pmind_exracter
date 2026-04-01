@@ -1,0 +1,21 @@
+PERSON: SIMON de Tournai
+Also known as: Simon de TOURNAI.
+Description: Chanoine de Tournai.
+Status: Maître.
+Gender: male.
+Active during: %1170-1203%.
+Born in: Flandre (Tournai) ;.
+Diocese of origin: Diocèse de Tournai..
+Studied at: Paris.
+Academic grades obtained: Maître en théologie ?.
+Ecclesiastical positions held: Chanoine de Tournai..
+Authored work: 'Somme théologique', composed around ?.
+Authored work: 'Quaestiones (seu Disputationes)', composed around ?.
+Authored work: 'Expositio symboli S. Athanasii (ou Tractatus super Quicumque vult)', composed around ?.
+Authored work: 'Expositio super symbolum', composed around ?.
+Authored work: 'Abbreviatio in sententias magistri Petri Lombardi', composed around ?.
+Authored work: 'Super Antiphona : O Sapientia', composed around ?.
+Authored work: 'Paradisus', composed around ?.
+Authored work: 'Cur flet qui gaudeat', composed around ?.
+Authored work: 'Breviarium Sententiarum', composed around ?.
+Source: MIRABILE :.

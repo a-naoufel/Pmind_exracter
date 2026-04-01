@@ -1,0 +1,10 @@
+PERSON: ROBERTUS Parisiensis 2
+Also known as: Robertus PARISIENSIS.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1250-1250%.
+Studied at: Paris ?.
+Academic grades obtained: Maître ès arts ?.
+Authored work: 'Notule super librum VI Principiorum', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Messohic
+Also known as: Guillelmus de MESSOHIC.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1379-1379%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Léon ;.
+Studied at: Paris..
+Academic grades obtained: Bachelier en décret (Paris) ;; Étudiant en décret (Paris) en ;.
+Ecclesiastical status: Prêtre du diocèse de Léon ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus de ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 2/04/2022..

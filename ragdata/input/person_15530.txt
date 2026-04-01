@@ -1,0 +1,11 @@
+PERSON: PETRUS Poyal
+Also known as: Petrus POYAL.
+Description: Clunisien.
+Status: Étudiant.
+Gender: male.
+Active during: %1371-1371%.
+Studied at: Paris %1371-1371%..
+Academic grades obtained: Étudiant en théologie (Paris) ..
+Religious order: O.S.B. : moine clunisien du monastère de Cluny (diocèse de Mâcon)..
+Religious functions: Candidat à la fonction d'aumônier de Cluny (diocèse de Mâcon) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 3/03/2019..

@@ -1,0 +1,9 @@
+PERSON: PETRUS Lamberti
+Also known as: Petrus LAMBERTI.
+Description: Médecin.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1336%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant (Paris) en %1329-1330%, sans doute ès arts ?; Bachelier en médecine (Paris) avant ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 19/10/2023)..

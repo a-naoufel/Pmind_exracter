@@ -1,0 +1,28 @@
+PERSON: GUILLELMUS Tardivi
+Also known as: Guillaume TARDIF; Guillelmus TARDIVIS; Guillermus TARDIVUS.
+Description: Précepteur de Charles VIII..
+Status: Maître.
+Gender: male.
+Active during: %1456-1500%.
+Born in: Auvergne (Puy-en-Velay))..
+Diocese of origin: Diocèse de LePuy ?.
+Studied at: Paris (Nation de France) %1456-1493%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Maître ?.
+College affiliation: Collège d’Autun : Maître au collège d’Autun en ?; Collège de Navarre : il enseigne la rhétorique dès %1473)%.; Collège de Sorbonne : il lui est accordé en (16 novembre) d’enseigner la rhétorique dans les écoles du collège ;.
+University functions: Paris (Faculté des Arts : il enseigne au Collège d’Autun, puis la rhétorique au Collège de Navarre et dans les écoles du Collège de Sorbonne) ;.
+Authored work: '[Livre d'heures]', composed around ?, dedicated to Dédié à CHARLES VIII, roi de France..
+Authored work: 'Art de bien mourir', composed around ?.
+Authored work: 'Antibalbica, seu Antiacelin, In Balbum imo Acelinum defensio', composed around ?.
+Authored work: 'In invidiosam falsamque detractationem ubicumque gentium responsio ac defensio', composed around ?.
+Authored work: 'Grammatica', composed around ?, dedicated to Dédié à LOUIS XI..
+Authored work: 'Rhetoricae artis et oratoriae facultatis compendium', composed around ?.
+Authored work: 'Eloquentiae bene dicendique scientiae compendium', composed around %1481-1483%, dedicated to Dédié à CHARLES VIII, roi de France..
+Authored work: 'In Fichetum linguae latinae artisque rhetoricae libellus', composed around ?.
+Authored work: 'Compendiosissima Grammatica cum commentario', composed around ?.
+Authored work: 'Epitres à Raymond Jacques', composed around ?.
+Authored work: 'Les facecies de Poge', composed around , dedicated to Dédié à CHARLES VIII, roi de France..
+Authored work: 'Des dis apologues moraulx', composed around Fin du XVe siècle..
+Authored work: 'Les ditz des sages hommes', composed around ?.
+Authored work: 'Livre de l'art de la faulconnerie et des chiens de chasse', composed around , dedicated to Dédié à CHARLES VIII, roi de France..
+Authored work: '[Traduction du De mirabilibus mundi liber]', composed around ?, dedicated to Dédié à CHARLES VIII, roi de France..
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

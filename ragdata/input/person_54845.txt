@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Militis 2
+Also known as: Guillelmus MILITIS.
+Description: Patriarche de Jérusalem.
+Status: Incertain.
+Gender: male.
+Active during: %1337-1371%.
+Studied at: Angers ?.
+Academic grades obtained: Docteur en théologie (Angers ?) ?.
+Religious order: O.P. : frère dominicain..
+Religious functions: Procureurgénéral des Dominicains ;; Inquisiteur de Carcassonne ;.
+Ecclesiastical positions held: Patriarche de Jérusalem %1369-1371%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 12/12/2022..

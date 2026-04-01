@@ -1,0 +1,10 @@
+PERSON: ALANUS Brito 1
+Also known as: Alanus BRITO.
+Description: Chanoine du Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1229-1246%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Saint-Pierre-de-la-Cour %1229-1240% ;; Chanoine de LeMans vers ? ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 19/06/2023)..

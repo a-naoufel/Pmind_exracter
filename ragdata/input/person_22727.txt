@@ -1,0 +1,8 @@
+PERSON: PETRUS de Chambleyo
+Also known as: Petrus de CHAMBLEYO.
+Description: Bourgeois de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1259-1259%.
+Social origin: Bourgeois de Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 10-02-2024..

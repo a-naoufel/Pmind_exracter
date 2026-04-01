@@ -1,0 +1,12 @@
+PERSON: CONRADUS de Schiverstadt
+Also known as: Conradus de SCHIVERSTADT; Conrad de SCHIVERSTAT.
+Description: Docteur en médecine..
+Status: Gradué.
+Gender: male.
+Active during: %1385-1400%.
+Born in: Rhénanie (Darmstadt)..
+Diocese of origin: Diocèse de Mayence..
+Studied at: ?Paris, ;; Vienne, %1385-:1388%..
+Academic grades obtained: Licencié ès arts (?Paris) ;; Licencié en médecine (?Paris) ;; Docteur ès arts (Vienne) ;; Docteur en médecine (Vienne) ..
+University functions: Rédacteur des statuts de la Faculté de médecine à l'université de Vienne, %1388-1389% ;; Doyen de Faculté de médecine à l'université de Vienne, %1399-1400%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 26/04/2021)..

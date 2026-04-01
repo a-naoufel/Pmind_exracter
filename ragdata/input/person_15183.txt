@@ -1,0 +1,9 @@
+PERSON: ROBERTUS Bermain
+Also known as: Robert BERMAIN.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1356-1356%.
+Studied at: Paris %1356-1356%..
+Academic grades obtained: Maître en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 10/07/2024..

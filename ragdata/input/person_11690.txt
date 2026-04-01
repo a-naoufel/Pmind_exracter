@@ -1,0 +1,12 @@
+PERSON: SIMON Le Voisens
+Also known as: Symon LE VOISENS; Symon LEVOISEUX; Symon de PERTAING.
+Description: Maître en arts et en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1342-1349%.
+Born in: Picardie (Pertain?) ?.
+Diocese of origin: Diocèse d'Amiens ?.
+Studied at: Paris (Nation de Picardie ?) %1349-1349%..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Maître en médecine (Paris) vers ? ?.
+Ecclesiastical positions held: Recteur de Fontaines-en-Beauvois (Nord) en %1342-1345% ;; Recteur de Loon (Nord) en ;; Candidat à un bénéfice à la collation de l'archevêque et du chapitre de Sens en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 4/11/2021..

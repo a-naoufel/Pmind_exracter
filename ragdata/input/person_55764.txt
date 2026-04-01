@@ -1,0 +1,10 @@
+PERSON: GERARDUS Pallier
+Also known as: Girart PALLIER.
+Description: Boursier du collège de Fortet.
+Status: Étudiant.
+Gender: male.
+Active during: %1462-1462%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège de Fortet, boursier ;; Témoin de la vente en (22 février) à Jean LE MENU, maçon de Paris, d'une maison appartenant au collège de Fortet située devant la Croix Neuve près de Saint-Eustache, contre une rente annuelle de 14 sous ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

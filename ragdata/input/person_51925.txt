@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Beyart
+Also known as: Nicolas BEYART.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1321-3121%.
+Studied at: Paris ..
+Academic grades obtained: Magister (Paris ?) en ..
+College affiliation: Sorbonne : socius ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 4/02/2021)..

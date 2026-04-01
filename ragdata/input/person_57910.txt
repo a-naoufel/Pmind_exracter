@@ -1,0 +1,23 @@
+PERSON: RICARDUS Fishacre
+Also known as: Ricardus FISHACRE.
+Description: Maître en théologie dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1220-1248%.
+Born in: Angleterre (Devon ?) ;.
+Diocese of origin: Diocèse d’Exeter..
+Studied at: Oxford..
+Academic grades obtained: Maître en théologie (Oxford)..
+Academic relationships: Son maître est Robert BACON, O.P. ;.
+Religious order: O.P. : frère dominicain..
+University functions: Oxford (Maître-régent au couvent dominicain)..
+Authored work: '(Commentaire sur les Sentences)', composed around Terminé vers à Oxford ;.
+Authored work: 'Quaestio de Ascensione Christi', composed around ?.
+Authored work: 'Adnotationes in sancti Augustini librum de haeresibus', composed around Aorès ?.
+Authored work: 'Quaestiones', composed around %1245-1248%.
+Authored work: 'Sermones', composed around ?.
+Authored work: '(Commentaire sur les Psaumes 1-70)', composed around ?.
+Authored work: '(Commentaire sur les Paraboles de Salomon)', composed around ?.
+Authored work: '(Quodlibeta)', composed around ?.
+Authored work: '(De fide, spe et caritate)', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

@@ -1,0 +1,11 @@
+PERSON: ARNALDUS Dordraci
+Also known as: Arnoldus DORDRACI; Arnoldus DURDRATI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1485-1486%.
+Born in: Pays-Bas (Hollande : Dordrecht ?)..
+Diocese of origin: Diocèse d'Utrecht..
+Studied at: Paris (Nation Anglo-allemande) ;; Padoue ;; Ferrare ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) .; Maître ès arts (Paris) ;; Docteur en médecine (Ferrare) ;.
+Source: RAG ;.

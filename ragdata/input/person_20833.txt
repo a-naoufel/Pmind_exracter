@@ -1,0 +1,11 @@
+PERSON: Scolaris de Ullari
+Also known as: Scolaris de ULLARI.
+Description: Cistercien.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+College affiliation: Collège des Bernardins ;.
+Religious order: O. Cist. : abbaye (cistercienne) de Ullari ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 30/08/2016..

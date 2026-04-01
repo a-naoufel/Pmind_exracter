@@ -1,0 +1,10 @@
+PERSON: CONRADUS Pellificis
+Also known as: Conradus PELLIFICIS.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1493-1494%.
+Born in: Rhénanie ?.
+Diocese of origin: Diocèse de Mayence..
+Studied at: Paris (Nation Anglo-allemande) %1493-1494%..
+Academic grades obtained: Bachelier ès arts (Paris) %1493-1494%..

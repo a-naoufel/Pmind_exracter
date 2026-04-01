@@ -1,0 +1,10 @@
+PERSON: PETRUS Morandi
+Also known as: Petrus MORANDI.
+Description: Chanoine de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1485-1515%.
+Studied at: ?.
+Academic grades obtained: Licencié en droit canon ;.
+Ecclesiastical positions held: Chanoine de Clermont %1485-1515% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/10/2023..

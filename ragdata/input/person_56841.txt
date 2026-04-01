@@ -1,0 +1,38 @@
+PERSON: HIERONYMUS de Hangest
+Also known as: Hieronymus de HANGEST.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1496-1538%.
+Born in: Picardie (Compiègne ?) ?.
+Diocese of origin: Diocèse de Noyon ;.
+Studied at: Paris (Nation de Picardie)..
+Academic grades obtained: Maître ès arts (Paris) vers ;; Licencié en théologie (Paris) (26 janvier) ;; Rang 1/25.; Docteur en théologie (Paris) (22 mars) ;.
+College affiliation: Collège de Reims : étudiant ès arts ;; Collège de Reims : maître-régent ès arts, %1503-1513% ;; Sorbonne : hôte en ;; Sorbonne : socius ;; Sorbonne : prieur ;; Sorbonne : parvus librarius ;.
+Family relationships: Son frère est peut-être Henri de HANGEST ? Son parent est peut-être Charles de HANGEST, évêque de Noyon ? Son parent est peut-être Jean de HANGEST, évêque de Noyon ?.
+Academic relationships: Son élève est Janos GOZTONYI, évêque de Györ..
+Social origin: Noble ?.
+Ecclesiastical positions held: Chanoine de Laon ?; Chanoine de LeMans ;; Écolâtre de LeMans ;.
+Other ecclesiastical functions: Vicairegénéral de LeMans ;.
+University functions: Paris (Université : Recteur ).; Paris (Faculté des Arts : maître régent au Collège de Reims)..
+Authored work: 'Adversus nonnullos articulos antilogia', composed around ?.
+Authored work: 'De academiis in Luthero', composed around ?, dedicated to Avec une lettre adressée au Cardinal Louis de BOURBON/.
+Authored work: 'De libero arbitrio in Lutherum', composed around ?.
+Authored work: 'De possibili praeceptorum divinorum impletione in Lutherum', composed around ?.
+Authored work: 'Praeconiorum sacrosanctae Christi matris virginisque semper gloriosae Mariae adversus antimarianos propugnaculum', composed around ?, dedicated to Dédié à Charles de BOURBON, duc de Vendôme..
+Authored work: 'Contre les ténébrions lumière évangélique', composed around ?.
+Authored work: 'De Christifera Eucharistia adversus nugiferos symbolistas', composed around ?.
+Authored work: 'En controverse voye sure', composed around ?.
+Authored work: 'Jardin aux pensées', composed around ?.
+Authored work: 'Tractatus de usuris', composed around ?.
+Authored work: 'Cantique sur la venue du Christ', composed around ?.
+Authored work: 'Commentaria super quartum librum Sententiarum Petri Lombardi', composed around ?.
+Authored work: 'Dictata (sur le commentaire de Gabriel Biel sur les Sentences)', composed around ?.
+Authored work: 'Problemata logicalia', composed around ?.
+Authored work: 'Problemata exponibilium', composed around ?.
+Authored work: 'Liber proportionum', composed around ?.
+Authored work: 'Liber de causis', composed around ?, dedicated to Dédié à Étienne PONCHER, évêque de Paris..
+Authored work: 'Introductorium morale', composed around ?, dedicated to Dédié à Janos GOZTONYI, évêque de Györ..
+Authored work: 'Moralia', composed around ?, dedicated to Dédié au Cardinal Louis de BOURBON..
+Authored work: 'Dictata (sur la Politique d’Aristote)', composed around ?.
+Source: Post-Reformation Digital Library :.

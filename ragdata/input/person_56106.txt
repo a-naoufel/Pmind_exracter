@@ -1,0 +1,10 @@
+PERSON: REGINALDUS de Lingonis
+Also known as: Reginaldus de LINGONIS.
+Description: Chanoine de Troyes.
+Status: Incertain.
+Gender: male.
+Active during: %1353-1366%.
+Studied at: ?.
+Academic grades obtained: Licencié in utroque jure ;.
+Ecclesiastical positions held: Chanoine de Troyes (Saint-Étienne) ;; Célerier de Troyes (Saint-Étienne) ;; Chanoine de Troyes %1353-1366% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 19/05/2023..

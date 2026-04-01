@@ -1,0 +1,10 @@
+PERSON: BERNARDUS 10
+Also known as: BERNARD.
+Description: Bedeau de la Faculté de Théologie..
+Status: Suppôt.
+Gender: male.
+Active during: %1341-1341%.
+Studied at: Paris ..
+Academic grades obtained: ?.
+University functions: Bedeau de la Faculté de Théologie à Paris en 1341% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 14/01/2021)..

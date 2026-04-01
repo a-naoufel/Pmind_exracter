@@ -1,0 +1,14 @@
+PERSON: RICARDUS Perchart
+Also known as: Ricardus PERCHART.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1451-1507%.
+Born in: Normandie (Valognes) ;.
+Diocese of origin: Diocèse de Coutances ?.
+Studied at: ?.
+Academic grades obtained: Licencié en droit canon ;.
+Social origin: Noble (anobli) ?.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Lisieux depuis ;; Chanoine de Rouen %1462-1504% ;; Curé de Paris (Saint-Gervais) depuis ;; Curé de Rouen (Saint-Laurent) %1496-1504% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 8/11/2021..

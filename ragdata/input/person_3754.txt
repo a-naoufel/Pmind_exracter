@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Boucherii 2
+Also known as: Guillelmus BOUCHERII; Guillelmus BUCHERII; Guillaume BOUCHIER; Guillaume LE BOUCHER; Guillaume LE BOURCHIER.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1413-1431%.
+Studied at: Paris %1413-1422%.
+Academic grades obtained: Docteur en théologie (Paris) %1413-1422%..
+College affiliation: Couvent (Carme) de Paris %1413-1422%..
+Religious order: Carme : province de France..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/02/2022.

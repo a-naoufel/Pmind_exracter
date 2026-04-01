@@ -1,0 +1,12 @@
+PERSON: THEODERICUS de Foro
+Also known as: Theodoricus de FORO; Theodericus de FOR; Theodericus de FONS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1345-1348%.
+Studied at: Paris (Nation Anglo-allemande) %1345-1348%..
+Academic grades obtained: Étudiant ?.
+College affiliation: Collège de Sorbonne ;.
+Academic relationships: Son élève est Bertoldus de HELMESTAT pour le baccalauréat en ; Son élève est Conradus de MINDA pour le baccalauréat en ; Son élève est Theodoricus de HILDENSEM pour le baccalauréat en ; Son élève est Wicboldus de PRUSIA pour la licence en ; Son élève est Wicboldus de PRUSIA pour la licence en ; Son élève est Herpo de LUNNA pour la licence en ; Son élève est Henricus de WISMAR pour le baccalauréat en ; Son élève est Dechardus de MINDA pour le baccalauréat en ; Son élève est Remboldus de VENLOO pour le baccalauréat en ;.
+University functions: Paris (Nation Anglo-allemande : Maître-régent en %1347-1348%).; Paris (Nation Anglo-allemande : Receveur en %1347-1348%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 23/09/2021..

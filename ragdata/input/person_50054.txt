@@ -1,0 +1,10 @@
+PERSON: GODEFRIDUS Le Maire
+Also known as: Godefridus LEMAIRE.
+Description: Licencié en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1340-1340%.
+Born in: Bretagne ;.
+Studied at: Paris %1340-1340%,.
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/11/2019..

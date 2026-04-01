@@ -1,0 +1,12 @@
+PERSON: ARNALDUS de Morlanis
+Also known as: Arnould de MORLANIS.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1250-1303%.
+Born in: Aquitaine (Morlaas ?) ?.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) %1264-1267% ;.
+College affiliation: Couvent (dominicain) de Paris (Jacobins) %1264-1267%..
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Toulouse..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 25/04/2024..

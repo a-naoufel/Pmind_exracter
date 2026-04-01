@@ -1,0 +1,13 @@
+PERSON: AUGUSTINUS Nidrosiensis
+Also known as: Augustinus ERLENDI; ØYSTEIN Erlendsson.
+Description: Archevêque.
+Status: Incertain.
+Gender: male.
+Active during: %1161-1188%.
+Born in: Norvège..
+Studied at: Paris (École de Saint-Victor?).
+Family relationships: Son père est ERLEND Jonsson Himalde de Råsvoll..
+Social origin: Noblesse..
+Ecclesiastical positions held: Archevêque de Trondhjem, %1157-1188% ;.
+Authored work: 'Passio et Miracula'.
+Source: Norsk biografisk leksikon [DUBDAHL (A.) : Øystein Erlendsson], en ligne, https://nbl.snl.no/%C3%Øystein_Erlendsson ;.

@@ -1,0 +1,20 @@
+PERSON: OLBERTUS Gemblacensis
+Also known as: Olbertus GEMBLACENSIS; Olbert de GEMBLOUX.
+Description: Abbé de Gembloux.
+Status: Étudiant.
+Gender: male.
+Active during: %1000-1048%.
+Born in: Pays-Bas (Hainaut : Leernes) ;.
+Diocese of origin: Diocèse de Liège ?.
+Studied at: Paris (école de l’abbaye Saint-Germain-des-Prés) ;; Troyes (école épiscopale) %1104-1108% ;; Chartres..
+Academic grades obtained: Étudiant (Paris)..
+Academic relationships: Son maître est Heriger de LOBBES à l’abbaye (bénédictine) de Lobbes ; Son maître est Fulbert de CHARTRES à l’écoleépiscopale de Chartres ;.
+Religious functions: Abbé de Gembloux %1012-1048% ;.
+Ecclesiastical positions held: O.S.B. : moine (bénédictin) de Lobbes ;.
+Authored work: 'Hymni', composed around ?.
+Authored work: '(Deux distiques)', composed around ?.
+Authored work: 'Miracula sancti Veroni confessoris', composed around ?, dedicated to Écrit à la demande du comte Regnier de HAINAUT..
+Authored work: 'Inventio Sanctae Mastidiae', composed around %1104-1107% à Troyes ?.
+Authored work: '(Une partie du prologue de la Vita secunda Waltrude)', composed around %1104-1107% à Troyes ?.
+Authored work: 'Acta recentiora Sancti Lupi', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

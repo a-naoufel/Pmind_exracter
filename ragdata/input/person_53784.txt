@@ -1,0 +1,10 @@
+PERSON: LUDOVICUS Fabri
+Also known as: Ludovicus FABRI.
+Description: Chanoine de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1467-1467%.
+Studied at: ?.
+Academic grades obtained: Licencié en droit canon ;.
+Ecclesiastical positions held: Chanoine de Rodez %1426-1439% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 22/05/2022..

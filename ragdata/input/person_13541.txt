@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de Fuolla
+Also known as: Nicolaus de FUOLLA.
+Description: Docteur en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1488-1489%.
+Studied at: Paris %1488-1489%..
+Academic grades obtained: Licencié en théologie (Paris) (le 12 mars) ;; Docteur en théologie (Paris) (le 16 février) ..
+Religious order: Chanoine régulier de saint Augustin Saint-Victor: abbaye de Saint-Victor..
+Religious functions: Chanoine de l'abbaye Saint-Victor de Paris en %1488-1489%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet ; dernière mise à jour 06/06/2023..

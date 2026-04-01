@@ -1,0 +1,7 @@
+PERSON: GREGORIUS Renouard
+Also known as: Gringoire RENOUARD.
+Description: Marchand boulanger.
+Status: Extérieur.
+Gender: male.
+Active during: %1512-1512%.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

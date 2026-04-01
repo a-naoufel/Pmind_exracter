@@ -1,0 +1,10 @@
+PERSON: MAUGERIUS 1
+Also known as: MAUGER.
+Description: Évêque de Worcester.
+Status: Maître.
+Gender: male.
+Studied at: Paris ?.
+Academic grades obtained: Magister ;.
+Social origin: ?.
+Ecclesiastical positions held: Archidiacre d’Évreux vers .; Évêque de Worcester %1199-1212% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 19/04/2023..

@@ -1,0 +1,11 @@
+PERSON: HERVEUS Baronis 2
+Also known as: Herveus BARONIS; Henricus BARONIS.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1416-1417%.
+Studied at: Paris %1416-1417%..
+Academic grades obtained: Bachelier en décret (Paris) attesté en ..
+Ecclesiastical positions held: Sous diacre..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (2e année) en (18 septembre)) ;; Paris (Faculté de Décret : Lecteur des Décrétales (3e année) en (17 décembre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 01-06-2015..

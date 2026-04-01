@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Belvaco 2
+Also known as: Guillelmus de BELVACO.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1328-1328%.
+Studied at: Paris ..
+Academic grades obtained: Maître en théologie (Paris) ;.
+Ecclesiastical positions held: Provision pour un canonicat avec expectative de prébende d’Avranches en réponse au rotulus de : mandat à l’abbé (O.S.A.) de Paris (Sainte-Geneviève), au doyen de Paris et à l’écolâtre de Toul ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 29/02/2020..

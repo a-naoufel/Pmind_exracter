@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS de Truancuria
+Also known as: Aegidius de TRUANCURIA.
+Description: Chapelain de la comtesse de Bar.
+Status: Étudiant.
+Gender: male.
+Active during: %1378-1378%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Châlons-en-Champagne..
+Studied at: Paris ..
+Academic grades obtained: Étudiant en théologie..
+Ecclesiastical positions held: Chanoine prébendé de l'églisecollégiale de LaMotte (Sainte-Marie, diocèse de Toul) en ;; Chanoine prébendé de l'églisecollégiale de Bar-le-Duc (Saint-Maxime ; diocèse de Toul) en ;; Candidat à un canonicat avec expectative de prébende à la cathédrale de Reims en sur un rotulus présenté par Marie de FRANCE, comtesse de Bar ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 03/05/2020)..

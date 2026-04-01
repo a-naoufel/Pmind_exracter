@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Rivo
+Also known as: Guillaume de RIVO.
+Description: Chancelier de Beauvais.
+Status: Incertain.
+Gender: male.
+Active during: %1297-1337%.
+Studied at: Paris ?.
+Academic grades obtained: Magister..
+Ecclesiastical positions held: Chanoine de Paris (Saint-Merri) %1298- % ;; Chancelier de Beauvais %1308- % ;; Chanoine de Mortain %1311- % ;; Doyenrural de Valmont %1311- % ;; Chanoine de Beauvais %1318- % ;; Chanoine de Rouen %1320-1337% ;; Chancelier de Beauvais %1308- % ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/04/2022..

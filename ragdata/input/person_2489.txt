@@ -1,0 +1,10 @@
+PERSON: GALTERIUS de Divione
+Also known as: Galterus de DIVIONE.
+Description: Franciscain.
+Status: Incertain.
+Gender: male.
+Active during: %1333-1333%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.F.M. : frère franciscain..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 21/10/2019..

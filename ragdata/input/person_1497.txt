@@ -1,0 +1,15 @@
+PERSON: BERTRANDUS de Colombier
+Also known as: Bertrandus de COLOMBIER.
+Description: Abbé de Cluny.
+Status: Extérieur.
+Gender: male.
+Active during: %1295-1308%.
+Born in: Bourgogne..
+Studied at: ?.
+Academic grades obtained: ?.
+Social origin: Noble..
+Religious order: O.Clun. : moine clunisien..
+Religious functions: Prieur (clunisien) de LaCharité-sur-Loire ;; Abbé (clunisien) de Cluny %1295-1308%..
+Authored work: '(Statuts de l'ordre de Cluny)', composed around ..
+Authored work: '(Coutumes pour le service divin)', composed around ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/03/2015).

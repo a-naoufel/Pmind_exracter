@@ -1,0 +1,10 @@
+PERSON: THOMAS Roussel 1
+Also known as: Thomas ROUSSEL.
+Description: Membre du Collège de Maître-Gervais.
+Status: Étudiant.
+Gender: male.
+Active during: %1402-1402%.
+Studied at: Paris %1402-1402%..
+Academic grades obtained: Étudiant ès arts (Paris) ..
+College affiliation: Collège de Maître-Gervais : socius ;; Collège de Maître-Gervais : boursier ès arts ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Marion Bernard-Schweitzer 16/09/2020..

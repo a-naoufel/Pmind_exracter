@@ -1,0 +1,9 @@
+PERSON: G. de Bosco
+Also known as: G. de BOSCO.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1416-1416%.
+Studied at: Paris %1416-1416%..
+Academic grades obtained: Bachelier en décret (Paris) en (2 octobre) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 24/09/2021..

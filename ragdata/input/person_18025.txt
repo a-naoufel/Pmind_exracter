@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Vierii
+Also known as: Guillelmus VIERII.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1447-1447%.
+Born in: Limousin ?.
+Diocese of origin: Diocèse de Limoges..
+Studied at: Paris %1447-1447%..
+Academic grades obtained: Bachelier en décret (Paris) 13 mars ..
+Ecclesiastical status: Clerc du diocèse de Limoges..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 04/05/2015..

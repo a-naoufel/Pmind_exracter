@@ -1,0 +1,11 @@
+PERSON: GALTERIUS 2
+Also known as: GALTERUS.
+Description: Préchantre de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1180-1180%.
+Studied at: Paris en ..
+Academic grades obtained: ?.
+College affiliation: Collège des Dix-Huit ?.
+Ecclesiastical positions held: Préchantre de Paris (Notre-Dame)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 30/10/2021..

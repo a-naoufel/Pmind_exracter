@@ -1,0 +1,11 @@
+PERSON: PETRUS de Orgemont 2
+Also known as: Pierre d'ORGEMONT II.
+Description: Évêque de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1363-1409%.
+Studied at: ?.
+Academic grades obtained: ?.
+College affiliation: Collège de Dormans-Beauvais ?.
+Ecclesiastical positions held: Doyen de Tours (Saint-Martin) ;; Chanoine de Dijon (chapelle ducale) ;; Chanoine de Thérouanne % -1376% ;; Évêque de Thérouanne %1376-1384% ;; Évêque de Paris %1384-1409% ;.
+Source: LAMOP : Opération Charles VI (n° 570):.

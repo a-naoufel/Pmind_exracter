@@ -1,0 +1,9 @@
+PERSON: LIVINUS Hayement
+Also known as: Livinus HAYEMENT; Livinus HEYMAN.
+Description: Étudiant en médecine..
+Status: Étudiant.
+Gender: male.
+Active during: %1492-1493%.
+Studied at: Paris %1492-1493% ;; Turin ..
+Academic grades obtained: Étudiant en médecine (Paris) %1492-1493% ;; Docteur en médecine (Turin) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 31/08/2023..

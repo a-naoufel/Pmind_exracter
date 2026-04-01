@@ -1,0 +1,11 @@
+PERSON: GERARDUS Senot
+Also known as: Gerardus SENOT.
+Description: Boursier du Collège de Justice.
+Status: Étudiant.
+Gender: male.
+Active during: %1451-1452%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie ?) %1451-1452% ?.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Justice : hôte en %1451-1452% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Marion BERNARD-SCHWEITZER, 16/10/2020)..

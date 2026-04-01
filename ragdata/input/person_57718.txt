@@ -1,0 +1,11 @@
+PERSON: PETRUS Nuntius Regis Francie
+Also known as: PETRUS.
+Description: Envoyé à la Curie.
+Status: Incertain.
+Gender: male.
+Active during: %1256-1256%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical status: Clerc ?.
+Representation roles: Envoyé en par LOUIS IX, roi de France à la Curie (à Anagni ?) pour porter, avec un autre clerc, JOHANNES, au pape ALEXANDRE IV le De periculis novissimorum temporum de Guillaume de SAINT-AMOUR ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 08/04/2024..

@@ -1,0 +1,9 @@
+PERSON: ANDREAS du Domo
+Also known as: Andreas du DOMO.
+Description: Bachelier en droit canon.
+Status: Gradué.
+Gender: male.
+Active during: %1416-1416%.
+Studied at: Paris %1416-1416%..
+Academic grades obtained: Bachelier en décret (Paris) (22 octobre) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; Jean-Philippe Genet, dernière mise à jour 6/08/2020)..

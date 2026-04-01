@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Pigasse
+Also known as: Guillelmus PIGASSE.
+Description: Docteur en décret.
+Status: Maître.
+Gender: male.
+Active during: %1353-1353%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) ;; Docteur en décret (Paris) ;; Licencié ès lois ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Candidat à une provision pour l'église de Mardilleyo (diocèse de Lisieux) sur le rotulus magistrorum universitatis parisiensis de (23 mai) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 25/05/2022.

@@ -1,0 +1,12 @@
+PERSON: ARNALDUS de Laminis
+Also known as: Arnaldus de LAMINIS; Arnoldus de LAMINIS.
+Description: Carme.
+Status: Maître.
+Gender: male.
+Active during: %1321-1331%.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) ?.
+College affiliation: Couvent (carme) de Paris..
+Religious order: O. Carm..
+University functions: Liège (couvent carme : lecteur) ;; Tournai (couvent carme : lecteur)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe GENET 3/11/2020)..

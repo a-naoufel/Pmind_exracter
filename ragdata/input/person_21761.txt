@@ -1,0 +1,9 @@
+PERSON: GALTERIUS Grienbach
+Also known as: Walter GRIENBACH.
+Description: Médecin de l'évêque de Strasbourg..
+Status: Extérieur.
+Gender: male.
+Active during: %1381-1394%.
+Studied at: ?.
+Ecclesiastical status: Sous-diacre ..
+Ecclesiastical positions held: Chanoine de Strasbourg (Saint-Thomas) ;; Chanoine de Strasbourg (Saint-Nicolas)..

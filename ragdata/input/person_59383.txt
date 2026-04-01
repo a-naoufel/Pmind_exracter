@@ -1,0 +1,10 @@
+PERSON: EMAR Carronez
+Also known as: Emar CARRONEZ.
+Description: Boursier au Collège d'Autun ?.
+Status: Maître.
+Gender: male.
+Active during: %1404-1404%.
+Studied at: Paris.
+Academic grades obtained: Maître ;; Etudiant en théologie ;.
+College affiliation: Collège d'Autun : boursier théologien ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

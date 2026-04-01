@@ -1,0 +1,14 @@
+PERSON: CONRADUS 5
+Also known as: CONRADUS.
+Description: Dominicain.
+Status: Incertain.
+Gender: male.
+Active during: %1350-1350%.
+Born in: Suède..
+Studied at: ?.
+Academic grades obtained: Magister ?.
+Religious order: O.P. : frère dominicain..
+Authored work: '(Comm. super Sent.)', composed around ?.
+Authored work: 'Tractatus de secundis intentionibus', composed around ?.
+Authored work: 'Summa de arte praedicandi', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 1/05/2015..

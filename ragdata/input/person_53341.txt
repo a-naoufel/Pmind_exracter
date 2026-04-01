@@ -1,0 +1,11 @@
+PERSON: GERVASIUS Genuys
+Also known as: Gervasius GENUYS.
+Description: Grand bedeau de la Nation de France.
+Status: Suppôt.
+Gender: male.
+Active during: %1438-1469%.
+Studied at: Paris..
+Academic grades obtained: ?.
+Family relationships: Son parent est peut-être Ambrosius GENUYS, grand bedeau de la Nation de France ?.
+University functions: Paris (Nation de France : grand bedeau %1438-1469%) ;; Paris (Nation de France : librarius %1469- %)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/08/2017..

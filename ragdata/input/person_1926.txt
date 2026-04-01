@@ -1,0 +1,7 @@
+PERSON: DIONYSIA de Partenay
+Also known as: Dionysia de PARTENAY; Denise de PARTENAY.
+Description: Impliquée dans un procès contre la Faculté de médecine de Paris..
+Status: Extérieur.
+Gender: female.
+Active during: %1467-1467%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; Jean-Philippe Genet, dernière mise à jour 15/05/2021)..

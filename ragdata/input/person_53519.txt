@@ -1,0 +1,11 @@
+PERSON: PONSARDUS de Choye
+Also known as: Poinsardus de CHOYE.
+Description: Chanoine de Besançon.
+Status: Incertain.
+Gender: male.
+Active during: %1375-1394%.
+Studied at: ?.
+Academic grades obtained: Bachelier en droit canon ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Besançon %1375-1394% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/03/2022)..

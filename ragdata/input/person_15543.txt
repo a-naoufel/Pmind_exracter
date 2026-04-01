@@ -1,0 +1,11 @@
+PERSON: AZZO de Ruit
+Also known as: Asse de RUIT.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1398-1398%.
+Studied at: Paris %1398-1398%..
+Academic grades obtained: Étudiant (Paris) ..
+Religious order: Bénédictin.
+Religious functions: Prieur de Sainte-Madeleine de Mantes (dépendance de Coulombs dans le diocèse de Chartres) en ..
+Representation roles: Procureur de l'abbé de Coulombs à l'assemblée du clergé tenue à Paris en juin ..

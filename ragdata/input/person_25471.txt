@@ -1,0 +1,11 @@
+PERSON: PETRUS Calus
+Also known as: Pierre CALUS; Perrenet CALUS.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1427-1430%.
+Born in: Île-de-France (Paris)..
+Diocese of origin: Diocèse de Paris..
+Academic grades obtained: Étudiant (Paris) %1427-1430% ;.
+College affiliation: Collège de Dormans-Beauvais : écolier-boursier %1427-1430% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 22/01/2019..

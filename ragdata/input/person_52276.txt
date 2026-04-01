@@ -1,0 +1,13 @@
+PERSON: PETRUS Theodati
+Also known as: Pierre THEODATI.
+Description: Boursier du Collège de Montaigu.
+Status: Gradué.
+Gender: male.
+Active during: %1410-1416%.
+Born in: Auvergne ;.
+Diocese of origin: Diocèse de Clermont..
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?; Bachelier en décret (Paris) ?.
+College affiliation: Collège de Montaigu : boursier ;.
+University functions: Paris (Faculté de Décret : Lecteur en (20 février)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/04/2021..

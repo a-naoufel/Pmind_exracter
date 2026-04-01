@@ -1,0 +1,12 @@
+PERSON: FULCO Masch de Gandavo
+Also known as: Fulco MASCH ;; Fulco de GANDAVO ;.
+Description: Chanoine de Tournai.
+Status: Incertain.
+Gender: male.
+Active during: %1289-1295%.
+Born in: Flandre (Gand) ?.
+Diocese of origin: Diocèse de Tournai ?.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Chanoine de Tournai %1289-1295% ;; Chanoine de Gand (Sainte-Pharaïlde) ;; Chanoine de Harelbeke (Saint-Sauveur) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 13/05/2017..

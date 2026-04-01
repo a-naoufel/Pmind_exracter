@@ -1,0 +1,10 @@
+PERSON: NICOLAUS 7
+Also known as: NICOLAUS.
+Description: Chanoine de Bruges.
+Status: Maître.
+Gender: male.
+Active during: %1290-1290%.
+Studied at: Paris (Faculté de décret)..
+Academic grades obtained: Licencié en décret (Paris) ..
+Ecclesiastical positions held: Chanoine de Bruges ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 7/10/2023)..

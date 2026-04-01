@@ -1,0 +1,11 @@
+PERSON: PAULUS Osloensis canonicus
+Also known as: Paulus OSLOENSIS; PALL.
+Description: Chanoine.
+Status: Incertain.
+Gender: male.
+Active during: %1322-1328%.
+Born in: Norvège..
+Studied at: ?.
+Academic grades obtained: Magister, ..
+Ecclesiastical positions held: Chanoine d'Oslo, %1322-1328%;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth MORNET, 23/11/2025..

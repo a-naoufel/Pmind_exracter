@@ -1,0 +1,10 @@
+PERSON: Curatus Sancti Severini
+Also known as: Curatus SanctiSeverini.
+Description: Curé de Saint-Séverin.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant ?.
+Ecclesiastical positions held: Curé de Paris (Saint-Séverin)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 01/05/2021..

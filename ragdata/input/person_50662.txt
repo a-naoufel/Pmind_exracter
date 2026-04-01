@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Sancto Germano
+Also known as: Guillelmus de SANCTOGERMANO.
+Description: Clerc de la Curie.
+Status: Extérieur.
+Gender: male.
+Active during: %1333-1333%.
+Born in: Aquitaine (Quercy) ?.
+Diocese of origin: Diocèse de Cahors ;.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 15/10/2019..

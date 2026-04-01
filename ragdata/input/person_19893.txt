@@ -1,0 +1,10 @@
+PERSON: Frater PETRI de Chenay 1
+Also known as: Frater de Petrus de CHENAY.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris %1313-1313%..
+Academic grades obtained: Étudiant (Paris) ..
+Family relationships: Son frère est Petrus de CHENAY qui souscrit l'appel avec lui ; Son autre frère souscrit aussi l'appel avec lui ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 18/09/2021..

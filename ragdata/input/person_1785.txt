@@ -1,0 +1,20 @@
+PERSON: CONRADUS de Gelnhausen
+Also known as: Conradus de GELNHAUSEN; Conradus de GELENHUSEN; Conradus de GEILENHUSEN; Currardus de GEILHUSIN.
+Description: Prévôt de Worms.
+Status: Maître.
+Gender: male.
+Active during: %1344-1390%.
+Born in: Rhénanie (Gelnhausen)..
+Studied at: Paris (Nation Anglo-allemande) ;; Bologne ;; Prague ;; Heidelberg..
+Academic grades obtained: Bachelier ès arts (Paris) .; Licencié ès arts (Paris) .; Maître ès arts (Paris) ?; Licencié en théologie (Prague ?) après , bien qu'il ait étudié à Paris ; il reprend ses études de théologie par la suite, mais il n’a pas pu acquérir la maîtrise avant de devoir quitter Paris en en raison du schisme.; Docteur Décret (Bologne) ;; Maître en théologie (Heidelberg) ..
+Social origin: Son maître est Ulricus de AUGUSTA pour le baccalauréat et la licence..
+Ecclesiastical positions held: Chanoine de Worms.; Prévôt de Worms..
+University functions: Paris (Faculté de Théologie : maitre-régent ?) ;; Heidelberg (Université : Chancelier %1386-1390%)..
+Authored work: 'Lectura super quattuor libros Sententiarum', composed around ?.
+Authored work: 'Lectura super Cantica Canticarum', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Quaestiones', composed around ?.
+Authored work: 'Epistola Concordiae', composed around , à Paris, première édition ;, dedicated to Adressé à CHARLES V, roi de France, première édition en ;.
+Authored work: 'Epistola ad Philippum de Maseriis', composed around (18 juin), dedicated to Adressé à Philippe de MEZIERES..
+Authored work: 'Epistola brevis', composed around ?.
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

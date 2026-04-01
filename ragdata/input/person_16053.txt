@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS Gilberti
+Also known as: Aegidius GILBERTI.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1444-1444%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Sens..
+Studied at: Paris %1444-1444%..
+Academic grades obtained: Bachelier en décret (Paeis) (14 mai) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; dernière mise à jour,Jean-Philippe Genet 05/05/2020)..

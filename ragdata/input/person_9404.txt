@@ -1,0 +1,16 @@
+PERSON: NICOLAUS de Bosco 1
+Also known as: Nicolaus de BOSCO; Nicolas DUBOSC; Nicolas DUBOSC.
+Description: Évêque de Bayeux.
+Status: Maître.
+Gender: male.
+Active during: %1362-1408%.
+Born in: Normandie (Rouen) ;.
+Diocese of origin: Diocèse de Rouen ?.
+Studied at: Paris (Nation de Normandie) ;.
+Academic grades obtained: Maître ès arts ;; Bachelier en décret (Paris) ;; Licencié ès lois ;.
+Family relationships: Son père est Martin DUBOSC, lieutenant du maîtredeseauxetforêts de Normandie ; Sa mère est Guillemette du VALRICHER ; Sa nièce est Marie DUBOSC ; Son neveu (par alliance) est Anseau CHOQUART, premier mari de Marie DUBOSC ; Son neveu (par alliance) est Étienne de LAGRANGE, second mari de Marie DUBOSC ;.
+Social origin: Bourgeoisie de Rouen ;.
+Ecclesiastical status: Clerc.; Prêtre ;.
+Ecclesiastical positions held: Candidat à un bénéfice ecclésiastique à la collation de l’abbesse et du monastère (bénédictines) de Rouen (Sainte-Catherine-du-Mont) sur le rotulus de l’Université de Paris en ;; Chanoine de Lisieux ;; Candidat à un canonicat de Rouen sur le rotulus de la Faculté de Décret de l’Université de Paris en ;; Chanoine de Rouen %1367-1375% ;; Chanoine de Tournai ;; Curé de Tourny ;; Chanoine de Thérouanne %1372-1374% ;; Doyen de Thérouanne %1372-1374% ;; Évêque de Bayeux %1375-1408% ;.
+University functions: Paris (Faculté de Décret : bachelier lisant à Paris ) ;.
+Source: Paris au Moyen Âge : les Parisiens :.

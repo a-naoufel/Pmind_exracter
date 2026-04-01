@@ -1,0 +1,8 @@
+PERSON: BALDUINUS Bouiins
+Also known as: Baudouin BOUIINS; Baudouin de GHELABEKE.
+Description: Étudiant en médecine à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1410-1411%.
+Studied at: Paris, %1410-1411%..
+Academic grades obtained: Étudiant en médecine (Paris) %1410-1411%..

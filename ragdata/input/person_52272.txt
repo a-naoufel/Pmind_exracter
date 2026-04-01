@@ -1,0 +1,10 @@
+PERSON: PETRUS de Sancto Martino 3
+Also known as: Petrus de SANCTO MARTINO; Pierre de SAINT-MARTIN.
+Description: Maître du Collège de Montaigu.
+Status: Maître.
+Gender: male.
+Active during: %1459-1476%.
+Studied at: Paris %1459-1476%..
+Academic grades obtained: Licencié en décret (Paris) ;.
+College affiliation: Collège de Montaigu : boursier %1459-1471% ;; Collège de Montaigu : procureur %1459-1471% ;; Collège de Montaigu : maître %1471-1476% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/04/2021..

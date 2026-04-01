@@ -1,0 +1,7 @@
+PERSON: MARGARETA dicte Parrie
+Also known as: Margarita dicta PARRIE.
+Description: Propriétaire d’une maison.
+Status: Extérieur.
+Gender: female.
+Active during: %1288-1288%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 17/11/2019..

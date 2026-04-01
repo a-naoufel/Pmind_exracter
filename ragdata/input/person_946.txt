@@ -1,0 +1,7 @@
+PERSON: ARNALDUS Dariot
+Also known as: Arnoldus DARIOT.
+Description: Procureur au Châtelet.
+Status: Extérieur.
+Gender: male.
+Active during: %1426-1426%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 29/10/2020)..

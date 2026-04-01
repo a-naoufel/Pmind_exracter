@@ -1,0 +1,14 @@
+PERSON: MICHAEL Robot
+Also known as: Michael ROBOT.
+Description: Chanoine d’Auxerre.
+Status: Gradué.
+Gender: male.
+Active during: %1487-1492%.
+Born in: Bourgogne ;.
+Diocese of origin: Diocèse d’Auxerre ;.
+Studied at: ?.
+Academic grades obtained: Bachelier droit canon ;.
+Ecclesiastical status: Clerc en ;.
+Ecclesiastical positions held: Chanoine d’Auxerre %1487-1491% ;.
+University functions: Paris (Faculté de Décret : lecteur ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 03/07/2025)..

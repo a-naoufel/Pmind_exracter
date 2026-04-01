@@ -1,0 +1,10 @@
+PERSON: PHILIPPUS Bajuli
+Also known as: Philippus BAJULI.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1426-1430%.
+Studied at: Paris %1426-1430%.
+Academic grades obtained: Licencié en théologie (Paris) (le 13 mars) ;; Docteur en théologie (Paris) (le 31 mai) ..
+University functions: Paris (Faculté de Théologie : témoin de la rétractation publique de ses erreurs par le dominicain Johannes SARRACENI en (30 mars), obtenue par Petrus de DIERREYO, doyen de la Faculté de Théologie en l’absence du Chancelier de Paris : elle se déroule d'abord devant la Congrégation aux Mathurins, puis dans l’aula de Girardus de SALINIS, O.F.M., puis enfin dans l'hôtel de l'évêque de Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, 04/10/2022..

@@ -1,0 +1,27 @@
+PERSON: NICOLAUS de Ockham
+Also known as: Nicolaus de OCKHAM; Nicolaus de OCHAM.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1270-1320%.
+Born in: Angleterre (Ockham ?) ?.
+Studied at: Paris ;.
+Academic grades obtained: Oxford ;; Étudiant en théologie (Paris) %1370-1374% ;; Maître en théologie (Oxford) ?.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) vers %1370-1375% ?.
+Academic relationships: Son maître est Roger MARSTON, O.F.M. à Paris..
+Ecclesiastical status: Prêtre vers ..
+Religious order: O.FM. : frère franciscain..
+University functions: Oxford (Lecteur Biblique au couvent franciscain en %1278-1279%) ;; Oxford (Lecteur des Sentences au couvent franciscain en %1280-1282%) ;; Oxford (Maître-régent en théologie au couvent franciscain en %1286-1288%) ;.
+Authored work: 'Commentarium in quattuor libros Sententiarum', composed around ?.
+Authored work: 'Principia I-IV', composed around ?.
+Authored work: 'Lectio Ocham', composed around ?.
+Authored work: 'Quaestiones disputatae de dilectione Dei', composed around ?.
+Authored work: 'Quaestiones disputatae de traductione humanae natrae a primo parente', composed around ?.
+Authored work: 'Quaestiones utrum potestas creandi potuit communicari creaturae', composed around ?.
+Authored work: 'Quaestiones utrum una persona incarnata possit in alia incarnari', composed around ?.
+Authored work: 'Quaestiones utrum una persona incarnata possit in alia incarnari', composed around ?.
+Authored work: 'Contra determinationem Sutton circa quaestionem de unitate formarum', composed around ?.
+Authored work: 'Opus de verbo', composed around ?.
+Authored work: 'Sermo', composed around ?.
+Authored work: 'De latitudine oppositionum', composed around ?.
+Source: Répertoire des auteurs franciscains préparé par Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress :.

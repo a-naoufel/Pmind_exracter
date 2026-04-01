@@ -1,0 +1,15 @@
+PERSON: HUBERTUS Sorboniensium
+Also known as: Hubertus SORBONENSIUM; I. de SARBONIO.
+Description: Socius de Sorbonne.
+Status: Maître.
+Gender: male.
+Active during: %1272-1273%.
+Studied at: Paris ;.
+Academic grades obtained: Maître ès arts (Paris ?)..
+College affiliation: Sorbonne : socius ;.
+Ecclesiastical status: Clerc séculier..
+Authored work: '(Sermon du Dimanche avant la Saint-Denis)', composed around (25 février) ?.
+Authored work: '(Sermon du Dimanche de Noël)', composed around (25 décembre) au Temple..
+Authored work: '(Sermon pour la Saint Jean)', composed around (mardi 27 décembre) au Béguinage..
+Authored work: '(Sermon pour les Saints Simon et Jude)', composed around (samedi 28 octobre) au Béguinage..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/10/2020)..

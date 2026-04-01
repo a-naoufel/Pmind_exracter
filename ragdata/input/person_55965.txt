@@ -1,0 +1,10 @@
+PERSON: MILETUS de Busseriis
+Also known as: Miletus de BUSSERIIS.
+Description: Chanoine de Troyes.
+Status: Incertain.
+Gender: male.
+Active during: %1463-1479%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical positions held: Chanoine de Troyes %1463-1479% ;; Curé d’Arcis ;.
+Source: STUDIUM : http://lamop-.

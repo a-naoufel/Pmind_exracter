@@ -1,0 +1,10 @@
+PERSON: AICARDUS de Quimballo
+Also known as: Aycardus de QUIMBALLO.
+Description: Chancelier de Toulouse.
+Status: Extérieur.
+Gender: male.
+Active during: %1390-1390%.
+Studied at: Toulouse..
+Academic grades obtained: ?.
+University functions: Toulouse (Université : Chancelier % -1390%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Dernière mise à jour,Jean-Philippe Genet 20/05/2020)..

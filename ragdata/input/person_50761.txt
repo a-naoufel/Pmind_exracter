@@ -1,0 +1,11 @@
+PERSON: HERBERTUS Roussel
+Also known as: Herbertus ROUSSEL; Hebertus ROUSSEL.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1342-1343%.
+Born in: Normandie ?.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris)..
+Ecclesiastical positions held: Provision pour un bénéfice en réponse au rotulus de l’Université de Paris en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 7/04/2020..

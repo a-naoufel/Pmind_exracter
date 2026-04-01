@@ -1,0 +1,12 @@
+PERSON: NICOLAUS Potier
+Also known as: Nicolas POTIER.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1481-1483%.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Dormans-Beauvais : clerc de la chapelle ;; Collège de Dormans-Beauvais : boursier ;.
+Family relationships: Son parent est peut-être Jacobus FIGULI, maître du collège de Dormans-Beauvais en %1490-1499% ; Son parent est peut-être Jacques POTIER, boursier du collège de Dormans-Beauvais en ;.
+Ecclesiastical positions held: Clerc de la chapelle du collège de Dormans-Beauvais en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 31/10/2019..

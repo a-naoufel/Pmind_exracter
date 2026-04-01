@@ -1,0 +1,10 @@
+PERSON: ANTHONIUS Feydelli
+Also known as: Anthonius FEYDELLI; Antoine FEYDEAU.
+Description: Boursier du collège de Chanac.
+Status: Maître.
+Gender: male.
+Active during: %1492-1492%.
+Studied at: Paris en ;.
+Academic grades obtained: Maître ès arts (Paris)..
+College affiliation: Collège de Chanac : boursier en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

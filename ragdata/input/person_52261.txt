@@ -1,0 +1,10 @@
+PERSON: PHILIPPUS de Ver
+Also known as: Philippe de VER.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1409-1409%.
+Born in: Normandie ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/04/2021..

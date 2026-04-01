@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Dalzon
+Also known as: Guillaume DALZON.
+Description: Boursier décrétiste au Collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1484-1485%.
+Studied at: Paris..
+Academic grades obtained: Étudiant en décret (Paris)..
+College affiliation: Collège d’Autun : boursier décrétiste en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

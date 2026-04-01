@@ -1,0 +1,9 @@
+PERSON: STEPHANUS Mathé
+Also known as: Étienne MATHÉ.
+Description: Chirurgien.
+Status: Incertain.
+Gender: male.
+Active during: %1495-1496%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 18/09/2024..

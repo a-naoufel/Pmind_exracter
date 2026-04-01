@@ -1,0 +1,10 @@
+PERSON: AMBROSIUS Oudart
+Also known as: Ambrosius OUDART.
+Description: Bachelier Décret.
+Status: Gradué.
+Gender: male.
+Active during: %1499-1499%.
+Diocese of origin: Diocèse de Cambrai..
+Studied at: Paris %1499-1499%..
+Academic grades obtained: Bachelier Décret (Paris) (le 6 mai) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ dernière mise à jour, Jean-Philippe Genet, 23/07/2020..

@@ -1,0 +1,10 @@
+PERSON: ARTHURUS Saudrin
+Also known as: Arthurus SAUDRIN.
+Description: Boursier du collège de Dainville.
+Status: Maître.
+Gender: male.
+Active during: %1505-1506%.
+Studied at: Paris en %1505-1508%..
+Academic grades obtained: Maître ;.
+College affiliation: Collège de Dainville : boursier en %1505-1508% ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,12 @@
+PERSON: HILDUINUS
+Also known as: HILDUINUS.
+Description: Chancelier de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1169-1190%.
+Studied at: Paris en ..
+Academic grades obtained: Magister ;.
+College affiliation: Collège des Dix-Huit ?; Voir la lettre patente de BARBEDAURUS, doyen du chapitre de Paris (Notre-Dame), par laquelle il constate que le sieur JOCIUS de Londoniis, de retour de Jérusalem, a acquis de l’Hôtel-Dieu de Paris une maison de 52 livres, pour y établir 18 écoliers.
+Ecclesiastical positions held: Chancelier de Paris (Notre-Dame) %1180-119O%..
+University functions: Paris (École Notre-Dame : maître-régent ?) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 13/04/2023)..

@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Perriot
+Also known as: Guillaume PERRIOT.
+Description: Clerc notaire juré du roi au Châtelet de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1485-1485%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,9 @@
+PERSON: ROBERTUS de Monte Audoari
+Also known as: Robertus de MONTE AUDOARI.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris en ..
+Academic grades obtained: Maître (Paris) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 4/10/2019..

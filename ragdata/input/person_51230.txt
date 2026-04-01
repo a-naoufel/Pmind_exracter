@@ -1,0 +1,23 @@
+PERSON: HENRICUS de Colonia 2
+Also known as: Henricus de COLONIA; Henri de COLOGNE; Henricus TEUTONICUS.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1240-1254%.
+Born in: Rhénanie (Marksbeg) ?.
+Diocese of origin: Diocèse de Cologne ?.
+Studied at: Paris..
+Academic grades obtained: Magister ;.
+College affiliation: Couvent (dominicain) de Paris (Jacobins) %1240-1248%..
+Religious order: O.P. : frère dominicain ?.
+University functions: Cologne (Couvent dominicain : lecteur en Théologie) ;; Paris (Couvent dominicain : lecteur en Théologie et ..
+Authored work: '(Dom. I Adventus, collacio fr. H.)', composed around (3 décembre) à Paris..
+Authored work: '(In XLa sermo fr. Henrici)', composed around (25 février) à Paris..
+Authored work: '(IV fer. Pentecost., collatio fr. Henrici)', composed around (30 mai) à Paris..
+Authored work: '(Dom. in Trinitate, collacio fr. Henrici)', composed around (3 juin) à Paris..
+Authored work: '([Sermo] fr. Henricus Teutonicus)', composed around ?.
+Authored work: '(Sermo in Nativitate Beate Virgine, fr. Henricus Teutonicus)', composed around ?.
+Authored work: '(In die Pentecostes, fr. Henricus)', composed around ?.
+Authored work: '(In die b. Iohannis ante port. Lat., Henricus ad Minores)', composed around ?.
+Authored work: '(Sermones 10, servati olim in cod. 249 Eremit. Augustin., ad pontem novum)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 5/10/2020)..

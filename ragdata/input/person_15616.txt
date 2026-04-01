@@ -1,0 +1,11 @@
+PERSON: AMADEUS Bourelle
+Also known as: Amedeus BOURELLE.
+Description: Bachelier Décret.
+Status: Gradué.
+Gender: male.
+Active during: %1495-1495%.
+Born in: ComtédeBourgogne ?.
+Diocese of origin: Diocèse de Besançon..
+Studied at: Paris %1495-1495%..
+Academic grades obtained: Bachelier en décret (Paris) en (17 juin) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; Jean-Philippe Genet, dernière mise à jour 17/07/2020)..

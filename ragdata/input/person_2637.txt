@@ -1,0 +1,31 @@
+PERSON: GALTERIUS de Brugis
+Also known as: Galterus de BRUGIS; Galterus BRUGENSIS; Gautier de BRUGES.
+Description: Évêque de Poitiers.
+Status: Maître.
+Gender: male.
+Active during: %1250-1307%.
+Born in: Flandre (Zande, près de Dixmude)..
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris)..
+College affiliation: Couvent (franciscain) de Paris..
+Academic relationships: Son maître est BONAVENTURE..
+Religious order: O.F.M. : frère franciscain..
+Religious functions: Ministreprovincial (franciscain) de France %1272-1279% ;.
+Ecclesiastical positions held: Évêque de Poitiers %1279-1305%, sur nomination du pape NICOLAS III, et jusqu’à sa démission ;.
+University functions: Paris (Maître-régent des Franciscains ca.%1267-1269%) ;.
+Authored work: 'Comment. in quatuor libros Sententiarum', composed around ?%1261-1265% (Longpré) ou après (Grabmann)..
+Authored work: 'Quaestiones 22 disputatae', composed around ?.
+Authored work: 'Quaestiones 12 de correptione fraterna (disputatae Parisius)', composed around ? (à Paris)..
+Authored work: 'Instructiones circa divinum officium', composed around ?%1280-1282%..
+Authored work: 'Tabula originalium', composed around ? %1280-1282%..
+Authored work: 'Sermo in nativitate Domini', composed around ?.
+Authored work: 'Sermo', composed around ?.
+Authored work: 'Sermones per annum', composed around ?.
+Authored work: '?Sermones quadragesimales et de tempore', composed around ?.
+Authored work: 'Ad Praedicandum Opus', composed around ?.
+Authored work: 'Expositio super librum Perihermeneias', composed around ?.
+Authored work: 'Expositio super librum Predicamentorum', composed around ?.
+Authored work: 'Expositio super VI principia', composed around ?.
+Authored work: 'Expositio super universalia (Librum Porphyri)', composed around ?.
+Authored work: '(Mémoire au roi contre les abus des officiers royaux)', composed around (le 22 mai à Bourges)..
+Source: MIRABILE: http://www.mirabileweb.it/author/galterius-brugensis-n-1225-1230-m-21-1-1307-author/22005 ;.

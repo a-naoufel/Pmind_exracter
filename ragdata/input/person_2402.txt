@@ -1,0 +1,10 @@
+PERSON: FULCO de SanctaSyria
+Also known as: Fulco de SANCTASYRIA.
+Description: Boursier artien au Collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1372-1372%.
+Studied at: Paris (Collège de Navarre) %1372-1372%..
+Academic grades obtained: Étudiant ès arts (Paris) ..
+College affiliation: Collège de Navarre : Boursier artien en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/09/2021..

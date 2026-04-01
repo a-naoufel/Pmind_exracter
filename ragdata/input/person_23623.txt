@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Sarcineto
+Also known as: Guillelmus de SARCINETO; Guillaume de CHARCENEY; Guillaume de SARCENET.
+Description: Maître ès arts ?.
+Status: Maître.
+Gender: male.
+Active during: %1398-1398%.
+Studied at: Paris ?.
+Academic grades obtained: Magister ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/04/2022)..

@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Le Fer
+Also known as: Guillelmus le FER.
+Description: Procureur au Châtelet.
+Status: Suppôt.
+Gender: male.
+Active during: %1426-1426%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 13/05/2022..

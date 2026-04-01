@@ -1,0 +1,14 @@
+PERSON: RADULPHUS de Ulmonte 1
+Also known as: Radulphus de ULMONTE.
+Description: Chanoine de Reims.
+Status: Maître.
+Gender: male.
+Active during: %1361-1394%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Reims (Omont) ;.
+Studied at: Paris ;; Orléans..
+Academic grades obtained: Maître ès arts (Paris) ?; Licencié in utroque jure (Paris et Orléans) ;.
+Social origin: Noble ;.
+Ecclesiastical status: Clerc..
+Ecclesiastical positions held: Chanoine de Reims ;; Chanoine de Rouen %1361- % ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 03/05/2021..

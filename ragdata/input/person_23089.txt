@@ -1,0 +1,7 @@
+PERSON: GUILLELMUS 15
+Also known as: GUILLELMUS; GUILLAUME.
+Description: Barbier.
+Status: Extérieur.
+Gender: male.
+Active during: %1301-1301%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 7/3/2018..

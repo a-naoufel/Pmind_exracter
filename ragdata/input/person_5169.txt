@@ -1,0 +1,13 @@
+PERSON: HUGO de Lapide
+Also known as: Hugo filius WILLERMI de Lapide; Hugo de LAPIDE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1349-1349%.
+Born in: Flandre (Aardenburg) ?.
+Diocese of origin: Diocèse de Tournai ;.
+Studied at: Paris (Nation de Picardie) %:1349-1349%.
+Academic grades obtained: Maître ès arts (Paris) ;.
+Family relationships: Son père est Willermus de LAPIDE ;.
+Ecclesiastical status: Clerc du diocèse de Tournai en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/09/2022)..

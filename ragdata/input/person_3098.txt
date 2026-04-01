@@ -1,0 +1,9 @@
+PERSON: AEGIDIUS Anglici 1
+Also known as: Gilles ANGLICI; Aegidius ANGLICUS.
+Description: Bachelier en médecine à Paris..
+Status: Gradué.
+Gender: male.
+Active during: %1408-1408%.
+Studied at: Paris, %:1408-1408%..
+Academic grades obtained: Bachelier en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux, 19/04/2020)..

@@ -1,0 +1,10 @@
+PERSON: PETRUS Mailet
+Also known as: Pierre MAILET.
+Description: Boursier du collège de Fortet.
+Status: Étudiant.
+Gender: male.
+Active during: %1418-1418%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège de Fortet, boursier jusqu’à la fin de ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/04/2023)..

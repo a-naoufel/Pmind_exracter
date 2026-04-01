@@ -1,0 +1,10 @@
+PERSON: THEOBALDUS Bocaceon
+Also known as: Theobaldus BOCACEON.
+Description: Trésorier d'Auxerre.
+Status: Étudiant.
+Gender: male.
+Active during: %1399-1408%.
+Studied at: ?.
+Academic grades obtained: Étudiant (Paris) ;; Maître ;.
+Ecclesiastical positions held: Chapelain d’Autun (cathédrale Saint-Lazare) avant %1399-1407% ;; Curé de Moulins-Engilbert % -1407% ;; Chanoine d’Auxerre %1402-1408% ;; Trésorier d’Auxerre %1407-1408% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 24/06/2025)..

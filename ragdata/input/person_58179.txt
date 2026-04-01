@@ -1,0 +1,42 @@
+PERSON: RADULPHUS Brito 1
+Also known as: Radulphus BRITO; Radulphus REGINALDI; Radulphus de PLEBEDIRI.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1290-1320%.
+Born in: Bretagne (Ploudry) ;.
+Diocese of origin: Diocèse de Léon ;.
+Studied at: Paris (Nation de France)..
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en théologie (Paris) ;; Licencié en théologie (Paris) ;; Maître en théologie (Paris) ..
+College affiliation: Sorbonne : proviseur %1315-1320% ;.
+Family relationships: Son père est REGINALDUS ; Son oncle est Herveus EVENI Danielis..
+Social origin: Bourgeoisie ?.
+Ecclesiastical positions held: Recteur de Sommery (diocese de Rouen) ;; Chanoine de Saint-Quentin ;; Chanoine de Beauvais ;; Chanoine (expectative de prébende) de LeMans ;.
+University functions: Paris (Faculté des Arts : maître-régent %1295-1308% ;.
+Authored work: 'In IV libros Sententiarum', composed around Avant.
+Authored work: 'Quaestiones in vesperis', composed around ?.
+Authored work: '(Sermon pour le 3e dimanche après Pâques)', composed around .
+Authored work: '(Interventions à l'aulique de Thomas de WYLTON)', composed around .
+Authored work: 'Quaestiones theologicae', composed around ?.
+Authored work: 'Quodlibet', composed around ?.
+Authored work: 'Quaestiones super Porphyrium', composed around ?.
+Authored work: 'Quaestiones super libro Praedicamentorum', composed around ?.
+Authored work: 'Quaestiones super Aristotelis libro Periermenias', composed around ?.
+Authored work: 'Quaestiones super librum Sex Principiorum', composed around ?.
+Authored work: 'Quaestiones super libros Topicorum', composed around Avant ?.
+Authored work: 'Quaestiones super librum Priorum Analyticorum', composed around .
+Authored work: 'Quaestiones super libros Posteriorum Analyticorum', composed around Avant /.
+Authored work: 'Quaestiones in lib. Boethii De differentiis topicis'.
+Authored work: 'Sophismata', composed around ?.
+Authored work: 'Quaestiones super Priscianum minorem', composed around ?.
+Authored work: 'Quaestiones super algorismum et compotum ; et mathematicae et geometriae', composed around ?.
+Authored work: 'Quaestiones super lib. Physicorum', composed around ?.
+Authored work: 'Quaestiones in libros I-XII Metaphysicae', composed around ?.
+Authored work: 'Questiones super Meteorologica Aristotelis', composed around ?.
+Authored work: 'Quaestiones super lib. de Anima', composed around ?. Angers, BM 418 (405), f. 172-185 ;.
+Authored work: 'Quaestiones super librum Ethicorum', composed around ?.
+Authored work: 'Tractatus de modis significandi', composed around ?.
+Authored work: 'Quaestiones super Praedicamenta Aristotelis', composed around ?.
+Authored work: 'Quaeritur quae sit causa susceptionis magis et minus', composed around ?.
+Authored work: 'Quaestiones libri de causis', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

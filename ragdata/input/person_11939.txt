@@ -1,0 +1,11 @@
+PERSON: THOMAS Le Comte
+Also known as: Thomas Le COMTE; Thomas COMITIS.
+Description: ?Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1461-1486%.
+Studied at: Paris (Nation de Normandie) %1461-1461% ;; Caen %1469-1493%..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Bachelier en médecine (Paris) ;; ?Maître en médecine à partir de ..
+Ecclesiastical positions held: Prêtre ;; Curé de Sainte-Honorine-la-Chardonne en ..
+University functions: Recteur de l'Université de Caen en %1469-1493%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 10/10/2024..

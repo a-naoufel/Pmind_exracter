@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Suaggart
+Also known as: Guillelmus SUAGGART; Guillermus SUAGGART.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1494-1494%.
+Diocese of origin: Diocèse du Thérouanne..
+Studied at: Paris %1494-1494%..
+Academic grades obtained: Bachelier en décret (Paris) 28 novembre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 07/05/2015..

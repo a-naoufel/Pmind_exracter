@@ -1,0 +1,29 @@
+PERSON: HUMBERTUS de Romanis
+Also known as: Humbertus de ROMANIS; Humbert de ROMANS.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1215-1277%.
+Born in: Romans..
+Studied at: Paris..
+Academic grades obtained: Étudiant en ?; Magister ;.
+Religious order: O.P. : frère dominicain ..
+Religious functions: Prieur du couvent (dominicain) de Lyon ;; Provincial (dominicain) de France ;; Maîtregénéral des Dominicains %1254-1263%..
+University functions: Lyon (Couvent dominicain : lecteur en théologie )..
+Authored work: 'Instructiones de officiis ordinis fratrum praedicatorum', composed around .
+Authored work: 'De eruditione praedicatorum, libri duo', composed around %1266-1277%..
+Authored work: 'Tractatus de dono timoris, sive De habundantia exemplorum', composed around ?.
+Authored work: 'Expositio regulae beati Augustini episcopi', composed around %1263-1270% ou %1248-1254%.
+Authored work: 'De tribus votis substantialibus religionis', composed around .
+Authored work: 'Expositio super constitutiones fratrum praedicatorum', composed around ?.
+Authored work: 'Quaestiones quinque circa statuta ordinis praedicatorum', composed around ?.
+Authored work: 'De praedicatione crucis contra Saracenos', composed around ..
+Authored work: 'Opus tripartitum', composed around %1272-1273%.
+Authored work: 'Epistola mitigative doloris et tribulationis', composed around ?.
+Authored work: 'Epistola praemissa Vitae fratrum', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Liber de his quae tractanda videbantur in concilio generali Lugduni celebrando', composed around %1272-1273%.
+Authored work: 'Epistulae XII ex capitulis generalibus ad ordinem scriptae', composed around %1254-1262%.
+Authored work: 'Chronica ordinis praedicatorum', composed around ?.
+Authored work: 'Legendae sancti Dominici', composed around .
+Source: MIRABILE, Andrea CENCINI :.

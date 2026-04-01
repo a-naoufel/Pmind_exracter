@@ -1,0 +1,10 @@
+PERSON: ANTHONIUS Ponceti
+Also known as: Anthonius PONCETI.
+Description: Étudiant en théologie.
+Status: Étudiant.
+Gender: male.
+Active during: %1518-1518%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en théologie (Paris) en ..
+College affiliation: Collège d'Autun : boursier théologien en ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

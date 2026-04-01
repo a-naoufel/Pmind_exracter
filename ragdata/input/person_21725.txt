@@ -1,0 +1,13 @@
+PERSON: MARTINUS 6
+Also known as: MAARTEN.
+Description: Augustin.
+Status: Étudiant.
+Gender: male.
+Active during: %1303-1303%.
+Born in: Pays-Bas (Hollande) ;.
+Diocese of origin: Diocèse d'Utrecht ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Couvent (augustin) de Paris (Grands-Augustins)..
+Religious order: O.E.S.A. au couvent (augustin) de Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 2/04/2021)..

@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Guerretin
+Also known as: Guillelmus GUERRETIN.
+Description: Serviteur.
+Status: Suppôt.
+Gender: male.
+Active during: %1394-1408%.
+Studied at: Paris..
+College affiliation: Collège de Dainville : serviteur à la cuisine ;; Mentionné comme tel dans les comptes du collège de Dainville pour la période %1394-1408%, hors , tenus par Pierre de BANVIN, procureur ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

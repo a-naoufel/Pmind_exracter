@@ -1,0 +1,11 @@
+PERSON: GEORGIUS Marci
+Also known as: Georgius MARCI.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1477-1477%.
+Born in: Prusse ;.
+Diocese of origin: Diocèse de Brandebourg ;.
+Studied at: Paris (Nation Anglo-allemande) ;.
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Source: RAG ;.

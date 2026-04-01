@@ -1,0 +1,13 @@
+PERSON: ROBERTUS de Bellomonte 1
+Also known as: Robertus de BELLOMONTE; Robert de BEAUMONT.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1414-1414%.
+Studied at: Paris (Collège de Cluny) %1414-1414%.
+Academic grades obtained: Bachelier en théologie (Paris) vers ;.
+College affiliation: Étudiant au collège de Cluny à Paris en ;.
+Family relationships: Son frère est Johannes de BEAUMONT ; Son frère est Guillaume de BEAUMONT..
+Social origin: Noble..
+Religious order: O.S.B. : moine clunisien..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 8/01/2019..

@@ -1,0 +1,11 @@
+PERSON: PETRUS de Sancto Victore
+Also known as: Petrus de SANCTO VICTORE.
+Description: Abbé de Saint-Victor.
+Status: Incertain.
+Gender: male.
+Active during: %1229-1232%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.S.A. : chanoine augustin ;.
+Religious functions: Abbé de Paris (Saint-Victor) %1229-1232% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/03/2024)..

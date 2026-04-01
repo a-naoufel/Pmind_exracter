@@ -1,0 +1,11 @@
+PERSON: FIRMINUS Rogerii
+Also known as: Firminus ROGERII.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1444-1449%.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) ?.
+Academic relationships: Son élève est Guillelmus RIBOTEAU pour le baccalauréat en ; Son élève est Petrus TRANSMONT pour le baccalauréat en ; Son élève est Thomas de MARCHIIS pour le baccalauréat en ; Son élève est Johannes SCANART pour le baccalauréat en ; Son élève est Alanus de BIRRES pour le baccalauréat en ;.
+University functions: Paris (Nation de France : maître-régent en %1445-1446%) ;; Paris (Nation de France : maître-régent en %1445-1446%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 6/08/2021..

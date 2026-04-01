@@ -1,0 +1,14 @@
+PERSON: GALTERIUS de Duaco 1
+Also known as: Galterius de DUACO; Gautier de DOUAI; Gautier PIKETE.
+Description: Doyen de Tournai.
+Status: Maître.
+Gender: male.
+Active during: %1198-1205%.
+Born in: Flandre (Douai)..
+Diocese of origin: Diocèse de Tournai ?.
+Studied at: Paris ?.
+Academic grades obtained: Magister ..
+College affiliation: Sorbonne ?.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Tournai %1255-1274% ;; Doyen de Tournai %1260-1274% ;; Official de Tournai %1253-1257% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/05/2017..

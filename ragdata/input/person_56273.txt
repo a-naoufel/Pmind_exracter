@@ -1,0 +1,14 @@
+PERSON: PETRUS Rotarii
+Also known as: Guillelmus ROTARII; Pierre LE ROYER.
+Description: Évêque du Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1272-1295%.
+Born in: Anjou-Maine (Troo) ;.
+Diocese of origin: Diocèse de LeMans ;.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Family relationships: Son père est Jean LE ROYER, officier des comtes de Vendôme ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de LeMans %1272-1292% ;; Archidiacre de Château-du-Loir %1276-1292% ;; Chanoine de Tours ;; Évêque de LeMans %1292-1295% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 22/06/2023)..

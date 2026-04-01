@@ -1,0 +1,9 @@
+PERSON: GALFREDUS Piverel
+Also known as: Geoffroy PIVEREL; Geoffroy PIVEREL.
+Description: Archevêque de Besançon.
+Status: Incertain.
+Gender: male.
+Active during: %1216-1241%.
+Studied at: ?.
+Academic grades obtained: Magister.
+Ecclesiastical positions held: Chanoine de Paris ;; Archidiacre ;; GrandArchidiacre de Paris %1233-1236%; Archevêque de Besançon %1236-1241%..

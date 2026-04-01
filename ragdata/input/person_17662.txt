@@ -1,0 +1,10 @@
+PERSON: GUIDO Blaret
+Also known as: Guido BLARET; Guidonis BLARET.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1497-1497%.
+Born in: Catalogne..
+Studied at: Paris %1497-1497%..
+Academic grades obtained: Bachelier en décret (Paris) attesté en décembre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 22/01/20ZZ..

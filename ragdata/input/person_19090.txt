@@ -1,0 +1,10 @@
+PERSON: PETRUS de Pulchrosono
+Also known as: Petrus de PULCHROSONO.
+Description: Etudiant.
+Status: Incertain.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Family relationships: Parent (frère ?) de Franciscus de PULCHRSONO qui paye la collecte en même temps que lui ; Parent (frère ?) de Ludovicus de PULCHRSONO qui paye la collecte en même temps que lui ; Parent (frère ?) de Jacobus de PULCHRSONO qui paye la collecte en même temps que lui ; Parent (frère ?) de Dinetus de PULCHRSONO qui paye la collecte en même temps que lui ; Parent (frère ?) de Guillelmus de PULCHRSONO qui paye la collecte en même temps que lui ;.
+Ecclesiastical positions held: Clerc ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction, Jean-Philippe Genet, dernière mise à jour 21/09/2023..

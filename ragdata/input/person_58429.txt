@@ -1,0 +1,7 @@
+PERSON: RICARDUS Anglicus
+Also known as: Ricardus ANGLICUS.
+Description: Tailleur.
+Status: Extérieur.
+Gender: male.
+Active during: %1344-1344%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 26/12/2024)..

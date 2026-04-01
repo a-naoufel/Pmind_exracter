@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Corderii 2
+Also known as: Guillelmus CORDERII.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1424-1424%.
+Studied at: Paris %1424-1424%..
+Academic grades obtained: Bachelier en décret (Paris) en (18 mai) ;.
+Religious order: O.Praem. : chanoine de Prémontré ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 04/03/2022..

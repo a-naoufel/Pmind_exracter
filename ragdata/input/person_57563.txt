@@ -1,0 +1,12 @@
+PERSON: RICARDUS de Monasterio
+Also known as: Ricard de MONASTERIO.
+Description: Bachelier en décret.
+Status: Maître.
+Gender: male.
+Active during: %1434-1434%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Coutances ?.
+Studied at: Paris (Nation de Normandie) ..
+Academic grades obtained: Maître ès arts (Paris) en ;; Bachelier en décret (Paris) (9 mai) ;.
+University functions: Paris (Lecteur des Décrétales (livre V) en (8 juin) pour la 1e année et le 1er volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 16/12/2024)..

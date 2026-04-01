@@ -1,0 +1,13 @@
+PERSON: GUIDO Viellet
+Also known as: Guido VIELLET.
+Description: Licencié ès lois..
+Status: Étudiant.
+Gender: male.
+Active during: %1379-1379%.
+Born in: Picardie ;.
+Diocese of origin: Diocèse de Laon ;.
+Studied at: Paris ?; Orléans..
+Academic grades obtained: Étudiant en décret (Paris) ?; Licencié ès lois (Orléans)..
+Ecclesiastical status: Clerc du diocèse de Laon..
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus de ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 04/02/2022..

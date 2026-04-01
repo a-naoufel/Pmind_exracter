@@ -1,0 +1,11 @@
+PERSON: PETRUS Guerin 1
+Also known as: Petrus GUERIN.
+Description: Licencié en théologie..
+Status: Gradué.
+Gender: male.
+Active during: %1401-1401%.
+Studied at: Paris %1401-1401%..
+Academic grades obtained: Licencié en théologie (Paris) ..
+College affiliation: Couvent (augustin) de Paris (GrandsAugustins) ;.
+Religious order: O.E.S.A. : frère augustin..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/06/2023..

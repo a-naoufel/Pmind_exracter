@@ -1,0 +1,12 @@
+PERSON: PETRUS Bigot 2
+Also known as: Petrus BIGOT.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1449-1450%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Saint-Malo ;.
+Studied at: Paris (Nation de France) %1449-1450%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maîtrise ès arts (Paris) ;.
+Academic relationships: Son maître est Guillelmus LE GUARENGIER pour la maîtrise en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 16/05/2023..

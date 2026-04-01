@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS de Maintenay
+Also known as: Gilles de MAINTENAY.
+Description: Chanoine de Saint-Amat de Douai.
+Status: Étudiant.
+Gender: male.
+Active during: %1321-1321%.
+Born in: Maintenay, près de Montreuil-sur-Mer ?.
+Studied at: Paris ?.
+College affiliation: Collège de Sorbonne ?.
+Family relationships: Parent de ENGUERRAND, seigneur de Maintenay ?.
+Ecclesiastical positions held: Chanoine de Douai (Saint-Amat)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 29/04/2020)..

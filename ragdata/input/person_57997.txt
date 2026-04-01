@@ -1,0 +1,11 @@
+PERSON: PORCIANUS Micheleti
+Also known as: Porcien MICHELET.
+Description: Boursier en théologie du collège d’Autun.
+Status: Maître.
+Gender: male.
+Active during: %1495-1504%.
+Studied at: Paris %1495-1504%.
+Academic grades obtained: Maître ès arts (Paris) en ;; Étudiant en théologie (Paris) en ;.
+College affiliation: Collège d'Autun : boursier en théologie en ;; Collège d'Autun : responsable des comptes en ;.
+Ecclesiastical positions held: Candidat à un bénéfice ecclésiastique sur le rotulus de la Faculté des Arts en ;; Candidat à un bénéfice ecclésiastique sur le rotulus de la Faculté des Arts en ;; Candidat à un bénéfice ecclésiastique sur le rotulus de la Faculté des Arts en ;; Candidat à un bénéfice ecclésiastique sur le rotulus de la Faculté des Arts en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 04/09/2024..

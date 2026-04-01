@@ -1,0 +1,15 @@
+PERSON: NICOLAUS de Grambus
+Also known as: Nicolaus de GRAMBUS.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1492-1539%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse d’Amiens ;.
+Studied at: Paris (Nation de Picardie)..
+Academic grades obtained: Maître arts (Paris).; Licencié en théologie (Paris) (25 janvier) ;; Maître en théologie (Paris) (27 novembre) ;.
+College affiliation: Collège de Boncour : étudiant en arts ;; Collège du Cardinal-Lemoine : étudiant en arts ;; Collège du Cardinal-Lemoine : principal %1508-1518% au moins ;.
+Academic relationships: Son maître est Jacques de MAMBEN au Collège du Cardinal-Lemoine ; Son maître est Josse CLICHTOVE pour ses études de théologie au Collège du Cardinal-Lemoine ; Son maître est Jean PELLETIER pour ses études de théologie au Collège du Cardinal-Lemoine ;.
+Ecclesiastical positions held: Curé de Paris (paroisse ?) ;; Curé de Saint-Médard (diocèse de Tulle) ;.
+University functions: Paris (Faculté de Théologie : maître-régent %1508-1513%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 29/12/2023..

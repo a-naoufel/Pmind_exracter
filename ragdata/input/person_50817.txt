@@ -1,0 +1,27 @@
+PERSON: GUILLELMUS Petri de Godino
+Also known as: Guillaume de PEYRE DE GODIN; Guillelmus PETRI de Godino; Guillelmus Petri de GODINO.
+Description: Cardinal dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1279-1336%.
+Born in: Navarre (Bayonne) ?.
+Diocese of origin: Diocèse de Bayonne.
+Studied at: Montpellier ;; Toulouse ;; Paris..
+Academic grades obtained: Étudiant en théologie (Montpellier) ;; Bachelier en théologie (Paris) .; Maître en théologie (Paris) ..
+College affiliation: Couvent des Jacobins %1293-1294%, %1299-1301%, %1304-1306%..
+Religious order: O.P. : frère dominicain..
+Religious functions: Provincial (dominicain) de Provence %1301-1303% ;; Provincial (dominicain) de Toulouse %1303-1304% ;.
+Ecclesiastical positions held: Cardinalprêtre de Sainte-Cécile (décembre ) ;; Cardinalévêque de Sabine (décembre )..
+University functions: Montpellier (Couvent dominicain : lecteur de Théologie en ).; Toulouse (Couvent dominicain : sous-lecteur des Sentences en %1296-1298%).; Paris (Faculté de Théologie : lecteur des sentances %1299-1301%) ;; Paris (Faculté de Théologie : maître-régent %1304-1306%) ;; Avignon (Lecteur de théologie de la Curie, %1306-1312%)..
+Representation roles: Envoyé de CLÉMENT V auprès de PHILIPPE le Bel, roi de France à trois reprises en %1309-1310% ;; Légat en Castille (%1320-1324%)..
+Authored work: 'Sermones', composed around ?.
+Authored work: 'De nuptiis Christi Domini et Ecclesiae', composed around ?.
+Authored work: 'In Sent. P. Lombardi (Lectura Thomasina)', composed around %1299-1301% à Paris..
+Authored work: 'Contra unitatem intellectus', composed around ?.
+Authored work: 'Contra aeternitatem mundi', composed around ?.
+Authored work: 'Quaestio de individuationis principio', composed around %?1305%.
+Authored work: 'Actes du concile de Valladolid', composed around .
+Authored work: 'Testament', composed around .
+Authored work: 'De causa immediata ecclesiasticae potestatis', composed around ?.
+Authored work: 'De paupertate Christi', composed around ?.
+Source: MIRABILE : Federico CONTINI :.

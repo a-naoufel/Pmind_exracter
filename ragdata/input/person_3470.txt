@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Chabut
+Also known as: Guillelmus CHABUT; Guillaume CHABUT; Guillaume CHABUTI; Guillaume SABUTI.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1489-1496%.
+Born in: Champagne..
+Diocese of origin: Diocèse de Langres..
+Studied at: Paris (Faculté de Médecine) %1489-1496%..
+Academic grades obtained: Étudiant en médecine (Paris) %1489-1490% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 2/03/2022..

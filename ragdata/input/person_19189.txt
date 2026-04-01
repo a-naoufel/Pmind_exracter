@@ -1,0 +1,10 @@
+PERSON: NOTUS de Burgo
+Also known as: Notus de BURGO.
+Description: Marchand florentin.
+Status: Extérieur.
+Gender: male.
+Active during: %1259-1259%.
+Born in: Italie (Florence) ;.
+Diocese of origin: Diocèse de Florence ?.
+Studied at: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/10/2023)..

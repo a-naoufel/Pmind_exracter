@@ -1,0 +1,10 @@
+PERSON: LIVINUS de Joncheren
+Also known as: Livinus de JONCHEREN.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Maître (Paris) en ?.
+University functions: Paris (Faculté des Arts : il est en l’un des quatre représentants des quatre nations certifiant la liste des contribuables à la collecte) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 1/08/2016..

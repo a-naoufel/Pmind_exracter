@@ -1,0 +1,11 @@
+PERSON: HUGO Gamonard
+Also known as: Hugo GAMONARD.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1499-1499%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse d'Auxerre..
+Studied at: Paris %1499-1499%..
+Academic grades obtained: Bachelier en décret (Paris) 30 avril ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 11-06-2015..

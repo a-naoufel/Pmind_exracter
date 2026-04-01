@@ -1,0 +1,10 @@
+PERSON: BERNARDINUS Zum Luft
+Also known as: Bernardinus ZUMLUFT.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1499-1526%.
+Studied at: Bâle ;; Paris %1503-1506% ;; Freiburg ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licence ès arts (Paris) ;; Maître ès arts (Paris) ;; Étudiant en droit (Freiburg) .; Bachelier ès arts (Prague) ..
+Ecclesiastical positions held: Chapelain à la cathédrale de Bâle ..
+Source: RAG ;.

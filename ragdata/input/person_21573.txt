@@ -1,0 +1,12 @@
+PERSON: NICOLAUS Dictatoris
+Also known as: Nicolas LEDISEUR; Nicolaus DICTATORIS; Nicolas LEDISEUR.
+Description: Chanoine de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1364-1399%.
+Born in: Hainaut (Thiérache : LaFlamengrie) ;.
+Diocese of origin: Diocèse de Cambrai ?.
+Studied at: ?Paris..
+Academic grades obtained: Maître ?.
+Ecclesiastical positions held: Chanoine de Châlons-en-Champagne %1364-1369% ;; Chanoine de Laon %1376-1386%, %1387-1389% ;; Archidiacre de Laon %1389-1399% ;; Chanoine de Cambrai %1385-1388% ;; Chanoine de Paris(Notre-Dame) %1385-1399% ?; Chanoine de Tours (Saint-Martin) ;; Chanoine de Beauvais % -1389% ;; Archidiacre de Noyon %1391-1399% ;.
+Source: cSTUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 16-05-2019..

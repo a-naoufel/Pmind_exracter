@@ -1,0 +1,12 @@
+PERSON: DIONYSIUS de Montina
+Also known as: Dionysius de MONTINA; Dionysius de MODENA; Dionysius de MUTINA; Dionysius de MURCIA.
+Description: Augustin.
+Status: Maître.
+Gender: male.
+Active during: %1374-1400%?.
+Studied at: Paris %1374-1375%..
+Academic grades obtained: Licencié en théologie (Paris) %1374-1375% ;; Docteur en théologie (Paris) (septembre) ..
+College affiliation: Couvent (augustin) de Paris (Grands-Augustins)..
+Religious order: O.E.S.A. : frère augustin.
+Authored work: 'Liber in quatuor Sententiarum', composed around ?%1371-1372%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (dernière mise à jour 2/09/2015)..

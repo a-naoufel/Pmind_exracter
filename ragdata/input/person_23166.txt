@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Saunier
+Also known as: Guillelmus SAUNIER.
+Description: Nonce pour le diocèse de Saintes.
+Status: Suppôt.
+Gender: male.
+Active during: %1443-1443%.
+Academic grades obtained: Paris (Nation de France) ..
+University functions: Paris (Nation de France : désigné comme pour le diocèse de Saintes en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/05/2018..

@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Douet
+Also known as: Guillelmus DOUET; Guillelmus DROUET.
+Description: Trésorier d’Auxerre.
+Status: Incertain.
+Gender: male.
+Active during: %1449-1452%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Auxerre %1449-1452% ;; Trésorier d’Auxerre ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/07/2020)..

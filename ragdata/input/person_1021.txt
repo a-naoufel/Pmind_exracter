@@ -1,0 +1,12 @@
+PERSON: ARNALDUS de Schalkwik
+Also known as: Arnoldus de SCHALKWIK.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1346-1346%.
+Born in: Pays-Bas (Schalkwijk ?) ?.
+Diocese of origin: Diocèse d'Utrecht ?.
+Studied at: ?Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Academic relationships: Son maître est Gerardus de PRUSIA..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 5/11/2020..

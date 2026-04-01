@@ -1,0 +1,11 @@
+PERSON: LAURENTIUS Anglicus 2
+Also known as: Laurentius ANGLICUS.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1263-1263%.
+Born in: Angleterre ?.
+Studied at: Paris %1263-1263% ?.
+Academic grades obtained: Maître (Paris) ?.
+University functions: Paris (Université : procureur à la Curie en ?) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 01/04/2024..

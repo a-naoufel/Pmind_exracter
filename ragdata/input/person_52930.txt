@@ -1,0 +1,10 @@
+PERSON: REGINALDUS de Maigniaco
+Also known as: Reginaldus de MAIGNIACO.
+Description: Archidiacre d’Aurillac.
+Status: Incertain.
+Gender: male.
+Active during: %1329-1342%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Clermont %1329-1338% ;; Recteur de Fontanges ;; Chanoine d’Autun %1332-1338% ;; Chanoine de Rouen ;; Archidiacre d’Aurillac ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 10/11/2021..

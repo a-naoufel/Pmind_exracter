@@ -1,0 +1,10 @@
+PERSON: CLEMENS 2
+Also known as: CLÉMENT.
+Description: Archidiacre de Laon.
+Status: Incertain.
+Gender: male.
+Active during: %1268-1268%.
+Studied at: Paris ?.
+Academic grades obtained: Magister.
+Ecclesiastical positions held: Archidiacre de Laon.
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction, Jean-Philippe Genet, 15/04/2021..

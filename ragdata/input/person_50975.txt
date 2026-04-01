@@ -1,0 +1,10 @@
+PERSON: GUIBERTUS
+Also known as: GUIBERTUS.
+Description: Chanoine d’Auxerre.
+Status: Extérieur.
+Gender: male.
+Active during: %1233-1233%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Auxerre ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 23/07/2020)..

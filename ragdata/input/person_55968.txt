@@ -1,0 +1,11 @@
+PERSON: MANASSES de Sancto Fidolio
+Also known as: Manasses de SANCTO-FIDOLIO.
+Description: Chantre de Troyes.
+Status: Incertain.
+Gender: male.
+Active during: %1191-1211%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Troyes %1191- % ;; Archidiacre de Troyes %1193-1211% ;; Chantre de Troyes %1200-1211% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 08/05/2023..

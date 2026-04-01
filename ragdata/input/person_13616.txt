@@ -1,0 +1,15 @@
+PERSON: PETRUS Parvi 2
+Also known as: Petrus PARVI.
+Description: Licencié en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1403-1419%.
+Born in: Touraine ?.
+Diocese of origin: Diocèse de Tours ;.
+Studied at: Paris (Nation de France) ;.
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en théologie (Paris) ;; Licencié en théologie (Paris) ..
+College affiliation: Collège de Sorbonne ; socius %1403-1419% ;.
+Ecclesiastical status: Clerc du diocèse de Tours ;.
+Ecclesiastical positions held: Candidat à des bénéfices à la collation de l'archevêque, du doyen et du chapitre de Tours ou de l'abbé et de la communauté de Saint-Florent-le-Jeune en ;; Candidat à des bénéfices sur un rotulus de ..
+Representation roles: Présent aux quatre sessions du Concilium fidei tenu à Paris en %1413-1414%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/06/2021..

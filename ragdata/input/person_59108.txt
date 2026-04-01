@@ -1,0 +1,10 @@
+PERSON: PETRUS Boucher 3
+Also known as: Petrus BOUCHER; Petrus BOUCHEY.
+Description: Chanoine de Châlons.
+Status: Incertain.
+Gender: male.
+Active during: %1462-1483%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Châlons-en-Champagne %1462-1483% ;; Chanoine de Châlons-en-Champagne (La Trinité) %1464-1483% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/06/2025.

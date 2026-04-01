@@ -1,0 +1,14 @@
+PERSON: ROBERTUS Autissiodorensis
+Also known as: Robertus AUTISSIODORENSIS; Robert d'AUXERRE; Robertus SANCTIMARIANI.
+Description: Chanoine (O.Praem.) de Saint-Marien d’Auxerre.
+Status: Extérieur.
+Gender: male.
+Active during: %1176-1212%.
+Born in: ?Bourgogne (?Auxerre)..
+Diocese of origin: Diocèse d’Auxerre ?.
+Studied at: ?Paris..
+Religious order: O.Praem. : chanoine prémontré.
+Religious functions: Prieur (O. Praem.) de NotreDamelad'Hors..
+Authored work: 'Chronologia', composed around continuation jusqu'en ., dedicated to Écrit à la demande de Milon de TRAINEL, abbé (O. Praem.) de Saint-Marien en ..
+Authored work: '(Continuation de la chronologia jusqu'en 1212)', composed around ..
+Source: ARLIMA : Laurent BRUN :.

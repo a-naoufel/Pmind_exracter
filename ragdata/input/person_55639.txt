@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Mueti
+Also known as: Nicolaus MUETI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1449-1449%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Troyes ;.
+Studied at: Paris (Nation de France).
+Academic grades obtained: Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/03/2023..

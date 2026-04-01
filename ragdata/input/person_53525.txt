@@ -1,0 +1,11 @@
+PERSON: FINNUS canonicus Nidrosiensis
+Also known as: FINNUS canonicus Nidrosiensis.
+Description: Chanoine.
+Status: Incertain.
+Gender: male.
+Active during: %1253-1253%.
+Born in: Norvège..
+Studied at: ?.
+Academic grades obtained: Magister, ..
+Ecclesiastical positions held: Chanoine de Nidaros (Trondheim), ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth MORNET, 11/03/2022..

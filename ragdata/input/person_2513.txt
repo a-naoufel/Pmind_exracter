@@ -1,0 +1,10 @@
+PERSON: GARINUS de Allouis
+Also known as: Garin d'ALLOUIS.
+Description: Boursier grammairien au Collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1315-1315%.
+Studied at: Paris (Collège de Navarre) %1315-1315%..
+Academic grades obtained: Étudiant en grammaire (Paris) ..
+College affiliation: Collège de Navarre : Boursier grammairien en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 21/11/2021..

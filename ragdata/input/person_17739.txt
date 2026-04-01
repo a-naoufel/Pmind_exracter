@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Clayns
+Also known as: Guillelmus de CLAYNS.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1447-1447%.
+Born in: Anjou-Maine ?.
+Diocese of origin: Diocèse de LeMans..
+Studied at: Paris %1447-1447%..
+Academic grades obtained: Bachelier en décret (Paris) 2 août .; Licencié en lois attesté en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/03/2022)..

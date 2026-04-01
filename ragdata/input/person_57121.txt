@@ -1,0 +1,12 @@
+PERSON: SIMON Poictevin
+Also known as: Simon POICTEVIN.
+Description: Maître en théologie dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1488-1522%.
+Studied at: Paris..
+Academic grades obtained: Licencié en théologie (Paris) (19 février) ;.
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P : frère dominicain..
+Religious functions: Prieur du couvent (dominicain) de Senlis en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 06/01/2024..

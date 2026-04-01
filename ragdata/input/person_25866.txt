@@ -1,0 +1,9 @@
+PERSON: HOUDINUS Sancti Benedicti
+Also known as: Houdinus SANCTI BENEDICTI.
+Description: Propriétaire d’une maison.
+Status: Extérieur.
+Gender: male.
+Active during: %1287-1287%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 27/08/2022..

@@ -1,0 +1,12 @@
+PERSON: PETRUS de Condeto 3
+Also known as: Petrus de CONDETO; Pierre de CONDÉ.
+Description: Chanoine de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1308-1329%.
+Born in: Picardie ;.
+Diocese of origin: Diocèse de Laon..
+Studied at: Paris (Nation de Picardie) ?.
+Academic grades obtained: Maître ès arts (Paris ?) ;.
+Ecclesiastical positions held: Chanoine de Laon %1308-1326%.; Archidiacre de Laon %1317-1329% ;; Chanoine de Paris (Notre-Dame) %1316-1329% ;; Chanoine de Soissons ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 25/03/2019..

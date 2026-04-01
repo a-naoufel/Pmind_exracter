@@ -1,0 +1,12 @@
+PERSON: BONACCIO d'Osio de Bergamo
+Also known as: Bonaccio d'OSIO da Bergamo; Bonaccio da BERGAMO; Bonifacius de BERGAMO.
+Description: Grammairien.
+Status: Extérieur.
+Gender: male.
+Active during: %1251-1312%.
+Born in: Italie (Lombardie, Osio, près de Bergamo)..
+Studied at: Bologne..
+Academic grades obtained: Magister ?.
+Ecclesiastical positions held: Chanoine de Bergame %1295-1312%..
+University functions: Bologne (Lecteur de Grammaire jusqu'en ) ;; Bergamo (Professeur de grammaire à partir de 1291%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (dernière mise à jour, Jean-Philippe Genet, 24/03/2021)..

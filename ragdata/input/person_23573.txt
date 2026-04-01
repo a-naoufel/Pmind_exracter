@@ -1,0 +1,11 @@
+PERSON: PETRUS Aubry 1
+Also known as: Pierre AUBRY.
+Description: Hôte du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1392-1394%.
+Studied at: Paris %1392-1394%..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dormans-Beauvais : hôte gracieux %1392-1394% ;.
+Family relationships: Son oncle est Jean d'AY, avocat au Parlement de Paris ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 19/07/2018..

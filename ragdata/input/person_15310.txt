@@ -1,0 +1,12 @@
+PERSON: BENEDICTUS de Sawston
+Also known as: Benedictus de SAWSTON; Benedict SANSETON; Benedict de SAUSETUN.
+Description: Évêque de Rochester.
+Status: Maître.
+Gender: male.
+Active during: %1190-1226%.
+Studied at: Paris ..
+Academic grades obtained: Magister..
+Academic relationships: Elève de Stephen LANGTON..
+Ecclesiastical positions held: Chanoine de Londres (St-Paul) ?%1190-1214% ;; Precentor de Londres (St-Paul) ?%1203-1214% ;; Évêque de Rochester %1214-1226%..
+University functions: Professeur de Droit à Paris en quand il séjourne à Paris avec Richard le GRANT et Alexandre de STAINSBY mais il l'a peut-être été auparavant.; Son opinion sur la question des restitutions a été copiée par Stephen LANGTON en marge de son manuscrit des Quaestiones ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 3/12/2015)..

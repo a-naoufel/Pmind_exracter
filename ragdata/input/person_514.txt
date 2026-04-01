@@ -1,0 +1,10 @@
+PERSON: ALEXANDER de Prato
+Also known as: Alexander de PRATO.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris en ..
+Academic grades obtained: Étudiant (Paris)..
+Ecclesiastical positions held: Il est qualifié de Dominus..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 28/06/2020)..

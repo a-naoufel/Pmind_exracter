@@ -1,0 +1,10 @@
+PERSON: ERHARDUS Militis
+Also known as: Erhardus MILITIS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1490-1490%.
+Studied at: Paris (Nation Anglo-allemande) %/1490%..
+Academic grades obtained: Maître ès arts (Paris) %/1490%..
+University functions: Paris (Nation Anglo-allemande : intrans pour l'élection du recteur en %/1490% (décembre) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 19/07/2021)..

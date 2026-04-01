@@ -1,0 +1,11 @@
+PERSON: DIONYSIUS Fabri
+Also known as: Dyonisius FABRI.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1403-1403%.
+Studied at: Paris %1403-1403%..
+Academic grades obtained: Bachelier en décret (Paris) ;; Étudiant en décret (Paris) ;.
+Ecclesiastical status: Prêtre ?.
+Ecclesiastical positions held: Recteur de Sainte-Colombe au doyenné de Cauville (diocèse de Rouen) en ;; Candidat à un bénéfice sur le Rotulus licentiatorum et bacallariorum in decretis Parisius adressé à BENOÎT XIII en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 18/05/2019..

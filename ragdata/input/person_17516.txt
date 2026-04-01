@@ -1,0 +1,10 @@
+PERSON: GASSARDUS Beauguere
+Also known as: Gassardus BEAUGUERE.
+Description: Licencié en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1485-1485%.
+Studied at: Paris %1485-1485%..
+Academic grades obtained: Licencié en décret. (Paris) attesté en ..
+Religious order: Frater..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 26/11/2021..

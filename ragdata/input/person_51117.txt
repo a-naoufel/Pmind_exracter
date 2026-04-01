@@ -1,0 +1,11 @@
+PERSON: RADULPHUS de Vintdehagne
+Also known as: Radulphus de VINTDEHAGNE.
+Description: Membre du Collège de Maître-Gervais.
+Status: Étudiant.
+Gender: male.
+Active during: %1370-1370%..
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège de Maître-Gervais : socius ;.
+Family relationships: Son parent est peut-être Johannes de VINTDEHAGNE ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Marion Bernard-Schweitzer 16/09/2020..

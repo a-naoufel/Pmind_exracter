@@ -1,0 +1,15 @@
+PERSON: MARTINUS Ortolanus
+Also known as: Martinus ORTOLANUS; Martinus HORTULANUS; Martin ORTHOLAN.
+Description: Maître ?.
+Status: Incertain.
+Gender: male.
+Active during: %1350-1350%.
+Studied at: ?.
+Academic grades obtained: Maître ?.
+Authored work: 'Tractatus de Alchymia', composed around ?.
+Authored work: 'Synonymorum in arte alchimista expositio', composed around ?.
+Authored work: 'Libellus de praeparatione elixir', composed around ?.
+Authored work: 'De mineralibus liber', composed around ?.
+Authored work: 'Rosarius minor', composed around ?.
+Authored work: 'Commentatiolus in Tabulam smaragdinam', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

@@ -1,0 +1,9 @@
+PERSON: AMBROSIUS Reginaldi
+Also known as: Ambroise REGNAULT.
+Description: Hôte du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1441-1443%.
+Academic grades obtained: Étudiant (Paris) %1441-1443% ?.
+College affiliation: Collège de Dormans-Beauvais : hôte %1441-1443% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 09/11/2019..

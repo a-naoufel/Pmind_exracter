@@ -1,0 +1,10 @@
+PERSON: RAMBRANDUS de Nycolai
+Also known as: Rambrandus de NYCOLAI.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1397-1397%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Academic relationships: Son maître est Nicolaus de MONIKEDAM pour le baccalauréat en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 16-11-2019..

@@ -1,0 +1,12 @@
+PERSON: MARTINUS Jouguet
+Also known as: Martin JOUGUET; Martinus JUGUETI.
+Description: Boursier ès arts du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1501-1515%.
+Born in: Auvergne ;.
+Diocese of origin: Diocèse de LePuy ;.
+Studied at: Paris (Nation de France) %1501-1515%..
+Academic grades obtained: Étudiant ès arts (Paris) ;; Maître ès arts (Paris) ;.
+College affiliation: Collège d'Autun : boursier ès arts en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

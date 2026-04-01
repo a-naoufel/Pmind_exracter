@@ -1,0 +1,12 @@
+PERSON: BAUDO de Cise
+Also known as: Baudon de CISE; Baudetus de CISE.
+Description: Clunisien.
+Status: Étudiant.
+Gender: male.
+Active during: %1386-1386%.
+Studied at: Paris (Collège de Cluny) %1386-1386%..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Cluny %1386-1386%..
+Religious order: O.Clun : monastère (clunisien) de Lavoute-Chilhac (diocèse de Saint-Flour)..
+Religious functions: Moine de Lavoute-Chilhac en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Clare Priol-Hoogland ; révision, Jean-Philippe Genet 1/12/2020)..

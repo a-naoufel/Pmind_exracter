@@ -1,0 +1,13 @@
+PERSON: ROLANDUS Bonifacii 2
+Also known as: Rolandus BONIFACII; Roland BONIFACE.
+Description: Chanoine de Coutances.
+Status: Maître.
+Gender: male.
+Active during: %1367-1384%.
+Born in: France (Normandie)..
+Studied at: Paris (Nation de Normandie ?) %1367-1372% ;; Toulouse %1375-1384%..
+Academic grades obtained: Étudiant ès arts (Paris) ;; Maître ès arts (Paris) ;; Étudiant en théologie (Paris) ;; Étudiant en droit civil (Toulouse) %:1375:-:1378:% ;; Étudiant en droit civil (Toulouse) ..
+College affiliation: Paris (Collège de Navarre) %1367-1372% ;; Boursier artien au collège de Navarre à Paris %1367-1372% ;; Boursier théologien au collège de Navarre à Paris ..
+Family relationships: Son oncle est Grimier BONIFACE, docteur en théologie, chanoine puis chancelier de l'église de Paris en %1360-1370% ; Son oncle est Roland BONIFACE, maître ès arts ; Son oncle est Mathieu BONIFACE gradué en arts et en décret..
+Ecclesiastical positions held: Chanoine sous expectative de prébende de Coutances en ;; Candidat à la cure de Ménil-Simon (diocèse de Lisieux) en ;; Chapelain dans le diocèse de Lisieux en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 30/08/2021..

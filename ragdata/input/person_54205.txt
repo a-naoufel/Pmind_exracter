@@ -1,0 +1,11 @@
+PERSON: PHILIPPUS de Gravia
+Also known as: Philippus de GRAVIA; Philippe de GRÈVE.
+Description: Doyen de Sens.
+Status: Maître.
+Gender: male.
+Active during: %1181-1220%.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Paris (Notre-Dame) ;; Doyen de Sens ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 15/09/2022..

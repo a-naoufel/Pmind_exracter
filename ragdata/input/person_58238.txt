@@ -1,0 +1,11 @@
+PERSON: MICHAEL de Ungaria 2
+Also known as: Michael de UNGARIA.
+Description: Chanoine.
+Status: Étudiant.
+Gender: male.
+Active during: %1219-1219%.
+Born in: Hongrie..
+Studied at: Étudiant (Paris) ..
+Ecclesiastical status: Clerc..
+Ecclesiastical positions held: Canonicus ad succurendum..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour, 21/11/2024..

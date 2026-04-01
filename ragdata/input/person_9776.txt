@@ -1,0 +1,20 @@
+PERSON: PETRUS Berchorius
+Also known as: Petrus BERCHORIUS; Petrus BERCORIUS; Petrus BERCHERII; Pierre BERSUIRE.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1320-1362%.
+Born in: Poitou (Saint-Pierre-du-Chemin) ;.
+Studied at: Paris %1336-1351%.
+Academic grades obtained: Étudiant en théologie (Paris) %1336-1351% ;.
+Social origin: ?Noble..
+Religious order: O.Clun. : moine clunisien, brièvement, dans sa jeunesse ;; O.F.M. : frère franciscain (c’est sa profession d’origine) ;; O.S.B. : moine bénédictin de l’abbaye (bénédictine) de LaTorre (diocèse de Tuy) ;.
+Religious functions: Prieur (bénédictin) de Saint-Hilaire à LaFosse (diocèse de Maillezais) en ;; Prieur (bénédictin) de Bruyères-le-Châtel (diocèse de Paris), %1334-1349% ;; Bénéfice réservé par le pape BENOIT XII en ;; Prieur (bénédictin) de Clisson (diocèse de Nantes) le 30 juin , échangé contre le prieuré de Bruyères-le-Chatel ;; Chambrier de l'abbaye (bénédictine) de Coulombs (diocèse de Chartres) le 10 décembre à la requête de Pierre des PRES, cardinal-évêque de Palestrina, %1349-1354% ;; Prieur (bénédictin) de Saint-Eloi (diocèse de Paris) le 8 avril , échangé contre celui de chambrier de l'abbaye (bénédictine) de Coulombs (diocèse de Chartres) ;.
+Authored work: 'Breviarium morale', composed around ?.
+Authored work: 'Repertorium morale', composed around Fini en ., dedicated to Dédié à Pierre des PRES, cardinal-évêque de Palestrina..
+Authored work: 'Collatio pro fine operis', composed around /Sorte d’épilogue du Repertorium morale ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Reductorium morale', composed around %1320-1343% ;.
+Authored work: '(Histoires romaines)', composed around %1352-1356% ;, dedicated to Commande de JEAN II le Bon, roi de France..
+Authored work: 'Mappa mundi', composed around ?.
+Source: ARLIMA : Laurent BRUN, avecLouis-Gabriel BONICOLI, pour Henri ROMAIN :.

@@ -1,0 +1,7 @@
+PERSON: MARGARETA la Chopillarde
+Also known as: Marguerite la CHOPILLARDE.
+Description: Chirurgienne parisienne..
+Status: Extérieur.
+Gender: female.
+Active during: %1350-1350%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 09/09/2023..

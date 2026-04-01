@@ -1,0 +1,8 @@
+PERSON: ROBERTUS de Saint-Diacre
+Also known as: Robertus de SAINT-DIACRE.
+Description: ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1341-1345%.
+Social origin: ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

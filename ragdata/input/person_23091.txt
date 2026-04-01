@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Archidiaconus Abrincensis
+Also known as: GUILLELMUS; Guillaume d'AVRANCHES.
+Description: Archidiacre d'Avranches.
+Status: Maître.
+Gender: male.
+Active during: %1263-1264%.
+Studied at: Paris ?.
+Academic grades obtained: Magister (Paris ?) ?.
+Ecclesiastical positions held: Archidiacre d'Avranches en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 7/3/2018..

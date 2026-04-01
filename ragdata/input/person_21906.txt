@@ -1,0 +1,11 @@
+PERSON: GERARDUS de Nigellula
+Also known as: Girardus de NIGELLULA; Girardus de NOiELLETTES.
+Description: Écolâtre d'Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1281-1312%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical status: Sous-diacre ;.
+Ecclesiastical positions held: Écolâtre d'Amiens.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 8/01/2021.

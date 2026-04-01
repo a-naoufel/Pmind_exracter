@@ -1,0 +1,11 @@
+PERSON: ALBERTUS de Sancto Georgs
+Also known as: Albertus de SANCTO GEORGS.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1375-1375%.
+Studied at: Paris %1375-1375%..
+Academic grades obtained: Licencié en théologie (Paris) ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Religious order: O.F.M.. : fère franciscain ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/06/2020)..

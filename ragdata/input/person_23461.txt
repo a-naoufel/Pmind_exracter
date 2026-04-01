@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Rigaut
+Also known as: Guillelmus dictus RIGAUT; Guillelmus RIGAUDUS.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1266-1267%.
+Studied at: Paris..
+Academic grades obtained: Maître (Paris)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/05/2022..

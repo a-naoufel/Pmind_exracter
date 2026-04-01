@@ -1,0 +1,15 @@
+PERSON: VINCENTIUS Le Rebours
+Also known as: Vincentius LE REBOURS.
+Description: Chanoine d’Évreux.
+Status: Incertain.
+Gender: male.
+Active during: %1372-1381%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse d’Évreux ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son parent est peut-être Johannes LEREBOURS, doyen d’Évreux ;.
+Social origin: Noble ?.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Curé d’Évreux (Saint-Léger) %1372-1379% ;; Chanoine d’Évreux %1372-1379% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/03/2023)..

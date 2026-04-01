@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Quercu 2
+Also known as: Guillelmus de QUERCU; Guillaume du CHESNE.
+Description: Licencié en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1478-1492%.
+Born in: Gascogne ?.
+Studied at: Toulouse .; Paris %1485-1492%..
+Academic grades obtained: Licencié en théologie (Paris) (le 21 mars) ..
+College affiliation: Couvent (carme) de Paris %1485-1492% ?.
+Religious order: O.Carm. : frère carme de la province de Gascogne..
+University functions: Toulouse (Faculté de Théologie : Lecteur de la Bible en ?) ;; Paris (Faculté de Théologie : Lecteur de la Bible en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 14/04/2022..

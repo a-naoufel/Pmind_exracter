@@ -1,0 +1,10 @@
+PERSON: BALDUINUS de Sancto Marcello
+Also known as: Baldoynus de SANCTO MARCELLO.
+Description: Chanoine de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1326-1327%.
+Studied at: ?Paris..
+Academic grades obtained: Maître ès arts..
+Ecclesiastical positions held: Chanoine de Paris en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 1/12/2020)..

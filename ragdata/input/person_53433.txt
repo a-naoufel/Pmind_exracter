@@ -1,0 +1,10 @@
+PERSON: OLAVUS Ivari
+Also known as: OLAWUS Ivari; Olavus IVARI.
+Description: Étudiant?.
+Status: Étudiant.
+Gender: male.
+Active during: %:1319-1319%.
+Born in: Norvège.
+Studied at: Paris, av. ..
+Ecclesiastical status: Statut inconnu..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 21/02/2022..

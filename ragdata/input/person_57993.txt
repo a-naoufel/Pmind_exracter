@@ -1,0 +1,10 @@
+PERSON: RAIMUNDUS Brissonis
+Also known as: Raimundus BRISSONIS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1410-1410%.
+Studied at: Paris.
+Academic grades obtained: Étudiant (Paris) en ?.
+College affiliation: Collège d'Autun : chargé des comptes en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 04/09/2024..

@@ -1,0 +1,10 @@
+PERSON: HUMBERTUS de Cluniaco
+Also known as: Humbertus de CLUNIACO; Humbertus de CLUNY.
+Description: Clunisien.
+Status: Étudiant.
+Gender: male.
+Active during: %1347-1347%.
+Studied at: Paris %1347-1347%..
+Academic grades obtained: Étudiant (Paris) ..
+Religious order: Clunisien.
+Religious functions: Mandataire de Pierre de MAILLET, abbé de Beaulieu-en-Argonne au chapitre général de l'Ordre tenu à Cluny..

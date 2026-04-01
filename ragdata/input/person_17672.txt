@@ -1,0 +1,11 @@
+PERSON: BERNARDUS de Parliaco
+Also known as: Bernardus de PARLIACO; Bernard de PAILLY.
+Description: Curé de Saint-Eustache.
+Status: Étudiant.
+Gender: male.
+Active during: %1324-1324%.
+Studied at: Paris..
+Academic grades obtained: Étudiant en théologie (Paris) ?.
+College affiliation: Collège de Sorbonne : il a légué plusieurs manuscrits au Collège..
+Ecclesiastical positions held: Curé de Paris (Saint-Eustache) % -1324%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 14/09/2020..

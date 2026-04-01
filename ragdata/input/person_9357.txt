@@ -1,0 +1,12 @@
+PERSON: NICOLAUS Statterus
+Also known as: Nicolaus STATTERUS; Nicolas STATTER; Nicolas SCATTER.
+Description: Médecin.
+Status: Maître.
+Gender: male.
+Active during: %1376-1389%.
+Born in: Pays-Bas ?.
+Diocese of origin: Diocèse d'Utrecht..
+Studied at: Paris (Nation Anglo-allemande) %1376-1379% ;; Cologne ..
+Academic grades obtained: Maître ès arts (Paris) ;; Maître en médecine (Paris) ;; Étudiant en théologie (Paris) %1376-1379%..
+Ecclesiastical positions held: Chanoine d'Utrecht (Saint-Jean) en ;; Candidat à un canonicat de Tournai en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 26/11/2023)..

@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Grez 2
+Also known as: Guillelmus de GREZ.
+Description: Évêque d'Auxerre.
+Status: Extérieur.
+Gender: male.
+Active during: %1279-1293%.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son neveu est Pierre de GREZ, évêque d'Auxerre ; Son neveu est Jean de CORBEIL, maréchal de France ; Son parent est Henri de GREZ, évêque de Chartres ;.
+Ecclesiastical positions held: Doyen de Chartes % -1278% ;; Évêque d'Auxerre %1278-1293%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 26/03/2022..

@@ -1,0 +1,12 @@
+PERSON: ANDREAS de Licout
+Also known as: Andreas de LICOUT.
+Description: Étudiant en décret.
+Status: Maître.
+Gender: male.
+Active during: %1403-1403%.
+Born in: Limousin ?.
+Diocese of origin: Diocèse de Limoges..
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) .; Étudiant en décret en ..
+Ecclesiastical positions held: Clerc du diocèse de Limoges, candidat à un bénéfice ecclésiastique..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 3/08/2020)..

@@ -1,0 +1,11 @@
+PERSON: HENRICUS de Drocis
+Also known as: Henri de DREUX; Henri de BRAINE.
+Description: Archevêque de Reims.
+Status: Extérieur.
+Gender: male.
+Active during: %1210-1240%.
+Studied at: ?.
+Family relationships: Son père est ROBERT II, comte de Dreux ; Sa mère est Yolande de COUCY..
+Social origin: Noble : il appartient à la famille royale..
+Ecclesiastical positions held: Trésorier de Beauvais ;; Archidiacre de Reims %1225-1227 ;; Archevêque de Reims %1227-1240% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 06/11/2019..

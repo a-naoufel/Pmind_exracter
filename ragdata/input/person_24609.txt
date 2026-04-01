@@ -1,0 +1,14 @@
+PERSON: NICOLAUS de Dola
+Also known as: Nicolaus de DOLA.
+Description: Étudiant en théologie.
+Status: Étudiant.
+Gender: male.
+Active during: %1394-1426%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris (Nation de France) %1401-1403% ;.
+Academic grades obtained: Étudiant en théologie (Paris) en %1401-1403% ;.
+Family relationships: Son parent est peut-être Julianus de DOLA, chanoine d'Amiens ?.
+Ecclesiastical status: Diacre du diocèse de Paris en ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Magnus Rotulus (rotulus scolarium Parisiensum) de l’Université de Paris daté de (23 octobre) et présenté à BENOÎT XIII.; Chanoine de Paris (chapelle Saint-Aignan) en ;; Chanoine de Paris (églisecollégiale Saint-Denis-du-Pas) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 04/06/2023..

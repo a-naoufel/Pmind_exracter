@@ -1,0 +1,11 @@
+PERSON: PETRUS Des Pins
+Also known as: Pierre des PINS.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1271-1295%.
+Studied at: Toulouse..
+Academic grades obtained: ?.
+Religious order: O.P. : frère dominicain..
+University functions: Toulouse (lecteur en Arts en ) ;; Saint-Emilion (lecteur en Théologie en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/03/2024..

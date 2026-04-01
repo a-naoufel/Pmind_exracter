@@ -1,0 +1,10 @@
+PERSON: GUIBERTUS de Bona Curia
+Also known as: Guibertus de BONA CURIA ;; Guibert de BONNECOURT ;; W. de BONA CURTE.
+Description: Socius de Sorbonne.
+Status: Maître.
+Gender: male.
+Active during: %1270-1270%.
+Studied at: Paris ..
+Academic grades obtained: Licencié en théologie (Paris) ?.
+College affiliation: Sorbonne, socius % -1270% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 21/01/2022..

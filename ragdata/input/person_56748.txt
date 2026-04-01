@@ -1,0 +1,10 @@
+PERSON: ROBERTUS de Donis
+Also known as: Robertus de DONIS.
+Description: Chanoine de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1381-1381%.
+Studied at: ?.
+Academic grades obtained: Docteur en droit canon ;.
+Ecclesiastical positions held: Chanoine de Clermont ;; Chanoine de Chartres ;; Archidiacre de Billom ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/10/2023..

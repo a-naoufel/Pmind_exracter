@@ -1,0 +1,15 @@
+PERSON: GUILLELMUS de Cramant
+Also known as: Guillaume de CRAMANT; Guillaume de GRAMAYT; Guillelmus de CRAMANS.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1246-1269%.
+Born in: Champagne (Cramant) ?.
+Diocese of origin: Diocèse de Reims..
+Studied at: Paris ?.
+Academic grades obtained: Maître en théologie (Paris) ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Reims %1249-1265% ;; Chanoine de LeMans ;.
+University functions: Paris (Faculté de théologie : maître-régent vers )..
+Authored work: '(Sermon pour le dimanche après l'ascension)', composed around (20 avril)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 17/01/2019..

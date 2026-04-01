@@ -1,0 +1,14 @@
+PERSON: PETRUS Medici
+Also known as: Petrus MEDICI; Petrus LE MIRE; Petrus MEDICY.
+Description: Maître en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1403-1429%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Évreux ;.
+Studied at: Paris (Nation de Normandie) %:1403-1429% ;.
+Academic grades obtained: Bachelier ès arts (Paris) attesté en ;; Bachelier en théologie (Paris) ;; Licencié en théologie (Paris) (12 janvier) ;; Maître en théologie (Paris) (21 mai) ..
+Ecclesiastical status: Clerc du diocèse d'Évreux ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Magnus Rotulus (rotulus des bacheliers de la Nation de Normandie) de l’Université de Paris daté de (21 octobre) et présenté à BENOÎT XIII..
+University functions: Paris (Faculté de Théologie : lecteur de la Bible (2e cours) en (15 mai)) ;; Paris (Faculté de Théologie : lecteur des Sentences à Paris en (septembre) ;; Paris (Faculté de Théologie : Maîtrerégent en théologie en %1428-1429%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 19/12/2023..

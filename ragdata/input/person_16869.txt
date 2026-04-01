@@ -1,0 +1,10 @@
+PERSON: ANSELMUS Pipe
+Also known as: Ancelmus PIPE; Anselmus PIPE.
+Description: Étudiant en médecine.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris (Faculté de médecine) %1329-1330%..
+Academic grades obtained: Étudiant en médecine (Paris) ?.
+Family relationships: ?Parent de Johannes PIPE, régent de la Faculté de médecine..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 11/09/2020)..

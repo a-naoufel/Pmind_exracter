@@ -1,0 +1,16 @@
+PERSON: ANGELUS Aretinus
+Also known as: Angelo di AREZZO; Angelus ARETINUS..
+Description: Logicien bolonais.
+Status: Extérieur.
+Gender: male.
+Active during: %1325-1325%.
+Born in: Italia (Toscane, Arezzo ?)..
+Studied at: Bologne..
+Academic grades obtained: Maître ès arts (Bologne) ?.
+University functions: Bologne (Professeur de philosophie en ).
+Authored work: 'Comm. super lib. Praedicamentorum', composed around ?.
+Authored work: 'Quaest. 2 disputatae', composed around ?.
+Authored work: 'Quaest. 5 disputatae', composed around ?.
+Authored work: 'Scriptum in Isagoge Porphyrii', composed around ?.
+Authored work: 'Lectura super libros Institutionum Justiniani', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

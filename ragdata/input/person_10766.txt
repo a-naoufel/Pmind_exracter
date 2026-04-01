@@ -1,0 +1,11 @@
+PERSON: RICARDUS 1
+Also known as: RICARDUS; RICHARD, archidiacre d'Évreux; RICHARD, archidiacre du Neubourg.
+Description: Maître ès arts à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1218-1222%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en théologie (Paris) ..
+Ecclesiastical positions held: Archidiacre du Neubourg en la cathédrale d'Évreux %1218-1222% ;.
+University functions: Paris (Université : procureur et nonce à la Curie notamment pour la négociation avec la compagnie (florentine) des Octavante) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 4/04/2024)..

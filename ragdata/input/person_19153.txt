@@ -1,0 +1,11 @@
+PERSON: DESIDERIUS Dadaye
+Also known as: Didier DADAYE.
+Description: Clerc de la chapelle du collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1430-1438%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant.
+College affiliation: Collège de Dormans-Beauvais : hôte en %1430-1431% et en %1436-1438% ;; Collège de Dormans-Beauvais : clerc de la chapelle en %1431-1436% ;.
+Ecclesiastical positions held: Prêtre..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 09/05/2021)..

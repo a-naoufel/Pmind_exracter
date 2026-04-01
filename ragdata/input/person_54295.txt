@@ -1,0 +1,10 @@
+PERSON: ODO 9
+Also known as: ODO.
+Description: Official de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1250-1257%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Other ecclesiastical functions: Official de Sens %1250-1257% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 24/09/2022..

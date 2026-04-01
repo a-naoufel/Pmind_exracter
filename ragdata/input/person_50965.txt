@@ -1,0 +1,10 @@
+PERSON: GALTERIUS de Rovereto
+Also known as: Galterius de ROVERETO; Gautier de ROUVRÉ; Gautier de ROUVRES; Gautier de ROUVATU.
+Description: Médecin.
+Status: Extérieur.
+Gender: male.
+Active during: %1332-1343%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Curé de Oisy, au diocèse d’Auxerre ;; Chanoine d’Auxerre %1332-1337% ;; Chanoine de Troyes ;; Chanoine de Troyes (Saint-Étienne) %1332-1335% ;; Archidiacre de Puisaye au diocèse d’Auxerre %1335-1337% ;; Coûtre de Gand (Saint-Pierre) ;; Chanoine de Mézières ;; Chanoine de Rozoy (Saint-Laurent) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/07/2020)..

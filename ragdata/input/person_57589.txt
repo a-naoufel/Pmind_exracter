@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Wrigni
+Also known as: Nicolaus WRIGNI; Nicolaus de WRIGNI.
+Description: Chanoine de Coutances.
+Status: Maître.
+Gender: male.
+Active during: %1264-1264% ?.
+Studied at: Paris ?.
+Academic grades obtained: Maître ;.
+College affiliation: Collège de Sorbonne : il a donné des livres au Collège ?.
+Ecclesiastical positions held: Chanoine de Coutances ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/03/2024)..

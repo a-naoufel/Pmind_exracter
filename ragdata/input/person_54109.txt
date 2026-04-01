@@ -1,0 +1,10 @@
+PERSON: HUGO Fabri 3
+Also known as: Hugo FABRI; Hugues FABRI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1409-1409%.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès art (Paris) en ;.
+University functions: Paris (Université : recteur en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 05/09/2022..

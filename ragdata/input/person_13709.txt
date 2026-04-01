@@ -1,0 +1,9 @@
+PERSON: STEPHANUS Rabasson
+Also known as: Stephanus RABASSON.
+Description: Maître en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1478-1479%.
+Studied at: Paris %1478-1479%..
+Academic grades obtained: Licencié en théologie (Paris) (le 27 janvier) ;; Maître en théologie (Paris) (le 21 juin) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 6/11/2018..

@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS de Comehan
+Also known as: Guillelmus de COMEHAN; Guillelmus de COËTMAHAN.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1325-1330%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Tréguier ?.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant (Paris) %1329-1330% ?.
+College affiliation: Collège de Tréguier ?.
+Family relationships: Son oncle est Guillaume de COËTMOHAN, chantre de Tréguier ; Son frère est Nicolaus de COËTMOHAN ;.
+Social origin: Noble ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/03/2022)..

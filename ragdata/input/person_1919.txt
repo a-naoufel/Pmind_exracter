@@ -1,0 +1,10 @@
+PERSON: DIONYSIUS Gaufridi
+Also known as: Dionysius GAUFRIDI; Denis GEOFFROY; Denis GEUFFROY; Denis GYEFFROY; Denis GAUFFRIDI; Denis GAUFFREDI; Denis PIRI; Denis PIRRY.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1471-1515%.
+Studied at: Caen ;; Paris, %1471-1485%..
+Academic grades obtained: Étudiant en médecine (Caen) ;; Étudiant en médecine (Paris) %1471-1472% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+University functions: Paris (Faculté de médecine : Maîtrerégent à partir de ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 30/05/2021..

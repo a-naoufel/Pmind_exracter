@@ -1,0 +1,12 @@
+PERSON: ADAM de Guise
+Also known as: Adam de GUISE.
+Description: Étudiant au Collège de Laon..
+Status: Gradué.
+Gender: male.
+Active during: %1360-1360%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon..
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Étudiant (Paris) ?; Licencié en arts (Paris) en ;.
+College affiliation: Collège de Laon : reçu au collège en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 12/12/2020..

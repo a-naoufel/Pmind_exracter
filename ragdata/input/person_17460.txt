@@ -1,0 +1,9 @@
+PERSON: G. Le Reverench
+Also known as: G. LE REVERENCH.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1416-1416%.
+Studied at: Paris %1416-1416%..
+Academic grades obtained: Bachelier en décret (Paris) 15 mai ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 27/09/2021..

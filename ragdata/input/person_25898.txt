@@ -1,0 +1,10 @@
+PERSON: NICOLAUS de Reville
+Also known as: Nicole de RÉVILLE.
+Description: Carme.
+Status: Étudiant.
+Gender: male.
+Active during: %1383-1386%.
+Studied at: Paris..
+Academic grades obtained: Étudiant en théologie (Paris) ?.
+College affiliation: Couvent des Carmes en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 14/10/2023)..

@@ -1,0 +1,14 @@
+PERSON: AEGIDIUS de Dullendio
+Also known as: Aegidius LE VIEZIER de Dullendio; Gilles LE VIEZIER de DULLENDIO; Gilles LE VIEZIER de DULENDIO; Gilles LE VIEZIER de DURLENDIO; Gilles LE VIEZIER de DORLENDIO; Aegidius de DULCEDIO.
+Description: Maître régent en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1387-1405%.
+Born in: Picardie (Doullens)..
+Diocese of origin: Diocèse d'Amiens..
+Studied at: Paris (Nation de Picardie) %:1387-1405%..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en médecine (Paris) ;; Maître en médecine (Paris) ..
+Ecclesiastical status: Clerc du diocèse d'Amiens..
+Ecclesiastical positions held: Candidat à un bénéfice ecclésiastique en ..
+University functions: Maîtrerégent de la Faculté de Médecine à Paris, %1394-1405%.; Paris (Faculté de Médecine : il commence ses cours en (4 novembre)).; Paris (Faculté de Médecine : examinator en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision Jean-Philippe Genet, 27/04/2020)..

@@ -1,0 +1,10 @@
+PERSON: GUIDO Bodini
+Also known as: Guido BODINI.
+Description: Chanoine de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1278-1278%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Rodez ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 31/05/2022..

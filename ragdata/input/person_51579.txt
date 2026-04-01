@@ -1,0 +1,12 @@
+PERSON: PETRUS de Tapilly
+Also known as: Petrus de TAPILLY.
+Description: Clerc de la chapelle du collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1459-1459%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dormans-Beauvais : clerc de la chapelle ;.
+Ecclesiastical status: Clerc..
+Ecclesiastical positions held: Clerc de la chapelle du collège de Dormans-Beauvais en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 25/11/2020)..

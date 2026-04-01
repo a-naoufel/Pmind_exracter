@@ -1,0 +1,11 @@
+PERSON: STEPHANUS de Guibervilla
+Also known as: Stephanus de GUIBERVILLA; Etienne de GUIBERVILLE.
+Description: Chanoine de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1296-1302%.
+Studied at: Paris avant ;.
+Academic grades obtained: Maître en théologie (Paris) avant ;.
+Family relationships: Son frère est Simon de GUIBERVILLE..
+Ecclesiastical positions held: Chanoine de Paris (Notre-Dame) %1296-1298%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 05/04/2024..

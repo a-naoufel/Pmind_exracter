@@ -1,0 +1,14 @@
+PERSON: HUMBERTUS de Brione
+Also known as: Humbertus de BRIONE.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1426-1426%.
+Studied at: Avignon avant ;; Paris %1426-1426%..
+Academic grades obtained: Bachelier en décret (Avignon) attesté en ;; Bachelier en décret (Paris) (8 septembre) ;.
+College affiliation: Commanderie Saint-Antoine..
+Social origin: Noble..
+Religious order: Chanoinerégulier (O.S.A.) de Saint-Antoine-en-Viennois ;.
+Religious functions: Preceptor de la commanderie (Antonine) d'Aumonières (diocèse de Langres), ;.
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (L. V) en (11 octobre) pour la 2e année et le 2e volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 01-06-2015 ; révision Jean-Philippe Genet, 2/02/2021..

@@ -1,0 +1,9 @@
+PERSON: AEGIDIUS Malehospitis
+Also known as: Aegidius MALEHOSPITIS.
+Description: Licencié in utroque.
+Status: Gradué.
+Gender: male.
+Active during: %1420-1420% ?.
+Studied at: Paris ..
+Academic grades obtained: Licencié in utroque (Paris ?)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 8/05/2020)..

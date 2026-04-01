@@ -1,0 +1,11 @@
+PERSON: ARNALDUS de Spira
+Also known as: Arnoldus de SPIRA.
+Description: Maître ès arts ?.
+Status: Maître.
+Gender: male.
+Active during: %1437-1437%.
+Born in: Rhénanie (Spire ?) ?.
+Diocese of origin: Diocèse de Spire ?.
+Studied at: Paris (Nation Anglo-allemande ?) ..
+Academic grades obtained: Maître ès arts (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 5/11/2020..

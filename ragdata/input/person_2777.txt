@@ -1,0 +1,10 @@
+PERSON: GERARDUS Du Breuil
+Also known as: GERARDUS; Géraud du BREUIL; Guiraldus de BROGLIO.
+Description: Évêque d'Apt.
+Status: Extérieur.
+Gender: male.
+Active during: %1383-1390%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Évêque d'Apt %1383-1390%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 9/01/2022..

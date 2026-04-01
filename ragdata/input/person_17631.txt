@@ -1,0 +1,11 @@
+PERSON: GUIDO Viroti
+Also known as: Guido VIROTI.
+Description: Maître ès arts..
+Status: Maître.
+Gender: male.
+Active during: %1417-1417%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Chalon-sur-Saône..
+Studied at: Paris (Nation de France) %1417-1417%..
+Academic grades obtained: Maître ès arts (Paris) attesté en novembre ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 04/02/2022..

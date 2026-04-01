@@ -1,0 +1,14 @@
+PERSON: NATALIS Godefroy
+Also known as: Noël GODEFROY.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1496-1515%.
+Born in: Anjou-Maine ?.
+Diocese of origin: Diocèse de LeMans ;.
+Studied at: Paris (Nation de France)..
+Academic grades obtained: Maître arts (Paris) .; Licencié en théologie (Paris) (26 janvier) ;; Maître en théologie (Paris) (3 mars) ;.
+College affiliation: Collège de Presles : étudiant en arts ;; Collège de Reims : étudiant en arts ;; Collège de Bayeux : principal vers %1510-1512%..
+Academic relationships: Son maître est Simon de SAINT-PAUL au Collège de Presles ; Son maître est Pierre TARTARET au Collège de Reims ;.
+Ecclesiastical positions held: Curé de Chastignonville (diocèse de Chartres) ;; Curé de Juvigny-sous-Andaine ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/12/2023..

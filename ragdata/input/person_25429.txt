@@ -1,0 +1,10 @@
+PERSON: PETRUS Episcopi
+Also known as: Petrus EPISCOPI.
+Description: Docteur en décret.
+Status: Maître.
+Gender: male.
+Active during: %1403-1403%.
+Studied at: Paris %1403-1403% ;.
+Academic grades obtained: Licencié ès lois ;; Docteur en décret (Paris) ;.
+Ecclesiastical positions held: Chanoine de Reims ;; Curé de Poligney ;; Chapelain de Saint-ThomasdeMontluc (Saint-ÉtiennedeMontluc) en ;; Chapelain de BeataeMariaedeMorzella au diocèse de Rennes ;; Chapelain de la chapelle fondé par Guillelmus DOMINE dans l’église de Dol ;; Candidat à un bénéfice sur le Magnus Rotulus de l’Université de Paris daté de (21 octobre) et présenté à BENOÎT XIII parmi les maîtres en décret ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 9/01/2019..

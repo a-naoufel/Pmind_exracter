@@ -1,0 +1,11 @@
+PERSON: RISTORO d'Arezzo
+Also known as: Ristoro d'AREZZO.
+Description: Moine ?.
+Status: Extérieur.
+Gender: male.
+Born in: Italie (Toscane : Arezzo) ?.
+Studied at: ?.
+Academic grades obtained: Magister ?.
+Religious order: Frater ?.
+Authored work: 'Della composizione del Mondo colle sue cascioni', composed around %1282..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/02/2022)..

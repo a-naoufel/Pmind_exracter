@@ -1,0 +1,11 @@
+PERSON: PETRUS Maugis
+Also known as: Pierre MAUGIS.
+Description: Procureur du Collège de Dormans-Beauvais.
+Status: Incertain.
+Gender: male.
+Active during: %1377-1400%.
+Studied at: ?.
+College affiliation: Collège de Dormans-Beauvais : procureur-boursier en %1377-1380% ;.
+Ecclesiastical status: Prêtre en ;.
+Ecclesiastical positions held: Curé d’Argentières au diocèse de Sens en %1380-1386% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 12/10/2019..

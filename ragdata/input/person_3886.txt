@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Frater
+Also known as: Guillelmus dictus FRATER.
+Description: Maître-régent en Décret.
+Status: Maître.
+Gender: male.
+Active during: %1282-1310%.
+Born in: Écosse..
+Studied at: Paris..
+Academic grades obtained: Maître en Décret (Paris ?) avant ;.
+Ecclesiastical positions held: Archidiacre du Lothian vers %1282-1285%, peut-être jusqu'à sa mort? ;; Recteur de Kinleith ;.
+University functions: Paris (Faculté de Décret : maître-régent en ) ;.
+Representation roles: Envoyé à Rome pour le diocèse de Saint-Andrews en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet 18/09/2024.

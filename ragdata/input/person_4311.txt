@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Meleduno 3
+Also known as: Guillelmus de MELEDUNO.
+Description: Archevêque de Sens.
+Status: Extérieur.
+Gender: male.
+Active during: %1333-1376%.
+Studied at: ?; Étudiant en et en ;.
+Academic grades obtained: Maître ès arts ?.
+Family relationships: Son père est le vicomte Jean de MELUN : Sa mère est Jeanne CRESPIN, dame de Tancarville ; Son oncle est Guillaume de MELUN, archevêque de Sens ; Son oncle est Philippe de MELUN, archevêque de Sens ; Son fils (bâtard) est Jean de NOSLON ;.
+Social origin: Noble..
+Ecclesiastical status: Sous-diacre en ;.
+Ecclesiastical positions held: Chanoine d’Orléans %1333- % ;; Chanoine d’Amiens %1333-1345% ;; Chanoine de Paris %1336- % ;; Archevêque de Sens %1345-1376% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 24 octobre 2022..

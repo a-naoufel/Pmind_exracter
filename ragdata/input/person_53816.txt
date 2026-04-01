@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Dorbec
+Also known as: Guillelmus DORBEC.
+Description: Chanoine de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1481-1498%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Rodez %1481-1498% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 31/05/2022..

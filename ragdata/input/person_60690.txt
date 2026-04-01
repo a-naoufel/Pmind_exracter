@@ -1,0 +1,11 @@
+PERSON: REGINALDUS de Parisius
+Also known as: Reginaldus de PARISIUS.
+Description: Chanoine de Chartres.
+Status: Gradué.
+Gender: male.
+Active during: %1424-1424%.
+Studied at: Paris ..
+Academic grades obtained: Licencié ès lois en ;; Bachelier en décret (Paris) en ;.
+Ecclesiastical positions held: Chanoine de Chartres en ;.
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (L. III) en (5 avril), pour la 3e année et le 3e volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour, 18/12/2025..

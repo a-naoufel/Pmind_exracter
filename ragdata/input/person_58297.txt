@@ -1,0 +1,12 @@
+PERSON: HARDEWINUS
+Also known as: HARDEWINUS.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1136-1140%.
+Born in: Allemangne ?.
+Studied at: Paris vers %1136-1140%..
+Academic grades obtained: Maître (Paris)..
+Academic relationships: Son élève est Johannes SARESBERIENSIS..
+University functions: Paris (Maître en arts libéraux vers %1136-1140%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 06/12/2024..

@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Ripault
+Also known as: Guillelmus RIPAULT.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %:1452-1452%.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) ;.
+University functions: Paris (Faculté des Arts (Nation de France) : examinator baccalariorum pour la province de Bourges en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 14/05/2018..

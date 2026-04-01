@@ -1,0 +1,14 @@
+PERSON: INGERANNUS de Cantiers 1
+Also known as: Ingerannus de CANTIERS; Enguerrand de CANTIERS; ANJORRANDUS; ANGEROND.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1273-1290%.
+Diocese of origin: Diocèse de Rouen ?.
+Studied at: Paris ..
+Academic grades obtained: Maître en théologie (Paris) ?.
+Ecclesiastical positions held: Chanoine de Rouen ?; Pénitencier de Rouen ?.
+Authored work: '(Sermon)', composed around aux Béguines..
+Authored work: '(Sermon sur Eph. 4. 3)', composed around ?.
+Authored work: '(Sermo et Collatio)', composed around /Cette attribution est due à J.-B. SCHNEYER mais selon Louis-Jacques BATAILLON elle ne résisterait pas au fait que dans le manuscrit du Vatican ANCORANDUS est qualifié de frater..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 05/01/2022..

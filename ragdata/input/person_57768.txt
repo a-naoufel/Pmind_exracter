@@ -1,0 +1,11 @@
+PERSON: ROBERTUS de Duaco 2
+Also known as: Robert de DUACO.
+Description: Médecin.
+Status: Incertain.
+Gender: male.
+Active during: %1260-1260%.
+Born in: Flandre (Douai) ?.
+Diocese of origin: Diocèse d'Arras ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 25/04/2024).

@@ -1,0 +1,13 @@
+PERSON: THEODERICUS Kistemaker
+Also known as: Theodericus KISTEMAKER.
+Description: Chanoine d’Arnhem.
+Status: Maître.
+Gender: male.
+Active during: %1447-1464%.
+Born in: Pays-Bas ?.
+Diocese of origin: Diocèse de Utrecht en ;.
+Studied at: Cologne %1447-1448%.; Paris (Nation Anglo-allemande) %1453-1428% ;.
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Ecclesiastical status: Prêtre en %1461 ;.
+Ecclesiastical positions held: Chanoine d’Arnheim (Sainte-Walburga) ;.
+Source: RAG ;.

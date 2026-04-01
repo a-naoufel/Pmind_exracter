@@ -1,0 +1,11 @@
+PERSON: HERBERTUS 1
+Also known as: HERBERTUS.
+Description: Grammaticus.
+Status: Maître.
+Gender: male.
+Active during: %1070-1070%.
+Studied at: Paris..
+Academic grades obtained: Maître de grammaire..
+Ecclesiastical status: Prêtre..
+University functions: Paris (École Notre-Dame : maître de grammaire, il est décrit comme “Grammaticus”) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 26/11/2024..

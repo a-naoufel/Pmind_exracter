@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Le Cesne
+Also known as: Guillelmus LECESNE.
+Description: Maître des enfants de la Chapelle royale.
+Status: Maître.
+Gender: male.
+Active during: %1356-1379%.
+Studied at: ?Paris..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en théologie pendant six ans en ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Candidat à un canonicat de Paris sur le rotulus de ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 3/04/2020..

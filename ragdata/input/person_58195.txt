@@ -1,0 +1,12 @@
+PERSON: PETRUS de Grangia
+Also known as: Petrus de GRANGIA.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1430-1433%.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier en décret (Paris) en (21 août) ;.
+Ecclesiastical status: Prêtre en ;.
+Ecclesiastical positions held: Curé de Cheuronnes (diocèse de Autun) en ;.
+University functions: Paris (Lecteur des Décrétales (livre III) en (19 septembre) pour la 1ere année et le 1er volume) ;; Paris (Lecteur des Décrétales (livre I) en (13 octobre) pour la 2e année et le 2e volume) ;; Paris (Lecteur des Décrétales (livre VI) en (7 octobre) pour la 4e année et le 4e volume) ;; Paris (Lecteur des Décrétales (livre II) en (17 octobre) pour la 5e année et le 5e volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 17/12/2024..

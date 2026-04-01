@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Loysel
+Also known as: Guillelmus LOYSEL.
+Description: Docteur en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1478-1479%.
+Studied at: Paris %1478-1479%..
+Academic grades obtained: Licencié en théologie (Paris) (le 27 janvier) ;; Docteur en théologie (Paris) (le 14 juin) ..
+College affiliation: Couvent (augustin) de Paris..
+Religious order: O.E.S.A. : frère augustin..

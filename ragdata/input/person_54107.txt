@@ -1,0 +1,11 @@
+PERSON: GUIDO de Bar
+Also known as: Guy de BAR, seigneur de Presles; Le Veau de BAR.
+Description: Capitaine bourguignon.
+Status: Extérieur.
+Gender: male.
+Active during: %1401-1436%.
+Born in: Bourgogne (?Cussy-les-Forges, près d’Avallon) ;.
+Family relationships: Son père est Guy de BAR, seigneur de Presles et seigneur de Bierzy) ; Sa mère est Marie de DIGOINE. Son épouse (première) est Yolande de CHÂTEAUVILLAIN ; Son épouse (seconde) est Jeanne de TERNANT ;.
+Social origin: Noble ;.
+Representation roles: Ambassadeur auprès du duc de Savoie en ..
+Source: WIKIPEDIA ;.

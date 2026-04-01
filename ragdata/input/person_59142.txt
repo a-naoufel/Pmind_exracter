@@ -1,0 +1,10 @@
+PERSON: SEGUINUS
+Also known as: SEGUINUS.
+Description: Chanoine de Châlons.
+Status: Incertain.
+Gender: male.
+Active during: %1253-1263%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Châlons-en-Champagne %1253-1264% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/06/2025.

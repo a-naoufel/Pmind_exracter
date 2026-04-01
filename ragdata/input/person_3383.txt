@@ -1,0 +1,13 @@
+PERSON: GUIDO Roumardi
+Also known as: Guido ROUMARDI.
+Description: Prêtre.
+Status: Étudiant.
+Gender: male.
+Active during: %1379-1379%.
+Born in: Picardie ;.
+Diocese of origin: Diocèse de Laon..
+Studied at: Paris (Nation de Picardie) ?.
+Academic grades obtained: Étudiant ès arts ?.
+Ecclesiastical status: Prêtre du diocèse de Laon..
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus des maîtres, licenciéz, bacheliers et étudiants en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/02/2022)..

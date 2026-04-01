@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Loisel
+Also known as: Guillelmus LOISEL.
+Description: Curé de Prunay.
+Status: Incertain.
+Gender: male.
+Active during: %1410-1410%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Curé de Prunay ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 29/10/2022..

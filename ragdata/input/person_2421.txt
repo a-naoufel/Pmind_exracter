@@ -1,0 +1,10 @@
+PERSON: G. de La Mare
+Also known as: G. de LA MARE.
+Description: Maître parisien.
+Status: Maître.
+Gender: male.
+Active during: %1213-1213%.
+Studied at: Paris %:1213-1213%..
+Academic grades obtained: Maître (Paris)..
+University functions: Paris (Université : Maître parisien attesté en août ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/09/2021..

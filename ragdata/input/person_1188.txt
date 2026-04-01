@@ -1,0 +1,12 @@
+PERSON: BARTHOLOMAEUS de Asinariis
+Also known as: Barthélemy de ASINARIIS; Tholomaeus de ASINARIIS.
+Description: Magister.
+Status: Extérieur.
+Gender: male.
+Active during: %1307-1307%.
+Born in: Italie (?Asti)..
+Studied at: ?.
+Academic grades obtained: Magister.
+University functions: Professeur de droit ?.
+Authored work: 'Comment. in Boethium De consolatione philosophiae', composed around ..
+Source: http://www:mirabileweb.it.

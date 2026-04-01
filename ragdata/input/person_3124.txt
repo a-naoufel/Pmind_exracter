@@ -1,0 +1,13 @@
+PERSON: AEGIDIUS de Grimberge
+Also known as: Gilles de GRIMBERGE; Egidius de GRIMBERGE; Egidius de GREMBERGE.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1326-1331%.
+Born in: Brabant (Grimbergen)..
+Diocese of origin: Diocèse de Liège..
+Studied at: Paris %1326-1331%..
+Academic grades obtained: Bachelier en médecine (Paris) ..
+Academic relationships: Son maître est Marinus de MEDIOLANO ; Son maître est Johannes de DIA ; Son maître est Henricus de CUMINO ; Son maître est BELINUS ;.
+University functions: Maîtrerégent de la Faculté de Médecine à Paris, ;; Paris (Faculté de Médecine : il figure parmi les magistri en médecine régents ou non régents qui assistent Reginaldus de CORNEMARE dans la nomination des procureurs de la Faculté de Médecine pour le procès qui s’ouvre contre le chancelier de l’Université de Paris en (9 janvier) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 28/04/2015)..

@@ -1,0 +1,10 @@
+PERSON: STEPHANUS Du Vergier
+Also known as: Estienne du VERGIER.
+Description: Chapelain de Notre-Dame de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1482-1482%.
+Studied at: ?.
+Academic grades obtained: Licencié en lois ;.
+Ecclesiastical positions held: Chapelain de Paris (Notre-Dame : autel Saint-Laurent en la chapelle Saint-Pierre-le-Martyr) ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

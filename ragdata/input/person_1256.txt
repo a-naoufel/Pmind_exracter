@@ -1,0 +1,12 @@
+PERSON: BELLUS Homo
+Also known as: Bellus HOMO.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1274-1303%.
+Born in: Aquitaine ?.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.P. : frère du couvent (dominicain) de Bergerac..
+University functions: Saint-Emilion (Couvent dominicain : Lecteur en Théologie en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 6/01/2021..

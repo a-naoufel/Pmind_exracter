@@ -1,0 +1,10 @@
+PERSON: DIONYSIUS Du Cellier
+Also known as: Denis DU CELLIER.
+Description: Maître du collège de Fortet.
+Status: Étudiant.
+Gender: male.
+Active during: %1453-1455%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Fortet, maître intérimaire (septembre) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/04/2023)..

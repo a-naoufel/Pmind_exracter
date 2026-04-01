@@ -1,0 +1,10 @@
+PERSON: SIMON Demerii
+Also known as: Simon DEMERIII.
+Description: Boursier en théologie du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1414-1414%.
+Studied at: Paris.
+Academic grades obtained: Étudiant en théologie (Paris) ?.
+College affiliation: Collège d'Autun : boursier en théologie en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 04/09/2024..

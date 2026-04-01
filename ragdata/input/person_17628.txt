@@ -1,0 +1,10 @@
+PERSON: GUILLEBERTUS Egidii
+Also known as: Guillebertus EGIDII; Guillebertus de ANDELIACO.
+Description: Bachelier en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1416-1416%.
+Studied at: Paris %1416-1416%..
+Academic grades obtained: Maître ès arts (Paris) attesté en ;; Bachelier en décret (Paris) attesté en ..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (1e année) en (23 décembre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe GENET, 06/02/2022..

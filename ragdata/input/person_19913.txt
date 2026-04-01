@@ -1,0 +1,9 @@
+PERSON: HUGO de Monte
+Also known as: Hugo de MONTE; Hugo de MOTE.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland; révision, Jean-Philippe Genet, dernière mise à jour 1/09/2022)..

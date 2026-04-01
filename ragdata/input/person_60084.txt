@@ -1,0 +1,11 @@
+PERSON: ROWANDUS
+Also known as: ROWANDUS.
+Description: Magister.
+Status: Incertain.
+Gender: male.
+Active during: %1290-1290%.
+Born in: Norvège ?.
+Studied at: ?.
+Academic grades obtained: Magister.
+Representation roles: Envoyé d’ERIK Magnusson, roi de Norvège à ÉDOUARD II, roi d’Angleterre, ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 06/10/2025..

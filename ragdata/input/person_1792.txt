@@ -1,0 +1,10 @@
+PERSON: CONRADUS de Lutselenborch
+Also known as: Conradus de LUTSELENBORCH; Conradus de LUXEMBOURG.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1377-1377%.
+Born in: Lxembourg ?.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Étudiant (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/04/2021..

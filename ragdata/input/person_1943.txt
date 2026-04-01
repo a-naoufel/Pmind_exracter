@@ -1,0 +1,9 @@
+PERSON: DIONYSIUS 2
+Also known as: DIONYSIUS.
+Description: Notaire.
+Status: Extérieur.
+Gender: male.
+Active during: %1354-1354%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/05/2021)..

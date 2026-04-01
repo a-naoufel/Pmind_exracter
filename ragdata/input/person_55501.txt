@@ -1,0 +1,13 @@
+PERSON: ODO de Synoz
+Also known as: Odo de SYNOZ.
+Description: Chanoine d’Évreux.
+Status: Incertain.
+Gender: male.
+Active during: %1286-1286%.
+Born in: Normandie (Rouen ?) ;.
+Diocese of origin: Diocèse de Rouen ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Clerc en ;.
+Ecclesiastical positions held: Chanoine d’Évreux ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/03/2023)..

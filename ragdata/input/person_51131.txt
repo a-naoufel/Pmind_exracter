@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Estervilla
+Also known as: Guillaume d'ESTERVILLE.
+Description: Membre du Collège de Maître-Gervais.
+Status: Étudiant.
+Gender: male.
+Active during: %1402-1409%.
+Studied at: Paris %1402-1409%..
+Academic grades obtained: Étudiant (Paris) %1402-1409%..
+College affiliation: Collège de Maître-Gervais : socius %1402-1409% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Marion Bernard-Schweitzer 16/09/2020..

@@ -1,0 +1,7 @@
+PERSON: AGNES de Vitriaco
+Also known as: Agnès de VITRY.
+Description: Bourgeoise de Paris.
+Status: Extérieur.
+Gender: female.
+Active during: %1255-1255%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Dernière mise à jour, Jean-Philippe Genet, 19/05/2020)..

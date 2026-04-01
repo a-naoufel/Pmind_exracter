@@ -1,0 +1,10 @@
+PERSON: PETRUS Ros
+Also known as: Petrus ROS.
+Description: Carme.
+Status: Étudiant.
+Gender: male.
+Active during: %1383-1386%.
+Studied at: Paris..
+Academic grades obtained: Étudiant en théologie (Paris) ?.
+College affiliation: Couvent des Carmes en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 07/04/2024..

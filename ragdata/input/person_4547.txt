@@ -1,0 +1,10 @@
+PERSON: HELMANUS
+Also known as: HELMANUS.
+Description: Chanoine.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris.
+Academic grades obtained: Étudiant.
+Ecclesiastical positions held: Chanoine ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 19/06/2022)..

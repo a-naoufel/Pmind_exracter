@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Le Seigneur
+Also known as: Guillaume LESEIGNEUR.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1383-1403%.
+Studied at: Paris ?.
+Academic grades obtained: Maître ès arts (Paris ?) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/01/2022..

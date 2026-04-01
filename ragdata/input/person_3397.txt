@@ -1,0 +1,10 @@
+PERSON: GUIDO de Castroforti
+Also known as: Guido de CASTROFORTI.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1379-1379%.
+Studied at: Paris %:1379-1379%..
+Academic grades obtained: Maître ès arts (Paris) ;; Maître en médecine (Paris) ;.
+Representation roles: Paris (Université : il est l’un des maîtres appelés à débattre en (24 mai) de la position que doit adopter l’Université de Paris à l’égard de l’élection de CLÉMENT VII, siégeant dans le collège des maîtres ès arts et en médecine) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 29/08/2021..

@@ -1,0 +1,9 @@
+PERSON: ANTHONIUS de Rupe
+Also known as: Anthonius de RUPE; Anthonius de ULMO.
+Description: Nuntius.
+Status: Suppôt.
+Gender: male.
+Active during: %1443-1447%.
+Studied at: Paris (Nation de France)..
+University functions: Paris (Nation de France) : nuntius pour le diocèse de Valence..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 29/09/2020)..

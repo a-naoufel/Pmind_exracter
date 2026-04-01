@@ -1,0 +1,11 @@
+PERSON: ADAM Tegularii
+Also known as: Adam TEGULARII.
+Description: Clunisien.
+Status: Maître.
+Gender: male.
+Active during: %1447-1447%.
+Studied at: Paris (Nation de France)..
+Academic grades obtained: M.A. (P)..
+Religious functions: Prieur du prieuré (clunisien) de Paris (Saint-Denis-la-Châtre)..
+Ecclesiastical positions held: O.S.B. Clunisien..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/04/2020)..

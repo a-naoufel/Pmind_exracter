@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS de Bridport
+Also known as: Giles de BRIDPORT.
+Description: Évêque de Salisbury.
+Status: Étudiant.
+Gender: male.
+Active during: %1238-1262%.
+Born in: Angleterre (Dorset : Bridport) ;.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant ?.
+Ecclesiastical positions held: Archidiacre de Berkshire %1238-1253% ;; Doyen de Wells %1253-1256% ;; Évêque de Salisbury %1256-1262% ;.
+Representation roles: Mission à Rome en %1256-1257% pour les négociations sur l’affaire de Sicile..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/09/2024)..

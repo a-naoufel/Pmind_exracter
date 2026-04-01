@@ -1,0 +1,10 @@
+PERSON: ADAM de Corbolio
+Also known as: Adam de CORBEIL; Adam de CORBOLIIS.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1258-1290%.
+Studied at: ?Paris.
+Academic grades obtained: Magister ..
+Ecclesiastical positions held: Archidiacre de Provins en ;; Chanoine de Chartres ;; Chanoine de Paris (Saint-Marcel) ;; Chanoine de Tournai ;; Chanoine de Lille (Saint-Pierre) %1264- % ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

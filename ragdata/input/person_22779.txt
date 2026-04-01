@@ -1,0 +1,12 @@
+PERSON: GUIDO de Argentolio
+Also known as: Guido de ARGENTOLIO.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1271-1271%.
+Born in: Île-de-France (Argenteuil ?) ?.
+Diocese of origin: Diocèse de Paris ?.
+Studied at: ?Paris..
+Academic grades obtained: Magister ?.
+Ecclesiastical status: Clericus?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/01/2022..

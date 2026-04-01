@@ -1,0 +1,16 @@
+PERSON: MICHAEL Cornubiensis
+Also known as: Michael CORNUBIENSIS; Michel de CORNOUAILLES; Michel BLAUNPAYN; Michel LEPOTER.
+Description: Maître ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1243-1265%.
+Born in: Angleterre (Cornouaille)..
+Studied at: ?.
+Academic grades obtained: Maître ès arts ?.
+Academic relationships: Son maître est Henri d'AVRANCHES..
+Authored work: '(Vers sur la chute de l'homme)', composed around ?.
+Authored work: 'Invectiva contre magistrum Henricum Abrincensem', composed around %1254-1255% à Londres..
+Authored work: 'De cruce J. Mansel curando', composed around ..
+Authored work: 'Lamentatio de morte Montforti', composed around ;.
+Authored work: 'Laus Cornubiae', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 25/09/2023..

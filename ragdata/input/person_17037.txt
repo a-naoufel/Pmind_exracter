@@ -1,0 +1,9 @@
+PERSON: AMADEUS Nobilis
+Also known as: Amedeus NOBILIS.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris..
+Academic grades obtained: Magister.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2020)..

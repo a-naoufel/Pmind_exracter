@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Jordani
+Also known as: Nicolaus JORDANI; Nicolaus JOURDAIN.
+Description: Chanoine d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1329-1358%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Lisieux %1329-1334% ;; Chanoine d’Amiens %1331-1337% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/12/2021..

@@ -1,0 +1,13 @@
+PERSON: REMBOLDUS de Lenepe
+Also known as: REMBOLDUS de Lenepe; Remboldus de LENEPE.
+Description: Curé.
+Status: Gradué.
+Gender: male.
+Active during: %1348-1362%.
+Born in: Finlande?.
+Studied at: Paris, %1348-1349%.
+Academic grades obtained: B.A. (P), ;; L.A. (P), ..
+Academic relationships: Élève de maître ANDREAS Freouati (déterminance), ; Élève de maître CONRADUS Conradi (licence), ..
+Social origin: ?Bourgeoisie.
+Ecclesiastical positions held: Curé de Halko (Finlande), ;; Curé de Karis (Finlande), ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 15/05/2014; révision 14/10/2016..

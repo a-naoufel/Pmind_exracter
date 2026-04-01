@@ -1,0 +1,10 @@
+PERSON: COLINUS Barilet
+Also known as: Colinus BARILET.
+Description: Bedeau de la Nation de France.
+Status: Suppôt.
+Gender: male.
+Active during: %1418-1418%.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: ?.
+University functions: Paris (Nation de France : bedeau en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 20/04/2021..

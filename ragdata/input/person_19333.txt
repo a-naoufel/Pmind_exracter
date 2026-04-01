@@ -1,0 +1,11 @@
+PERSON: ANTHONIUS Vineti de Pireto
+Also known as: Anthonius VINETI de Pireto; Anthonius de PIRETO; Anthonius VINITTI de Pereto; Anthonius de PERRETO.
+Description: Ministre général des Franciscains.
+Status: Extérieur.
+Gender: male.
+Active during: %1405-1420%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.F.M. : frère franciscain..
+Religious functions: Ministregénéral des Franciscains %1405-1408% ;; Vicaire du Ministre général des Franciscains %1415-1420%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/10/2020)..

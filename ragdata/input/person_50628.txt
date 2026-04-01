@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Epulcre
+Also known as: Guillaume EPULCRE.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1335-1335%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Sorbonne : socius ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 10/03/2020..

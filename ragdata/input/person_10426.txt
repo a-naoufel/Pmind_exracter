@@ -1,0 +1,16 @@
+PERSON: PETRUS de Swanyngton
+Also known as: Peter de SWANYNGTON; Peter de STARRINGTON; Peter de SWANNINGTON; Petrus CARMELITA.
+Description: Carme.
+Status: Extérieur.
+Gender: male.
+Active during: %1290-1305%.
+Born in: Angleterre..
+Studied at: Oxford..
+Academic grades obtained: Docteur en théologie (Oxford) ..
+Religious order: Carme : frère du couvent (carme) de Burnham (Norfolk)..
+Authored work: '(Commentaire sur les Sentences)', composed around ?.
+Authored work: '47 Quodlibeta', composed around ?.
+Authored work: 'Ordinariae quaestiones', composed around ?.
+Authored work: 'Lectiones Scripturarum', composed around ?.
+Authored work: 'Quodlibet', composed around ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 20/06/2019..

@@ -1,0 +1,12 @@
+PERSON: PETRUS Ati
+Also known as: Petrus ATI.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1274-1304%.
+Born in: Languedoc ?.
+Studied at: Paris..
+Academic grades obtained: Toulouse ?; Étudiant (Paris) ;.
+College affiliation: Couvent (dominicain) de Paris (Jacobins) ..
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Toulouse..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 24/04/2024..

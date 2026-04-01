@@ -1,0 +1,9 @@
+PERSON: ARNALDUS de Arsen
+Also known as: Arnoldus de ARSEN.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1400-1400%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 29/10/2020)..

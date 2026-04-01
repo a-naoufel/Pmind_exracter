@@ -1,0 +1,12 @@
+PERSON: PETRUS de Provincia
+Also known as: Pierre de PROVENCE.
+Description: Augustin.
+Status: Étudiant.
+Gender: male.
+Active during: %1303-1303%.
+Born in: Provence ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ..
+College affiliation: Couvent des Augustins à Paris (Grands-Augustins) ;.
+Religious order: O.E.S.A. : frère augustin..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 3/11/2020..

@@ -1,0 +1,10 @@
+PERSON: GERARDUS de Briveriis
+Also known as: G. de BRIVERIIS; Gerardus de BRIVERIIS.
+Description: Maître Régent en décret.
+Status: Maître.
+Gender: male.
+Active during: %1237-1237%.
+Studied at: Paris ..
+Academic grades obtained: Maître en décret en ..
+University functions: Paris (Faculté de Décret : Maître Régent en décret en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour, 17/12/2021..

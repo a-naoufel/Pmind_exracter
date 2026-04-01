@@ -1,0 +1,10 @@
+PERSON: DESIDERIUS Lyot
+Also known as: Didier LYOT.
+Description: Boursier du collège de La Marche.
+Status: Étudiant.
+Gender: male.
+Active during: %1508-1508%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) en ;.
+College affiliation: Collège de LaMarche : boursier en ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

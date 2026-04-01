@@ -1,0 +1,10 @@
+PERSON: MICHAEL de Meyraco
+Also known as: Michael de MEYRACO.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1414-1414%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en décret (Paris) ;.
+College affiliation: Collège d'Autun : boursier en décret en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 09/07/2024..

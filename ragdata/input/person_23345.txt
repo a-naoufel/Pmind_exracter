@@ -1,0 +1,9 @@
+PERSON: X La Lorayne
+Also known as: LALORAYNE.
+Description: Servante ?.
+Status: Suppôt.
+Gender: male.
+Active during: %1475-1475%.
+Studied at: Paris ?.
+College affiliation: Au service du Collège de Sorbonne ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 8/05/2018)..

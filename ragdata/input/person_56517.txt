@@ -1,0 +1,11 @@
+PERSON: GALTERIUS Scammel
+Also known as: Walter SCAMMEL.
+Description: Évêque de Salisbury.
+Status: Extérieur.
+Gender: male.
+Active during: %1256-1286%.
+Born in: Angleterre (Dorset ?)..
+Studied at: Oxford ?.
+Academic grades obtained: Maître ès arts (Oxford ?) en ;; Docteur en droit civil et en droit canon (Oxford ?) ;.
+Ecclesiastical positions held: Chanoine de Salisbury en ;; Archidiacre de Berkshire en ;; Trésorier de Salisbury ;; Doyen de Salisbury ;; Chanoine de Dublin ;; Évêque de Salisbury %1284-1286% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 05/09/2023)..

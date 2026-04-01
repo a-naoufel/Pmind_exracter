@@ -1,0 +1,12 @@
+PERSON: DENISOT
+Also known as: DENISOT.
+Description: Clerc de la chapelle du collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1382-1383%.
+Studied at: Paris %1382-1383%..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dormans-Beauvais : Clerc de la chapelle %1382-1383% ;.
+Ecclesiastical status: Clerc ?.
+Ecclesiastical positions held: Clerc de la chapelle du collège de Dormans-Beauvais %1382-1383% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 24/11/2020)..

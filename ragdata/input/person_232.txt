@@ -1,0 +1,10 @@
+PERSON: AEGIDIUS de Tramblayo
+Also known as: Aegidius de TRAMBLAYO; Egidius de TROMBLOYO; Gilles du TREMBLAY.
+Description: Chanoine de Laon.
+Status: Extérieur.
+Gender: male.
+Active during: %1342-1371%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Chanoine de Laon %1342-1371%..
+Source: e-NDP ;.

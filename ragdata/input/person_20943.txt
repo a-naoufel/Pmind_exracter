@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Fraterni
+Also known as: Nicolaus FRATERNI.
+Description: Recteur de l'Université.
+Status: Maître.
+Gender: male.
+Active during: %1450-1464%.
+Studied at: Paris %1450-1464%..
+Academic grades obtained: Maître ès arts (Paris) avant ?.
+University functions: Paris (Université : recteur, élu en (18 novembre) jusqu'en (24 mars) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 7/08/2016..

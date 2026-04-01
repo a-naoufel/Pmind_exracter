@@ -1,0 +1,11 @@
+PERSON: BERNARDUS de Turri 2
+Also known as: Bernardus de TURRI; Bernard de la TOURd'AUVERGNE.
+Description: Evêque de Langres.
+Status: Extérieur.
+Gender: male.
+Active during: %1373-1395%.
+Studied at: ?Paris..
+Social origin: Noble.
+Religious order: Bénédictin..
+Religious functions: Abbé de Tournus %1373-1375%..
+Ecclesiastical positions held: Evêque de Langres %1374-1395%..

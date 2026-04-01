@@ -1,0 +1,40 @@
+PERSON: THOMAS Bradwardine
+Also known as: Thomas BRADWARDINE.
+Description: Archevêque de Canterbury.
+Status: Extérieur.
+Gender: male.
+Active during: %1315-1349%.
+Born in: ?Angleterre (?Herefordshire) ;.
+Diocese of origin: Diocèse de Chichester ?.
+Studied at: Oxford (Balliol College) ;.
+Academic grades obtained: Bachelier ès arts (Oxford) av. ;; Maître ès arts (Oxford) av. ;; B.T. (Oxford) av. ;; D.T. (Oxford) av. ..
+Ecclesiastical positions held: Chanoine de Lincoln %1333-1349% ;; Chancelier de Londres (St-Paul) %1337-1349% ;; Chanoine de Londres (St-Paul) %1347-1349% ;; Recteur de LlanbadarnFawr (Wales) %1347-1349% ;; Archevêque de Canterbury ..
+University functions: Oxford (Balliol College : fellow %1321-1323%) ;; Oxford (Merton College : fellow %1323-1335%) ;; Oxford (Faculté des arts : maître-régent %1323-1325% ;; Oxford (Université : proctor et )..
+Representation roles: Négociateur pour la paix avec la France après la bataille de Crécy et la bataille de Neville’sCross en ..
+Authored work: 'De Causa Dei contra Pelagium et de virtute causarum ad suos Mertonenses', composed around ..
+Authored work: 'Commentarium super quattuor libros Sententiarum', composed around %1332-1333%..
+Authored work: '?Tractatus de Meditacione', composed around ?.
+Authored work: '?Tractatus de predestinatione et libero arbitrio', composed around ?.
+Authored work: '?De Sancta Trinitate', composed around ?.
+Authored work: '?Placita Theologica', composed around ?.
+Authored work: '?De Praemio Salvandorum', composed around ?.
+Authored work: '?Sermones', composed around ?.
+Authored work: '?De Quidditate Peccati', composed around ?.
+Authored work: 'De Insolubilibus', composed around ?.
+Authored work: 'Tractatus de futuris contingentibus', composed around ?.
+Authored work: '?Tractatus insolubilium', composed around ?.
+Authored work: '?Tractatus de incipit et desinit', composed around ?.
+Authored work: 'Textus consequentiarum', composed around ?.
+Authored work: 'Comm. in Metaphysicam Aristot.', composed around ?.
+Authored work: '?Ars memorativa', composed around ?..
+Authored work: 'Tractatus de proportione velocitatum in motibus', composed around ..
+Authored work: 'De arithmetica speculativa (version A)', composed around ?.
+Authored work: 'De arithmetica speculativa (version B)', composed around ?.
+Authored work: 'De geometria speculativa', composed around ?.
+Authored work: 'De continuo', composed around ?.
+Authored work: '?De arithmetica practica', composed around ?.
+Authored work: '?Tabulae Astronomicae', composed around ?.
+Authored work: '?Liber metricus rithmimachiae, id est de pugna numerorum', composed around ?.
+Authored work: '?Quaestiones Physicae', composed around ?.
+Authored work: 'Sermo Epinicius', composed around ..
+Source: Oxford Dictionary of National Biography (Gordon LEFF) :.

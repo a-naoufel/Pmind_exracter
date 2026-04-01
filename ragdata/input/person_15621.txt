@@ -1,0 +1,9 @@
+PERSON: ANDREAS Boquel
+Also known as: Andreas BOQUEL.
+Description: Bachelier Décret.
+Status: Maître.
+Gender: male.
+Active during: %1492-1492%.
+Studied at: Paris %1492-1492%..
+Academic grades obtained: Maître ès arts (Paris) ?; Bachelier en Décret (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; Jean-Philippe Genet, dernière mise à jour 28/07/2020)..

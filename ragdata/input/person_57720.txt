@@ -1,0 +1,11 @@
+PERSON: PETRUS de Sancto Benedicto
+Also known as: Petrus de SANCTO BENEDICTO.
+Description: Auteur inconnu.
+Status: Incertain.
+Gender: male.
+Active during: %1286-1286%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: Frater ;.
+Authored work: 'Sermones de dominicis', composed around Avant ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 08/04/2024..

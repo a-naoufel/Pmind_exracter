@@ -1,0 +1,10 @@
+PERSON: GERARDUS de Silvanecto
+Also known as: Gerardus de SILVANECTO.
+Description: Recteur de l’Université de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1311-1311%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) ;.
+University functions: Paris (Université de Paris : Recteur ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 28/10/2019..

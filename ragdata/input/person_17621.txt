@@ -1,0 +1,10 @@
+PERSON: GUIDO 7
+Also known as: GUIDO.
+Description: Subbedellus..
+Status: Suppôt.
+Gender: male.
+Active during: %1415-1416%.
+Studied at: Paris %1415-1416%..
+Academic grades obtained: ?.
+University functions: "Subbedellus" de la Faculté de décret, %1415-1416%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; dernière mise à jour, Jean-Philippe Genet, 23/07/2020)..

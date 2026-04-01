@@ -1,0 +1,12 @@
+PERSON: NICOLAUS de Anevilla
+Also known as: Nicolaus de ANEVILLA.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1450-1450%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Langres ;.
+Studied at: Paris (Nation de France).
+Academic grades obtained: Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Victor TEXTORIS pour la maîtrise en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 16/03/2023..

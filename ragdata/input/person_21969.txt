@@ -1,0 +1,10 @@
+PERSON: FREMINUS Gamin
+Also known as: Frémin GAMIN.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1394-1394%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Boursier du Collège de Dormans-Beauvais ;.
+Source: LAMOP : Opération Charles VI :.

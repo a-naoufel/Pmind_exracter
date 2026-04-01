@@ -1,0 +1,10 @@
+PERSON: ANSELMUS de Sclusis
+Also known as: Anselmus de SCLUSIS; Anselmus JAVONIS de Sclusis.
+Description: Prévôt de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1407-1412%.
+Studied at: ?.
+Academic grades obtained: Maître ;; Licencié en droit civil ;.
+Ecclesiastical positions held: Prieurséculier de Lodève ;; Chanoine de Cambrai %1407-1412% ;; Prévôt de Cambrai %1408-1412% ;; Chanoine de Vienne ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 21/12/2025..

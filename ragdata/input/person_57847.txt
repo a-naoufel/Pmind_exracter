@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Brossis
+Also known as: Guillelmus de BROSSIS; Est-il le secrétaire et notaire du roi actif en ?; Guillaume des BROSSES; Guillaume de BROISSES.
+Description: Boursier du collège d’Autun.
+Status: Maître.
+Gender: male.
+Active during: %1398-1404%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse de Clermont..
+Studied at: Paris %1398-1404%..
+Academic grades obtained: Maître ;; Étudiant en théologie (Paris) %1398-1404% ;.
+College affiliation: Collège d’Autun : boursier en théologie ;; Collège d’Autun : responsable des comptes %1400-1402% ;; Collège d’Autun : témoin d’actes passés au collège %1400-1404% ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

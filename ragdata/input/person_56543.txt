@@ -1,0 +1,11 @@
+PERSON: PETRUS Petri 2
+Also known as: Petrus PETRI.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1456-1456%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Autun ;.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/09/2023..

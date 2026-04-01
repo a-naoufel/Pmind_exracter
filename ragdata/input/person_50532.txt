@@ -1,0 +1,10 @@
+PERSON: Rector ecclesie Sancti Jacobi Parisiensis
+Also known as: Rector ecclesie Sancti Jacobi Parisiensis.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1290-1290%.
+Studied at: Paris (Faculté de Décret) ..
+Academic grades obtained: Licencié en décret (Paris) ..
+Ecclesiastical positions held: Recteur de Paris (Saint-Jacques) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 29/11/2019..

@@ -1,0 +1,11 @@
+PERSON: BENEDICTUS 1
+Also known as: BENEDICTUS.
+Description: Chanoine d’Angers.
+Status: Incertain.
+Gender: male.
+Active during: %1209-1240%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical positions held: Chanoine d’Angers %1209-1240% ;; Archidiacre d’Outre-Loire %1221-1240% ;.
+Other ecclesiastical functions: Official d’Angers %1230-1240% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 23/07/2022)..

@@ -1,0 +1,21 @@
+PERSON: MATTHAEUS de Rievaulx
+Also known as: Matthieu de RIEVAULX.
+Description: Cistercien.
+Status: Extérieur.
+Gender: male.
+Active during: %1170-1218%.
+Born in: ?Angleterre..
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.Cist. : moine de l’abbaye (cistercienne) de Rievaulx (Yorkshire) sous SILVAIN, abbé de Rievaulx %1167-1189%..
+Religious functions: Préchantre de Rievaulx en ?.
+Authored work: '(Poèmes religieux)', composed around ?.
+Authored work: 'Sermones quatuor', composed around ?.
+Authored work: '(Poèmes cisterciens)', composed around ?.
+Authored work: '(Poèmes lettrés)', composed around ?.
+Authored work: '(Poèmes moraux)', composed around ?.
+Authored work: '(Lettres versifiées, poèmes personnels)', composed around ?.
+Authored work: 'Epistolae II', composed around ?.
+Authored work: '(Fragments divers)', composed around ?.
+Authored work: '(Poèmes historiques)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 09/09/2023..

@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Frogerii
+Also known as: Guillelmus FROGERII.
+Description: Docteur en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1498-1499%.
+Studied at: Paris %1498-1498%..
+Academic grades obtained: Licencié en théologie (Paris) (le 13 janvier) ;; Docteur en théologie (Paris) (le 14 octobre) ;.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) %1498-1499%..
+Religious order: O.F.M. : frère franciscain..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet 01/05/2022.

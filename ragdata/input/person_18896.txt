@@ -1,0 +1,10 @@
+PERSON: RADULPHUS Eschart
+Also known as: Radulphus ESCHART.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+Family relationships: Son parent est peut-être le Magister Johannes ESCHART, Recteur de l'Université qui contribue à la collecte en même temps que lui ; Son parent est peut-être le Dominus Johannes ESCHART qui contribue à la collecte en même temps que lui ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 29/08/2015..

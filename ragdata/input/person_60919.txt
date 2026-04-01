@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Simonelli
+Also known as: Nicolaus SIMONELLI.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1424-1424%.
+Studied at: Paris ..
+Academic grades obtained: Licencié en décret (Paris) ;.
+Academic relationships: Son maître est Johannes de BRETONS pour la licence en décret en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour, 14/01/2026..

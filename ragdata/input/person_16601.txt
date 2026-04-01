@@ -1,0 +1,15 @@
+PERSON: AEGIDIUS Bonus Clericus
+Also known as: Aegidius BONUS CLERICUS; Gilles BON CLERC; Aegidius de BENSA; Aegidius BAYSI.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1280-1285%.
+Studied at: Paris..
+Academic grades obtained: Bachelier en théologie (Paris) .; Maître en théologie (Paris) ..
+College affiliation: Couvent des Cordeliers %1283-1285% au moins..
+Religious order: O.F.M. : frère franciscain.
+Authored work: 'Quaestiones disputatae', composed around ?.
+Authored work: 'Summa Theologiae', composed around ?.
+Authored work: 'Sermo in commemoratione omnium fidelium defunctorum', composed around ..
+Authored work: 'Sermo de tempore [Dnca. 2 in quadragesim.]', composed around ..
+Source: Répertoire des auteurs franciscains préparé par Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress ("Aegidius Bonus Clericus").

@@ -1,0 +1,11 @@
+PERSON: PHILIPPUS Saincton
+Also known as: Philippus SAINCTON.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1454-1455%.
+Born in: Poitou ?.
+Diocese of origin: Diocèse de Poitiers ;.
+Studied at: Paris (Nation de France) %1454-1455%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 06/06/2023..

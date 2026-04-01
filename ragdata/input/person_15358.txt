@@ -1,0 +1,23 @@
+PERSON: ROBERTUS de Courson
+Also known as: Robert de COURSON; Robert de COURÇON; Robert de CURZON.
+Description: Cardinal.
+Status: Maître.
+Gender: male.
+Active during: %1180-1219%.
+Born in: Angleterre (Kedleston).
+Studied at: Paris.
+Academic grades obtained: Bachelier en théologie ?; Maître en théologie av. ..
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Noyon %1204-1209% ;; Chanoine de Paris %1210-1212%.; Cardinal %1212-1218%..
+University functions: Paris (Maître-régent de Théologie av. )..
+Representation roles: Il préside le concile de Paris en ;; Il préside le concile de Bordeaux en ;; Il préside le concile de Rouen en ..
+Authored work: '(Somme théologique)', composed around ca..
+Authored work: '(Décrets du concile de Paris)', composed around .
+Authored work: '(Décret du concile de Bordeaux)', composed around .
+Authored work: '(Charte en faveur de Simon de MONTFORT)', composed around .
+Authored work: '(Rescrit relatif à la division des paroisses de Saint-Quentin)', composed around .
+Authored work: '(Décrets du concile de Rome)', composed around .
+Authored work: '(Convocation pour le concile de Montpellier)', composed around .
+Authored work: '(Décret pour la réorganisation des études à Paris)', composed around .
+Authored work: 'De Usura', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 28/12/2018).

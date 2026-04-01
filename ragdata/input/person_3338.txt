@@ -1,0 +1,18 @@
+PERSON: GUIDO de Bazoches
+Also known as: Gui de BAZOCHES.
+Description: Chanoine de Châlons.
+Status: Étudiant.
+Gender: male.
+Active during: %1165-1203%.
+Born in: Bourgogne (Bazoches)..
+Studied at: Paris ;; Montpellier ;.
+Academic grades obtained: Étudiant à Paris vers ..
+Family relationships: Son frère est Nicolas de BAZOCHES, présent à la bataille de Bouvines en ; Son oncle est HAIMON, évêque de Châlons-en-Champagne..
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine de Châlons-en-Champagne ;; Chantre de Châlons-en-Champagne..
+Authored work: '(Poésies religieuses)', composed around ?.
+Authored work: 'Apologia contra maledicos', composed around ?, dedicated to Dédié à sa mère..
+Authored work: 'Epistolae 37', composed around ?.
+Authored work: 'Cosmographia', composed around ?.
+Authored work: 'Liber qui dicitur chronosgraphia sive liber diversarum historiarum', composed around .
+Source: MIRABILE :.

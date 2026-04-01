@@ -1,0 +1,20 @@
+PERSON: GONSALVUS de Berceo
+Also known as: Magister.
+Status: Étudiant.
+Gender: male.
+Active during: %1215-1260%.
+Born in: Castille (Rioja : Berceo ?)..
+Studied at: Paris ?; Palencia..
+Academic grades obtained: Étudiant (Paris) vers ?.
+Ecclesiastical status: Diacre, puis prêtre..
+Authored work: 'El sacrificio de la Misa', composed around ?.
+Authored work: 'Loores de Nuestra Señora', composed around ?.
+Authored work: 'Milagros de Nuestra Señora', composed around ?.
+Authored work: 'Duelo que fizo la Virgin el dia de la Pasion de suo Hijo', composed around ?.
+Authored work: 'Los signos que apareceran antes del Juicio', composed around ?.
+Authored work: '(Hymnes)', composed around ?.
+Authored work: 'Vida de San Millán de la Cogola', composed around ?.
+Authored work: 'La vida de Santo Domingo de Silos', composed around ?.
+Authored work: 'Poema de Santa Oria', composed around ?.
+Authored work: 'Martirio de San Lorenzo'.
+Source: Bibliotheca Virtual Miguel de Cervantès :.

@@ -1,0 +1,14 @@
+PERSON: HENRICUS de Septem Vannis
+Also known as: Henricus de SEPTEM VANNIS; Henri SEPTEMVANNIS.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1349-1362%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Bayeux ;.
+Studied at: Paris (Nation de Normandie) %:1349-1359:%.
+Academic grades obtained: Maître ès arts (Paris) ;; ?Maître en médecine (Paris) ..
+Ecclesiastical status: Clerc du diocèse de Bayeux ;.
+Ecclesiastical positions held: Sollicite un canonicat de Gerberoy (Saint-Pierre) dans le diocèse de Beauvais, ..
+University functions: Maîtrerégent de la Faculté de Médecine à Paris, à partir de ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 24/07/2022..

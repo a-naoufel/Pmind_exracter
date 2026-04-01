@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS Romani 1
+Also known as: Guillelmus ROMANI Gallicus.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1352-1375%.
+Studied at: Paris..
+Academic grades obtained: Bachelier en théologie (Paris) ;; Maître en théologie (Paris) ;.
+College affiliation: Couvent (dominicain) de Paris (Jacobins) vers %1352-1355%..
+Religious order: O.P. : frère dominicain de la Province (dominicaine) de France..
+University functions: Paris (Faculté de Théologie : lecteur des Sentences %1352-1353%) ;; Orléans (Couvent dominicain : lecteur) ;; Avignon (Magister s. Palatii apost. %1362-1375%) ;.
+Authored work: 'Super IV libros Sent.', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 18/04/2020..

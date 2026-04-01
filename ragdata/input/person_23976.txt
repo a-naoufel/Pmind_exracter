@@ -1,0 +1,11 @@
+PERSON: PHILIPPUS de Nudo Albo
+Also known as: Philippe de NUDOALBO.
+Description: Chapelain du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1401-1401%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dormans-Beauvais : chapelain ;.
+Ecclesiastical status: Prêtre..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 05/04/2024..

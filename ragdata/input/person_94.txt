@@ -1,0 +1,13 @@
+PERSON: ADAM de Nemosio
+Also known as: Adam de NEMOSIO; Adamus NEMAUSENSIS; Adam de NEMOURS.
+Description: Evêque de Senlis.
+Status: Maître.
+Gender: male.
+Active during: %1334-1377%.
+Born in: Île-de-France (Nemours)..
+Studied at: Paris..
+Academic grades obtained: Maître en théologie.
+Religious order: Dominicain : Couvent (dominicain) de Sens ca...
+Ecclesiastical positions held: Evêque de Senlis %1356-1377%..
+Authored work: 'Literae Adami de Nemosio ep., receptoris decimae biennalis regi Carolo V ab Urbano V concessae', composed around .
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 16/11/2016)..

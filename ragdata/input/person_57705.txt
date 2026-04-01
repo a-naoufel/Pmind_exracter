@@ -1,0 +1,13 @@
+PERSON: MICHAEL de Warenghien
+Also known as: Michael de WARENGHIEN.
+Description: Évêque de Tournai.
+Status: Maître.
+Gender: male.
+Active during: %1283-1291%.
+Born in: Flandre (Lille) ;.
+Diocese of origin: Diocèse de Tournai..
+Studied at: Paris ?.
+Academic grades obtained: Maître..
+College affiliation: Sorbonne ?.
+Ecclesiastical positions held: Chanoine de Saint-Quentin ;; Chanoine de Tournai ;; Écolâtre de Tournai ;; Évêque de Tournai en %1283-1291%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 03/04/2024)..

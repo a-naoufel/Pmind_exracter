@@ -1,0 +1,11 @@
+PERSON: PETRUS Le Gros de Neufchatel
+Also known as: Pierre LEGROS de Neufchatel.
+Description: Prieur de Saint-Jean des Vignes.
+Status: Incertain.
+Gender: male.
+Active during: %1347-1347%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Religious order: O.S.A. : Chanoinerégulier ;.
+Religious functions: Prieur de Soissons (Saint-Jean-des-Vignes) ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

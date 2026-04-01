@@ -1,0 +1,10 @@
+PERSON: PETRUS Sestili
+Also known as: Petrus SESTILI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1454-1454%.
+Studied at: Paris (Nation de France) avant ..
+Academic grades obtained: Maître ès arts (Paris) avant ;.
+University functions: Paris (Nation de France : maître-régent en ) :.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/09/2023..

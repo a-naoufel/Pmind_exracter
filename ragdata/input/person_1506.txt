@@ -1,0 +1,10 @@
+PERSON: BIANCIARDINUS
+Also known as: BIANCIARDINUS.
+Description: Docteur en droit civil.
+Status: Extérieur.
+Gender: male.
+Active during: %1445-1445%.
+Studied at: Pérouse..
+Academic grades obtained: Docteur en droit civil..
+Representation roles: Ambassadeur d'EUGENE IV auprès de CHARLES VII, roi de France pour traiter de la question de la PragmatiqueSanction..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/03/2021..

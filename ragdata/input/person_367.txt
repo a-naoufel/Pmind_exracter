@@ -1,0 +1,13 @@
+PERSON: ALBERTUS Swebelinus
+Also known as: Albertus SWEBELINUS.
+Description: Magister ?.
+Status: Incertain.
+Gender: male.
+Active during: %1285-1285%.
+Born in: Rhénanie (Spire) ?.
+Diocese of origin: Diocèse de Spire ?.
+Studied at: ?Paris..
+Academic grades obtained: Magister ?.
+Authored work: 'Sententia super modos significandi', composed around ?.
+Authored work: 'Quaestiones Alberti de Modis Significandi', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol, dernière mise à jour 17/07/2015)..

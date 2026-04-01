@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Guyonis
+Also known as: Guillelmus GUYONIS.
+Description: Recteur de l’Université de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1480-1481%.
+Studied at: Paris (Nation de Picardie)..
+Academic grades obtained: Maître ès arts (Paris)..
+College affiliation: Collège de Cambrai..
+University functions: Paris (Université : Recteur élu en (10 octobre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 3/03/2021)..

@@ -1,0 +1,49 @@
+PERSON: THEODERICUS de Freiberg
+Also known as: Dietrich de VRIBERG; Thierry de FREIBERG; Theodericus FREIBERG.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1270-1320%.
+Born in: Alémanie (Fribourg-en-Brisgau)..
+Studied at: Bachelier en théologie (Paris) %1282 ?; Paris %1272-1274%, en et en %1293-1296%..
+Academic grades obtained: Maître en théologie (Paris) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Ecclesiastical status: Prédicateur général ;.
+Religious order: O.P. : frère dominicain..
+Religious functions: PrieurProvincial (dominicain) de Teutonie %1293-1296%.; Vicaireprovincial de Teutonie en en remplacement du provincial Jean de LICHTENBERG envoyé à Paris.; C’est une décision du chapitregénéral (dominicain) de Plaisance en : « Absolvimus priorem provincialem Theutonie [Johannes de Lucemberch], quia mittimus eum Parisius ad recipiendum magisterium in sacra theologia .... Ponimus vicarium in provincia Theotonie fratrem Thedericum magistrum in theologia, donec provincialis ejusdcm provincie electus fuerit .... » ;.
+University functions: Fribourg-en-Brisgau (couvent dominicain : lecteur).; Paris (Faculté de Théologie : lecteur des Sentences en ) ;; Paris (Faculté de Théologie : Maître-régent en %1296-1300%)..
+Authored work: 'De corporibus gloriosis', composed around ? après le De cognitione entium separatorum)..
+Authored work: 'De dotibus corporum gloriosorum', composed around ? après De tribus difficilis articulis II.De visione beatifica..
+Authored work: 'De viribus inferioribus intellectu in angelis', composed around ? (antérieur à "Quaestio de vi cognitiva in Deo")..
+Authored work: 'De corpore Christi mortuo', composed around ?.
+Authored work: 'Quaestio de vi cognitiva in Deo', composed around ? antérieur à "De intellectu et intelligibili" et après De viribus inferioribus intellectu in angelis..
+Authored work: 'De subiecto theologiae', composed around ?.
+Authored work: 'De theologia, quod est scientia secundum perfectam rationemscientiae', composed around ?.
+Authored work: 'De efficientia Dei', composed around ?.
+Authored work: 'De incarnalitate angelorum', composed around ?.
+Authored work: 'De corpore Christi in sacramento', composed around ?.
+Authored work: 'Quaestio utrum potentiae sensitivae habeant aliquod principium activum intrinsecus, quod faciat eas in actu sentiendi in homine vel aimali', composed around ?.
+Authored work: 'De tribus difficilibus articulis, I. De animatione coeli', composed around ?.
+Authored work: 'De tribus difficilibus articulis II.De visione beatica', composed around ? antérieur à De intellectu et intelligibili..
+Authored work: 'De tribus difficilibus articulis. III. De accidentibus', composed around ? antérieur à De quiditatibus entium..
+Authored work: 'De universitate entium', composed around ?.
+Authored work: 'De quiditatibus entium', composed around ? après "De tribus difficilibus articulis III.De accidentibus" et antérieur à "De magis et minus"..
+Authored work: 'De cognitione entium separatorum et maxime animarum separatarum', composed around ? après De tribus difficilis articulis II. De visione beatifica et antérieur à De intellectu et intellegibili..
+Authored work: 'De tempore', composed around ?.
+Authored work: 'De ente et essentia', composed around ?.
+Authored work: 'Quod substantia spiritualis non sit composita ex materia et forma', composed around ?.
+Authored work: 'De habitibus', composed around ?.
+Authored work: 'De origine rerum praedicamentalium', composed around ? antérieur à De intellectu et intellegibili..
+Authored work: 'De miscibilibus in mixto', composed around ? antérieur à De elementis in quantum sunt partes mundi)..
+Authored work: 'De elementis in quantum sunt partes mundi', composed around ? après De miscibilibus in mixto et anterieur à De habitibus..
+Authored work: 'De substantia orbis', composed around ?.
+Authored work: 'Tractatus de iride et radialibus impressionibus', composed around %1304-1311%.
+Authored work: 'De luce et ejus origine', composed around ? antérieur à De coloribus..
+Authored work: 'De coloribus', composed around ? après Tractatus de iride et radialibus impressionibus et De luce et eius origine ;.
+Authored work: 'De intelligentiis et motoribus coelorum', composed around ?.
+Authored work: 'De mensuris durationis', composed around ? après De intellectu et intelligibili ;.
+Authored work: 'De animatione caeli', composed around ?.
+Authored work: '(Plaintes contre l'évêque de Worms)', composed around , dedicated to Adressées au Cardinal Jean de TUSCULUM..
+Authored work: '(Lettre au grand pénitencier)', composed around ?, dedicated to Adressées au Cardinal Jean de TUSCULUM..
+Authored work: 'De defensione privilegiorum ordinis', composed around ?.
+Source: MIRABILE :.

@@ -1,0 +1,10 @@
+PERSON: THOMAS Botin
+Also known as: Thomas BOTIN.
+Description: Boursier du Collège de Justice.
+Status: Étudiant.
+Gender: male.
+Active during: %1433-1433%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Justice : boursier ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Marion Bernard-Schweitzer 16/09/2020..

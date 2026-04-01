@@ -1,0 +1,15 @@
+PERSON: GUIDO de Chatres
+Also known as: Guy de CHÂTRES; GUIDO; Guido de SANCTO DIONYSIO; Guido SANCTI DIONYSII; Guy de SAINT-DENIS; Guy de SAINT-DENIS.
+Description: Abbé de Saint-Denis.
+Status: Incertain.
+Gender: male.
+Active during: %1300-1350%.
+Born in: Île-de-France (Arpajon) ;.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.S.B. : moine bénédictin..
+Religious functions: Trésorier de Saint-Denis en ;; Abbé (bénédictin) de Saint-Denis %1326-1343% (il a démissionné) ;.
+Authored work: 'Sanctilogium', composed around %1320-1340%.
+Authored work: '(Sermones)', composed around ?.
+Authored work: 'De tonis', composed around ?.
+Source: Data BNF :.

@@ -1,0 +1,12 @@
+PERSON: HENRICUS Clint
+Also known as: Henricus CLINT; Henri CLINT; Henri de LUNEBORCH; Henri HUNEBOURCH.
+Description: Licencié en médecine à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1399-1417%.
+Born in: Saxe (Lunebourg)..
+Diocese of origin: Diocèse de Hildesheim..
+Studied at: Paris (Nation Anglo-allemande) %:1399-1407% ;; Erfurt %1407-:1409:% ;; Paris %:1415-1417%..
+Academic grades obtained: Licencié ès arts (Paris) ;; Étudiant en médecine (Paris) %1404-1405% ;; Étudiant en médecine (Erfurt) %1407-1408% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ..
+University functions: Paris (Faculté des Arts ; il donne sa première leçon magistrale en ?) ;; Paris (Nation Anglo-allemande : procureur en ) ;; Paris (Nation Anglo-allemande : procureur en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 25/06/2022..

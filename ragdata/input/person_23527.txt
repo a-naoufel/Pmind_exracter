@@ -1,0 +1,7 @@
+PERSON: X Lavache
+Also known as: LAVACHE.
+Description: Marchand ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1455-1455%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/01/2023..

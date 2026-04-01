@@ -1,0 +1,10 @@
+PERSON: SIMON Parvus
+Also known as: Simon PARVUS.
+Description: Archidiacre de Châlons.
+Status: Incertain.
+Gender: male.
+Active during: %1277-1278%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Archidiacre de Châlons-en-Champagne %1277-1278% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/06/2025.

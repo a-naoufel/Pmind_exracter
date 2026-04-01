@@ -1,0 +1,10 @@
+PERSON: ODO de Templo
+Also known as: Odo de TEMPLO.
+Description: Chanoine d’Angers.
+Status: Incertain.
+Gender: male.
+Active during: %1264-1280%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Angers (Saint-Maurille) ;; Archiprêtre d’Angers (Saint-Maurille) ;; Chanoine d’Angers %1264-1280% ;; Chantre d’Angers %1264-1280% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 16/06/2022)..

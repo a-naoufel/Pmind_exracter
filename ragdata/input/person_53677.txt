@@ -1,0 +1,11 @@
+PERSON: PETRUS Ferrandelli
+Also known as: Petrus FERRANDELLI; Petrus FERRAUDELLI.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1411-1418%.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en décret (Paris) vers ?; Licencié en décret (Paris) (16 février) ;.
+Academic relationships: Son maître est Johannes GUARINI pour la licence en décret en (16 février) ;.
+University functions: Paris (Faculté de Décret : lecteur des Décrétales pour la cinquième année et le quatrième volume, en (11 octobre), "incipiet VI librum Decretal. in scolis ad intersignium Corone") ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 03/05/2022)..

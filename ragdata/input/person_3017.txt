@@ -1,0 +1,11 @@
+PERSON: GERARDUS de Ratynghen
+Also known as: Gherardus de RATYNGHEN.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1354-1354%.
+Born in: Rhénanie (Ratingen) ?.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Academic relationships: Son maître est Themo JUDEUS pour le baccalauréat en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : rédaction Jean-Philippe GENET, 22/11/2020..

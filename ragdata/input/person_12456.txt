@@ -1,0 +1,29 @@
+PERSON: PETRUS Rogerii (CLément VI)
+Also known as: Petrus ROGERII; Pierre ROGER; CLÉMENT VI.
+Description: Pape..
+Status: Maître.
+Gender: male.
+Active during: %1307-1352%.
+Born in: Limousin (Saint-Julien-Maumont)..
+Studied at: Paris %1307-1346%..
+Academic grades obtained: Bachelier en théologie (Paris) ;; Docteur en théologie (Paris) ..
+College affiliation: ?Etudiant en grammaire au collège de Narbonne .; Proviseur du collège de Sorbonne de Paris entre %1326-1336% ;.
+Family relationships: Son père est le seigneur de Maumont..
+Social origin: Noble..
+Religious order: Bénédictin : monastère de LaChaise-Dieu (diocèse de Clermont-Ferrand) (à l'âge de 10 ans environ)..
+Religious functions: Bénéfice promis par le pape JEAN XXII, d'un prieuré ou d'une fonction administrative, à la collation de l'abbé et du couvent de LaChaise-Dieu le 13 novembre ;; Prieur de Saint-Pantaleon (dépendance de LaChaise-Dieu dans le diocèse de Limoges) ;; Prieur de Savigneux (dépendance de LaChaise-Dieu dans le diocèse de Lyon) en ;; Prieur de Saint-Baudile (dépendance de LaChaise-Dieu dans le diocèse de Nîmes) le 24 avril ;; Abbatiat, promis par le pape JEAN XXII, de Saint-Germain-des-Prés (diocèse de Paris) ;; Abbatiat promis de Fécamp (diocèse de Rouen) le 23 juin ..
+University functions: Lecteur des Sentences à la faculté de théologie de Paris en %1320-1321% ;; Examinateur, chargé par le pape JEAN XXII, d'examiner des étudiants pour l'admission à la lecture des Sentences en ..
+Representation roles: Chargé, par le pape BENOIT XII, d'enquêter sur le contenu hérétique des travaux de Marsilius de PADUA et Johannes de JANDUN ;; Participe aux discussions tenues à Vincennes, concernant les compétences respectives des juridictions ecclésiastiques et séculières, en ..
+Authored work: '[Disputatio avec Franciscus de Meyronis]', composed around ?.
+Authored work: '[Sermons]', composed around ?.
+Authored work: 'De passione Beate Marie Virginis', composed around ?.
+Authored work: 'Expositio in Metaphysicam', composed around ?.
+Authored work: 'Notulae quaestionum in Metaphysicam (I-VIII)', composed around ?.
+Authored work: 'Expositio in Physicam', composed around ?.
+Authored work: 'Expositio in De generatione et corruptione', composed around ?.
+Authored work: 'Notulae quaestionum in libros Meteorologicorum', composed around ?.
+Authored work: '[Lectura sur la décrétale "Quia quorundam mentes" de Jean XXII]', composed around Ecrit ..
+Authored work: 'Tabula super librum Ethicorum', composed around ?.
+Authored work: 'Capitula omnium librorum Ethicorum', composed around ?.
+Authored work: 'Quaestio: Utrum esse in Patre habeat rationem vere potentie productive', composed around ?.
+Authored work: 'Missa pro vitanda mortalitate', composed around ?.

@@ -1,0 +1,11 @@
+PERSON: NIVELON
+Also known as: NÉVELON.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1290-1290%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris ?) avant ?.
+College affiliation: Collège de Sorbonne ?.
+Ecclesiastical positions held: Chapelain de Paris (Notre-Dame) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 24/04/2024..

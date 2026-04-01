@@ -1,0 +1,11 @@
+PERSON: HUGO de Nirlas
+Also known as: Hugo de NIRLAS.
+Description: Bachelier en droit canon.
+Status: Gradué.
+Gender: male.
+Active during: %1498-1499%?.
+Studied at: Paris %1498-1498%..
+Academic grades obtained: Bachelier en décret (Paris) (le 29 décembre) ..
+Religious order: O.Clun. : moine clunisien..
+Religious functions: ?Bénéfice sur nomination par Dionysius ALLEGRET, D.Cn.L., à la collation du monastère (clunisien) de LaCharité-sur-Loire (diocèse d'Auxerre) en ;; ?Bénéfice sur nomination par Dionysius ALLEGRET, D.Cn.L., à la collation du monastère (bénédictin) de Coulombs (diocèse de Chartres) en ;; ?Bénéfice sur nomination par Dionysius ALLEGRET, D.Cn.L., à la collation du prieuré (clunisien) de Saint-Martin-des-Champs (diocèse de Paris) en ;; ?Bénéfice sur nomination par Dionysius ALLEGRET, D.Cn.L., à la collation de l'abbaye (clunisien) de Cluny (diocèse de Mâcon) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 03/09/2022)..

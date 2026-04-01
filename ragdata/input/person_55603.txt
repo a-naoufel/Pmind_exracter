@@ -1,0 +1,10 @@
+PERSON: LANCELOTUS de Pipemont
+Also known as: Lancelot de PIPEMONT.
+Description: Écolier du collège de Boncourt.
+Status: Étudiant.
+Gender: male.
+Active during: %1364-1364%.
+Studied at: Paris (Nation de Picardie ?) ..
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Boncourt ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Projet ORESM. Dépouillements de Louise Gousseau 28/03/2023)..

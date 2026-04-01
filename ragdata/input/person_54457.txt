@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Mailliaco
+Also known as: Guillelmus de MAILLIACO.
+Description: Célerier de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1280-1313%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Sens ;; Célerier de Sens %1295-1331% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 25 octobre 2022..

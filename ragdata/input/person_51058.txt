@@ -1,0 +1,9 @@
+PERSON: DIONYSIUS Gaire
+Also known as: Dionysius GAIRE.
+Description: Maître d’école.
+Status: Étudiant.
+Gender: male.
+Active during: %1441-1442%.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 31/08/2020..

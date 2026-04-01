@@ -1,0 +1,9 @@
+PERSON: PETRUS de La Fosse
+Also known as: Petrus de LA FOSSE.
+Description: Messager..
+Status: Suppôt.
+Gender: male.
+Active during: %1489-1489%.
+Studied at: Paris (Nation Anglo-allemande) ..
+University functions: Paris (Nation Anglo-allemande : nuntius pour le diocèse de Trêves en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/02/2024..

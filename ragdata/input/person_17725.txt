@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Corderii 1
+Also known as: Guillelmus CORDERII; Guillermus CORDERII.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1417-1417%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Châlons-en-Champagne..
+Studied at: Paris %1417-1417%..
+Academic grades obtained: Bachelier en décret (Paris) 4 décembre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 04/03/2022..

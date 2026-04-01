@@ -1,0 +1,11 @@
+PERSON: GUIDO Silvestri
+Also known as: Guido SILVESTRI.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1500-1500%.
+Born in: Poitou ?.
+Diocese of origin: Diocèse de Poitiers..
+Studied at: Paris %1500-1500%..
+Academic grades obtained: Bachelier en décret (Paris) 13 avril ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/02/2022)..

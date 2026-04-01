@@ -1,0 +1,10 @@
+PERSON: GERARDUS de Malartico
+Also known as: Gerardus de MALARTICO; Géraud de MALARTIC.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1286-1303%.
+Studied at: Paris (couvent dominicain) en ..
+Academic grades obtained: Étudiant pendant son séjour à Paris ?.
+Religious order: Dominicain : couvent (dominicain) de Bayonne..
+Religious functions: Prieur (dominicain) de ?Bayonne..

@@ -1,0 +1,11 @@
+PERSON: SIMON Monardi
+Also known as: Simon MONARDI; Simon MONNART; Simon MONART.
+Description: Chanoine de Reims.
+Status: Maître.
+Gender: male.
+Active during: %1395-1411%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) avant .; Étudiant en théologie (Paris) ;.
+College affiliation: Sorbonne : socius ;.
+Ecclesiastical positions held: Chanoine de Reims %1395-1411% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 2/06/2021..

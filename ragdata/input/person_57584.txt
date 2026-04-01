@@ -1,0 +1,10 @@
+PERSON: STEPHANUS 4
+Also known as: STEPHANUS; S. Decanus Trecensis.
+Description: Doyen de Troyes.
+Status: Incertain.
+Gender: male.
+Active during: %1219-1219%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Doyen de Troyes ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/03/2024)..

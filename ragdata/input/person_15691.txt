@@ -1,0 +1,12 @@
+PERSON: ANTHONIUS de Neufville
+Also known as: Anthonius de NEUFVILLE.
+Description: Bachelier Décret.
+Status: Gradué.
+Gender: male.
+Active during: %1497-1497%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Beauvais..
+Studied at: Paris %1497-1497%..
+Academic grades obtained: Bachelier en Décret (Paris) (le 26 juin) ..
+Ecclesiastical positions held: Clerc..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; Jean-Philippe Genet, dernière mise à jour 28/09/2020)..

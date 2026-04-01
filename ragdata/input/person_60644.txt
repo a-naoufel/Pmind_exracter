@@ -1,0 +1,8 @@
+PERSON: GUILLEMETTE La Roussette
+Also known as: Guillemette LAROUSSETTE.
+Description: Sœur de Gervais Chrétien.
+Status: Extérieur.
+Gender: female.
+Active during: %1382-1382%.
+Family relationships: Sœur de Gervais CHRÈTIEN ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

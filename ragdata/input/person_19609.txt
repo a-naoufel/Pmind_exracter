@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Boulengarii
+Also known as: Guillelmus BOULENGARII.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Etudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 26/09/2018..

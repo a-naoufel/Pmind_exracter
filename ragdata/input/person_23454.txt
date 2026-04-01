@@ -1,0 +1,10 @@
+PERSON: X Maignac
+Also known as: MAIGNAC.
+Description: Hôte du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1406-1406%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Dormans-Beauvais : hôte ;.
+Source: LAMOP : Opération Charles VI (n° 2515) :.

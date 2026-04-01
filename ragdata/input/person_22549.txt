@@ -1,0 +1,10 @@
+PERSON: STEPHANUS Archidiaconus Meldensis
+Also known as: STEPHANUS archidiaconus Meldensis.
+Description: Archidiacre de Meaux.
+Status: Maître.
+Gender: male.
+Active during: %1248-1248%.
+Studied at: Paris ..
+Academic grades obtained: Maître en théologie (Paris) ;.
+Ecclesiastical positions held: Archidiacre de Meaux en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 6/08/2017).

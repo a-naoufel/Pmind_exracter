@@ -1,0 +1,11 @@
+PERSON: LEODEGARIUS Baratonis
+Also known as: Leodegarius BARATONIS.
+Description: Maître ès arts..
+Status: Maître.
+Gender: male.
+Active during: %1445-1448%.
+Studied at: Paris (Nation de France) %1445-1446%..
+Academic grades obtained: Maître ès arts (Paris) en ;.
+Academic relationships: Son élève est Michael FLAVY pour le baccalauréat en ; Son élève est Ludovicus de SANCTO PARDULFO pour le baccalauréat en ; Son élève est Guillelmus de MANSO pour le baccalauréat en ; Son élève est Guillermus GAY pour le baccalauréat en ;.
+University functions: Paris (Nation de France : maître-régent %1445-1446%) ;; Paris (Nation de France : maître-régent ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/01/2023..

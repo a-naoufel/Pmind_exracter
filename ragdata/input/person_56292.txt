@@ -1,0 +1,10 @@
+PERSON: GERVASIUS Burgensis
+Also known as: Gervasius BURGENSIS.
+Description: Chanoine du Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1366-1393%.
+Studied at: ?.
+Academic grades obtained: Docteur in utroque jure ;.
+Ecclesiastical positions held: Chanoine de LeMans %1366-1393% ;; Chanoine de Tours ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/06/2023)..

@@ -1,0 +1,14 @@
+PERSON: PETRUS de La Mote
+Also known as: Petrus de LA MOTE.
+Description: Trésorier d’Auxerre.
+Status: Incertain.
+Gender: male.
+Active during: %1320-1341%.
+Born in: Île-de-France ;.
+Diocese of origin: Diocèse de Meaux ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son frère est Johannes de LAMOTE, archidiacre d’Auxerre ; Son parent est Petrus de GRESSIO, évêque d’Auxerre ; Son parent est Jean de GREZ, évêque d’Auxerre ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Trésorier d’Auxerre %1320-1327% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 27/06/2025)..

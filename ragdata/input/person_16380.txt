@@ -1,0 +1,9 @@
+PERSON: ANDREAS Pimoren
+Also known as: Andreas PIMOREN.
+Description: Nuntius pour le diocèse de Liège.
+Status: Suppôt.
+Gender: male.
+Active during: %1481-1482%.
+Studied at: Paris..
+University functions: Paris (Nation de Picardie : nuntius en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 31/08/2020..

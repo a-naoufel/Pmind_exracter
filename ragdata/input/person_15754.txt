@@ -1,0 +1,11 @@
+PERSON: BENIGNUS Morlet
+Also known as: Benignus MORLET.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1501-1501%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Langres..
+Studied at: Paris %1501-1501%..
+Academic grades obtained: Bachelier en décret (Paris) (le 3 mars) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet 07/01/2021).

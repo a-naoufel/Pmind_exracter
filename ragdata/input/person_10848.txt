@@ -1,0 +1,11 @@
+PERSON: RICARDUS Werplesdon
+Also known as: Richard WERPLESDON.
+Description: Warden de Merton College.
+Status: Extérieur.
+Gender: male.
+Active during: %1277-1295%..
+Born in: Angleterre..
+Studied at: Oxford (Merton College) ;.
+Academic grades obtained: Maître ès arts (Oxford) ;.
+College affiliation: Oxford (Merton College : fellow %1277-1286) ;; Oxford (Merton College : Warden %1285-1295%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 08/07/2024..

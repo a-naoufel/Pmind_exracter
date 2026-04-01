@@ -1,0 +1,11 @@
+PERSON: FULCO de Monteacuto
+Also known as: Fulco de MONTEACUTO.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1407-1425%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en théologie (Paris) ..
+Religious order: O.S.B. : moine bénédictin..
+Religious functions: Abbé de Saint-Médard (diocèse de Soissons) %:1407:-1425%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol ; révision, Jean-Philippe Genet, 23/09/2021..

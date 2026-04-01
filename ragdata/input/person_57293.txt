@@ -1,0 +1,21 @@
+PERSON: PETRUS Cornubiensis 1
+Also known as: Petrus CORNUBIENSIS; Pierre de CORNOUAILLES; Peter of CORNWALL.
+Description: Maître ès arts.
+Status: Extérieur.
+Gender: male.
+Active during: %1159-1221%.
+Born in: Angleterre (Cornouaille, Launceston) ;.
+Diocese of origin: Diocèse de Exeter ?.
+Studied at: ?.
+Academic grades obtained: Magister ?.
+Family relationships: Son père est Jordan de TRECAREL, prévôt de Launceston..
+Academic relationships: Son maître est Henri de NORTHAMPTON, chanoine de Londres (Saint-Paul) ;.
+Social origin: Noblesse ?.
+Ecclesiastical positions held: O.S.A. : chanoine d'Algate (Sainte-Trinité) ;; Prieur (augustin) d'Algate %1197-1221% ;.
+Authored work: 'Pantheologus', composed around , dedicated to Dédié à Henri de NORTHAMPTON : I ;.
+Authored work: 'Liber revelationum', composed around .
+Authored work: 'De reparatione lapsus generis humani', composed around %1197-1208%.
+Authored work: 'De duabus corrigiis praesdestinationis et reprobationis', composed around ?, dedicated to Dédié à Gilbert GLANVILLE..
+Authored work: 'Liber allegorium Petri contra Symonem Judaeum de confutatione Judaeorum', composed around ?.
+Authored work: 'Liber disputationum Petri contra Symonem Judaeum de confutatione Judaeorum', composed around ?%1209-1210%., dedicated to Dédié à Stephen LANGTON..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 20/01/2024..

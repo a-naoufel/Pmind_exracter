@@ -1,0 +1,9 @@
+PERSON: ANDREAS Barnage de Longolio
+Also known as: Andreas BARNAGE de Longolio; Andreas de LONGOLIO.
+Description: Notaire.
+Status: Extérieur.
+Gender: male.
+Active during: %1330-1330%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Beauvais..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 27/07/2020)..

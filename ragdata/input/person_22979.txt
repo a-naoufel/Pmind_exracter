@@ -1,0 +1,11 @@
+PERSON: ALPHONSUS 2
+Also known as: Frater ALPHONSUS.
+Description: Frater.
+Status: Étudiant.
+Gender: male.
+Active during: %1470-1471%.
+Studied at: Paris %1470-1471% ?.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Sorbonne : hôte pendant huit jours en (août-septembre) ?.
+Religious order: Frater ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 16/07/2020..

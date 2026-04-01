@@ -1,0 +1,10 @@
+PERSON: GALFREDUS de Marnef
+Also known as: Gaufridus de MARNEF.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1489-1508%.
+Studied at: Paris (Nation Anglo-allemand)..
+Academic grades obtained: ?.
+University functions: Paris (Nonce : diocèse de Abo %1489-1492%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe GENET, 8/10/2021..

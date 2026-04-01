@@ -1,0 +1,10 @@
+PERSON: PHILIBERTUS Gauffridi
+Also known as: Philibertus GAUFFRIDI.
+Description: Chanoine de Chalon.
+Status: Incertain.
+Gender: male.
+Active during: %1494-1518%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical positions held: Chanoine de Chalon %1494-1518% ;; Recteur de Champforgeuil ;; Archidiacre de Tournus %1504-1518% ;; Recteur de Chalon (Saint-André) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/05/2025..

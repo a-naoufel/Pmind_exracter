@@ -1,0 +1,9 @@
+PERSON: HAIMERICUS Bellue
+Also known as: Emericus BELLUE; Emericus BELUD.
+Description: Etudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1471%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) %1464-1471%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 12/05/2018)..

@@ -1,0 +1,7 @@
+PERSON: GODARDUS Binet
+Also known as: Godardus BINET.
+Description: Bénéficiaire du testament de Stephanus VIDE de Boissiaco.
+Status: Extérieur.
+Gender: male.
+Active during: %1363-1363%.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

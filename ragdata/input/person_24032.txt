@@ -1,0 +1,11 @@
+PERSON: LUDOVICUS 2
+Also known as: LOUIS.
+Description: Chapelain du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1383-1383%.
+Studied at: Paris.
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Dormans-Beauvais : chapelain en ;.
+Ecclesiastical positions held: Prêtre ;; Chapelain de Paris (Collège de Dormans-Beauvais) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/04/2021)..

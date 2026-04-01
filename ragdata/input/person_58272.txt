@@ -1,0 +1,9 @@
+PERSON: HERMANNUS 1
+Also known as: HERMANNUS.
+Description: Grammaticus.
+Status: Incertain.
+Gender: male.
+Active during: %1071-1071%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 26/11/2024..

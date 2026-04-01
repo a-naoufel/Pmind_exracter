@@ -1,0 +1,37 @@
+PERSON: PETRUS Riga
+Also known as: Petrus RIGA; Petrus de RIGA; Pierre RAYE.
+Description: Chanoine augustin.
+Status: Maître.
+Gender: male.
+Active during: %1159-1209%.
+Born in: ?Orléanais (Vendôme ?) ;.
+Diocese of origin: Diocèse de Chartres ?.
+Studied at: Paris ;; Reims..
+Academic grades obtained: Maître ès arts (Paris) ?; Maître en théologie (Paris) ?.
+Social origin: Commun, "d'humble extraction"..
+Religious order: O.S.A. : Chanoineaugustin de Reims (Saint-Denys) %1200-1209%..
+Religious functions: ?Chantre, préchantre, prieur..
+University functions: Paris (Maître enseignant les arts et la théologie ?) ;.
+Authored work: 'Recapitulatio utriusque Testamenti', composed around ?.
+Authored work: 'De laude alterius', composed around ?.
+Authored work: 'Invitat dominum Jesum quidam pharisaeus', composed around ?.
+Authored work: 'Omeliarum metricum', composed around ?.
+Authored work: 'Omeliale syntagma super Missus est', composed around ?.
+Authored work: 'Ex sermonibus analecta', composed around ?.
+Authored work: 'Sanctiloquium metricum', composed around ?.
+Authored work: 'Liber de virtutibus et vitiis', composed around ?.
+Authored work: 'In Job', composed around ?.
+Authored work: 'Aurora', composed around Avant ;.
+Authored work: 'Summula de dialectica', composed around ?.
+Authored work: 'Summula de grammatica', composed around ?.
+Authored work: 'Regulae praeteritorum et supinorum', composed around ?.
+Authored work: 'Colores verborum et sententiarum', composed around ?.
+Authored work: 'Floridus aspectus', composed around Avant ..
+Authored work: 'Dictamina (epistolae metricae ; prosaicae)', composed around ?.
+Authored work: 'Poetria', composed around ?.
+Authored work: 'Chronica de personis, locis et temporibus', composed around ?.
+Authored work: 'Vita sancti Eustachi', composed around ?.
+Authored work: 'Passio S. Agnetis', composed around ?.
+Authored work: 'Vita S. Susannae', composed around ?.
+Authored work: 'Causa regis Franciae contra regem Angliae', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

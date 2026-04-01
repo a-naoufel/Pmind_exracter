@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Miee
+Also known as: Guillermus MIÉE.
+Description: Avocat à la curie parisienne.
+Status: Incertain.
+Gender: male.
+Active during: %1354-1369%.
+Studied at: Orléans..
+Academic grades obtained: Magister ?; Étudiant en droit canon ;; Licencié en droit civil (Orléans) ;.
+Other ecclesiastical functions: Official d'Évreux ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 7/12/2021..

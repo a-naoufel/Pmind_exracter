@@ -1,0 +1,7 @@
+PERSON: GUILLELMUS Viviani 2
+Also known as: Guillelmus VIVIANI.
+Description: Sergent à cheval.
+Status: Extérieur.
+Gender: male.
+Active during: %1408-1421%.
+Source: http://www.parismoyenage.fr/parisiens/fiche.php?nomVivienprenomGuillaumeid02.

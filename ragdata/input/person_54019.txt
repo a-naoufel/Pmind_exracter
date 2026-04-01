@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Mellayo
+Also known as: Guillelmus de MELLAYO.
+Description: Chanoine d’Angers.
+Status: Incertain.
+Gender: male.
+Active during: %1394-1397%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Family relationships: Son parent est Nicolaus de MELLAYO ;.
+Ecclesiastical positions held: Chanoine d’Angers %1394-1397% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/07/2022)..

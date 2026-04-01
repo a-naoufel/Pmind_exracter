@@ -1,0 +1,46 @@
+PERSON: SIMON de Faversham
+Also known as: Simon de FAVERSHAM.
+Description: Chanoine de Hereford.
+Status: Maître.
+Gender: male.
+Active during: %1265-1306%.
+Born in: Angleterre (Kent : Faversham ?)..
+Studied at: Oxford ;; Paris..
+Academic grades obtained: Maître ès arts (Paris) vers ?; Docteur en théologie (Oxford) avant ..
+Ecclesiastical status: Sous-diacre ;; Diacre ..
+Ecclesiastical positions held: Recteur de Preston (Kent) %1290- % ;; Recteur de Harrow (Middlesex) %1299-1304% au moins ;; Chanoine de Hereford %1304-1306% ;; Archidiacre de Canterbury ;; Recteur de Reculver (Kent) ;.
+University functions: Paris (Faculté des arts : Maître-régent) ;; Oxford (Université : chancelier %1304-1306%)..
+Authored work: 'Quaestiones super libro Porphyrii', composed around ?.
+Authored work: 'Quaestiones super lib. Perihermenias', composed around ?.
+Authored work: 'Quaestiones super libro Praedicamentorum', composed around ?.
+Authored work: 'Quaestiones super lib. Priorum Analyticorum', composed around ?.
+Authored work: 'Quaestiones super lib. Posteriorum Analyticorum', composed around ?.
+Authored work: 'Super lib. Posteriorum quaestiones aliae', composed around ?.
+Authored work: 'Super lib. Elenchorum', composed around ?%1270-1300%.
+Authored work: 'Super lib. Elenchorum quaestiones aliae', composed around ?.
+Authored work: 'Questiones super universalia', composed around ?.
+Authored work: 'Super lib. Topicorum', composed around ?.
+Authored work: 'Sophisma ‘Universale est intentio’', composed around ?.
+Authored work: 'Comm. in Summulas logicales Petri Hispani', composed around ?.
+Authored work: 'Quaestiones in VIII libros Physicorum', composed around Avant ..
+Authored work: 'Super libros I-VIII Physicorum quaestiones aliae', composed around ?.
+Authored work: 'Quaestiones super libr. De coelo et Mundo', composed around ?.
+Authored work: 'Quaestiones super De Generatione et Corruptione', composed around ?.
+Authored work: 'Quaestiones super lib. de somno et vigilia', composed around ?.
+Authored work: 'Quaestiones super libros de motu animalium', composed around ?.
+Authored work: 'Super libros de longitudine et brevitate vitae', composed around ?.
+Authored work: 'Quaestiones in libr. De juventute et senectute, de inspiratione et respiratione', composed around ?.
+Authored work: 'Quaestiones super III de Anima', composed around ?.
+Authored work: 'Recollectiones super librum Metheororum', composed around ?.
+Authored work: 'Dictata in librum de Spiritu et Anima', composed around ?.
+Authored work: 'Dictata in librum de Intellectu et intelligibili', composed around ?.
+Authored work: 'Abbreviationes librorum naturalium', composed around ?.
+Authored work: 'Questiones super Parva naturalia', composed around ?.
+Authored work: 'Questiones super libro De memoria et reminiscentia', composed around ?.
+Authored work: 'In Ethica Aristotelis', composed around ?.
+Authored work: 'Dictata in Metaphysicorum libros', composed around ?.
+Authored work: 'De computu ecclesiastico', composed around ?.
+Authored work: 'Dictata in lib. de Somno et Vigilia', composed around ?.
+Authored work: 'Abbreviationes librum naturalium', composed around /L’œuvre est signalée par Richard SHARPE, mais l’attribution n’a selon lui aucun fondement.
+Authored work: 'Quaestiones de meteorologicis', composed around ?.
+Source: ODNB : S.F. BROWN ;.

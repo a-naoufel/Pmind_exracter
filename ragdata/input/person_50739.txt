@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Hennor
+Also known as: William de HENNOR; William de HEVER; Guillaume HENNOT.
+Description: Recteur de Longley.
+Status: Extérieur.
+Gender: male.
+Active during: %1299-1340%.
+Studied at: Oxford (Merton College) %1299-1305%..
+Academic grades obtained: Maître ès arts (Oxford) av...
+Ecclesiastical positions held: ?Recteur de Longley (Derbyshire) % -1340%..
+University functions: Oxford (Merton College : bachelor-fellow %1299-1301%) ;; Oxford (Merton College : fellow %1301-1305% au moins)..
+Authored work: 'Lectura brevis super lib. IX, X et XIV Metaphysicae', composed around ?.
+Authored work: 'Quaestio', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 31/03/2020..

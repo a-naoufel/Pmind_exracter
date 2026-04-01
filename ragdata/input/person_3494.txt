@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Gerahault
+Also known as: Guillelmus GERAHAULT; Guillaume GERAHAULT.
+Description: Étudiant en médecine à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1496-1497%.
+Studied at: Paris (Faculté de médecine) %1496-1497%..
+Academic grades obtained: Étudiant en médecine (Paris) %1496-1497%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Anne Tournieroux, révision, Jean-Philippe Genet 02/05/2022..

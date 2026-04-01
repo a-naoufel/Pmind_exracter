@@ -1,0 +1,11 @@
+PERSON: THOMAS Semere Anglicus
+Also known as: Thomas SEMERE Anglicus ;; Thomas Semere ANGLICUS..
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1345-1345%.
+Born in: Angleterre ?.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Galterus de WARDLAW pour la licence et la maîtrise en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 13/10/2024..

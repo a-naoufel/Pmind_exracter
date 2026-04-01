@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Ivain
+Also known as: Guillelmus IVAIN; Guillaume IVAIN.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1480-1484%.
+Studied at: Paris (Faculté de médecine) %1480-1484%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+University functions: Paris (Faculté de médecine : maître-régent en %1483-1484%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 7/05/2022)..

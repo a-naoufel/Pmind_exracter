@@ -1,0 +1,9 @@
+PERSON: PETRUS Petit
+Also known as: Petrus PETIT.
+Description: Licencié ès lois.
+Status: Incertain.
+Gender: male.
+Active during: %1504-1504%.
+Studied at: ?.
+Academic grades obtained: Licencié ès lois en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

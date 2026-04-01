@@ -1,0 +1,14 @@
+PERSON: PAULUS Bardonis
+Also known as: Paulus BARDONIS; PALL Barðrson; Paall BAARÐARSON.
+Description: Archevêque.
+Status: Maître.
+Gender: male.
+Active during: %1309-1346%.
+Born in: Norvège..
+Studied at: Paris, vers ;; Orléans, av. ..
+Academic grades obtained: Docteur "in utroque jure", ..
+Family relationships: Son frère est peut-être PETRUS Bårdsson, chanoine de Bergen %1309-1311%?.
+Ecclesiastical positions held: Chanoine de Bergen, %1309-1333%;; Chanoine de Nidaros (Trondheim), %1313-1333%;; Chanoine d'Oslo (cathédrale), ;; Chanoine de Hamar, av. 1333%;; Prévôt de la Collégiale royale Notre-Dame d’Oslo ;; Archevêque de Nidaros (Trondheim), %1333-1346..
+Other ecclesiastical functions: Procureur et envoyé spécial de ARNE Sigurdsson, évêque de Bergen, ;; Procureur de AUDFINNUS Sigurdsson, évêque de Bergen, à la Curie %1320-1326%;; Procureur de ELAVUS Arnesson Korte, archevêque de Trondheim, à la Curie, ;; Procureur et envoyé de AUDFINNUS Sigurdsson, évêque de Bergen, auprès de ELAVUS Arnesson Korte, archevêque de Trondheim, .; Il a convoqué plusieurs conciles provinciaux, à Nidaros, , Tønsberg, , Nidaros , Bergen, ..
+Authored work: '[Statuts]'.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth MORNET, révision 15/11/2025..

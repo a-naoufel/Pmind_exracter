@@ -1,0 +1,9 @@
+PERSON: GERARDUS Acon.
+Also known as: Girardus ACON., bourgeois de Paris.
+Description: Bourgeois de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1230-1230%.
+Family relationships: Sa femme est JACQUELINA..
+Social origin: Bourgeois de Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 8/12/2021..

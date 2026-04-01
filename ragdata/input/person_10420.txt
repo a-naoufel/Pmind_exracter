@@ -1,0 +1,17 @@
+PERSON: PETRUS de Roissiaco
+Also known as: Petrus de ROISSIACO; Pierre de ROISSY.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1198-1213%.
+Born in: Île-de-France (Roissy ?) ?.
+Diocese of origin: Diocèse de Paris ?.
+Studied at: Chartres ?; Paris avant ..
+Academic grades obtained: Maître en théologie (Paris) ? ;.
+Ecclesiastical status: Prêtre..
+Ecclesiastical positions held: Chancelier de Chartres %1205-1213%..
+University functions: Paris (Maître-régent en théologie %1200-1205% ?) ;.
+Authored work: 'Manuale de mysteriis ecclesie 1', composed around ?.
+Authored work: 'Manuale de mysteriis ecclesie 2', composed around ?.
+Authored work: '(Glose sur le Cantique des Cantiques)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction, Jean-Philippe Genet, dernière mise à jour 13/01/2025..

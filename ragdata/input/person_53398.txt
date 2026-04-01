@@ -1,0 +1,10 @@
+PERSON: ODO Etienne
+Also known as: Eudes ÉTIENNE.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1200-1200%.
+Studied at: Paris..
+Academic grades obtained: Magister ?.
+University functions: Paris (Maître de droit vers )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/02/2022)..

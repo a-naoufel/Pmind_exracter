@@ -1,0 +1,11 @@
+PERSON: PETRUS de Buxeriis
+Also known as: Petrus de BUXERIIS.
+Description: Licencié en droit canon.
+Status: Maître.
+Gender: male.
+Active during: %1403-1403%.
+Studied at: Paris %1403-1403%..
+Academic grades obtained: Licencié en droit canon (Paris) ;; Étudiant en théologie (Paris) %1399-1403% ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Curé de « Nocento » au diocèse de Langres en ;; Candidat à un bénéfice sur le Rotulus licentiatorum et bacallariorum in decretis Parisius adressé à BENOÎT XIII en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 22/04/2019..

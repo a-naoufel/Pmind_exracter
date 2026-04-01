@@ -1,0 +1,37 @@
+PERSON: MICHAEL de Cesena
+Also known as: Michele da CESENA.
+Description: Maître général des Franciscains.
+Status: Maître.
+Gender: male.
+Active during: %1290-1342%.
+Born in: Italie (Émilie-Romagne : Ficchio, près de Cesena)..
+Studied at: Paris, entre et ..
+Academic grades obtained: Maître en théologie (Paris) ca...
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) %1307-1316%..
+Social origin: ?.
+Religious order: O.F.M. : frère franciscain du couvent (franciscain) de Césène..
+Religious functions: Custode du couvent (franciscain) de Bologne .; Ministregénéral des Franciscains %1316-1328% ;.
+University functions: Bologne (custode) ..
+Authored work: 'Comment. in libros I-IV Sententiarum', composed around ?.
+Authored work: 'Comment. in Ezechielem', composed around ?.
+Authored work: 'Expositio in Psalmo 50 Miserere', composed around ?.
+Authored work: '(Vota quorundam magistrorum in theologie contra trs articulos partis Ordinis Minorum', composed around (avril, Avignon)..
+Authored work: 'Sermones de sanctis et de tempore', composed around ?.
+Authored work: 'Sermones in festivitatibus B. Virginis', composed around ?.
+Authored work: 'Constitutiones Generales Ord. Fratrum Minorum', composed around (juillet-août)..
+Authored work: 'Epistola statutoria (lettre d'envoi)', composed around ?.
+Authored work: 'Epitres officielles, 45', composed around ?.
+Authored work: 'Memorialia data in capitulo Perusii', composed around ..
+Authored work: '(Lettre)', composed around (9 juillet)..
+Authored work: 'Appellatio Pisana Maior', composed around (18 septembre, Pise)..
+Authored work: 'Allegationes magistrorum', composed around ..
+Authored work: 'Appellatio Monacensis', composed around (26 mars, Munich)..
+Authored work: '(Lettre à Louis de GONZAGUE, vicaire impérial)', composed around ?%1330-1331% (25 avril)..
+Authored work: '(Lettre)', composed around (24 janvier)..
+Authored work: '(Lettre au Chapitre de Perpignan)', composed around (25 mars)..
+Authored work: 'Tractatus contra errores Johannis papae', composed around (25 avril)..
+Authored work: '(Réponse à Guiral OT)', composed around (décembre, Munich)..
+Authored work: 'Appellatio Monacensis', composed around (24 août, Munich)..
+Authored work: 'De paupertate', composed around ?.
+Authored work: 'Responsiones ad quaestionem, utrum asserere, quod Christus, et apostoli non habuerunt aliquid nec in proprio nec in commune, sit haereticum', composed around ?.
+Source: ROEST (B.), Franciscan Authors :.

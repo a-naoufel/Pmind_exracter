@@ -1,0 +1,9 @@
+PERSON: LAURENTIUS de Ligno
+Also known as: Laurentius de LIGNO.
+Description: Étudiant.
+Status: Maître.
+Gender: male.
+Active during: %1464-1468%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?; Maître ès arts (Paris) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 7/08/2016..

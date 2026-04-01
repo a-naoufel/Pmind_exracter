@@ -1,0 +1,10 @@
+PERSON: HAIMO 2
+Also known as: AYMO.
+Description: Chanoine de Mâcon.
+Status: Incertain.
+Gender: male.
+Active during: %1245-1245%.
+Studied at: ?; Maître ;.
+Ecclesiastical positions held: Chanoine de Mâcon ;.
+Other ecclesiastical functions: Official de Mâcon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 12/02/2023)..

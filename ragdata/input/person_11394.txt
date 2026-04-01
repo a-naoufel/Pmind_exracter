@@ -1,0 +1,12 @@
+PERSON: SIMON Lienson
+Also known as: Simon LIENSON; Simon de LIENCHON.
+Description: Maître en arts et bachelier en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1379-1382%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon..
+Studied at: Paris %1379-1382%..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Bachelier en médecine (Paris) %1379-1382% ;.
+Ecclesiastical status: Clerc du diocèse de Laon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 4/11/2021..

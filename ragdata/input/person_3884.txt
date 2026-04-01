@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Fouratus
+Also known as: Guillelmus dictus FOURATUS.
+Description: Clerc.
+Status: Incertain.
+Gender: male.
+Active during: %1287-1287%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical status: Clerc..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 4/02/2020..

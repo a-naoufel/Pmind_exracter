@@ -1,0 +1,10 @@
+PERSON: ANTHONIUS Rugale
+Also known as: Antoine RUGALE.
+Description: Maître en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1492-1509%.
+Studied at: Paris %1508-1509%..
+Academic grades obtained: Licencié en théologie (Paris) (25 janvier) ;; Maître en théologie (Paris) (27 mars) ;.
+College affiliation: Collège du CardinalLemoine : étudiant ès arts ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/01/2024)..

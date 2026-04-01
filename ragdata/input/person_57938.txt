@@ -1,0 +1,10 @@
+PERSON: MATTHAEUS Benoist
+Also known as: Matthaeus BENOIST.
+Description: Boursier en décret du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1501-1504%.
+Studied at: Paris %1501-1504%..
+Academic grades obtained: Étudiant en décret (Paris) %1501-1504% ;.
+College affiliation: Collège d'Autun : boursier en décret en %1501-1504% ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

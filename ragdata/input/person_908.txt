@@ -1,0 +1,10 @@
+PERSON: ARNALDUS Machet
+Also known as: Arnaldus MACHET; Arnaud MACHET.
+Description: Boursier artien au Collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1376-1376%.
+Studied at: Paris (Collège de Navarre) %1376-1376%..
+Academic grades obtained: É.A. (P) ..
+College affiliation: Boursier artien au Collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 12/11/2020)..

@@ -1,0 +1,11 @@
+PERSON: ADAM Linc
+Also known as: Adam LINC.
+Description: Bachelier ès arts..
+Status: Gradué.
+Gender: male.
+Active during: %1472-1472%.
+Born in: Rhénanie..
+Diocese of origin: Diocèse de Spire..
+Studied at: Paris..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 14/04/2020..

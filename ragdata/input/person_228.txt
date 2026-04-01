@@ -1,0 +1,8 @@
+PERSON: AEGIDIUS de Ponte
+Also known as: Aegidius de PONTE.
+Description: Conseiller du roi de France..
+Status: Extérieur.
+Gender: male.
+Active during: %1341-1354%.
+Academic grades obtained: Magister..
+Source: Chronologie et Bibliographie de Paris au Moyen Âge : http://www.parismoyenage.fr.

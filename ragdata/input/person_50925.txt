@@ -1,0 +1,10 @@
+PERSON: ARCHIDIACONUS de Chalons
+Also known as: Archidiaconus de CHALONS.
+Description: Archidiacre de Châlons.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant ?.
+Ecclesiastical positions held: Archidiacre de Châlons en %1329-1330% ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 09/06/2020)..

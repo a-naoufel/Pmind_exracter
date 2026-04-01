@@ -1,0 +1,14 @@
+PERSON: ALVARUS Ovietense
+Also known as: Alvarus d'OVIEDO; Alvarus OVIETENSE.
+Description: Traducteur.
+Status: Extérieur.
+Gender: male.
+Active during: %1270-1296%.
+Born in: Castille (Oviedo)..
+Diocese of origin: Diocèse d’Oviedo ?.
+Studied at: ?.
+Authored work: 'In lib. Averrois De substantia orbis, comm.', composed around ?, dedicated to Écrit pour Gonzalo GARCIA GUDIEL, archevêque de Tolède..
+Authored work: 'Comm. in Haly Aberangel de judiciis astrorum', composed around ?, dedicated to Écrit à la demande de ALPHONSE X, roi de Castille..
+Authored work: 'De intellectu humano', composed around ?.
+Authored work: 'De creatione mundi', composed around ?.
+Source: www.tradlat.org (IRHT).

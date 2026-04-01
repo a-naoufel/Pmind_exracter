@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Michaelis
+Also known as: Nicolaus MICHAELIS.
+Description: Maître ès arts ?.
+Status: Incertain.
+Gender: male.
+Active during: %1495-1495%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ?.
+Authored work: 'Argumenta communia ad inferendum sophistice unamquamque propositionem esse veram et esse falsam', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 21-01-2025..

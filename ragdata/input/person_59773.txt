@@ -1,0 +1,10 @@
+PERSON: AEGIDIUS Cleremen
+Also known as: Aegidius CLEREMEN.
+Description: Décrétiste.
+Status: Étudiant.
+Gender: male.
+Active during: %1427-1440%.
+Diocese of origin: Diocèse de Cambrai..
+Studied at: Louvain ;; Paris ..
+Academic grades obtained: Étudiant en décret (Paris) ?.
+Source: RAG ;.

@@ -1,0 +1,12 @@
+PERSON: GABRIEL Cruseau
+Also known as: Gabriel CRUSEAU.
+Description: Maître en théologie franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1486-1502%.
+Studied at: Paris..
+Academic grades obtained: Licencié en théologie (Paris) (14 février) ;; Maître en théologie (Paris) (18 novembre) ;.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Religious order: O.F.M. : frère franciscain..
+University functions: Paris (Faculté de Théologie : presentatus (régent désigné) au couvent (franciscain) de Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 19/12/2023..

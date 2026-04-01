@@ -1,0 +1,15 @@
+PERSON: MATTHAEUS Majoris 2
+Also known as: Matheus MAJORIS; Mathieu LE MAIRE.
+Description: Chapelain du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1401-1403%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Meaux ;.
+Studied at: Paris %1401-1403%..
+Academic grades obtained: Étudiant (Paris) %1401-1403%.
+College affiliation: Collège de Dormans-Beauvais : chapelain %1401-1403% ;.
+Family relationships: Son parent est Pierre LEMAIRE ; Son parent est peut-être Enguerrand LEMAIRE, clerc de la chapelle ; Son parent est peut-être Denis LEMAIRE, dépensier ; Son parent est peut-être Jean LEMAIRE I, boursier ; Son parent est peut-être Jean LEMAIRE II, boursier ;.
+Ecclesiastical status: Prêtre du diocèse de Meaux en ;.
+Ecclesiastical positions held: Chapelain du collège de Dormans-Beauvais : %1401-1403% ;; Curé de Châtillon en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 27/11/2018..

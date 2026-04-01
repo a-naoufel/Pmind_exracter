@@ -1,0 +1,10 @@
+PERSON: X de Sacilliaco
+Also known as: X. de SACILLIACO.
+Description: Chanoine d’Arezzo.
+Status: Extérieur.
+Gender: male.
+Active during: %1320-1320%.
+Studied at: ?.
+Religious order: Chanoine d’Arezzo.
+Other ecclesiastical functions: Vicaire général de l’évêque de Langres,; X. de SACILLIACO, chanoine d’Arezzo, vicaire général de l’évêque de Langres,.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 09/03/2020..

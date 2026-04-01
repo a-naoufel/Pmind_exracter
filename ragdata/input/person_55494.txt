@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Bordeaux
+Also known as: Nicolaus BORDEAuX.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1444-1445%.
+Studied at: Paris (Nation de France) %:1387-1403% ;.
+Academic grades obtained: Maître ès arts (Paris) en ;.
+University functions: Paris (Nation de France : maître-régent en %1444-1445%) ;; Paris (Nation de France : il est désigné en (4 janvier) "temptator baccalorium" pour la province de Tours en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 2/12/2018..

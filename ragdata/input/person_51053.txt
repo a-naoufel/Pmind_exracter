@@ -1,0 +1,7 @@
+PERSON: X Des Essars
+Also known as: DESESSARS.
+Description: Maîtresse d’école.
+Status: Suppôt.
+Gender: female.
+Active during: %1446-1446%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 31/08/2020..

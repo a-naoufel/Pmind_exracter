@@ -1,0 +1,13 @@
+PERSON: GILBERTUS de Alost
+Also known as: Gilbertus d’ALOST.
+Description: Chanoine de Tournai.
+Status: Incertain.
+Gender: male.
+Active during: %1224-1234%.
+Born in: Flandre (Aalst) ;.
+Diocese of origin: Diocèse de Tournai ?.
+Studied at: ?.
+Academic grades obtained: Magister ..
+Ecclesiastical status: Diacre ;.
+Ecclesiastical positions held: Chanoine de Tournai %1224-1234% au moins ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 22/05/2017..

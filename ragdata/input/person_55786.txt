@@ -1,0 +1,11 @@
+PERSON: BERTRANDUS Bardin
+Also known as: Bertrand BADIN.
+Description: Maître barbier.
+Status: Étudiant.
+Gender: male.
+Active during: %1516-1516%.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Sa femme est Jeanne PHILIPPE..
+Social origin: Bourgeois de Paris..
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

@@ -1,0 +1,31 @@
+PERSON: PETRUS de Barro
+Also known as: Petrus de BARRO; Pierre de BAR; Petrus de BARRO-SUPER-ALBA; Pierre de BAR-SUR-AUBE.
+Description: Cardinal..
+Status: Maître.
+Gender: male.
+Active during: %1227-1253%.
+Born in: Champagne (Bar-Sur-Aube)..
+Diocese of origin: Diocèse de Langres ?.
+Studied at: Paris vers %1229-1230%..
+Academic grades obtained: Maître en théologie (Paris)..
+Family relationships: Membre de la famille des comtes de Bar-sur-Aube..
+Social origin: Noble..
+Ecclesiastical positions held: Doyen de Bar-sur-Aube (Saint-Marlo) ;; Chancelier de Noyen ;; Cardinalprêtre de Saint-Marcel en ;; Cardinalévêque de Sabine..
+University functions: Paris (Faculté de Théologie : Maîtrerégent %1230-1231%) ?.
+Representation roles: Légat en Espagne ;; Il participe au premier Concile de Lyon en ..
+Authored work: 'Quaestiones theologicae : quae ad corpus pertinent', composed around %1227-1231%.
+Authored work: 'Quaestiones theologicae : de purgatione mundi', composed around %1227-1231%.
+Authored work: 'Quaestiones theologicae : de operibus mortuis', composed around %1227-1231%.
+Authored work: 'De occasionibus', composed around %1227-1231%.
+Authored work: 'De fructibus Spiritus Sancti', composed around %1227-1231%.
+Authored work: 'De confessione', composed around %1227-1231%.
+Authored work: 'De oratione', composed around %1227-1231%.
+Authored work: 'De casibus secundum acceptionem personarum', composed around %1227-1231%.
+Authored work: 'De resurrectione in generali, an sit necessarium', composed around %1227-1231%.
+Authored work: 'Utrum Pater et Filius diligant se Spiritu Sancto', composed around %1227-1231%.
+Authored work: 'Sermo in dom. post festum Omnium Sanctorum', composed around (3 novembre)..
+Authored work: 'Sermo in Vigilia Nativitatis', composed around (24 décembre) à Saint-Victor..
+Authored work: 'Sermo in Epiphania Domini', composed around (6 janvier)..
+Authored work: 'Sermo', composed around (2 mars)..
+Authored work: 'Sermo in dom. qua cantatur Judica me', composed around (9 mars)..
+Source: MIRANDA : Cardinals of the Holy Roman Church ;.

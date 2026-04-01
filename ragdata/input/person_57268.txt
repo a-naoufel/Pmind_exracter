@@ -1,0 +1,12 @@
+PERSON: MATTHAEUS Augier de Crécy
+Also known as: Mathieu AUGIER de Crécy.
+Description: Boursier du Collège de Laon.
+Status: Étudiant.
+Gender: male.
+Active during: %1375-1379%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie ?) %1375-1379% ;.
+Academic grades obtained: Étudiant (Paris) en %1375-1379% ;.
+College affiliation: Collège de Laon : boursier en %1375-1379% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/01/2024)..

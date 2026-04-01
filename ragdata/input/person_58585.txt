@@ -1,0 +1,11 @@
+PERSON: ALTMANNUS de Passau
+Also known as: Altmannus de PASSAU.
+Description: Évêque de Passau.
+Status: Extérieur.
+Gender: male.
+Active during: %1035-1090%.
+Born in: Westphalie ?.
+Studied at: ?.
+Academic grades obtained: Magister ?.
+Social origin: Noble..
+Ecclesiastical positions held: Écolâtre de Paderborn ;; Prévôt d’Aix-la-Chapelle ;; Chanoine de Goslar ;; Évêque de Passau %1066-1090% ;.

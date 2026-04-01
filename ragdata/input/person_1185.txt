@@ -1,0 +1,9 @@
+PERSON: BARTHOLOMAEUS de Roye
+Also known as: Barthélemy de ROYE.
+Description: Grand Chambrier de France.
+Status: Extérieur.
+Gender: male.
+Active during: %1190-1237%.
+Family relationships: Son père est Roques de ROYE ; Sa mère est Adeline de GUISE. Sa femme est Pétronille de MONTFORT ; Son beau-père est Simon de MONTFORT..
+Social origin: Noble ;.
+Source: http://fr.wikipedia.org/wiki/Barthélemy_de_Roye.

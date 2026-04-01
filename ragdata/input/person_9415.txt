@@ -1,0 +1,12 @@
+PERSON: NICOLAUS de Carnoto 2
+Also known as: Nicolaus de CARNOTO.
+Description: Maître ès arts..
+Status: Maître.
+Gender: male.
+Active during: %1329-1342%.
+Born in: Orléanais (Chartres ?) ?.
+Diocese of origin: Diocèse de Chartres ?.
+Studied at: Paris %1329-1342%..
+Academic grades obtained: Maître ès arts (Paris) vers juin ..
+Ecclesiastical positions held: Expectative d'un bénéfice dans le diocèse de Chartres reçue en juin ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 25/09/2022..

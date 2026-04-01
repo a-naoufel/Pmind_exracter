@@ -1,0 +1,9 @@
+PERSON: COLARDUS de Milliaco
+Also known as: Colardus de MILLIACO.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris en %1329-1330%..
+Academic grades obtained: Étudiant à Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 20/04/2021..

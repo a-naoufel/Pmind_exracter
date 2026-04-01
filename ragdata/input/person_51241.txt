@@ -1,0 +1,17 @@
+PERSON: HUGO de Novo Castro
+Also known as: Hugo de NOVO CASTRO.
+Description: Maître franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1300-1322%.
+Studied at: Paris.
+Academic grades obtained: Maître en théologie (Paris) vers ?.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Academic relationships: Son maître est Johannes DUNS Scotus..
+Religious order: O.F.M. : frère franciscain de Neufchâteau en Lorraine, ou de Newcastle en Irlande ?.
+Authored work: 'In Sent. I-IV', composed around ?..
+Authored work: 'De victoria Christi contra Antichristum', composed around ?%1315-1319%..
+Authored work: 'Collationes', composed around ?.
+Authored work: 'Contra abusores indulgentiarum', composed around ?.
+Authored work: 'Mariale', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

@@ -1,0 +1,14 @@
+PERSON: GREGORIUS de Burgundia
+Also known as: Grégoire de BOURGOGNE; Gregorius de BURGUNDIA; Gregorius de VALLE SANCTO LAURENTIO.
+Description: Prieur de Sainte-Catherine.
+Status: Maître.
+Gender: male.
+Active during: %1267-1291%.
+Born in: Bourgogne ?.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) av. ;.
+Religious order: O.S.A. : Chanoinerégulier du ValdesÉcoliers..
+Religious functions: Prieur de SainteCatherine (Paris)..
+University functions: Paris (Faculté de théologie : maître-régent en )..
+Authored work: 'Sermones', composed around (sermon)..
+Source: MIRABILE :.

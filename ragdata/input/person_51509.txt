@@ -1,0 +1,17 @@
+PERSON: ODO de Renoniaco
+Also known as: Odo de RENONIACO; Odo de ROSNI; Eudes de ROSNY.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1248-1273%.
+Studied at: Paris..
+Academic grades obtained: Bachelier en théologie (Paris) vers .; Maître en théologie (Paris) avant ..
+Academic relationships: Son maître est Alexandre de HALES..
+Religious order: O.F.M. : frère franciscain..
+University functions: Paris (Faculté de Théologie : Lecteur des Sentences au couvent franciscain vers.%1244-1245%).; Paris (Faculté de Théologie : ?Maître-Régent au couvent franciscain vers.)..
+Authored work: 'Comment. in libros sententiarum', composed around ?.
+Authored work: 'Abbreviatio Odonis Rigaldi', composed around ?.
+Authored work: 'Sermo in Dom. IIa Quadrag.', composed around .
+Authored work: 'Sermo in festo omnium sanctorum', composed around (1er novembre) aux Champeaux..
+Authored work: 'Sermo in festo SS. Innocentium', composed around (28 décembre) au Béguinage..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 15/11/2020..

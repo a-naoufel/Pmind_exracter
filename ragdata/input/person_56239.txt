@@ -1,0 +1,11 @@
+PERSON: ALANUS Guilloti 1
+Also known as: Alanus GUILLOTI.
+Description: Chanoine du Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1361-1363%.
+Studied at: ?.
+Academic grades obtained: Licencié in utroque jure ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de LeMans %1361-1363% ;; Chanoine de Loches ;; Chanoine de Noyon ;; Chanoine de Guérande (Saint-Aubin) ;; Curé de Fyé ;; Curé de Saint-Georges ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 19/06/2023)..

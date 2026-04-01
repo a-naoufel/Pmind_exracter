@@ -1,0 +1,18 @@
+PERSON: EBRARDUS Bethuniensis
+Also known as: Eberhardus BETHUNIENSIS; Evrard de BETHUNE; GRAECISTA.
+Description: Maître de grammaire ?.
+Status: Maître.
+Gender: male.
+Active during: %1200-1212%.
+Born in: Artois (Béthune)..
+Diocese of origin: Diocèse d'Amiens..
+Studied at: Paris, fin XIIe siècle..
+Academic grades obtained: ?Magister (Paris)..
+Ecclesiastical positions held: Sous-diacre du diocèse d'Amiens..
+University functions: Enseignant à Paris, fin XIIe siècle..
+Authored work: 'Antihaeresis contre Waldenses', composed around .
+Authored work: 'De duodecim abusibus saeculi', composed around ?.
+Authored work: 'Graecismus', composed around ?.
+Authored work: 'Proverbia Senecae metrice', composed around ?.
+Authored work: 'Epistolae', composed around ?.
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

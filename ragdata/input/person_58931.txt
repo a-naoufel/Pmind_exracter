@@ -1,0 +1,10 @@
+PERSON: PETRUS 9
+Also known as: PETRUS.
+Description: Chanoine de Chalon.
+Status: Incertain.
+Gender: male.
+Active during: %1290-1296%.
+Studied at: ?.
+Academic grades obtained: Magister.
+Ecclesiastical positions held: Chanoine de Chalon %1290-1296% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/05/2025..

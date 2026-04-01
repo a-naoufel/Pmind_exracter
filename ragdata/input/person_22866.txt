@@ -1,0 +1,13 @@
+PERSON: GUIDO Gart
+Also known as: Guido GART; Guido GARIN.
+Description: Maître régent.
+Status: Maître.
+Gender: male.
+Active during: %1450-1452%.
+Born in: Anjou ?.
+Diocese of origin: Diocèse de Angers..
+Studied at: Paris (Nation de France) %1450-1451%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son élève pour la maîtrise est Alanus PASCOT en ;.
+University functions: Paris (Faculté des Arts, nation de France : maître-régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/01/2022)..

@@ -1,0 +1,10 @@
+PERSON: GALFREDUS Cade
+Also known as: Gaufridus CADE.
+Description: Abbé séculier de Notre-Dame de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1311-1317%.
+Studied at: ?.
+Academic grades obtained: Maître :.
+Ecclesiastical positions held: Abbéséculier de Poitiers (Notre-Dame) %1311-1317% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 6/8/2017..

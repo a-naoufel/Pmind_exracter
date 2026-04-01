@@ -1,0 +1,13 @@
+PERSON: BERNARDUS Calveti
+Also known as: Bernardus CALVETI.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1379-1385%.
+Studied at: Paris %1379-1385%.
+Academic grades obtained: Bachelier en théologie (Paris) ;; Licencié en théologie (Paris) ;; Docteur en théologie (Paris) ..
+College affiliation: Couvent (Carme) de Paris..
+Religious order: O.Carm. : frère du couvent (Carme) de Montpellier (province de Toulouse)..
+Religious functions: Définiteur du chapitre général des Carmes en ;.
+University functions: Lecteur des Sentences 'pro primo anno' à Paris en %1379-1380% ;; Paris (Faculté de Théologie : Maître-régent du couvent (Carme) de Paris en 1385%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/01/2021..

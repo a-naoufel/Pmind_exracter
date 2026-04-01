@@ -1,0 +1,13 @@
+PERSON: CONRADUS de Bomerscheim
+Also known as: Conradus de BONMERSHEIM; Conradus de ROMERSCHEIM; CONRAD l'Allemand.
+Description: Écolâtre d'Aschaffenburg.
+Status: Étudiant.
+Gender: male.
+Active during: %1336-1336%.
+Born in: Rhénanie ?.
+Diocese of origin: Diocèse de Mayence..
+Studied at: Paris ?.
+Academic grades obtained: Étudiant ?.
+College affiliation: Collège de Sorbonne ?.
+Ecclesiastical status: Prêtre du diocèse de Mayence..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/04/2021..

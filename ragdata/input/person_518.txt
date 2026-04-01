@@ -1,0 +1,14 @@
+PERSON: ALEXANDER de Urchard
+Also known as: Alexandre de URCHARD.
+Description: Chanoine de Moray..
+Status: Maître.
+Gender: male.
+Active during: %1380-1393%.
+Born in: Écosse..
+Studied at: Paris (Nation Anglo-allemande)..
+Academic grades obtained: Maître ès arts (Paris) (peut-être dés %1365-1368%, période pendant laquelle les sources font défaut) ;; Étudiant en décret (Paris) en ..
+Social origin: Noble ?.
+Ecclesiastical status: Prêtre en déjà..
+Ecclesiastical positions held: Chanoine de Moray %1380-1393% au moins ;; Chanoine de Ross %1381-1391% au moins..
+University functions: Paris (Nation Anglo-allemande : peut-être maître régent en art en %1365-1368%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 29/06/2020)..

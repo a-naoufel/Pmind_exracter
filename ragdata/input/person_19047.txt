@@ -1,0 +1,10 @@
+PERSON: EUSTASIUS 3
+Also known as: Maître EUSTACHE.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1272-1272%.
+Studied at: Paris ..
+Academic grades obtained: Magister..
+Authored work: '(Sermo)', composed around %1272-1273%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 16/09/2015)..

@@ -1,0 +1,13 @@
+PERSON: BARTHOLOMAEUS Alberti
+Also known as: Bartholomeus ALBERTI.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1482-1482%.
+Born in: Lyonnais..
+Diocese of origin: Diocèse de Lyon..
+Studied at: Paris %1482-1482%..
+Academic grades obtained: Bachelier en décret (Paris) ..
+Ecclesiastical positions held: Clerc.; Prêtre..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (1ere année) en (7 juillet) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet 6/12/2020)..

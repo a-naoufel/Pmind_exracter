@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Malartico
+Also known as: Guillaume de MALARTICO.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1276-1276%.
+Studied at: ?.
+Academic grades obtained: Magister ?.
+Religious order: Dominicain.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/04/2022)..

@@ -1,0 +1,9 @@
+PERSON: PETRUS Rigaudo
+Also known as: Petrus RIGAUDO.
+Description: Clerc de la Curie.
+Status: Extérieur.
+Gender: male.
+Active during: %1333-1333%.
+Studied at: ?.
+Ecclesiastical positions held: Recteur de ?Vardo au diocèse d’Agen en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 18/03/2020..

@@ -1,0 +1,13 @@
+PERSON: RENERIUS de Blankenburg
+Also known as: Reinhard von BLANKENBURG.
+Description: Évêque d’Halberstadt.
+Status: Extérieur.
+Gender: male.
+Active during: %1090-1123%.
+Born in: Saxe..
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son neveu est peut-être Hugo de SANCTO VICTORE ?.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Worms ;; Prévôt de Hildesheim % -1106% ;; Évêque d’Halberstadt %1106-1123%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/03/2025)..

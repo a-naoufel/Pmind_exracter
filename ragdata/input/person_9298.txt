@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Michaelis
+Also known as: Nicolaus MICHAELIS; NICHOLAUS Michaelis.
+Description: Étudiant.
+Status: Gradué.
+Gender: male.
+Active during: %1348-1348%.
+Born in: ?Suède.
+Studied at: Paris (Nationanglaise), ..
+Academic grades obtained: B.A. (Paris), (mars-avril)..
+Academic relationships: Élève de maître MATHIAS Laurentii de Suecia (déterminance), ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 03/06/2014..

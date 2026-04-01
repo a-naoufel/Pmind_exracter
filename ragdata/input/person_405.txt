@@ -1,0 +1,11 @@
+PERSON: ALBERTUS de Bavaria
+Also known as: Albertus de BAVARIA; Albertus de WAVARIA.
+Description: Procureur de la Nation Anglo-allemande.
+Status: Maître.
+Gender: male.
+Active during: %1358-1363%.
+Born in: Bavière ?.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Maître ès arts (Paris)..
+University functions: Paris (Nation Anglo-allemande : procureur avant ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/06/2020)..

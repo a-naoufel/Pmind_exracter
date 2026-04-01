@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Baril
+Also known as: Guillelmus BARIL.
+Description: Magister.
+Status: Extérieur.
+Gender: male.
+Active during: %1261-1261%.
+Studied at: ?.
+Academic grades obtained: Magister ..
+Ecclesiastical positions held: Chanoine d'Angers ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 30/03/2020..

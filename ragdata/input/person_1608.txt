@@ -1,0 +1,12 @@
+PERSON: CAROLUS de Mauregard 1
+Also known as: Carolus de MAUREGARD I; Charles de MAUREGARD; Charles de MAUREGUARD; Charles de MAUREGART; Charles de MAUREGUART.
+Description: Maître en médecine à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1440-1472%.
+Studied at: Paris (Nation de France), %1440-1451%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Family relationships: Son parent est André de MAUREGARD, maître des comptes ; ?Son père est Nicolas de MAUREGARD, trésorier de France ; ?Sa mère est Gilles de COQUATRIX ; ?Son fils est Raymond de MAUREGARD, bachelier en droit canon, assassiné à Paris en ..
+Ecclesiastical status: Clericus uxoratus ?.
+University functions: Paris (Faculté de Médecine : Doyen de élu en et ) ;; Paris (Faculté de Médecine : Maîtrerégent jusqu'en ) ;; Paris (Faculté de Médecine : Maîtrerégent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 30/03/2021)..

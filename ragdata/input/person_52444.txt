@@ -1,0 +1,14 @@
+PERSON: PETRUS Mercerii 2
+Also known as: Petrus MERCERII.
+Description: Étudiant ès arts.
+Status: Étudiant.
+Gender: male.
+Active during: %1387-1387%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse d’Amiens ;.
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Étudiant ès arts (Paris) ;.
+College affiliation: Collège des Cholets ;.
+Ecclesiastical status: Clerc du diocèse d’Amiens en ;.
+Ecclesiastical positions held: Candidat à un bénéfice ecclésiastique à la collation du doyen et du couvent du prieuré (O.Clun.) de Lihons-en-Santerre (Saint-Pierre) sur le rotulus du Collège des Cholets en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 23/06/2021..

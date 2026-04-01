@@ -1,0 +1,10 @@
+PERSON: INGERANNUS de Bolia
+Also known as: Hageramus de BOLIA; Enguerrand de BOLIA.
+Description: Boursier artien au Collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1342-1342%.
+Studied at: Paris (Collège de Navarre) %1342-1342%..
+Academic grades obtained: Étudiant ès arts (Paris) ..
+College affiliation: Boursier artien au Collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 10/06/2022)..

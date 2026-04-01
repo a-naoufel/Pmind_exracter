@@ -1,0 +1,10 @@
+PERSON: CLAUDIUS 2
+Also known as: CLAUDIUS; CLAUDE.
+Description: Chirurgien parisien..
+Status: Suppôt.
+Gender: male.
+Active during: %1497-1498%.
+Studied at: Paris %1497-1498%..
+Academic grades obtained: ?.
+University functions: Offre de pratiquer une anatomie à la Faculté de médecine de Paris en ..
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 25/02/2021..

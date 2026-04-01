@@ -1,0 +1,14 @@
+PERSON: BURELLUS Jolis
+Also known as: Burellus dicti JOLIS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1379-1380%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris..
+Studied at: Paris ..
+Academic grades obtained: Étudiant en grammaire (Paris) en ;.
+Family relationships: Son père est Mellinus dicti JOLIS, barbier..
+Social origin: Bourgeoisie..
+Ecclesiastical positions held: Supplique en appuyée par la recommandation de CHARLES V, roi de France pour un canonicat avec expectative de prébende ou un office dans la cathédrale de Chartres.; Supplique sur le rotulus de Pierre CHAMBON en pour un bénéfice ecclésiastique à la collation du doyen et du chapitre de Beauvais..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 27/03/2021)..

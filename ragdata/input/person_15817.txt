@@ -1,0 +1,11 @@
+PERSON: CLAUDIUS Panetier
+Also known as: Claudius PANETIER.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1500-1500%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Mâcon..
+Studied at: Paris %1500-1500%..
+Academic grades obtained: Bachelier en décret (Paris) en (2 avril) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 14/04/2021..

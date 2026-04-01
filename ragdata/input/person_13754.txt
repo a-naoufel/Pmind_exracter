@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Nugues
+Also known as: Guillelmus NUGUES; Guillaume NUGUES; Guillaume MIGUES.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1397-1453%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris (Nation de Normandie) %1397-1417%.; Maître ès arts (Paris) avant ;.
+Academic grades obtained: Étudiant en médecine (Paris) %1497-1498% ;; Bachelier en médecine (Paris) %1399-1400% ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ;.
+Ecclesiastical positions held: Chanoine de Lisieux, %1415- %.; Curé de LeTilleul, ;; Curé de Fourques (Saint-Éloi), %1438-1453% ;; Curé de Rouen (Saint-Cande le Jeune), %1440-1453% ;; Chanoine de Rouen, %1440-1453%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 20/05/2022..

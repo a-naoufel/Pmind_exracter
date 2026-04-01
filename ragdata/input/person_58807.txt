@@ -1,0 +1,11 @@
+PERSON: FRANCISCUS Krebel
+Also known as: Franciscus KREBEL.
+Description: Abbé de Waldsassen.
+Status: Incertain.
+Gender: male.
+Active during: %1339-1339%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.Cist. : moine cistercien ;.
+Religious functions: Abbé de l’abbaye (O.Cist.) de Waldsassen élu en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 05/05/2025..

@@ -1,0 +1,11 @@
+PERSON: ANTHONIUS Vigier
+Also known as: Anthonius VIGIER.
+Description: Prieur de Notre-Dame-des-Champs..
+Status: Étudiant.
+Gender: male.
+Active during: %1476-1476%.
+Studied at: Paris %1476-1476%..
+Academic grades obtained: Étudiant (Paris) ..
+Religious order: O.S.B. : moine bénédictin..
+Religious functions: Prieur de Notre-Dame-des-Champs (dépendance de Marmoutier dans le diocèse de Paris) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux et Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 15/10/2020)..

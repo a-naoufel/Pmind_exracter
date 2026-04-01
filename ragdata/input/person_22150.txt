@@ -1,0 +1,10 @@
+PERSON: BOSO 2
+Also known as: BOSO; BOZO.
+Description: Chanoine de Tournai.
+Status: Incertain.
+Gender: male.
+Active during: %1233-1242%.
+Studied at: ?.
+Academic grades obtained: Magister avant ..
+Ecclesiastical positions held: Chanoine de Châlons-en-Champagne ;; Trésorier de Saint-Quentin ;; Chanoine de Tournai ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/05/2017..

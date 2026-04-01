@@ -1,0 +1,12 @@
+PERSON: GISLEBERTUS de ZILE
+Also known as: Gislebertus de ZILE.
+Description: Chanoine de Cologne.
+Status: Étudiant.
+Gender: male.
+Active during: %1365-1365%.
+Born in: Pays-Bas ?.
+Diocese of origin: Diocèse d’Utrecht ;.
+Studied at: Paris avant ;.
+Academic grades obtained: Étudiant (Paris) avant ;.
+Ecclesiastical positions held: Chanoine de Cologne (Saints-Apôtres) ;.
+Source: RAG ;.

@@ -1,0 +1,10 @@
+PERSON: HYRO de Almania
+Also known as: Hyro de ALMANIA.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Born in: Allemagne ?.
+Studied at: Paris (Nation Anglo-allemande) en ..
+Academic grades obtained: Étudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 3/09/2022)..

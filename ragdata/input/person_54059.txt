@@ -1,0 +1,9 @@
+PERSON: GERARDUS de Grantchamp
+Also known as: Gerardus de GRANTCHAMP; Gerardus de GRANDCHAMP.
+Description: Avocat du roi au Châtelet.
+Status: Incertain.
+Gender: male.
+Active during: %1419-1449%.
+Studied at: ?.
+Academic grades obtained: Licencié ès lois ;.
+Source: Paris Moyen Âge :.

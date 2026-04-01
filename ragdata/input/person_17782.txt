@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Dutot
+Also known as: Guillelmus DUTOT; Guillelmus du TOT.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1432-1432%.
+Born in: Normandie (Rouen) ;.
+Diocese of origin: Diocèse de Rouen ?.
+Studied at: Paris %1432-1432%..
+Academic grades obtained: Bachelier en décret (Paris) 9 avril ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tourniroux ; révision, Jean-Philippe Genet, 26/04/2022)..

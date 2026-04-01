@@ -1,0 +1,25 @@
+PERSON: CONRADUS Grütsch
+Also known as: Conradus GRÜTSCH; Conrad GRITSCH.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1429-1475%.
+Born in: Bâle..
+Studied at: Paris (studium franciscain) %1435-1436% ;; Vienne (studium franciscain) %1436-1437%.; Heidelberg (Faculté de Théologie) hiver %1451-1452%..
+Academic grades obtained: Étudiant (Paris) %1435-1436% ;; Bachelier en théologie (Heidelberg) ;.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) %1435-1436%..
+Family relationships: Son frère est Johan GRÜTSCH, chanoine de Bâle (St-Pierre) et recteur de l’Université de Bâle sous le nom duquel ses sermons ont été imprimés..
+Religious order: O.F.M. : frère franciscain ..
+Religious functions: Zürich (Couvent franciscain : lecteur) ;; Zürich (Couvent franciscain : custos) ;; Mulhouse (Couvent franciscain : lecteur) et %1467-1468% ;; Mulhouse (Couvent franciscain : custos) et %1467-1468% ;; Bâle (Couvent franciscain : lecteur) ;; Berne (Couvent franciscain : lecteur) ;; Burgdorf (Couvent franciscain : lecteur) ;; Fribourg (Couvent franciscain : lecteur %1458-1461%) ;; Fribourg (Couvent franciscain : custos %1458-1461%) ;; Fribourg (Couvent franciscain : maître des tertiaires %1458-1461%) ;.
+Representation roles: Participe au concile de Bâle en .; Bernt ROEST suggère qu’il aurait été favorable à FELIX V..
+Authored work: '(Extraits d’œuvres théologiques et philosophiques)', composed around %1425-1429% à Strasbourg..
+Authored work: 'Tabula super Textum Libri Sententiarum Edita de mandato Sanctissimi in Christo Patris et Domini Johannis Papae 22. a Fratre Francisco Toti de Perusio', composed around %1425-1429% à Strasbourg..
+Authored work: 'Quadragesimale [50 sermons];', composed around %1440-1444%..
+Authored work: 'Registrum de Evangeliorum et Epistolarum Thematibus atque Introductionibus', composed around ?.
+Authored work: 'Commune de Sanctis et Registrum de Sanctis', composed around ?.
+Authored work: 'Quadragesimale [51 sermons]', composed around ..
+Authored work: 'Opus Sermonum de Tempore [54 sermons]', composed around ..
+Authored work: 'Alphabetum Sermonum', composed around ..
+Authored work: 'Registrum Alphabeticum Exemplorum', composed around ?.
+Authored work: '(Extraits d’œuvres théologiques et philosophiques)', composed around à Strasbourg..
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

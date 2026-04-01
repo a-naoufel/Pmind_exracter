@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS de Sancto Dionysio 2
+Also known as: Aegidius de SANCTO DENYSIO; Gilles de SAINT-DENIS.
+Description: Boursier artien au Collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1372-1387%?.
+Studied at: Paris (Collège de Navarre) %1372-1387%?..
+Academic grades obtained: Étudiant ès arts (Paris) ;; ?Étudiant en décret en ..
+College affiliation: Boursier artien au Collège de Navarre à Paris en ..
+Ecclesiastical positions held: ?Prêtre du diocèse de Paris.; ?Candidat à un bénéfice dans la ville et le diocèse de Meaux en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 29/04/2020)..

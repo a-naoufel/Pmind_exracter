@@ -1,0 +1,10 @@
+PERSON: STEPHANUS Druart
+Also known as: Stephanus DRUART.
+Description: Boursier du collège de Dainville.
+Status: Étudiant.
+Gender: male.
+Active during: %1408-1418%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Dainville : Boursier ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

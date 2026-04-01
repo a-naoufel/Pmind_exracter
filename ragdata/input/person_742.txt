@@ -1,0 +1,9 @@
+PERSON: ANDREAS de Wesalia
+Also known as: Andreas de WESALIA.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1410-1410%.
+Studied at: ?Paris.
+Academic grades obtained: Maître ès arts en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 6/08/2020)..

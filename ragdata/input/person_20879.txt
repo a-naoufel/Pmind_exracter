@@ -1,0 +1,12 @@
+PERSON: PETRUS Pipon
+Also known as: Petrus PIPON.
+Description: Cistercien.
+Status: Étudiant.
+Gender: male.
+Active during: %1448-1466%..
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+College affiliation: Collège des Bernardins ;.
+Religious order: O. Cist. : abbaye (cistercienne) de Lannoy au diocèse de Beauvais ;.
+Religious functions: Abbé (cistercien) de Lannoy au diocèse de Beauvais %1448-1466%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 30/08/2016..

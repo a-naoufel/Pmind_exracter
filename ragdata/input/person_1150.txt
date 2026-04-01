@@ -1,0 +1,8 @@
+PERSON: BALDUINUS de Grutere
+Also known as: Balduinus de GRUTERE.
+Description: Abbé de Saint-Pierre de Gand.
+Status: Extérieur.
+Gender: male.
+Active during: %1376-1377%.
+Religious order: Bénédictin.
+Religious functions: Prieur (bénédictin) de Gand (St-Pierre) % -1376% ;; Abbé (bénédictin) de Gand (St-Pierre) %1376- %..

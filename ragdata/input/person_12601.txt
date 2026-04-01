@@ -1,0 +1,11 @@
+PERSON: HUGO Poreti
+Also known as: Hugo PORETI.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1427-1465%.
+Studied at: Paris %1427-1464%..
+Academic grades obtained: Bachelier en théologie cursor (Paris) (le 21 août) ;; Bachelier en théologie sententiarius (Paris) (en septembre) ;; Licencié en théologie (le 25 janvier) (Paris) ;; Docteur en théologie (Paris) (le 19 mars) ..
+Religious order: O.Clun. : moine (clunisien) de Saint-Martin-des-Champs..
+University functions: Paris (Faculté de théologie : Maître régent en %1432-1436%) ;; Paris (Faculté de théologie : Maître régent en %1452-1453%) ;; Paris (Faculté de théologie : Maître régent en %1456-1457%) ;; Paris (Faculté de théologie : Maître régent en %1459-1461%) ;; Paris (Faculté de théologie : Maître régent en 1463-1465%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 10/09/2022..

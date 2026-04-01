@@ -1,0 +1,46 @@
+PERSON: THOMAS de Sutton
+Also known as: Thomas de SUTTON.
+Description: O.P..
+Status: Extérieur.
+Gender: male.
+Active during: %1274-1315%.
+Born in: Angleterre..
+Studied at: Oxford..
+Academic grades obtained: Maître ès arts (Oxford) ;; Docteur en théologie (Oxford) ..
+Ecclesiastical status: Diacre (ordonné en )..
+Religious order: O.P. : frère du couvent (dominicain) d'Oxford, sans doute avant ..
+University functions: ?Oxford (Merton College : il aurait été fellow du collège entre et ) .; ?Oxford (couvent dominicain : maître régent vers).; ?Oxford (Merton College : il aurait été fellow du collège entre sa fondation en et ) ..
+Authored work: 'Sermo de b. Clemente papa predic. Sutton', composed around , 23 février à Oxford..
+Authored work: 'Sermo dom. III Quadr. predic. Sutton', composed around , 1er mars à Oxford..
+Authored work: 'Sermo in festo Trinitatis predic. Sutton', composed around , 24 mai à Oxford..
+Authored work: 'Quaestiones 35 ordinariae', composed around ?.
+Authored work: 'Quodlibets I-IV', composed around ?%1293-1300%..
+Authored work: 'Determinacio de Sutton. Queritur supposito per impossibile quod Spiritus Sanctus non procederet a Filio utrum distinguatur ab eo personaliter', composed around %1300-1302% à Oxford..
+Authored work: 'Sutton in vesperis Makelisfelde. Utrum Pater et Filius diligant se Spirito Sancto', composed around à Oxford..
+Authored work: 'Contra quodlibet Iohannis Duns Scoti', composed around ?%1299-1300%.
+Authored work: 'Contra Robertum Cowton', composed around Après %1313-1315%.
+Authored work: 'Concordancia dicti Sancti Thomae de Aquino', composed around Début du XIVe siècle..
+Authored work: 'Concordanciae Pertransibunt plurimi', composed around ?.
+Authored work: 'Summa theologiae', composed around ?.
+Authored work: 'Super psalterium', composed around ?.
+Authored work: 'Contra pluralitatem formarum', composed around ?.
+Authored work: 'Tractatus de productione formarum substantialium', composed around %1284-1290%..
+Authored work: 'Expositionis S. Thomae in librum Perihermenias continuatio (II, 2-fin)', composed around ?.
+Authored work: 'Quaestiones disputatae', composed around ?.
+Authored work: 'De esse et essentia', composed around ?.
+Authored work: 'Super praedicamenta', composed around ?.
+Authored work: 'Super sex principia', composed around ?.
+Authored work: 'Super Priora Analytica', composed around ?.
+Authored work: 'De relatione', composed around ?.
+Authored work: 'De instantibus', composed around ?.
+Authored work: 'De natura verbi intellectus', composed around ?.
+Authored work: 'De principio individuationis', composed around ?.
+Authored work: 'De natura generis', composed around ?.
+Authored work: 'De natura accidentis', composed around ?.
+Authored work: 'De quatuor oppositis', composed around ?.
+Authored work: 'Sutton predicator Oxonie. Argumenta contra Henricum de Gandavo', composed around %1282-1290% à Oxford..
+Authored work: 'Expositionis S. Thomae in libros de generatione et corruptione continuatio', composed around ?.
+Authored work: 'Expositio in libros De celo et mundo', composed around ?.
+Authored work: 'Determinatio contra emulos et detractores Fratrum Praedicatorum', composed around ?.
+Authored work: 'Liber propugnatorius super I sent. contra Scotum', composed around ?.
+Source: MIRABILE :.

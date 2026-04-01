@@ -1,0 +1,12 @@
+PERSON: ROBERTUS de Sancto Mederico
+Also known as: Robertus de SANCTO MEDERICO; Robertus de SAINT-MERRY.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1287-1317%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son oncle est Pierre BARBET, archevêque de Reims ;.
+Ecclesiastical positions held: Chanoine de Reims %1287-1317% ;; Trésorier de Reims %1307-1317% ;.
+Representation roles: Il est présent au Concile de Vienne en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 07/06/2021..

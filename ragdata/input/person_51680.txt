@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS Platel
+Also known as: Gilles PLATEL.
+Description: Boursier du Collège de Laon..
+Status: Étudiant.
+Gender: male.
+Active during: %1394-1394%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Laon : boursier ès arts en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 11/12/2020..

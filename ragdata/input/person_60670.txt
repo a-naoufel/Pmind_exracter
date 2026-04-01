@@ -1,0 +1,14 @@
+PERSON: GODEFRIDUS de Fontanis
+Also known as: Godefridus de FONTANIS.
+Description: Évêque de Cambrai.
+Status: Étudiant.
+Gender: male.
+Active during: %1180-1237%.
+Born in: Hainaut ;.
+Diocese of origin: Diocèse de Cambrai ?.
+Studied at: Paris ;; Étudiant (Paris) ‘alors qu’il est simple clerc’ ;.
+Family relationships: Son père est ROGER, seigneur de Condé ; Sa mère est ALIX ; Son frère est NICOLAS, seigneur de Condé ; Son neveu est Nicolaus de FONTANIS, évêque de Cambrai en %1249-1272%,.
+Social origin: Noble..
+Ecclesiastical positions held: Archidiacre de Liège ;; Évêque de Cambrai %1219-1237% ;.
+Representation roles: Il participe au concile de Lyon en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/12/2025..

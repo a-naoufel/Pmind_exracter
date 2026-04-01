@@ -1,0 +1,8 @@
+PERSON: LAVIS
+Also known as: LAVIS.
+Description: Médecin illicite.
+Status: Extérieur.
+Gender: male.
+Active during: %1322-1322%.
+Born in: Italie (Lombardie ?) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 26/08/2023)..

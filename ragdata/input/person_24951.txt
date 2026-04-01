@@ -1,0 +1,13 @@
+PERSON: GALFREDUS L’Angevin
+Also known as: Gauffridus L’ANGEVIN.
+Description: Bachelier en décret.
+Status: Maître.
+Gender: male.
+Active during: %:1400-1403%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie) %:1400-1403% ;.
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en décret (Paris) ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Curé de l’église de Notre-DamedeVillainColle au diocèse de Rouen en ;; Candidat à un bénéfice sur le Magnus Rotulus de l’Université de Paris daté de (21 octobre) et présenté à BENOÎT XIII ;.
+University functions: Paris (Faculté de Décret : Lecteur %1400-1403%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 2/12/2018..

@@ -1,0 +1,10 @@
+PERSON: AEGIDIUS 3
+Also known as: AEGIDIUS.
+Description: Clericus capelle à Saint-Merry.
+Status: Incertain.
+Gender: male.
+Active during: %1325-1325%.
+Studied at: ?.
+Academic grades obtained: Magister..
+Ecclesiastical positions held: Clericus capelle en l'église de Paris (Saint-Merry) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 11/02/2020..

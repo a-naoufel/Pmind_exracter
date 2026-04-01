@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Hardreville
+Also known as: Guillaume de HARDREVILLE.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1310-1310%.
+Studied at: Paris ..
+Academic grades obtained: Magister (Paris) ?.
+College affiliation: Sorbonne : prieur en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 23/03/2020..

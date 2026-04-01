@@ -1,0 +1,14 @@
+PERSON: RADULPHUS de Marisco
+Also known as: Radulphus de MARISCO.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1362-1400%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse d’Amiens ;.
+Studied at: Paris (Nation de Picardie) ;.
+Academic grades obtained: Maître ès arts (Paris) ?; Etudiant en théologie (Paris) %1364-1387%.
+College affiliation: Collège des Cholets ;.
+Ecclesiastical status: Prêtre du diocèse d’Amiens en 1379% ;.
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiastique à la collation de l’abbé et du couvent du monastère (O.S.B.) de Saint-Ghislain en réponse au rotulus de l’université de Paris en ; mandat à l’official de Paris ;; Recteur de Lens ;; Provision pour un bénéfice ecclésiastique à la collation du doyen et du chapire d’Arras en réponse au rotulus du Collège des Cholets en ; mandat au Chancelier de Paris ;; Provision pour un canonicat avec expectative de prébende de Soignies (églisecollégiale Saint-Vincent) en réponse au rotulus de l’université de Paris en : mandat au chancelier de Paris ;; Chanoineprébendé de Péronne (églisecollegiale Saint-Fursy) en %1378-1400% ;; Chapelain d’Arras (Cathédrale) en ;; Candidat à un bénéfice ecclésiastique à la collation de l’évêque d’Amiens en réponse au rotulus de l’Université de Paris en ;; Provision pour un bénéfice ecclésiastique à la collation du prieur et du couvent (O. Clun.) d’Encre (Albert) en réponse à un rotulus de l’Université de Paris en : mandat à l’évêque de Senlis ;; Recteur d’Encre (Albert) en :; Provision pour un bénéfice ecclésiastique à la collation de l’évêque, du doyen et du chapitre de Cambrai, en l’occurrence un canonicat avec expectative de prébende de Fouilloy (églisecollégiale Saint-Mathieu) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 15/06/2021..

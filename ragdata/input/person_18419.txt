@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Meleun
+Also known as: Guillelmus de MELEUN.
+Description: Maître ès arts ?.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris..
+Academic grades obtained: Magister?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/08/2020)..

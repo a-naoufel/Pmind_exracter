@@ -1,0 +1,10 @@
+PERSON: STEPHANUS de Montignaco
+Also known as: Stephanus de MONTIGNACO; Etienne de MONTIGNACO.
+Description: Boursier au collège de Navarre..
+Status: Étudiant.
+Gender: male.
+Active during: %1374-1374%.
+Studied at: Paris %1374-1374%..
+Academic grades obtained: Étudiant en grammaire (Paris) ..
+College affiliation: Boursier grammairien au collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 16/09/2024..

@@ -1,0 +1,10 @@
+PERSON: ANTHONIUS Seneschal
+Also known as: Anthoine SENESCHAL.
+Description: Boursier du collège de Fortet.
+Status: Étudiant.
+Gender: male.
+Active during: %1521-1521%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège de Fortet, boursier ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023..

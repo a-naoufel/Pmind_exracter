@@ -1,0 +1,57 @@
+PERSON: ROGARIUS Bacon
+Also known as: Roger BACON.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1232-1292%.
+Born in: Angleterre ;.
+Studied at: Oxford ?; Paris ?.
+Academic grades obtained: Maître ès arts (Paris) en au plus tard..
+Social origin: Noble..
+Religious order: O.F.M. : frère franciscain en ..
+University functions: Paris (?Maître-régent séculier ?%1237-1247%); Oxford %1247-1257%.
+Authored work: 'Metaphysica de vitiis in studio theologiae', composed around ?.
+Authored work: 'Compendium studii theologiae', composed around ..
+Authored work: 'Quaestio Disputata de Intellectu', composed around ?.
+Authored work: 'Tractatus de Influentiis Agentium Prologus', composed around ?.
+Authored work: 'Epistola ad Clementem IV Papam', composed around ;.
+Authored work: 'Opus Majus', composed around %1266-1267%..
+Authored work: 'Opus Minus (I-VII)', composed around ?..
+Authored work: 'Opus tertium', composed around ?%1267-1268%..
+Authored work: 'Summa de sophismatibus et distinctionibus', composed around ?.
+Authored work: 'Tractatus trium verborum', composed around ?.
+Authored work: 'In libros I II V-X Metaphysicae Aristotelis Questiones', composed around ?.
+Authored work: 'Excerpta de libro Avicennae de Anima', composed around ?.
+Authored work: 'Comment. in Metaphysic.', composed around ?.
+Authored work: 'De signis logicalibus', composed around ?.
+Authored work: 'Quaest. super De causis', composed around ?.
+Authored work: 'Summulae dialectices', composed around ?.
+Authored work: 'Quaestiones supra libros primae philosophiae Aristotelis', composed around ?.
+Authored work: 'Quaestiones alterae supra libros primae philosophiae Aristotelis (Metaphysica I-IV)', composed around ?.
+Authored work: 'Quaestiones supra undecimum primae philosophiae', composed around ?.
+Authored work: 'Compendium studii philosophiae', composed around ..
+Authored work: 'Summa grammaticae', composed around ?.
+Authored work: 'Grammatica graeca', composed around ?.
+Authored work: 'Grammatica hebraica', composed around ?.
+Authored work: 'Quaestiones super lib.I-V Physicorum', composed around ?.
+Authored work: 'Quaestiones super lib.I-VIII Physicorum', composed around ?.
+Authored work: 'Quaestiones super librum de Vegetalibus', composed around ?.
+Authored work: 'Quaestiones super librum de Generatione', composed around ?.
+Authored work: 'Quaest. super quatuor libros Meteororum', composed around ?.
+Authored work: 'Quaest. super De sensu et sensato', composed around ?.
+Authored work: 'De retardandis senectutis accidentibus', composed around Avant ., dedicated to Dédié à NICOLAS III..
+Authored work: 'De universali regimine senum et seniorum', composed around ?.
+Authored work: 'Antidotarium', composed around ?.
+Authored work: 'De graduatione medicinarum compositarum', composed around ?.
+Authored work: 'Tractatus de erroribus medicorum', composed around ?.
+Authored work: 'De diebus criticis', composed around ?.
+Authored work: 'De crisi morborum', composed around ?.
+Authored work: 'Tractatus de Simplici Medicina', composed around ?.
+Authored work: 'De Balneis Senum et Seniorum', composed around ?.
+Authored work: 'De Compositione Quarundam Medicinarum in Speciali quae Iuvant Sensum', composed around ?.
+Authored work: 'De Conservatione Iuventutis', composed around ?.
+Authored work: 'De nigromantia', composed around ?.
+Authored work: 'De retardatione senectutis', composed around ?.
+Authored work: 'De Naturis Metallorum', composed around ?.
+Authored work: 'De Lapide Magnetis', composed around ?.
+Source: Répertoire des auteurs franciscains préparé par Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress :.

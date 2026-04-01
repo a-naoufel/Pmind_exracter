@@ -1,0 +1,14 @@
+PERSON: CAMBIOLUS Bononiensis
+Also known as: Cambiolus de BOLOGNA; Cambiolus BONONIENSIS.
+Description: Professeur à Bologne.
+Status: Extérieur.
+Gender: male.
+Active during: %1333-1350%.
+Studied at: Bologne ?.
+Academic grades obtained: Maître ès arts (Bologne ?)..
+University functions: Bologne : Professeur ?.
+Authored work: 'Utrum elementa maneant in mixto secundum proprias formas aut solum secundum esse', composed around ?.
+Authored work: 'Utrum de necessitate omnia eveniant an est aliquid casuale et fortuitum', composed around ?.
+Authored work: 'Utrum omnia eveniant de necessitate aut aliqua sic aut aliqua non', composed around ?.
+Authored work: 'Utrum virtus nutritiva sit semper in actu secundo', composed around ?.
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

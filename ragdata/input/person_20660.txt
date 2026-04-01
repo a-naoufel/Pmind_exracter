@@ -1,0 +1,10 @@
+PERSON: HUGO de Brueroliis
+Also known as: Hugo de BRUEROLIIS.
+Description: Chanoine de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1226-1226%.
+Studied at: ?.
+Academic grades obtained: Magister ?.
+Ecclesiastical positions held: Chanoine de Paris (Notre-Dame) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 8/08/2022..

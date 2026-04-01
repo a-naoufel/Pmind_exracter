@@ -1,0 +1,11 @@
+PERSON: FRANCISCUS Basteon
+Also known as: Franciscus BASTEON; Franciscus BATHEON.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1500-1500%.
+Born in: Limousin ?.
+Diocese of origin: Diocèse de Limoges..
+Studied at: Paris %1500-1500%..
+Academic grades obtained: Bachelier en décret (Paris) 2 décembre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 4/01/2016)..

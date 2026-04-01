@@ -1,0 +1,14 @@
+PERSON: GERARDUS Trecensis
+Also known as: Girard de TROYES.
+Description: Chanoine du Val des Écoliers.
+Status: Maître.
+Gender: male.
+Active during: %1288-1315%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Troyes ?.
+Studied at: Paris %:1288-1315%..
+Academic grades obtained: Maître en théologie (Paris) ;.
+College affiliation: Paris (Sainte-Catherine %1288-1315%)..
+Religious order: Chanoinerégulier (O.S.A. Val des Écoliers)..
+Religious functions: Prieur (O.S.A. Val des Écoliers) de Paris (Sainte-Catherine) % -1315% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 27/03/2019..

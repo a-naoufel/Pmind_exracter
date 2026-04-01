@@ -1,0 +1,10 @@
+PERSON: ACCURSIUS 2
+Also known as: ACCURSIUS.
+Description: Servite.
+Status: Incertain.
+Gender: male.
+Active during: %1310-1310%.
+Born in: Italie ?.
+Studied at: Paris ?.
+Religious order: Ord. Serv. S.M. (couvent de Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 6/11/2016..

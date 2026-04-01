@@ -1,0 +1,11 @@
+PERSON: ANTHONIUS Garlan
+Also known as: Antonius GARLAN.
+Description: Bachelier ès arts..
+Status: Gradué.
+Gender: male.
+Active during: %1448-1448%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Dol..
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/09/2020)..

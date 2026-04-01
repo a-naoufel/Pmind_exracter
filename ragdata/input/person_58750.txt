@@ -1,0 +1,15 @@
+PERSON: ROBERTUS Eliphatus
+Also known as: Robertus ELIPHATUS.
+Description: OFM.
+Status: Extérieur.
+Gender: male.
+Active during: %1350-1350%.
+Born in: Angleterre ?.
+Studied at: Oxford ?.
+Academic grades obtained: ?.
+Religious order: O.F.M. : frère franciscain..
+Authored work: 'Quaestiones', composed around ?.
+Authored work: 'Lecturae theologicae', composed around ?.
+Authored work: 'Comment. In IV Libr. Sent.', composed around ?.
+Authored work: 'Tractatus de philosophia morale', composed around ?.
+Source: Répertoire des auteurs franciscains préparé par Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress :.

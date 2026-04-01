@@ -1,0 +1,9 @@
+PERSON: PETRUS Silvestri
+Also known as: Petrus SILVESTRI.
+Description: Nonce pour le diocèse de Mende.
+Status: Suppôt.
+Gender: male.
+Active during: %1446-1446%.
+Studied at: Paris (Nation de France) ..
+University functions: Paris (Nation de France : il reçoit l'office de nonce pour le diocèse de Mende en (7 mars)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 14/09/2022..

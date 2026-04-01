@@ -1,0 +1,11 @@
+PERSON: PETRUS de Piro
+Also known as: Petrus de PIRO.
+Description: Bénédictin.
+Status: Gradué.
+Gender: male.
+Active during: %1429-1429%.
+Studied at: Paris %1429-1429%..
+Academic grades obtained: Bachelier en théologie (Paris) ..
+Religious order: O.S.B. : moine bénédictin..
+University functions: Paris (Faculté de Théologie ; Lecteur de la Bible (1er cours) à Paris le 16 janvier %1429)% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux et Claire Priol ; dernière mise à jour Jean-Philippe Genet, 3/03/2020..

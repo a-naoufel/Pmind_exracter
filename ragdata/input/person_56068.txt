@@ -1,0 +1,12 @@
+PERSON: PETRUS Claverii
+Also known as: Petrus CLAVERII.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1446-1446%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Reims ;.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Academic relationships: Son maître est Johannes BEGUIN pour le baccalauréat en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 17/05/2023..

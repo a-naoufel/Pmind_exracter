@@ -1,0 +1,12 @@
+PERSON: HENRICUS Martel
+Also known as: Henricus MARTEL.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1279-1296%.
+Studied at: Paris..
+Academic grades obtained: Magister ;.
+College affiliation: Collège du Trésorier ;.
+Family relationships: Son frère est le Magister Alanus MARTEL, Chanoine de Coutances..
+Ecclesiastical positions held: Chanoine de Rouen %1289-1296% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 05/01/2022..

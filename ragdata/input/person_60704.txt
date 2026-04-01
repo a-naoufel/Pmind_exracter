@@ -1,0 +1,11 @@
+PERSON: ARNALDUS de Haussy
+Also known as: Arnaldus de HAUSSY.
+Description: Chanoine de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1230-1242%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Cambrai %1230-1242% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; Jean-Philippe Genet, dernière mise à jour 21/10/2025)..

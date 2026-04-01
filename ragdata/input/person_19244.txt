@@ -1,0 +1,9 @@
+PERSON: ARCHAMBALDUS de Firmitate
+Also known as: Archambaldus de FIRMITATE.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1413-1416%.
+Studied at: Paris .; Étudiant en théologie (Paris) ;; Bachelier en théologie (Paris) ;.
+Religious order: Régulier : il est qualifié de "Frater" ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 16/10/2020..

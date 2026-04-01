@@ -1,0 +1,16 @@
+PERSON: VICTOR Textoris
+Also known as: Victor TEXTORIS; Victor TISSIERS; Victor TIXIERS; Victor de CERISEIS.
+Description: Chanoine de Troyes.
+Status: Gradué.
+Gender: male.
+Active during: %1443-1460%.
+Born in: Bourgogne (Cerisiers) ;.
+Diocese of origin: Diocèse de Nevers ?.
+Studied at: Paris (Nation de France)..
+Academic grades obtained: Bachelier en théologie (Paris) ;.
+College affiliation: Collège de Navarre : sous-maître des grammairiens ;.
+Academic relationships: Son élève est Nicolaus de ANEVILLA pour la maîtrise en ;.
+Ecclesiastical status: Sous-diacre ;.
+Ecclesiastical positions held: Chanoine de Troyes %1443-1460% ;; Chanoine de Langres %1443-1460% ;.
+University functions: Paris (Nation de France : il assiste à la reddition du dernier compte de Gervasius MELLOTI en (29 janvier)) ;; Paris (Nation de France : il assiste à la reddition du premier compte de Johannes SOLIERI en (20 avril)) ;; Paris (Faculté de Arts : il est désigné en (25 septembre) comme l'un des députés chargés de la réforme de la nation) ;; Paris (Nation de France : Maître-régent pour l'année %1444-1445%) ;; Paris (Nation de France : procureur élu en (12 janvier) jusqu'au 10 février) ;; Paris (Nation de France : il assiste à la reddition du dernier compte de Johannes SOLIERI en (1er mars)) ;; Paris (Nation de France : il assiste à la reddition du deuxième compte de Johannes LUILLIER en (28 juin)) ;; Paris (Nation de France : il assiste à la reddition du dernier compte de Stephanus de CLAMENGES en (8 janvier)) ;; Paris (Nation de France : il assiste à la reddition du premier compte de Gaufridus CALVI en (20 mai)) ;; Paris (Nation de France : il assiste à la reddition du deuxième compte de Gaufridus CALVI en (27 juin)) ;; Paris (Université : recteur élu en (10 octobre) jusqu’au 16 décembre) ;; Paris (Université : il doit intervenir dans l’élection de son successeur en (18 novembre)) ;; Paris (Université : recteur élu en (23 juin) jusqu’au 10 octobre) ;; Paris (Université : l’un des quatre ambassadeurs envoyés par l’université au roi qui rendent compte de leur mission en (2 et 9 janvier)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 06/02/2024..

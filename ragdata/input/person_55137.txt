@@ -1,0 +1,10 @@
+PERSON: PETRUS de Stropchaco
+Also known as: Petrus de STROPCHACO.
+Description: Chanoine d’Autun.
+Status: Incertain.
+Gender: male.
+Active during: %1394-1403%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Autun %1394-1403% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 27/01/2023..

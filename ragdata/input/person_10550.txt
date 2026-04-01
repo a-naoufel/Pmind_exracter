@@ -1,0 +1,8 @@
+PERSON: RADULPHUS de Varedis
+Also known as: Radulphus de VAREDIS; Raoul de VAREDES.
+Description: Stationarius.
+Status: Suppôt.
+Gender: male.
+Active during: %1323-1323%.
+Studied at: Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 14/11/2019..

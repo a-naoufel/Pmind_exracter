@@ -1,0 +1,13 @@
+PERSON: LAMBERTUS de Villiers
+Also known as: Lambertus de VILLIERS.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1449-1504%.
+Born in: Artois ?.
+Diocese of origin: Diocèse d'Arras ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ..
+Religious order: O.S.B. : moine bénédictin de l'abbaye de Saint-Vaast (diocèse d'Arras) en ..
+Religious functions: Socius du prieuré de Saint-Michel (diocèse d'Arras) ;; Prêtre en ;; Organiste de Saint-Vaast (diocèse d'Arras) en ;; Réfectorien de Saint-Vaast (diocèse d'Arras) en ;; Trésorier d'Haspres (dépendance de Saint-Vaast dans le diocèse de Cambrai) en ;; Prieur d'Haspres (dépendance de Saint-Vaast dans le diocèse de Cambrai) en ;; Vinitarius de Saint-Vaast (diocèse d'Arras) en ;; Prieur de Sailly-sur-la-Lys (dépendance de Saint-Vaast dans le diocèse d'Arras) en ;; Prieur de Sailly-sur-la-Lys (dépendance de Saint-Vaast dans le diocèse d'Arras) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 17/08/2023)..

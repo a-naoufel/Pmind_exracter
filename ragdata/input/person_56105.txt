@@ -1,0 +1,10 @@
+PERSON: PHILIPPUS de Ponantio
+Also known as: Philippus de PONANTIO.
+Description: Chanoine de Troyes.
+Status: Incertain.
+Gender: male.
+Active during: %1467-1471%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;; Bachelier in utroque ;.
+Ecclesiastical positions held: Chanoine de Troyes %1467-1471% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 19/05/2023..

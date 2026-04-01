@@ -1,0 +1,10 @@
+PERSON: BURELLUS Garnier
+Also known as: Bureau GARNIER.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1402-1403%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Boursier du Collège de Dormans-Beauvais %1402-1403% ;.
+Source: LAMOP : Opération Charles VI :.

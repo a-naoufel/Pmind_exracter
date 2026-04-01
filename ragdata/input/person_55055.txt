@@ -1,0 +1,10 @@
+PERSON: LAURENTIUS de Fontanis
+Also known as: Laurentius de FONTANIS.
+Description: Maître ès arts..
+Status: Maître.
+Gender: male.
+Active during: %1448-1448%.
+Born in: ?.
+Studied at: Paris (Nation de France : il assiste len (8 janvier), en tant que représentant de la province de Bourges, à la reddition des comptes de Stephanus de CLAMENGES, trésorier de la Nation de France) ;.
+Academic grades obtained: Maître ès arts (Paris) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/01/2023..

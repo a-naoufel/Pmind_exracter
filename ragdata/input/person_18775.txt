@@ -1,0 +1,9 @@
+PERSON: REMIGIUS Lelocheron
+Also known as: Remigius LELOCHERON.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 22/08/2015..

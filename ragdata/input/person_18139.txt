@@ -1,0 +1,9 @@
+PERSON: HUGO de Druyaco
+Also known as: Hugo de DRUYACO.
+Description: Licencié en lois..
+Status: Incertain.
+Gender: male.
+Active during: %1423-1425%.
+Studied at: Paris %1423-1423%..
+Academic grades obtained: Licencié en lois attesté en décembre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 01-06-2015..

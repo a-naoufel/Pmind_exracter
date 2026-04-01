@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Bondofle
+Also known as: Guillaume de BONDOFLE; Guillaume de BONDOFLA.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1284-1302%.
+Born in: Île-de-France (Bondoufles ?) ;.
+Studied at: Paris %1284-1302%..
+Academic grades obtained: Magister (Paris) ?.
+College affiliation: Sorbonne %1284-1310% ;; Collège de Sorbonne : procureur en :; Procureur de la Sorbonne en (novembre) ;.
+Ecclesiastical status: Clerc en ;; Prêtre ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 23/03/2020..

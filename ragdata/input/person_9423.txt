@@ -1,0 +1,12 @@
+PERSON: NICOLAUS de Cogno
+Also known as: Nicolaus de COGNO; Nicolaus de COGNO de PLACENTIA.
+Description: Maître ès arts, en médecine et en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1335-1349%.
+Born in: Italie (Émilie-Romagne : Piacenza) ;.
+Diocese of origin: Diocèse de.
+Studied at: Paris %1335-1349%..
+Academic grades obtained: Maître ès arts (Paris) vers ;; Maître en médecine (Paris) avant ;; Étudiant en théologie (Paris) ;; Bachelier en théologie (Paris) avant ;; Maître en théologie (Paris) vers ..
+Ecclesiastical positions held: Clerc du diocèse de Plaisance ;; Obtient l'expectative d'un bénéfice de Soissons en ;; Chanoine de Plaisance en ;; Chanoine de Padoue en ;; Candidat à un canonicat de Troyes en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 10/10/2023)..

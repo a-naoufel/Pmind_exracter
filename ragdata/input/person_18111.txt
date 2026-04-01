@@ -1,0 +1,8 @@
+PERSON: CURD Osterode
+Also known as: Curd OSTERODE.
+Description: Magister.
+Status: Incertain.
+Gender: male.
+Active during: %1440-1440%.
+Studied at: Paris ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 01/05/2021..

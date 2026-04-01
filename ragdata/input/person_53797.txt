@@ -1,0 +1,10 @@
+PERSON: HUGO Matisconensis
+Also known as: Hugo MATISCONENSIS; Hugo de MATISCONE; Hugues de MÂCON.
+Description: Magister.
+Status: Extérieur.
+Gender: male.
+Active during: %1245-1245%.
+Studied at: ?.
+Academic grades obtained: Magister.
+Authored work: 'Gesta militum memoralibus', composed around ?.
+Source: ARLIMA : Serena MODENA :.

@@ -1,0 +1,10 @@
+PERSON: THOMAS de Sancto Hylario
+Also known as: Thomas de SANCTO-HYLARIO.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1330%.
+Studied at: Paris en ..
+Academic grades obtained: Étudiant (Paris) en ?; Docteur en droit civil en ;.
+Ecclesiastical positions held: Provision pour un canonicat avec expectative de prébende dans le diocèse de Lisieux ;; Provision pour un canonicat avec expectative de prébende à la cathédrale de Rouen ;; Chanoine de Reims en %1325-1330% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 19/10/2023)..

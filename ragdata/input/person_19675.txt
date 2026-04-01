@@ -1,0 +1,10 @@
+PERSON: HUGO Galli
+Also known as: Hugo GALLI.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+Family relationships: Son parent est (peut-être) Gerardus GALLI qui s’acquitte de son dû pour la collecte de en même temps que lui..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 05/09/2022..

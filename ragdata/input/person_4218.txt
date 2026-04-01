@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Curseriis
+Also known as: Guillelmus de CURSERIIS.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris (Nation de France ?) en ..
+Academic grades obtained: Maître..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 3/03/2020..

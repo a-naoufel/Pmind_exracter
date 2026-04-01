@@ -1,0 +1,10 @@
+PERSON: PETRUS Obreleulli
+Also known as: Petrus OBRELEULLI; Pierre OBRULIOL; Pierre OBRELIOL.
+Description: Procureur du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1466-1473%.
+Studied at: Paris %1466-1473%.
+Academic grades obtained: Étudiant (Paris) %1466-1473% ;.
+College affiliation: Collège d'Autun : procureur ;; Collège d'Autun : boursier %1466-1473% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 10/07/2024..

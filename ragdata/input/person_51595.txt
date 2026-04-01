@@ -1,0 +1,10 @@
+PERSON: ANTHONIUS de Courtignon
+Also known as: Antoine de COURTIGNON.
+Description: Étudiant ès arts.
+Status: Étudiant.
+Gender: male.
+Active during: %1480-1481%.
+Studied at: Paris %1480-1481%..
+Academic grades obtained: Étudiant ès arts (Paris) %1480-1481% ?.
+College affiliation: Collège de LaMarche ; boursier en %1480-1481% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 29/11/2020)..

@@ -1,0 +1,9 @@
+PERSON: PHILIPPUS Randulphe
+Also known as: Philippus RANDULPHE.
+Description: Témoin d’un acte universitaire.
+Status: Incertain.
+Gender: male.
+Active during: %1455-1455%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

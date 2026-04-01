@@ -1,0 +1,19 @@
+PERSON: ANGELUS de Camerino
+Also known as: Angelus de CAMERINO; Ange de CAMERINO.
+Description: Patriarche de Grado.
+Status: Incertain.
+Gender: male.
+Active during: %1295-1314:%.
+Born in: Italie (Marches (Camerino))..
+Diocese of origin: Diocèse de Camerino..
+Studied at: Rome ;.
+Academic grades obtained: Maître en théologie (?) ..
+Religious order: Augustin..
+Ecclesiastical positions held: Evêque de Cagli %1296-1298% ;; Evêque de Fiesole %1298-1301% ;; Evêque de Larmo %1301-1303% ;; Evêque de Modon %1303-1311% ;; Patriache de Grado %1311-:1314:%..
+University functions: Rome ('sacrae theologiae novus professor sive magister' en au studiumgenerale de Rome (Curie) ;.
+Authored work: 'Quaestiones theologicae', composed around ?.
+Authored work: 'Sententia libri Topicorum', composed around .
+Authored work: 'In Porphyrium commmentarium', composed around ?.
+Authored work: 'Scriptum in Praedicamenta Aristotelis', composed around ?.
+Authored work: 'In librum Perihermenias', composed around ?.
+Source: DBI :.

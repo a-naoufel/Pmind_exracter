@@ -1,0 +1,7 @@
+PERSON: AEGIDIUS de Tilloy
+Also known as: Aegidius de TILLOY.
+Description: Maître d’école..
+Status: Suppôt.
+Gender: male.
+Active during: %1452-1452%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 03/05/2020)..

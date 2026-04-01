@@ -1,0 +1,11 @@
+PERSON: HAIMO de Confoleyn
+Also known as: Emo de CONFOLEYN; Aymo de CONFOLENTO.
+Description: Chanoine de Saint-Pierre de Lille.
+Status: Maître.
+Gender: male.
+Active during: %1329-1366%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant (Paris) %1329-1330% ;; Maître ;.
+Family relationships: Son parent est peut-être Albertus de COFOLENTO, prêtre ; Son parent est peut-être Hugo de COFOLENTO ;.
+Ecclesiastical positions held: Chanoine de Lille (Saint-Pierre) %1347-1365% ;; Chantre de Lille (Saint-Pierre) %1347-1350% ;; Chanoine d'Oissery (Saint-Germain) au diocèse de Meaux %1347-1351% ;; Chanoine d'Agen %1349-1351% ;; Chanoine d'Aize (diocèse de Bourges) % -1351% ;; Chanoine de Cambrai %1351-1366% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 23/12/2025)..

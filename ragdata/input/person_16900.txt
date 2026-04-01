@@ -1,0 +1,9 @@
+PERSON: GALFREDUS de Marec
+Also known as: Gaufredus de MAREC; Gaufridus de MARHEC; Galfridus de MARUC.
+Description: ?Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Etudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 8/10/2021..

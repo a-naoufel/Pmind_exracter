@@ -1,0 +1,9 @@
+PERSON: MATTHAEUS de Frennay
+Also known as: Mattheus de FRENNAY; Mathieu de FRESNES.
+Description: Barbier-chirurgien du roi.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1356%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant (Paris) en %1329-1330%..
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ (Rédaction Jean-Philippe Genet, dernière mise à jour 17/09/2023).

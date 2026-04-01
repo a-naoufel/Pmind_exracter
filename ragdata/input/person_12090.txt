@@ -1,0 +1,7 @@
+PERSON: THOMAS de Sancto Patu
+Also known as: Thomas de SANCTO-PATU.
+Description: Propriétaire d’une maison.
+Status: Extérieur.
+Gender: male.
+Active during: %1288-1288%.
+Academic grades obtained: ?.

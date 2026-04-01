@@ -1,0 +1,13 @@
+PERSON: PHILIPPUS de Milliaco 2
+Also known as: Philippus de MILLIACO; Philippe de MILLY; Philippe de MESLAY.
+Description: Sous-doyen de Chartres.
+Status: Maître.
+Gender: male.
+Active during: %1255-1280%.
+Born in: Île-de-France (Milly-la-Forêt ?) ?.
+Diocese of origin: Diocèse de Chartres ;.
+Studied at: Paris ?.
+Academic grades obtained: Maître (Paris) ?.
+Social origin: Noble ;.
+Ecclesiastical positions held: Sous-doyen de Chartres en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 07/05/2025)..

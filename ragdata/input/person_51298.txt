@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Caron 2
+Also known as: Guillelmus CARON.
+Description: Boursier du Collège de Justice.
+Status: Étudiant.
+Gender: male.
+Active during: %1462-1464%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie ?) %1462-1464%..
+Academic grades obtained: Étudiant (Paris) %1462-1465% ?.
+College affiliation: Collège de Justice : boursier en %1462-1464% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Marion BERNARD-SCHWEITZER, 14/10/2020)..

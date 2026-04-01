@@ -1,0 +1,12 @@
+PERSON: BOKELLUS Jacobi de Delf
+Also known as: Bokellus JACOBI de Delf.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1399-1399%.
+Born in: Pays-Bas (Delft) ?.
+Diocese of origin: Diocèse d'Utrecht ?.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Academic relationships: Son maître est Gerardus de ETEN pour le baccalauréat en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (dernière mise à jour, Jean-Philippe Genet, 23/03/2021)..

@@ -1,0 +1,26 @@
+PERSON: ANDREAS de Sancto Victore
+Also known as: Andreas de SANCTO VICTORE; André de SAINT-VICTOR.
+Description: Chanoine de Saint-Victor.
+Status: Maître.
+Gender: male.
+Active during: %1142-1175%.
+Born in: Angleterre..
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris).; Magister..
+Academic relationships: Étudiant de Hugues de SAINT-VICTOR..
+Religious order: O.S.A. : chanoine de Paris (Saint-Victor) %:1125 :-1147% et %1155-1163% ;.
+Religious functions: Abbé (augustin) de Saint-Satur au diocèse de Bourges ;; Abbé (augustin) de Wigmore (Herefordshire) %1147-1155% :; Abbé (augustin) de Wigmore (Herefordshire) %1163-1175%..
+University functions: Paris (Saint-Victor : il y a formé quelques disciples)..
+Authored work: 'Expositio super Heptateucum', composed around ?.
+Authored work: 'Expositio hystorica in libro Regum', composed around ?.
+Authored work: 'Expositio in Paralipomenon', composed around ?.
+Authored work: '(Commentaire sur les Proverbes)', composed around ?.
+Authored work: 'Expositiones historicas in libros Salomonis [in Parabolas et in Ecclesiasten]', composed around ?.
+Authored work: '(Commentaire sur le Cantique des Cantiques)', composed around ?.
+Authored work: 'Exposition super Isaiam', composed around ?.
+Authored work: 'Expositio super Ieremiam', composed around ?.
+Authored work: 'Expositio in Ezechielem', composed around ?.
+Authored work: 'Expositio super Danielem', composed around ?.
+Authored work: 'Expositio super XII Prophetas', composed around ?.
+Authored work: '(Commentaire sur les Machabées)', composed around ?.
+Source: ARLIMA :.

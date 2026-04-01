@@ -1,0 +1,11 @@
+PERSON: IVO Brito 4
+Also known as: Yvo BRITO.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1304-1304%.
+Born in: Bretagne ?.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+University functions: Paris (Nation de France : élu intrans pour l'élection du recteur en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 31/10/2021..

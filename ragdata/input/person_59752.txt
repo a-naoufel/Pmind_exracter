@@ -1,0 +1,13 @@
+PERSON: EBRARDUS de Starhemberg
+Also known as: Eberhard de STARHEMBERG; Eberhard de SALZBOURG.
+Description: Archevêque de Salzbourg.
+Status: Étudiant.
+Gender: male.
+Active during: %1380-1429%.
+Born in: Autriche ?.
+Diocese of origin: Diocèse de Salzbourg ?.
+Studied at: Paris ?; Vienne %1399-1400%.
+Academic grades obtained: Étudiant (Paris) en ?; Maître en théologie (Université inconnue) en ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Salzbourg ;; Archevêque de Salzbourg %1427-1429% ;.
+Source: RAG ;.

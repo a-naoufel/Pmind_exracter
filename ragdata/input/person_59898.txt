@@ -1,0 +1,7 @@
+PERSON: THOMAS Sauvaige
+Also known as: Thomas SAUVAIGE.
+Description: Boulanger.
+Status: Extérieur.
+Gender: male.
+Active during: %1506-1510%.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

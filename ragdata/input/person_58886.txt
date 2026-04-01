@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Frechardi
+Also known as: Guillelmus FRECHARDI.
+Description: Chanoine de Chalon.
+Status: Incertain.
+Gender: male.
+Active during: %1396-1410%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical positions held: Chanoine de Chalon-sur-Saône %1396-1410% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/05/2025..

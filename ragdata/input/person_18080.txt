@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Radicis 3
+Also known as: Guillelmus RADICIS; Guillermus RADICIS.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1501-1501%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse d'Autun..
+Studied at: Paris %1501-1501%..
+Academic grades obtained: Bachelier en décret (Paris) en (25 juin) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 07/05/2015..

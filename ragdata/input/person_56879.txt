@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Tribel
+Also known as: Nikolaus TRIBEL.
+Description: Notaire impérial.
+Status: Gradué.
+Gender: male.
+Active during: %1452-1456%.
+Born in: Alémanie (Wiesensteig) ;.
+Diocese of origin: Diocèse de Constance..
+Studied at: Paris (Nation Anglo-allemande) ;; Heidelberg %1455-1456% ;.
+Academic grades obtained: Bachelier ès arts (Paris) ;; Bachelier ès arts (Heidelberg) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 26/11/2023)..

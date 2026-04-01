@@ -1,0 +1,10 @@
+PERSON: HENRICUS de Hessya
+Also known as: Henricus de HESSYA; Henricus de HASSIA.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1363-1363%.
+Born in: Hesse ?.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 18/07/2022..

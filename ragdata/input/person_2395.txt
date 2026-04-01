@@ -1,0 +1,9 @@
+PERSON: FULCALDUS de Dole
+Also known as: Foulcaut de DOLE; Fourcault de DOL.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1358-1381%.
+Studied at: Paris..
+Academic grades obtained: Magister..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 22/09/2021..

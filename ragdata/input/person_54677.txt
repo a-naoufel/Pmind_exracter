@@ -1,0 +1,14 @@
+PERSON: PETRUS Davidis
+Also known as: Petrus DAVIDIS.
+Description: Chanoine de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1433-1471%.
+Born in: Poitou ;.
+Diocese of origin: Diocèse de Poitiers ;.
+Studied at: ?.
+Academic grades obtained: Bachelier in utroque jure ;.
+Ecclesiastical status: Clerc en ;; Prêtre ;.
+Ecclesiastical positions held: Chantre de Poitiers (Notre-Dame-la-Grande) %1435-1442% ;; Chanoine de LeMans %1442-1443% ;; Curé de Céaucé (diocèse de LeMans) ;; Chanoine de Poitiers (Saint-Hilaire) %1451-1463% ;; Archidiacre de Poitiers %1453-1471% ;; Chanoine de Luçon ;.
+Other ecclesiastical functions: Vicairegénéral de Poitiers ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 22/11/2022..

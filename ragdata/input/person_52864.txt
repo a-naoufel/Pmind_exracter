@@ -1,0 +1,13 @@
+PERSON: THEOBALDUS de Castellione
+Also known as: Theobaldus de CASTELLIONE; Thibaut de CASTEILLON.
+Description: Archidiacre de Ponthieu.
+Status: Incertain.
+Gender: male.
+Active during: %1280-1319%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse d'Amiens ?.
+Studied at: ?.
+Academic grades obtained: Maître en ;.
+Ecclesiastical status: Diacre ;.
+Ecclesiastical positions held: Chanoine de Rouen %1280-1295% ;; Chanoine d’Amiens %1292-1319% ;; Archidiacre de Ponthieu %1302-1319% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 2/11/2021..

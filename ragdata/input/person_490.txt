@@ -1,0 +1,10 @@
+PERSON: ALEXANDER 3
+Also known as: ALEXANDRE.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1231-1231%.
+Studied at: ?Paris..
+Academic grades obtained: Magister.
+University functions: Paris (Université : envoyé à la Curie auprès du Pape GREGOIRE IX en %1230-1231%, dont le nom figure au dos de lettres du pape envoyées à Paris)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 27/06/2020)..

@@ -1,0 +1,11 @@
+PERSON: THOMAS Vilmart
+Also known as: Thomas VILMART; Laurent VALLIÈRES distingue deux personnages : un Thomas VIMAR, attesté comme chanoine de Poitiers en et Thomas VILMART, chanoine %1428-1450% ;.
+Description: Chanoine de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1403-1450%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;; Recteur des Landes-Génusson ;.
+Ecclesiastical positions held: Chanoine de Poitiers %1403-1450% ?; Vicairegénéral de Poitiers ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 16/11/2022..

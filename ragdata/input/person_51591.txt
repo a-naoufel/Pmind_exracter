@@ -1,0 +1,12 @@
+PERSON: DESIDERIUS de Birstorff
+Also known as: Desiderius de BIRSTORFF.
+Description: Prévôt de Saint-Dié.
+Status: Maître.
+Gender: male.
+Active during: %1438-1510%.
+Born in: Lorraine (Breistroff-la-Grande ?) ?.
+Studied at: Paris %1457-1458%..
+Academic grades obtained: Licencié en décret (Paris) (15 avril)..
+College affiliation: Collège de Montaigu : hôte en ?.
+Ecclesiastical positions held: Chanoine de Toul ;; Prévôt de Saint-Dié ;; Prévôt de Remiremont (Saint-Pierre) ;; Recteur de Géronville..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 28/11/2020)..

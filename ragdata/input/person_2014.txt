@@ -1,0 +1,10 @@
+PERSON: DOMINICUS Zoutre
+Also known as: Dominicus ZOUTRE; Dominique ZOUTRE.
+Description: Étudiant en médecine à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1395-1396%.
+Born in: Flandres..
+Studied at: Paris %1395-1396%..
+Academic grades obtained: Étudiant en médecine (Paris) en %1395-1396%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/06/2021)..

@@ -1,0 +1,12 @@
+PERSON: ROGARIUS Niger
+Also known as: Roger NIGER; Roger le NOIR; Roger de BILEYE.
+Description: Èvêque de Londres.
+Status: Maître.
+Gender: male.
+Active during: %1190-1241%.
+Born in: Angleterre (Essex : Beeleigh ?)..
+Studied at: Paris vers %1190-1200% ?.
+Academic grades obtained: Magister (Paris ?) ;.
+Ecclesiastical positions held: Chanoine de Londres et prebendary d’Ealdland vers ;; Archidiacre de Colchester ;; Évêque de Londres ;.
+Authored work: 'Statuta directa universis rectoribus, vicariis, capellanis parrochialibus in archidiaconatu London.', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 11/05/2025..

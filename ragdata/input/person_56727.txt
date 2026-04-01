@@ -1,0 +1,11 @@
+PERSON: PETRUS Chambonis
+Also known as: Petrus CHAMBONIS.
+Description: Chanoine de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1360-1384%.
+Studied at: ?.
+Academic grades obtained: Docteur en droit canon ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Clermont (Saint-Pierre) ;; Chanoine de Clermont %1362-1379% ;; Chanoine de Langres %1366-1378% ;; Chanoine de Brioude ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/10/2023..

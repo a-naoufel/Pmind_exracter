@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de Freauvilla 3
+Also known as: Nicolaus de FRÉAUVILLE; Nicolaus de FRAVILLA.
+Description: Chanoine de Saint-Marcel.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant (Paris), peut-être en droit canon ;.
+Family relationships: Son parent est (peut-être) le Cardinal Nicolas de FRÉAUVILLE ; Son parent est (peut-être) Nicolas de FRÉAUVILLE, chanoine de Rouen.
+Ecclesiastical positions held: Chanoine de Paris (Saint-Marcel) en %1323-1330% au moins ;; Provision pour un canonicat avec expectative de prébende d'Orléans (Saint-Aignan) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 06/06/2023..

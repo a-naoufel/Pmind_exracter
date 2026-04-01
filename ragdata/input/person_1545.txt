@@ -1,0 +1,13 @@
+PERSON: BONIFACIUS de Savennières
+Also known as: Boniface de SAVENNIERES; Boniface de SANNEVIERES; Boniface de SANNEVIEREZ; Boniface de SAVONNIERES; Boniface de SAVONNIERE; Boniface de SAVENNIERE; Boniface de SAVYGNIERES.
+Description: Médecin.
+Status: Maître.
+Gender: male.
+Active during: %:1395-1406%.
+Born in: Champagne (Meaux)..
+Diocese of origin: Diocèse de Meaux..
+Studied at: Paris (Nation de France), %:1395-1402% ;; Angers, %1402-1406%..
+Academic grades obtained: Maître en médecine (Paris) ..
+University functions: Maîtrerégent de la Faculté de Médecine à Paris, %1395-1402% ;; Lecteur de la Faculté de Médecine à l'Université d'Angers, %1402-1406%..
+Authored work: '[Traité sur les fièvres quartes]', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

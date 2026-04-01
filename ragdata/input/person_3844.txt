@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Dulcis
+Also known as: Guillelmus DULCIS; Guillelmus DULSIS.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1424-1429%.
+Studied at: Paris %1424-1429%.
+Academic grades obtained: Bachelier en théologie sententiarius (Paris) ;; Licencié en théologie (Paris) (le 12 janvier) ;; Docteur en théologie (Paris) (le 24 janvier) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins) ;.
+Religious order: O.P. : frère dominicain..
+University functions: Paris (Faculté de Théologie : Lecteur des Sentences "per bullam" %1424-1425%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 26/04/2022)..

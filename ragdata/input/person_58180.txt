@@ -1,0 +1,12 @@
+PERSON: NICOLAUS Siculus
+Also known as: Nicolaus SICULUS.
+Description: Maître de dictamen.
+Status: Maître.
+Gender: male.
+Active during: %1300-1300%.
+Born in: Italie (Sicile)..
+Studied at: Paris..
+Academic grades obtained: Maître..
+University functions: Paris (Faculté des Arts ? : maître de rhétorique) ;.
+Authored work: 'Ars dictaminis', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 31/10/2024).

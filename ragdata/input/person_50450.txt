@@ -1,0 +1,12 @@
+PERSON: PETRUS Durant
+Also known as: Petrus DURANT.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1389-1389%.
+Born in: Champagne (Montmirail) ;.
+Diocese of origin: Diocèse de Soissons ;.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) 1389-1389% ;.
+College affiliation: Collège de Dormans-Beauvais : boursier ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 07/09/2019..

@@ -1,0 +1,10 @@
+PERSON: GILBERTUS de Normania
+Also known as: Gilebertus de NORMANIA.
+Description: Bachelier ?.
+Status: Gradué.
+Gender: male.
+Active during: %1310-1310%.
+Born in: ?Normandie..
+Studied at: Paris ?.
+Academic grades obtained: ?Bachelier ès arts ou en médecine (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 21/11/2019..

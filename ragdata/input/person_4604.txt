@@ -1,0 +1,20 @@
+PERSON: HENRICUS de Frimaria junior
+Also known as: Henri de FRIMARIA; Henricus de FRIMARIA; Henricus de WIMARIA; Henricus de VRIMARIA.
+Description: Augustin.
+Status: Maître.
+Gender: male.
+Active during: %1342-1354%.
+Born in: Saxe (Friemar)..
+Studied at: Paris %1343-1345% ;; Erfurt ;; Prague..
+Academic grades obtained: Bachelier en théologie (Paris) ;; Maître en théologie (Paris) ..
+College affiliation: Couvent (augustin) de Paris (Grands-Augustins) %1343-1345%..
+Religious order: O.E.S.A. : frère augustin..
+Religious functions: Provincial (augustin) de Thuringe-Saxe %1328-1336%..
+University functions: Erfurt (Couvent augustin : lecteur ) ;; Prague (Couvent augustin : lecteur en théologie).; Paris (Faculté de Théologie : lecteur des Sentences %1343-1344%) ;; Paris (Faculté de Théologie : maître-régent ) ;; Prague (Couvent augustin : lecteur en théologie)..
+Authored work: 'Opus Sermonum exactissimorum De Sanctis', composed around ?.
+Authored work: 'De Quadruplici Instinctu, Divino, Angelico, Diabolico, et Humano', composed around ?.
+Authored work: 'Quaestiones in libros Sententiarum', composed around ?.
+Authored work: 'De Spiritibus, Eorumque Discretione', composed around ?.
+Authored work: 'Tractatus De Beatae, Mariae Virginis Conceptione', composed around ?.
+Authored work: 'De Origine Fratrum Eremitarum Sancti Augustini', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 26/06/2022)..

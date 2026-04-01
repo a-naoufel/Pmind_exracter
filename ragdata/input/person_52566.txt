@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de Noisiaco
+Also known as: Nicolaus de NOISIACO; Nicolaus de NOYSIACO.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1316-1342%.
+Studied at: ?.
+Academic grades obtained: Maître ?.
+Ecclesiastical status: Sous-diacre ;.
+Ecclesiastical positions held: Chanoine de Hérisson avant ;; Doyen de Hérisson avant ;; Chanoine de Thérouanne ;; Chanoine de Liège (Saint-Paul) ;; Chanoine de Beauvais ;; Chanoine de Clermont ;; Chanoine d’Etampes ;; Chanoine de Reims %1320-1342% ;; Chanoine de Senlis ;; Chanoine de Saint-Quentin ;; Chanoine de Châlons-en-Champagne ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/08/2021..

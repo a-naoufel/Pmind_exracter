@@ -1,0 +1,10 @@
+PERSON: ANDREAS de Feucheriis
+Also known as: Andreas de FEUCHERIIS; Andreas de FEUCHARIIS.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1271-1271%.
+Studied at: Paris ..
+Academic grades obtained: Magister en ..
+College affiliation: Socius du collège de Sorbonne en ..
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 31/07/2020).

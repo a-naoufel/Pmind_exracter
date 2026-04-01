@@ -1,0 +1,10 @@
+PERSON: HENRICUS 3
+Also known as: HENRICUS Canonicus Remensis.
+Description: Maître en décret.
+Status: Maître.
+Gender: male.
+Active during: %1248-1248%.
+Studied at: Paris ..
+Academic grades obtained: Maître en décret ;.
+Ecclesiastical positions held: Chanoine de Reims..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 6/08/2017).

@@ -1,0 +1,13 @@
+PERSON: PHILIPPUS Helcuff
+Also known as: Philippus HELCUFF; Petrus HELCUFF; Philippus ELCUF; Philippus de HERCU; Philippus HERCU; Philippus de ALCU.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1445-1450%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Tréguier ;.
+Studied at: Paris (Nation de France) %1445-1450%..
+Academic grades obtained: Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Egidius HOUDEBIN pour la maîtrise en ; Son élève est Johannes BERTHELOTI pour le baccalauréat en ; Son élève est Stephanus GAUDEAU pour le baccalauréat en ; Son élève est Johannes BOUREAU pour le baccalauréat en ; Son élève est Oliverius FABRI pour le baccalauréat en ; Son élève est Rolandus QUORESPERE pour le baccalauréat en ; Son élève est Oliverius RIOCY pour le baccalauréat en ; Son élève est Daniel SOUTRE pour le baccalauréat en ; Son élève est Guilermus LEGARENGIERE pour le baccalauréat en ; Son élève est Johannes GANGNÉ pour la maîtrise en ; Son élève est Guillermus BARTHOLOMAEI pour la maîtrise en ; Son élève est Johannes FORANT pour la maîtrise en ; Son élève est Stephanus LOPIN pour la maîtrise en ; Son élève est Johannes HOSPITARII pour la maîtrise en ; Son élève est Petrus CARRER pour la maîtrise en ; Son élève est Mauricius KARADANET pour la maîtrise en ; Son élève est Guillermus LOEDEC pour la maîtrise en ; Son élève est Johannes GOURDEL pour la maîtrise en ;.
+University functions: Paris (Nation de France : Maître-régent en %1445-1446%) ;; Paris (Nation de France : il assiste en (20 mai) à la reddition du premier compte de Gaufridus CALVI en tant que représentant de la province de Tours ;; Paris (Nation de France : il assiste en (27 juin) à la reddition du second compte de Gaufridus CALVI en tant que représentant de la province de Tours ;; Paris (Nation de France : Maître-régent en %1446-1448%) ;; Paris (Nation de France : Maître-régent en %1446-1450%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/06/2023..

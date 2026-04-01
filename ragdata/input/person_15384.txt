@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Boudon
+Also known as: Guillelmus de BOUDON.
+Description: Augustin.
+Status: Étudiant.
+Gender: male.
+Active during: %1380-1380%.
+Studied at: Paris %1380-1380%..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Couvent (augustin) de Paris ..
+Religious order: O.E.S.A. : frère augustin de la province de Provence ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 10/03/2022..

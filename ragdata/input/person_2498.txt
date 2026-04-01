@@ -1,0 +1,11 @@
+PERSON: GALTERIUS de Mommalia
+Also known as: Galterus de MOMMALIA; Gautier MOMALLE.
+Description: Étudiant ès arts.
+Status: Étudiant.
+Gender: male.
+Active during: %1385-1385%.
+Studied at: Paris..
+Academic grades obtained: Étudiant ès arts (Paris) ;.
+Family relationships: Son frère est Guillelmus de MOMMALIA..
+Social origin: Noble..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 13/11/2021..

@@ -1,0 +1,10 @@
+PERSON: PETRUS Petri 3
+Also known as: Petrus PETRI.
+Description: Maître en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1498-1513%.
+Studied at: Paris (Nation de France ?) %1498-1513%..
+Academic grades obtained: Licencié en théologie (Paris) (13 janvier) ;; Maître en théologie (Paris) ..
+College affiliation: Collège de Cornouailles (Collège de Quimper)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/02/2021)..

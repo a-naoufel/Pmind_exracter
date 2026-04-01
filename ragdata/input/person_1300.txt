@@ -1,0 +1,10 @@
+PERSON: BERNARDUS 8
+Also known as: BERNARD.
+Description: Prêtre.
+Status: Incertain.
+Gender: male.
+Active during: %1283-1283%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Prêtre de Paris (Saint-Nicolas)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 14/01/2021)..

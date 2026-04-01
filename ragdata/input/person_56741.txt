@@ -1,0 +1,15 @@
+PERSON: PETRUS de Vissaco
+Also known as: Petrus de VISSACO.
+Description: Évêque de Lavaur.
+Status: Incertain.
+Gender: male.
+Active during: %1359-1404%.
+Born in: Auvergne ;.
+Diocese of origin: Diocèse de Clermont ;.
+Studied at: ?.
+Academic grades obtained: Bachelier in utroque jure ;.
+Family relationships: Son père est Étienne de VISSAC, chancelier de France ; Son oncle est Hugues de VISSAC, archidiacre de Troyes ;.
+Social origin: Noble ;.
+Ecclesiastical status: Prêtre..
+Ecclesiastical positions held: Chanoine de Meaux ;; Chanoine de Clermont %1371-1374% ;; Doyen de Brioude % -1374% ;; Chanoine de Brioude %1371-1374% ;; Archidiacre d’Aurillac % -1374% ;; Évêque de Saint-Flour %1383-1396% ;; Évêque de Lavaur %1396-1404% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/10/2023..

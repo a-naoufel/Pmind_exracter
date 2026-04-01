@@ -1,0 +1,11 @@
+PERSON: PETRUS Paternoster
+Also known as: Petrus PATERNOSTER.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1447-1447%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Reims ;.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/09/2023..

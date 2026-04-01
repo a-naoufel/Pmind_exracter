@@ -1,0 +1,9 @@
+PERSON: NICOLAUS de Ponte 1
+Also known as: Nicolaus de PONTE.
+Description: Licencié en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1385-1385%.
+Studied at: Paris (Nation de Picardie) %1385-1385%..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Licencié en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/04/2021)..

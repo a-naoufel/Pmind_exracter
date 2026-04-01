@@ -1,0 +1,10 @@
+PERSON: PETRUS Mileti
+Also known as: Petrus MILETI.
+Description: Maître d’école.
+Status: Étudiant.
+Gender: male.
+Active during: %1413-1413%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège des Dix-huit..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/06/2024..

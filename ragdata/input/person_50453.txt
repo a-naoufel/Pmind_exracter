@@ -1,0 +1,11 @@
+PERSON: PETRUS Hersent
+Also known as: Pierre HERSENT.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1496-1496%.
+Studied at: Paris.
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Dormans-Beauvais : boursier en ;.
+Family relationships: Son parent est peut-être Jean HERSENT ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 17/09/2019..

@@ -1,0 +1,23 @@
+PERSON: THEODERICUS Carnotensis
+Also known as: Theodericus CARNOTENSIS; Thierry de CHARTRES; Thierry le BRETON.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1121-1155%.
+Born in: Bretagne ?.
+Studied at: Paris ;; Chartres..
+Family relationships: Son frère est peut-être Bernard de CHARTRES..
+Academic relationships: Son élève est Jean de SALISBURY. Son élève est Clarembaud d’ARRAS, qui enseigna ensuite à Laon. Son élève est Bernard de MOËLAN..
+Ecclesiastical positions held: Archidiacre de Dreux en ;; Chancelier de Chartres ..
+University functions: Paris (Maître) ;.
+Representation roles: Il participe au concile de Reims en et à l’examen des thèses de Gilbert de la PORRÉE..
+Authored work: 'Commentarium super Boethii librum de Trinitate', composed around ?.
+Authored work: 'Glosa super Boethii librum De trinitate', composed around ?.
+Authored work: 'Lectiones in Boethii librum De trinitate', composed around ?.
+Authored work: 'Commentarium super Boethii librum De hebdomadibus', composed around ?.
+Authored work: 'Tractatus in Hexaemeron', composed around ?.
+Authored work: 'Heptateuchon', composed around ?.
+Authored work: 'Commentarium super Ciceronis De inventione', composed around ?.
+Authored work: 'Commentarium super Rhetoricam ad Herennium', composed around ?.
+Authored work: 'Commentarium super Boethii Arithmeticam', composed around ?.
+Source: ARLIMA : Laurent BRUN :.

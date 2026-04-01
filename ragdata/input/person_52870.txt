@@ -1,0 +1,10 @@
+PERSON: SIMON de Estellant
+Also known as: Simon de ESTELLANT.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1250-1250%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Rouen ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 3/11/2021..

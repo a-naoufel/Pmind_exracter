@@ -1,0 +1,11 @@
+PERSON: ODO 2
+Also known as: ODO.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1169-1169%.
+Studied at: Paris..
+Academic grades obtained: Magister..
+Ecclesiastical status: Diacre..
+University functions: Paris (Maître ?) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 26/11/2024..

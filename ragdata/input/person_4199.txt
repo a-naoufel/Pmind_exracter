@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS de Chardonnet
+Also known as: Guillelmus de CHARDONNET.
+Description: Bénédictin.
+Status: Gradué.
+Gender: male.
+Active during: %1484-1499%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Langres..
+Studied at: Paris %1484-1484%..
+Academic grades obtained: Bachelier en décret (Paris) le 12 avril ..
+Religious order: O.S.B. : moine bénédictin..
+Religious functions: Bénéfice à l'abbaye de Molesme en ;; Bénéfice à l'abbaye de Saint-Benoît-sur-Loire en ;; Bénéfice à Marmoutier en ;; Bénéfice à l'abbaye de Molesme en ..
+University functions: Paris (Faculté de Décret : Lecteur (1e lecture) en (15 avril)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 17/03/2022)..

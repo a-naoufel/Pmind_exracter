@@ -1,0 +1,11 @@
+PERSON: RAIMUNDUS Fornerii de Bellovicino
+Also known as: Raymundus FORNERII de Bellovicino; Raymundus de BELLOVICINO.
+Description: Prieur Augustin.
+Status: Extérieur.
+Gender: male.
+Active during: %1339-1339%.
+Studied at: ?.
+Religious order: O.S.A. : Chanoinerégulier en ..
+Religious functions: Prieur.
+Ecclesiastical positions held: Prieur d’un prieuré (augustin) du diocèse de Nîmes en ;; Chanoine régulier.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 18/12/2019..

@@ -1,0 +1,12 @@
+PERSON: NICOLAUS Saingnerue
+Also known as: Nicolaus SAINGNERUE.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1362-1362%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris..
+Studied at: Paris (Nation de France) %1362-1362%..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Maître en médecine (Paris) vers ..
+Ecclesiastical status: Clerc du diocèse de Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 26/11/2023..

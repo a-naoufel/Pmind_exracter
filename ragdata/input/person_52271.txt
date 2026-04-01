@@ -1,0 +1,10 @@
+PERSON: PETRUS Fabri 3
+Also known as: Pierre FABBRI.
+Description: Boursier du Collège de Montaigu.
+Status: Gradué.
+Gender: male.
+Active during: %1431-1432%.
+Studied at: Paris %1431-1432%..
+Academic grades obtained: Bachelier en théologie (Paris) ?.
+College affiliation: Collège de Montaigu : boursier %1431-1432% ;; Collège de Montaigu : maître intérimaire %1431-1432% ;.
+University functions: Paris (Faculté de Théologie : cursor %1426-1428%) ;; Paris (Faculté de Théologie : lecteur des Sentences %1428-1429%) ;.

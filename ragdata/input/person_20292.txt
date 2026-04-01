@@ -1,0 +1,12 @@
+PERSON: COLINUS Gonesse
+Also known as: Colin GONESSE.
+Description: Boursier du collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1379-1384%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon..
+Studied at: Paris ..
+Academic grades obtained: Étudiant..
+College affiliation: Collège de Dormans-Beauvais : boursier en , entré en février ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/04/2021..

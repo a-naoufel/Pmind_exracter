@@ -1,0 +1,12 @@
+PERSON: GALTERIUS Anglicus
+Also known as: Galterus Anglicus; Gauthier l'ANGLAIS.
+Description: Maître de grammaire.
+Status: Maître.
+Gender: male.
+Active during: %1200-1225%.
+Born in: Angleterre ?.
+Studied at: Paris %1200-1225%..
+Academic grades obtained: Maître ès arts (Paris) ?.
+University functions: Maître de grammaire ;.
+Authored work: 'Fabulae versificatae', composed around ?.
+Source: AESOPICA : http://mythfolklore.net/aesopica/walter/.

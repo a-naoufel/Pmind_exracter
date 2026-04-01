@@ -1,0 +1,15 @@
+PERSON: HENRICUS Unger
+Also known as: Henricus UNGER; Henricus UNGAR; Henricus de RUTLING; Henricus de RUTELING; Henricus de RUTHELINGEN.
+Description: Notaire.
+Status: Maître.
+Gender: male.
+Active during: %1344-1384%.
+Born in: Alémanie (Riedlingen) ;.
+Diocese of origin: Diocèse de Constance ;.
+Studied at: Paris (Nation Anglo-allemande) %1351-1352%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licence ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Family relationships: Son père est Konrad de BINGEN de Sigmaringen ;.
+Academic relationships: Son maître est Jacobus de HOLLANDIA pour le bacccalauréat en ; Son maître est Hermannus de ROTHEWIELLE pour la maîtrise en ;.
+Ecclesiastical positions held: Chanoine de Coire en %1351-1371% ;; Chanoine de Beromünster (Saint-Michel) en ;; Curé de Remingsheim ;; Chanoine de Zürich ;.
+Other ecclesiastical functions: Notaire de la Curie de Constance ;.
+Source: RAG ;.

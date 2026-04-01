@@ -1,0 +1,8 @@
+PERSON: THOMAS Gaisi
+Also known as: Thomas GAISI.
+Description: Etudiant en médecine..
+Status: Étudiant.
+Gender: male.
+Active during: %1413-1414%.
+Studied at: Paris %1413-1414%..
+Academic grades obtained: Étudiant en médecine (Paris) %1413-1414%..

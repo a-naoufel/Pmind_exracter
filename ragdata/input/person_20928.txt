@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de Capella 2
+Also known as: Nicolaus de CAPELLA; Nicole de LACHAPELLE.
+Description: Avocat au Châtelet.
+Status: Suppôt.
+Gender: male.
+Active during: %1451-1490%.
+Studied at: Paris %1438-1464%..
+Academic grades obtained: ?.
+Family relationships: Son frère est Henricus de CAPELLA, marchand de bois ;.
+Social origin: Bourgeois de Paris ;.
+Source: Chronologie de Paris au Moyen Âge : http://www.parismoyenage.fr/parisiens/fiche.php?nomChapelleprenomNicoleid01.

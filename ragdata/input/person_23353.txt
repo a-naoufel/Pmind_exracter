@@ -1,0 +1,8 @@
+PERSON: GUILLELMUS Pereau
+Also known as: Guillermus PEREAU.
+Description: Paysan.
+Status: Extérieur.
+Gender: male.
+Active during: %1481-1481%.
+Studied at: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/05/2018)..

@@ -1,0 +1,25 @@
+PERSON: NICOLAUS Boneti
+Also known as: Nicolaus BONETI.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1314-1343%.
+Born in: Touraine ?.
+Diocese of origin: Diocèse de Tours ?.
+Studied at: Paris ;.
+Academic grades obtained: Maître en théologie (Paris) ;.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Academic relationships: Son maître est peut-être Johannes DUNS Scotus..
+Religious order: O.F.M. : frère franciscain..
+Ecclesiastical positions held: Évêque de Malte %1342-1343% ;.
+Authored work: '(Commentaire sur les Sentences)', composed around ?.
+Authored work: 'Tractatus de Conceptione Beatae Virginis Mariae Jussu Clementis V ad Modum Dialogi', composed around Avant ?.
+Authored work: 'Theologia naturalis'.
+Authored work: 'In Genesim', composed around ?.
+Authored work: 'De Formalitatibus', composed around ?.
+Authored work: 'Praedicamenta de Decem generibus', composed around ?.
+Authored work: 'Expositio in metaphysicam Aristotelis', composed around ?.
+Authored work: 'Quaestiones s. Liber de anima'.
+Authored work: 'Super topica', composed around ?.
+Authored work: 'In Libros Physicorum Aristotelis Commentaria', composed around ?.
+Source: Répertoire des auteurs franciscains préparé par Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress :.

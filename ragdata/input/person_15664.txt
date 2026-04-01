@@ -1,0 +1,13 @@
+PERSON: ANTHONIUS de BonoFonte
+Also known as: Anthonius de BONOFONTE.
+Description: Bachelier Décret.
+Status: Gradué.
+Gender: male.
+Active during: %1447-1448%.
+Born in: Berry ?.
+Diocese of origin: Diocèse de Bourges..
+Studied at: Paris %1447-1448%..
+Academic grades obtained: Bachelier en décret (Paris) (le 19 décembre) ..
+Social origin: Noble..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales en (19 janvier)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; Jean-Philippe Genet, dernière mise à jour 24/09/2020)..

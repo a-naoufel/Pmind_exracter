@@ -1,0 +1,10 @@
+PERSON: ROBERTUS de Parisiis
+Also known as: Robertus de PARISIIS; Robert de PARISIIS.
+Description: Boursier théologien au collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1348-1348%.
+Studied at: Paris %1348-1348%..
+Academic grades obtained: Étudiant en théologie (Paris) ;.
+College affiliation: Boursier théologien au collège de Navarre à Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 13/09/2023)..

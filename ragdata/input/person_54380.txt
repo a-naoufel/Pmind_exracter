@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Frost
+Also known as: Guillelmus de FROST.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1403-1403%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Saint-Malo ;.
+Academic grades obtained: Étudiant en décret (Paris) ;.
+Ecclesiastical positions held: Clerc du diocèse de Saint-Malo ;.
+University functions: Candidat à une bénéfice ecclésiastique sur le rotulus de l’université de Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 15/10/2022..

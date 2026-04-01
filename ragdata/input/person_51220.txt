@@ -1,0 +1,28 @@
+PERSON: GUILLELMUS ParvI
+Also known as: Guillelmus PARVI; Guillelmus PARVUS; Guillaume PETIT; Guillaume PARVY.
+Description: Maître en théologie dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1486-1536%..
+Born in: Normandie (Montivilliers) ;.
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris..
+Academic grades obtained: Licencié en théologie (Paris) (14 février) ;; Maître en théologie (Paris) (26 décembre) ;.
+College affiliation: Couvent (dominicain) de Paris (Jacobins) ;.
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Rouen..
+Religious functions: Inquisiteurgénéral de France ;; Prieur du couvent (dominicain) de Blois ;.
+Ecclesiastical positions held: Évêque de Troyes %1518-1527% ;; Évêque de Senlis %1527-1536% ;.
+University functions: Paris (Collège Royal : les ‘trois Guillaume’, Guillaume PARVY, Guillaume COP et Guillaume BUDÉ passent pour avoir convaincu FRANÇOIS Ier, roi de France de fonder le Collège Royal en )..
+Authored work: 'Préface au Commentaire sur les Sentences de Durand de Saint-Pourçain', composed around ?., dedicated to Adressé à Antoine DUFOUR, confesseur de LOUIS XII, roi de France..
+Authored work: 'Explicatio primi capitis evangelii Lucae', composed around ?, dedicated to Dédié à Claude de SEYSSEL..
+Authored work: 'Le viat de salut tres necessaire et utile a tous chrestiens, pour parvenir a la vie éternelle ou est compris lexposition du symbole, des dix commandements du Pater et le Ave Maria : instruction pour soy confesser avec des oraisons et plusieurs devotes chansons', composed around ?.
+Authored work: 'Oratio habita in concilio provincie Senensis celebrato die XIII Fébruari anno Domini MDXXVII', composed around (13 février)..
+Authored work: 'Hortus fidei, apostolorum et Niceni concilii articulos continens', composed around ?.
+Authored work: 'La formation de l'homme et son excellence, ce qu'il doibt acomplir pour avoir Paradis, composé par feu de bonne mémoire Guillaume Parvi, docteur en théologie, naguaires décédé, évesque de Senlis confesseur du Roy... Avec plusieurs bonnes doctrines, enseignements utiles necessaires a tous chrestiens, le tout compose par ledit reverend', composed around ?.
+Authored work: 'Très dévotes oraisons à l'honneur de la très sacrée et glorieuse vierge Marie, mère de Dieu', composed around ?.
+Authored work: 'Catalogue de la biliothèque royale', composed around ?.
+Authored work: 'Historia persecutionum Africe per Gensericum et Huntericum Vandolorum reges', composed around ?.
+Authored work: 'De origine et gestis regum Longobardorum', composed around ?.
+Authored work: 'Rerum gestarum per Europam libri sex', composed around ?.
+Authored work: '(Préface et édition du De regimine principum de Thomas d’Aquin)', composed around ., dedicated to Dédié à Germain de GANAY, frère de Jean de GANAY, chancelier de France..
+Source: MIRABILE : Andrea CENCINI :.

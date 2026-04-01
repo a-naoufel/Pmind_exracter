@@ -1,0 +1,14 @@
+PERSON: ERVISIUS de Sancto-Victore
+Also known as: Ervisius de SANCTO VICTORE; Ernisius de SAINT-VICTOR.
+Description: Abbé de Saint-Victor.
+Status: Maître.
+Gender: male.
+Active during: %1162-1177%.
+Born in: Angleterre..
+Studied at: Paris (Saint-Victor)..
+Academic grades obtained: Maître ?.
+Religious order: Chanoinerégulier de Saint-Victor..
+Religious functions: Abbé de Paris (Saint-Victor) %1162-1172%..
+Authored work: 'Epistulae', composed around ?.
+Authored work: 'Charte de Saint-Victor', composed around %1162-1172%.
+Source: MIRABILE : http://www.mirabileweb.it/author/ernisius-sancti-victoris-parisiensis-abbas-n-1100--author/24319.

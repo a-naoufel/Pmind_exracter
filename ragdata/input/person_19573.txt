@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Louviers
+Also known as: Guillelmus de LOUVIERS.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+Family relationships: Son parent est peut-être Johannes de LOUVIERS qui s'acquitte de sa contribution en même temps que lui..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 31/03/2022..

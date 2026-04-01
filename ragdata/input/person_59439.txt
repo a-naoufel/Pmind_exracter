@@ -1,0 +1,7 @@
+PERSON: MARGARETA la Gastinoise
+Also known as: Marguerite LA GASTINOISE.
+Description: Opposante du collège d’Autun dans un procès.
+Status: Extérieur.
+Gender: female.
+Active during: %1427-1427%.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,13 @@
+PERSON: NICOLAUS Regnier 1
+Also known as: Nicolaus REGNIER.
+Description: Boursier du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1446-1448%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Nevers ;.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège d’Autun : boursier, introduit contrairement aux statuts par Blaise REGNIER de Gresle, futur archevêque de Bordeaux et prétendu maître du collège d'Autun;.
+Family relationships: Son oncle est Blaise REGNIER de Gresle ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

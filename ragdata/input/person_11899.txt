@@ -1,0 +1,11 @@
+PERSON: THOMAS Dobbelsteyn
+Also known as: Thomas DOBBELSTEYN.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1375-1376%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Gerhardus de KALKAR pour le baccalauréat en ; Son maître est Gerhardus de HOYNGHEN pour la maîtrise en ;.
+University functions: Paris (Nation Anglo-allemande) : il demande en %1376 (24 mars) à la Nation de figurer sur le rotulus bien qu'il soit rentré chez lui, mais il a l'intention de revenir : "supplicaverunt primo magistri Johannes de Berka et Thomas Dobbelsteyn quatenus, cum ipsi essent statim ituri ad partes suas, intendentes reverti ad studium prout cicius possent, ipsi possent imponi tanquam presentes rotulo, si quis fieret interim quod ipsi essent absentes. Quorum supplicaciones concorditer ab omnibus, in quantum erat ipsis possibile, fuerunt concesse." ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 07/10/2024..

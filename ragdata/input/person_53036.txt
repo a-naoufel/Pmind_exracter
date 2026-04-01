@@ -1,0 +1,11 @@
+PERSON: REMIGIUS de Sancta Margarita
+Also known as: Ricardus de SANCTA MARGARITA; Rémi de SAINT-MARC; Rémi de SAINTE-MARGUERITE.
+Description: Chanoine de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1324-1342%.
+Born in: Normandie ?.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical positions held: Chanoine de Troyes %1326-1334% ;; Chanoine de Chartres ;; Chanoine de Laon %1328-1334% ;; Chanoine de Paris (Notre-Dame) %1329-1334% ;; Chanoine d’Autun %1331-1341% ;; Prévôt de Sussey %1331-1333% ;; Chanoine d’Amiens %1333-1334% ;; Chanoine de Limoges ;; Chanoine de Nantes ;; Chanoine de Lisieux ;; Chanoine d’Évreux ;; Archidiacre de Troyes ;; Chanoine de LePuy ;; Chanoine de Tours ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 1/12/2021..

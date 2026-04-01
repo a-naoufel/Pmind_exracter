@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Piete
+Also known as: Guillermus PIETE.
+Description: Chanoine de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1419-1432%.
+Studied at: ?.
+Academic grades obtained: Licencié en droit canon en ;.
+Ecclesiastical status: ?.
+Ecclesiastical positions held: Chanoine de Poitiers %1428- % ;; Recteur de Luçon (Saint-Gervais) ;; Abbéséculier de Poitiers (Saint-Jean-Baptiste) ;; Archidiacre de Thouars %1430-1432% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 09/12/2022..

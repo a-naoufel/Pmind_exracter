@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Abbas Belliprati
+Also known as: GUILLAUME, abbé de Beaupré.
+Description: Abbé cistercien de Beaupré.
+Status: Extérieur.
+Gender: male.
+Active during: %1374-1390%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.Cist. : moine cistercien ;.
+Religious functions: Abbé (cistercien) de Beaupré ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 27/09/2021..

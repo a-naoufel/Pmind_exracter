@@ -1,0 +1,16 @@
+PERSON: BONIFACIUS de Ast
+Also known as: Bonifacius de AST; Bonifacius de ASTI; Facinus de ASTI.
+Description: Augustin.
+Status: Maître.
+Gender: male.
+Active during: %1358-1367%.
+Born in: Italie (Piémont : Asti) ?.
+Studied at: Paris ;; Bologne.; Bachelier en théologie (Paris) ;.
+Academic grades obtained: Maître en théologie (Paris ?) ..
+College affiliation: Cuvent (parisien) des Augustins (Grands-Augustins)..
+Religious order: O.E.S.A. : frère augustin.
+University functions: Paris (Faculté de Théologie : Lecteur des Sentences au Couvent augustin en %1362-1363% ?) ;; Bologne (Couvent augustin : Lecteur des Sentences) %1363-1365% ?.
+Authored work: 'In I-III Sententiarum', composed around ?.
+Authored work: 'Quaestiones in libros Physicorum', composed around %1363-1365% à Bologne ?.
+Authored work: 'Tractatus de maximo et minimo', composed around %1363-1365% à Bologne ?.
+Source: http://www.treccani.it/enciclopedia/facino-d-asti_(Dizionario-Biografico)/.

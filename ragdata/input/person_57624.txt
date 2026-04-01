@@ -1,0 +1,10 @@
+PERSON: HUGO de Seghuin
+Also known as: Hugo de SEGHUIN.
+Description: Procureur de l’université à la Curie.
+Status: Maître.
+Gender: male.
+Active during: %1253-1253%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) ?.
+University functions: Paris (Université : procureur à la Curie) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 24/03/2024..

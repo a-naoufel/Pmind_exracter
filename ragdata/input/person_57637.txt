@@ -1,0 +1,12 @@
+PERSON: HENRICUS de Sulliaco
+Also known as: Henricus de SULLIACO; Henri de SULLY.
+Description: Évêque de Worcester.
+Status: Extérieur.
+Gender: male.
+Active during: %1180-1195%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.S.B. : moine bénédictin ;.
+Religious functions: Prieur (clunisien) de Bermondsey % -1189% ;; Abbé (O.S.B.) de Glastonbury %1189-1193% ;.
+Ecclesiastical positions held: Évêque de Worcester %1193-1195% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/03/2024..

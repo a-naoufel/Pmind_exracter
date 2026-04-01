@@ -1,0 +1,12 @@
+PERSON: DOMINICUS Eanes Jardo
+Also known as: Domingo EANES Jardo.
+Description: Évêque d'Evora.
+Status: Étudiant.
+Gender: male.
+Active during: %1262-1293%.
+Born in: Portugal ;.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+Religious functions: Prieur de Guimaraes (Santa Maria)..
+Ecclesiastical positions held: Évêque d'Evora ;; Évêque-élu de Lisbonne..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/12/2017)..

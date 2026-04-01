@@ -1,0 +1,11 @@
+PERSON: HERVEUS de Insula
+Also known as: Herveus de INSULA.
+Description: Notaire public.
+Status: Incertain.
+Gender: male.
+Active during: %1325-1341%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Léon ;.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 2/1/2020..

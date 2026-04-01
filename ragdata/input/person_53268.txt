@@ -1,0 +1,11 @@
+PERSON: HENRICUS Godefroy
+Also known as: Henricus GODEFROY; Henricus JOFFREY.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1499-1505%.
+Studied at: ?.
+Academic grades obtained: Licencié en droit canon ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Rouen %1499-1505% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 05/01/2022..

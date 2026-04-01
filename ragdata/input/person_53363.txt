@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Barraut
+Also known as: Guillaume BARRAUT.
+Description: Secrétaire du duc de Berry.
+Status: Maître.
+Gender: male.
+Active during: %1407-1407%.
+Studied at: Paris..
+Academic grades obtained: Maître ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/01/2022..

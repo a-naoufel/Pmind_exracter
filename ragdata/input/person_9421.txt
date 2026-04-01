@@ -1,0 +1,37 @@
+PERSON: NICOLAUS de Clamengiis
+Also known as: Nicolaus de CLAMENGIIS; Nicolas de CLAMANGES; Nicolas POILEVILLAIN; Nicolaus POILLEVILLAIN de Clamanges.
+Description: Chantre de Bayeux.
+Status: Maître.
+Gender: male.
+Active during: %1375-1437%.
+Born in: Champagne (Clamanges)..
+Diocese of origin: Diocèse de Châlons ;.
+Studied at: Paris (Nation de France) %1365-1437% ;.
+Academic grades obtained: Étudiant ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Bachelier en théologie (Paris) vers %1388-1390%..
+College affiliation: Collège de Navarre : Boursier artien %1375-1381% ;; Collège de Navarre : Boursier théologien %1381-1394%.; Collège Mignon : recteur en ..
+Family relationships: Son oncle est X POILLEVILLAIN, médecin mort en ; Son frère est Pierre POILEVILLAIN, écolier à Paris, %:1407:-:1410:%..
+Ecclesiastical positions held: Provision pour un bénéfice à la collation de l'évêque, du doyen et du chapitre de ? (le nom est laissé on blanc) sur le rotulus quorundam licenciatorum, bacallariorum ac scolarium universitatis Parisiensis présenté en à CLÉMENT VII ;; Candidat à un bénéfice à la collation de l’évêque, du doyen et du chapitre de Châlons sur le troisième rotulus de l’Université de Paris présenté à CLÉMENT VII en à Avignon ;; Chapelain de Paris (chapelle universitaire) en ;; Chapelain de Châlons (chapelle ‘in novo opere’ de la cathédrale de Châlons) en ;; Candidat à un canonicat de Châlons sur le rotulus présenté par Pierre d’AILLY à BENOÎT XIII en (13 décembre) à Avignon ;; Candidat à un bénéfice sur le rotulus présenté par Pierre d’AILLY à BENOÎT XIII en (13 décembre) à Avignon ;; Chanoine de Saint-Cloud ;; Chanoineprébendé de Langres en %1395-1405% ;; Trésorier de Langres en ?%1398-1405%? ;; Chanoineprébendé de Bayeux ;; Chantre de Bayeux %1403-1422:%..
+University functions: Paris (Faculté des Arts : maître-régent en mai ) ;.
+Authored work: 'De filio prodigo', composed around %1408-1417% à Fontaine-aux-Bois ?.
+Authored work: 'De fructu eremiti', composed around %1408-1417% à Fontaine-aux-Bois ?.
+Authored work: 'De fructu rerum adversarum', composed around %1408-1417% à Fontaine-aux-Bois ?.
+Authored work: 'De Antichristo', composed around %1408-1417% à Fontaine-aux-Bois ?.
+Authored work: 'De lapsu et reparatione iustitiae', composed around %1408-1417% à Fontaine-aux-Bois ?.
+Authored work: 'De praesulibus simoniacis', composed around %1408-1417% à Fontaine-aux-Bois ?.
+Authored work: 'De studio theologico', composed around ?.
+Authored work: 'Expositio super quadraginta septem capitula Isaiae', composed around ?.
+Authored work: 'Orationes', composed around ?.
+Authored work: 'Ecloga', composed around ?.
+Authored work: '(Conte de Floridan et d’Elvide)', composed around ?.
+Authored work: 'Descriptio de vite rustice', composed around ?.
+Authored work: 'Descriptio vitae tyrannicae', composed around ?.
+Authored work: 'Historia de raptoris, raptaeque virginis lamentabili exitu', composed around ?.
+Authored work: 'Liber de prosperitate adversitatis', composed around ?.
+Authored work: '(Lettre écrite au nom de l’Université au Collège des Cardinaux)', composed around (23 septembre)., dedicated to Adressé au Collège des Cardinaux..
+Authored work: '(Lettre écrite au nom de l’Université à Benoît XIII)', composed around (23 septembre)., dedicated to Adressé à BENOÎT XIII..
+Authored work: '(Lettre à Benoît XIII)', composed around (décembre)., dedicated to Adressé à BENOÎT XIII..
+Authored work: '(Epistolario)', composed around ?.
+Authored work: 'De ruina et reparatione Ecclesiae', composed around ?.
+Authored work: 'Deploratio calamitatis ecclesiastice per scisma', composed around ..
+Authored work: 'Disputatio habita super materia concilii generalis cum quodam scholastico Parisiensi', composed around ?.
+Source: ARLIMA (Laurent BRUN) : https://arlima.net/no/3297 ;.

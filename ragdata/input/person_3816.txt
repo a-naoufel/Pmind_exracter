@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS Comitis 2
+Also known as: Guillelmus COMITIS; Willermus COMITIS.
+Description: Procureur de la Nation de Normandie.
+Status: Maître.
+Gender: male.
+Active during: %1342-1351%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris (Nation de Normandie) %1342-1351%..
+Academic grades obtained: Maître ès arts (Paris) ;.
+Ecclesiastical status: Clerc du diocèse de Rouen ;.
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiastique à la collation de l’évêque de LeMans en réponse au rotulus de l’Université de Paris en : mandat à Ricardus de MESNILLO, chanoine de Rouen, Dyonisius de DUCLERO, chanoine de Senlis, Johannes FABRI, chanoine de LeMans ;.
+University functions: Paris (Nation de Normandie : procureur en ) ;; Paris (Université : Témoin d'une délibération de l'Université de Paris concernant Pierre BERSUIRE, O.S.B...
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 03/03/2020..

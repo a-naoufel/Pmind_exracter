@@ -1,0 +1,11 @@
+PERSON: THEODERICUS de Suecia
+Also known as: THEODORICUS Swecus; Theodoricus SWECUS.
+Description: Étudiant.
+Status: Gradué.
+Gender: male.
+Active during: %1358-1358%.
+Born in: Suède.
+Studied at: Paris (Nation Angloallemande), ..
+Academic grades obtained: B.A. (P), ..
+Academic relationships: Élève de maître NICOLAUS Johannis de Suecia (déterminance), ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 21/12/2016..

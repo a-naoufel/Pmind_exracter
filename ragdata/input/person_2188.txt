@@ -1,0 +1,11 @@
+PERSON: EUSTASIUS de Minoricuria
+Also known as: Eustachius de MINORICURIA; Eustache de MEURICOURT.
+Description: Abbé de Saint-Vaast d'Arras.
+Status: Extérieur.
+Gender: male.
+Active during: %1338-1370%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.S.B. : moine bénédictin..
+Religious functions: Reddituarius de l'abbaye (bénédictine) d'Arras (Saint-Vaast) ;; Receptor de l'abbaye (bénédictine) d'Arras (Saint-Vaast) ;; Abbé (bénédictin) d'Arras (Saint-Vaast) %1338-1370%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 2/10/2015)..

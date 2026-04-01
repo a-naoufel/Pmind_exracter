@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS de Fossato 3
+Also known as: Guillelmus de FOSSATO.
+Description: Recteur de l'Université de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1424-1437%.
+Studied at: Paris (Nation de France ?) %1424-1437%..
+Academic grades obtained: Maître ès arts (Paris).; Bachelier en théologie "cursor" (Paris) .; Licencié en théologie (Paris) (1er avril) ;; Maître en théologie (Paris) (31 mai) ..
+College affiliation: Collège de Maître-Gervais : socius %1420-1423% ;.
+Academic relationships: Son maître est Johannes SAUNERII..
+Ecclesiastical positions held: Chanoineprébendé de Reims ;; Chanoineprébendé de Reims (Saint-Symphorien)) ;; Chanoineprébendé de Mézières (Saint-Pierre) ;; Chanoineprébendé de Braux (Saint-Pierre) ;; Chanoine de Paris (Sainte-Opportune) ;.
+University functions: Paris (Université de Paris : recteur élu par la faculté des Arts en (23 juin)) ;; Paris (Université de Paris : recteur élu par la faculté des Arts en (24 mars)) ;; Paris (Université de Paris : recteur élu par la faculté des Arts en (10 octobre)) ;; Paris (Faculté de Théologie : Lecteur de la Bible comme bachelier "cursor" en théologie en (18 avril)) ;; Paris (Faculté de Théologie : Lecteur de la Bible en (18 mai)) ;; Paris (Faculté de Théologie : Lecteur des Sentences en (septembre)) ;; Paris (Faculté de Théologie : maître-régent %1434-1435%) ;; Paris (Faculté de Théologie : doyen en ) ;.
+Representation roles: Apparait comme doyen de la Faculté de Théologie à la Curieromaine, octobre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 25/03/2022..

@@ -1,0 +1,13 @@
+PERSON: AEGIDIUS Salomonis 1
+Also known as: Aegidius SALOMONIS; Gilet SALEMON.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1398-1419%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Troyes..
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris ?).
+College affiliation: Collège de Dormans-Beauvais %1398-1417%..
+Ecclesiastical positions held: Chanoine de Troyes %1412-1417% ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 05/05/2020)..

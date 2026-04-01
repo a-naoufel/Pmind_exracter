@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Leotier
+Also known as: Guillelmus LEOTIER; Guillaume LEOTHIER; Guillaume LOTIER; Guillaume LOTTIER; Guillaume LEOTERII; Guillaume LEOTHERII; Guillaume LEOTERI; Guillaume LOTHERII; Guillaume LYOTHERII.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1409-1455%.
+Studied at: Paris (Nation de France) %1409-1418%..
+Academic grades obtained: Étudiant en médecine (Paris) %1409-1410% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) (13-15 mars) ;; Maître en médecine (Paris) ;.
+Family relationships: Son fils est Jean LEOTIER, détenteur d'une chapellenie en par l'entremise de CHARLES VII, roi de France..
+University functions: Paris (Faculté de médecine : Maître-régent %1416-1417)% ;; Paris (Faculté de médecine : Maître-régent %1417-1418%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 14/05/2022..

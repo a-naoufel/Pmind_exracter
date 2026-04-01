@@ -1,0 +1,10 @@
+PERSON: PETRUS Belini
+Also known as: Petrus BELINI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1453-1453%.
+Studied at: Paris (Nation de France : maître-régent en ) ;.
+Academic grades obtained: Maître ès arts (Paris) ;.
+Academic relationships: Son élève est Johannes MIOTI ppour la maîtrise en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 16/05/2023..

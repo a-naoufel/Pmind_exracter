@@ -1,0 +1,15 @@
+PERSON: ROLANDUS Hospitis 1
+Also known as: Rollandus HOSPITIS.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1461-1461%.
+Born in: Bretagne ?.
+Studied at: Paris (Collège de Sorbonne) %1461-1461%..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Hôte du collège de Sorbonne reçu le 17 avril ..
+Family relationships: Son neveu est Rollandus HOSPITIS, recteur de Montauban (Saint-Éloi) ;.
+Religious order: O.S.B. : moine bénédictin..
+Religious functions: Prieur commendataire de Sainte-Croix (diocèse de Saint-Malo) en ;; Prieur commendataire de Saint-Sauveur (diocèse de Vannes) en ;; Prieur commendataire d'Hédé (diocèse de Rennes) en ;; Prieur commendataire de Saint-Melaine (diocèse de Rennes) en ..
+Representation roles: Envoyé par le roi de France à Rome en septembre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 04/07/2024..

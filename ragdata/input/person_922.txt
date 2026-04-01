@@ -1,0 +1,12 @@
+PERSON: ARNALDUS Coci de Clivis
+Also known as: Arnaldus COCI de Clivis; Arnoldus COCI de Clivis; Arnoldus COCI; Arnoldus de CLIVIS; Arnoldus KAET de Clivis ?.
+Description: Maître ès arts..
+Status: Maître.
+Gender: male.
+Active during: %1354-1362%.
+Born in: Clèves..
+Studied at: Oxford ;; Paris (Nation Anglo-allemande) %1354-1354%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ..
+Academic relationships: Son maître est Johannes de WESALIA..
+Ecclesiastical positions held: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 29/10/2020)..

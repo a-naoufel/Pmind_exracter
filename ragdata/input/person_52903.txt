@@ -1,0 +1,12 @@
+PERSON: ROBERTUS de Gringonnaria
+Also known as: Robertus de GRINGONNARIA; Robertus de LA GRINGONNIERE.
+Description: Chanoine de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1375-1390%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Saint-Brieuc ?.
+Studied at: ?.
+Academic grades obtained: Docteur in utroque jure ;.
+Ecclesiastical positions held: Chanoine de Rennes ;; Chanoine de Rouen %1381-1390% ;; Chanoine de Paris ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 6/11/2021..

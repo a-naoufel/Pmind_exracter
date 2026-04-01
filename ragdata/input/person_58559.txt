@@ -1,0 +1,10 @@
+PERSON: RADULPHUS de Borne
+Also known as: Rodulphus de BORNE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1372-1372%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Henricus de HASSIA pour le baccalauréat en ; Son maître est Gerardus de KALKER pour la licence en ; Son maître est Gerardus de KALKER pour la maîtrise en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/12/2024)..

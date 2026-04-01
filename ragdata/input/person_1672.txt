@@ -1,0 +1,12 @@
+PERSON: CLEMENS Brunacci
+Also known as: Clément BRUNACCI.
+Description: Prieur des Servites.
+Status: Étudiant.
+Gender: male.
+Active during: %1310-1310%.
+Born in: Italie (Toscane : Florence) ;.
+Diocese of origin: Diocèse de Florence ?.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant ?.
+Religious order: Prieur (servite) de Paris ?.
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction, Jean-Philippe Genet, 18/04/2021..

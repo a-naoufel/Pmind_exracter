@@ -1,0 +1,9 @@
+PERSON: DIONYSIUS Le Sanier
+Also known as: Dionysius LE SANIER; Dionysius LE SAUNIER.
+Description: Maître ès arts ?.
+Status: Maître.
+Gender: male.
+Active during: %1463-1464%.
+Studied at: Paris..
+Academic grades obtained: Magister ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 1/06/2021..

@@ -1,0 +1,9 @@
+PERSON: HENRICUS Le Fevre
+Also known as: Henricus LE FEVRE; Henricus FABRI.
+Description: Examinateur au Châtelet.
+Status: Incertain.
+Gender: male.
+Active during: %1454-1474%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: http://www.parismoyenage.fr..

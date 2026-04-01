@@ -1,0 +1,11 @@
+PERSON: CHRISTOPHORUS Vignon
+Also known as: Chrystophorus VIGNON.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1499-1499%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Sées..
+Studied at: Paris %1499-1499%..
+Academic grades obtained: Bachelier en décret (Paris) en (12 août) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 10/04/2021..

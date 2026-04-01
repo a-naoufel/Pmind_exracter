@@ -1,0 +1,9 @@
+PERSON: GUIDO Zedeman
+Also known as: Guido ZEDEMAN.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1446-1446%.
+Studied at: Paris %1446-1446%..
+Academic grades obtained: Bachelier en décret (Paris) 2 décembre ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 04/02/2022..

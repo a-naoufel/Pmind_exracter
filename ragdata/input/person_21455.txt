@@ -1,0 +1,12 @@
+PERSON: THOMAS de Monte Sancti Eligii
+Also known as: Thomas de MONTE SANCTI ELIGII.
+Description: Licencié in utroque.
+Status: Maître.
+Gender: male.
+Active during: %1329-1347%.
+Born in: Artois ?.
+Diocese of origin: Diocèse d'Arras..
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Licencié in utroque..
+Religious order: ?O.S.A. : chanoinerégulier du Mont-Saint-Éloi ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 03/10/2024..

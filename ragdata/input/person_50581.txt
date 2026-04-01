@@ -1,0 +1,21 @@
+PERSON: GRATIADEUS Asculanus
+Also known as: Gratiadeus ASCULANUS; Gratiadeus d'ASCOLI; Gratiadeus LOMBARD.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1301-1303%.
+Born in: Italie (Ascoli)..
+Studied at: Bologne ;; Padoue..
+Religious order: O.P. : frère dominicain..
+University functions: Bologne (Lecteur au studium dominicain) :; Padoue (Lecteur au studium dominicain) :.
+Authored work: 'Logica', composed around ?.
+Authored work: 'Super analytica priora', composed around ?.
+Authored work: 'Super analytica posteriora', composed around ?.
+Authored work: 'Super artem veterem', composed around ?.
+Authored work: 'Quaestiones super libros III de anima', composed around ?.
+Authored work: 'Super Topica', composed around ?.
+Authored work: 'Super Elenchos', composed around ?.
+Authored work: 'Parva naturalia', composed around ?.
+Authored work: 'Quaestiones in libros Physicorum in studio Patavino disputatae', composed around ?.
+Authored work: 'Quaestiones litterales super VIII libros Physicorum', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

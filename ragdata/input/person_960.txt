@@ -1,0 +1,10 @@
+PERSON: ARNALDUS Haen 1
+Also known as: Arnoldus HAEN.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1369-1369%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Academic relationships: Son maître est Jordanus de CLIVIS..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 10/11/2020)..

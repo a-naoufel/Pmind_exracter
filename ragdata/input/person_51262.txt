@@ -1,0 +1,12 @@
+PERSON: PETRUS Tetevel
+Also known as: Petrus TETEVEL.
+Description: Boursier du Collège de Justice.
+Status: Étudiant.
+Gender: male.
+Active during: %1434-1437%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris %1434-1437%..
+Academic grades obtained: Maître ès arts (Paris) ?.
+College affiliation: Collège de Justice : boursier ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Marion Bernard-Schweitzer 16/09/2020..

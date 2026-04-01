@@ -1,0 +1,13 @@
+PERSON: GALTERIUS Giffard 1
+Also known as: Walter GIFFARD.
+Description: Archevêque d'York.
+Status: Extérieur.
+Gender: male.
+Active during: %1245-1279%.
+Born in: Angleterre..
+Studied at: Oxford ..
+Academic grades obtained: Maître ès arts (Oxford) ;.
+Family relationships: Son père est Hugh GIFFARD, juge ; Son frère est Godfrey GIFFARD, évêque de Worcester ;.
+Social origin: Noble (gentry) ;.
+Ecclesiastical positions held: Recteur de Newland %1247-1256% au moins ;; Recteur de Wikam ;; Chanoine de Wells % -1264% ;; Évêque de BathandWells %1265-1266% ;; Archevêque d'York %1266-1279%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 17/11/2021..

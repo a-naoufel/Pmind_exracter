@@ -1,0 +1,10 @@
+PERSON: IVO 5
+Also known as: IVO; YVO.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1295-1296%.
+Studied at: Paris %1295-1296%..
+Academic grades obtained: Étudiant (Paris) %1295-1296%..
+Religious order: O.S.B. : moine bénédictin de l'abbaye (bénédictine) de Saint-Denis (diocèse de Paris)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, 18/05/2021..

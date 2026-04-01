@@ -1,0 +1,8 @@
+PERSON: CATHARINA de Livre
+Also known as: Catharina de LIVRE.
+Description: Veuve du doyen de la Faculté de médecine.
+Status: Extérieur.
+Gender: female.
+Active during: %1492-1496%.
+Family relationships: Veuve de Matheus DOLLET, doyen de la Faculté de médecine. WICK: 546..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 31/08/2020..

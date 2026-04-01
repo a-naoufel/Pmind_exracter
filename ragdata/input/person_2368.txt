@@ -1,0 +1,9 @@
+PERSON: FRANCISCUS Legat
+Also known as: Franciscus LEGAT; François LEGAT.
+Description: Empirique parisien.
+Status: Extérieur.
+Gender: male.
+Active during: %1448-1448%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 07-09-2021..

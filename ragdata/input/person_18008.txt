@@ -1,0 +1,8 @@
+PERSON: RAOULET d'Orléans
+Also known as: Raoulet d'ORLÉANS.
+Description: Écrivain.
+Status: Suppôt.
+Gender: male.
+Active during: %1368-1368%.
+Studied at: Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 26/01/2019..

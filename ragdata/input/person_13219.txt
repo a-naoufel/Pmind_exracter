@@ -1,0 +1,12 @@
+PERSON: FRANCISCUS de Segovia
+Also known as: Franciscus de SEGOVIA.
+Description: Maître en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1483-1497%.
+Born in: Catalogne ;.
+Studied at: Paris (Nation de France) %1483-1497% ;; Paris (Collège de Sorbonne) %1483-1497%..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant (en théologie ?) à Paris en .; Bachelier en théologie (Paris) attesté en mai ;; Licencié en théologie (Paris) (27 janvier) ;; Maître en théologie (Paris) (10 mars) ..
+College affiliation: Sorbonne : hôte admis en (2 juin) ;; Il demande avec Johnnnes de PARDO à être admis comme hôte en (2 mai) avec un compatriote, Hieronymus PARDO ce qui est accepté mais deux maîtres s’y opposent et font appel au proviseur ;; Il est reçu comme hôte en (2 juin), le proviseur n’ayant pas jugé suffisantes les objections avancées par les deux maîtres ;; Socius du collège de Sorbonne attesté en mai .; Procureur du collège de Sorbonne attesté en mai .; Participe à une assemblée du collège de Sorbonne, durant laquelle les sociétaires autorise l'imprimeur Ulrich GEHRING à vivre dans le collège, le 21 mai ..
+University functions: Paris (Université : Recteur élu le 16 décembre ;; Paris (Université : Recteur élu le 24 mars ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol, dernière mise à jour : Jean-Philippe Genet, 14/05/2018)..

@@ -1,0 +1,11 @@
+PERSON: GUIDO de Rota
+Also known as: Guido de ROTA; Guy de LAROUE.
+Description: Chanoine de Cambrai..
+Status: Incertain.
+Gender: male.
+Active during: %1397-1438%.
+Studied at: ?.
+Academic grades obtained: Maître ;; Bachelier en droit canon ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Bourges %1397-1403% ;; Archidiacre de Bourges %1397-1403% ;; Prévôt de Saint-Omer %1397-1403% ;; Prévôt de Candes (Saint-Martin) ;; Chanoine de Candes (Saint-Martin) ;; Chanoine de Paris (Notre-Dame) %1397-1437% ;; Archidiacre de Brie en la cathédrale de Paris (Notre-Dame) ;; Chanoine de Cambrai %1403-1438% ;; Archidiacre de Cambrai %1403-1438% ;; Chanoine de Tours %1403-1437% ;.
+Source: e-NDP ;.

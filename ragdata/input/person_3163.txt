@@ -1,0 +1,9 @@
+PERSON: GERARDUS de Haya 1
+Also known as: Girardus de HAYA; Girard de LA HAYE.
+Description: Procureur au Châtelet.
+Status: Extérieur.
+Gender: male.
+Active during: %1367-1400%.
+Studied at: ?.
+Academic grades obtained: "Magister"..
+Source: http://www.parismoyenage.fr ;.

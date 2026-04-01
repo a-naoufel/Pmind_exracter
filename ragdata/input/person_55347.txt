@@ -1,0 +1,10 @@
+PERSON: EUSTASIUS de Morsenco
+Also known as: Eustachius de MORSENCO; Eustache de MORSANT; Eustache de MORCENNE.
+Description: Chanoine d’Évreux.
+Status: Incertain.
+Gender: male.
+Active during: %1362-1373%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Évreux %1283-1301% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 22/02/2023)..

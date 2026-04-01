@@ -1,0 +1,7 @@
+PERSON: ANCELETUS Cardon
+Also known as: Anceletus CARDON.
+Description: Écrivain et Maître d’école..
+Status: Suppôt.
+Gender: male.
+Active during: %1441-1443%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 31/08/2020..

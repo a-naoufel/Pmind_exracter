@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Montferrat
+Also known as: Guillaume de MONTFERRAT.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1215-1233%.
+Born in: Italie (Piémont : Montferrat ?)..
+Studied at: Paris vers ..
+Academic grades obtained: Étudiant en théologie (Paris) en ;.
+Ecclesiastical positions held: O.P. : frère dominicain en %1219 ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 05/05/2022)..

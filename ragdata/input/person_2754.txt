@@ -1,0 +1,55 @@
+PERSON: GERARDUS de Abbatisvilla
+Also known as: Gerardus de ABBATISVILLA; Gérard d'ABBEVILLE.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1254-1272%.
+Born in: Picardie (Abbeville)..
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) ?, av. en tous cas ;.
+College affiliation: Sorbonne : socius ;.
+Family relationships: Son père est un chevalier ; Son neveu est Maître Jean d’ABBEVILLE ;.
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine d’Amiens %1260-1271% ;; Archidiacre de Ponthieu à la cathédrale d’Amiens %1262-1271% ;; Archidiacre de Brabant à la cathédrale de Cambrai ;.
+University functions: Paris (Faculté de Théologie : Maître-régent, %1254-1272%) ;; Paris (conservateur des privilèges de l'Université, )..
+Authored work: 'Comm. in Lib I-IV Sententarum', composed around Vers ?.
+Authored work: '(Lettre à Maître "T.")', composed around ? ou ..
+Authored work: 'Quodlibet I, 16 q.', composed around ?.
+Authored work: 'Quodlibet II, 16 q.', composed around ?.
+Authored work: 'Quodl. III, 6 q.', composed around .
+Authored work: 'Qudlibet IV, 21 q.', composed around (mars).
+Authored work: 'Quodlibet V, 12 q.', composed around ? (décembre)..
+Authored work: 'Quodlibet VI, 21 q.', composed around (mars).
+Authored work: 'Quodlibet VII, 20 q.', composed around ? (décembre)..
+Authored work: 'Quodlibet VIII, 15 q.', composed around ?.
+Authored work: 'Quodlibet IX, 8 q.', composed around ?.
+Authored work: 'Quodlibet X, 7 q.', composed around ?.
+Authored work: 'Quodlibet XI, 19 q.', composed around ?.
+Authored work: 'Quodlibet XII, 13 q.', composed around ?.
+Authored work: 'Quodlibet XIII, 10 q.', composed around ?.
+Authored work: 'Quodl. XIV, 12 q.', composed around .
+Authored work: 'Quodlibet XV, 14 q.', composed around (Pâques)..
+Authored work: 'Quodlibet XVI, 15 q.', composed around ?.
+Authored work: 'Quodl. XVII, 15 q.', composed around ?.
+Authored work: 'Quodl. XVIII, 16 q.', composed around ?.
+Authored work: 'Quodl. XIX, 16 q.', composed around ?.
+Authored work: 'Sermo in die Circumcisionis', composed around .
+Authored work: 'Sermo', composed around ?.
+Authored work: 'Contra adversarium perfectionis christianae', composed around mais édité en ..
+Authored work: 'Quaestio disputata duplex', composed around .
+Authored work: 'Exceptiones contra librum qui incipit : Manus quae contra', composed around .
+Authored work: 'Mémoire justificatif', composed around (janvier-juin)..
+Authored work: 'Liber apologeticus auctoris et libri editi contra adversarium', composed around ..
+Authored work: 'Quaestio disputata de ordine consiliorum', composed around .
+Authored work: 'De Michaele archangelo', composed around ?.
+Authored work: 'De angelis', composed around ?.
+Authored work: 'Quaestiones disputatae de vita contemplativa, q.12', composed around ?.
+Authored work: 'Quaestiones disputatae de divinis iudiciis, q.2', composed around ?.
+Authored work: 'Quaestiones 3', composed around ?.
+Authored work: 'Quaestiones disputatae de Immaculata Conceptione, q.2', composed around ?.
+Authored work: 'In Sacram Scripturam prologus et postillae', composed around ?.
+Authored work: 'Quaest. disputatae 22. de cogitatione', composed around ?.
+Authored work: 'Quaestiones disputatae de cognitione, q.3', composed around ?.
+Authored work: 'Testament', composed around (19 octobre)..
+Authored work: 'Comm. in Ethic.', composed around ?.
+Source: MIRABILE : // http://www.mirabileweb.it/author/gerhardus-de-abbatisvilla-n-1220-1225-m-8-11-1272-author/21882.

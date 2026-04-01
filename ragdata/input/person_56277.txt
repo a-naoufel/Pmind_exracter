@@ -1,0 +1,10 @@
+PERSON: GALTERIUS de Menneio
+Also known as: Galterius de MENNEIO.
+Description: Chanoine de Le Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1250-1250%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de LeMans ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 23/06/2023)..

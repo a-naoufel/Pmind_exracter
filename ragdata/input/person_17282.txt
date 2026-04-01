@@ -1,0 +1,11 @@
+PERSON: HUGO 9
+Also known as: HUGO.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+Family relationships: Son frère est BERMORDUS, qui habite avec lui..
+Academic relationships: Son maître est le Magister HUGO..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/08/2022..

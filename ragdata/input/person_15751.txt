@@ -1,0 +1,12 @@
+PERSON: BENEDICTUS Duboys
+Also known as: Benedictus DUBOYS.
+Description: Bachelier Décret.
+Status: Gradué.
+Gender: male.
+Active during: %1494-1494%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse du Puy-en-Velay..
+Studied at: Paris %1494-1494%..
+Academic grades obtained: Bachelier en décret (Paris) (le 25 novembre) ..
+Religious order: Frater..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 6/01/2021..

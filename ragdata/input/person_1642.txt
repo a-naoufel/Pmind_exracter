@@ -1,0 +1,10 @@
+PERSON: CHRISTIANUS de Specke
+Also known as: Christianus de SPECKE.
+Description: Licencié en arts..
+Status: Gradué.
+Gender: male.
+Active during: %1355-1356%.
+Studied at: Paris (Nation Anglo-allemande) %1355-1356%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ..
+Academic relationships: Élève de Magister THOMA en ; Élève de Johanne de MARCHIA en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 08/04/2021..

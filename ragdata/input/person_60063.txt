@@ -1,0 +1,8 @@
+PERSON: YVONET
+Also known as: YVONET.
+Description: Artisan du livre.
+Status: Suppôt.
+Gender: male.
+Active during: %1394-1408%.
+Studied at: Paris..
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

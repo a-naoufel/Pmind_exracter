@@ -1,0 +1,11 @@
+PERSON: ARDENGUS de Liège
+Also known as: Ardengus de LIEGE.
+Description: Chanoine de Liège.
+Status: Maître.
+Gender: male.
+Active during: %1226-1228%.
+Diocese of origin: Diocèse de Liège ?.
+Studied at: Paris %1226-1228% ;.
+Academic grades obtained: Magister (Paris)..
+Ecclesiastical positions held: Chanoine de Liège..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 16/10/2020..

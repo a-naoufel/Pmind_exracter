@@ -1,0 +1,11 @@
+PERSON: ADENET de Crépy
+Also known as: Adenet de CRÉPY.
+Description: Étudiant du Collège de Laon..
+Status: Étudiant.
+Gender: male.
+Active during: %1388-1388%.
+Born in: Picardie ?.
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Laon : reçu au collège en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/12/2020..

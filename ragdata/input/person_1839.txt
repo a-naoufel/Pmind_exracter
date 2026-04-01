@@ -1,0 +1,10 @@
+PERSON: CONRADUS Almanni
+Also known as: Corrardus ALMANNI.
+Description: Serviteur de la Faculté des Arts.
+Status: Suppôt.
+Gender: male.
+Active during: %1355-1355%.
+Studied at: Paris ..
+Academic grades obtained: ?.
+University functions: Paris (Faculté des Arts : serviteur)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 22/04/2021..

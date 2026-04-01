@@ -1,0 +1,24 @@
+PERSON: COSMAS Raimundus
+Also known as: Cosmas RAIMUNDUS; Cosma RAIMUNDI.
+Description: Professeur de droit à Avignon.
+Status: Extérieur.
+Gender: male.
+Active during: %1420-1436%.
+Born in: Italie (Lombardie : Crémone ?)..
+Studied at: Milan %1421-1422%.; Avignon ?.
+Academic grades obtained: ?.
+University functions: Avignon : professeur de droit..
+Authored work: 'Defensio Epicuri contra Stoichos, Achademicos et Peripateticos', composed around ., dedicated to Adressée à Ambrogio TIGNOSI..
+Authored work: '(Épître-préface au De laudibus eloquentie)', composed around ?, dedicated to Adressé à Antonio CANOBIO..
+Authored work: 'De laudibus eloquentie', composed around ., dedicated to Adressé à Jean CADART..
+Authored work: 'Epistola ad Senatum Mediolanensem et ducales patres conscriptos', composed around ?.
+Authored work: 'Carmen ad Nicolaum Arcimboldum', composed around ?.
+Authored work: 'Epistola ad Nicolaum Arcimboldum', composed around ?.
+Authored work: 'Epistola ad Bartholomaeum de Capra, archiepiscum Mediolanensem', composed around ., dedicated to Adressé à Bartholomaeus de CAPRA, archevêque de Milan..
+Authored work: 'Epistola ad Johannem Corvinum', composed around ?, dedicated to Adressé à Johannes CORVINUS, secrétaire du duc de Savoie..
+Authored work: 'Epistola ad Iulianum Caesarinum', composed around ?, dedicated to Adressé à Iulianus CAESARINUS..
+Authored work: 'Epistola super allatis in Italiam rumoribus de Iohanna puella Galliae pastorali', composed around ?, dedicated to Adressé à Johannes CORVINUS, secrétaire du duc de Savoie..
+Authored work: 'Epistolae ad Bartolomaeum Senensem', composed around ?, dedicated to Adressé à Bartholomaeus SENENSIS..
+Authored work: 'Epistola ad Mafeum Vegium', composed around ?, dedicated to Adressé à Mafeus VEGIUS..
+Authored work: 'Exhortatoria ad fratrem Antonium Raudensem theologum ut librum edat de imitationibus', composed around ?, dedicated to Adressé à Antonio da RHO qui a composé à sa prière son De imitatione..
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

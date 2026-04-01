@@ -1,0 +1,9 @@
+PERSON: BERNARDUS de Vannis
+Also known as: Bernardus de VANNIS.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1316-1343%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Chanoine d'Andely ;; Chanoine de Paris (Saint-Merri) ;; Chanoine de Rouen %1316-1343% ;.

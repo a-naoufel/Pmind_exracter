@@ -1,0 +1,10 @@
+PERSON: PETRUS Poleti 1
+Also known as: Pierre POLETI.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1268-1298%.
+Studied at: ?.
+Academic grades obtained: Magister.
+Religious order: O.P. : frère du couvent (dominicain) de Valence..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 4/02/2021)..

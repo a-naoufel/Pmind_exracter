@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Le Nain
+Also known as: Guillelmus LENAIN; Guillelmus de LANOE.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1385-1385%.
+Born in: Touraine ;.
+Diocese of origin: Diocèse de Tours ;.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris ?) en ;.
+Ecclesiastical status: Prêtre du diocèse de Tours..
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus de Walter TRAYL en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 14/05/2022..

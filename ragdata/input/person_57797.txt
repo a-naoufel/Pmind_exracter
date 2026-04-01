@@ -1,0 +1,12 @@
+PERSON: ANTHONIUS de Sancto Quintino
+Also known as: Anthonius de SANCTO QUINTINO.
+Description: Boursier du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1462-1462%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse de Clermont ;.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège d’Autun : boursier ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 05/06/2024..

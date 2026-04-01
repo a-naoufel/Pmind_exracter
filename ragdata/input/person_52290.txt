@@ -1,0 +1,9 @@
+PERSON: REGINALDUS de Amiens
+Also known as: Renaud d’AMIENS.
+Description: Conseiller-clerc au Parlement de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1393-1402%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Paris au Moyen Âge : //http://www.parismoyenage.fr/ ;.

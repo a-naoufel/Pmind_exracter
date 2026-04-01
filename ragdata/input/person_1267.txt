@@ -1,0 +1,12 @@
+PERSON: BENEDICTUS de Gronighen
+Also known as: BENEDICTUS; Benedictus de GRONIHGEN.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1351-1351%.
+Born in: Pays-Bas (Groningen ?) ?.
+Diocese of origin: Diocèse de Münster ?.
+Studied at: Paris (Nation Anglo-allemande)..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Academic relationships: Son maître est Jacobus de HOLANDIA..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 06/01/2021).

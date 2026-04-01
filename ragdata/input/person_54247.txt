@@ -1,0 +1,10 @@
+PERSON: PETRUS de Croyaco
+Also known as: Petrus de CROYACO.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1345-1347%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Sens %1345-1347% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 21/09/2022..

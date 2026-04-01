@@ -1,0 +1,13 @@
+PERSON: FULCO de La Rovere
+Also known as: Fulco de LAROVERE; Folquetus de ROHERIA; Folquetus de ROHERIA.
+Description: Docteur en décret.
+Status: Maître.
+Gender: male.
+Active during: %1403-1418%.
+Studied at: Paris ..
+Academic grades obtained: Licencié en décret (Paris) ;; Docteur en décret (Paris) ;.
+Religious order: O.S.A. : chanoinerégulier (augustin) de Carcassonne en ;.
+Religious functions: O.S.A. : prévôt (augustin) de Villesèque en ;; O.S.A. : abbé (augustin) de Toulouse (Saint-Saturnin) ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Rotulus licentiatorum et bacallariorum in decretis Parisius adressé à BENOÎT XIII en ;.
+University functions: Paris (Faculté de Décret : maître-régent % -1418%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 22/04/2019..

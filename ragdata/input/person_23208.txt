@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Floques
+Also known as: Guillaume de FLOQUES.
+Description: Évêque d'Évreux.
+Status: Extérieur.
+Gender: male.
+Active during: %1441-1464%.
+Studied at: ?.
+Family relationships: Son père est Robert de FLOQUES, bailli d'Évreux et capitaine d'ordonnance..
+Social origin: Noble..
+Religious order: O.S.B..
+Ecclesiastical positions held: Évêque d'Évreux %1443-1464%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 25/03/2022..

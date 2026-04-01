@@ -1,0 +1,13 @@
+PERSON: PETRUS de Chasla
+Also known as: Petrus de CHASLA; Pierre CHASLE.
+Description: Maître en médecine.
+Status: Incertain.
+Gender: male.
+Active during: %1342-1376%.
+Born in: Flandre (Cassel) ;.
+Diocese of origin: Diocèse de Thérouanne ;.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;; Maître en médecine ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Recteur de Velvain (Hainaut) ;; Chapelain de Wastines (Hôpital Saint-Jacques) ;; Chapelain de Lille (Saint-Nicaise) ;; Chapelain d’Ardembourg (Notre-Dame) ;; Chanoineprébendé de Haudion %1342-1355% ;; Chanoineprébendé de Comines %1342-1364% ;; Recteur de Tournai (Saint-Brice) ;; Chanoineprébendé de Tournai ;; Chapelain de Bruges (Saint-Sauveur) %1354-1361% ;; Prévôt de Cassel ;; Prévôt de Calais (Saint-Pierre) %1366-1374% ;; Prévôt de Calais (Saint-Pierre) %1366-1374% ;; Chanoine de Clermont %1372-1374% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/10/2023..

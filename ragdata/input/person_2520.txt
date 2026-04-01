@@ -1,0 +1,15 @@
+PERSON: GARNERIUS de Sancto Victore
+Also known as: Garnerius de SANCTO VICTORE; Garnier de SAINT-VICTOR.
+Description: Sous-prieur de Saint-Victor.
+Status: Maître.
+Gender: male.
+Active during: %1140-1170%.
+Studied at: Paris..
+Academic grades obtained: Magister ?.
+Religious order: O.S.A. : Chanoinerégulier de Paris (St-Victor)..
+Religious functions: Sous-prieur de Paris (St Victor) ..
+Authored work: 'Gregorianum', composed around ?.
+Authored work: '[39 sermons]', composed around ?.
+Authored work: 'Liber qui dicitur Angelus', composed around ?.
+Authored work: 'Regimen sanitatis', composed around ?.
+Source: MIRABILE : http://www.mirabileweb.it/author/garnerius-de-sancto-victore-m-1170-author/24320.

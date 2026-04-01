@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de La Rue
+Also known as: Guillaume de la RUE.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1409-1409%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 07/04/2021..

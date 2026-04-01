@@ -1,0 +1,9 @@
+PERSON: LAMBERTUS de Quercu
+Also known as: Lambertus de QUERCU; Lambert de QUERCU.
+Description: Étudiant en médecine..
+Status: Étudiant.
+Gender: male.
+Active during: %1406-1406%.
+Studied at: Paris %1406-1406%..
+Academic grades obtained: Étudiant en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction A nne Tournieroux ; révision, Jean-Philippe GENET, 23/06/2023..

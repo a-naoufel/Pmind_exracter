@@ -1,0 +1,10 @@
+PERSON: BARTHOLOMAEUS Brunelli
+Also known as: Bartholomaeus BRUNELLI.
+Description: Chanoine d’Autun.
+Status: Incertain.
+Gender: male.
+Active during: %1353-1363%.
+Studied at: ?.
+Academic grades obtained: Licencié in utroque ;.
+Ecclesiastical positions held: Prévôt de Tannay ;; Chanoine de Châtelcensoir ;; Chanoine d’Autun ;; Chanoine de Tannay ;; Archidiacre de Nevers ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 08/01/2023..

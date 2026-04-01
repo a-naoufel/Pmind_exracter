@@ -1,0 +1,9 @@
+PERSON: ALANUS Barre
+Also known as: Alanus BARRE.
+Description: Maître d’école.
+Status: Suppôt.
+Gender: male.
+Active during: %1447-1447%.
+Studied at: Paris ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 31/08/2020..

@@ -1,0 +1,9 @@
+PERSON: PETRUS Gosset
+Also known as: Pierre GOSSET; Pierre GOUSSET.
+Description: Licencié en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1498-1502%.
+Studied at: Paris %1498-1502%..
+Academic grades obtained: Étudiant en médecine (Paris) %1498-1499% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 17/03/2024..

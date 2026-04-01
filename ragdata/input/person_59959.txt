@@ -1,0 +1,11 @@
+PERSON: BERNARDUS de Loen
+Also known as: Bernardus de LOEN.
+Description: Maître ès arts de Cologne.
+Status: Étudiant.
+Gender: male.
+Active during: %1421-1434%.
+Studied at: Paris ?.
+Academic grades obtained: Cologne ;; Étudiant (Paris) avant ?; Maître ès arts (Cologne) ;.
+Ecclesiastical positions held: Recteur de Megen ;; Chanoine de 's-Hertogenbosch (Saint-Jean) au diocèse de Liège..
+Representation roles: Il participe concile de Bâle ..
+Source: RAG ;.

@@ -1,0 +1,10 @@
+PERSON: CAROLUS Goubin
+Also known as: Karolus GOUBIN.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+Family relationships: Son parent est peut-être Robertus GOUBIN qui s’acquitte lui aussi de la taxe ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 05/04/2021..

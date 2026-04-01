@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Louveti
+Also known as: Guillelmus LOUVETI.
+Description: Subsigillifer de la Cour épiscopale de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1318-1318%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical status: Prêtre en ;.
+Other ecclesiastical functions: Subsigillifer de la Courépiscopale de Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 20/03/2020..

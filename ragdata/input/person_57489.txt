@@ -1,0 +1,10 @@
+PERSON: LAURENTIUS de Buissi
+Also known as: Laurentius de BUISSI.
+Description: Chanoine d’Orléans.
+Status: Extérieur.
+Gender: male.
+Active during: %1238-1238%.
+Studied at: ?.
+Academic grades obtained: Maître ?.
+Ecclesiastical positions held: Chanoine d’Orléans en ;; Il reçoit du pape GRÉGOIRE IX en (28 mai) la connaissance d’un jugement de GUARNACIUS, chanoine de Trévise en faveur de Stephanus ALEXII et de ses associés romains contre le comte de Nevers afin de permettre à STEPHANUS, doyen de Paris (Saint-Germain l’Auxerrois) de se consacrer à ses activités de maître-régent à la faculté de Théologie ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/02/2024)..

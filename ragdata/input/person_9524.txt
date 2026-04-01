@@ -1,0 +1,13 @@
+PERSON: NICOLAUS de Danvilla
+Also known as: Nicolaus de DANVILLA; Nicolaus de DAVILLA; Nicolaus de ULMIS.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: % -1366% ?.
+Born in: Normandie (Danville ?)..
+Diocese of origin: Diocèse d'Évreux..
+Studied at: Paris (Nation de Normandie ?) %1329-1330%..
+Academic grades obtained: Maître ès arts (Paris) ;; Maître en théologie (Paris) ;.
+Ecclesiastical positions held: Curé de Saint-Clair d'Arcey (diocèse d'Évreux) en ;; Provision pour un canonicat avec expectative de prébende de Lisieux en réponse au rotulus de la Faculté de Théologie en : mandat à l'abbé (bénédictin) de Saint-Benoît-sur-Loire, à l'abbé (bénédictin) de Cormeilles et à Bernardus GRANERI, chapelain pontifical ;; Chanoine de Lisieux %1349-1365% ;; Provision pour un bénéfice ecclésiastique à la collation de l'abbé et du couvent du monastère (bénédictin) du Bec-Hellouin en réponse au rotulus de la Faculté de Théologie en : mandat à l'abbé (augustin) de Paris (Sainte-Geneviève), à l'abbé (bénédictin) de Cormeilles et au doyen de Sens ;; Provision pour une prébende et/ou un office à la cathédrale de Lisieux en ;; Chanoineprébendé de Cambrai (Saint-Géry) %1350-1365% ;; Chanoineprébendé d'Avranches %1350-1365% ;; Curé de LeBosc-Renoult (diocèse de Lisieux) en ;; Provision pour un canonicat et une prébende de Paris en réponse au rotulus des maîtres-régents de la Faculté de Théologie en : mandat à l'abbé de Paris (Saint-Victor), au doyen d'Avignon (Saint-Agricol) et à l'official de Paris ;; Chanoine de Paris %1362-1365% ;; Pénitencier de Paris.
+University functions: Paris (Faculté de théologie : Maître-régent %1342-1365%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 15/05/2019..

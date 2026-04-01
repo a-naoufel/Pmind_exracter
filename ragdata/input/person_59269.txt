@@ -1,0 +1,9 @@
+PERSON: PETRUS de Essartis
+Also known as: Petrus de ESSARTIS; Pierre des ESSARTS.
+Description: Bourgeois de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1320-1349%.
+Family relationships: Son père est Martinus de ESSARTIS, maire de Rouen puis maître des comptes ; Sa femme (première) est Thomasse de SENLIS ; Sa femme (deuxième) est Jeanne de PACY ; Son fils est Pierre II DES ESSARTS, chevalier, tué à la bataille de Crécy en ; Sa fille est Yolant DES ESSARTS, religieuse d’Yerre : Sa fille est Marguerite DES ESSARTS, épouse d’Etienne MARCEL ; Son gendre est Etienne MARCEL ; Sa fille est Pernelle DES ESSARTS, épouse de Robert de LORRIS ; Son gendre est Robert de LORRIS ; Sa fille est Jeanne DES ESSARTS, épouse de Henri BAILLET ; Son gendre est Henri BAILLET ; Son fils est Jean DES ESSARTS, chanoine de Paris (Notre-Dame), voyer de Paris ; Son fils est Jean II DES ESSARTS ; Son fils est Martin DES ESSARTS ; Sa fille est Marion DES ESSARTS ;.
+Social origin: Bourgeoisie ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,10 @@
+PERSON: PETRUS Alart
+Also known as: Petrus ALART.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1468-1469%.
+Studied at: Paris ;.
+Academic grades obtained: Maître ?.
+College affiliation: Collège d’Autun : Maître au collège d’Autun en ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

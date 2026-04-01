@@ -1,0 +1,14 @@
+PERSON: PETRUS Julioti
+Also known as: Petrus JULIOTI.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1364-1383%.
+Studied at: Paris %1364-1383%..
+Academic grades obtained: Bachelier en théologie (Paris) ;; Docteur en théologie (Paris) ..
+College affiliation: Collège de Cluny %1364-1383%..
+Religious order: O.S.B. : moine clunisien de l'abbaye de Cluny (diocèse de Mâcon)..
+Religious functions: Prêtre ;; Moine du prieuré de Saint-Leu-d'Esserent (diocèse de Beauvais) en ;; Bénéfice, réservé par le pape URBAIN V, à la collation de l'abbé de Cluny (diocèse de Mâcon) en décembre ..
+University functions: Maître-régent au collège de Cluny en %1368-1379% ;; Prior scolarium au collège de Cluny à Paris le 23 juillet ..
+Representation roles: Député de l'Université de Paris, représentant la faculté de théologie, dans un procès devant le Parlement de Paris contre un individu accusé d'offenses à l'encontre de l'Université le 1er mars ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 20/03/2024).

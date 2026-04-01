@@ -1,0 +1,9 @@
+PERSON: ANTHONIUS 3
+Also known as: ANTHONIUS.
+Description: OFM.
+Status: Incertain.
+Gender: male.
+Active during: %1478-1478%.
+Studied at: ?Paris..
+Religious order: O.F.M. : frère franciscain ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/09/2020)..

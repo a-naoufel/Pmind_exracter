@@ -1,0 +1,12 @@
+PERSON: TOUSSANUS de Roisves
+Also known as: Tussanus de ROISVES.
+Description: Vicaire épiscopal de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1477-1483%.
+Born in: Bourgogne ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Religious order: Frater :.
+Other ecclesiastical functions: Vicaire épiscopal de Reims %1290-1295% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/05/2021..

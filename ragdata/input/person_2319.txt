@@ -1,0 +1,10 @@
+PERSON: FRANCISCUS de Cardellaco
+Also known as: Franciscus de CARDALHACO; Franciscus de CARDELLACO.
+Description: Franciscain.
+Status: Extérieur.
+Gender: male.
+Active during: %1365-1365%.
+Studied at: ?.
+Academic grades obtained: Maître en théologie ?.
+Religious order: O.F.M. : frère franciscain..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/08/2021..

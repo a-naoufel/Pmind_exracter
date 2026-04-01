@@ -1,0 +1,13 @@
+PERSON: PETRUS de Croso 2
+Also known as: Petrus de CROSO.
+Description: Chanoine de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1426-1446%.
+Born in: Limousin ?.
+Diocese of origin: Diocèse de Limoges ;.
+Studied at: ?.
+Academic grades obtained: Bachelier en droit canon ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Archiprêtre d’Ambernac %1426-1427% ;; Archiprêtre de Lansac %1428-1432% ;; Chanoine du Dorat %1428-1432% ;; Aumônier de Poitiers (Notre-Dame-la-Grande) %1431-1441% ;; Chanoine de Poitiers %1434-1446% ;; Chanoine de Poitiers (Saint-Pierre-le-Puellier) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 22/11/2022..

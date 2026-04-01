@@ -1,0 +1,13 @@
+PERSON: SIMON de Henecourt
+Also known as: Simon de HENECOURT; Simonis de HENECOURT.
+Description: Boursier au collège de Navarre..
+Status: Étudiant.
+Gender: male.
+Active during: %1372-1382%.
+Born in: Île-de-France ;.
+Diocese of origin: Diocèse de Soissons ;.
+Studied at: Paris (Collège de Navarre), %1372-1373%..
+Academic grades obtained: Étudiant en grammaire (Paris) %1372-1373%..
+College affiliation: Boursier grammairien au collège de Navarre à Paris, %1372-1373%..
+Ecclesiastical status: Clerc du diocèse de Soissons..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet 06-07-2019..

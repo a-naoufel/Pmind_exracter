@@ -1,0 +1,11 @@
+PERSON: ANTHONIUS de Maucreux
+Also known as: Anthonius de MAUCREUX.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1453-1453%.
+Born in: Berry (Bourges)..
+Diocese of origin: Diocèse de Bourges ;.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/09/2020)..

@@ -1,0 +1,12 @@
+PERSON: GREGORIUS Luppolt
+Also known as: Gregorius LUPPOLT.
+Description: Augustin.
+Status: Étudiant.
+Gender: male.
+Active during: %1502-1520%.
+Born in: Alémanie (Souabe) ?.
+Studied at: Paris ;; Freiburg-im-Brisgau ;.
+Academic grades obtained: Étudiant en théologie (Paris) ;; Bachelier en théologie (Freiburg-im-Breisgau) ;; Docteur en théologie (Freiburg-im-Breisgau) ;.
+College affiliation: Couvent (O.E.S.A.) de Paris (Grands-Augustins) en ..
+Religious order: O.E.S.A. : frère augustin du couvent (O.E.S.A.) de SchwäbischGmünd en ;; Prieur (O.E.S.A.) de SchwäbischGmünd en ;.
+Source: RAG ;.

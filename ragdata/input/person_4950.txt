@@ -1,0 +1,16 @@
+PERSON: HENRICUS de Oy
+Also known as: Henricus de OY.
+Description: Maître ès arts à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1375-1398%.
+Born in: Rhénanie..
+Diocese of origin: Diocèse de Cologne..
+Studied at: Paris (Nation Anglo-allemande) %1393-1394% ;; Cologne %1395-1395:%..
+Academic grades obtained: Maître ès arts (université inconnue) en ;; Maître en médecine (université inconnue) en ;; Maître ès arts (Paris) en ;; Maître en médecine (Cologne) après ..
+Academic relationships: Son élève est Henricus HERWEN pour la licence en ;.
+Ecclesiastical status: Clerc en ;.
+Ecclesiastical positions held: Chapelain de Cologne (cathédrale) ;; Chanoine de Cologne (Saints-Apôtres) ;; Curé d'Alpen (Saint-Ulrich) en ;.
+University functions: Paris (Nation Anglo-allemande : il est élu examinateur en (février)) ;; Paris (Nation Anglo-allemande : il est élu procureur en (21 octobre) jusqu’au 18 novembre) ;; Paris (Nation Anglo-allemande : maître-régent élu en (24 février) en tant que tel parmi les officers de la nation) ;.
+Authored work: 'Quaestiones et sophismata circa consequentias Marsilii de Inghen', composed around ?.
+Source: RAG ;.

@@ -1,0 +1,13 @@
+PERSON: PETRUS de Henaut
+Also known as: Petrus de HENAUT.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1458-1472%.
+Born in: Artois (Arras)..
+Diocese of origin: Diocèse d'Arras..
+Studied at: Paris %1460-1460%..
+Academic grades obtained: Étudiant (Paris) ..
+Religious order: O.S.B. : moine (bénédictin) de l'abbaye de Saint-Vaast (diocèse d'Arras) en ..
+Religious functions: Moine de Saint-Michel (diocèse d'Arras) en ;; Moine d'Haspres (diocèse de Cambrai) en ;; Chapelain du prieur de Saint-Vaast (diocèse d'Arras) en ;; Réfectorien de Saint-Vaast (diocèse d'Arras) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 19/02/2024)..

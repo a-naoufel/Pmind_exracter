@@ -1,0 +1,10 @@
+PERSON: STEPHANUS Gonaudi
+Also known as: Stephanus GONAUDI.
+Description: Procureur du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1450-1457%.
+Studied at: Paris %1450-1457%.
+Academic grades obtained: Étudiant (Paris) en %1450-1457% ;.
+College affiliation: Collège d'Autun : procureur ;; Collège d'Autun : étudiant encore en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 04/09/2024..

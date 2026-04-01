@@ -1,0 +1,9 @@
+PERSON: GALTERIUS Peurel
+Also known as: Galterus PEUREL.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris en ..
+Academic grades obtained: Magister (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 19/11/2021..

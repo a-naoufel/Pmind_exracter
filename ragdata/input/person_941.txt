@@ -1,0 +1,9 @@
+PERSON: ARNALDUS Bottelgier
+Also known as: Arnoldus BOTTELGIER; Arnoldus HUTTELIER; Arnoldus BIUTTILIR; Arnoldus BUITTILIR.
+Description: Licencié ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1464-1465%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) .; Licencié ès arts (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 21/10/2020)..

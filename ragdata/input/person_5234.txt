@@ -1,0 +1,12 @@
+PERSON: HUGO de Parma
+Also known as: Hugo de PARMA; Hugues de PARMA.
+Description: Maître régent de la Faculté de médecine..
+Status: Maître.
+Gender: male.
+Active during: %1272-1281%.
+Born in: Italie (Émilie-Romagne : Parme ?) ?.
+Diocese of origin: Diocèse de Parme ?.
+Studied at: Paris %1272-1274%..
+Academic grades obtained: Maître en médecine (Paris) ..
+University functions: Paris (Faculté de médecine : Maîtrerégent %1272-1274%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 3/09/2022)..

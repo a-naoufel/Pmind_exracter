@@ -1,0 +1,10 @@
+PERSON: CONRADUS 6
+Also known as: CONRAD.
+Description: Conseiller du duc d’Autriche.
+Status: Extérieur.
+Gender: male.
+Active during: %1382-1382%.
+Studied at: ?.
+Academic grades obtained: ?.
+University functions: Paris (Nation Anglo-germanique : il est le destinataire d’une lettre de recommandation envoyée en (17 juillet) par la Nation à la demande de Guillelmus VEEN de Monikendam ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/02/2025)..

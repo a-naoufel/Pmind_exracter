@@ -1,0 +1,12 @@
+PERSON: HUGO de Fesseval
+Also known as: Hugo de FESSEVAL.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1485-1497%.
+Studied at: Paris %1485-1487%..
+Academic grades obtained: Bachelier en théologie formatus (Paris) ;; Licencié en théologie (Paris) %1485-1486% ;; Docteur en théologie (Paris) ..
+Religious order: O.Clun. : moine clunisien : prieuré de Saint-Martin-des-Champs (diocèse de Paris)..
+Religious functions: Candidat à des bénéfices en , et ;; Prieur de Mauregard (diocèse de Meaux)..
+University functions: Paris (Faculté de théologie : Maître-régent) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 1/9/2022..

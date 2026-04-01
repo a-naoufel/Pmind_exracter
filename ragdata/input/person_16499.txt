@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS Clerici
+Also known as: Aegidius CLERICI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1349-1371%.
+Diocese of origin: Diocèse de Tournai..
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+Ecclesiastical positions held: Provision pour un canonicat avec expectative de prébende à l'églisecollégiale de Maastricht (Saint-Servat) en réponse au rotulus de ; mais il n'y a a pas de mandat.; Chapelain dans l'égliseparoissiale de Gand (Sainte-Marie) en .; Provision pour un bénéfice ecclésiastique à la collation de l'abbé et du monastère (bénédictin) de Gand (Saint-Pierre) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 23/11/2018)..

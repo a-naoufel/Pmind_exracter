@@ -1,0 +1,9 @@
+PERSON: ARNALDUS Linchot
+Also known as: Arnoldus LINCHOT.
+Description: Maître ès arts ?.
+Status: Maître.
+Gender: male.
+Active during: %1420-1420%.
+Studied at: Paris ..
+Academic grades obtained: Magister (Paris ?) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 12/11/2020)..

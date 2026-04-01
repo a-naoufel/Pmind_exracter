@@ -1,0 +1,10 @@
+PERSON: PONSARDUS d'Anagnie
+Also known as: Ponsardus d'ANAGNIE; Ponsard d'ANAGNIE.
+Description: Boursier grammairien au collège de Navarre..
+Status: Étudiant.
+Gender: male.
+Active during: %1372-1372%.
+Studied at: Paris %1372-1372%..
+Academic grades obtained: Étudiant en grammaire (Paris) ;.
+College affiliation: Boursier grammairien au collège de Navarre à Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 9/05/2024..

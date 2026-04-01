@@ -1,0 +1,10 @@
+PERSON: AEGIDIUS Sacrista Sancti Victoris
+Also known as: AEGIDIUS, Sacrista Sancti Victoris.
+Description: Sacriste de Saint-Victor.
+Status: Extérieur.
+Gender: male.
+Active during: %1331-1331%.
+Studied at: ?.
+Religious order: O.S.A. : chanoine (augustin) de Paris (Saint-Victor) ..
+Religious functions: Sacriste de Paris (Saint-Victor) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 14/03/2020..

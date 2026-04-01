@@ -1,0 +1,15 @@
+PERSON: SALIO de Padoue
+Also known as: Salio de PADOUE.
+Description: Chanoine de Padoue ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1218-1228%.
+Born in: Italie (Vénétie : Padoue) ?.
+Studied at: ?.
+Academic grades obtained: Maître..
+Ecclesiastical positions held: Chanoine de Padoue ?.
+Authored work: 'De nativitatibus', composed around Vers ..
+Authored work: 'Liber de stellis beibeniis', composed around ?.
+Authored work: 'Liber Salcharie Albessarith', composed around .
+Authored work: 'De interrogationibus', composed around ?.
+Source: MIRABILE :.

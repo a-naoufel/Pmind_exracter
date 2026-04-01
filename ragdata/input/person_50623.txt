@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Durandi
+Also known as: Guillelmus DURANDI.
+Description: Carme.
+Status: Gradué.
+Gender: male.
+Active during: %1344-1344%.
+Studied at: Paris ;; Toulouse..
+Academic grades obtained: Bachelier en théologie (Paris) ;; Maître en théologie (Toulouse) ..
+College affiliation: Couvent (Carme) de Paris ..
+Religious order: Sur l’intervention de Petrus RAYMUNDI de Insula, Prieurgénéral des Carmes, le grade lui est attribué à Toulouse ;; O. Carm. : frère carme..
+University functions: Paris (Faculté de Theologie : lecteur de la Bible ) ;; Toulouse (Lecteurprincipal du couvent des Carmes en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 06/03/2020..

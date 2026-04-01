@@ -1,0 +1,12 @@
+PERSON: ARNALDUS 1
+Also known as: ARNALDUS; ARNOUL; ARNOLDUS.
+Description: Chanoine régulier du Mont-Saint-Éloi.
+Status: Incertain.
+Gender: male.
+Active during: %1150-1150%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.S.A. : chanoinerégulier du Mont-Saint-Éloi..
+Authored work: 'Commentarium in canonem missae', composed around ?.
+Authored work: 'De oratione dominica', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

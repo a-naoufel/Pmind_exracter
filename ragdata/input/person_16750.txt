@@ -1,0 +1,7 @@
+PERSON: MAROTE la Goge
+Also known as: Marote LA GOGE.
+Description: Figure dans le "compotus receptarum bursarum"..
+Status: Extérieur.
+Gender: female.
+Active during: %1329-1330%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 17/11/2019..

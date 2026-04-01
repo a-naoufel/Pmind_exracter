@@ -1,0 +1,11 @@
+PERSON: ODO de Marolio
+Also known as: Odo de MAROLIO.
+Description: Chapelain perpétuel de la cathédrale de Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1321-1324%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant ?.
+College affiliation: Collège des Cholets ?; Collège de la Sorbonne ?; Collège des Bons Enfants ?.
+Ecclesiastical positions held: Chapelainperpétuel de Beauvais (cathédrale) %1321-1324% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 22/10/2020)..

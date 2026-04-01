@@ -1,0 +1,10 @@
+PERSON: PHILIPPUS 1
+Also known as: Magister PHILIPPUS.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1165-1165%.
+Studied at: Paris..
+Academic grades obtained: Magister..
+University functions: Paris (Maître de droit vers )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 29/11/2024..

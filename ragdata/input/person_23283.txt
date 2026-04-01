@@ -1,0 +1,44 @@
+PERSON: GERARDUS de Barri
+Also known as: Giraud de BARRI; Giraldus WALLENSIS; Giraldus CAMBRENSIS; Gerald of WALES.
+Description: Évêque de Saint-David.
+Status: Maître.
+Gender: male.
+Active during: %1165-1223%.
+Born in: Angleterre (Pays de Galles : Manorbier)..
+Studied at: Paris %1165-1174% période pendant laquelle il étudie puis enseigne les arts, puis en %1176-1179% quand il étudie le droit et la théologie..
+Academic grades obtained: Magister (Paris)..
+Family relationships: Son père est Guillaume de BARRI, baron normand vassal des Earls de Pembroke ; Sa mère est ANGHARAD ; Son oncle est David FITZGERALD, évêque de St.David’s ; Son grand-père est Gerald de WINDSOR, Constable de Pembroke ; Sa grand-mère est NESTA, princesse galloise ; Son arrière-grand-père est RHYS ap Tewdwr, prince gallois ; Son frère est Philippe de BARRI ; Son frère est Robert de BARRI..
+Academic relationships: Son maître à Paris est Petrus COMESTOR..
+Social origin: Noble..
+Ecclesiastical positions held: Archidiacre de Brecon ;; Administrateur de Saint-David en ;; Élu de Saint-David %1199-1203% ;.
+University functions: Paris (il enseigne les arts libéraux à la fin de son premier séjour parisien) ;; Paris (il commente le décret de GRATIEN à la fin de son second séjour) ;.
+Representation roles: Mission en Irlande en compagnie du Prince JEAN en , restant ensuite auprès de Theobald de VERDON ;.
+Authored work: 'De fidei fructu fideique defectu', composed around ?.
+Authored work: 'Gemma Ecclesiastica', composed around ..
+Authored work: 'Speculum ecclesiae', composed around ..
+Authored work: 'De philosophicis flosculi', composed around ?.
+Authored work: 'Versus', composed around ?.
+Authored work: 'Catalogus brevior librorum suorum', composed around ?.
+Authored work: 'Topographia Hiberniae', composed around %1186-1187%..
+Authored work: 'Expugnatio Hibernica', composed around ..
+Authored work: 'Itinerarium Cambriae', composed around ..
+Authored work: 'Descriptio Cambriae', composed around , révisé en ..
+Authored work: 'Mappa Kambriae', composed around ?.
+Authored work: 'De vita Sancti Davidis', composed around ?.
+Authored work: 'De vita Galfridi archiepsicopi', composed around ?.
+Authored work: 'Vita Sancti Hugonis', composed around ?.
+Authored work: 'Vita Sancti Remigii Episcopi', composed around ?.
+Authored work: 'Vita regis et martiris Ethelberti', composed around ?.
+Authored work: 'Praefatio in vitam sancti Karadoci', composed around ?.
+Authored work: 'Libellus invectionum', composed around %1200-1216% ?.
+Authored work: 'Speculum duorum', composed around %1208-1216%..
+Authored work: 'Epistolae', composed around ?.
+Authored work: 'De Giraldo archidiacono Menevensi', composed around ?.
+Authored work: 'De iure et statu Menevensis ecclesie', composed around ?.
+Authored work: 'De rebus a se gestis', composed around %1204-1205% ?.
+Authored work: 'Epistola ad capitulum Herefordense de libris a se scriptis', composed around ?.
+Authored work: 'Epistola ad Stephanum Langton', composed around ?, dedicated to Adressé à Stephen LANGTON..
+Authored work: 'Retractationes', composed around ?.
+Authored work: 'Symbolum electorum', composed around ..
+Authored work: 'De instructione principis', composed around %1196-1198% ?.
+Source: MIRABILE : Federico CONTINI :.

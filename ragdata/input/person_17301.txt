@@ -1,0 +1,10 @@
+PERSON: BERNARDUS de Paxis
+Also known as: Bernardus de PAXIS.
+Description: Étudiant en théologie.
+Status: Étudiant.
+Gender: male.
+Active during: %1482-1483%.
+Studied at: Paris %1482-1483% ?.
+Academic grades obtained: Étudiant en théologie..
+College affiliation: Collège de Sorbonne, hospes %1482-1483%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 2/02/2021)..

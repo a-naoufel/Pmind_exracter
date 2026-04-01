@@ -1,0 +1,12 @@
+PERSON: GERARDUS de Grimbergen
+Also known as: Gerardus de GRIMBERGEN.
+Description: Doyen de Tournai.
+Status: Incertain.
+Gender: male.
+Active during: %1262-1305%.
+Born in: Brabant (Grimbergen) ?.
+Diocese of origin: Diocèse de Tournai ?.
+Studied at: ?.
+Academic grades obtained: Magister en ..
+Ecclesiastical positions held: Chanoine de Tournai %1262-1305% ;; Doyen de Tournai %1274-1305% ;; Chanoine de Cambrai %1282-1296% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/05/2017..

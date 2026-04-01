@@ -1,0 +1,11 @@
+PERSON: HENRICUS Brekerevere
+Also known as: Henricus BREKEREVERE.
+Description: Recteur de l'Université.
+Status: Maître.
+Gender: male.
+Active during: %1381-1382%.
+Born in: Brabant..
+Studied at: Paris (Nation de Picardie) avant ..
+Academic grades obtained: Maître ès arts (Paris) avant ..
+University functions: Paris (Nation de Picardie : procureur en ) ;; Paris (Université : Recteur, élu en (18 décembre) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 1/05/2022..

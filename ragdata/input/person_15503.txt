@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS de Meuricourt
+Also known as: Aegidius de MEURICOURT.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1363-1363%.
+Studied at: Paris %1363-1363%..
+Academic grades obtained: Étudiant (Paris) ..
+Family relationships: ?Son parent est Eustachius de MEURICOURT, abbé de Saint-Vaast en %1337-1370%..
+Religious order: O.S.B. : moine bénédictin : abbaye de Saint-Vaast à Arras (diocèse d'Arras)..
+Religious functions: Moine de Saint-Vaast d'Arras (diocèse d'Arras) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol et Anne Tournieroux ; Jean-Philippe Genet, 29/04/2020)..

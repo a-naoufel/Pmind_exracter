@@ -1,0 +1,31 @@
+PERSON: AEGIDIUS Le Muisit
+Also known as: Aegidius LeMUISIT; Aegidius dictus LI MUISIS; Gilles LeMUISIT.
+Description: Abbé de Saint-Martin de Tournai.
+Status: Étudiant.
+Gender: male.
+Active during: %1289-1353%.
+Born in: Flandres (Tournai)..
+Diocese of origin: Diocèse de Tournai..
+Studied at: ?Paris ?%:1290:-:1300:%?..
+Academic grades obtained: ?Étudiant ès arts (Paris) ?%:1290:-:1300:%?..
+Family relationships: Son père est Jean le MUISIT..
+Social origin: Bourgeoisie de Tournai..
+Religious order: O.S.B. : moine bénédictin à l’abbaye de Tournai (Saint-Martin) en ..
+Religious functions: "Granatarius" de Saint-Martin de Tournai (diocèse de Tournai) en ;; "Granatarius" de Tournai (Saint-Martin) en ;; Prieur de Tournai (Saint-Martin) entre %1326-1329% ;; Abbé de Tournai (Saint-Martin) en %1331-1353%..
+Authored work: 'Une orison devote a la Virgene Marie de lonc temps faite', composed around ..
+Authored work: 'Orisons faites en l’an MCCCXLIX pour le maladie dont li mortoilles fu en yceli an, que on appieloit epidemie', composed around ..
+Authored work: 'Lamentations', composed around ..
+Authored work: 'Che sont les meditations l'abbé Gillion le Musit, chou qu'il a penset, ordenet, et fait escrire, et commencha a le Pasque l'an mil trois cens et chincquante, qui fu li anee del indulgence general et de le voye a le cité de Rome, qui a esté en l'an centisme de coustume', composed around ..
+Authored work: 'Compotus abbreviatus', composed around .
+Authored work: 'Liber compilatus', composed around .
+Authored work: '(Comptes privés de Gilles Li Muisis)', composed around %1331-1353%..
+Authored work: 'Tractatus primus', composed around %1347-1350%..
+Authored work: 'Tractatus secundus', composed around %1347-1350%..
+Authored work: 'Tractatus tertius', composed around %1347-1349%.
+Authored work: 'Tractatus quartus', composed around %1349-1351%.
+Authored work: 'Chronique dite de Jacques Muevin', composed around ?.
+Authored work: 'De cure l’abbet Gillion le Muysit', composed around ..
+Authored work: 'Li complainte des compagnons', composed around ..
+Authored work: 'Rimes sur la vie de reverendissime seigneurs Andrieu de Florence et Jehan des Prés, jadis evesques de Tournay', composed around ..
+Authored work: 'Abbatum memoria', composed around ..
+Source: ARLIMA (Archives de littérature du Moyen Âge : Laurent BRUN et Silvère MENEGALDO :.

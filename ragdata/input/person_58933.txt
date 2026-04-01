@@ -1,0 +1,14 @@
+PERSON: PETRUS Gruerii
+Also known as: Petrus GRUERII.
+Description: Chanoine de Chalon.
+Status: Incertain.
+Gender: male.
+Active during: %1473-1494%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Chalon ;.
+Studied at: ?.
+Academic grades obtained: Maître ès arts.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Chalon %1473-1494% ;; Archidiacre de Tournus %1491-1494% ;.
+Other ecclesiastical functions: Clerc de l’évêque ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/05/2025..

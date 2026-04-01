@@ -1,0 +1,11 @@
+PERSON: GUILLERMUS Poulette
+Also known as: Guillermus POULETTE.
+Description: Hôte du collège de Dainville.
+Status: Étudiant.
+Gender: male.
+Active during: %1418-1418%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Dainville : hôte en ;.
+Religious order: Frater ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

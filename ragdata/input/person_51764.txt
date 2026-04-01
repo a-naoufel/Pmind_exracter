@@ -1,0 +1,12 @@
+PERSON: HENRICUS Le Corgne
+Also known as: Henri LECORGNE.
+Description: Étudiant au Collège de Laon..
+Status: Étudiant.
+Gender: male.
+Active during: %1365-1365%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Laon : boursier admis en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 14/12/2020..

@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Maistronis
+Also known as: Guillelmus de MAISTRONIS.
+Description: Maître du Collège de Montaigu.
+Status: Maître.
+Gender: male.
+Active during: %1403-1430%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse de Clermont..
+Studied at: Paris (Nation de France) %1403-1430%..
+Academic grades obtained: Maître ès arts ?; Bachelier en théologie (Paris) ?.
+College affiliation: Collège de Montaigu : maître %1423-1430% ;.

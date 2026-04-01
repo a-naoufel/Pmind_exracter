@@ -1,0 +1,10 @@
+PERSON: ARNULPHUS 1
+Also known as: ARNULPHUS.
+Description: Chanoine de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1248-1250%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Poitiers %1248-1250% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 19/12/2022..

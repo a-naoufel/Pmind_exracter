@@ -1,0 +1,26 @@
+PERSON: ROBERTUS de Orford
+Also known as: Robert de ORFORD; Robertus de COLLETORTO; Guillelmus de COLLETORTO; Robertus de TORTOCOLLO.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1275-1293%.
+Born in: Angleterre (Hereford ?)..
+Diocese of origin: Diocèse de Hereford ?.
+Studied at: Oxford ;.
+Academic grades obtained: Paris ;; Bachelier en théologie (Oxford) ;; Docteur en théologie (Oxford) après ;; Étudiant (Paris) ?.
+Religious order: O.P. : frère dominicain ;.
+Authored work: '(Commentaire sur les Sentences)', composed around ?.
+Authored work: 'Quaestiones super Sententias', composed around ?.
+Authored work: 'Correctorium corruptorii ‘Sciendum’', composed around Avant ..
+Authored work: 'De unitate formae', composed around ?.
+Authored work: 'Reprobationes dictorum a fratre Egidio in primo sententiarum', composed around %1288-1292%.
+Authored work: 'Contra dicta Magistri Henrici de Gandavo', composed around %1288-1292%..
+Authored work: 'Responsiones', composed around ?.
+Authored work: 'Sermon', composed around à Oxford..
+Authored work: 'Quodlibeta', composed around ?.
+Authored work: 'Parvus libellus super VI° de Metaphysica', composed around ?.
+Authored work: 'Libellus super Naturalia', composed around ?.
+Authored work: 'Liber de generatione', composed around ?.
+Authored work: 'Super II librum De somno et vigilia', composed around ?.
+Authored work: '(Commentaire sur Isaïe)', composed around ?.
+Source: MIRABILE : Andrea CENCINI ;.

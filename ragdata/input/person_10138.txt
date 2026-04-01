@@ -1,0 +1,14 @@
+PERSON: PETRUS de Marolio
+Also known as: Petrus de MAROLIO; Pierre de MAREUIL.
+Description: Boursier théologien au collège de Navarre..
+Status: Maître.
+Gender: male.
+Active during: %1353-1389%.
+Born in: Champagne (Mareuil) ;.
+Diocese of origin: Diocèse de Reims..
+Studied at: Paris (Nation de France), %1353-1353%..
+Academic grades obtained: Maître ès arts ;; Étudiant en théologie (Paris) ..
+College affiliation: Collège de Navarre : boursier théologien en ..
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoineprébendé de Reims %1356-1389%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 29/06/2021..

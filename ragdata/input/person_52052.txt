@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Mortuomari
+Description: Cistercien.
+Status: Gradué.
+Gender: male.
+Active during: %1452-1452%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen ?.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en théologie (Paris) ..
+College affiliation: Collège des Bernardins en ?.
+Religious order: O.Cist. : moine cistercien..
+University functions: Paris (Faculté de Théologie : lecteur curseur en (8 août pour le second cours)) ;; Paris (Faculté de Théologie : lecteur des Sentences en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/03/2021)..

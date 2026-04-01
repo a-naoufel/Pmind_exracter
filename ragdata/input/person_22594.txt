@@ -1,0 +1,11 @@
+PERSON: HENRICUS Le Cornu
+Also known as: Henricus LE CORNU.
+Description: Archevêque de Sens.
+Status: Extérieur.
+Gender: male.
+Active during: %1254-1260%.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son oncle est Gauthier LECORNU, archevêque de Sens ; Son oncle est Gilles LECORNU, archevêque de Sens ; Son oncle est Robert LECORNU, évêque de Nevers ;.
+Ecclesiastical positions held: Archidiacre de Sens % -1252% ;; Évêque de Nevers %1252-1254% ;; Archevêque de Sens %1254-1258% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 30/07/2022..

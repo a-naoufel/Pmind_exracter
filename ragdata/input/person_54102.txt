@@ -1,0 +1,13 @@
+PERSON: ARNULPHUS Lauduniensis
+Also known as: Arnulphus LAUDUNIENSIS; Arnulfe de LAON.
+Description: Maître.
+Status: Incertain.
+Gender: male.
+Active during: %1100-1100%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: ?.
+Academic grades obtained: Magister ?.
+Academic relationships: Son maître est JOHANNES..
+University functions: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/09/2022)..

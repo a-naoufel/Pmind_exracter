@@ -1,0 +1,10 @@
+PERSON: FREDERICUS Buiterne
+Also known as: Fridericus BUITERNE.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris en ..
+Academic grades obtained: Étudiant (Paris) ?.
+Family relationships: Son frère est Walterus BUITERNE qui signe en même temps que lui, avec leur socius ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 19/09/2021..

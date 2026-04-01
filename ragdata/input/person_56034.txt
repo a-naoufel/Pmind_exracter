@@ -1,0 +1,13 @@
+PERSON: RICARDUS de Stavensby
+Also known as: Ricardus de STAVENSBY; Richardus de STAINSBY.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1250-1262%.
+Born in: Angleterre.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : couvent (dominicain) de Paris (Jacobins)..
+Authored work: 'Concordantia Anglicana Bibliae', composed around ?.
+Source: MIRABILE: Pietro Antonio PODOLAK :.

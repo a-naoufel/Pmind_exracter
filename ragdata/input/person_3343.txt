@@ -1,0 +1,15 @@
+PERSON: GUIDO de Elemosina
+Also known as: Gui de l'AUMONE.
+Description: Cistercien.
+Status: Maître.
+Gender: male.
+Active during: %1256-1259%.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris ?) ?.
+College affiliation: Collège SaintBernard..
+Religious order: O.Cist.: Cistercien, moine à l’abbaye (cistercienne) de L’Aumône ;.
+Religious functions: Abbé de l’abbaye (cistercienne) de L’Aumône ;.
+University functions: Paris (Faculté de Théologie : maître-régent au Collège SaintBernard à partir de )..
+Authored work: 'Summa de diversis quaestionibus theologiae', composed around ?.
+Authored work: 'Commentarium in quattuor libros Sententiarum', composed around ?.
+Source: MIRABILE :.

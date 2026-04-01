@@ -1,0 +1,40 @@
+PERSON: MICHAEL Scotus
+Also known as: Michel SCOT; Michael SCOTUS.
+Description: Astrologue.
+Status: Maître.
+Gender: male.
+Active during: %1210-1235%.
+Born in: Ecosse ;.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: ?Archevêque de Cashel (Irlande) ;.
+University functions: Paris (Maître enseignant les arts libéraux, en ?) ?.
+Authored work: 'Divisio philosophiae', composed around ?.
+Authored work: 'Liber introductorius', composed around ?.
+Authored work: 'Ars alchemiae', composed around ?.
+Authored work: 'Comment. in librum De Sphera Johannis de Sacro Bosco', composed around ?.
+Authored work: 'Physica (translation nova)', composed around ?.
+Authored work: 'De Animalibus libri XV-XIX', composed around Avant ?.
+Authored work: 'Commentarium magnum in librum de coelo et mundo', composed around ?.
+Authored work: 'Commentarium magnum in libros Physicorum Aristotelis', composed around ?.
+Authored work: 'Commentarium magnum in librum Metaphysicae Aristotelis', composed around ?.
+Authored work: 'Commentarium magnum in librum de Anima Aristotelis', composed around ?.
+Authored work: 'Commentarium magnum in librum de generatione et corruptione Aristotelis', composed around ?.
+Authored work: 'Commentarium magnum super Meteora Aristotelis', composed around ?.
+Authored work: 'De Animalibus', composed around ., dedicated to Dédié à l’Empereur FRÉDÉRIC II..
+Authored work: 'De Sphaera sive De motibus coelorum', composed around .
+Authored work: 'Liber luminis luminum', composed around ?.
+Authored work: 'Futura presagia Lombardie, Tuscie, Romagnole et aliarum partium', composed around ?.
+Authored work: 'De celo', composed around ?.
+Authored work: 'De informatione medicorum', composed around ?.
+Authored work: 'Quaestio curiosa de natura solis et lunae', composed around ?.
+Authored work: 'Liber geomantiae', composed around ?.
+Authored work: 'Magisterium', composed around ?.
+Authored work: 'Liber de signis et imaginibus coeli', composed around ?.
+Authored work: 'Nigromantica experimenta', composed around ?.
+Authored work: 'Commentaire sur les Meteora', composed around ?.
+Authored work: 'De anima', composed around ?.
+Authored work: 'Metaphysica nova', composed around ?.
+Authored work: 'Mensa philosophica', composed around ?.
+Authored work: 'Liber translative theologie de decem Kathegoriae', composed around ?.
+Authored work: 'Commentaire sur l’Éthique', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

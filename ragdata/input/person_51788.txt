@@ -1,0 +1,17 @@
+PERSON: RODULFUS de Bibraco
+Also known as: Rodulfus de BIBRACO; Rudolph de BIBERACH.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1290-1326%.
+Diocese of origin: Diocèse de Ulm ?.
+Studied at: Paris ?.
+Academic grades obtained: Maître en théologie (Paris) ?.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) ;.
+University functions: Strasbourg (Lecteur au couvent (franciscain) de Strasbourg) ;.
+Authored work: 'Sermones super Canticum Canticorum', composed around ?.
+Authored work: 'De excellenti Praerogativa benedictae Virginis', composed around ?.
+Authored work: 'De Officio Cherubyn', composed around ?.
+Authored work: 'De Septem Itineribus Aeternitatis', composed around ?.
+Authored work: 'De Septem Donis Spiritus Sancti', composed around ?.
+Source: Répertoire des auteurs franciscains préparé par Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress :.

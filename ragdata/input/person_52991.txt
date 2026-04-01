@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de Fontenay
+Also known as: Nicholaus de FONTENAY.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1462-1498%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts avant ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Curé d’Ingouville %1462-1498% ;; Chanoine de Rouen %1477-1496% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/11/2021..

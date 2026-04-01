@@ -1,0 +1,12 @@
+PERSON: GALTERIUS de Biencourt
+Also known as: Gauthier de BIENCOURT.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1300-1300%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse d'Amiens ?.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant. ?.
+College affiliation: Sorbonne ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 6/11/2021..

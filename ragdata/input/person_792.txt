@@ -1,0 +1,10 @@
+PERSON: ANTHONIUS Fedelli
+Also known as: Antoine FEYDEAU; Antoine FEDEAU; Antoine FEDELLI.
+Description: Médecin.
+Status: Maître.
+Gender: male.
+Active during: %1485-1518%.
+Studied at: Paris %1485-1502%.
+Academic grades obtained: Étudiant en médecine (Paris) %1485-1486%; Maître en médecine (Paris) ..
+Family relationships: Son fils est André FEYDEAU, capitaine-châtelain de Moulins..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 30/09/2020)..

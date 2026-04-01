@@ -1,0 +1,11 @@
+PERSON: PAGANUS
+Also known as: PAGANUS.
+Description: Doyen de Châlons.
+Status: Incertain.
+Gender: male.
+Active during: %1237-1255%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Doyen de Châlons-en-Champagne %1237-1255% ;.
+Other ecclesiastical functions: Official de Châlons-en-Champagne ;; Official de l’archidiacre de Châlons-en-Champagne %1250-1254% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 14/06/2025.

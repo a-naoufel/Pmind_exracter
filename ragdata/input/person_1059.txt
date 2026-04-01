@@ -1,0 +1,12 @@
+PERSON: ARNULPHUS 2
+Also known as: ARNULPHUS.
+Description: Clunisien.
+Status: Maître.
+Gender: male.
+Active during: %1285-1285%.
+Studied at: Paris (Collège de Cluny) ..
+Academic grades obtained: Maître ?.
+College affiliation: Prior scolarium du collège de Cluny en ..
+Religious order: Clunisien..
+Authored work: '[Constitutio sur la liturgie des Heures au collège de Cluny]', composed around à Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet 25/10/2017..

@@ -1,0 +1,11 @@
+PERSON: PHILIPPUS Monachi
+Also known as: Philippus MONACHI.
+Description: Bachelier en décret.
+Status: Maître.
+Gender: male.
+Active during: %1434-1434%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Bachelier en décret (Paris) (21 janvier) ;.
+Ecclesiastical positions held: Chapelain d'Évreux (cathédrale) en ;.
+University functions: Paris (Lecteur des Décrétales (livre I) en (11 mai) pour la 1ere année et le 1er volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 14/03/2024)..

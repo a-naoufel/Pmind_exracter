@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Gaillet
+Also known as: Guillelmus GAILLET.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1448-1448%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Coutances..
+Studied at: Paris %1448-1448%..
+Academic grades obtained: Bachelier en décret (Paris) 27 août ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet 01/05/2022.

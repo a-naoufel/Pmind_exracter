@@ -1,0 +1,12 @@
+PERSON: NICOLAUS Cappelly
+Also known as: Nicolaus CAPPELLY.
+Description: Maître en théologie augustin.
+Status: Maître.
+Gender: male.
+Active during: %1498-1518%.
+Studied at: Paris %1498-1518%..
+Academic grades obtained: Licencié en théologie (Paris) (26 janvier) ;; Maître en théologie (Paris) (25 juin) ;.
+College affiliation: Couvent (augustin) de Paris (Grands-Augustins) ..
+Religious order: O.E.S.A. : frère augustin..
+University functions: Paris (Faculté de théologie : censuré en pour prédication abusive et vente d'indulgences en vue d'une croisade) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/12/2023..

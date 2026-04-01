@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Colebron
+Also known as: Guillelmus COLEBRON.
+Description: Étudiant en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1318-1318%.
+Born in: Angleterre..
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) ?; Étudiant en théologie (Paris) en ;.
+Ecclesiastical positions held: Recteur de Hope (All Saints) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 03/03/2020..

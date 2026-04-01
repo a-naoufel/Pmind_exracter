@@ -1,0 +1,11 @@
+PERSON: HENRICUS de Sancto Memmio
+Also known as: Henricus de SANCTO MEMMIO.
+Description: Chanoine de Châlons-en-Champagne.
+Status: Incertain.
+Gender: male.
+Active during: %1265-1289%.
+Studied at: ?.
+Academic grades obtained: Maître en ;.
+Ecclesiastical positions held: Curé de Vitry-le-François % -1265% ;; Chanoine de Châlons-en-Champagne (Notre-Dame-en-Vaux) % -1265% ;; Chanoine de Châlons-en-Champagne %1270-1289% ;.
+Representation roles: Mission en Achaïe en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 07/06/2025.

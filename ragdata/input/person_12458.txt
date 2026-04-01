@@ -1,0 +1,13 @@
+PERSON: GERMANUS
+Also known as: GERMANUS.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1322-1322%.
+Studied at: Paris (Collège de Cluny) %1322-1322%..
+Academic grades obtained: Docteur en théologie (Paris) ..
+College affiliation: Prieur scolarium du collège de Cluny à Paris en avril ..
+Religious order: O. Clun. : moine clunisien..
+Religious functions: Définiteur du chapitre clunisien d'avril ..
+University functions: Prieur scolarium du collège de Cluny à Paris en avril ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 12/01/2022..

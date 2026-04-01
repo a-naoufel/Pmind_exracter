@@ -1,0 +1,13 @@
+PERSON: CONRADUS Renner
+Also known as: Conradus RENNER.
+Description: Maître ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1486-1513%.
+Born in: Alémanie (Ehingen)..
+Diocese of origin: Diocèse de Constance..
+Studied at: Paris (Nation Anglo-allemande) ;; Freiburg .; Louvain.
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Ecclesiastical positions held: Curé de Sulmingen ;; Prévôt de Louvain ;; Chanoine de Cambrai..
+University functions: Freiburg (Université : recteur %1512-1513%) ;; Louvain (Université : chancelier)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 28/04/2021)..

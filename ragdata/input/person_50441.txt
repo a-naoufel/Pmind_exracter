@@ -1,0 +1,9 @@
+PERSON: PETRUS de Centumputeis
+Also known as: Petrus de CENTUMPUTEIS; Pierre de CENTPUIS.
+Description: Conseiller-clerc au Parlement.
+Status: Incertain.
+Gender: male.
+Active during: %1345-1346%.
+Studied at: ?.
+Ecclesiastical status: Clerc..
+Source: Paris au Moyen Âge : les Parisiens :.

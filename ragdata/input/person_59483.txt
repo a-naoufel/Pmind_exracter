@@ -1,0 +1,12 @@
+PERSON: HENRICUS de Constancia
+Also known as: Henricus de CONSTANCIA.
+Description: Licencié ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1342-1342%.
+Born in: Alémanie ?.
+Diocese of origin: Diocèse de Constance ?.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;.
+Academic relationships: Son maître est Conradus de MONTEPUELLARUM pour le baccalauréat en ; Son maître est Walterus de WARDLAW pour la licence en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/07/2025)..

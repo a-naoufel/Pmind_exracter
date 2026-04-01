@@ -1,0 +1,11 @@
+PERSON: GALFREDUS Robini
+Also known as: Gauffridus ROBINI.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1401-1413%.
+Studied at: Paris %1403-1403%.; Angers..
+Academic grades obtained: Bachelier en décret (Paris) ;; Docteur en droit civil (Angers ?) ;.
+Ecclesiastical positions held: Chanoine d’Angers %1401-1413% ;; Candidat à un bénéfice sur le Rotulus licentiatorum et bacallariorum in decretis Parisius adressé à BENOÎT XIII en ;.
+University functions: Angers (Maître-régent) en :.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 1/06/2019..

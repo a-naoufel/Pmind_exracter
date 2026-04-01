@@ -1,0 +1,12 @@
+PERSON: ROBERTUS 12
+Also known as: ROBERT.
+Description: Cistercien.
+Status: Extérieur.
+Gender: male.
+Active during: %1315-1315%.
+Born in: Angleterre.
+Studied at: Oxford..
+Academic grades obtained: Docteur en théologie ..
+Religious order: O. Cist. : moine cistercien à l'abbaye (cistercienne) de Margam (Glamorgan)..
+University functions: Oxford (Régent en théologie )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/04/2021)..

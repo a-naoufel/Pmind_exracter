@@ -1,0 +1,14 @@
+PERSON: NICOLAUS Truodler
+Also known as: Nicolaus TRUODLER.
+Description: Chanoine de Beromünster.
+Status: Maître.
+Gender: male.
+Active during: %1346-1405%.
+Born in: Alémanie (Rüdlingen) ;.
+Diocese of origin: Diocèse de Constance..
+Studied at: Paris (Nation Anglo-allemande) %1346-1358% ;; Bologne ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Ecclesiastical status: Prêtre ..
+Ecclesiastical positions held: Recteur de Brombach ;; Chanoine de Zürich (Grossmünster) ;; Chanoine de Beromünster %1380-1405%..
+University functions: Paris (Faculté ès arts : maître-régent )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 26/11/2023)..

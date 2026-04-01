@@ -1,0 +1,9 @@
+PERSON: AEGIDIUS 4
+Also known as: AEGIDIUS.
+Description: Bedeau de la Nation Anglo-allemande.
+Status: Suppôt.
+Gender: male.
+Active during: %1339-1339%.
+Studied at: Paris (Nation Anglo-allemande).
+University functions: Paris (Nation Anglo-allemande ; bedeau en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019)..

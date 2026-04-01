@@ -1,0 +1,10 @@
+PERSON: G. de Cerda
+Also known as: W. de CERDA.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1241-1241%.
+Studied at: Paris..
+Academic grades obtained: Maître (Paris)..
+University functions: Paris (Université : Maître-régent vers ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 05/09/2023)..

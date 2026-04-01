@@ -1,0 +1,9 @@
+PERSON: RASSO de Vacaria
+Also known as: Rasso de VACARIA.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Maître (Paris) en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 5/01/2021..

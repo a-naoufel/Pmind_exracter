@@ -1,0 +1,12 @@
+PERSON: BARTHOLOMAEUS Juvenis
+Also known as: Bartholomaeus JUVENIS; Bartholomaeus DEJONGHE.
+Description: Recteur de Lotenhulle.
+Status: Étudiant.
+Gender: male.
+Active during: %1455-1468%.
+Born in: Flandre ?.
+Diocese of origin: Diocèse de Tournai..
+Studied at: Paris ;; Louvain ..
+Academic grades obtained: Étudiant (Paris) en ;; Étudiant en droit canon (Louvain) en ;.
+Ecclesiastical positions held: Recteur de Lotenhulle, en Flandre..
+Source: RAG ;.

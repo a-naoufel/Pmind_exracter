@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Menis
+Also known as: Guillaume de MENIS.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1342-1344%.
+Studied at: Paris ..
+Academic grades obtained: Magister (Paris) ..
+College affiliation: Collège de Sorbonne : procureur en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 3/10/2017..

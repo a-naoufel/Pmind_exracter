@@ -1,0 +1,10 @@
+PERSON: THEOBALDUS 11
+Also known as: THEOBALDUS.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1277-1277%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Sens (‘Chanoine de Saint-Jean-Baptiste’) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 08/09/2022..

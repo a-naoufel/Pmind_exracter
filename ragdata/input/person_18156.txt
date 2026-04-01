@@ -1,0 +1,11 @@
+PERSON: HERVEUS de Burgo
+Also known as: Herveus de BURGO.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1439-1439%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Léon..
+Studied at: Paris %1439-1439%..
+Academic grades obtained: Bachelier en décret (Paris) 11 mars ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 04-06-2015..

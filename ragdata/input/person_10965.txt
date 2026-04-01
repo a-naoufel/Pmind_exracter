@@ -1,0 +1,10 @@
+PERSON: ROBERTUS Vauquelin
+Also known as: Robert VAUQUELIN; Robert VAUCQUELIN; Robert WAUQUELIN; Robert VAUGELIN.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1485-1498%.
+Studied at: Paris %1485-1498%..
+Academic grades obtained: Étudiant en médecine (Paris) %1485-1489% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+College affiliation: Collège de Maître-Gervais : grand boursier médecin en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet 16/09/2020..

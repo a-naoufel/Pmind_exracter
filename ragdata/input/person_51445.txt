@@ -1,0 +1,12 @@
+PERSON: FRANCISCOLUS de Mediolano
+Also known as: Franciscolus de MEDIOLANO.
+Description: Ermite de Saint Augustin.
+Status: Étudiant.
+Gender: male.
+Active during: %1358-1358%.
+Born in: Italie (Lombardie : Milan) ?.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Couvent (Augustin) de Paris (Grands-Augustins)..
+Religious order: O.E.S.A. : frère augustin..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe GENET 6/11/2020)..

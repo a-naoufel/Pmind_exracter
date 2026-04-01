@@ -1,0 +1,54 @@
+PERSON: HERMANNUS de Schildis
+Also known as: Hermannus de SCHILDIS; Hermann de SCILTZ; Hermannus de SCHILDESCHE; Hermannus de SCILDIS.
+Description: O.E.S.A..
+Status: Maître.
+Gender: male.
+Active during: %1310-1357%.
+Born in: Rhénanie-Westphalie (Scildesche) ?.
+Diocese of origin: Diocèse de Paderborn ?.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) ..
+College affiliation: Couvent (augustin) de Paris %1330-1335%..
+Religious order: O.E.S.A. : frère (augustin) du couvent (augustin) de Herford ;.
+University functions: Paris (Faculté de Théologie : lecteur des Sentences vers %1330-1332%) ;; Magdebourg (Couvent augustin : lecteur ) ;; Erfurt (Couvent augustin : lecteur %1324-1326%) ;; Herford (Couvent augustin : lecteur %1327-1329%) ;; Cologne (Couvent augustin : lecteur) ?.
+Authored work: 'Primus sententiarum', composed around %1330-1332% à Paris ?.
+Authored work: 'Sermo de sancto Augustino', composed around (28 août)..
+Authored work: 'Tractatus de vitiis capitalibus duplex', composed around ..
+Authored work: 'Speculum manuale sacerdotum', composed around %1334-1335%..
+Authored work: 'Breviloquium de expositione missae', composed around , à Würzburg..
+Authored work: 'Tractatus contra Leonistas se pauperes de Lugduno et eorum sequaces dicentes missae comparationem esse speciem simoniae', composed around à Wurzburg..
+Authored work: 'Tractatus de sensibus Sacrae Scripturae extensus cum fundamentis et regulis suis', composed around %1345-1350% ?.
+Authored work: 'Compendium de quattuor sensibus sacrae scripturae', composed around 1345-1350%.
+Authored work: 'Expositio dominicae orationis duplex, una secundum verba Matthaei, alia secundum verba Lucae', composed around %1345-1349% ?.
+Authored work: 'Claustrum animae', composed around %1347-1349%, à Würzburg..
+Authored work: 'Postilla super Cantica', composed around , à Würzbourg..
+Authored work: 'Contra errores flagellatorum', composed around ?.
+Authored work: 'Expositio super Ave Maria', composed around ?.
+Authored work: 'Tractatus de decem praeceptis et duodecim consiliis', composed around Après ?.
+Authored work: 'Tractatus de conceptione beatae Virginis Mariae', composed around Vers , à Würzburg..
+Authored work: 'Postilla super Genesim', composed around ?.
+Authored work: 'Tractatus de ordine studendi pro iuvenibus', composed around ?.
+Authored work: 'Tractatus de vera et falsa amicitia', composed around ?.
+Authored work: 'De quinque sensibus', composed around ?.
+Authored work: 'De sanctis insigne', composed around ?.
+Authored work: 'De vera et falsa religione', composed around ?.
+Authored work: 'Diversae quaestiones sine numero et ordine', composed around ?.
+Authored work: 'Liber de confessione peccatoris sacramentalis', composed around ?.
+Authored work: 'Liber de laudibus beatae virginis Mariae Laudunensis', composed around ?.
+Authored work: 'Opus sex dierum duplex', composed around ?.
+Authored work: 'Tractatus de compensatione dominicarum poenarum cum horis canonicis', composed around ?.
+Authored work: 'Collationes praedicabiles per circulum anni de materia Canticorum', composed around ?.
+Authored work: 'Sermo ‘Principium in Osee’', composed around ?.
+Authored work: 'Sermo de angelis', composed around ?.
+Authored work: 'Sermo de passione domini', composed around ?.
+Authored work: 'Sermo mysticus', composed around ?.
+Authored work: 'Divisio metrica ac generalis descriptio totius philosophiaeac omnium artium', composed around à Würzburg..
+Authored work: 'De divisione universali philosophiae', composed around ?.
+Authored work: 'Tractatus de dignitate et principiss juris canonici', composed around à Erfurt..
+Authored work: 'Tractatus contra haereticos negantes immunitatem et iurisdictionem sanctae Ecclesiae', composed around ?.
+Authored work: 'Introductorium iuris', composed around ?.
+Authored work: 'Lectura super Decretalem ‘Omnis utriusque sexus’', composed around /Œuvre perdue..
+Authored work: 'Quod clerus quoad personas et bona sustentationis sui status sit exemptus a iurisdictione et iudicio laicorum'.
+Authored work: 'In Ethica Aristotelis', composed around ?.
+Authored work: 'Scriptum super Rhetorice libros', composed around ?.
+Source: Bayerischer Akademie des Wissenschaften. Geschichtquellen der deutschen Mittelalter :.

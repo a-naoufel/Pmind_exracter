@@ -1,0 +1,11 @@
+PERSON: DIONYSIUS de Sabrevois 2
+Also known as: Dionysius de SABREVOIS.
+Description: Recteur de l'Université de Paris..
+Status: Gradué.
+Gender: male.
+Active during: %1447-1474%.
+Studied at: Paris %1474-1474%..
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en théologie (Paris) ..
+Family relationships: Son oncle est Dionysius de SABREVOIS, docteur en théologie ;.
+University functions: Paris ('Université : recteur élu en (24 mars) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ rédaction, Claire Priol-Hoogland et Anne Tournieroux ; Jean-Philippe Genet, dernière mise à jour 28/05/2021..

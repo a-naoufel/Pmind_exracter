@@ -1,0 +1,11 @@
+PERSON: ANTHONIUS Bernardi 2
+Also known as: Anthonius BERNARD.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1495-1495%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Senlis..
+Studied at: Paris %1495-1495%..
+Academic grades obtained: Bachelier en décret (Paris) (le 21 août) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe GENET, 15/09/2020..

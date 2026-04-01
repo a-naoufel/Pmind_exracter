@@ -1,0 +1,12 @@
+PERSON: ALANUS de Penrith
+Also known as: Alain de PENRITH.
+Description: Recteur de l'Université de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1308-1308%.
+Born in: Angleterre.
+Diocese of origin: Diocèse de Carlisle..
+Studied at: Paris (Nation Anglo-allemande ?) ..
+Academic grades obtained: Maître ès arts (Paris)..
+University functions: Paris (Université : Recteur à deux reprises) ;; Paris (Faculté des Arts : maître-Régent)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/05/2020)..

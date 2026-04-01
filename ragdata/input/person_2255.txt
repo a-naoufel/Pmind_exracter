@@ -1,0 +1,9 @@
+PERSON: FERRICUS de Mes
+Also known as: Ferry de MES; Ferry de METZ.
+Description: Maître des Requêtes.
+Status: Incertain.
+Gender: male.
+Active during: %1371-1384%.
+Studied at: ?.
+Academic grades obtained: Docteur ès lois..
+Source: Paris au Moyen Âge : http://www.parismoyenage.fr/.

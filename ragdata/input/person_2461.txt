@@ -1,0 +1,12 @@
+PERSON: GALTERIUS 6
+Also known as: GALTERUS.
+Description: Abbé de Morimond.
+Status: Maître.
+Gender: male.
+Active during: %1320-1331%.
+Studied at: Paris..
+Academic grades obtained: Docteur en théologie (Paris) ;.
+College affiliation: Collège Saint-Bernard ?.
+Religious order: O. Cist. : moine cistercien..
+Religious functions: Abbé (Cistercien) de Morimond, %1320-1331% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 18/12/2019..

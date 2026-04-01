@@ -1,0 +1,13 @@
+PERSON: ROBERTUS Boussut
+Also known as: Robert BOUSSUT.
+Description: Maître en arts et bachelier en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1379-1379%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Reims..
+Studied at: Paris (Nation de France) %1379-1379%..
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en médecine (Paris) ..
+Ecclesiastical status: Clerc du diocèse de Reims ;.
+Ecclesiastical positions held: Candidat à un canonicat de Laon en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 24/12/2018..

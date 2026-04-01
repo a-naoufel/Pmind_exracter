@@ -1,0 +1,12 @@
+PERSON: ASSISTANS Gallicorum
+Also known as: ASSISTANS Gallicorum.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1385-1385%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en théologie ?.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Religious order: O.F.M. : frère franciscain..
+University functions: Paris (Couvent des Franciscains : assistans Gallicorum en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 22/10/2020)..

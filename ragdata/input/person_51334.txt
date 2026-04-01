@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Le Lanternier
+Also known as: Guillaume LE LANTERNIER.
+Description: Boursier du Collège de Justice.
+Status: Étudiant.
+Gender: male.
+Active during: %1477-1480%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie ?) %1477-1480% ?.
+Academic grades obtained: Étudiant (Paris) %1477-1480% ?.
+College affiliation: Collège de Justice : boursier en %1477-1480% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Marion BERNARD-SCHWEITZER 21/10/2020)..

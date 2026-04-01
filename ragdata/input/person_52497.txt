@@ -1,0 +1,10 @@
+PERSON: PETRUS Jacobi 1
+Also known as: Petrus JACOBI.
+Description: Clerc séculier.
+Status: Incertain.
+Gender: male.
+Active during: %1345-1347%.
+Born in: Suède.
+Diocese of origin: Diocèse d’Uppsala..
+Studied at: ?Paris, ;.
+Ecclesiastical positions held: Candidat à un bénéfice dans le diocèse de Västerås, ;.

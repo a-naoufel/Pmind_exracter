@@ -1,0 +1,14 @@
+PERSON: HUGO de Landau
+Also known as: Hugho de LANDAU.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1376-1396%.
+Born in: Rhénanie (Alsace : Landau ?) ;.
+Diocese of origin: Diocèse de Trèves ?.
+Studied at: Prague ;; Paris (Nation Anglo-allemande) .; Heidelberg..
+Academic grades obtained: Bachelier ès arts (Prague) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Heidelberg, immatriculé comme maître ès arts ;; Bachelier en droit canon (Heidelberg) ;; Licencié en droit canon (Heidelberg) ;.
+Academic relationships: Son élève est Gottfried de LEININGEN. Son maître est Jordanus de CLIVIS pour la licence en ; Son maître est Johannes de MAGUNTIA pour la maîtrise en ;.
+Ecclesiastical positions held: Chanoine de Worms (Cathédrale Saint-Pierre) ;; Prévôt de Worms (Cathédrale Saint-Pierre) ;.
+University functions: Paris (Nation Anglo-allemande : intégré en (6 mai) à la Nation) ;; Paris (Nation Anglo-allemande : il obtient en un congé pour rentrer chez lui) ;; Paris (Nation Anglo-allemande : procureur élu en (13 janvier) jusqu’au 10 février) ;; Heidelberg (Faculté des Arts : doyen ) ;; Heidelberg (Faculté des Arts : régent %1391-1392%) ;; Heidelberg (Université : chancelier ) ;.
+Source: RAG ;.

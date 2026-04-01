@@ -1,0 +1,13 @@
+PERSON: PHILIPPUS Bonart
+Also known as: Philippus BONART.
+Description: Chantre de Senlis.
+Status: Étudiant.
+Gender: male.
+Active during: %1379-1385%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Beauvais..
+Studied at: Paris (Nation de Picardie ?) %1379-1385%..
+Academic grades obtained: Étudiant (Paris) %1379-1385% ;.
+College affiliation: Collège des Cholets : boursier %1379-1385% ;.
+Ecclesiastical positions held: Chantre de Senlis..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 22/10/2020)..

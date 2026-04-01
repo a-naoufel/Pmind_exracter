@@ -1,0 +1,22 @@
+PERSON: CORNELIUS Vitellius
+Also known as: Cornelius VITELLIUS; Cornelio VITELLI.
+Description: Poète.
+Status: Étudiant.
+Gender: male.
+Active during: %1474-1492 %.
+Born in: Italie (Toscane : Cortone)..
+Diocese of origin: Diocèse de Cortone ?.
+Studied at: Bologne ;; Rome ?; Padoue.; Oxford ;; Louvain.
+Academic grades obtained: Étudiant..
+Ecclesiastical positions held: Recteur de Sant’Antimo (diocèse d’Arezzo) en ..
+University functions: Padoue, professeur en ;; Oxford (New College : reader %1482-1486%) ;; Louvain (professeur de poésie %1487-1488%) ;; Paris %1488-1489%.; Paris (Faculté des arts : lecteur ) ;; Oxford (donne des cours privés en %1490-1492% : logé à ExeterCollege)..
+Authored work: 'Observationes ad comentariolum in C. Plinii primi proemium a Nicolo Perotto confectum', composed around ?., dedicated to Dédié à Ermolao BARBARO..
+Authored work: 'In C. Plinium enarratiuncula', composed around ?.
+Authored work: 'Epistola Antonio Parthenio Benacensi', composed around ?, dedicated to Adressé à Antonio PARTHENO..
+Authored work: 'De dierum, mensium annorumque observatione', dedicated to Dédié à Ermolao BARBARO..
+Authored work: 'In defensionem Plinii et Domitii Calderini contra Georgium Merulam ad Hermolaum Barbarum epistola'.
+Authored work: '(Versus ad Federicum Montefeltrensem)', composed around ., dedicated to Dédié à Federico de MONTEFELTRE à l’occasion de la mort de son épouse Battista SFORZA..
+Authored work: 'Oratio in funere Angelae Mariae, uxoris Petri de Leonis', composed around ..
+Authored work: '(Oratio latina)', composed around ..
+Authored work: '(Versus contra Robertum Gaguinum)', composed around ..
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

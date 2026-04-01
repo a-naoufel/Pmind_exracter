@@ -1,0 +1,11 @@
+PERSON: FREDERICUS Le Viconte
+Also known as: Federicus LE VICONTE.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1497-1497%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Sens..
+Studied at: Paris %1497-1497%..
+Academic grades obtained: Bachelier en décret (Paris) 14 octobre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 1/08/2021..

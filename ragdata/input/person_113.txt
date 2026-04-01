@@ -1,0 +1,10 @@
+PERSON: ADAM de Villanis
+Also known as: Adam de VILLANIS; Adam de VILLARCIS.
+Description: Recteur de l'Université.
+Status: Maître.
+Gender: male.
+Active during: %1308-1310%.
+Studied at: Paris (Faculté des Arts)..
+Academic grades obtained: Maître ès arts ?.
+University functions: Paris (Université : recteur)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

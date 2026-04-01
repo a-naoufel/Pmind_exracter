@@ -1,0 +1,16 @@
+PERSON: EBRARDUS de Contiaco
+Also known as: "Sexaginta annorum et amplius" en ;.
+Description: Médecin..
+Status: Maître.
+Gender: male.
+Active during: %1353-1405%.
+Born in: Picardie (Amiens)..
+Studied at: Paris (Nation de Picardie) %:1342-1403%..
+Academic grades obtained: Maître ès arts (Paris) ;; Maître en médecine (Paris) ..
+Ecclesiastical status: Clerc du diocèse d'Amiens en ;; Sous-diacre du diocèse d'Amiens en ;; Prêtre ;.
+Ecclesiastical positions held: Chanoine de Péronne (Saint-Fursy) ;; Provision pour un bénéfice ecclésiastique à la collation de l'abbé et du couvent du monastère de Beauvais (Saint Lucien) en ;; Provision pour un canonicat avec expectative de prébende à Furnes (Sainte-Walburge) sur le rotulus de l'Université de Paris en : mandat au chancelier de Paris ;; Recteur de Daubeuf dans le diocese de Rouen en ;; Chanoineprébendé d’Amiens (églisecollégiale Saint-Firmin le Confesseur) ;; Provision pour un canonicat avec expectative de prébende à la cathédrale d’Amiens en ;; Chanoine d'Amiens, %1391-1405%..
+University functions: Paris (Faculté de Médecine : Maîtrerégent %1357-1405%)..
+Authored work: '[Traduction des Problemata Aristotelis]', composed around ..
+Authored work: 'Les Échecs amoureux', composed around ..
+Authored work: 'Le livre des échecs amoureux moralisés', composed around ..
+Source: ARLIMA : Évrart de Conti, http://www.arlima.net/no/58 (Caroline Boucher ; compléments: Laurent Brun, Anne-Marie Legaré et Amandine Mussou, dernière mise à jour: 12 août 2014..

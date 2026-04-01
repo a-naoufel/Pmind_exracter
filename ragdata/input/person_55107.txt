@@ -1,0 +1,10 @@
+PERSON: PETRUS Barberii
+Also known as: Petrus BARBERII.
+Description: Chanoine d’Autun.
+Status: Incertain.
+Gender: male.
+Active during: %1399-1433%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Autun %1399-1433% ;; Recteur de Saint-Symphorien-de-Marmagne (diocèse d’Autun) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/01/2023..

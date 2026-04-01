@@ -1,0 +1,13 @@
+PERSON: ELIAS de Lestrange
+Also known as: Elias de LESTRANGE.
+Description: Évêque de Saintes et du Puy.
+Status: Extérieur.
+Gender: male.
+Active during: %1371-1418%.
+Born in: Limousin..
+Studied at: Paris ;.
+Academic grades obtained: Docteur in utroque ;.
+Family relationships: Son père est Falcon de LESTRANGE, seigneur de Lestrange. GREGOIRE XI est son parent..
+Social origin: Noble.
+Ecclesiastical positions held: Évêque de Saintes %1381-1396% ;; Évêque de LePuy %1398-1418%..
+Representation roles: Participe au Concile de Pise ;; Participe au Concile de Constance ;.

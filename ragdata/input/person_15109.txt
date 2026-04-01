@@ -1,0 +1,9 @@
+PERSON: PETRUS de Encra 2
+Also known as: Petrus de ENCRA.
+Description: Bachelier en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1331-1332%.
+Studied at: Paris %1331-1332%..
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en médecine (Paris) %1331-1332%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/11/2019..

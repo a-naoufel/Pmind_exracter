@@ -1,0 +1,13 @@
+PERSON: EBRARDUS de Otalingen
+Also known as: Eberhardus de OTALINGEN.
+Description: Évêque de Bamberg.
+Status: Étudiant.
+Gender: male.
+Active during: %1127-1170%.
+Born in: Bavière ?.
+Studied at: Paris avant ?.
+Academic grades obtained: Étudiant (Paris) avant ?; Magister..
+Academic relationships: Son maître est peut-être Pierre ABÉLARD..
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Bamberg ;; Évêque de Bamberg %1146-1170% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 06/12/2024..

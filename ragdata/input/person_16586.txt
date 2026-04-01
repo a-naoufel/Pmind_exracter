@@ -1,0 +1,9 @@
+PERSON: BENEDICTUS Cheneveri
+Also known as: Benedictus CHENEVERI.
+Description: Nonce pour le diocèse de Carpentras..
+Status: Suppôt.
+Gender: male.
+Active during: %1443-1443%.
+Born in: De VillaSanctiJusti..
+Studied at: Paris (Nation de France) en ..
+University functions: Paris (Nation de France : nonce pour le diocèse de Carpentras)..

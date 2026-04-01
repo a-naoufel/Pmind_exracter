@@ -1,0 +1,9 @@
+PERSON: MICHAEL Pileur
+Also known as: Michael PILEUR.
+Description: Notaire au Châtelet de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1492-1492%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

@@ -1,0 +1,10 @@
+PERSON: LAURENTIUS Christiani
+Also known as: Laurentius CHRISTIANI.
+Description: Licencié en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1413-1416%.
+Studied at: Paris %1413-1416%.
+Academic grades obtained: Licencié en théologie (Paris) %1413-1416%..
+Religious order: O.Carm. : frère carme..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 22/08/2023)..

@@ -1,0 +1,11 @@
+PERSON: GERARDUS de Tilleto
+Also known as: Gerardus de TILLETO.
+Description: Chanoine de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1308-1326%.
+Studied at: Maître ;; Docteur en droit civil ;.
+Ecclesiastical status: Sous-diacre en ;.
+Ecclesiastical positions held: Chanoine de Cambrai %1308-1324% ;.
+University functions: Professeur de droit civil ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 30 décembre 2025..

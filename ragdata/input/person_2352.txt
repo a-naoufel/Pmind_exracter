@@ -1,0 +1,10 @@
+PERSON: FRANCISCUS Ogerii
+Also known as: Franciscus OGERII; François OGERII.
+Description: Boursier au collège de Navarre..
+Status: Étudiant.
+Gender: male.
+Active during: %1374-1374%.
+Studied at: Paris (Collège de Navarre) %1374-1374%..
+Academic grades obtained: Étudiant en grammaire (Paris) ..
+College affiliation: Collège de Navarre : boursier grammairien en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/09/2021..

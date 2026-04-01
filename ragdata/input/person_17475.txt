@@ -1,0 +1,9 @@
+PERSON: IVO Karcouin
+Also known as: Yvo KARCOUIN.
+Description: Étudiant en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1415-1415%.
+Studied at: Paris %1415-1415%..
+Academic grades obtained: ?Bachelier en décret (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet 22/09/2022..

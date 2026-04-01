@@ -1,0 +1,10 @@
+PERSON: EBRARDUS 4
+Also known as: EVRARDUS.
+Description: Sous-chantre de Châlons-en-Champagne.
+Status: Incertain.
+Gender: male.
+Active during: %1243-1266%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Sous-chantre de Châlons-en-Champagne %1243-1266% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 05/06/2025.

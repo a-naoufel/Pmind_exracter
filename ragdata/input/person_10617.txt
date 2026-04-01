@@ -1,0 +1,9 @@
+PERSON: RAIMUNDUS de Nocla
+Also known as: Raymond de NOCLA; Raymond du NOCLE; Raymond de NESCLE.
+Description: Chirurgien.
+Status: Incertain.
+Gender: male.
+Active during: %1350-1373%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 12/11/2019).

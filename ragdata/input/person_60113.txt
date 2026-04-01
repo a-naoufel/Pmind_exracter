@@ -1,0 +1,12 @@
+PERSON: MATTHAEUS de Sancto Amando
+Also known as: Matthaeus de SANCTO AMANDO.
+Description: Hôte du collège de Dainville.
+Status: Étudiant.
+Gender: male.
+Active during: %1396-1397%.
+Born in: Flandre (Saint-Amand) ?.
+Diocese of origin: Diocèse de Tournai ?.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dainville : boursier vers %1396-1397% ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

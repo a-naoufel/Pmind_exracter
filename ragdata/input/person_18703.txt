@@ -1,0 +1,8 @@
+PERSON: ROBERTUS La Vache
+Also known as: Robertus LA VACHE.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/08/2015..

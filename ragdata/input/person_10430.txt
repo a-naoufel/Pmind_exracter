@@ -1,0 +1,12 @@
+PERSON: PETRUS de Vayrac
+Also known as: Pierre de VAYRAC.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1280-1296%.
+Born in: Languedoc ?.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.P. : frère dominicain du couvent (dominicain) d'Alès..
+University functions: Millau (lecteur en Théologie en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/03/2024)..

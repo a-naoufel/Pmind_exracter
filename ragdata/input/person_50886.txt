@@ -1,0 +1,18 @@
+PERSON: GUIDOTTO de Bologna
+Also known as: Fra Guidotto da BOLOGNA; Guidotto di Zambonello da FIESSO.
+Description: Professeur de rhétorique.
+Status: Extérieur.
+Gender: male.
+Active during: %1254-1282%.
+Born in: Italie (Émilie-Romagne : Bologne ?) ?.
+Diocese of origin: Diocèse de Bologne ?.
+Studied at: Bologne ;; Sienne %1278-1282%..
+Academic grades obtained: Magister..
+Family relationships: Son père serait Zambonello da FIESSO..
+Social origin: Noble ?.
+Ecclesiastical status: Laïc ?.
+University functions: Bologne (enseignant vers %1254-1266%) ;; Sienne (professeur de réthorique %1278-1282%)..
+Authored work: '(Abicy disposta per maestro Guidotto)', composed around ?.
+Authored work: 'Fiore di rettorica', composed around %1254-1266%., dedicated to Dédiée à MANFRED..
+Authored work: 'Il libro della virtu e proprieta degli animali ridotto allo spirito per frate Ghuidotto da Bologna. Et chiamato fiore di virtù Maggiore', composed around ?.
+Source: Dizionario Biografico degli Italiani (Sonia GENTILI) ;.

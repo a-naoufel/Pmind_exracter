@@ -1,0 +1,12 @@
+PERSON: GOBERTUS Froussard de Voyenne
+Also known as: Gobert FROUSSARD de Voyenne.
+Description: Boursier du Collège de Laon..
+Status: Étudiant.
+Gender: male.
+Active during: %1394-1398%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie) %1394-1398%..
+Academic grades obtained: Étudiant (Paris) %1394-1398% ;.
+College affiliation: Collège de Laon : Boursier ès arts %1394-1398% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 14/12/2020..

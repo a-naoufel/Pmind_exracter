@@ -1,0 +1,11 @@
+PERSON: HENRICUS Friso
+Also known as: Henricus FRISO.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Born in: Pays-Bas (Frise ?) ?.
+Diocese of origin: Diocèse d'Utrecht ?.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 25/07/2022..

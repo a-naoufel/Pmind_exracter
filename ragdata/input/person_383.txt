@@ -1,0 +1,11 @@
+PERSON: ALBERTUS Leunez
+Also known as: Albertus LEUNEZ.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1447-1447%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+University functions: Paris (Nation de Normandie : élu intrans pour l'élection du recteur en qui sera Johannes BOUKARDI)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/06/2020)..

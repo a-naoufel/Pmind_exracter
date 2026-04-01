@@ -1,0 +1,11 @@
+PERSON: BARTHOLOMAEUS Servaddi
+Also known as: Bartholomaeus olim SERVADDI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1349-1349%.
+Born in: Italie ?.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) ?.
+Ecclesiastical positions held: Provision pour un canonicat et une prébende dans la cathédrale de Sienne en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 16/12/2020..

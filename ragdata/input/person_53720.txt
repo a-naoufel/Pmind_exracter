@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de Capella 1
+Also known as: Nicolaus de CAPELLA.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1434-1438%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) (20 mai) :; Bachelier en décret (Paris) (24 mai) ;; Licencié en décret (Paris) (8 avril) ;.
+Academic relationships: Son maître est Martinus de FRAXINIS pour la licence en décret en (8 avril) ;.
+University functions: Paris (Lecteur des Décrétales (livre IV) en (9 juin) pour la 1e année et le 1er volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ rédaction : Jean-Philippe Genet, 16/13/2024..

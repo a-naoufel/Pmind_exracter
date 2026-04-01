@@ -1,0 +1,10 @@
+PERSON: SIMON de Capeauville
+Also known as: Simon de CAPEAUVILLE; Simon de CAPEONVILLE; Simon de CAPTAINVILLE.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1491-1496%.
+Studied at: Paris %1496-1496%.
+Academic grades obtained: Licencié en théologie (Paris) ;; Docteur en théologie (Paris) (le 17 mars) ..
+Religious order: O.P. : frère dominicain..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 08/09/2024..

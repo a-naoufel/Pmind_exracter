@@ -1,0 +1,10 @@
+PERSON: GUICHARDUS Meraudi
+Also known as: Guischardus MERAUDI; Guichardus MERAUDI.
+Description: Écolâtre de Noyon.
+Status: Étudiant.
+Gender: male.
+Active during: %1371-1376%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+Ecclesiastical positions held: Ecolâtre de Noyon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ rédaction : Jean-Philippe Genet, 15/03/2022..

@@ -1,0 +1,9 @@
+PERSON: BENEDICTUS Maconneti
+Also known as: Benedictus MACONNETI.
+Description: Nonce pour le diocèse de Tulle.
+Status: Suppôt.
+Gender: male.
+Active during: %1443-1446%.
+Studied at: Paris (Nation de France)..
+University functions: Paris (Nation de France : nonce pour le diocèse de Tulle en ).; Paris (Nation de France : nonce pour le diocèse de Tulle renouvelé en (7 février)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 07/01/2021).

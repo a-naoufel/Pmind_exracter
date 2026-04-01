@@ -1,0 +1,11 @@
+PERSON: ADAM de Elon
+Also known as: Adam de ELON; Adam ELOYN; Adam de ELOU.
+Description: Vicaire d'Ellon.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1349%.
+Born in: Écosse..
+Studied at: Paris %:1329:-:1335:%..
+Academic grades obtained: Étudiant (Paris) ?.
+Ecclesiastical positions held: Vicar-pensionary d'Ellon (Aberdeenshire) %1337-1349% au moins..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

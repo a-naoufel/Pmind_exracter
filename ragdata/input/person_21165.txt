@@ -1,0 +1,12 @@
+PERSON: PETRUS Albi 3
+Also known as: Petrus ALBI.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1449-1450%.
+Born in: Savoie ?.
+Diocese of origin: Diocèse d’Aoste (Augustensis) ?.
+Studied at: Paris (Nation de France) %1449-1450%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Johannes BEGUIN pour sa maîtrise en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/08/2016..

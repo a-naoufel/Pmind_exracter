@@ -1,0 +1,9 @@
+PERSON: FRANCISCUS de Marne
+Also known as: Franciscus de MARNE.
+Description: Nonce pour le diocèse de Pest.
+Status: Suppôt.
+Gender: male.
+Active during: %1514-1515%.
+Studied at: Paris (Nation Anglo-allemande)..
+University functions: Paris (Nation Anglo-allemande : nonce pour le diocèse de Pest %1514-1515% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour, 08/11/2024..

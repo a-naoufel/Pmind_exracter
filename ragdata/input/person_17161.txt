@@ -1,0 +1,10 @@
+PERSON: ANTHONIUS Des Essarts
+Also known as: Antoine DES ESSARTS.
+Description: Concierge du palais.
+Status: Extérieur.
+Gender: male.
+Active during: %1408-1413%.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son frère est Pierre des ESSARTS, prévôt de Paris. Son frère est Philippe DES ESSARTS, évêque d'Auxerre..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/09/2020)..

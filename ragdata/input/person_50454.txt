@@ -1,0 +1,11 @@
+PERSON: PETRUS de Jouaignes
+Also known as: Pierre de JOUAIGNES.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1473-1473%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Dormans-Beauvais : boursier ;.
+Family relationships: Son parent est peut-être Pierre de JOUAIGNES, procureur à Soissons en ; Son parent est peut-être Jehan de JOUAIGNES, boursier du Collège de Dormans-Beauvais ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 20/09/2019..

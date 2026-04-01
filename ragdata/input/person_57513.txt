@@ -1,0 +1,19 @@
+PERSON: PETRUS de Remerico Monte
+Also known as: Petrus de REMERICO MONTE.
+Description: O.P..
+Status: Étudiant.
+Gender: male.
+Active during: %1278-1283%.
+Born in: Lorraine (Remiremont) ?.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Couvent (dominicain) de Paris ?.
+Religious order: O.P. : frère (dominicain) de la province de France..
+Religious functions: Provincial (dominicain) de Rome en ..
+Authored work: 'Sermo et collatio in Quinquagesima', composed around ?.
+Authored work: 'Sermo et collatio Dom. III post Pascha', composed around ?.
+Authored work: 'Sermo de Trinitate', composed around ?.
+Authored work: 'Sermo et collation Dom. VII post Trinit.', composed around ?.
+Authored work: 'Litterae ad fratres provinciae romanae', composed around ?.
+Authored work: 'Epistolae missae', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 26/02/2024..

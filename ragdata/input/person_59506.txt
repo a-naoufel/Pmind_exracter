@@ -1,0 +1,11 @@
+PERSON: PETRUS Cramette
+Also known as: Pierre CRAMETTE.
+Description: Secrétaire du roi.
+Status: Incertain.
+Gender: male.
+Active during: %1376-1401%.
+Studied at: ?.
+Academic grades obtained: Maître ?.
+College affiliation: Collège de Dainville : maître ?.
+Ecclesiastical positions held: Chanoine de Mons (Sainte-Waudru) %1376-1401% ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

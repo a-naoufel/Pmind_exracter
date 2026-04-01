@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS de Coucyaco
+Also known as: Aegidius de COUCYACO.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1378-1379%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Noyon ;.
+Studied at: Paris (Nation de Picardie) %1378-1379%..
+Academic grades obtained: Étudiant ès arts (Paris) %1378-1379% ;.
+Ecclesiastical status: Clerc du diocèse de Noyon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 26/04/2020)..

@@ -1,0 +1,14 @@
+PERSON: ODO de Sancto Victore
+Also known as: Odo de SANCTO VICTORE.
+Description: Abbé de Sainte-Geneviève de Paris.
+Status: Étudiant.
+Gender: male.
+Active during: %1140-1173%.
+Studied at: Paris (école de Saint-Victor ?) ?.
+Academic grades obtained: Étudiant (Paris) ?.
+Religious order: O.S.A. : chanoine de Paris (Saint-Victor) ;.
+Religious functions: Prieur (O.S.A.) de Paris (Saint-Victor) %1140-1148% ;; Abbé (O.S.A.) de Paris (Sainte-Geneviève) %1148-1173%..
+Authored work: 'Epistolae de observantia professionis canonicae recte praestanda', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Sermones (39)', composed around ?.
+Source: MIRANDA : Pietro Antonio PODOLAK :.

@@ -1,0 +1,12 @@
+PERSON: MATTHAEUS de Porta 1
+Also known as: Mathieu de PORTA.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1349-1349%.
+Born in: Italie..
+Studied at: Paris (Nation de France ?) %1349-1349%..
+Academic grades obtained: Maître ès arts (Paris) ;; Maître en médecine (Paris) ..
+Family relationships: Son père est Albertinus de PORTA..
+Ecclesiastical positions held: Candidat à un canonicat de Padoue en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 17/09/2023..

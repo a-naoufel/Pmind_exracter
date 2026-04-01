@@ -1,0 +1,30 @@
+PERSON: ODO Rigaldi
+Also known as: Odo RIGALDI; Odon RIGAUD; Eudes RIGAUD.
+Description: Archevêque de Rouen..
+Status: Maître.
+Gender: male.
+Active during: %1236-1275%.
+Born in: Île-de-France (Courquetaine, près de Brie-Comte-Robert ?) ;.
+Diocese of origin: Diocèse de Paris..
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Family relationships: Son frère est Pierre RIGAUD, chevalier : Son frère est Adam RIGAUD, O.F.M. ; Son neveu est Adam RIGAUD, doyen de Reims ;.
+Academic relationships: Son maître est Alexandre de HALES ; Son maître est Jean de LAROCHELLE..
+Social origin: Noblesse..
+Religious order: O.F.M. : frère franciscain ca...
+Ecclesiastical positions held: Archevêque de Rouen %1248-1275%..
+University functions: Paris (Couvent franciscain : Maître-Régent %1245-1247%)..
+Representation roles: Il participe aux négociations pour le Traité de Paris, entre LOUIS IX et HENRI III, roi d'Angleterre en ;; Ambassadeur en Angleterre en ;; Il prêche la Croisade à laquelle il participe, assistant le roi dans ses derniers moments et ramenant les ossements du roi en France ;; Il participe au Concile de Lyon ..
+Authored work: 'Comment. in IV libros Sentent.', composed around ?.
+Authored work: 'Quaestiones disputatae', composed around ?.
+Authored work: '?Postillae in Pentateuchum', composed around ?.
+Authored work: '?Postillae in Psalterium', composed around ?.
+Authored work: '?Postillae in Evangelium', composed around ?.
+Authored work: 'Expositio regulae Fratrum Minorum', composed around ..
+Authored work: 'Expositio quatuor magistrorum super regulam Fratrum Minorum', composed around %1241-1242%.
+Authored work: 'Sermones de tempore et de festis', composed around ..
+Authored work: 'Sermones in Synodi Rothomagensi', composed around ?.
+Authored work: 'Sermones Quadragesimales', composed around ?.
+Authored work: 'Registrum visitationum archiepiscopi Rothomagensis', composed around ?.
+Source: MIRABILE :.

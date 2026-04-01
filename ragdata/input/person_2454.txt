@@ -1,0 +1,10 @@
+PERSON: GALTERIUS Buiterne
+Also known as: Galterus BUITERNE.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris en ..
+Academic grades obtained: Étudiant (Paris) ?.
+Family relationships: Son frère est (peut-être) Fridericus BUITERNE qui signe en même temps que lui, avec leur socius ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 4/11/2021..

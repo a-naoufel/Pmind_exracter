@@ -1,0 +1,13 @@
+PERSON: GENESIUS de Palma de Majorque
+Also known as: Genesius de PALMA; Genesius de PARMA.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1448-1459%.
+Born in: Majorque ?.
+Diocese of origin: Diocèse de Palma ?.
+Studied at: Paris %1448-1451%..
+Academic grades obtained: Licencié en théologie (Paris) (le 29 janvier) ;; Docteur en théologie (Paris) (le 2 décembre) ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Religious order: O.F.M. : frère franciscain .; O.S.B. : moine du monastère (bénédictin) de "S. Bassani extra muros Lauden." en septembre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/11/2021..

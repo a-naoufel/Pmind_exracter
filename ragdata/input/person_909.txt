@@ -1,0 +1,26 @@
+PERSON: ARNALDUS Roiardus
+Also known as: Arnaldus ROIARDUS; Arnaud ROYARD; Arnaldus ROYARDI; Arnoldus ROMIARDUS; Arnoldus PETRAGORICENSIS.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1309-1334%.
+Born in: Aquitaine (Périgord) ?.
+Diocese of origin: Diocèse de Périgueux ?.
+Studied at: Toulouse %1309-1311% ;; Paris (licencié par bulle) ..
+Academic grades obtained: Licencié en théologie (Paris) ;; Maître en théologie (Paris) ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) ?.
+Religious order: O.F.M. : frère franciscain..
+Ecclesiastical positions held: Archevêque de Salerne, ;; Évêque de Sarlat, ..
+University functions: Toulouse (Lecteur des Sentences au Studium franciscain en %1309-1311%) ;; Paris (Faculté de Théologie : maître-régent au couvent franciscain entre et ) ?.
+Authored work: 'Quaestiones theologicae', composed around ?.
+Authored work: 'Distinctiones', composed around ?.
+Authored work: '[Sermon sur Exod. 11 4]', composed around ? à Toulouse..
+Authored work: '[Sermon sur Matth. 1 16]', composed around ? à Toulouse..
+Authored work: '[Sermon sur Hebr. 9 11]', composed around ? à Toulouse..
+Authored work: '[Sermon sur 2 Paral. 6 27]', composed around ? à Toulouse..
+Authored work: 'Sermones dominicales', composed around ?.
+Authored work: 'Notitia super quaestionibus de heresia', composed around ?.
+Authored work: 'Vota quorundam magistrorum in theologia contra tres articulos partis Ordinis Minorum', composed around ..
+Authored work: 'Vota quorundam magistrorum in theologia de Postilla super Apocalipsim fratris Petri Johannis Olivi', composed around %1318-1320%..
+Authored work: 'Tractatus de paupertate Christi et Apostolorum', composed around .
+Source: Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress :.

@@ -1,0 +1,12 @@
+PERSON: PETRUS de Gajeta
+Also known as: Petrus de GAJETA.
+Description: Maître en théologie.
+Status: Extérieur.
+Gender: male.
+Active during: %1340-1343%.
+Studied at: Oxford ;; Naples..
+Academic grades obtained: Bachelier en théologie (Oxford) vers ;; Maître en théologie par mandat pontifical ;.
+Religious order: O.F.M. : frère franciscain..
+Religious functions: Ministreprovincial d’ApulieetduLabour en ..
+University functions: Oxford (Faculté de Théologie : lecteur des Sentences vers ?) ?; Naples (Professeur de théologie après )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 05/02/2021)..

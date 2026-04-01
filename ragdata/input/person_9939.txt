@@ -1,0 +1,14 @@
+PERSON: PETRUS Pigouche
+Also known as: Petrus PIGOUCHE.
+Description: Maître en arts et en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1326-1342%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Coutances..
+Studied at: Paris (Nation de Normandie) %1326-1332%..
+Academic grades obtained: Maître ès arts (Paris) ;; Maître en médecine (Paris) ..
+Ecclesiastical status: Clerc du diocèse de Coutances ;.
+Ecclesiastical positions held: Obtention de l'expectative d'un bénéfice à la collation de l'abbé de Saint-Taurin d'Evreux en ;; Chanoine de Dol en ..
+University functions: Maître régent de la Faculté de médecine de Paris, %1326-1332%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 2/04/2024)..

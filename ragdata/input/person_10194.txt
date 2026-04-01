@@ -1,0 +1,12 @@
+PERSON: PETRUS de Tertro
+Also known as: Petrus de TERTRO.
+Description: Étudiant.
+Status: Gradué.
+Gender: male.
+Active during: %1313-1334%.
+Born in: Bretagne..
+Studied at: Paris ..
+Academic grades obtained: Étudiant en ;; Licencié en droit canon (Paris ?) en ;.
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine avec expectative de prébende de Saint-Malo %1320- % ;; Archidiacre de Saint-Malo ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 02-03-2024..

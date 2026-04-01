@@ -1,0 +1,10 @@
+PERSON: SIMON Hulardi
+Also known as: Simon HULARDI; Sunno HULARDI.
+Description: Maître en grammaire..
+Status: Maître.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+College affiliation: Collège de Narbonne : régent ?.
+University functions: Maître en grammaire au ?collège de Narbonne à Paris en %1329-1330%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 13/09/2024..

@@ -1,0 +1,10 @@
+PERSON: BERTRANDUS de Camera
+Also known as: Bertrand de CAMERA.
+Description: Boursier grammairien puis artien au Collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1342-1345%.
+Studied at: Paris (Collège de Navarre) %1342-1345%..
+Academic grades obtained: Étudiant en grammaire (Paris) ;; É.A. (P) ..
+College affiliation: Boursier grammairien au Collège de Navarre à Paris en ;; Boursier artien au Collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 22/02/2021).

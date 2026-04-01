@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS 9
+Also known as: GUILLELMUS.
+Description: ?.
+Status: Incertain.
+Gender: male.
+Active during: %1250-1250%.
+Studied at: ?.
+Academic grades obtained: ?.
+Authored work: 'Comment. in librum Rhetoricae ad Alexandrum', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 3/12/2019..

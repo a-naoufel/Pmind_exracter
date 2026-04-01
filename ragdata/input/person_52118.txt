@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Campanus
+Also known as: Nicholaus CAMPANUS; Nicholaus CHAMP.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1303-1303%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) ;.
+Religious order: O.F.M. : frère franciscain du couvent de Chartres ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 26/03/2021)..

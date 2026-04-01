@@ -1,0 +1,7 @@
+PERSON: BELOTA Judea
+Also known as: Belota JUDEA.
+Description: Exercice illégal de la médecine à Paris..
+Status: Extérieur.
+Gender: female.
+Active during: %1322-1322%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 6/01/2021..

@@ -1,0 +1,40 @@
+PERSON: BOETIUS de Dacia
+Also known as: Boèce de DACIE.
+Status: Maître.
+Gender: male.
+Active during: %1270-1284%.
+Born in: Danemark..
+Studied at: Paris %1260-1277%..
+Academic grades obtained: Maître ès arts (Paris) ca...
+Religious order: Dominicain après ..
+Ecclesiastical positions held: Clerc séculier du diocèse de Linköping..
+Authored work: 'De summe bono, sive de vita philosophi', composed around ?.
+Authored work: 'Quaestiones in lib. Moralium', composed around ?.
+Authored work: 'Sophisma “Omnis homo animal de necessitate est”', composed around ?.
+Authored work: 'Sophisma ‘Sillgizantem ponendum est terminos’', composed around ?.
+Authored work: 'Quaestiones elenchorum seu ars sophistica', composed around ?.
+Authored work: 'Quaestio naturalis de aeternitate mundi, seu Liber de concordia fidei et philosophiae de aeternitate mundi', composed around ?.
+Authored work: 'Quaestiones super libros Topicorum', composed around ?.
+Authored work: 'Quaestiones super Perihermenias', composed around ?.
+Authored work: 'Quaestiones super librum priorum analyticorum', composed around ?.
+Authored work: 'Quaestiones super librum posteriorum', composed around ?.
+Authored work: 'Quaestiones super Sophisticos Elenchos', composed around ?.
+Authored work: 'Quaestiones in rhetorica', composed around ?.
+Authored work: 'Tractatus de modi significandi', composed around ?.
+Authored work: 'Liber de constructionibus', composed around ?.
+Authored work: 'Liber de naturali ortu omnium accentuum', composed around ?.
+Authored work: 'Ars demonstrandi', composed around ?.
+Authored work: 'Quaestiones in libro mineralium', composed around ?.
+Authored work: 'Quaestiones in Metaphysicam', composed around ?.
+Authored work: 'Quaestiones super librum de animalibus', composed around ?.
+Authored work: 'Quaestiones super IV Meteologicarum', composed around ?.
+Authored work: 'De somniis, sive de somniorum divinatione, sive de sommo et vigilia', composed around ?.
+Authored work: 'Quaestiones in Physicam', composed around ?.
+Authored work: 'Quaestiones super de coelo et mundo', composed around ?.
+Authored work: 'Quaestiones super librum De anima', composed around ?.
+Authored work: 'Quaestiones de Generatione et Corruptione', composed around ?.
+Authored work: 'Quaestiones super De sensu et sensato', composed around ?.
+Authored work: 'Quaestiones super De longitudine et brevitate vitae', composed around ?.
+Authored work: 'Quaestiones super De memoria et reminiscentia', composed around ?.
+Authored work: 'Quaestiones super De morte et vita', composed around ?.
+Authored work: 'Quaestiones super De plantis et vegetabilibus', composed around ?.

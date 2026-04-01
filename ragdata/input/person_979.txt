@@ -1,0 +1,14 @@
+PERSON: ARNALDUS Tygel de Xanctis
+Also known as: Arnoldus TYGEL de Xanctis; Arnoldus Tygel de XANTIS; Arnoldus Tygel de SANCTIS; Arnoldus Tygel de ZANCTIS.
+Description: Procureur de la Nation Anglo-allemande.
+Status: Maître.
+Gender: male.
+Active during: %1380-1404%.
+Born in: Rhénanie (Xanten) ?.
+Diocese of origin: Diocèse de Xanten ?.
+Studied at: Paris (Nation Anglo-allemande) avant ;; Cologne ..
+Academic grades obtained: Bachelier ès arts (Paris) .; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Maître ès arts (Cologne) ;.
+Academic relationships: Son maître est Meynardus de TYELE pour le baccalauréat ; Son maître est Johannes de HOECLEM pour la licence et la maîtrise ; Son élève pour le baccalauréat est Conradus MONCINGHEN de Friburgo en ; Son élève pour le baccalauréat est Alexander de SANCTO VITO en ; Son élève pour le baccalauréat est Petrus SECKELDE de Maguntia en ;.
+Ecclesiastical positions held: Chanoine de Liège (Saint-Martin) ;; Chanoine de Xanten (Saint-Victor) %1392-1404% ;.
+University functions: Paris (Nation Anglo-allemande : procureur (21 octobre) ; il reste en fonction jusqu'au 18 novembre)..
+Source: RAG ;.

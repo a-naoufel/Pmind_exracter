@@ -1,0 +1,12 @@
+PERSON: ROBERTUS de Camera
+Also known as: Robertus de CAMERA.
+Description: Maître ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1365-1383%.
+Born in: Ecosse..
+Studied at: Paris (Nation Anglo-allemande)..
+Academic grades obtained: Bachelier ès arts (Paris) en %1365-1368% (période où le registre est lacunaire) ;; ?Maître..
+Academic relationships: Son maître est William de TREBRUN pour le baccalauréat avant ;.
+Ecclesiastical positions held: Chanoine d’Aberdeen vers %1376-1377% ;; Recteur d’Arbuthnott en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 05/01/2025)..

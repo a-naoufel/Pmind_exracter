@@ -1,0 +1,10 @@
+PERSON: HERBERTUS de Andely
+Also known as: Herbertus de ANDELY.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1206-1223%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Rouen %1208-1223% ;; Chanoine d’Évreux ;; Sacriste d’Évreux ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 05/01/2022..

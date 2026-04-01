@@ -1,0 +1,13 @@
+PERSON: BARTHOLOMAEUS de Wanquetin
+Also known as: Bartholomeus de WANQUETIN.
+Description: Chantre de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1378-1419%.
+Diocese of origin: Diocèse de Cambrai ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Social origin: Noble ;.
+Ecclesiastical status: Prêtre en ;.
+Ecclesiastical positions held: Chanoine de Nesles (Notre-Dame) ;; Chanoine de Lille (Saint-Pierre) ;; Chanoine de Cambrai (Sainte-Croix) %1393-1408% ;; Trésorier de Cambrai (Sainte-Croix) %1393-1408% ;; Curé de Cambrai (Sainte-Croix) %1402-1419% ;; Chanoine de Cambrai %1408-1419% ;; Chantre de Cambrai %1408-1419% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/12/2025)..

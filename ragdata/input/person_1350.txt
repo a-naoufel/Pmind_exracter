@@ -1,0 +1,10 @@
+PERSON: BERNARDINUS Paganelli
+Also known as: Bernardinus PAGANELLI.
+Description: Marchand florentin.
+Status: Extérieur.
+Gender: male.
+Active during: %1259-1259%.
+Born in: Italie (Florence)..
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 14/01/2021).

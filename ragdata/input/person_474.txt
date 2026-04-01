@@ -1,0 +1,9 @@
+PERSON: ALEXANDER de Faulzyzlz
+Also known as: Alexander de FAULZYZLZ.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1416-1416%.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en théologie (Paris) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 27/06/2020)..

@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Fromondi
+Also known as: Nicolaus FROMONDI.
+Description: Bachelier en décret.
+Status: Maître.
+Gender: male.
+Active during: %1424-1424%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Bachelier en décret (Paris) (31 août) ;.
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (L. III) en (22 septembre), pour la 1ère année et le 1er volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour, 18/12/2025..

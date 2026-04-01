@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de Vrigny
+Also known as: Nicolaus de VRIGNY; Nicolaus de WRIGNY.
+Description: Archidiacre de Coutances.
+Status: Maître.
+Gender: male.
+Active during: %1258-1264%.
+Studied at: Paris..
+Academic grades obtained: Maitre (Paris) ?.
+College affiliation: Sorbonne ?.
+Ecclesiastical positions held: Archidiacre de Coutances en %1258-1264%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/04/2024..

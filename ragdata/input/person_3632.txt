@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Montclar
+Also known as: Guillaume de MONTCLAR.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1264-1290%.
+Born in: Montclar..
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Couvent (dominicain) de Paris (Jacobins) en ;.
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Figeac en ;; O.P. frère dominicain du couvent (dominicain) de Paris en ..
+University functions: Castres (couvent dominicain : lecteur en Théologie en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 31/03/2020..

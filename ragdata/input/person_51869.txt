@@ -1,0 +1,11 @@
+PERSON: MILO Strabonis
+Also known as: Milo STRABONIS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1479-1479%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) avant ;.
+College affiliation: Sainte-Geneviève..
+University functions: Paris (Sub-cancellarius de Sainte-Geneviève admis en ) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 23/01/2021)..

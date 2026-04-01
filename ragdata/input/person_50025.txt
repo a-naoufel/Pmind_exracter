@@ -1,0 +1,19 @@
+PERSON: GEORGIUS de Borgolio
+Also known as: Georgius de BORGOLIO; Georges de BOURGUEIL.
+Description: O.E.S.A..
+Status: Gradué.
+Gender: male.
+Active during: %1332-1332%.
+Born in: Touraine (Bourgueil) ?.
+Diocese of origin: Diocèse de Tours..
+Studied at: Paris ..
+Academic grades obtained: Bachelier en théologie (Paris) ..
+College affiliation: Couvent (augustin) de Paris ..
+Religious order: O.E.S.A..
+University functions: Paris (Faculté de Théologie : lecteur des Sentences en ?).
+Authored work: 'Tabula in omeliis Sancti Augustini super Johannem', composed around %1332-1333%., dedicated to Écrit pour le pape JEAN XXII..
+Authored work: 'Tabula in super Genesim ad litteram', composed around %1332-1333%., dedicated to Écrit pour le pape JEAN XXII..
+Authored work: 'Tabula in super Boetium', composed around %1332-1333%., dedicated to Écrit pour le pape JEAN XXII..
+Authored work: 'Tabula in libros Dyonisii', composed around %1332-1333%., dedicated to Écrit pour le pape JEAN XXII..
+Authored work: 'Librum vocabulorum Biblie', composed around %1332-1333%., dedicated to Écrit pour le pape JEAN XXII..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 24/11/2019..

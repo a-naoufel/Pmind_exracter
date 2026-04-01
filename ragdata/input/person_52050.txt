@@ -1,0 +1,12 @@
+PERSON: VIENETUS Carnificis
+Also known as: Vienetus CARNIFICIS.
+Description: Cistercien.
+Status: Gradué.
+Gender: male.
+Active during: %1452-1452%.
+Studied at: Paris ..
+Academic grades obtained: Bachelier curseur (Paris) ..
+College affiliation: Collège des Bernardins en ?.
+Religious order: O.Cist. : moine de l’abbaye (cistercienne) de Chaalis..
+University functions: Paris (Faculté de Théologie : lecteur curseur en (22 mars pour le premier cours)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/03/2021)..

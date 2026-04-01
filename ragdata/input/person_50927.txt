@@ -1,0 +1,10 @@
+PERSON: PETRUS Le Fevre
+Also known as: Pierre LE FEVRE.
+Description: Conseiller lai au parlement de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1383-1418%.
+Studied at: ?.
+Academic grades obtained: Maître ?.
+College affiliation: Collège de Dormans-Beauvais : vicaire de l'abbé de Soissons (Saint-Jean des Vignes) au conseil du Collège de Dormans-Beauvais à partir de ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 10/06/2020)..

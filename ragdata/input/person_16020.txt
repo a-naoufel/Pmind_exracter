@@ -1,0 +1,10 @@
+PERSON: AEGIDIUS Decestois
+Also known as: Aegidius DECESTOIS.
+Description: Licencié en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1501-1501%.
+Studied at: Paris %1501-1501%..
+Academic grades obtained: Licencié en décret (Paris) (6 avril)..
+Academic relationships: Élève de Johannes PICARDI à partir du 6 avril ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux, dernière mise à jour, Jean-Philippe Genet, 05/05/2020)..

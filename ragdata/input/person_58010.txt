@@ -1,0 +1,10 @@
+PERSON: STEPHANUS Nutriti
+Also known as: Stephanus NUTRITI; Stephanus NUCRITI.
+Description: Étudiant du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1455-1458%.
+Studied at: Paris.
+Academic grades obtained: Étudiant (Paris) en ;.
+College affiliation: Collège d'Autun : responsable des comptes %1455-1457% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 05/09/2024..

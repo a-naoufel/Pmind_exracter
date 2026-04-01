@@ -1,0 +1,9 @@
+PERSON: NICOLAUS Peneler
+Also known as: Nicolaus PENELER.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1316-1316%.
+Studied at: Paris..
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 15/11/2019..

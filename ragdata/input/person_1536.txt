@@ -1,0 +1,10 @@
+PERSON: BONETUS Alemannus
+Also known as: Bonetus ALEMANNUS.
+Description: Procureur de la Sorbonne.
+Status: Maître.
+Gender: male.
+Active during: %1305-1305%.
+Studied at: Paris (Sorbonne)..
+Academic grades obtained: Magister ?.
+College affiliation: Collège de Sorbonne : cité comme procureur dans un acte de (octobre)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/03/2021)..

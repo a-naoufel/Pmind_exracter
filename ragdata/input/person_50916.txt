@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Volatoris
+Also known as: Guillelmus VOLATORIS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1349-1349%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Bayeux ;.
+Studied at: Paris (Nation de Normandie) en ..
+Academic grades obtained: Maître ès arts (Paris) ;.
+Ecclesiastical status: Clerc du diocèse de Bayeux ;.
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiastique à la collation de l’abbé et du couvent du monastère (cistercien) d’Aunay-sur-Odon en réponse au rotulus de l’Université de Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 08/06/2020..

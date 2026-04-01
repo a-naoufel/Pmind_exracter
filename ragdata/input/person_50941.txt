@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Rupe 3
+Also known as: Guillermus de RUPE.
+Description: Chanoine d'Auxerre.
+Status: Extérieur.
+Gender: male.
+Active during: %1316-1328%.
+Studied at: ?.
+Academic grades obtained: Maître..
+Ecclesiastical positions held: Chanoine de Auxerre ;; Chanoine de Lausanne %1316-1327% ;; Chanoine de Beauvais ;; Chanoine de Castres ;; Chanoine de Brioude ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 2/07/2018..

@@ -1,0 +1,14 @@
+PERSON: GUIDO de Busco
+Also known as: Guido de BUSCO; Guido DUBUSC.
+Description: Bachelier en décret.
+Status: Maître.
+Gender: male.
+Active during: %1403-1440%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie) %:1403-1440% ;.
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en décret (Paris) ;.
+Social origin: Noble..
+Ecclesiastical status: Clerc du diocèse de Rouen en ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Magnus Rotulus de l’Université de Paris daté de (21 octobre) et présenté à BENOÎT XIII ;; Chanoine de Rouen %1409-1440% ;; Chanoine de Liège (Saint-Denis) ;; Chanoine de Hoyen (diocèse de Liège) ;; Chanoine d'Évreux %1435-1436% ;.
+University functions: Paris (Faculté de Décret : lecteur en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 15/12/2018..

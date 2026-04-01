@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de L’Hospital
+Also known as: Guillermus de L’HOSPITAL.
+Description: Official de Sées.
+Status: Incertain.
+Gender: male.
+Active during: %1334-1334%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Other ecclesiastical functions: Official de Sées ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 12/11/2022..

@@ -1,0 +1,11 @@
+PERSON: ADAM de La Couperie
+Also known as: Adam de LACOUPERIE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1448-1449%.
+Born in: Anjou-Maine ?.
+Diocese of origin: Diocèse de LeMans..
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) .; Licencié ès arts (Paris) .; Maître ès arts (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

@@ -1,0 +1,9 @@
+PERSON: INGERANNUS Militis
+Also known as: Enguerrand MILITIS.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1486-1493%.
+Studied at: Paris, %1486-1493%.
+Academic grades obtained: Étudiant en médecine (Paris) %1486-1487% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine à Paris ?%1492-1493%?..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 16/09/2022..

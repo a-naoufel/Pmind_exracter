@@ -1,0 +1,11 @@
+PERSON: STYRKARUS
+Also known as: STYRKARUS.
+Description: Vicaire perpétuel..
+Status: Incertain.
+Gender: male.
+Active during: %1319-1319%.
+Born in: Norvège.
+Studied at: ?.
+Academic grades obtained: Magister.
+Ecclesiastical positions held: Vicaireperpétuel des Saints-Apôtres (chapelle royale), à Bergen, %1319..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth MORNET 12/11/2025..

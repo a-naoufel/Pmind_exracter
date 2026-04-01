@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Nepotis 3
+Also known as: Guillelmus NEPOTIS; Guillaume NEPOTIS.
+Description: Étudiant en médecine.
+Status: Gradué.
+Gender: male.
+Active during: %1397-1400%.
+Studied at: Paris %:1400-1400%..
+Academic grades obtained: Étudiant en médecine (Paris) .; Bachelier en médecine (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 20/05/2022..

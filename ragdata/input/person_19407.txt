@@ -1,0 +1,11 @@
+PERSON: FRANCISCUS Gouvion
+Also known as: Franciscus GOUVION.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1483-1483%.
+Born in: Artois ?.
+Diocese of origin: Diocèse d'Arras..
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 7/09/2021..

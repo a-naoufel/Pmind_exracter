@@ -1,0 +1,7 @@
+PERSON: THOMAS Praepositus Parisiensis
+Also known as: THOMAS, prévôt de Paris.
+Description: Prévôt de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1229-1229%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 15/09/2023)..

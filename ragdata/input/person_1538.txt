@@ -1,0 +1,13 @@
+PERSON: BONFIGLIO d'Arezzo
+Also known as: BONFIGLIO; Bonfiglio d'AREZZO.
+Description: Maître de rhétorique.
+Status: Extérieur.
+Gender: male.
+Active during: %1255-1258%.
+Born in: Diocèse d'Arezzo ?.
+Diocese of origin: Italie (Toscane : Arezzo ?) ?.
+Studied at: ?.
+Academic grades obtained: Magister ?.
+University functions: Arezzo : maître de rhétorique dans le StudiumGenerale (communal) d'Arezzo, ca. %1255-1258%..
+Authored work: 'Dictamina', composed around ?.
+Source: http://sip.mirabileweb.it.

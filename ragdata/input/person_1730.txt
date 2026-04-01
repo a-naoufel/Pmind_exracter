@@ -1,0 +1,28 @@
+PERSON: CONRADUS Murensis
+Also known as: Conrad de MURE; Conradus de MURIS; Conradus MURENSIS.
+Description: Chanoine de Zürich.
+Status: Incertain.
+Gender: male.
+Active during: %1235-1281%.
+Born in: Alémanie (Argovie : Muri)..
+Studied at: ?.
+Academic grades obtained: Magister..
+Ecclesiastical positions held: Chanoine de Zürich (Grossmünster) %1246-1259% ;; Chantre de Zürich (Grossmünster) %1259-1281%..
+Authored work: 'Commentarium de sacramentis', composed around ?.
+Authored work: 'De orationes dominica (extrait du Comm. de sacramentis)', composed around ?.
+Authored work: '(Vers sur le Pater Noster)', composed around ?.
+Authored work: 'Laudes beatae Virginis super quinque Ave Maria', composed around ?.
+Authored work: 'Cathedrale Romanum', composed around ?.
+Authored work: 'Novus Graecismus', composed around %1244-1250%..
+Authored work: 'Summa de arte prosandi', composed around .
+Authored work: 'Liber de naturis animalium', composed around .
+Authored work: 'Fabularius', composed around ..
+Authored work: 'Liber Ordinarius (Breviarum chori Turicensis)', composed around ?.
+Authored work: 'Clipeus Teutonicarum', composed around ..
+Authored work: 'Catalogus Romanorum pontificum et imperatorum', composed around ?.
+Authored work: 'De propriis nominibus fluviorum et montium', composed around ?.
+Authored work: 'De victoria regis Rudolfi contra Odoacrem regem Bohemorum', composed around ..
+Authored work: 'Passio ss. Felicis et Regulae et Exuperantii'.
+Authored work: 'Vita sancti Martini', composed around ?.
+Authored work: 'Commendaticia Rudolfi regis Romanorum semper Augusti', composed around ?.
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

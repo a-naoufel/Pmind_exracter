@@ -1,0 +1,11 @@
+PERSON: ALANUS Gommier
+Also known as: Alanus GOMMIER.
+Description: Dominicain.
+Status: Gradué.
+Gender: male.
+Active during: %1452-1452%.
+Studied at: Paris %:1452-1452%..
+Academic grades obtained: Bachelier en théologie "biblicus" (Paris) ..
+College affiliation: Couvent des Jacobins en ..
+Religious order: O.P. : frère dominicain.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 2/06/2020)..

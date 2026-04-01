@@ -1,0 +1,14 @@
+PERSON: ARNALDUS de Dueren
+Also known as: Arnaldus de DUEREN.
+Description: Chanoine de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1457-1497%.
+Born in: Rhénanie ?.
+Diocese of origin: Diocèse de Cologne ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Clerc en ;; Prêtre en ;.
+Ecclesiastical positions held: Chanoine de Cambrai %1457-1497% ;.
+Other ecclesiastical functions: Gérant de l’hôpital de Cambrai (Saint-Julien) %1477-1478% et %1481-1482% ;; Vicairegénéral de Cambrai ;; Scelleur de l’évêque de Cambrai ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; Jean-Philippe Genet, dernière mise à jour 21/10/2025)..

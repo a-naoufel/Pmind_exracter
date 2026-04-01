@@ -1,0 +1,10 @@
+PERSON: EBRARDUS Carrerii
+Also known as: Evrardus CARRERII.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1410-1411%.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+Ecclesiastical positions held: Candidat à un bénéfice ecclésiastique ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 24/06/2021..

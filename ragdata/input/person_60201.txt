@@ -1,0 +1,11 @@
+PERSON: PETRUS Laillet
+Also known as: Petrus LAILLET.
+Description: Boursier du collège de Trésorier.
+Status: Étudiant.
+Gender: male.
+Active during: %1508-1508%.
+Born in: Normandie ?.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Boursier du collège du Trésorier en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

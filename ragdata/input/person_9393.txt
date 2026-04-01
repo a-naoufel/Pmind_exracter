@@ -1,0 +1,13 @@
+PERSON: NICOLAUS de Aemsterdam 2
+Also known as: Nicolaus de AEMSTERDAM; Nicolaus AEMSTELERDAMMIS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1412-1467%.
+Born in: Pays-Bas (Hollande : Amsterdam ?) ?.
+Diocese of origin: Diocèse d'Utrecht ?.
+Studied at: Paris (Nation Anglo-allemande) %1412-1467% ?.
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Johannes GUYLIE pour le baccalauréat en ; Son maître est Heynricus GORIKEM pour la licence en ; Son maître est Guillelmus LOCHEM pour la maîtrise en ;.
+University functions: Paris (Faculté des Arts : présenté en (28 mars) pour le premier mois comme examinateur des bacheliers in cameris ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/03/2023..

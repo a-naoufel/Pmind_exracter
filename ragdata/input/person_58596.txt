@@ -1,0 +1,13 @@
+PERSON: GERARDUS 3
+Also known as: GERARDUS.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1225-1232%.
+Born in: Silésie (Wroclaw ?) ?.
+Diocese of origin: Diocèse de Wroclaw ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) avant ..
+Religious order: O.P. : frère dominicain en ;.
+Religious functions: Provincial (dominicain) de Pologne ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 17/02/2025..

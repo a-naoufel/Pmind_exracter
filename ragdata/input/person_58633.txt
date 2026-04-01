@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Bolenc
+Also known as: Nicolaus BOLENC; Nicolaus VOLENT.
+Description: Bachelier en décret.
+Status: Maître.
+Gender: male.
+Active during: %1431-1431%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) en ;; Bachelier en décret (Paris) en ;.
+University functions: Paris (Lecteur des Décrétales (livre III) en (21 juin) pour la 1ere année et le 1er volume ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 25/02/2025..

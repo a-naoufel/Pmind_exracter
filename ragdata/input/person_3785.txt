@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Capelli
+Also known as: Guillelmus CAPELLI.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1475-1483%.
+Studied at: Paris %1475-1483%.
+Academic grades obtained: Licencié en théologie (Paris) (le 4 mars) ;; Docteur en théologie (Paris) (le 16 septembre) ..
+College affiliation: Couvent (augustin) de Paris (Grands-Augustins)..
+Religious order: O.E.S.A. : frère augustin..
+University functions: Paris (Faculté de Théologie : Lecteur des Sentences en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 01/03/2022)..

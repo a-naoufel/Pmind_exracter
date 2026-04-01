@@ -1,0 +1,9 @@
+PERSON: PETRUS Genevois
+Also known as: Petrus GENEVOIS; Petrus GENEVOYS; Petrus GENEVOIX.
+Description: Procureur au Châtelet.
+Status: Suppôt.
+Gender: male.
+Active during: %1418-1460%.
+Studied at: Paris ?.
+Academic grades obtained: Maître ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

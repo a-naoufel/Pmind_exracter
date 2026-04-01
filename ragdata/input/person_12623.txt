@@ -1,0 +1,11 @@
+PERSON: PETRUS Spel
+Also known as: Petrus SPEL.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1431-1433%.
+Studied at: Paris %1431-1433%..
+Academic grades obtained: Bachelier en théologie cursor (Paris) vers ..
+Religious order: O.S.B. : moine bénédictin..
+University functions: Paris (Faculté de Théologie : Lecteur de la Bible (1er cours) le 6 juin ) ;; Paris (Faculté de Théologie : Lecteur de la Bible (2e cours) le 7 juillet ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 07/04/2024..

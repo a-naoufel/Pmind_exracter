@@ -1,0 +1,16 @@
+PERSON: GUILLELMUS de Ardembourg
+Also known as: Guillaume d'ARDEMBOURG; Peut-être est-il identique à Guillaume de BARLO : mais c’est peu probable, celui-ci étant maintenant considéré comme identique à Gillelmus de BAGLIONE.; Guillaume d'ARDENBORCH.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1257-1270%.
+Born in: Flandres (Ardenboch, près de Bruges) ;.
+Diocese of origin: Diocèse de Tournai ?.
+Studied at: Paris %1257-1270%..
+Academic grades obtained: Maître en théologie (Paris)..
+College affiliation: Couvent (franciscain) de Paris %1257-1270%..
+Religious order: O.F.M : frère franciscain..
+Religious functions: Ministreprovincial (franciscain) de France %1257-1261%..
+University functions: ?Paris (Faculté de Théologie : maître-régent après ?) ;.
+Authored work: '(Sermon pour la fête de Ste Marie-Madeleine)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 29/03/2020..

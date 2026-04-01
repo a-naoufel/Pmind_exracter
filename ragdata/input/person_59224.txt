@@ -1,0 +1,10 @@
+PERSON: THEOBALDUS 8
+Also known as: THEOBALDUS.
+Description: Chanoine d'Auxerre.
+Status: Incertain.
+Gender: male.
+Active during: %1256-1257%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Auxerre %1456-1457% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 24/06/2025)..

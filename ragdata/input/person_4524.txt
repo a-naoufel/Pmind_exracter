@@ -1,0 +1,9 @@
+PERSON: HECTOR Boilledieu
+Also known as: Hector BOILLEDIEU; Hector BOYELEDIEU.
+Description: Étudiant en médecine.
+Status: Étudiant.
+Gender: male.
+Active during: %1500-1503%.
+Studied at: Paris %1500-1503%..
+Academic grades obtained: Étudiant en médecine (Paris) %1500-1503%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 18/06/2022)..

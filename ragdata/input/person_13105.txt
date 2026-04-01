@@ -1,0 +1,13 @@
+PERSON: MATTHAEUS Chevalier
+Also known as: Mathieu CHEVALIER; Matheus CHEVALIER.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1510-1513%.
+Born in: Lyonnais ?.
+Diocese of origin: Diocèse de Lyon..
+Studied at: Paris (Collège de Montaigu) %:1510:-:1513:%..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en théologie (Paris) %:1512:-:1513:%..
+College affiliation: Etudiant au collège de Montaigu à Paris, %:1510:-:1513:%..
+Ecclesiastical status: Prêtre du diocèse de Lyon..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 02/02/2023..

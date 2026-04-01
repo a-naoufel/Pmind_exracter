@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Testardi
+Also known as: Guillelmus TESTARDI.
+Description: Chanoine non reçu de Besançon.
+Status: Incertain.
+Gender: male.
+Active during: %1432-1432%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse d'Autun ;.
+Studied at: ?.
+Academic grades obtained: Bachelier en droit canon ;.
+Ecclesiastical positions held: Chanoine (non reçu) de Besançon en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/04/2022)..

@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Menilis
+Also known as: Guillelmus de MENILIS; Guillaume de MENILIS.
+Description: Boursier au collège de Navarre..
+Status: Étudiant.
+Gender: male.
+Active during: %1351-1351%.
+Studied at: Paris (Collège de Navarre) %1351-1351%..
+Academic grades obtained: Étudiant en théologie (Paris) ..
+College affiliation: Boursier théologien au collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 04/05/2015 ; révision Jean-Philippe Genet, 2/04/2022..

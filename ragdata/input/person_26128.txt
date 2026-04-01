@@ -1,0 +1,13 @@
+PERSON: HUTINUS Medici
+Also known as: Hutinus MEDICI.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1402-1403%.
+Born in: Paris ;.
+Diocese of origin: Diocèse de Paris ?.
+Studied at: Paris (Nation de France) %:1402-1403%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Bachelier en décret (Paris) ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Rotulus licentiatorum et bacallariorum in decretis Parisius adressé à BENOÎT XIII en ;.
+University functions: Paris (Faculté de Décret : lecteur %1402-1403%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 12/05/2019..

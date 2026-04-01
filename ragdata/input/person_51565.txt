@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Masculi
+Also known as: Guillelmus MASCULI; Guillaume LEMASLE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1440-1440%.
+Academic grades obtained: Maître ès arts (Paris) ?.
+College affiliation: Collège de Lisieux ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 25/11/2020)..

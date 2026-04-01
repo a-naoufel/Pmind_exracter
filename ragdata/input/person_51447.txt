@@ -1,0 +1,13 @@
+PERSON: LUDOVICUS de Senis
+Also known as: Ludovicus de SENIS.
+Description: Ermite de Saint Augustin.
+Status: Étudiant.
+Gender: male.
+Active during: %1358-1358%.
+Born in: Italie (Toscane : Sienne) ?.
+Diocese of origin: Diocèse de Sienne ?.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Couvent (Augustin) de Paris (Grands-Augustins)..
+Religious order: O.E.S.A. : frère augustin..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe GENET 6/11/2020)..

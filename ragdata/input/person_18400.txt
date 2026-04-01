@@ -1,0 +1,10 @@
+PERSON: DOCARDUS de Emelisse
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Born in: Pays-Bas ?.
+Diocese of origin: Diocèse d'Utrecht ?.
+Studied at: Paris ..
+Academic grades obtained: Maître (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ rédaction, Jean-Philippe Genet, dernière mise à jour 8/06/2021..

@@ -1,0 +1,24 @@
+PERSON: PETRUS Comestor
+Also known as: Petrus COMESTOR; Petrus MANDUCATOR; Pierre le MANGEUR.
+Description: Chancelier de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1120-1179%.
+Born in: Champagne (Troyes) ;.
+Diocese of origin: Diocèse de Troyes ?.
+Studied at: Paris.
+Academic grades obtained: Maître en théologie (Paris)..
+Academic relationships: Son maître est Pierre LOMBARD pour la théologie, à partir de ..
+Religious order: Chanoinerégulier de Paris (Saint-Victor) %1170-1179%..
+Ecclesiastical positions held: Chanoine de Troyes (Saint-Loup) ;; Doyen de Troyes (Saint-Loup) %1147-1164% ;; Chancelier de Paris (Notre-Dame) %1164-1170%..
+University functions: Paris (Maître-régent en théologie %1158-1169%) ;.
+Authored work: 'De sacramentis', composed around ?%1165-1170%..
+Authored work: 'Glossa in Evangelia', composed around ?.
+Authored work: 'Materia super libros Sententiarum', composed around ? <<c>> MS. Eton, Eton College Libr. 48 (Bk 4 12) ;.
+Authored work: 'Quaestiones', composed around ?.
+Authored work: 'Sermones', composed around ? <<c>> MS. Admont, StiftsB 553 ;.
+Authored work: 'Versus de beatae Mariae Virginae', composed around ?.
+Authored work: 'Historia scholastica', composed around ?.
+Authored work: 'De spiritu et anima', composed around ?.
+Authored work: 'Historia actuum apostolorum', composed around ?.
+Source: FAMA.

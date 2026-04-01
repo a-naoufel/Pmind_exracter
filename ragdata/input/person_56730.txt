@@ -1,0 +1,12 @@
+PERSON: PETRUS Doneti
+Also known as: Petrus DONETI.
+Description: Chanoine de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1474-1487%.
+Studied at: ?.
+Academic grades obtained: Bachelier in utroque jure ;; Licencié in utroque jure ;.
+Family relationships: Son parent est Huguetus DONETI, prévôt de Thiers (Saint-Geniès) ;.
+Ecclesiastical positions held: Chanoine de Clermont %1474-1483% ;; Archidiacre de Cusset %1474-1483% ;; Chanoine de Mende %1475-1487% ;.
+Other ecclesiastical functions: Vicairegénéral de Mende %1474-1479% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/10/2023..

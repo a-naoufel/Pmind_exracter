@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Fabri 9
+Also known as: Guillelmus FABRI.
+Description: Maître d’école.
+Status: Suppôt.
+Gender: male.
+Active during: %1444-1444%.
+Studied at: Paris ..
+Academic grades obtained: Magister ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 1/09/2020..

@@ -1,0 +1,12 @@
+PERSON: NICOLAUS Repus
+Also known as: Nicolaus REPUS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1445-1447%.
+Diocese of origin: Diocèse de Tournai ;.
+Studied at: Paris (Nation de Picardie) %1445-1447%.
+Academic grades obtained: Maître ès arts (Paris) %1445-1447% ;.
+College affiliation: Sorbonne ;.
+University functions: Paris (Faculté des Arts : il préside une congrégation en (3 novembre)) ;; Paris (Faculté des Arts : il participe à une congrégation en (15 novembre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 04/04/2023..

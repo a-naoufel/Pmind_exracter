@@ -1,0 +1,10 @@
+PERSON: ODO Grasseti 1
+Also known as: Odo GRASSETI.
+Description: Conseiller-clerc au Parlement.
+Status: Incertain.
+Gender: male.
+Active during: %1345-1373%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical status: Clerc..
+Source: Paris au Moyen Âge : les Parisiens :.

@@ -1,0 +1,10 @@
+PERSON: THOMAS Leporis
+Also known as: Thomas LEPORIS; Thomas LELIÈVRE.
+Description: Chantre de la chapelle pontificale.
+Status: Incertain.
+Gender: male.
+Active during: %1444-1475%.
+Studied at: ?.
+Academic grades obtained: Licencié en droit canon ;.
+Ecclesiastical positions held: Curé de Rouen (Saint-Laurent) %1464-1467% ;; Chanoine de Laon ;; Chanoine de Rouen %1469-1475% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 1/11/2021..

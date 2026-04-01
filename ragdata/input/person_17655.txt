@@ -1,0 +1,12 @@
+PERSON: GUIDO Monnyer
+Also known as: Guido MONNYER.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1484-1484%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Meaux..
+Studied at: Paris %1484-1484%..
+Academic grades obtained: Bachelier en décret (Paris) 31 mars ..
+Religious order: O.Ss.T..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 03/02/2022)..

@@ -1,0 +1,25 @@
+PERSON: FRANCISCUS de Marchia
+Also known as: Franciscus de MARCHIA; Franciscus RUBEUSdeMARCHIA; Franciscus RUBEUS; Franciscus de ESCULO; Franciscus de PIGNANO; Franciscus d’APPIGNANO; François de laMARCHE.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1315-1344%.
+Born in: Italie (Marches : AppignanodelTronto) ;.
+Diocese of origin: Diocèse d’AscoliPiceno..
+Studied at: Paris %1310-1321% ;; Avignon ..
+Academic grades obtained: Bachelier en théologie (Paris) %1319-1320%.; Maître en théologie (Paris) vers ;.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) %1310-1321% au moins..
+Religious order: O.F.M. : frère franciscain ;.
+Religious functions: Provincial (franciscain) de la Marched'Ancône, %1327-1332%..
+University functions: Paris (Faculté de Théologie : Lecteur des Sentences %1319-1323%) ;; Avignon (Lecteur au studium franciscain), ..
+Authored work: '(Commentaire sur les Sentences)', composed around %1319-1320% à Paris ?.
+Authored work: 'Quodlibeta', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Sermo "Utrum nativitas Christi fuerit naturalis vel supernaturalis"', composed around ?.
+Authored work: 'Quaestiones super Metaphysicam', composed around %1319-1320% à Paris ?.
+Authored work: 'Sententia et compilatio super libros Physicorum Aristotelis', composed around ?.
+Authored work: '(Reprobatio I)', composed around .
+Authored work: '(Reprobatio II)', composed around .
+Authored work: 'Contra Destitutionem Iacobi de Cathurco', composed around ?.
+Authored work: 'Absolutio et Confessio Fratris Francisci de Esculo de Ordine Minorum', composed around ?.
+Source: Répertoire des auteurs franciscains préparé par Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress ("Franciscus (Rubeus) de Marchia") : //http://users.bart.nl/~roestb/franciscan/index.htm.

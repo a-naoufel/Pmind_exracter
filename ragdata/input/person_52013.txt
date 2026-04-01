@@ -1,0 +1,12 @@
+PERSON: SIMON Evrardi de Fonteneto
+Also known as: Simon EVRARDI de Fonteneto.
+Description: Cistercien.
+Status: Gradué.
+Gender: male.
+Active during: %1432-1433%.
+Studied at: Paris ..
+Academic grades obtained: Bachelier (curseur) en théologie (15 novembre pour le premier cours)..
+College affiliation: Collège des Bernardins ?.
+Religious order: O.Cist. : moine de l’abbaye (cistercienne) de Fontenay..
+University functions: Paris (Faculté de Théologie : lecteur curseur en %1432-1433%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/03/2021)..

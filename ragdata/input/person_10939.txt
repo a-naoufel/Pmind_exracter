@@ -1,0 +1,12 @@
+PERSON: ROBERTUS Le Masuyer
+Also known as: Robert LE MASUYER; Robert MASUYER; Robert LE MASURIER; Robert MASURIER.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1486-1516%.
+Born in: ?Poitou (Poitiers) ;.
+Diocese of origin: Diocèse de Poitiers ?.
+Studied at: Paris (Nation de France) %1489-1516%..
+Academic grades obtained: Étudiant en médecine (Paris) à partir de %1486-1487% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ;.
+University functions: Paris (Faculté de médecine : doyen en %1514-1516%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 26/08/2024..

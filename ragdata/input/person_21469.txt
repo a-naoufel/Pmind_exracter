@@ -1,0 +1,11 @@
+PERSON: Frater Archidiaconi Scocie
+Also known as: Frater Archidiaconi SCOCIE.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Born in: Écosse ?.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant (Paris ?) ?.
+Family relationships: Son frère est un archidiacre d'Écosse ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 18/09/2021..

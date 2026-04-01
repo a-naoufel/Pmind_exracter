@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Melun 1
+Also known as: Guillelmus de MELUN; Guillermus de MELUN.
+Description: Notaire..
+Status: Extérieur.
+Gender: male.
+Active during: %1476-1483%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 04/05/2015..

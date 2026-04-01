@@ -1,0 +1,7 @@
+PERSON: GUIDO Praepositi
+Also known as: Guido PRAEPOSITI.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..

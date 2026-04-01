@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Celsoy 2
+Also known as: Guillaume de CELSOY.
+Description: Conseiller au parlement de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1388-1432%.
+Studied at: ?.
+Academic grades obtained: Maître ?.
+Source: Bibliographie et chronologie de Paris au Moten Âge :.

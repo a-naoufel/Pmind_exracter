@@ -1,0 +1,10 @@
+PERSON: PETRUS de Aisy
+Also known as: Petrus de AISY.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1331-1331%.
+Studied at: Paris ..
+Academic grades obtained: Magister (Paris) avant ..
+College affiliation: Collège de Sorbonne : ?socius ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 13/03/2020..

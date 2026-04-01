@@ -1,0 +1,12 @@
+PERSON: HUGO Fabri de Vimiaco
+Also known as: Hugo FABRI; Hugo Fabri de VIMIACO; Hugues FABRI.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1331-1335%.
+Born in: Artois (Vimy)..
+Diocese of origin: Diocèse d'Arras ?.
+Studied at: Paris %:1331-1335%..
+Academic grades obtained: Bachelier en médecine (Paris) %1331-1332% ;; Maître en médecine (Paris) ..
+Ecclesiastical positions held: Chapelain à Arras (Sainte-Croix) ;; Provision pour un canonicat avec expectative de prébende de Douai (églisecollégiale Saint-Amé) en réponse au rotulus de l'Université de Paris en : mandat à l'abbé (O.S.A.) de Paris (Sainte Geneviève), à l'abbé (O.S.A.) du Mont-Saint-Éloi et au prévôt d'Arras ;.; Chanoine de Douai (églisecollégiale Saint-Amé) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 13/03/2020..

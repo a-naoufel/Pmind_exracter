@@ -1,0 +1,11 @@
+PERSON: PETRUS de Villa Petrosa
+Also known as: Petrus de VILLA PETROSA.
+Description: Pierre de VILLEPREUX.
+Status: Maître.
+Gender: male.
+Active during: %1270-1299%.
+Studied at: Paris..
+Academic grades obtained: Magister..
+Ecclesiastical positions held: Doyen de Paris (Saint-Marcel)..
+University functions: Paris (Sorbonne : proviseur %1288-1299%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 4/02/2021)..

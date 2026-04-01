@@ -1,0 +1,9 @@
+PERSON: PETRUS Le Maine
+Also known as: Petrus LE MAINE.
+Description: Procureur au Parlement.
+Status: Incertain.
+Gender: male.
+Active during: %1394-1408%.
+Studied at: ?.
+Academic grades obtained: Maître ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

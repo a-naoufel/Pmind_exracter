@@ -1,0 +1,12 @@
+PERSON: PETRUS Lorin
+Also known as: Pierre LORIN.
+Description: Chapelain au Collège de Laon.
+Status: Étudiant.
+Gender: male.
+Active during: %1456-1462%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie) %1456-1462% ;.
+Academic grades obtained: Étudiant en théologie (Paris) %1456-1462% ;.
+College affiliation: Collège de Laon : boursier en médecine %1456-1462% ;; Collège de Laon : boursier en théologie %1456-1462% ;; Collège de Laon : chapelain de Cerny %1456-1462% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 26/01/2024..

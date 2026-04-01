@@ -1,0 +1,11 @@
+PERSON: GALFREDUS de Belgrave
+Also known as: Geoffroy de BELGRAVE.
+Description: Recteur de Cornwell.
+Status: Extérieur.
+Gender: male.
+Active during: %1293-1306%.
+Born in: Angleterre..
+Studied at: Oxford..
+Academic grades obtained: Magister (Oxford)..
+Ecclesiastical positions held: Recteur de Cornwell (Oxfordshire) %1293-1306%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 6/10/2021..

@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Aubespin
+Also known as: Guillaume AUBESPIN.
+Description: Procureur du Collège de Dormans-Beauvais.
+Status: Suppôt.
+Gender: male.
+Active during: %1419-1422%.
+Studied at: Paris %1419-1422%..
+Academic grades obtained: ?.
+College affiliation: Collège de Dormans-Beauvais : procureur %1419-1422% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 20/02/2022..

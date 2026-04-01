@@ -1,0 +1,10 @@
+PERSON: GILBERTUS Phisicus
+Also known as: Gilbertus dictus PHISICUS; Gilbertus de MESVILER.
+Description: Chanoine d'Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1245-1245%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Chanoine d'Amiens % -1245% ;; FEG: I, Amiens, n° 516 (P. DESPORTES et H. MILLET)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 16/01/2022..

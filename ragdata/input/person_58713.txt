@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Juvenis 3
+Also known as: Nicolaus JUVENIS.
+Description: Chantre de Sainte-Geneviève.
+Status: Gradué.
+Gender: male.
+Active during: %1430-1438%.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en décret (Paris) (31 août) ;.
+Religious order: O.S.A. : chanoinerégulier de Sainte-Geneviève ;.
+Religious functions: Chantre de Sainte-Geneviève en ;; Sous-prieur de Sainte-Geneviève en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 27/03/2025..

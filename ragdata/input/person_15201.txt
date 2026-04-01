@@ -1,0 +1,111 @@
+PERSON: SYMPHORIEN Champier
+Also known as: Symphorien CHAMPIER.
+Description: Médecin..
+Status: Étudiant.
+Gender: male.
+Active during: %1491-1539%.
+Born in: Lyonnais (Lyon ou Saint-Symphorien-sur-Coise, dans les monts du Lyonnais ?)..
+Diocese of origin: Diocèse de Lyon..
+Studied at: Paris ;; Montpellier.; Pavie ..
+Academic grades obtained: Étudiant ès arts (Paris) %1496-1498% ;; Maître en médecine (Montpellier) avant .; ??Maître en théologie ;.
+Family relationships: Son père est ?Claude CHAMPIER, bourgeois notable ; Sa mère est Marguerite GIRARD ; Sa femme est Marguerite TERRAIL, fille d'Yves TERRAIL, seigneur de Bernein ; Son fils est Antoine CHAMPIER ; Son fils est Claude CHAMPIER..
+Representation roles: Accompagne le duc de Calabre en Italie en ..
+Authored work: 'De legum divinarum conditoribus una cum impugnatione secte machometrice quam Arabes Alchoranum vocant …', composed around ?.
+Authored work: 'Dyalogus domini Symphoriani Champerii et Sebastiani Coppini mollissoniensis in lege Machometorum', composed around ?, dedicated to Dédié à François de ROHAN, archevêque de Lyon..
+Authored work: 'Evangelice christianeque religionis ex scriptis gentilium et poetorum et philosophorum … comprobatio', composed around ?, dedicated to Dédié à Jacques d’AMONCOUR, vicairegénéral de Lyon..
+Authored work: 'Epistolae divi patris Antonii', composed around ?.
+Authored work: 'Epistolae sanctissimorum patrum', composed around ?.
+Authored work: 'Mirabilium divinorum humnorumque volumina quattuor. Primum videlicet de mirabilibus Sacre Scripture ; secundum, de mirabilibus propositionibus beatissimi Apuli apostoli : tertium, de propugnaculo religionis christiane ; quartum, de mirabilibus mundi secundum Ptholomeum, peruncide a domino Simphoriano … distincta', composed around ?.
+Authored work: 'Evangelistarum Symphonia de Lazaro Martha et Maria', composed around ?.
+Authored work: 'Symphoriani Campegii Episola in libros Santi pagnini Lucensis Lucensis ad Franciscum a Turnone bituricensis ecclesiae antistem…', composed around ..
+Authored work: 'Isagoge in grammaticam et logicam cum denotatione realium vanitatum a elucidatione nominalium vanitatum', composed around ?.
+Authored work: 'De triplici disciplina cujus partes sunt Philosophia naturalis. Medicina. Theologia. Moralis philosophia naturalis philosopihe ac medicine, unacum philosophie platonica domini Simphoriani Champerii', composed around ?.
+Authored work: 'Theologie orphice Symphoriani Champerii aurei libri tres', composed around ?.
+Authored work: 'Theologie trismegistice eiusdem domini Simphoriani de secretis et mysteriis Egyptiorum particule XII', composed around ?.
+Authored work: 'Justinis philosophi et matyris christiani admonitorius gentium', composed around ?.
+Authored work: 'Liber de quadruplici vita. Theologia Asclepii Hermetis Tresmigisti discipuli cum commentariis S. Ch.', composed around ?.
+Authored work: 'Sixti philosophi pythagorici enchiridion', composed around ?.
+Authored work: 'Periarchon … de principiis platonicarum disciplinae omniusque doctrinarum', composed around ?.
+Authored work: 'Symphoriani Champerii philosophi ac medici ingenio eruditioneq[ue] summi uiri Libri VII de dialectica, rhetorica, geometria, arithmetica, astronomia, philosophica naturali, medicini theologica : et de legibus repub. eaq[ue] parte philosophiae quae de moribus tractat. Atq[ue] haec omnia sunt tractata ex Aristotelis Platonis sententia', composed around .
+Authored work: 'Isocratis ad Demonicam oratio perceptiva', composed around ?.
+Authored work: 'Demostheni oratio', composed around ?.
+Authored work: 'Halcyon Platonis', composed around ?.
+Authored work: 'Epistola Lenis imperatoris ad Amarum regem Saracenorum de religione christiana', composed around ?.
+Authored work: 'Janua logice et physice', composed around ..
+Authored work: 'Dyalogus ... in magicarum artium destructionem', composed around .
+Authored work: 'Additamenta errata et castigationes in Petri Aponensis opera … Item annotationes errata et somnia Petri Paduensis quem nostri conciliatorem vocant praeclarissimis viris artium medicinarum doctoribus Francesco Dalais et Christophoro Champerio regiae maiestatis consiliariis et medicis dignissimis', composed around .
+Authored work: 'Simphoriani preterea cribationes contra eum Conciliatorem', composed around ..
+Authored work: 'Pronosticon libri tres, quorum primus est de pronosticis super presagiis prophetarum, secundus de presagiis astrologuorum, tertius de presagiis medicorum', composed around ?.
+Authored work: 'Epistola campegiana de transmutatione metallorum', composed around ?.
+Authored work: 'Le Guidon en françoys', composed around ?.
+Authored work: 'De medicine claris scriptoribus in quinque partibus tractatus', composed around ?, dedicated to Dédié à Gonsalve TOLEDO, médecin de la reine..
+Authored work: 'Aphorismi sive collectiones medicinales', composed around ?, dedicated to Dédié à Jean LAURENCIN, protonotaire du Saint-Siège..
+Authored work: 'De corporum animorumque morbis … duos partitum libellus. Primus introductivus est in practicam Galeni. Secundus egritudinum animarum curativus', composed around ?, dedicated to Dédié à Philibert NATUREL, prévôt d’Utrecht..
+Authored work: 'Liber quartus ethymologiarum sancti Isidori qui est de medicina cum interpretatione domini Symphoriani Champerii', composed around ?.
+Authored work: 'Silva medicinales de simplicibus cum nonnullis in medice facultatis praxim introductoriis', composed around ?.
+Authored work: 'Practica nova in medicinae … De omnibus morborum generibus … Item … Liber de omnibus generibus febrorum', composed around ..
+Authored work: 'Officina apothecariorum, seu seplasiariorum, pharmacopolarum, ac juniorum medicorum Nicolaum.', composed around ..
+Authored work: 'Speculum Galeni', composed around ., dedicated to Dédié à Françoi de ROHAN, archevêque de Lyon..
+Authored work: 'Rosa Gallica aggregatoris Lugdune[n]sis domini Symphoriani Cha[m]perii omnib[us] sanitatem affectantibus utilis necessaria', composed around %1512-1514%., dedicated to Dédié à Etienne PONCHER, évêque de Paris pour la première partie (Rosa Gallica) en ;.
+Authored work: 'Symphonia Platonis cum Aristotele et Galeni cum Hippocrate', composed around ?.
+Authored work: 'Cribratio, lima et annotatione in Galieni, Avicenne et Conciliatoris Opera', composed around ?.
+Authored work: 'In libros demonstrationum Galeni Cathegoriae medicinales', composed around ?.
+Authored work: 'Epithome commentariorum Galeni in Hippocratis libros cohi. Primus Aphorismorum. Secundus Pronosticorum. Tertius Regiminis acutorum morborum. Quartus Episimiarum. … Centiloquium Isagogicum in libros Hippocratis', composed around ?, dedicated to Dédié à Pierre TRÉMOLET, médecin du roi et à Albert du PUY, médecin de la reine..
+Authored work: 'Ars parva Galeni pergameni … Item domini Symphoriani Champerii … in artem parvam … Item addiciones Haly', composed around ?.
+Authored work: 'Medicinale bellum inter Galenum et Aristotelem gestum quorum hic cordi, ille autem cerebro favebat', composed around ou ?.
+Authored work: 'Iohannis Herculani veronensis Expositio perutilis in primam Fen quarti canonis Avicenne', composed around ?, dedicated to Dédié à Francescus de BOBIO, Rusticus de PLAISANCE, Mattheus de CURTE et Regulus CAMPESIUS, les principaux docteurs de l’université de Pavie..
+Authored work: 'Arnaldi de Villanova medicii … opera revisa. Addictus est etiam Tractatus de philosophorum lapide', composed around ?.
+Authored work: 'Tractatus de philosophorum lapide', composed around ?.
+Authored work: 'Liber canonis totius medicine ab Avicenne', composed around ..
+Authored work: 'Annotatamenta et castigationes et errata in Avicenne opera', composed around ., dedicated to Dédié à Robert COBHURN, évêque de Ross..
+Authored work: 'Domini Mesue vita. Doctorum artis peonie cognomina. Canones universales divi Mesue de consolatione medicinarum et correctione operationum earundem. Grabadin ejusdem Mesue medicinarum universalium quod antidotarium nuncupatur. Liber ejusdem medicinarum particularium. Addito Petri Apponi medici clarissimi in librum Joa. Mesue. Antidotarium domini Nicolai. Cophonis inter medicos celebris isagoge. Sumula Jacobi de ptib alphabetum super plurimis remediis ex antidotario ... Mesue excerptis', composed around ..
+Authored work: 'Mesue vita', composed around ..
+Authored work: 'Doctorum artis peonie cognomina', composed around ..
+Authored work: 'Myrouel des appothiquaires', composed around ., dedicated to Dédié à Jean GEOFFREY..
+Authored work: 'Symphonia Galeni ad Hippocratem, Cornelii Celsi ad Avicennam', composed around ?.
+Authored work: 'Clysteriorum campi contra Arabum opinionem, pro Galeni sententia ac omnium Graecorum medicorum doctrina, a Symphoriano contra communem Arabum ac Poenorum traditionem summa cum diligentia congesti, ac in lucem propagati', composed around ?.
+Authored work: 'Primus, secundus, tritius operum Galenis', composed around ?.
+Authored work: 'Les lunettes des syrurgiens françois et autres auxquelles sont demonstres les principes de cyrurgie', composed around ?.
+Authored work: 'Castigationes seu emendationes pharmacopolarum, sive apothecariorum, ac Arabum medicorum Mesuae, Serapionis, Rasis, Alpharabii, aliorum juniorum medicorum, a omino Symphoriano Campegio equite aurato, ac Lotharingorum archiatro in quatuor libros ac tomos divisæ : in quas quicquid apud Arabes erratum fuerit summa cum diligentia congestum est. Liber primus De simplicibus medicamentis, quo docentur errata seplasiarum pharmacopolarum, sive aromathariorum, ac recentium medicorum, additis eorundem confutationibus. Liber secundus in quo continentur castigationes in antidotarium seu Grabadin Joannis Mesuæ, Nicolai, Serapionis, ac aliorum recentiorum medicorum. Liber tertius est de ingenio curandorum corporum per medicinas laxativas. Liber quartus complectitur curationes ac remedia ægritudinum principalium humani corporis. Quibus adjungitur officina apothecariorum, juniorum medicorum. Item de phlebotomia sive sanguinis missione, præsertim in pleuritide, ex opinionibus Græcorum, quorum dicta in plærisque non intellexerunt Arabes. Item de vinis febricitantium ex traditionibus Græcorum, Arabum, Pœnorum, ac confirmationibus sacrarum literarum', composed around ., dedicated to Dédié au Cardinal François de TOURNON, archevêque de Bourges..
+Authored work: 'Claudii Galeni Pergameni historiales campi … In quatuor libros congesti, et commentariis non poenitendis illustrati', composed around ..
+Authored work: 'Hortus Gallicus, pro Gallis in Gallia scriptus … in quo Gallos in Gallia omnium aegritudinum remedia reperire docet, nec medicaminibus egere peregrins', composed around ..
+Authored work: 'Campus Elysius Galliae', composed around ., dedicated to Dédié au Cardinal François de TOURNON, archevêque de Bourges..
+Authored work: 'De theriaca libellus', composed around ., dedicated to Dédié à Barthélemy ARGENTIERE et à Baptiste de FERRARE, médecins de Pavie..
+Authored work: 'Apologetica epistola responsiva pro Graecorum defensione in Arabum errata', composed around ?.
+Authored work: 'Epistola responsiva in defensione Avicenne Leonardi Frisii', composed around ?.
+Authored work: 'Gallicum pentapharmacum Rhabarbaro, Agarico, Manna, Terebenthina, et sene Gallicis constans', composed around ..
+Authored work: 'Cribratio Medicamentorum in sex Libros digesta', composed around ., dedicated to Dédié à Pompone TRIVULCE..
+Authored work: 'De curatione pleuritidis per venae sectionem', composed around ..
+Authored work: 'Commentarii in definitiones Asclepii', composed around ?.
+Authored work: 'La nef des dames vertueuses', composed around ..
+Authored work: 'De musica', composed around ?.
+Authored work: 'Tropheum Gallorum quadruplem eorumdem complectens historiam. I. De ingressu Ludovicum XII in urbem Genuam', composed around ?.
+Authored work: 'Tropheum Gallorum quadruplem eorumdem complectens historiam. II. De eiusdem victoria in Genuensem', composed around ?.
+Authored work: 'Tropheum Gallorum quadruplem eorumdem complectens historiam. III. Regum Francorum Genealogia', composed around ?.
+Authored work: 'Tropheum Gallorum quadruplem eorumdem complectens historiam. IV.1. De claris Lugdunensibus', composed around ?.
+Authored work: 'Tropheum Gallorum quadruplem eorumdem complectens historiam. IV.2. De Gallorum scriptoribus', composed around ?.
+Authored work: 'Tropheum Gallorum quadruplem eorumdem complectens historiam. IV.3. De Gallis summis pontificibus', composed around ?.
+Authored work: 'De origine civitatis Lugdunensis', composed around ?.
+Authored work: 'De republica lib. Italie et Gallie panegyricum', composed around ?.
+Authored work: 'Ludovici Bolognini de quattuor singularibus in Gallia repertis', composed around ?.
+Authored work: 'Le triumphe du tres chrestien roy de France Loys XII de ce nom contenant lorigine et la declination des veniciens avec l’annee duduct Roy et celle desdictz veniciens. Et aussi un petit traictie contenant les lignees des roys de France et comment les generations sont descendues lune de lautre : et comment elles sont faillies. Declairant aussi en brief combien ils ont regne et en quel temps et de leurs faictz et ou ils gisent. Et du fondement de Lutesse dicte maintenant Paris', composed around ?, dedicated to Dédié à Hugues de HASARDS, évêque de Toul..
+Authored work: 'Le recueil ou croniques des hystoires des royaulmes d'Austrasie ou France orientale dite à présent Lorrayne, de Hierusalem, de Cicile, et de la duché de Bar. Ensemble des sainctz contes et évesques de Toulx, contenant sept livres tant en latin que en françoys... par maistre Simphorien Champier', composed around ., dedicated to Dédié à Louise de SAVOIE, comtesse d’Angoulême..
+Authored work: 'Les grans croniques des gestes et vertueux faictz des très excellens catholicques illustres et victorieux ducz et princes des pays de Savoye et Piemont. Et tant en la saincte terre de Jherusalem comme es lieux de Sirie Turquie Egipte Cypre Italie Suysse Daulphine et autres plusieurs pays Ensemble les genealogies et antiquitez de Gaulle et des tres-chrestiens magnanimes et tres redoubtez roys de France avecques aussi la genealogie et origene des dessuzditz ducz et princes de Savoye', composed around ..
+Authored work: 'Duellum epistolare Galliae et Italiae antiquitates', composed around ..
+Authored work: 'Épître à Bayard après le siège de Mézières', composed around (? Septembre, un mois après le siège de Mézières, pour la première version) et (seconde version)..
+Authored work: 'Les gestes ensemble la vie du preulx chevalier Bayard: avec la genealogie: comparaisons aulx anciens preulx chevaliers: gentilx, israelitiques: et chrestiens. Ensemble oraisons: lamentations: epitaphes du dit chevalier Bayard. Contenant plusieurs victoyres des roys de France, Charles VIII, Loys XII et Françoys premier de ce nom', composed around %1524-1525%, dedicated to Dédié à Melin de SAINT-GELAIS ;.
+Authored work: '(Sur la sépulture du chevalier Bayard)', composed around .
+Authored work: 'Cy commence ung petit livre de l’antiquité, origine et noblesse de la très antique cité de Lyon', composed around ..
+Authored work: 'De la rebeyne et conjuration ou rebellion du populaire de ladicte ville contre les conseilliers de lacité … à cause des bledz …', composed around ?.
+Authored work: 'Hierarchie de Saint Jehan de Lyon', composed around ?.
+Authored work: 'Du royaume des Allobroges avec l’antiquité et origine de Vienne sus le Rosne', composed around ?.
+Authored work: 'De monarchia gallorum campi aurei : ac triplici imperio, videlicet romani ; gallico, germanico cum gestis heroum ac omnium imperatorum', composed around ?.
+Authored work: 'De antiqua nobilitate domus Turnoniae', composed around ?.
+Authored work: 'Un petit traité des Fleuves Fontaines admirables, estans esdictes Gaules. Histoire tresutile delectable, nouvellement mise en lumiere', composed around ?.
+Authored work: 'L’histoire de Palanus', composed around ?.
+Authored work: 'La Nef des princes et des batailles de noblesse, avec le chemin pour aller à l'ospital et aultres enseignemens … Item plus le regime d’un ieune prince et les prouerbes des princes et aultres petitz liures … par maistre Simphorien Champier', composed around ;, dedicated to Les différentes parties sont dédiées, ou écrites à la demande de, Charles de BOURBON, évêque de Clermont, Antoine de POMPADOUR, Jean de CASTELNAU, François de SENILLE, Jean de NEUFVILLE, Gabriel de LÉVIS, François ROBERTET et Jacques ²ROBERTET ;.
+Authored work: 'Le dialogue de noblesse', composed around ?.
+Authored work: 'Lenseignement et doctrinal par maniere de testament du bon Roy Regné dernier dict roi de Sicile et de Iherusalem', composed around ;.
+Authored work: 'L’ordre de chevalerie', composed around ?.
+Authored work: 'Les nouvelles venues à Lyon de la reception de nos seigneurs les Dauphin et Duc Dorléans en France', composed around ?.
+Source: Base JONAS, I.R.H.T. :.

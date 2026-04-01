@@ -1,0 +1,9 @@
+PERSON: HENRICUS Dalami
+Also known as: Henricus DALAMI; Henri DALAMI.
+Description: Licencié en médecine à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1396-1398%.
+Studied at: Paris (Nation de France) %:1396-1398%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 25/06/2022..

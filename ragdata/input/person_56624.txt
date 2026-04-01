@@ -1,0 +1,10 @@
+PERSON: THEOBALDUS 1
+Also known as: THEOBALDUS; THIBAUD.
+Description: Évêque de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1143-1159%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Évêque de Paris %1143-1159%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/09/2023)..

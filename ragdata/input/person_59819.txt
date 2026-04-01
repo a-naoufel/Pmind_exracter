@@ -1,0 +1,11 @@
+PERSON: GERARDUS de Berck
+Also known as: Gerardus de BERCK.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1477-1477%.
+Born in: Pays-Bas ?.
+Diocese of origin: Diocèse de Utrecht ;.
+Studied at: Paris (Nation Anglo-allemande) ;.
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 15/09/2025..

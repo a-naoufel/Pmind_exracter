@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Ade
+Also known as: Guillelmus ADE.
+Description: Maitre-Régent.
+Status: Maître.
+Gender: male.
+Active during: %1450-1450%.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+Academic relationships: Son élève est Philibertus COLITHAURI pour la maîtrise en ;.
+University functions: Paris (Nation de France ; Maître-régent en ?)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 3/10/2021..

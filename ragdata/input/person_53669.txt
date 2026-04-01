@@ -1,0 +1,12 @@
+PERSON: HENRICUS de Jauche
+Also known as: Henricus de JAUCHE.
+Description: Élu de Liège.
+Status: Étudiant.
+Gender: male.
+Active during: %1200-1200%.
+Born in: Brabant (Jauche ?) ?.
+Diocese of origin: Diocèse de Liège ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant ès arts (Paris) ?; Étudiant en théologie (Paris) vers ?.
+Ecclesiastical positions held: Archidiacre ;; Élu de Liège ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/04/2022)..

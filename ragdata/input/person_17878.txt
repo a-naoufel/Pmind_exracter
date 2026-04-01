@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Heredis
+Also known as: Guillelmus HEREDIS.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1476-1476%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse d'Autun..
+Studied at: Paris %1476-1476%..
+Academic grades obtained: Bachelier en décret (Paris) 24 janvier ..
+Ecclesiastical positions held: Clerc du diocèse d'Autun..
+University functions: Lecteur des Décrétales (1e année) à Paris le 12 février ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 06/05/2022)..

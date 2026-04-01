@@ -1,0 +1,10 @@
+PERSON: ANDREAS Raveau
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1454-1455%.
+Born in: Touraine ?.
+Diocese of origin: Diocèse de Tours..
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) .; Licencié ès arts (Paris) .; Maître ès arts (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 31/08/2020..

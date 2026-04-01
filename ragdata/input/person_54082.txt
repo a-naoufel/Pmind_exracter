@@ -1,0 +1,11 @@
+PERSON: PETRUS Guigonis
+Also known as: Petrus GUIGONIS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1412-1412%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) ..
+University functions: Paris (Faculté des Arts : en (23 février), lors de la présentation au Concilium Gallicanum de la position de la Faculté des Arts par Guillelmus ROUSSELLI, recteur de l’université, sur la collation des bénéfices, c’est lui qui lit le texte de l’Apellatio dont il se présente comme l’auteur, en tant que procureur et syndic substitut de la Faculté des Arts) ;; Paris (Faculté des Arts : procureur et syndic substitut de Johannes BOUT, procureur et syndic en ) ;.
+Authored work: 'Appellatio', composed around (23 février)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 29/08/2022..

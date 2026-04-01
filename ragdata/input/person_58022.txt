@@ -1,0 +1,12 @@
+PERSON: STEPHANUS de Catelonia
+Also known as: Stephanus de CATELONIA.
+Description: O.P..
+Status: Étudiant.
+Gender: male.
+Active during: %1267-1268%.
+Studied at: Paris.
+Academic grades obtained: Étudiant ?.
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Paris (Saint-Jacques) %1267-1268% :.
+Authored work: 'Sermo de Sancto Barnanba F. Stephanus de Katelonia', composed around %1267-1268%..
+Authored work: 'Prothema fr. Stephani de Cathelonia', composed around %1267-1268%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 06/09/2024..

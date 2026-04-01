@@ -1,0 +1,9 @@
+PERSON: COLINUS Hervei
+Also known as: Colinus HERVEI.
+Description: Vigneron.
+Status: Extérieur.
+Gender: male.
+Active during: %1398-1398%.
+Family relationships: Son frère est Johannes HERVEI..
+Social origin: Commun..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/04/2021..

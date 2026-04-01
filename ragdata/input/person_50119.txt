@@ -1,0 +1,11 @@
+PERSON: HENRICUS de Hamelton
+Also known as: Henry de HAMELTON.
+Description: Recteur de Middleton.
+Status: Extérieur.
+Gender: male.
+Active during: %1305-1332%.
+Born in: Angleterre..
+Studied at: Oxford ?..
+Academic grades obtained: ?.
+Ecclesiastical positions held: Vicaire de Owston (Yorkshire) %1305-1313% ;; Recteur de Chale (Isle of Wight) %1306-1307% ;; Recteur de St-Nicholas'SouthKelsey (Lincolnshire) %1326-1332%;; Recteur de Middleton (Lincolnshire) %1332- %..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 05/09/2019..

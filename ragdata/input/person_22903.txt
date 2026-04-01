@@ -1,0 +1,10 @@
+PERSON: ROBERTUS Le Scelleur
+Also known as: Robertus LE SCELLEUR.
+Description: Propriétaire d'une maison à Paris ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1282-1282%.
+Studied at: ?.
+Academic grades obtained: ?.
+Social origin: Bourgeois de Paris ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/08/2024..

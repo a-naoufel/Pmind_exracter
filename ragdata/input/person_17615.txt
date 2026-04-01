@@ -1,0 +1,9 @@
+PERSON: GILBERTUS de Planvis
+Also known as: Gilbertus de PLANVIS.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1486-1486%.
+Studied at: Paris %1486-1486%..
+Academic grades obtained: Bachelier en décret (Paris) 29 novembre ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 15/01/2022..

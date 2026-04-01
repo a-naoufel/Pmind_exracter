@@ -1,0 +1,9 @@
+PERSON: ADAM Joly
+Also known as: Adam JOLY.
+Description: Nuntius.
+Status: Suppôt.
+Gender: male.
+Active during: %1477-1477%.
+Studied at: Paris (Nation de Picardie) en ..
+University functions: Paris (Nation de Picardie : élu nuntius en (20 janvier))..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 11/04/2020..

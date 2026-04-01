@@ -1,0 +1,9 @@
+PERSON: G. de Crisp.
+Also known as: G. de CRISP..
+Description: Secrétaire ou notaire.
+Status: Incertain.
+Gender: male.
+Active during: %1297-1297%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/09/2021..

@@ -1,0 +1,19 @@
+PERSON: MARTINUS de Dacia
+Also known as: Martinus de DACIA; Martin de DACIE; MARTINUS Dacus; Martinus DANÈS; Martinus de RIPPA; Morten MOGENSEN.
+Description: Chanoine.
+Status: Maître.
+Gender: male.
+Active during: %1270-1304%.
+Born in: Danemark..
+Studied at: Paris (Nation Anglo-allemande) avant ;.
+Academic grades obtained: Maître ès arts (Paris)? avant ?; Maître en théologie (Paris) avant ;.
+Ecclesiastical positions held: Prêtre ;; Chanoine de Roskilde ;; Chanoine de Paris (Notre-Dame) au plus tard en .; Chanoine de Lund après ;; Prévôt de Schleswig ;.
+University functions: Paris (Faculté des Arts : maître régent, avant ;; /Ses écrits suggèrent qu'il a enseigné les arts dans les années ;; Paris (Faculté de Théologie : maître-régent avant et encore en ) ;.
+Representation roles: Nonce et procureur, avec GUIDO, prévôt de Ribe, de ERIK VI Menved, roi de Danemark, %1296-1299% ;.
+Authored work: 'Tractatus de modis significandi', composed around ?..
+Authored work: 'In Isagogen Porphyrii quaestiones', composed around ?.
+Authored work: '(Comm. in Categorias Aristotelis) Quaestiones super librum Praedicamentorum', composed around ?.
+Authored work: 'In lib. Perihermenias. Quaestiones.', composed around ?.
+Authored work: 'In lib. Sex Principiorum Quaestiones', composed around ?.
+Authored work: 'In lib. Boetii De differentiis topicis', composed around ?.
+Source: https://wiki.uib.no/medieval/index.php/Martinus_de_Dacia (EBBESEN, 2012) ;.

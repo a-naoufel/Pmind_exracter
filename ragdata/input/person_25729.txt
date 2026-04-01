@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Eule
+Also known as: Guillelmus de EULE.
+Description: Chanoine de Thérouanne.
+Status: Maître.
+Gender: male.
+Active during: %1394-1396%.
+Studied at: Paris (Nation de Picardie ?) ..
+Academic grades obtained: Maître ès arts (Paris) ?.
+Family relationships: Son frère est Ingerannus de EULE ;.
+Social origin: Noble (seigneurie de Eulle) ;.
+Ecclesiastical positions held: Chanoine de Thérouanne; Candidat à un bénéfice ecclésiastique, un canonicat de Saint-Omer (églisecollégiale Saint-Omer), un canonicat d’Aire-sur-la-Lys (églisecollégiale Saint-Pierre), ou un canonicat de Calais sur le Rotulus quorundam nobilium licentiatorum et bacalariorum studii Parisiensis adressé à BENOÎT XIII en %1394-1396% à Avignon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 5/03/2019..

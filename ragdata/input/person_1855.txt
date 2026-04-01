@@ -1,0 +1,10 @@
+PERSON: DANIEL 2
+Also known as: DANIEL.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1290-1290%.
+Studied at: ?Paris..
+Academic grades obtained: Magister (Paris) ?.
+College affiliation: Socius du collège de Sorbonne auquel Henri de GAND restitua un manuscrit (MS. Paris BnF n.a. latin 15629) qu'il avait emprunté au collège, vers %1290-1300% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 02/05/2021..

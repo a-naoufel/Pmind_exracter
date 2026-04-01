@@ -1,0 +1,15 @@
+PERSON: ARNALDUS de La Pierre
+Also known as: Arnoul de LA PIERRE; Arnoul d'AMIENS; Arnoul de la PIERRE; ARNULPHUS, episcopus Ambianensis.
+Description: Évêque d'Amiens.
+Status: Maître.
+Gender: male.
+Active during: %1220-1247%.
+Born in: Picardie ?.
+Studied at: Paris %:1220:-1237%..
+Academic grades obtained: Maître en théologie (Paris)..
+Family relationships: Sa mère est Elisabeth de la PERCHE ; Son beau-père est Roger de FOURNIVAL, médecin, qui était le médecin de LOUIS VIII et de Saint LOUIS ; Son frèreutérin est Richard de FOURNIVAL, chancelier d'Amiens ; Son cousingermain est Thibaut d'AMIENS, archevêque de Rouen..
+Ecclesiastical positions held: Évêque d'Amiens %1236-1247%..
+University functions: Paris (Faculté de Théologie : il enseigne la théologie entre et au moins et cesse son enseignement en tous cas en )..
+Authored work: 'Charte pour le transfert de l'Hôpital d'Amiens (Saint-Jean)', composed around .
+Authored work: 'Charte accordant au chapitre d'Amiens le droit de collation', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux et Claire Priol, révision Jean-Philippe Genet 6/11/2019)..

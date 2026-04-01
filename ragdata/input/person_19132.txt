@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Choart
+Also known as: Guillelmus CHOART.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+Family relationships: Son parent est (peut-être) Petrus CHOART qui s'acquitte en même temps que lui de son dû pour la collecte de ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 3/03/2022..

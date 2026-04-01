@@ -1,0 +1,9 @@
+PERSON: ANCELLUS V de Garlandia
+Also known as: Ansellus de GALLANDIA; Anceau V de GARLANDE.
+Description: Seigneur de Tournan.
+Status: Extérieur.
+Gender: male.
+Active during: %1247-1247%.
+Family relationships: Son fils est Ansellinus de GALLANDIA : Anseau VI de GARLANDE, seigneur de Tournan ; Son fils est Johannes de GALLANDIA : Jean Ier de GARLANDE, seigneur de Possesse.
+Social origin: Noble : "Dominus Turnomii", seigneur de Tournan..
+Source: http://racineshistoire.free.fr/LGN/PDF/Garlande.pdf.

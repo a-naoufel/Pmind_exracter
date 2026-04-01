@@ -1,0 +1,10 @@
+PERSON: NICOLAUS de Polonia
+Also known as: Nicolaus de POLONIA.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Born in: Pologne..
+Studied at: Paris (Nation Anglo-allemande ?).
+Academic grades obtained: Étudiant (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/04/2021)..

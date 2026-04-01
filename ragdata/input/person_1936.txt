@@ -1,0 +1,10 @@
+PERSON: DESIDERIUS
+Also known as: DIDIER.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1302-1302%.
+Studied at: Paris..
+Academic grades obtained: Magister en.
+College affiliation: Collège de Sorbonne : procureur ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 09/05/2021)..

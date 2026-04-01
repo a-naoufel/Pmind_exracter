@@ -1,0 +1,9 @@
+PERSON: ANDREAS de Gyaco
+Also known as: Andreas de GYACO.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1382-1385%.
+Studied at: Paris..
+Academic grades obtained: Bachelier Decr. (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 1/08/2020)..

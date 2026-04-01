@@ -1,0 +1,10 @@
+PERSON: PETRUS de Platana
+Also known as: Petrus de PLATANA.
+Description: Chanoine d’Évreux.
+Status: Incertain.
+Gender: male.
+Active during: %1276-1297%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Évreux %1276-1297% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 22/03/2023)..

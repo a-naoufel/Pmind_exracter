@@ -1,0 +1,11 @@
+PERSON: MATTHAEUS de Capella
+Also known as: Mattheus de CAPELLA.
+Description: Chanoine d’Angers.
+Status: Incertain.
+Gender: male.
+Active during: %1368-1371%.
+Studied at: ?.
+Academic grades obtained: Étudiant en droit canon ;; Licencié en droit civil ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Rennes ;; Chanoine d’Angers ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 03/06/2022)..

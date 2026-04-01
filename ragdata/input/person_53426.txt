@@ -1,0 +1,10 @@
+PERSON: ERICUS Eschildi
+Also known as: ERICUS Aschilli; Ericus ASCHILLI.
+Description: Clerc de l’évêque.
+Status: Étudiant.
+Gender: male.
+Active during: %1341-1341%.
+Born in: Norvège.
+Studied at: Paris, ..
+Academic grades obtained: É. (P), ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Élisabeth MORNET 21/02/2022..

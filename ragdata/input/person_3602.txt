@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Cueilly
+Also known as: Guillelmus DE CUEILLY; Guillaume DE CUEILLY; Guillaume DE CUELLY; Guillaume DE CUILLY.
+Description: Maître en médecine à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1495-1503%.
+Studied at: Paris (Faculté de Médecine) %1495-1503%..
+Academic grades obtained: Étudiant en médecine (Paris) %1495-1496% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/03/2022)..

@@ -1,0 +1,10 @@
+PERSON: FULCO 3
+Also known as: FULCO.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1182-1200%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Chanoine de Reims %1182-1200% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/12/2018..

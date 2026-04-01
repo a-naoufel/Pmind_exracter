@@ -1,0 +1,10 @@
+PERSON: ANDREAS Des Marez
+Also known as: Andreas DES MAREZ.
+Description: Boursier du collège de Dainville.
+Status: Étudiant.
+Gender: male.
+Active during: %1428-1428%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dainville : boursier en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

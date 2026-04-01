@@ -1,0 +1,12 @@
+PERSON: GALTERIUS de Salione
+Also known as: Galterius de SALIONE.
+Description: Chanoine de la Sainte Chapelle de Dijon.
+Status: Incertain.
+Gender: male.
+Active during: %1336-1353%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Langres ;.
+Studied at: ?.
+Academic grades obtained: Licencié in utroque jure ;.
+Ecclesiastical positions held: Chanoine de Saulx (collégiale) ;; Chanoine de Dijon (Sainte-Chapelle) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 30/01/2023..

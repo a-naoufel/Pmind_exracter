@@ -1,0 +1,9 @@
+PERSON: SIMON Rati
+Also known as: Simon RATI; Simon LERAT.
+Description: Grand-Prieur de France des Hospitaliers.
+Status: Extérieur.
+Gender: male.
+Active during: %1299-1324%.
+Religious order: O.Hosp. : Hospitalier de Saint-JeandeJerusalem..
+Religious functions: Maréchal et commandeur de Chypre vers ;; Grand prieur de France de l’Ordre de Saint-JeandeJérusalem à partir de au moins ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

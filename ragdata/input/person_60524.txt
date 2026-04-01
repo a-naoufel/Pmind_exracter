@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Chazelles
+Also known as: Guillermus de CHAZELLES.
+Description: Boursier du collège de Narbonne.
+Status: Étudiant.
+Gender: male.
+Active during: %1355-1355%.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Narbonne : boursier en ;.
+Ecclesiastical status: Prêtre :.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

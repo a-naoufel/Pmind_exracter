@@ -1,0 +1,11 @@
+PERSON: XANCTINUS de Ungaria
+Also known as: Xanctinus de UNGARIA; Sandkus BUDKONIS; Sandko BUDEK.
+Description: Prévôt de Gniezno (Saint-Georges).
+Status: Étudiant.
+Gender: male.
+Active during: %1443-1443%.
+Born in: Hongrie..
+Studied at: Cracovie ;; Paris (Nation Anglo-allemande) ?.
+Academic grades obtained: Étudiant (Paris) ?; Maître (Cracovie)..
+Ecclesiastical positions held: Prévôt de Gniezno (Saint-Georges).
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour, 23/11/2024..

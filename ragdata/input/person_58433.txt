@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Varne
+Also known as: Nicolaus VARNE; Nicolaus WARNE.
+Description: Maître ès arts.
+Status: Incertain.
+Gender: male.
+Active during: %1450-1450%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts..
+Authored work: 'Questiones libri Metaphysice', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 21-01-2025..

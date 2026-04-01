@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Clerici 1
+Also known as: Nicolaus CLERICI.
+Description: Proviseur du collège d’Autun.
+Status: Incertain.
+Gender: male.
+Active during: %1348-1348%.
+Studied at: Paris..
+Academic grades obtained: Maître ?.
+College affiliation: Collège d’Autun : chapelain ;; Collège d’Autun : proviseur et procureur ;.
+Ecclesiastical positions held: Chapelain du collège d’Autun en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

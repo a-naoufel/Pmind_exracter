@@ -1,0 +1,15 @@
+PERSON: MICHAEL de Sancto Dionysio
+Also known as: Michael de SANCTO DIONYSIO.
+Description: Chanoine de Reims.
+Status: Maître.
+Gender: male.
+Active during: %1237-1256%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris ;.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Diacre ;.
+Ecclesiastical positions held: Chanoine de Reims %1243-1256% ;.
+Other ecclesiastical functions: Official de Reims %1243-1245% ;.
+University functions: Paris (Faculté de Décret : Maître Régent en décret jusqu’en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 10/02/2022..

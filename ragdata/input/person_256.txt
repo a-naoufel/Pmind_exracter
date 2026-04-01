@@ -1,0 +1,41 @@
+PERSON: ALANUS Ab Insulis
+Also known as: Alanus ab INSULIS; Alain de LILLE; Alanus de MONTEPESSULANO.
+Description: Maître ?.
+Status: Maître.
+Gender: male.
+Active during: %1140-1203%.
+Born in: Flandres (Lille) ?.
+Diocese of origin: ?.
+Studied at: Paris avant ;; Chartres.; Montpellier..
+Academic grades obtained: Magister (Paris) %:1150:-:1179:%..
+Religious order: Cistercien.
+University functions: Paris (maître) ;; Magister (Paris) vers %1150-1179% après quoi il part enseigner à Montpellier.; Montpellier ?.
+Authored work: 'Summa theologica', composed around ?.
+Authored work: 'Tractatus de virtutibus et vitiis', composed around ?..
+Authored work: 'Quaestiones 19 disputatae', composed around ?%1260-1265%.
+Authored work: 'Regulae theologica', composed around %1265-1270%.
+Authored work: 'De fide catholica contra haereticos', composed around ?.
+Authored work: 'Liber Poenitentialis', composed around et pour la version courte et et pour la version longue., dedicated to Dédié à Henri de SULLY, archevêque de Bourges..
+Authored work: '(Sermones (Liber sermonum ; sermones octo ; sermones varii) : 95 sermons)', composed around ?.
+Authored work: 'Elucidatio super Cantica Canticorum', composed around ?.
+Authored work: 'Glosatura super Cantica', composed around ?.
+Authored work: 'De sex alis cherubim', composed around ?.
+Authored work: 'Expositio super Pater noster', composed around ?.
+Authored work: 'Expositio super symbolum Apostolorum et Nicaenum', composed around ?.
+Authored work: 'Expositio prosae de angelis', composed around ?.
+Authored work: 'De missae celebratione epistola', composed around ?.
+Authored work: 'Hierarchia Alani', composed around ?.
+Authored work: 'De planctu naturae', composed around %1265-1270%..
+Authored work: 'Anticlaudianus', composed around %1182-1183%.
+Authored work: 'De quinque potentiis animae', composed around ?.
+Authored work: 'De arte praedicandi', composed around ?.
+Authored work: 'Comm. in Rhetorica ad Herennium', composed around ?.
+Authored work: 'De ratione metrorum et syllabarum', composed around ?.
+Authored work: 'Liber parabolarum', composed around ?.
+Authored work: 'Summa quot modis', composed around ., dedicated to Dédié à Alanus HERMENGALDUS, Abbé de Saint-Gilles..
+Authored work: 'Quaestiones naturales', composed around ?.
+Authored work: 'De natura animalium', composed around ?.
+Authored work: 'Glossa in libro de Causis', composed around ?.
+Authored work: 'Rythmi et Prosae... De Incarnatione et septem artibus', composed around ?.
+Authored work: 'Explanatio in prophetiam Merlini', composed around ?.
+Source: ARLIMA, Laurent BRUN :.

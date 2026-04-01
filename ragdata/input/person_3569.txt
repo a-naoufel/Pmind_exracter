@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Autriaco
+Also known as: Guillelmus de AUTRIACO; Guillaume de AUTRIACO.
+Description: Boursier artien au collège de Navarre..
+Status: Étudiant.
+Gender: male.
+Active during: %1382-1382%.
+Studied at: Paris (Collège de Navarre) %1382-1382%..
+Academic grades obtained: Étudiant ès arts (Paris) ..
+College affiliation: Boursier artien au collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 08/03/2022.

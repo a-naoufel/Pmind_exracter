@@ -1,0 +1,10 @@
+PERSON: PETRUS Hugonis
+Also known as: Petrus HUGONIS; Petrus de HUGONIS.
+Description: Chanoine de Troyes.
+Status: Incertain.
+Gender: male.
+Active during: %1322-1323%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Troyes ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 14/05/2023..

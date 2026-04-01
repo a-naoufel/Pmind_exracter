@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Johannis 1
+Also known as: Guillelmus de JOHANNIS.
+Description: Clerc.
+Status: Extérieur.
+Gender: male.
+Active during: %1331-1331%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical status: Clerc en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 26/03/2020..

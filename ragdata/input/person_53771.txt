@@ -1,0 +1,11 @@
+PERSON: PETRUS Blanchichonis
+Also known as: Petrus BLANCHICHONIS.
+Description: Chanoine de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1457-1484%.
+Studied at: ?.
+Academic grades obtained: Licencié en droit canon ;.
+Family relationships: Son parent est peut-être Arma BLANCHICHON, étudiant en ?.
+Ecclesiastical positions held: Chanoine de Rodez %1457-1460% ;; Ouvrier de Rodez %1463-1484% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 21/05/2022..

@@ -1,0 +1,9 @@
+PERSON: GILBERTUS de Bosco
+Also known as: Guilbert de BOSCO.
+Description: Étudiant en médecine.
+Status: Étudiant.
+Gender: male.
+Active during: %1457-1460%.
+Studied at: Paris %1457-1460%..
+Academic grades obtained: Étudiant en médecine (Paris) %1457-1460%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 14/01/2022..

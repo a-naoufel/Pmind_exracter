@@ -1,0 +1,11 @@
+PERSON: FRANCISCUS Romani
+Also known as: Franciscus ROMANI.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1455-1455%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Senlis..
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/09/2021..

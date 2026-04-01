@@ -1,0 +1,11 @@
+PERSON: PETRUS Boucher 2
+Also known as: Pierre BOUCHER.
+Description: Clerc de la chapelle du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1424-1424%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dormans-Beauvais : Clerc de la chapelle (janvier-août) ;.
+Ecclesiastical positions held: Clerc de la chapelle du Collège de Dormans-Beauvais (janvier-août) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/01/2019..

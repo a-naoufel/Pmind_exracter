@@ -1,0 +1,9 @@
+PERSON: CHRISTIANUS Bout
+Also known as: Christianus BOUT; Chrétien BOUT.
+Description: Bachelier en médecine (Paris)..
+Status: Gradué.
+Gender: male.
+Active during: %1399-1404%.
+Studied at: Paris, %1399-1404%..
+Academic grades obtained: Étudiant en médecine (Paris) %1399-1400% ;; Bachelier en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 08/04/2021..

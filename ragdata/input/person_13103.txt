@@ -1,0 +1,9 @@
+PERSON: GEORGIUS Bernardus
+Also known as: George BERNARDUS.
+Description: Étudiant en théologie.
+Status: Étudiant.
+Gender: male.
+Active during: %1500-1500%.
+Studied at: Paris %1500-1500%..
+Academic grades obtained: Étudiant en théologie (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 27/11/2021..

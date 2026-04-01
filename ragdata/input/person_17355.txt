@@ -1,0 +1,12 @@
+PERSON: BRICIUS de Bosco
+Also known as: Bricius de BOSCO.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1382-1382%.
+Born in: Artois ?.
+Diocese of origin: Diocèse d'Arras..
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ;.
+Ecclesiastical positions held: Supplique en pour un bénéfice ecclésiastique à la collation du prévôt, du doyen et du chapitre de Douai (Saint-Amat)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 27/03/2021..

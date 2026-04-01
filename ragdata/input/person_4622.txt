@@ -1,0 +1,13 @@
+PERSON: HENRICUS 8
+Also known as: HENRICUS.
+Description: Étudiant en droit canon.
+Status: Étudiant.
+Gender: male.
+Active during: %1378-1379%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse d'Avranches ;.
+Studied at: Paris %1378-1379%..
+Academic grades obtained: Étudiant en droit canon (Paris) en %1378-1379% ;.
+Ecclesiastical status: Prêtre du diocèse d'Avranches..
+Ecclesiastical positions held: Recteur de Saint-Georges-de-Livoye en ;; Candidat à un bénéfice à la collation de l'abbé et du monastère (bénédictin) du Mont-Saint-Michel sur le rotulus de l'Université de Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 20/06/2022).

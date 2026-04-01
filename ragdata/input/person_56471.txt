@@ -1,0 +1,16 @@
+PERSON: ODO Suessionensis
+Also known as: Odo SUESSIONENSIS; Eudes de SOISSONS; Odon d’OURSCAMP.
+Description: O.Cist..
+Status: Maître.
+Gender: male.
+Active during: %1145-1171%.
+Studied at: Paris..
+Academic grades obtained: Maître ?.
+Academic relationships: Son maître est Pierre ABELARD ?.
+Religious order: O.Cist. : moine cistercien de l’abbaye (cistercienne) de Ourscamp %1160-1166% ;.
+Religious functions: O.Cist. : abbé de l’abbaye (cistercienne) de Ourscamp %1160-1166% ;.
+Ecclesiastical positions held: Chanoine de Paris (Notre-Dame) %1145-1160% ;; Chancelier de Paris (Notre-Dame) %1145-1160% ;; Écolâtre de Paris ?; Cardinal-évêque de Tusculum %1170-1171% ;.
+University functions: Paris (Maître en théologie ?)..
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Quaestiones theologicae', composed around ?.
+Source: MIRANDA : Cardinals of the Holy Roman Church :.

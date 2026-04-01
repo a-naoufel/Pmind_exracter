@@ -1,0 +1,13 @@
+PERSON: PETRUS de Clivilla
+Also known as: Petrus de CLIVILLA; Petrus de CLEVILLA.
+Description: Chanoine de Rouen.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1361%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen :.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ;; Licencié en droit civil ;; Docteur en droit canon ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Rouen %1335-1361% ;; Curé de Gonneville ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/11/2021..

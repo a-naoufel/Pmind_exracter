@@ -1,0 +1,17 @@
+PERSON: GERARDUS Puella
+Also known as: Gerardus PUELLA; Gérard PUCELLE.
+Description: Évêque de Coventry.
+Status: Maître.
+Gender: male.
+Active during: %1156-1184%.
+Born in: ?.
+Studied at: Paris %:1156-1166% et %1170-1178 ;; Cologne %1166-1168% et %1180-1181%..
+Academic grades obtained: Maître (Paris) ..
+Ecclesiastical status: Il est rentré dans les ordres avant novembre ;.
+Ecclesiastical positions held: Évêque de Coventry %1183-1184%..
+University functions: Paris : professeur de droit canon.; “Alexander episcopus servus servorum Dei dilecto filio magistro G. salutem et apostolicam benedictionem. Attendentes litteraturam et scientiam tuam, et quomodo compositione morum et honestate sis preditus nihilominus cogitantes, cogimur communi et speciali debito tuis profectibus et incrementis intendere, et multa tibi benignitate deferre. Eapropter, dilecte in Domino fili, cum sub magisterio tuo multi per Dei gratiam proficient in scientia litterarum , auctoritate tibi apostolica duximus indulgendum , ut usque ad quadriennium, si scolas rexeris, redditus tui quos habes in Anglia nullius contradictione vel appellatione obstante libere tibi et sine diminutione qualibet reddantur in scolis, ita quidem, ut niilli fas sit tibi quidnam de illis redditibus diminuere vel subtrahere, aut circa res tuas indebitam molestiam vel gravamen inferre ; nec cogaris infra terminum ipsum scolas dimittere, nisi alicui ecclesie, in qua personatum vel magnum beneficium habeas, ea necessitas imminuerit, quod merito tuam sibi debeas presentiam et patrocinium exhibere. Dat. Anagnie vij id. Februarii.; Cologne (École cathédrale : maître %1166-1168%)..
+Representation roles: Il participe au Concile de LatranIII en ;.
+Authored work: 'Summa super Decretalia', composed around ?.
+Authored work: 'Glossae super Decretum', composed around ?.
+Authored work: 'Glossae in Apparatum «Ecce vicit leo» ad Decretum', composed around ?.
+Source: ODNB (Charles DONAHUE jun.) :.

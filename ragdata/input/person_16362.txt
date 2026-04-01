@@ -1,0 +1,9 @@
+PERSON: ANTHONIUS Foilhet
+Also known as: Anthonius FOILHET.
+Description: Nuntius.
+Status: Suppôt.
+Gender: male.
+Active during: %1457-1457%.
+Studied at: Paris (Nation de France)..
+University functions: Paris (Nation de France) : nuntius pour le diocèse de Bourges..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/09/2020)..

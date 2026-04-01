@@ -1,0 +1,10 @@
+PERSON: PETRUS 3 bis
+Also known as: PETRUS.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1218-1218%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Sens (‘Saint-Pierre’) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 22/09/2022..

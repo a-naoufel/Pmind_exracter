@@ -1,0 +1,11 @@
+PERSON: CAROLUS de Gouda 2
+Also known as: Carolus de GOUDA; KAROLUS.
+Description: Recteur de l'Université.
+Status: Maître.
+Gender: male.
+Active during: %1492-1493%.
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+College affiliation: Collège d'Arras ;.
+University functions: Paris (Université : recteur élu en octobre ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/04/2021)..

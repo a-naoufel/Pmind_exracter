@@ -1,0 +1,7 @@
+PERSON: SERSIVA la Berangière
+Also known as: Sersiva la BERANGIÈRE.
+Description: Maîtresse d'école.
+Status: Suppôt.
+Gender: female.
+Active during: %1380-1380%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 29/08/2020..

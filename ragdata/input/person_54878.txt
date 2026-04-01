@@ -1,0 +1,11 @@
+PERSON: BERNARDUS de Calciata
+Also known as: Bernardus de CALCIATA.
+Description: Chanoine de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1375-1382%.
+Studied at: ?.
+Academic grades obtained: Bachelier en droit canon en ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Curé de LaChaussée (diocèse de Cahors) %1375- % ;; Chanoine de Poitiers %1375-1382% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 19/12/2022..

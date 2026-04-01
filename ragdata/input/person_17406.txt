@@ -1,0 +1,9 @@
+PERSON: BALDUINUS Clerici
+Also known as: Balduinus CLERICI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1477-1477%.
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Maître ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 28/11/2020)..

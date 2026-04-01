@@ -1,0 +1,10 @@
+PERSON: ADAM Wiler
+Description: Maître-ès-arts..
+Status: Maître.
+Gender: male.
+Active during: %1490-1495%.
+Born in: Rhénanie (Pforzheim ?)..
+Diocese of origin: Diocèse de Spire..
+Studied at: Bâle ;; Paris (Nation Anglo-Allemande) ..
+Academic grades obtained: Licencié ès arts (Paris) .; Maître ès arts (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 15/04/2020)..

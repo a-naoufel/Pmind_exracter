@@ -1,0 +1,9 @@
+PERSON: BERNARDUS Dant
+Also known as: Bernard DANT.
+Description: Étudiant en médecine à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1458-1459%.
+Studied at: Paris, %1458-1459%..
+Academic grades obtained: Étudiant en médecine (Paris) %1458-1459%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux, révision Jean-Philippe Genet, 22/01/2021).

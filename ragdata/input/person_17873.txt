@@ -1,0 +1,10 @@
+PERSON: COLINUS de Bosco
+Also known as: Colinus de BOSCO.
+Description: Étudiant ès arts..
+Status: Étudiant.
+Gender: male.
+Active during: %1393-1393%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant ès arts (Paris).
+Ecclesiastical positions held: Candidat à un bénéfice ecclésiastique à la collation du doyen et du chapitre de Paris (Saint-Germainl'Auxerrois) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/04/2021..

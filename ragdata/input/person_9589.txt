@@ -1,0 +1,9 @@
+PERSON: NICOLAUS Midy
+Also known as: Nicole MIDY.
+Description: Licencié en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1473-1529%.
+Studied at: Paris %1473-1482%..
+Academic grades obtained: Étudiant en médecine (Paris) dès %1473-1474% ;; Licencié en médecine (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 20/11/2021..

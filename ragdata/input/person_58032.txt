@@ -1,0 +1,12 @@
+PERSON: TRANSMUNDUS Claravallensis
+Also known as: Transmundus CLARAVALLENSIS; TRANSMONDUS.
+Description: Notaire devenu cistercien.
+Status: Extérieur.
+Gender: male.
+Active during: %1250-1250%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.Cist. : moine cistercien : moine à l'abbaye (cistercienne) de Clairvaux..
+Authored work: 'Introductiones de arte dictandi', composed around ?.
+Authored work: 'Transmundi epistolae', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 10-09-2024..

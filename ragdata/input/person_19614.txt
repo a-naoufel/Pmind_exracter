@@ -1,0 +1,11 @@
+PERSON: EBRARDUS de Dijon
+Also known as: Evrard de DIJON.
+Description: Chanoine de Saint-Quentin.
+Status: Étudiant.
+Gender: male.
+Active during: ?%1320-1320%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Sorbonne ?.
+Ecclesiastical positions held: Chanoine de Saint-Quentin ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 28/06/2021)..

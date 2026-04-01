@@ -1,0 +1,13 @@
+PERSON: PETRUS Fabri 1
+Also known as: Petrus FABRI.
+Description: Chanoine de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1291-1319%.
+Born in: Picardie ;.
+Diocese of origin: Diocèse de Beauvais ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Diacre ;.
+Ecclesiastical positions held: Chanoine de Poitiers %1291-1319 ;; Chanoine de Beauvais %1316-1318% ;; Chanoine de Fréjus ;; Chanoine de Paris %1317-1318% ;; Chanoine de Périgueux %1317-1319% ;; Écolâtre de Périgueux %1317-1318 ;; Prévôt de Furnes %1318-1319% ;; Chantre de Chartres %1318- % ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 21/11/2022..

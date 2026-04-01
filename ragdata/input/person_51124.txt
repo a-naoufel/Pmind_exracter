@@ -1,0 +1,12 @@
+PERSON: PETRUS Guerout
+Also known as: Petrus GUEROUT.
+Description: Membre du Collège de Maître-Gervais.
+Status: Étudiant.
+Gender: male.
+Active during: %1382-1382%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Maître-Gervais : socius ;; Collège de Maître-Gervais : chapelain ;.
+Ecclesiastical status: Prêtre ?.
+Ecclesiastical positions held: Chapelain du Collège de Maître-Gervais en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Marion Bernard-Schweitzer 16/09/2020..

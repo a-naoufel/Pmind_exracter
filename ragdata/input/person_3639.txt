@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Parenty
+Also known as: Guillelmus de PARENTY; Guillaume de PARENTY.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1458-1467%.
+Studied at: Paris (Nation de Picardie) %1458-1464%..
+Academic grades obtained: Étudiant en médecine (Paris) à partir de %1458-1459% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Family relationships: Sa femme est Agnès TRANERSSE ; Son fils est Jean de PARENTY, chanoine de Bruges (Notre-Dame) ; ?Son parent est Enguerrand de PARENTY..
+Academic relationships: ?Son maître est Enguerrand de PARENTY en ..
+Ecclesiastical status: Diacre..
+University functions: Paris (Faculté de médecine : Maîtrerégent jusqu'en %1466-1467%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 8/04/2022)..

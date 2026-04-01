@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Valle 4
+Also known as: Guillelmus de VALLE.
+Description: Recteur de l'Université de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1416-1416%.
+Studied at: Paris (Nation de France) avant.
+Academic grades obtained: Maître ès arts (Paris) avant ;.
+University functions: Paris (Université : Recteur, élu en (24 mai)) ;; Paris (Nation de France : procureur en ?) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 22/04/2022..

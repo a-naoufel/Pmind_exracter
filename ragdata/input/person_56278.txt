@@ -1,0 +1,11 @@
+PERSON: LAMBERTUS Aristote
+Also known as: Lambert ARISTOTE.
+Description: Doyen de Soignies.
+Status: Maître.
+Gender: male.
+Active during: %1250-1270%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris)..
+Ecclesiastical positions held: Doyen de Soignies ;.
+Authored work: 'Tractatus de musica', composed around ?.
+Source: MIRABILE : Federico CONTINI :.

@@ -1,0 +1,11 @@
+PERSON: BERNARDUS 5
+Also known as: BERNARDUS.
+Description: Chanoine d'Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1213-1243%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Chanoine d'Amiens %1213-1243% ;; Archidiacre de Ponthieu %1224-1243% :.
+Other ecclesiastical functions: Official d'Amiens %1213-1216% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 14/01/2021)..

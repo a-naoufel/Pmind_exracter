@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Numeri
+Also known as: Guillelmus NUMERI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1387-1387%.
+Born in: Orléanais.
+Diocese of origin: Diocèse d'Orléans..
+Studied at: Paris (Nation de France)..
+Academic grades obtained: Maître ès arts (Paris) ;; Licencié in utroque jure.
+Ecclesiastical status: Clerc du diocèse d'Orléans ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus de ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 20/05/2022..

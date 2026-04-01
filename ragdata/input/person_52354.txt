@@ -1,0 +1,10 @@
+PERSON: THEOBALDUS de Poenceio
+Also known as: Theobaldus de POENCEIO; Theobaldus de PONCI; Theobaldus de POUENCÉ.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1274-1301%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Reims %1274-1280% ;; Chantre de Reims %1275-1276% ;; Évêque de Dol %1280-1301% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/05/2021..

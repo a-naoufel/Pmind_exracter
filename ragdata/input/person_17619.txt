@@ -1,0 +1,10 @@
+PERSON: GILBERTUS Beca
+Also known as: Gilbertus BECA.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1499-1499%.
+Born in: Berry (Bourges)..
+Studied at: Paris %1499-1499%..
+Academic grades obtained: Bachelier en décret (Paris) 13 mars ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 14/01/2022..

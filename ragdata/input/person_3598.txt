@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Corboliensis
+Also known as: Guillelmus CORBOLIENSIS; Guillelmus CORBORENSIS; Guillaume de CORBEIL.
+Description: Magister ?.
+Status: Maître.
+Gender: male.
+Active during: %1220-1280%.
+Studied at: Paris ?.
+Academic grades obtained: Magister ?.
+Authored work: 'Differentiae dictionum latinarum', composed around %1220-1280% ?, dedicated to Dédié à GILLEBERTUS ;.
+Source: MIRABILE, Andrea CENCINI :.

@@ -1,0 +1,13 @@
+PERSON: BERNARDUS 4
+Also known as: BERNARD II.
+Description: Archevêque de Saint-JacquesdeCompostelle.
+Status: Étudiant.
+Gender: male.
+Active during: %1195-1240%.
+Born in: ?Espagne..
+Studied at: Paris ..
+Academic grades obtained: Étudiant en théologie ?.
+Family relationships: Il est parent de BERNARD I, Archevêque de Saint-JacquesdeCompostelle..
+Academic relationships: Son maître est Stephanus LANGTON..
+Ecclesiastical positions held: Archevêque de Saint-JacquesdeCompostelle %1224-1237%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 14/01/2021)..

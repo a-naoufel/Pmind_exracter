@@ -1,0 +1,10 @@
+PERSON: SIMON Maurice
+Also known as: Simon MAURICE.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1271-1287%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Rouen %1271-1287% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 3/11/2021..

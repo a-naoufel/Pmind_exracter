@@ -1,0 +1,10 @@
+PERSON: ALANUS Toupin
+Also known as: Alanus TOUPIN.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1431-1431%.
+Studied at: Paris (Faculté de Théologie en )..
+Academic grades obtained: Bachelier en théologie en ?.
+University functions: Paris (Faculté de Théologie : Cursor , 1er cour le 29 avril)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 10/06/2020..

@@ -1,0 +1,13 @@
+PERSON: ROBERTUS de Annevilla
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1329-1349%.
+Born in: Normandie (Beuzeville ?) ?.
+Diocese of origin: Diocèse de ÉLisieux ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Social origin: Noble ;.
+Ecclesiastical status: Clerc ;.
+Ecclesiastical positions held: Chanoine de Sens ;; Chanoine de Rouen %1330-1336% ;; Recteur de Saint-Gatien %1331-1332% ;; Chanoine de Péronne %1331-1334% ;; Chanoine de Tours (Saint-Martin) %1332-1334% ;; Chanoine d'Évreux ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 13/09/2022..

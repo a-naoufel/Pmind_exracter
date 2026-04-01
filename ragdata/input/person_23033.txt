@@ -1,0 +1,9 @@
+PERSON: THOMAS Flamangi
+Also known as: Thomas FLAMANGI.
+Description: Maître d'école.
+Status: Étudiant.
+Gender: male.
+Active during: %1282-1282%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 31/01/2024)..

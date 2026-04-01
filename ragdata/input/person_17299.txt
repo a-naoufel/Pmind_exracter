@@ -1,0 +1,11 @@
+PERSON: BENEDICTUS Ungarus
+Also known as: Benedictus UNGARUS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1499-1499%.
+Born in: Hongrie ?.
+Studied at: Paris ?.
+Academic grades obtained: Magister ?; Étudiant en théologie..
+College affiliation: Collège de Sorbonne socius ou hospes..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 08/01/2021).

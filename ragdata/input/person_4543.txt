@@ -1,0 +1,9 @@
+PERSON: ELIONUS
+Also known as: Magister HELIONUS.
+Description: Magister.
+Status: Incertain.
+Gender: male.
+Active during: %1492-1492%.
+Studied at: ?Paris.
+Academic grades obtained: Maître ès arts ?.
+Ecclesiastical positions held: En procès avec Eligius de VENGERMES pour une chapelle en ;.

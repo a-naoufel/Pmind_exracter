@@ -1,0 +1,14 @@
+PERSON: HENRICUS de Andeli
+Also known as: Henri d'ANDÉLI.
+Description: Magister ?.
+Status: Maître.
+Gender: male.
+Active during: %1223-1236%.
+Born in: Normandie..
+Studied at: ?Paris ;; Orléans ?.
+Academic grades obtained: Magister (Paris) ?.
+Authored work: 'Le dit du chancelier Philippe', composed around (26 décembre) ;.
+Authored work: 'La bataille des vins, ou dit des vins de France', composed around ?.
+Authored work: 'La bataille des VII arz', composed around Vers ..
+Authored work: 'Le lai d'Aristote', composed around ?.
+Source: ARLIMA : Laurent BRUN et Johannes HARTAU :.

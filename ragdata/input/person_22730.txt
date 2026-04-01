@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Noyon
+Also known as: Guillermus de NOYON.
+Description: Étudiant du collège Saint-Thomas du Louvre.
+Status: Étudiant.
+Gender: male.
+Active during: %1284-1284%.
+Studied at: Paris,.
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège du Louvre (Saint-Thomas) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 07/04/2022..

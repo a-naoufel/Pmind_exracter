@@ -1,0 +1,12 @@
+PERSON: GUERARDUS de Novimagio
+Also known as: Guerardus de NOVIMAGIO; Guerardus de NIMEGHEN.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1358-1358%.
+Born in: Pays-Bas (Nimègue ?) ;.
+Diocese of origin: Diocèse d'Utrecht ?.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Étudiant (Paris) ;.
+Family relationships: Son père est Albertus de NIMEGHEN ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/01/2022..

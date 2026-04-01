@@ -1,0 +1,8 @@
+PERSON: CATHARINA la Boursière
+Also known as: Katherine la BOURSIÈRE.
+Description: Couvreuse de livres.
+Status: Suppôt.
+Gender: female.
+Active during: %1388-1388%.
+Studied at: Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 10/06/2024..

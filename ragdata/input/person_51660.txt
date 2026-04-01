@@ -1,0 +1,13 @@
+PERSON: ABSALON de Sancto-Victore 2
+Also known as: ABASALON; Absalon de SANCTO-VICTORE.
+Description: Abbé de Saint-Victor.
+Status: Incertain.
+Gender: male.
+Active during: %1198-1203%.
+Studied at: Paris..
+Academic grades obtained: Ètudiant ?.
+College affiliation: Saint-Victor..
+Religious order: O.S.A. : chanoinerégulier de Paris (Saint-Victor) % -1203%..
+Religious functions: Abbé de Paris (Saint-Victor) en %1198-1203%..
+Authored work: '(Constitutions de l’ordre des Trinitaires)', composed around .
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 8/12/2020)..

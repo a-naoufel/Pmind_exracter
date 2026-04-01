@@ -1,0 +1,12 @@
+PERSON: FORETUS de Castello
+Also known as: Foretus de CASTELLO.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1380-1380%.
+Born in: Normandie..
+Diocese of origin: Diocèse de Bayeux ..
+Studied at: Paris (Nation de Normandie) ?.
+Academic grades obtained: Étudiant ès arts (Paris) ?.
+Social origin: Noble..
+Ecclesiastical positions held: Supplique pour un bénéfice ecclésiastique à la collation de l'évêque, du doyen et du chapitre de la cathédrale d'Angers sur le rotulus proposé par Mathilde d'AUVERGNE, comtesse de Genève en ;.

@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS Bocquet
+Also known as: Aegidius BOCQUET.
+Description: Bachelier ès arts..
+Status: Gradué.
+Gender: male.
+Active during: %1484-1484%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse d'Amiens..
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Bachelier ès art (Paris) ..
+Academic relationships: Son maître est Furseo DATHIES..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 19/04/2020)..

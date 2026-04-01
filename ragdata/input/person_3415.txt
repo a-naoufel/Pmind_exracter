@@ -1,0 +1,13 @@
+PERSON: GUIDO de Sancto Sepulcro
+Also known as: Guido de SANCTO SEPULCRO.
+Description: Conseiller clerc au Parlement..
+Status: Incertain.
+Gender: male.
+Active during: %1330-1362%.
+Born in: Île-de-France (Villecerf) ;.
+Diocese of origin: Diocèse de Sens ?.
+Studied at: ?.
+Academic grades obtained: "Magister"..
+Social origin: Noblesse ;.
+Ecclesiastical positions held: Chanoine de Paris (Notre-Dame) %1330-1351% ;; Chanoine de Troyes %1345-1354% ;; Chanoine de Troyes (Saint-Etienne) ;; Chanoine de Laon ;; Doyen de Troyes %1354-1362% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 07/01/2020..

@@ -1,0 +1,11 @@
+PERSON: LUPUS
+Also known as: LUPUS.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1269-1312%.
+Born in: Aquitaine ?.
+Studied at: ?.
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Bayonne..
+Religious functions: Prieur du couvent (dominicain) de Toulouse..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019).

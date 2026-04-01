@@ -1,0 +1,10 @@
+PERSON: PETRUS Rillac
+Also known as: Petrus RILLAC.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1416-1416%.
+Studied at: Paris..
+Academic grades obtained: Licencié en décret (Paris) en (16 février) ;; Rang : 7/46..
+Academic relationships: Son maître est Simon de BOSCO pour la licence en décret en (16 février) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 23/04/2022..

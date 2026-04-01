@@ -1,0 +1,10 @@
+PERSON: PETRUS Baravel
+Also known as: Pierre BARAVEL.
+Description: Boursier théologien au Collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1485-1485%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) en ..
+College affiliation: Collège d’Autun en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

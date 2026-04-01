@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Juliani
+Also known as: Guillermus JULIANI.
+Description: Chanoine de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1362-1391%.
+Studied at: ?.
+Academic grades obtained: Licencié ès arts ;.
+Ecclesiastical status: Sous-diacre ;; Prêtre ;.
+Ecclesiastical positions held: Chanoine de Clermont %1362-1391% ;; Chanoine de Clermont (Saint-Pierre) ;; Doyen de Clermont (Saint-Pierre) %1364-1386% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 27/09/2023)..

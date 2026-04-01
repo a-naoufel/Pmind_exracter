@@ -1,0 +1,23 @@
+PERSON: GUIDO de Bolonia 2
+Also known as: Guido de BOLONIA; Guy de BOULOGNE.
+Description: Cardinal.
+Status: Extérieur.
+Gender: male.
+Active during: %1323-1373%.
+Born in: Artois (Boulogne) ;.
+Diocese of origin: Diocèse de Thérouanne ?.
+Studied at: ?.
+Family relationships: Son père est Robert de BOULOGNE, comte de Boulogne et comte d’ Auvergne ; Sa mère est Marie de FLANDRE ; Son oncle est Guy de BOULOGNE, évêque de Tournai puis évêque de Cambrai ; Son grand-oncle est LOUIS IX, roi de France ; Son petit-neveu est Robert de GENÈVE devenu CLÉMENT VII ; Sa nièce est Jeanne d' AUVERGNE dite aussi Jeanne de BOULOGNE, reine de France dont le second époux est JEAN le Bon, roi de France ;.
+Social origin: Noble..
+Ecclesiastical status: Sous-diacre ;; Prêtre en ;.
+Ecclesiastical positions held: Chanoine d’Amiens %1323-1340% ;; Archidiacre de Flandre à la cathédrale de Thérouanne ;; Chanoine de Reims %1325- % et %1365-1373% ;; Chanoine de Bayeux ;; Archidiacre de Bayeux ;; Archevêque de Lyon %1340-1342% ;; Cardinal-prêtre de Sainte-Cécile %1342-1350% ;; Cardinal-évêque de PortoeSanta-Rufina %1350-1373% ;; Doyen de Tours (Saint-Martin) ;; Chanoine de Clermont ;; Archidiacre de Meaux ;; Archidiacre de Langres ;; Trésorier de Reims %1363-1365% ;; Archidiacre d'Amiens ;; Archidiacre de Reims %1365-1373% ;; Chancelier d'Amiens %1369-1373% ;.
+Representation roles: Légatpontifical auprès de LOUIS Ier, roi de Hongrie, de (15 janvier) à (7 juin) ;; Légatpontifical en France en pour essayer de conclure la paix entre la France et l’Angleterre ;; Légatpontifical en Angleterre ;; Légatpontifical en Espagne %1359-1361% pour conclure la paix entre la Castille et l’Aragon ;; Légatpontifical à Naples en ;; Il est accompagne le pape URBAIN V qui est escorté d’Avignon à Rome par l’Empereur CHARLES IV de Luxembourg et assiste au couronnement de l’impératrice dans la basilique du Vatican en (1er novembre) ;; Légatpontifical en Espagne %1372-1373% pour conclure la paix entre le Portugal et la Castille, puis entre la Castille, l’Aragon et la Navarre ;.
+Authored work: '(Lettre au roi d'Angleterre)', composed around (9 décembre), à Paris., dedicated to Adressé à ÉDOUARD 1er, roi d'Angleterre ;.
+Authored work: '(Lettre aux ambassadeurs anglais)', composed around (5 mai) à Paris., dedicated to Adressé aux ambassadeurs anglais..
+Authored work: '(Lettre au duc de Lancastre)', composed around (1er février) à Lyon., dedicated to Adressé à Jean de GAND, duc de Lancastre..
+Authored work: '(Lettre au duc de Lancastre et aux comtes d'Arundel et de Huntington)', composed around (27 mai) à Paris., dedicated to Adressé à Jean de GAND, duc de Lancastre, à l'Earl of ARUNDEL et à l'Earl of HUNTINGTON..
+Authored work: '(Epistola ad Nicolaum Acciaiuoli)', composed around ?, dedicated to Adressée à Niccolo ACCIAIUOLI..
+Authored work: '(Epistola ad reginam Iohannam)', composed around ? (19 février) à Narbonne., dedicated to Adressée à JEANNE I, reine de Naples..
+Authored work: '(Discours en présence du roi d'Aragon)', composed around (24 janvier)..
+Authored work: '(Discours au pape)', composed around ?.
+Source: WIKIPEDIA :.

@@ -1,0 +1,12 @@
+PERSON: URBANUS Bistricensis
+Also known as: Urbanus BISTRICENSIS; Urbanus de BESZTERCE.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1486-1489%.
+Born in: Hongrie (Beszterce) ;.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Couvent (dominicain) de Paris (Jacobins) ..
+Religious order: O.P. : frère du couvent (dominicain) d’Esztergom ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour, 19/10/2024..

@@ -1,0 +1,10 @@
+PERSON: MARTIALIS Feydelli
+Also known as: Martialis FEYDELLI; Martial FEYDEAU.
+Description: Boursier du collège de Chanac.
+Status: Incertain.
+Gender: male.
+Active during: %1493-1495%.
+Studied at: Paris ;.
+Academic grades obtained: Etudiant (Paris) ?.
+College affiliation: Boursier du collège de Chanac avant ;; Procureur de Guillaume FEYDEAU, maître au collège de Chanac en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

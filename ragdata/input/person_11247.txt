@@ -1,0 +1,12 @@
+PERSON: ROGARIUS Le Mareschal
+Also known as: Roger le MARESCHAL.
+Description: Chanoine de Lichfield.
+Status: Extérieur.
+Gender: male.
+Active during: %1291-1328%.
+Born in: Angleterre (Gloucester)..
+Studied at: Oxford..
+Academic grades obtained: Magister av...
+Ecclesiastical positions held: Recteur de Tackley (Oxfordshire) %1291-1328% ;; Recteur de Thornbury (Gloucestershire) %1305-1312% ;; Chanoine de Lichfield %1319-1328%..
+University functions: Oxford (Propriétaire de Tackley'sInn qu'il a donné à Adam de BROME pour fonder OrielCollege)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 05/09/2024)..

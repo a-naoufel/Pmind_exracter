@@ -1,0 +1,10 @@
+PERSON: CAROLUS de Lucemburgo
+Also known as: Carolus de LUCEMBURGO.
+Description: Evêque de Laon.
+Status: Incertain.
+Gender: male.
+Active during: %1460-1509%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Doyen de Laon % -1473% ;; Chanoine de Reims %1460-1473% ;; Chanoine de Cambrai %1467-1473% ;; Evêque de Laon %1473-1509% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 26/12/2025)..

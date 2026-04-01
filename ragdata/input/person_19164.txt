@@ -1,0 +1,10 @@
+PERSON: CAROLUS de Luvrigny
+Also known as: Charles de LUVRIGNY.
+Description: Écolier du collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1393-1394%.
+Studied at: Paris (Nation de Picardie) ;.
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège de Dormans-Beauvais : boursier en %1393-1394% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 2/04/2021)..

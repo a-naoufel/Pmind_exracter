@@ -1,0 +1,12 @@
+PERSON: HENRICUS Molitoris 2
+Also known as: Henricus MOLITORIS; Johannes MOLITORIS.
+Description: Chanoine de Lucerne.
+Status: Maître.
+Gender: male.
+Active during: %1483-1503%.
+Born in: Alémanie (Steckborn, près de Constance) ;.
+Diocese of origin: Diocèse de Constance ;.
+Studied at: Bâle %1483-1484% ;; Paris (Nation Anglo-allemande) %1484-1485%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Ecclesiastical positions held: Chanoine de Lucerne (Saint-Léger) %1485-1503% ;; Curé de Merenschwand ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 12/12/2025..

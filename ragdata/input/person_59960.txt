@@ -1,0 +1,10 @@
+PERSON: BERNARDUS Kale
+Also known as: Bernardus KALE.
+Description: Maître ès arts de Heidelberg.
+Status: Étudiant.
+Gender: male.
+Active during: %1388-1400%.
+Studied at: Paris ?.
+Academic grades obtained: Heidelberg ;; Étudiant (Paris) avant ?; Maître ès arts (Heidelberg) ;.
+Ecclesiastical positions held: Recteur de Bergen-op-Zoom ;; Chanoine de Cologne (Saints-Apôtres) ;.
+Source: RAG ;.

@@ -1,0 +1,9 @@
+PERSON: ADAM de Pontisara
+Also known as: Adam de PONTISARA.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1278-1278%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

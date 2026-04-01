@@ -1,0 +1,8 @@
+PERSON: FIRMINUS Guillier
+Also known as: Firminus GUILLIER.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1478-1478%.
+Studied at: Paris ?; Maître ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 14/05/2018)..

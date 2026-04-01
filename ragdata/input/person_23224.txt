@@ -1,0 +1,7 @@
+PERSON: GUILLELMUS Colon
+Also known as: Guillermus COLON.
+Description: Sergent du roi.
+Status: Extérieur.
+Gender: male.
+Active during: %1451-1451%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 04/03/2022..

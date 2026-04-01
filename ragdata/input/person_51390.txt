@@ -1,0 +1,11 @@
+PERSON: BERTRANDUS Dou Bordel
+Also known as: Bertrand dou BORDEL.
+Description: O.E.S.A..
+Status: Étudiant.
+Gender: male.
+Active during: %1326-1326%.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) en ?.
+College affiliation: Couvent des Grands-Augustins à Paris ;.
+Religious order: O.E.S.A. : frère augustin..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 30/10/2020..

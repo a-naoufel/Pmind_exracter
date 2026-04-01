@@ -1,0 +1,33 @@
+PERSON: GUILLELMUS de Hothum
+Also known as: William de HOTHUM; Guillelmus de ODONE; Guillaume de HOTHUN.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1268-1298%.
+Born in: Angleterre (Yorkshire ?)..
+Diocese of origin: Diocèse de York ?.
+Studied at: Oxford ;; Paris..
+Academic grades obtained: Bachelier en théologie (Oxford) ;; Docteur en théologie (Paris) av...
+College affiliation: Couvent des Jacobins..
+Family relationships: Son neveu est John de HOTHUM, évêque d'Ely ; Son neveu est William de HOTHUM, Chancelier de l’Échiquier d’Irlande,.
+Religious order: Dominicain : couvent (dominicain) d'Oxford en ..
+Religious functions: ?Prieur (dominicain) d'York ca.%1270-1271% ;; Provincial (dominicain) d'Angleterre en %1282-1287% ;; Provincial (dominicain) d'Angleterre en %1290-1296%..
+Ecclesiastical positions held: Archevêque de Dublin %1296-1298%..
+University functions: Oxford (couvent dominicain : cursor de sententiis %1268-1269%) ;; Paris (Couvent dominicain : lecteur des Sentences ) ;; Paris (Couvent dominicain : Maître-régent %1280-1282%) ;; Paris (Faculté de Théologie : lecteur des Sentences désigné %1287-1288%) ;.
+Representation roles: Envoyé à Rome par ÉDOUARD I pour traiter de la Croisade avec le pape NICOLAS IV en (8 mai-31 décembre) ;; Conseiller d'ÉDOUARD I pour le règlement de la succession d'Écosse en %1231-1292% ;; Négocie la trêve avec la France en ..
+Authored work: 'Comment.in IV libros Sententiarum.', composed around %1278-1280%.
+Authored work: '(Sermon pour le XXIVe dimanche après la Pentecôte)', composed around (16 novembre)..
+Authored work: '(Sermon pour Noël)', composed around (25 décembre)..
+Authored work: '(Sermon pour le IIe dimanche de Carême)', composed around ?.
+Authored work: '(Sermon : Principia (?))', composed around ?.
+Authored work: 'Sermo in festo Petri et Pauli apostolorum', composed around ?.
+Authored work: 'Sermo in dominica in octava paschae', composed around à Oxford.
+Authored work: 'Sermo in dominica IV Adventus', composed around ?.
+Authored work: 'Tractatus de immediata visione Dei', composed around ?.
+Authored work: 'Lecturae scholasticae', composed around ?.
+Authored work: 'Quodlibet', composed around (9 décembre).
+Authored work: 'Quaestio Oxoniae disputata', composed around ?.
+Authored work: '?Neuf sermons', composed around %1261-1263%..
+Authored work: 'Tractatus de unitate formarum', composed around ?.
+Authored work: 'Comm. in libros I-III De Anima.', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

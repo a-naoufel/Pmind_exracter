@@ -1,0 +1,17 @@
+PERSON: MICHAEL de Bystrzykow
+Also known as: Michael de BYSTRZYKOW; Michel PARISIENSIS.
+Description: Recteur de Cracovie.
+Status: Maître.
+Gender: male.
+Active during: %1475-1520%.
+Born in: Pologne..
+Studied at: Cracovie ;; Paris..
+Academic grades obtained: Maître ès arts (Paris) ;; Docteur Ph. (Cracovie) ;; Bachelier en théologie (Paris) ..
+Academic relationships: Son élève est Jean de STOBNICA..
+Religious order: Moine de Saint-Florian..
+University functions: Cracovie (Faculté des Arts : doyen %1495-1501%) ;; Cracovie (Université : recteur ) ;; Cracovie (Université : recteur )..
+Authored work: 'Quaestiones in libros analyticorum priorum et elenchorum Aristotelis'.
+Authored work: 'Quaestiones in libros analyticorum posteriorum et topicorum Aristotelis, cum resolutione... Scoti'.
+Authored work: 'Quaestiones veteris ac novae logicae cum resolutione textus Aristotelis... ad intentionem Scoti'.
+Authored work: 'Quaestiones magistri Michaelis Pariensis in tractatus parvorum logicalium Petri Hispani'.
+Source: MIRABILE : Federico CONTINI :.

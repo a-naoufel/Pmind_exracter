@@ -1,0 +1,11 @@
+PERSON: HAIMO Abbas Omnium Sanctorum Andegavensis
+Also known as: HAMO, abbé d’Angers (Toussaint).
+Description: Abbé de la Toussaint d’Angers.
+Status: Incertain.
+Gender: male.
+Active during: %1399-1399%.
+Studied at: ?.
+Academic grades obtained: Étudiant (Paris) ?.
+Religious order: O.S.A. : chanoine augustin..
+Religious functions: Abbé (O.S.B.) d'Angers (Toussaint)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 05/02/2023..

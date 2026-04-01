@@ -1,0 +1,9 @@
+PERSON: GERARDUS Girardi de Hecubliet
+Also known as: Gerardus GIRARDI; Girard GIRARDI de Hecubliet; Girard Gerardi de HECUBLIET.
+Description: Licencié en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1410-1414%.
+Studied at: Paris (Nation de Picardie) %1410-1414%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 9/01/2022..

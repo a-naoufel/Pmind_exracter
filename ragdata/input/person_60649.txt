@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Bar
+Also known as: Guillelmus de BAR.
+Description: Procureur du collège de Maître-Gervais.
+Status: Incertain.
+Gender: male.
+Active during: %1425-1429%.
+Studied at: ?.
+Academic grades obtained: ?.
+College affiliation: Collège de Maître-Gervais : procureur en %1425-1429% ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

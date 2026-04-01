@@ -1,0 +1,11 @@
+PERSON: PETRUS de Novavilla
+Also known as: Petrus de NOVAVILLA; Pierre de NEUVILLE.
+Description: Préchantre d'Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1263-1271%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Sous-diacre ;; Diacre ;.
+Ecclesiastical positions held: Préchantre d’Amiens %1263-1271% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 1/12/2021..

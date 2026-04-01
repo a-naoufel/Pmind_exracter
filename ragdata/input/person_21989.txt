@@ -1,0 +1,11 @@
+PERSON: ROBERTUS Jabin 1
+Also known as: Robertus JABIN.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1435-1435%.
+Born in: Orléanais ?.
+Diocese of origin: Diocèse de Chartres..
+Academic grades obtained: Bachelier en décret (Paris) ;.
+University functions: Paris (Faculté de Décret : lecteur des Décrétales, ) ;; Paris (Faculté de Décret : lecteur des Décrétales, ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 24/08/2024..

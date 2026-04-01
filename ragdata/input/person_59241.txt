@@ -1,0 +1,10 @@
+PERSON: RADULPHUS de Carnoto
+Also known as: Radulphus de CARNOTO.
+Description: Archidiacre de Puisaye.
+Status: Incertain.
+Gender: male.
+Active during: %1319-1319%.
+Studied at: ?.
+Academic grades obtained: Licencié en droit canon ;.
+Ecclesiastical positions held: Archiprêtre de Puisaye ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 25/06/2025)..

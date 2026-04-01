@@ -1,0 +1,10 @@
+PERSON: STEPHANUS Bray
+Also known as: Stephanus BRAY; Stephanus VRAY.
+Description: Boursier du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1404-1404%.
+Studied at: Paris (Nation de France)..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège d’Autun : boursier ès arts ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 08/06/2024..

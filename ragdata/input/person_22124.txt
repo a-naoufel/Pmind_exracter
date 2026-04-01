@@ -1,0 +1,10 @@
+PERSON: HOTFRIDUS
+Also known as: HOTFRID; OTFRID.
+Description: Chanoine de Tournai.
+Status: Incertain.
+Gender: male.
+Active during: %1116-1121%.
+Studied at: ?.
+Academic grades obtained: Magister ..
+Ecclesiastical positions held: Chanoine de Tournai %1116-1121% ?; Écolâtre de Tournai %1116-1121% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 14/05/2017..

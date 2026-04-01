@@ -1,0 +1,11 @@
+PERSON: ADAM de Schrivenham
+Also known as: Adam de SCHRIVENHAM.
+Description: Maître ès arts.
+Status: Extérieur.
+Gender: male.
+Active during: %1289-1303%.
+Born in: Angleterre..
+Studied at: Oxford (Merton College)..
+Academic grades obtained: Maître ès arts.
+University functions: Oxford (Merton College : fellow %1289-1303% ;; Oxford (Merton College : 2nd bursar %1300-1301% ;; Oxford (Université : Senior Proctor ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

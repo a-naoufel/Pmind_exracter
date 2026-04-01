@@ -1,0 +1,9 @@
+PERSON: STEPHANUS Cotias
+Also known as: Stephanus COTIAS.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1487-1487%.
+Studied at: Paris ..
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 04/09/2024..

@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Guichardi
+Also known as: Guillermus GUICHARDI.
+Description: Chanoine de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1307-1312%.
+Born in: Poitou ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son parent est Aimery GUiCHARD, chanoine de Poitiers (Saint-Hilaire) ; Son parent est Jean GUiCHARD, chanoine de Poitiers (Saint-Hilaire) ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Poitiers %1307-1311% ;; Chanoine de Poitiers (Saint-Hilaire) %1307-1308% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 10/12/2022..

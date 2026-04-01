@@ -1,0 +1,9 @@
+PERSON: CRISTANCIUS de Fonte Salutis
+Also known as: Cristancius de FONTE SALUTIS.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1448-1448%.
+Studied at: Paris (Nation Anglo-allemande)..
+Academic grades obtained: Étudiant (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 01/05/2021..

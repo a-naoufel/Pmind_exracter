@@ -1,0 +1,13 @@
+PERSON: ROBERTUS Ferre
+Also known as: Robertus FERRÉ.
+Description: Médecin du duc de Bretagne.
+Status: Incertain.
+Gender: male.
+Active during: %1434-1485%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Saint-Malo ;.
+Studied at: ?.
+Academic grades obtained: Maître en médecine ;.
+Ecclesiastical status: Clerc du diocèse de Saint-Malo ;.
+Ecclesiastical positions held: Préchantre de Tours (Saint-Martin) ;; Chanoine de Rennes en ;; Chanoine de Tréguier en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 5/09/2024..

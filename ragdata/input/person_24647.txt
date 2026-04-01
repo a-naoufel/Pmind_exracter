@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS de Solario 1
+Also known as: Guillelmus de SOLARIO; Guillaume DUSOLIER.
+Description: Écolier-boursier du Collège de Dormans-Beauvais.
+Status: Maître.
+Gender: male.
+Active during: %1384-1421%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Meaux ;.
+Studied at: Paris %1384-1389%.; Orléans ?.
+Academic grades obtained: Étudiant (Paris) %1384-1389% ;; Maître ès arts (Paris ?) ;; Étudiant en droit civil ;; Licencié en droit civil ;.
+College affiliation: Collège de Dormans-Beauvais : Écolier-boursier %1384-1389% ;.
+Family relationships: Son cousin est Guillaume de DORMANS, archevêque de Sens ; Son parent est Guillaume DUSOLIER, procureur au Châtelet ;.
+Ecclesiastical status: Clerc en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 18/04/2022..

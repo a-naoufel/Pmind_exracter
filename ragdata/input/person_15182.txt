@@ -1,0 +1,14 @@
+PERSON: RICARDUS Viardi
+Also known as: Richard VIARD.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1362-1371%.
+Born in: Normandie ..
+Diocese of origin: Diocèse d’Évreux ;.
+Studied at: Paris (Nation de Normandie).
+Academic grades obtained: Maître ès arts (Paris) avant ;; Maître en médecine (Paris) en ;; Étudiant en théologie depuis six ans en ;.
+Ecclesiastical status: Diacre du diocèse d’Évreux ;.
+Ecclesiastical positions held: Recteur de Tourneville; Provision pour un canonicat avec expectative de prébende de Douai (Saint-Amé) en réponse au rotulus de l'université de Paris en : mandat à l’official de Paris ;; Provision pour un canonicat avec expectative de prébende d’Évreux en réponse au rotulus de l'université de Paris en ;; Provision pour un canonicat avec expectative de prébende d’Évreux en réponse au rotulus de l'université de Paris en ;; Provision pour un canonicat avec expectative de prébende de Rouen en réponse au rotulus ‘réformé’ de l'université de Paris en ;; Provision pour un bénéfice ecclésiastique à la collation de l’abbé et du couvent du monastère du Bec-Hellouin en réponse au rotulus des nonces de l’université de Paris en ;; Chanoine de Douai (Saint-Amé) ;; Provision pour un canonicat avec expectative de prébende d’Évreux en réponse au rotulus de l’université de Paris en : mandat à l’official de Paris ;.
+University functions: Paris (Université : Recteur ) ;; Paris (Université : nonce pour porter le rotulus à Avignon en ) ;; Paris (Faculté de Médecine : maître-régent en ) ;; Paris (Faculté de Médecine : Doyen ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tourneroux ; révision, Jean-Philippe Genet, dernière mise à jour 1/10/2020)..

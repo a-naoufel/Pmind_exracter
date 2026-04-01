@@ -1,0 +1,83 @@
+PERSON: BEATUS Rhenanus
+Also known as: Beatus BILD; Beatus RHENANUS.
+Description: Éditeur humaniste.
+Status: Maître.
+Gender: male.
+Active during: %1503-1547%.
+Born in: Alémanie (Alsace : Sélestat) ;.
+Diocese of origin: Diocèse de Strasbourg..
+Studied at: Sélestat : école latine ;; Paris (Nation Anglo-allemande) %1502-1507%.; Bâle ;; Freiburg..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Family relationships: Son père est Anton BILD, boucher ; Sa femme est Barbara KEGEL, de Rheinau..
+Academic relationships: Son maître à Sélestat est Hieronymus GEBWILER ; Son maître à Paris est Jacques LEFÈVRE d’Ètaples ; Son maître à Bâle est Johannes CUNO avec qui il apprend le grec..
+Social origin: Bourgeoisie ;.
+University functions: Bâle (professeur, ) ;.
+Authored work: 'In Psalmos opusculum', composed around ..
+Authored work: 'De invidia oratio', composed around ..
+Authored work: 'Hymni Heroici Tres'.
+Authored work: 'Divini Gregorii de Nyssae episcopi …', composed around ..
+Authored work: 'Oratio', composed around ..
+Authored work: 'Basilius de differencia usiae et hypostasis', composed around ..
+Authored work: 'Oratio', composed around ..
+Authored work: '[Préface à] Paulus Cortesius in Sententias [of Petrus Lombardus]. Qui in hoc opere eloquentiam cum theologia coniunxit …', composed around ..
+Authored work: 'Aeneae platonici christiani, De immortalitate animae', composed around ..
+Authored work: 'Sermones', composed around ..
+Authored work: 'Opera Q. Septimi Florentis Tertulliani', composed around .
+Authored work: 'Missa D. Joannis Chrysostomi', composed around ..
+Authored work: 'Pauli Cortesi sacrarum literarum omniumque disciplinarum scientia summi viri libri tres', composed around ?.
+Authored work: 'Praefatio in missam Chrysostomi, à Leone Tusco … versa', composed around ?.
+Authored work: 'Epistola de missarum varietate', composed around ?.
+Authored work: 'De invidia et odio libellus', composed around ..
+Authored work: 'Epistola', composed around ..
+Authored work: 'Collectanea adagiorum', composed around ..
+Authored work: 'Contenta Georgii Trapezontii Dialectica', composed around .
+Authored work: 'Senecae De morte Claudii Caesaris', composed around ?.
+Authored work: 'Synesius Cyrenensis De laudibus Calvitii', composed around ?.
+Authored work: 'Erasmi Scarabeus', composed around ..
+Authored work: 'Auctarium selectarum aliquot epistolarum Erasmi Roterdami …', composed around ..
+Authored work: 'Familiarum Colloquiorum formule in gratia juvenitatis', composed around ?.
+Authored work: '(Épître à Thomas More)', composed around ?, dedicated to Adressé à Thomas MORE ;.
+Authored work: 'Erasmi Epistolae breviores', composed around ..
+Authored work: 'Moralium Magistri Petri Burri Carminum Libri novem cum argumentis et vocabulorum minus vulgarium compendiosa explanatione ...', composed around ..
+Authored work: 'Epistola Joanni Francisco Apezonibus Mirandulano', composed around ?, dedicated to Adressé à Giovanni Francesco PICO della Mirandola..
+Authored work: '(Épître au lecteur)', composed around ?.
+Authored work: 'Apologi quatuor', composed around ?.
+Authored work: 'C. Plinii Secundi Novocomensis epistolarum libri decem', composed around ?.
+Authored work: 'De modo et ordine docendi et discendi', composed around ..
+Authored work: 'De arte grammatica libri octo', composed around ..
+Authored work: 'Sylva Panegyrica ad Guarinum Veronensem praeceptorem suum. Et ejusdem Epigrammata', composed around ?.
+Authored work: 'Panegyrici', composed around ..
+Authored work: 'Veterum aliquot de arte Rhetoricia traditiones, de tropis in primis et schematis verborum', composed around ..
+Authored work: 'In C. Plinium', composed around ..
+Authored work: 'L. Annei Senecae Opera', composed around ..
+Authored work: 'Castigationes Petri Victorii in M.T. Ciceronis Epistolae', composed around ?.
+Authored work: 'Historia Mundi [Histoire naturalis]', composed around ..
+Authored work: 'Francisci Massarii Veneti in nonum Plinii de naturali historie kibrum castigationes et annotationes', composed around ?.
+Authored work: 'Opusculum Philippi Beroaldi de terre motu et pestilentia, cum annotationes in Galenum', composed around .
+Authored work: 'Beati Rhenani relatio ex Parnasso de vino Wizenhusano', composed around ?.
+Authored work: 'Decretum Gratiani : tabula marginalium glossularum, omnium canocnum conciliorum', composed around ?.
+Authored work: 'Correspondance', composed around ?.
+Authored work: 'Marci Antonii Coccii Sabellici Exemplorum Libri Decem', composed around ?.
+Authored work: 'Johannis Geileri Caesaremontani, primi concionatoris in aed. sacrae majoris ecclesiae argentoratensis, vita, per Beatum Rhenanum', composed around ..
+Authored work: 'C. Plinii Secundi Novocomensis De Viribus Illustribus', composed around ..
+Authored work: 'De moribus et populis Germaniae Libellus', composed around ..
+Authored work: 'Commentariolus uetusta Germaniae populorum uocabula paucis explicans et obiter alia quaedam', composed around ..
+Authored work: 'Velleius Paterculus. Historiae Romanae duo volumina', composed around ..
+Authored work: 'Annalium ab excessu Augusti … sive Historiae Augustae', composed around .
+Authored work: 'Auctores Historiae ecclesiasticae', composed around .
+Authored work: 'Trogi Pompei Externae historiae in compendium ab Justino redactae', composed around .
+Authored work: 'Rerum Germanicarum Libri Tres', composed around ..
+Authored work: 'Procopii Caesariensis de rebus gothorum, persarum ac vandalorum libri VII una cum aliis mediirum temproum historicis …', composed around .
+Authored work: 'Epitaphium Jacobi Wimphelingii', composed around ?.
+Authored work: 'Decades', composed around .
+Authored work: 'Vita Erasmi', composed around ..
+Authored work: 'Illyrici provinciarum … descriptio', composed around ..
+Authored work: 'Beati Rhenani Dissertatio epistolica de originibus Gothicis', composed around ?.
+Authored work: 'Politicorum libri octo', composed around ..
+Authored work: 'Artificialis introductio per modum epitomatis in decem libros Ethicorum Aristotelis : adiectis elucidata commentariis : qui post primam editionem nonnullis additis : accessionem crementumque hac in secunda recognitione ceperunt Beatus Rhenanus lectori bene agere …', composed around ..
+Authored work: 'Breve Sanctissimi domini nostri Leonis X summi pontificis ad Desyderium Erasmum Roterodamum, Eiusdem Beatissimi patris ad Henricum Angliae regem, alterum Breve commendatitium, pro Des. Erasmo Roterodamo'.
+Authored work: 'Utopia. Epigrammata', composed around .
+Authored work: 'Defensor Pacis', composed around ..
+Authored work: '(Préface au Defensor Pacis)', composed around ..
+Authored work: 'Admonitio B. Rhenani de quibudam Tertulliani dogmatibus', composed around .
+Source: Online-catalogue BnF-Opale ;.

@@ -1,0 +1,10 @@
+PERSON: GILBERTUS de Atrio
+Also known as: Gilbertus de ATRIO.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1340-1340%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant en théologie ?.
+College affiliation: Sorbonne ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 14/01/2022..

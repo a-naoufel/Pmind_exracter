@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Le Bigot
+Also known as: Guillelmus LE BIGOT.
+Description: Prieur de Saint-Mellon de Pontoise.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+Religious order: Prieur de Pontoise (Saint-Mellon) en ;.
+Source: Vincent Tabbagh, « Fiche de la collégiale Saint-Mellon de Pontoise », Collégiales - Base des collégiales séculières de France (816-1563) [en ligne <http://lamop-appli.univ-paris1.fr/collegiales/?ifichej156>], version du 5/3/2013, consultée le 18/8/2015.

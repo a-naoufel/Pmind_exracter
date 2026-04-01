@@ -1,0 +1,10 @@
+PERSON: FREDERICUS de Durne
+Also known as: Fredericus de DURNE.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1336-1336%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en théologie ?.
+College affiliation: Sorbonne..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 19/09/2021..

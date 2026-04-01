@@ -1,0 +1,64 @@
+PERSON: HAIMERICUS de Campo
+Also known as: Heimericus de CAMPO; Emmerich van den VELDE; Heymerich von KAMP.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1411-1460%.
+Born in: Brabant (Son, près de Eindhoven)..
+Diocese of origin: Diocèse d'Utrecht ?.
+Studied at: Paris vers %1411-1422% ;; Cologne %1422-1435% ;; Louvain..
+Academic grades obtained: Maître ès arts (Paris) ..
+Family relationships: Son père est probablement Godefridus de CAMPO, prêtre..
+Academic relationships: Son maître est Johannes de NOVADOMO à Paris ; Son élève est Nicolaus de CUSA..
+Social origin: ?.
+Ecclesiastical status: Prêtre du diocèse de Liège en ..
+Ecclesiastical positions held: Chanoine de Cologne (Saints-Apôtres) ;; Prébendier de Rosmalen ;; Chanoine de Louvain (Saint-Pierre) ;.
+University functions: Cologne (Faculté des Arts (Bursa Laurentiana) : Maître-régent %1422-1428%) ;; Cologne (Faculté des Arts : doyen en ) ;; Cologne (Faculté des Arts : doyen en ) ;; Cologne (Université : Vice-chancelier ) ;; Louvain (Faculté de Théologie : professeur %1435-1460%) ;; Louvain (Université : recteur , , , ) ;.
+Representation roles: Concile de Bâle : délégué de l’université de Cologne %1432-1435%..
+Authored work: 'Tractatus de philosophica interpretatione Sacrae Scripturae', composed around ?.
+Authored work: 'Recapitulatio in tractatum de Sacra Scriptura', composed around ?.
+Authored work: 'Divisio materialis et formalis sacrae Scripturae', composed around ?.
+Authored work: 'Ordinatio finalis sacrae paginate et conclusions, sententiae, epilogi', composed around ?.
+Authored work: 'Quaestiones super Apocalypsim beati Iohannis apostoli', composed around ..
+Authored work: 'Summarius Dominicae passionis epilogus', composed around ?.
+Authored work: 'Compendium theologiae', composed around ?.
+Authored work: 'Alphabetum doctrinale', composed around %1450-1453%.
+Authored work: 'Centheologicon', composed around %1450-1453%.
+Authored work: 'Testamentum doctrinale', composed around .
+Authored work: 'Tractatus de naturali veritatis catholicae analysi', composed around ?.
+Authored work: 'Dialogus cum Godefrido de Campo', composed around ?.
+Authored work: 'Excerptum ex Alani Lillae ‘Regulae de sacra theologia’', composed around ?.
+Authored work: 'Excerptum ex Petri Lombardi Sententiae', composed around ?.
+Authored work: 'Quadripartitus quaestionum sillogus supra libros Sententiarum Petri Lombardi', composed around %1434-1425%..
+Authored work: 'Sequuntur regulae communes philosophiae et fidei extractae ex libro ‘De arte fidei’ quem composuit quidam Nicholaus Ambianensis', composed around ?.
+Authored work: 'Colliget principiorum iuris naturalis, divini et humani philosophice doctrinalium', composed around ..
+Authored work: 'Determinatio super clausuram canonicorum regularium magistri Heymerici super eadem re scriptum', composed around %1436-1438% à Louvain..
+Authored work: 'Scriptum magistri Heymerici de Campo super clausuram regularium', composed around %1436-1438% à Louvain..
+Authored work: 'Glosa marginalis contra clausuram canonicorum regularium Guillelmi Bervoldi', composed around %1436-1438% à Louvain..
+Authored work: 'Excerptum ex Iunilli Africani ‘Instituta regularia’', composed around ?.
+Authored work: 'Solutiones dubiorum pro scrupulosis sub regula Augustini', composed around ?.
+Authored work: 'Epistola de laude religiosae solitudinis', composed around ?.
+Authored work: 'Millelogicon', composed around à Louvain..
+Authored work: 'Determinacio super peregrinaciones', composed around à Louvain..
+Authored work: 'De signis notionalibus trinitatis et unitatis supernae', composed around ?.
+Authored work: 'Invectiva', composed around ..
+Authored work: 'Attestatio reverendi domini Heymerici doctoris', composed around ?.
+Authored work: 'Conclusio epilogi et controversiarum resolutio', composed around ?.
+Authored work: 'Ars demonstrativa', composed around ..
+Authored work: 'Collectio positionum iuris naturalis deivini et humani philosophie doctrinalium', composed around ?.
+Authored work: 'Compendium divinum', composed around %1420-1422%?.
+Authored work: 'Compendium philosophie Aristotelis', composed around ?.
+Authored work: 'De esse et essentia', composed around .
+Authored work: 'De formis intentionalibus in lumine rationalis nature, gratie et glorie'.
+Authored work: 'Summaria ex Arte grammatica Donati theologice confirmata'.
+Authored work: 'Epistolae', composed around %1432-1434%..
+Authored work: 'Compendium Ethicorum', composed around ?.
+Authored work: 'Summaria Cathonis ethica', composed around %1450-1453%..
+Authored work: 'Epistola ad Martinum V', composed around à Cologne..
+Authored work: 'Tractatus de regno sacerdotali Ecclesiae', composed around ?.
+Authored work: 'Disputatio de potestate ecclesiastica in concilio Basiliensi collata', composed around à Bâle..
+Authored work: 'De concilio Basiliensi', composed around %1432-1435% à Bâle..
+Authored work: 'Sermo factus Basileae in synodo in die sancti Augustini', composed around %1432-1435%? à Bâle..
+Authored work: 'Apologia cur recesserit a concilio Basiliensi et Eugenio quarto adheserit', composed around ..
+Authored work: 'Epistola ad papam Eugenium IV de postestate papae et concilii generalis', composed around à Louvain..
+Source: MIRABILE, Alessandra MALQUORI :.

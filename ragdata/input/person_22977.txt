@@ -1,0 +1,9 @@
+PERSON: ANDREAS Courault
+Also known as: Andreas COURAULT.
+Description: Magister.
+Status: Incertain.
+Gender: male.
+Active during: %1459-1460%.
+Studied at: ?.
+Academic grades obtained: Magister (Paris ?) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

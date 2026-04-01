@@ -1,0 +1,10 @@
+PERSON: ROBERTUS GUION
+Also known as: Robert GUION.
+Description: Procureur du collège d’Autun.
+Status: Incertain.
+Gender: male.
+Active during: %1460-1463%.
+Studied at: ?.
+Academic grades obtained: ?.
+College affiliation: Collège d’Autun : procureur %1460-1463% ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

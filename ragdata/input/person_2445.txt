@@ -1,0 +1,10 @@
+PERSON: GALTERIUS Cluniacensis
+Also known as: Galterus CLUNIACENSIS.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1308-1308%.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie en ;.
+Religious order: O.Cl. : moine clunisien ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 6/11/2021..

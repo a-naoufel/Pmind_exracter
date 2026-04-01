@@ -1,0 +1,14 @@
+PERSON: RENERIUS La Gorge de Montaigu
+Also known as: Renerius LA GORGE de Montaigu; Reynerus LAGORGE; Regnier LAGORGE.
+Description: Maître en arts et en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1376-1403%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ;.
+Studied at: Paris (Nation de Picardie) ;.
+Academic grades obtained: Maître ès arts (Paris) ;; Licencié en médecine (Paris) avant ;; Maître en médecine (Paris) ?.
+College affiliation: Collège de Laon : boursier ès arts %1376-1382% ;; Collège de Laon : boursier en médecine %1382-1388% ;; Collège de Laon : procureur %1384-1385% ;.
+Ecclesiastical status: Prêtre du diocèse de Laon en ;.
+Ecclesiastical positions held: Chanoine de Crécy (Saint-Georges) au diocèse de Meaux en ;; Chapelain de Saint-Faron (chapelle Saint-Fiacre) au diocèse de Meaux en ;; Chapelain dans le diocèse de Bayeux en ;; Candidat à un bénéfice sur le Magnus Rotulus de l’Université de Paris daté de (21 octobre) et présenté à BENOÎT XIII ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 16/01/2024..

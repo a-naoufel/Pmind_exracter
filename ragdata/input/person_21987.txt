@@ -1,0 +1,10 @@
+PERSON: ADAM Le Cirier 2
+Also known as: Adam LE CIRIER.
+Description: Sous-maître du Collège de Dormans-Beauvais.
+Status: Maître.
+Gender: male.
+Active during: %1488-1488%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) ?.
+College affiliation: Sous-maître du Collège de Dormans-Beauvais ;.
+Source: LAMOP : Opération Charles VI :.

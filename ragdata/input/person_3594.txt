@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Charleis
+Also known as: Guillaume de CHARLEIS.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1282-1282%.
+Studied at: ?Paris..
+Academic grades obtained: Magister ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne TOURNIEROUX ; révision, Jean-Philippe GENET, 23/03/2020..

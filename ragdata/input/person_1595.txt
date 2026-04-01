@@ -1,0 +1,10 @@
+PERSON: CAYNARDUS de VeteriUmea
+Also known as: Caynardus de VETERIUMEA.
+Description: Cistercien.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris en ..
+Academic grades obtained: Étudiant ?.
+Religious functions: Cistercien, de l'abbaye (cistercienne) de Viegnis, près de Liège : dans la liste, il est simplement qualifé de "Monachus"..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 06/04/2021..

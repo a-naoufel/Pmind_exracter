@@ -1,0 +1,11 @@
+PERSON: HERMANNUS Lurez de Nurenberghe
+Also known as: Hermannus LUREZ de Nurenberghe.
+Description: Recteur de l'Université d'Erfurt.
+Status: Extérieur.
+Gender: male.
+Active during: %1396-1396%.
+Born in: Franconie (Nüremberg) ?.
+Diocese of origin: Diocèse de Bamberg ?.
+Studied at: Erfurt..
+University functions: Erfurt : recteur en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 08/08/2022..

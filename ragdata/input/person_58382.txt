@@ -1,0 +1,11 @@
+PERSON: LAURENTIUS 1
+Also known as: LAURENTIUSS.
+Description: Chanoine victorin.
+Status: Incertain.
+Gender: male.
+Active during: %1125-1125%.
+Studied at: Paris..
+Academic grades obtained: Etudiant (Paris)..
+Academic relationships: Son maître est Hugues de SAINT-VICTOR..
+Religious order: O.S.A. : chanoine de Paris (Saint-Victor)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 10/01/2025..

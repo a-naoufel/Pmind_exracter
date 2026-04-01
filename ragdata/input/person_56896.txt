@@ -1,0 +1,11 @@
+PERSON: SIMON Cordelli
+Also known as: Simon CORDELLI.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1455-1455%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris (Nation de France) %1455-1455%..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 1/12/2023..

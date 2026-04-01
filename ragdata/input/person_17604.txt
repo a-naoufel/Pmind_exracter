@@ -1,0 +1,11 @@
+PERSON: GALFREDUS Ambello
+Also known as: Goffridus AMBELLO.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1448-1448%.
+Born in: Anjou-Maine ?.
+Diocese of origin: Diocèse d'Angers..
+Studied at: Paris %1448-1448%..
+Academic grades obtained: Bachelier en décret (Paris) 21 février ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 30/09/2021..

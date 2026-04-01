@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Guioti 1
+Also known as: Guillelmus GUIOTI; Guillelmus GUIOTTI.
+Description: Sous bedeau de la Faculté de décret..
+Status: Suppôt.
+Gender: male.
+Active during: %1424-1438%.
+Studied at: Paris %1424-1438%..
+Academic grades obtained: ?.
+University functions: Sousbedeau de la Faculté de décret, %1424-1438%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Anne Tournieroux ; révision, Jean-Philippe Genet, 27/10/2018..

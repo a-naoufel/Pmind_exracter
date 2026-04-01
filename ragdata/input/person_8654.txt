@@ -1,0 +1,9 @@
+PERSON: LAURENTIUS de Hispania
+Also known as: Laurentius de HISPANIA.
+Description: Étudiant ?.
+Status: Incertain.
+Gender: male.
+Active during: %1310-1310%.
+Born in: Espagne ?.
+Studied at: Paris ?.
+Academic grades obtained: ?.

@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Fonte Frigido
+Also known as: Guillelmus de FONTE FRIGIDO; Guillaume de FONTFROIDE.
+Description: Cistercien.
+Status: Maître.
+Gender: male.
+Active during: %1360-1360%.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) ?.
+College affiliation: Collège Saint-Bernard : maître en théologie ?.
+Religious order: O. Cist. : moine de l’abbaye (cistercienne) de Fontfroide ;.
+Religious functions: Abbé (cistercien) du collège Saint-Bernard..
+Authored work: 'Responsio in aula magistri Guillelmi de Fonte Frigido', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 15/03/2020..

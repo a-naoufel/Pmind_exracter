@@ -1,0 +1,10 @@
+PERSON: DROCO Picart
+Also known as: Droco PICART.
+Description: Trésorier d’Auxerre.
+Status: Extérieur.
+Gender: male.
+Active during: %1487-1513%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Auxerre %1487-1513% ;; Trésorier d’Auxerre %1506-1513% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2020)..

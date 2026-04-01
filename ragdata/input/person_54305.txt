@@ -1,0 +1,11 @@
+PERSON: MILO Gibier
+Also known as: Milo GIBIER.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1485-1521%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Sens (‘Saint-Pierre’) %1485-1491% ;; Chanoine de Sens (‘Saint-Jean-Baptiste’) %1491-1498% ;; Chanoine de Sens %1498-1521% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 25/09/2022..

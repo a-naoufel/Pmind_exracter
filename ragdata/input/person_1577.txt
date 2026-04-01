@@ -1,0 +1,10 @@
+PERSON: CADIOCUS
+Also known as: CADIOCUS, évêque de Vannes.
+Description: Évêque de Vannes.
+Status: Incertain.
+Gender: male.
+Active during: %1232-1254%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Évêque de Vannes %1232-1254%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/03/2021)..

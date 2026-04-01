@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Morandi
+Also known as: Guillelmus MORANDI.
+Description: Chanoine d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1341-1345%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chanoine d’Amiens ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

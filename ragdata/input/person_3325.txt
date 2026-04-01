@@ -1,0 +1,10 @@
+PERSON: GARINUS Goujon
+Also known as: Guerinus GOUJON; Guérin GOUJON.
+Description: Licencié en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1430-1432%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie) %1430-1432%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 23/11/2021..

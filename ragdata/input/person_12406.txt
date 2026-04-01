@@ -1,0 +1,13 @@
+PERSON: IVO Brito 2
+Also known as: Ivo BRITO; Yves le BRETON.
+Description: Chanoine de Reims.
+Status: Maître.
+Gender: male.
+Active during: %1263-1282%.
+Born in: Bretagne..
+Studied at: Paris ..
+Academic grades obtained: Licencié en théologie (Paris) ;; Maître en théologie (Paris)..
+Ecclesiastical status: Clerc..
+Ecclesiastical positions held: Chanoine de Reims %1264-1282%..
+University functions: Paris (Faculté de Théologie : maître-régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 19/09/2022..

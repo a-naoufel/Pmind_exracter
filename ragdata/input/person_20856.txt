@@ -1,0 +1,12 @@
+PERSON: Scolaris de Miratorio
+Also known as: Scolaris de MIRATORIO.
+Description: Cistercien.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Diocese of origin: Diocèse de Lyon ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+College affiliation: Collège des Bernardins ;.
+Religious order: O. Cist. : abbaye (cistercienne) du Miroir (diocèse de Lyon) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 30/08/2016..

@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Moeti
+Also known as: Nicolaus MOETI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1450-1450%.
+Studied at: Paris (Nation de France) %1454-1454%..
+Academic grades obtained: Maître ès arts (Paris) ;.
+University functions: Paris (Nation de France : élu en (31 décembre) tentator bachalariorum pour la province de Soissons) ;).
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 27/03/2023..

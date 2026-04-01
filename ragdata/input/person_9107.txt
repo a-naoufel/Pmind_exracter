@@ -1,0 +1,14 @@
+PERSON: NICOLAUS Johannis 3
+Also known as: Nicolas JOHANNIS.
+Description: Étudiant en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1376-1379%.
+Born in: Pays-Bas ?.
+Diocese of origin: Diocèse d'Utrecht..
+Studied at: Paris (Nation Anglo-allemande) %1376-1379%..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Licencié en médecine (Paris) avant ;; Étudiant en théologie (Paris) %1376-1379%..
+Family relationships: Son père est Nicolaus JOHANNIS..
+Ecclesiastical status: Clerc du diocèse d'Utrecht ;.
+Ecclesiastical positions held: Candidat à un canonicat de Notre-Dame d'Utrecht en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux , révision, Jean-Philippe Genet, 22/10/2023..

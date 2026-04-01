@@ -1,0 +1,12 @@
+PERSON: ALBERTUS 5
+Also known as: ALBERTUS.
+Description: Frère dominicain.
+Status: Incertain.
+Gender: male.
+Active during: %1283-1289%.
+Born in: Suède?.
+Studied at: Paris (Studium generale des Dominicains), avant ;.
+Academic grades obtained: É. (P), avant ..
+Religious order: O.P.: province de Dacie..
+Religious functions: Lecteur du couvent de Visby, %1283-1289%;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth MORNET 12/07/2021..

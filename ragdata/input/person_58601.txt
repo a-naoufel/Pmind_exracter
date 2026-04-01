@@ -1,0 +1,12 @@
+PERSON: HERMANNUS 3
+Also known as: HERMANNUS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1268-1268%.
+Born in: Saxe (Thuringe) ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+Family relationships: Son père est HEINRICH, prévôt de Glasberg, près de Iéna ;.
+Social origin: Noble ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 18-02-2025..

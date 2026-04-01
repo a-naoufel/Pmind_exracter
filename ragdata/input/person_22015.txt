@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Monasteriis
+Also known as: Guillelmus de MONASTERIIS; Guillaume de MOUSTIERS.
+Description: Chanoine de Laon.
+Status: Incertain.
+Gender: male.
+Active during: %1272-1314%.
+Studied at: ?.
+Academic grades obtained: Magister..
+Social origin: Noble..
+Ecclesiastical status: Diacre..
+Ecclesiastical positions held: Chanoine de Laon %1272-1314% ;; Chanoine de Reims %1298-1307 ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 04/04/2022..

@@ -1,0 +1,10 @@
+PERSON: STEPHANUS de Bona Valle
+Also known as: Stephanus de BONA VALLE.
+Description: Clerc.
+Status: Maître.
+Gender: male.
+Active during: %1267-1267%.
+Studied at: Paris ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Clerc ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/02/2024)..

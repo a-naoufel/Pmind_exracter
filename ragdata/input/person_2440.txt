@@ -1,0 +1,13 @@
+PERSON: GAILLARDUS de Preyssaco 1
+Also known as: Galhardus de PREYSSAC.
+Description: Evêque de Toulouse.
+Status: Extérieur.
+Gender: male.
+Active during: %1305-1327%.
+Born in: Aquitaine (Gascogne)..
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son père est Arnaud-Bernard de PREYSSAC, soudan de LaTrau et seigneur d'Uzeste ? Sa mère est Gaillarde de GOT ? Son frère est Gaillard de PREYSSAC, chanoine de Cambrai. Son oncle est CLEMENT V..
+Social origin: Noble..
+Ecclesiastical positions held: Evêque de Toulouse %1305-1317% ;; Evêque de Riez ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 27/09/2021.

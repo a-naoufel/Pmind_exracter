@@ -1,0 +1,10 @@
+PERSON: GALTERIUS de Essi
+Also known as: Galterius de ESSI.
+Description: Détenteur d’une maison à Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1280-1280%.
+Studied at: ?.
+Academic grades obtained: ?.
+Social origin: Bourgeois de Paris ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 10/11/2021..

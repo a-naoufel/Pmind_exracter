@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Palude
+Also known as: Guillelmus de PALUDE; Guillaume de PALUDE.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1331-1331%.
+Studied at: Paris %:1331-1331%..
+Academic grades obtained: Maître en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : rédaction, Anne Tournieroux ; dernière révision : Jean-Philippe GENET, 14/04/2020..

@@ -1,0 +1,12 @@
+PERSON: ROBERTUS Morge
+Also known as: Robertus MORGE.
+Description: Principal du collège d’Autun.
+Status: Maître.
+Gender: male.
+Active during: % -1438%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse de Clermont ;.
+Studied at: Paris.
+Academic grades obtained: Maître ès arts (Paris) avant ?; Étudiant en décret (Paris) %1414-1422% ;.
+College affiliation: Collège d'Autun : boursier en décret en %1414-1422% ;; Collège d'Autun : principal ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 04/09/2024..

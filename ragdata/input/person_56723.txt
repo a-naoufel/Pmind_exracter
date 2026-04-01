@@ -1,0 +1,11 @@
+PERSON: HERVEUS Le Man
+Also known as: Herveus LE MAN.
+Description: Maître du collège de Carembert.
+Status: Maître.
+Gender: male.
+Active during: %1492-1492%.
+Born in: Bretagne ?.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ?.
+College affiliation: Collège de Carembert : Maître en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/10/2023)..

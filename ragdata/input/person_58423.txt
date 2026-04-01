@@ -1,0 +1,9 @@
+PERSON: NICOLAUS 13
+Also known as: NICOLAUS.
+Description: Sous-bedeau de la Nation Anglo-allemande.
+Status: Suppôt.
+Gender: male.
+Active during: %1356-1362%.
+Studied at: Paris (Nation Anglo-allemande)..
+University functions: Paris (Nation Anglo-allemande : sous-bedeau de la nation en %1356-1358% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/12/2024)..

@@ -1,0 +1,11 @@
+PERSON: MATTHAEUS Vavassoris 1
+Also known as: Matthaeus VAVASSORIS; Matheus le VAUVASSEUR; Mathieu LEVAVASSEUR.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1342-1342%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Bayeux ;.
+Studied at: Paris..
+Ecclesiastical status: Clerc du diocèse de Bayeux ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 24/01/2020..

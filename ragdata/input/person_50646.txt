@@ -1,0 +1,9 @@
+PERSON: AEGIDIUS Curatus de Gentilly
+Also known as: AEGIDIUS, Curé de Gentilly.
+Description: Curé de Gentilly.
+Status: Extérieur.
+Gender: male.
+Active during: %1331-1331%.
+Studied at: ?.
+Ecclesiastical positions held: Curé de Gentilly ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 14/03/2020..

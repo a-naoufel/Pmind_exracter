@@ -1,0 +1,9 @@
+PERSON: MARIA de Sancto Patulo
+Also known as: Maria de SANCTO PATULO.
+Description: Détentrice d’une maison à Paris.
+Status: Extérieur.
+Gender: female.
+Active during: %1280-1280%.
+Studied at: ?.
+Social origin: Bourgeoise de Paris ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 17/11/2019..

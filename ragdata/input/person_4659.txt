@@ -1,0 +1,11 @@
+PERSON: HENRICUS Beuve
+Also known as: Henricus BEUVE; Henricus BUEUVE; Henricus BEVE; Henricus BENE; Henricus BUENNE.
+Description: Docteur en décret.
+Status: Maître.
+Gender: male.
+Active during: %1379-1394%.
+Studied at: Paris %1379-1394%.
+Academic grades obtained: Docteur en décret (Paris) avant ..
+Religious order: O.S.B. : moine bénédictin de l'abbaye (bénédictine) de Saint-Maur-des-Fossés (Diocèse de Paris)..
+University functions: Paris (Faculté de Décret : il est actif à la faculté de décret de Paris, %1379-1394%) ;; Paris (Faculté de Décret : Doyen ) ;; Paris (Faculté de Décret : Doyen %1390-1391%) ;; Paris (Faculté de Théologie : Témoin de la rétraction des affirmations d'un religieux soutenant les thèses de Juan de MONZON, O.P. en septembre ) ;; Paris (Université : il est un des 40 maîtres discutant de la position à tenir par l'université sur les différents moyens de régler le schisme, notamment le 25 février ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 23/06/2022..

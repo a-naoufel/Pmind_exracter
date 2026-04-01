@@ -1,0 +1,12 @@
+PERSON: FLORENTIUS Brunelli
+Also known as: Florentius BRUNELLI.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1378-1378%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Beauvais ..
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ;.
+Ecclesiastical positions held: Supplique pour un canonicat avec expectative de prébende à l'églisecollégiale de Gerberoy (Saint-Pierre) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction et dernière mise à jour, Jean-Philippe Genet, 11/08/2021..

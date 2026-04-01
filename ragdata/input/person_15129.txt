@@ -1,0 +1,10 @@
+PERSON: PETRUS de Marvilla
+Also known as: Pierre de MARVILLA; Petrus de MARVILLA.
+Description: Maître en arts et écolier de la Faculté de médecine..
+Status: Maître.
+Gender: male.
+Active during: %1385-1385%.
+Studied at: Paris %1385-1385%..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en médecine (Paris) ..
+Family relationships: Son oncle est le doyen de Longuyon..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Yournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 26/02/2024)..

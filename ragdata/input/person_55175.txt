@@ -1,0 +1,10 @@
+PERSON: PETRUS de Campis 1
+Also known as: Petrus de CAMPIS.
+Description: Chanoine de Meaux.
+Status: Incertain.
+Gender: male.
+Active during: %1316-1317%.
+Studied at: ?.
+Academic grades obtained: Maître en médecine ;.
+Ecclesiastical positions held: Chanoine d’Autun ;; Chanoine de Meaux ;; Chanoine de LePuy ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 31/01/2023..

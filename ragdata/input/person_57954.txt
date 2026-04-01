@@ -1,0 +1,7 @@
+PERSON: PETRUS Theeudet
+Also known as: Petrus THEEUDET.
+Description: Locataire de la Sorbonne.
+Status: Extérieur.
+Gender: male.
+Active during: %1460-1460%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 08/07/2024..

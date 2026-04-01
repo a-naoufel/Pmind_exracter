@@ -1,0 +1,9 @@
+PERSON: DURANDUS Gerlier
+Also known as: Durand GERLIER.
+Description: Libraire-juré.
+Status: Maître.
+Gender: male.
+Active during: %1489-1529%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) ..
+Source: DATA.bnf :.

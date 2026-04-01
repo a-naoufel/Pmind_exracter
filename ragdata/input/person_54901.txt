@@ -1,0 +1,27 @@
+PERSON: GUILLELMUS Heytesbury
+Also known as: Guillelmus HEYTESBURY; Guillelmus de HEYTESBURY; Guillelmus HENTISBERUS; William HEYTESBURY.
+Description: Maître ès arts.
+Status: Extérieur.
+Gender: male.
+Active during: %1330-1372%.
+Born in: Angletrre (Wiltshire ?)..
+Diocese of origin: Diocèse de Salisbury ;.
+Studied at: Oxford..
+Academic grades obtained: Maître ès arts (Oxford) ;; Docteur en théologie (Oxford) dès (juillet)..
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Recteur d’Aldington (Kent) % -1354% ;; Recteur d’Ickham (Kent) 1354-1372% ;; Chanoine de Wingham (Kent) : %1359-1373% ;; Provisions pour un canonicat de Salisbury en ;; Chanoine de Chichester ;.
+University functions: Oxford (Merton College : fellow %1330-1348% au moins) ;; Oxford (Merton College : 1st bursar %1338-1339) ;; Oxford (Queen’s College : Foundation fellow en , mais il ne semble pas avoir été à Queen’s) ;; Oxford (Université : chancelier avant , selon toute vraisemblance vers %1352-1354%) ;; Oxford (Université : chancelier %1370-1371%) ;.
+Authored work: 'Casus obligatorii', composed around ?.
+Authored work: 'De sensu composito et diviso', composed around ?.
+Authored work: 'De significatione propositionum mulitiplicium', composed around ?.
+Authored work: 'De motu locali', composed around ?.
+Authored work: 'Regulae solvendi sophismata', composed around ..
+Authored work: 'Probationes conclusionum', composed around ?.
+Authored work: 'Sophismata XXXII', composed around ?.
+Authored work: 'Sophismata ‘Tu es asinus’', composed around Vers ..
+Authored work: 'Termini naturales', composed around ?.
+Authored work: 'Tractatus consequentiarum', composed around ?.
+Authored work: 'De veritate et falsitate propositionis', composed around ?.
+Authored work: 'Insolubilia', composed around ?.
+Authored work: 'Tractatus de eventu futurorum', composed around ?.
+Source: MIRABILE : Federico CONTINI :.

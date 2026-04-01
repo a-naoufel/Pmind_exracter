@@ -1,0 +1,11 @@
+PERSON: FRANCISCUS Nicolaus d'Auzanvilliers
+Also known as: Franciscus NICOLAUS d'Auzanvilliers; Franciscus Nicolaus d'AUZANVILLIERS.
+Description: Abbé de Saint Rémi de Reims.
+Status: Étudiant.
+Gender: male.
+Active during: %1473-1473%.
+Studied at: Paris ()..
+Academic grades obtained: Étudiant en théologie ?.
+Religious order: Bénédictin..
+Religious functions: Abbé (bénédictin) de Reims (Saint Rémi) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 09/09/2021..

@@ -1,0 +1,13 @@
+PERSON: MATTHAEUS Fonton
+Also known as: Matthaeus FONTON; Matthaeus FONTONIS.
+Description: Boursier en théologie du collège d’Autun.
+Status: Maître.
+Gender: male.
+Active during: %1509-1518%.
+Born in: Auvergne ;.
+Diocese of origin: Diocèse de Saint-Flour ;.
+Studied at: Paris %1509-1518%..
+Academic grades obtained: Étudiant en théologie (Paris) %1514-1518% ;.
+College affiliation: Collège de Reims : étudiant ès arts ;; Collège d'Autun : boursier en théologie en %1514-1518% ;.
+Academic relationships: Son maître est Jérôme de HANGEST pour la maîtrise ès arts ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

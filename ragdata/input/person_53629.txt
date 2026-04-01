@@ -1,0 +1,10 @@
+PERSON: AEGIDIUS de Molinis
+Also known as: Egidius de MOLINIS.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1434-1434%.
+Studied at: Paris ..
+Academic grades obtained: Licencié en décret (Paris) (4 avril) ;.
+Academic relationships: Son maître est Paquerus de VALLIBUS pour la licence en décret en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/04/2022..

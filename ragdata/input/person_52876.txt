@@ -1,0 +1,12 @@
+PERSON: SIMON de Paris 1
+Also known as: Simon de PARIS.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1237-1262%.
+Born in: Île-de-France (Paris ?) ?.
+Diocese of origin: Paris ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Rouen %1237-1262% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/05/2025..

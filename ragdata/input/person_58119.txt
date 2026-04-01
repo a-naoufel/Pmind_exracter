@@ -1,0 +1,13 @@
+PERSON: ANSELMUS della Pusterla
+Also known as: Anselmo DELLA PUSTERLA.
+Description: Archevêque de Milan.
+Status: Étudiant.
+Gender: male.
+Active during: %1107-1136%.
+Born in: Italie (Lombardie : Milan) ;.
+Diocese of origin: Diocèse de Milan..
+Studied at: Milan.; Tours en %1106-1107% ;; Paris en %1106-1107% ;; Laon en ..
+Academic grades obtained: Étudiant (Paris) %1106-1107% ;.
+Academic relationships: Son maître est ALFRED à Tours en %1106-1107% ; Son maître est Guillaume de CHAMPEAUX à Paris en %1106-1107%. Son maître est Anselme de LAON à Laon en ; Son maître à Laon est RODOLPHE à Laon en ..
+Ecclesiastical positions held: Archevêque de Milan %1126-1135%.
+Source: DBI : Maria-Luisa MARZORATI ;.

@@ -1,0 +1,11 @@
+PERSON: ODO Nobilis
+Also known as: Odo NOBILIS; Eudes LE NOBLE.
+Description: Médecin.
+Status: Maître.
+Gender: male.
+Active during: %1433-1453%.
+Born in: Normandie..
+Studied at: Paris (Nation de Normandie ?) %1433-1438% ;.
+Academic grades obtained: Bachelier en médecine (Paris) en ;; Licencié en médecine (Paris) ;.
+University functions: Caen (Faculté de Médecine : maître-régent ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 18/09/2024..

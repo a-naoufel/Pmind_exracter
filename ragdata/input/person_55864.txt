@@ -1,0 +1,11 @@
+PERSON: HUGO de La Varenne
+Also known as: Hugues de LAVARENNE; Hugo de VARENA; Hugues de LAGARENNE.
+Description: Notaire au Châtelet de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1411-1414%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse d’Auxerre ;.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

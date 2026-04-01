@@ -1,0 +1,8 @@
+PERSON: BERNARDUS de Pertot
+Also known as: Bernardus de PERTOT.
+Description: Citoyen de Montpellier.
+Status: Extérieur.
+Gender: male.
+Active during: %1339-1339%.
+Born in: Montpellier ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 2/02/2021)..

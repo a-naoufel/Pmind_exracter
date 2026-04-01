@@ -1,0 +1,17 @@
+PERSON: HERVEUS de Gif
+Also known as: Hervé de GIF.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1273-1303%.
+Born in: Île-de-France (Gif) ?.
+Diocese of origin: Diocèse de Paris ?.
+Studied at: ?Paris.
+Academic grades obtained: Étudiant ?.
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Paris..
+Religious functions: Prédicateur (dominicain) de Paris en ..
+Authored work: 'Sermo fr. Arvei de Gif predic. ad S. Lefredum codem die S. Vincentii post prandium', composed around (22 janvier à Paris)..
+Authored work: 'Sermo fr. Harveti de Gith ad S. Gervasium eodem die<Sexages.> post prandium (Parisiis 12 II 1273)', composed around (12 février à Paris)..
+Authored work: 'Sermo fr. Harney de Gif predicat. ad S. Johannem in Gravia Dom. V Pascha statim post (Parisiis 14 V 1273)', composed around (14 mai à Paris)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 7/01/2024..

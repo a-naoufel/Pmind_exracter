@@ -1,0 +1,10 @@
+PERSON: PETRUS Cotini
+Also known as: Petrus COTINI.
+Description: Chanoine de Besançon.
+Status: Incertain.
+Gender: male.
+Active during: %1422-1426%.
+Studied at: ?.
+Academic grades obtained: Docteur en droit canon ;.
+Ecclesiastical positions held: Doyen d’Avignon (Saint-Pierre) en ;; Chanoine de Besançon en %1424-1426% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/03/2022)..

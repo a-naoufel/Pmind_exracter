@@ -1,0 +1,10 @@
+PERSON: PETRUS de Chastel
+Also known as: Pierre de CHASTEL.
+Description: Beau-frère de Raoul de Presles.
+Status: Extérieur.
+Gender: male.
+Active during: %1337-1337%.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son père est Jean CHAUCHIER Sa soeur est Jeanne de CHASTEL ; Son frère est Jean de CHASTEL ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

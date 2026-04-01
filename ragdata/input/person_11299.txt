@@ -1,0 +1,9 @@
+PERSON: RODULFUS Gramaticus
+Also known as: Rodulfus GRAMATICUS; Rudolphus GRAMATICUS.
+Description: Maître en grammaire..
+Status: Maître.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+University functions: Maître en grammaire..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 31/08/2024)..

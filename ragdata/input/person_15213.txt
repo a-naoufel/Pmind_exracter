@@ -1,0 +1,12 @@
+PERSON: THEODERICUS de Schiedam
+Also known as: Thierry de SCHIEDAM.
+Description: Maître en arts et étudiant en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1394-1396%.
+Born in: Pays-Bas (Hollande : Schiedam ?) ?.
+Diocese of origin: Diocèse d'Utrecht ?.
+Studied at: Paris (Nation Anglo-allemande) %1394-1396%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Étudiant en médecine (Paris) ..
+University functions: Paris (Nation Anglo-allemande : Procureur %1395-1396%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 28/09/2024).

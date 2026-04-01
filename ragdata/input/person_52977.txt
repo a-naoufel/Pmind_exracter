@@ -1,0 +1,10 @@
+PERSON: NOVUS
+Also known as: NOVUS; NONUS.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1250-1250%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Rouen ?; Chanocelier de Rouen ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/11/2021..

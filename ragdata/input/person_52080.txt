@@ -1,0 +1,10 @@
+PERSON: HENRICUS Perrier
+Also known as: Henricus PÉRRIER.
+Description: Maître du Collège de Cornouaille.
+Status: Maître.
+Gender: male.
+Active during: %1401-1401%.
+Studied at: Paris (Nation de France ?) ..
+Academic grades obtained: Maître ès arts (Paris ?) ?.
+College affiliation: Collège de Cornouaille : maître ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/03/2021..

@@ -1,0 +1,16 @@
+PERSON: ROBERTUS Meludensis
+Also known as: Robertus MELUDENSIS; Robert de MELUN.
+Description: Évêque de Hereford.
+Status: Maître.
+Gender: male.
+Active during: %1120-1167%.
+Born in: Angleterre ;.
+Studied at: Paris..
+Academic grades obtained: Magister dès ;.
+Academic relationships: Son maître est Hugues de SAINT-VICTOR ; Son maître est peut-être Pierre ABÉLARD. Son élève est en Jean de SALISBURY, qui le considérait comme le plus grand dialecticien de son temps..
+Ecclesiastical positions held: Évêque de Hereford %1163-1167%..
+University functions: Paris (Maître ès arts %1137-1142% ?) ;; Melun (maître d’une école à Melun %1142-1147%) ;; Maître en théologie (Paris) ;.
+Authored work: 'Quaestiones de divina pagina', composed around ?.
+Authored work: 'Quaestiones super epistolas Pauli', composed around ?.
+Authored work: 'Summa Sententiarum', composed around ?.
+Source: MIRABILE :.

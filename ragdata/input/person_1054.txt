@@ -1,0 +1,10 @@
+PERSON: ARNULPHUS de Louuancio
+Also known as: Arnulfus de LOUUANCIO; Arnulphe de LOUANS.
+Description: "Magister".
+Status: Maître.
+Gender: male.
+Active during: %1312-1312%.
+Studied at: Paris ..
+Academic grades obtained: Magister (Paris) ..
+Family relationships: Son fils est Arnulphus de LOUUANCIO ; Son fils est Godefridus de LOUUANCIO ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet 17/11/2020..

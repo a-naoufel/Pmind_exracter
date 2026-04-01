@@ -1,0 +1,11 @@
+PERSON: NOLIN d'Azy
+Also known as: Nolin d'AZY.
+Description: Hôte du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1416-1417%.
+Studied at: Paris %1416-1417%..
+Academic grades obtained: Étudiant (Paris) %1416-1417%.
+College affiliation: Collège de Dormans-Beauvais : hôte %1416-1417% ;.
+Family relationships: Son parent est Nicolas d'AZY, O.S.A., abbé de Soissons (Saint-Jean-des-Vignes) ;.
+Source: LAMOP : Opération Charles VI (n° 2349) :.

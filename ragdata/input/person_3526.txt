@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Poucheti
+Also known as: Guillelmus POUCHETI; Guillaume POUCHETI.
+Description: Bachelier en médecine.
+Status: Gradué.
+Gender: male.
+Active during: %1426-1426%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie) %1426-1426%..
+Academic grades obtained: Bachelier en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 26/05/2022)..

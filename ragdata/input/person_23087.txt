@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS 12
+Also known as: GUILLELMUS.
+Description: Magister.
+Status: Extérieur.
+Gender: male.
+Active during: %1275-1275%.
+Studied at: ?.
+Academic grades obtained: Magister..
+Other ecclesiastical functions: Conseiller de John PECKHAM, archevêque de Canterbury et à ce titre chargé de présenter la lettre de (1er janvier) dans laquelle l'archevêque exprime ses réserves sur les opinions de THOMAS d'Aquin ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 7/3/2018..

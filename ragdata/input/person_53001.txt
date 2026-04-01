@@ -1,0 +1,12 @@
+PERSON: THOMAS Alays
+Also known as: Thomas ALAYS; Thomas ALAIS.
+Description: Chanoine d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1419-1430%.
+Studied at: ?.
+Academic grades obtained: Maître ;; Licencié en droit civil ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d’Amiens %1419-1430% ;.
+Other ecclesiastical functions: Official d’Amiens %1425-1430% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/11/2021..

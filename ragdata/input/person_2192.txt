@@ -1,0 +1,9 @@
+PERSON: EUSTASIUS 4
+Also known as: EUSTACIUS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1466-1466%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 23/07/2021)..

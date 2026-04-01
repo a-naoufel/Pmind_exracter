@@ -1,0 +1,11 @@
+PERSON: SIMON de Boves 2
+Also known as: Simon de BOVES.
+Description: Etudiant en médecine..
+Status: Étudiant.
+Gender: male.
+Active during: %1457-1459%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse d'Amiens ?.
+Studied at: Paris (Nation de Picardie) %1457-1459% ;.
+Academic grades obtained: Étudiant en médecine (Paris) %1457-1459%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 08/09/2024..

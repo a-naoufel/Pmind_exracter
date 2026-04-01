@@ -1,0 +1,16 @@
+PERSON: THOMAS de Duns
+Also known as: Thomas de DUNS; Thomas de DUNZ.
+Description: Maître en arts et en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1349-1371%.
+Born in: Écosse..
+Diocese of origin: Diocèse de Saint-Andrews..
+Studied at: Paris (Nation Anglo-allemande) %1349-1371%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Maître en médecine (Paris) avant ..
+College affiliation: Sorbonne.
+Academic relationships: Son maître est Henricus de STRALHEM pour le baccalauréat en ; Son maître est Walter de WARDLAW pour la licence en ; Son maître est Walter de WARDLAW pour la maîtrise en ;.
+Ecclesiastical status: Clerc du diocèse de Saint-Andrews ;.
+Ecclesiastical positions held: Chanoine de Glasgow en ;.
+University functions: Paris (Nation Anglo-allemande : deux fois procureur en %1356-1357%).; Paris (Faculté des Arts : maître-régent encore en ) ;; Paris (Faculté de Médecine : maître-régent) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 02/10/2024..

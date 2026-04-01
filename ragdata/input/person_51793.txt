@@ -1,0 +1,22 @@
+PERSON: GUILLELMUS de Mare
+Also known as: Guillelmus de MARE; Guillelmus de MARA; Guillaume de LAMARE.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1262-1298%.
+Born in: Angleterre..
+Studied at: Paris ;; Oxford..
+Academic grades obtained: Maître en théologie (Paris) vers ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) vers ..
+Religious order: O.F.M. : frère franciscain..
+University functions: Paris (Faculté de Théologie : Maître-Régent des Franciscains %1274-1275% au moins)..
+Authored work: 'Comment. in libros I-III sententiarum', composed around ?.
+Authored work: 'Quaestiones XXVI disputatae', composed around ?.
+Authored work: 'Correctorium fratris Thomae', composed around %1277-1282%, pour la première redaction, la seconde redaction n’est pas datée ?.
+Authored work: 'Sermones festivi', composed around ?.
+Authored work: 'Responsio ad correctorium Quare', composed around ?, dedicated to Réplique à Richard KNAPWELL, Correctorium Corruptorii Quare..
+Authored work: 'Declarationes … de variis sentenciis S. Thomae Aquinatis', composed around ?.
+Authored work: 'Quodlibeta sophistica', composed around ?.
+Authored work: 'De Hebraeis et Graecis vocabulis glossarum Bibliae', composed around ?.
+Authored work: 'Correctorium textus Bibliae', composed around ? à Paris..
+Source: Répertoire des auteurs franciscains préparé par Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress :.

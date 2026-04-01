@@ -1,0 +1,8 @@
+PERSON: ARNULPHUS Latomus
+Also known as: Arnulphus LATOMUS.
+Description: Propriétaire de maison.
+Status: Maître.
+Gender: male.
+Active during: %1263-1263%.
+Studied at: Paris ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet 14/05/2025..

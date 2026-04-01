@@ -1,0 +1,10 @@
+PERSON: GILBERTUS de Marleiz
+Also known as: Gilbertus de MARLEIZ; Gilbertus de MALLEIZ.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1278-1314%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Chanoine de Rouen %1278-1314% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 14/01/2022..

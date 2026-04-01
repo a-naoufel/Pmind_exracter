@@ -1,0 +1,10 @@
+PERSON: EUSTASIUS Baillet
+Also known as: Tassin BAILLET.
+Description: Boursier artien au collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1374-1374%.
+Studied at: Paris (Collège de Navarre) %1374-1374%..
+Academic grades obtained: Étudiant ès arts (Paris) ;.
+College affiliation: Collège de Navarre : Boursier artien en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 24/07/2021)..

@@ -1,0 +1,15 @@
+PERSON: NICOLAUS de Tholono
+Also known as: Nicolaus de THOLONO; Nicolas de TOULON.
+Description: Évêque d'Autun.
+Status: Incertain.
+Gender: male.
+Active during: %1361-1400%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse d’Autun ;.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;; Licencié en droit civil ;.
+Social origin: Commun ?.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Vergy ;; Chanoine d’Autun %1363-1371% ;; Chantre d’Autun %1367-1386% ;; Chanoine de Noyon ;; Évêque de Coutances %1386-1387% ;.
+Other ecclesiastical functions: Vicaire d’Autun ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/01/2023..

@@ -1,0 +1,8 @@
+PERSON: PETRUS Le Camus
+Also known as: Petrus LECAMUS.
+Description: Papetier de Troyes.
+Status: Suppôt.
+Gender: male.
+Active during: %1415-1415%.
+University functions: Paris (Université : papetier ou marchand de papier de Troyes)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 20/09/2019..

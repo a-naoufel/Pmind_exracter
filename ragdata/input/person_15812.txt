@@ -1,0 +1,11 @@
+PERSON: CLAUDIUS Chauvreux
+Also known as: Claudius CHAUVREUX.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1495-1495%.
+Born in: Île-de-France(Paris)..
+Diocese of origin: Diocèse de Paris ?.
+Studied at: Paris %1495-1495%..
+Academic grades obtained: Bachelier en décret (Paris) (le 4 septembre) ..
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 11/04/2021..

@@ -1,0 +1,7 @@
+PERSON: GARINUS Rogier
+Also known as: Guerinus ROGIER.
+Description: Serviteur de la duchesse d'Anjou.
+Status: Extérieur.
+Gender: male.
+Active during: %1395-1395%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/11/2021..

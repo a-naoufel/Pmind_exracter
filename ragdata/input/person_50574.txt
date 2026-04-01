@@ -1,0 +1,15 @@
+PERSON: GISLEBERTUS de Mons
+Also known as: Gislebert de MONS.
+Description: Prévôt de Namur.
+Status: Extérieur.
+Gender: male.
+Active during: %1175-1224%.
+Born in: ?Hainaut (?Mons)..
+Studied at: ?.
+Academic grades obtained: Magister ?.
+Ecclesiastical positions held: Chanoine de Namur ;; Prévôt de Namur (St-Pierre) ..
+Representation roles: Ambassadeur de BAUDOUIN V, comte de Hainaut..
+Authored work: 'Chronicon Hanoniense', composed around .
+Authored work: '(Épitaphe de Baudouin IV, comte de Hainaut)', composed around ?.
+Authored work: '(Épitaphe de Baudouin V, comte de Hainaut)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 29/08/2017..

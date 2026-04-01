@@ -1,0 +1,12 @@
+PERSON: REGINALDUS de Borda
+Also known as: Reginaldus de BORDA; Guillermus de BORDA.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1449-1450%.
+Born in: Orléanais ?.
+Diocese of origin: Diocèse d’Orléans ;.
+Studied at: Paris (Nation de France) %1449-1450%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Matheus CHATILLON pour la maîtrise en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 10/11/2023..

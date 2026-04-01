@@ -1,0 +1,15 @@
+PERSON: HENRICUS de Smalham
+Also known as: Henricus de SMALHAM.
+Description: Archidiacre du Teviotdale.
+Status: Maître.
+Gender: male.
+Active during: %1346-1362%.
+Born in: Écosse (Smailholm dans le Roxburghshire ?) ;.
+Diocese of origin: Diocèse de Saint-Andrews ;.
+Studied at: Paris (Nation Anglo-allemande) %1347-1353%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Étudiant en décret (Paris) en ;.
+Academic relationships: Son maître est Walter de WARDLAW pour le baccalauréat en , pour la licence en et pour la maîtrise en ; Son élève est Thomas de DUNS Scotus pour le baccalauréat en ; Son élève est David de COYGNERS pour le baccalauréat en ; Son élève est RICHARD pour le baccalauréat en ;.
+Ecclesiastical status: Clerc du diocèse de Saint-Andrews en ..
+Ecclesiastical positions held: Candidat à un canonicat de Dunkeld sur le rotulus de ;; Vicaire de Fogo (diocèse de Saint-Andrews) %1349-1354% ;; Archidiacre du Teviotdale dans la cathédrale de Glasgow %1354-1362% ;.
+University functions: Paris (Nation Anglo-allemande : maître-régent en %1348-1349%) ;; Paris (Nation Anglo-allemande : procureur élu en (5 Mai) jusqu'au 2 Juin) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 21/03/2019..

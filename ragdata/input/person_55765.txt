@@ -1,0 +1,10 @@
+PERSON: HIERONYMUS Secundi
+Also known as: Jérôme SECUNDI.
+Description: Boursier du collège des Dix-Huit.
+Status: Maître.
+Gender: male.
+Active during: %1430-1430%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris)..
+College affiliation: Collège des Dix-Huit, boursier en ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

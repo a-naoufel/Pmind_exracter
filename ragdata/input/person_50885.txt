@@ -1,0 +1,22 @@
+PERSON: GUIDO Vernani de Rimini
+Also known as: Guido VERNANI de Rimini.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1310-1344%.
+Born in: Italie (Émilie-Romagne : Vergnano, dans la province de Rimini)..
+Diocese of origin: Diocèse de Rimini ?.
+Studied at: Bologne..
+Academic grades obtained: Magister ?.
+Religious order: O.P. : frère dominicain.
+University functions: Bologne (Couvent dominicain : lecteur de théologie)..
+Authored work: 'Expositio libri de anima', composed around ?.
+Authored work: 'Sententia Rhetorice Aristotelis', composed around ?.
+Authored work: 'Super Physicam Aristotelis', composed around ?.
+Authored work: 'Super Politicam', composed around %1324-1330%.
+Authored work: 'Expositio libri Ethicorum Aristotelis', composed around ?.
+Authored work: 'Lectura super librum Ethicorum Aristotelis', composed around ?.
+Authored work: 'Expositio super Decretalem Unam Sanctam', composed around ?.
+Authored work: 'Tractatus de potestate summi pontificis', composed around ..
+Authored work: 'Tractats de reprobatione Monarchiae compositae a Dante', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

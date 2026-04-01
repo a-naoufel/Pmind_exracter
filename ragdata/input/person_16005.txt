@@ -1,0 +1,7 @@
+PERSON: MARGARETA la Choquette
+Also known as: Marguareta la CHOQUETTE.
+Description: Maîtresse d'école.
+Status: Suppôt.
+Gender: female.
+Active during: %1380-1380%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 31/08/2020..

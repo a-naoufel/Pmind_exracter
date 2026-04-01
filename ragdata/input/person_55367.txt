@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Butellis 2
+Also known as: Guillelmus de BUTELLIS; Guillaume de BOUTEILLE.
+Description: Chanoine d’Évreux.
+Status: Incertain.
+Gender: male.
+Active during: %1270-1270%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Évreux ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/02/2023)..

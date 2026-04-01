@@ -1,0 +1,9 @@
+PERSON: BERTALDUS de Hala
+Also known as: Berthaud de HALA.
+Description: Bourgeois de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1325-1325%.
+Studied at: ?.
+Social origin: Bourgeois de Paris : "civis parisiensis"..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 11/02/2020..

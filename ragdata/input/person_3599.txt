@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Cornubia
+Also known as: Guillelmus de CORNUBIA; Guillaume de CORNUBIA.
+Description: Maître en médecine à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1304-1304%.
+Born in: ?Bretagne (Cornouailles)..
+Studied at: Paris (Faculté de Médecine) %:1304-1304%..
+Academic grades obtained: Maître en médecine (Paris) ?..
+University functions: Paris (Faculté de médecine : Maître-régent) ;; Paris (Université : il est l’un des commissaires chargé par l'Université de fixer le prix des exemplar avec leur nombre de pecia présentés par Andreas de SENONIS, libraire en (25 février) ;; Paris (Faculté de médecine : ?Doyen) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 03/03/2020..

@@ -1,0 +1,9 @@
+PERSON: GALTERIUS Senesque
+Also known as: Galterus SENESQUE.
+Description: Serviteur.
+Status: Suppôt.
+Gender: male.
+Active during: %1440-1448%.
+Studied at: Paris (Nation de France) %1440-1448%.
+University functions: Paris (Nation de France : [cliens] %1440-1448%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/11/2021..

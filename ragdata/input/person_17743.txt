@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Chamoellé
+Also known as: Guillelmus CHAMOELLÉ.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1475-1475%.
+Born in: Limousin ?.
+Diocese of origin: Diocèse de Limoges..
+Studied at: Paris %1475-1475%..
+Academic grades obtained: Bachelier en décret (Paris) 21 août ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 2/03/2022..

@@ -1,0 +1,11 @@
+PERSON: BLASIUS Eximini
+Also known as: Velasco EXIMINI.
+Description: Doyen d'Avila.
+Status: Étudiant.
+Gender: male.
+Active during: %1327-1333%.
+Born in: Castille ?.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant en droit canon (Paris) ?.
+Ecclesiastical positions held: Chanoine d'Avila ;; Chantre d'Avila ;; Doyen d'Avila % -1333% ;; Canonicat avec expectative de prébende à la cathédrale de Tolède ;; Archidiacre de Talavera dans la cathédrale de Tolède %1333- % ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (dernière mise à jour, Jean-Philippe Genet, 23/03/2021)..

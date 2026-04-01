@@ -1,0 +1,7 @@
+PERSON: LAURENTIUS Lebrasseur
+Also known as: Laurentius LEBRASSEUR; Laurentius LE BRASSEUR.
+Description: Forgeron.
+Status: Extérieur.
+Gender: male.
+Active during: %1450-1451%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/01/2023..

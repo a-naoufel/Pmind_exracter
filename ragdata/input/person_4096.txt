@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Symonelli de Sancto Salvio
+Also known as: Guillelmus SYMONELLI de Sancto Salvio; Guillaume de SANCTOSALVIO.
+Description: Notaire.
+Status: Incertain.
+Gender: male.
+Active during: %1385-1385%.
+Studied at: ?.
+Ecclesiastical status: Clerc du diocèse de Nevers..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 1/06/2022..

@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS Le Rendu
+Also known as: Guillermus LERENDU.
+Description: Chanoine d'Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1458-1505%.
+Born in: Picardie ;.
+Diocese of origin: Diocèse d'Amiens..
+Studied at: ?.
+Academic grades obtained: Maître ;; Licencié en droit civil ;.
+Social origin: Bourgeoisie amiénoise..
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d'Amiens %1458-1505% ;; Curé d'Amiens (Saint-FirminleC.) %1496-1505% ;; Chanoine d'Amiens (Saint-FirminleC.) %1496-1505% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 14/05/2022..

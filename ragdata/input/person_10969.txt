@@ -1,0 +1,12 @@
+PERSON: ROBERTUS Aux Cousteaux
+Also known as: Robert AUXCOUSTEAUX.
+Description: Maître en médecine..
+Status: Gradué.
+Gender: male.
+Active during: %1452-1505%.
+Born in: Picardie (Amiens) ;.
+Diocese of origin: Diocèse d'Amiens..
+Studied at: Paris (Nation de Picardie) %1452-1457%..
+Academic grades obtained: Étudiant en médecine (Paris) ;; Bachelier en médecine (Paris) ;; Maître en médecine ;.
+Family relationships: Son père est Jean AUXCOUSTEAUX ; Sa mère est Anne de VILLIERS ; Son grand-père maternel est X de VILLIERS, conseiller au bailliage d'Amiens ; Son fils est Jean AUXCOUTEAUX, licencié en médecine ; Son fils est Simon AUXCOUTEAUX, apothicaire ; Sa fille est Catherine AUXCOUTEAUX, mariée à Jean LALOYER..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 10/07/2024..

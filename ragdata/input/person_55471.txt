@@ -1,0 +1,13 @@
+PERSON: NICOLAUS de Benefacto
+Also known as: Nicolaus de BENEFACTO; Nicolas de BIENFAITE.
+Description: Chanoine d’Évreux.
+Status: Incertain.
+Gender: male.
+Active during: %1295-1313%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Lisieux (Bienfaite ?) ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Lisieux %1296-1313% ;; Archidiacre de Gacé %1296-1313% ;; Curé d’Harcourt (diocèse d’Évreux %1297-1303% ;; Chanoine d’Évreux %1299-1313% ;; Chanoine de Laon %1302-1313% ;; Chanoine de Bayeux %1303-1313% ;; Chanoine de Rouen %1303-1313% ;; Archidiacre d’Eu en la cathédrale de Rouen %1303-1313% ;; Chanoine d’Orléans (Saint-Aignan) %1303-1313% ;; Chanoine d’Orléans % -1313% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 16/03/2023)..

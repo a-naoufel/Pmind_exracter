@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Fachet
+Also known as: Guillelmus FACHET; Guillermus FACHET.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1499-1499%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Troyes..
+Studied at: Paris %1499-1499%..
+Academic grades obtained: Bachelier en décret (Paris) 22 août ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe Genet, 30/04/2022.

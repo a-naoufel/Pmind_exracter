@@ -1,0 +1,11 @@
+PERSON: GEORGIUS Aussi
+Also known as: Georgius AUSSI.
+Description: Bachelier en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1487-1487%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Lisieux..
+Studied at: Paris (Nation de Normandie) %1487-1487%..
+Academic grades obtained: Maître ès arts (Paris) attesté en ;; Bachelier en décret (Paris) 31 mars ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 27/11/2021..

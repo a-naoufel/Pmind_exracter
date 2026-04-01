@@ -1,0 +1,14 @@
+PERSON: PETRUS de Castronovo
+Also known as: Petrus de CASTRONOVO; Pierre de CASTELNAU.
+Description: Évêque de Rodez.
+Status: Étudiant.
+Gender: male.
+Active during: %1317-1334%.
+Born in: Quercy (Castelnau-de-Bretenoux) ?.
+Diocese of origin: Diocèse de Rodez ?.
+Studied at: Paris vers %1310-1320%..
+Academic grades obtained: Étudiant en droit civil en ;; Étudiant (Paris) vers %1319-1320% ;.
+Family relationships: Son grand-oncle est Raymond de CALMONT-D’OT, évêque de Rodez : Son frère est Hugues de CASTELNAU ; Sa belle-sœur est Agnès DUÈSE ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Prieur de Cintegabelle ;; Prieur de Saint-Vincent-de-Tarabel ;; Prieur de Paulhac ;; Chanoine de Laon ;; Chanoine de Rodez ;; Chanoine de Brioude ;; Prieur de Trossit ;; Chanoine de Laon ;; Chanoine de Paris ;; Archidiacre de Saint-Antonin ?; Chanoine de Cahors ;; Chanoine de Rouen ;; Évêque de Rodez %1319-1334% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 2/06/2022..

@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Villanova
+Also known as: Guillermus de VILLANOVA.
+Description: Chanoine de Herry Saint-Hilaire.
+Status: Incertain.
+Gender: male.
+Active during: %1335-1335%.
+Studied at: ?.
+Academic grades obtained: Licencié en droit canon ;.
+Ecclesiastical positions held: Chanoine d’Autun ;; Recteur d’Yzeure ;; Chanoine de Herry (Saint-Hilaire) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 31/01/2023..

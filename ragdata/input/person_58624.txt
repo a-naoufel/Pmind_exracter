@@ -1,0 +1,10 @@
+PERSON: PETRUS Consul
+Also known as: Petrus CONSUL.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1368-1369%.
+Studied at: Paris (Nation Anglo-allemande) %1368-1369%..
+Academic grades obtained: Maître ès arts (Paris) en ..
+University functions: Paris (Nation Anglo-allemande : procureur élu en (18 novembre) jusqu’au 15 décembre ;; Paris (Nation Anglo-allemande : il demande en (11 janvier) à être inscrit sur le rotulus même s’il est absent) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/02/2025)..

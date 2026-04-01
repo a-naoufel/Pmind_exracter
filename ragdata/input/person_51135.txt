@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Fabri 8
+Also known as: Guillaume FABRI.
+Description: Membre du Collège de Maître-Gervais.
+Status: Étudiant.
+Gender: male.
+Active during: %1416-1416%.
+Born in: Normandie ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Maître-Gervais : socius ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Marion Bernard-Schweitzer 16/09/2020..

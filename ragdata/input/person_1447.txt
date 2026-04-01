@@ -1,0 +1,9 @@
+PERSON: BERTALDUS 4
+Also known as: BERTHOLDUS.
+Description: Notaire bolonais.
+Status: Extérieur.
+Gender: male.
+Active during: %1410-1410%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/02/2021)..

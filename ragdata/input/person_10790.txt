@@ -1,0 +1,11 @@
+PERSON: RICARDUS Probus Homo
+Also known as: Ricardus PROBUS HOMO.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1342%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant (Paris) en %1329-1330%..
+Ecclesiastical status: Clerc bénéficié dès ?.
+Ecclesiastical positions held: Provision pour une expectative de bénéficie à la collation du prieuré (Clunisien) de Paris (Saint-MartindesChamps en ;; Chanoine avec expectative de prébende de Laon (églisecollégiale de Laon) en ;; Recteur d'une égliseparoissiale ;; Chapelain d'une chapellenie à Bruges (Saint-Amand) en ;; Chapelain d'une chapellenie à Paris (Saint-Médard) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 0/07/2024..

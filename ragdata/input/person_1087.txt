@@ -1,0 +1,12 @@
+PERSON: ALBERICUS Trium Fontanum
+Also known as: Aubry des TROIS FONTAINES.
+Description: Cistercien.
+Status: Extérieur.
+Gender: male.
+Active during: %1227-1252%.
+Born in: Champagne..
+Diocese of origin: Diocèse de Chalons-sur-Marne ?.
+Studied at: ?.
+Religious order: O.Cist. : moine (cistercien) de l'abbaye (cistercienne) de Trois-Fontaines..
+Authored work: 'Chronicon', composed around .
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

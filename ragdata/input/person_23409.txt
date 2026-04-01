@@ -1,0 +1,25 @@
+PERSON: GUILLELMUS Peraldus
+Also known as: Guillelmus PERALDUS; Guillaume PEYRAUT.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1220-1271%.
+Born in: Languedoc (Vivarais : Peyraud) ?.
+Diocese of origin: Diocèse de Vienne..
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Couvent (dominicain) de Paris (Jacobins) ?.
+Religious order: O.P. : frère du couvent (dominicain) de Lyon en ..
+Religious functions: Prieur (dominicain) de Lyon en ;.
+Authored work: 'Summa de vitiis', composed around ..
+Authored work: 'Summa de virtutibus', composed around Entre et ..
+Authored work: 'Sermones super epistolas dominicales.', composed around ca.%1254-1259%..
+Authored work: 'Sermones de evangeliis', composed around ca.%1254-1259%..
+Authored work: 'Sermones de festis', composed around ca.%1254-1259%..
+Authored work: '(Sermons isolés)'.
+Authored work: 'Expositio professionis monachorum', composed around ca.%1259-1260% ?.
+Authored work: 'De eruditione religiosorum', composed around ?.
+Authored work: 'Super Matthaeum', composed around ?.
+Authored work: '(De la pluralité des bénéfices)', composed around ?.
+Authored work: 'De eruditione principum', composed around ..
+Source: Digitale bibliotheek von de Nederlandse letteren :.

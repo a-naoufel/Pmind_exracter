@@ -1,0 +1,10 @@
+PERSON: ROGARIUS de Montis Silicibus
+Also known as: Rogerius de MONTIS SILICIBUS.
+Description: Chanoine de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1306-1306%.
+Studied at: ?.
+Academic grades obtained: ?Maître ès arts (Paris ?) ;.
+Ecclesiastical positions held: Chanoine de Paris ;; Chanoine d’Angers ;; Chanoine d’Aire ;; Chanoine de Bazas ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 07/06/2022)..

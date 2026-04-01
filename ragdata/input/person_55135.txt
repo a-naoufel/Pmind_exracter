@@ -1,0 +1,11 @@
+PERSON: PETRUS de Seigneio
+Also known as: Petrus de SEIGNEIO.
+Description: Doyen d’Autun.
+Status: Incertain.
+Gender: male.
+Active during: %1305-1317%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d’Autun %1307-1317% ;; Archidiacre de Flavigny % -1313% ;; Doyen d’Autun %1313-1317% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 27/01/2023..

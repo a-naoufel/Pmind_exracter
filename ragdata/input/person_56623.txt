@@ -1,0 +1,10 @@
+PERSON: PETRUS de Selva
+Also known as: Petrus de SELVA.
+Description: Maître du collège de Chenac.
+Status: Maître.
+Gender: male.
+Active during: %1450-1450%.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) avant ?.
+College affiliation: Collège de Chenac (ou collège Saint-Michel) : maître en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/09/2023..

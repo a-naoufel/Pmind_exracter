@@ -1,0 +1,13 @@
+PERSON: GALFREDUS Mer
+Also known as: Gaufridus MER.
+Description: Étudiant ès arts.
+Status: Étudiant.
+Gender: male.
+Active during: %1382-1382%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Tréguier ;.
+Studied at: Paris (Nation de France) ;.
+Academic grades obtained: Étudiant ès arts (Paris) ;.
+Ecclesiastical status: Clerc du diocèse de Tréguier ;.
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiastique à la collation du monastère (bénédictin) de Paris (Saint-Germain des Prés) sur un rotulus de Pierre CHAMBON, référendaire pontifical en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 27/08/2020..

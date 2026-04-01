@@ -1,0 +1,19 @@
+PERSON: RADULPHUS de Praeliis 2
+Also known as: Radulphus de PRAELIIS; Raoul de PRESLES.
+Description: Maître des requêtes de l'Hôtel.
+Status: Extérieur.
+Gender: male.
+Active during: %1336-1382%.
+Studied at: Orléans ?.
+Academic grades obtained: Licencié en droit avant ;.
+Family relationships: Son père est Raoul de PRESLES, seigneur de Lizy ; Sa mère est Jeanne de LAPORTE, de Vertus-en-Champagne ; Son demi-frère est Girard de PRESLE, prévôt de Laon ; Son demi-frère est Robert de PRESLE, chanoine de Laon ; Son demi-frère est Raoul de PRESLE..
+Social origin: Bourgeoisie..
+Authored work: '(Traduction commentée de la Bible de la Genèse aux Psaumes)', composed around %1371-1375%., dedicated to A la demande de CHARLES V, roi de France..
+Authored work: '(Chroniques en français contemporisées depuis le commencement du monde)', composed around /Œuvre aujourd’hui perdue, évoquée par l’auteur dans son prologue à la traduction de la Bible..
+Authored work: 'Compendium morale de re publica', composed around ., dedicated to Dédié à Jean d’ANGERANT, évêque de Chartres..
+Authored work: 'Musa', composed around Après ., dedicated to Dédié à CHARLES V, roi de France..
+Authored work: 'Discours sur l’oriflamme', composed around (10 mai) ;.
+Authored work: '(Traduction du Rex Pacificus)', composed around ., dedicated to A la demande de CHARLES V, roi de France..
+Authored work: '(Traduction de la Quaestio inter clericum et militem)', composed around ., dedicated to A la demande de CHARLES V, roi de France..
+Authored work: '(Traduction de la Cité de Dieu)', composed around %1371-1375%., dedicated to A la demande de CHARLES V, roi de France..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/11/2024..

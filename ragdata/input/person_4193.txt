@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Celsoy 1
+Also known as: Guillelmus de CELSOY; Guillelmus de CELSETO; Guillaume de CELSOY.
+Description: Maître en médecine à Paris..
+Status: Maître.
+Gender: male.
+Active during: %:1379-1390%.
+Studied at: Paris (Faculté de Médecine) %:1379-1379%..
+Academic grades obtained: Maître en médecine (Paris) ?..
+Family relationships: Son oncle est Guibert de CELSOY, médecin..
+Ecclesiastical positions held: Chapelain de Corbeil (chapelle de la Madeleine) ;..
+University functions: Paris (Faculté de Médecine : Maîtrerégent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/04/2021..

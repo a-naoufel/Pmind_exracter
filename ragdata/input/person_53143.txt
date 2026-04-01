@@ -1,0 +1,12 @@
+PERSON: NICOLAUS Hochecorne
+Also known as: Nicolaus HOCHECORNE.
+Description: Chanoine d’Amiens.
+Status: Maître.
+Gender: male.
+Active during: %1402-1434%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) en ;; Maître avant ;; Licencié en droit civil ;.
+College affiliation: Collège de Dainville : hôte en ;.
+Ecclesiastical status: Diacre ;.
+Ecclesiastical positions held: Chanoine d'Amiens %1416-1434% ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

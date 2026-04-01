@@ -1,0 +1,9 @@
+PERSON: ADAM de Haya
+Also known as: Adam de HAYA.
+Description: Étudiant en théologie.
+Status: Étudiant.
+Gender: male.
+Active during: %1279-1279%.
+Studied at: Paris (Faculté de Théologie) en ..
+Academic grades obtained: Étudiant (Faculté de Théologie) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

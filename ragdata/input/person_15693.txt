@@ -1,0 +1,11 @@
+PERSON: ANTHONIUS Paulin
+Also known as: Anthonius PAULIN.
+Description: Bachelier Décret.
+Status: Gradué.
+Gender: male.
+Active during: %1492-1492%.
+Born in: Aquitaine ?.
+Diocese of origin: Diocèse de Sarlat..
+Studied at: Toulouse ;; Paris %1492-1492%..
+Academic grades obtained: Bachelier Décret (Toulouse) ;; Bachelier Décret (Paris) (le 6 décembre) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 13/10/2020)..

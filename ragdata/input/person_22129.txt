@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Brugis 1
+Also known as: GUILLELMUS de Brugis.
+Description: Chanoine de Tournai.
+Status: Incertain.
+Gender: male.
+Active during: %1175-1219%.
+Born in: Flandre (Bruges) ?.
+Diocese of origin: Diocèse de Tournai ?.
+Studied at: ?.
+Academic grades obtained: Magister ..
+Ecclesiastical positions held: Chanoine de Tournai %1179-1219% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 17/05/2017..

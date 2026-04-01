@@ -1,0 +1,27 @@
+PERSON: ALEXANDER de Villa Dei
+Also known as: Alexander de VILLADEI; Alexandre de VILLEDIEU.
+Description: Chanoine d'Avranches..
+Status: Maître.
+Gender: male.
+Active during: %1190-1240%.
+Born in: Normandie (Ville-Dieu)..
+Diocese of origin: Diocèse d’Avranches ?.
+Studied at: Paris vers %1180-1225%..
+Academic grades obtained: Étudiant ès arts (Paris) ;; Maître ès arts (Paris)..
+Ecclesiastical positions held: Chanoine d'Avranches..
+University functions: Enseignant les arts à Paris, %1200-1225%..
+Authored work: 'Ecclesiale', composed around Vers ;.
+Authored work: 'Compendium Scripturae', composed around ?.
+Authored work: 'Doctrinale', composed around Vers, dedicated to Composé à la demande de Jean de la MOUCHE, évêque de Dol pour ses deux neveux : c’est un ouvrage pour l'étude du trivium ;.
+Authored work: 'Alphabetum minus', composed around ?.
+Authored work: 'De expositionibus dictionum', composed around ?.
+Authored work: 'De arte versificatoria : Doctrinale c. X', composed around ?.
+Authored work: 'Accentuum regulae : Doctrinale c. X (modifié)', composed around ?.
+Authored work: 'Tractatulus de accentibus : Doctrinale c.X (modifié)', composed around ?.
+Authored work: 'De arte memorandi', composed around ?.
+Authored work: 'Massa compoti', composed around .
+Authored work: 'Algorismus', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Libellus de algorismo', composed around ?.
+Authored work: 'Carmen de musica cum glossis', composed around ?.
+Source: Base Jordanus (An International Catalogue of Mediaeval Scientific Manuscripts) [en ligne] http://archimedes.mpiwg-berlin.mpg.de/iccmsm.html ;.

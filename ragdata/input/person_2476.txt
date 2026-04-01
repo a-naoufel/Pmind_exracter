@@ -1,0 +1,15 @@
+PERSON: GALTERIUS Trayl
+Also known as: Galterus TRAHIL.
+Description: Évêque de Saint-Andrews.
+Status: Maître.
+Gender: male.
+Active during: %1365-1401%.
+Born in: Écosse..
+Diocese of origin: Diocèse d'Aberdeen..
+Studied at: Paris (Nation Anglo-allemande) ;; Orléans.
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licence ès arts (Paris) ;; Maître ès arts (Paris) ;; Bachelier en décret (Paris ?) ;; Licencié en droit civil (Orléans ?) ;; Licencié in utroque jure (Orléans ?) ;; Docteur in utroque jure (Orléans ?) ;.
+Ecclesiastical status: Clerc du diocèse d'Aberdeen ;; Prêtre ;.
+Ecclesiastical positions held: Provision pour un bénéfice à la collation de l'abbaye d'Arbroath %1363-1364% ;; Provision pour un bénéfice à la collation de l'évêque de Saint-Andrews %1363-1364% ;; Vicaire de Monifieth %1375-1379%;; Provision pour un bénéfice à la collation de l'abbaye d'Arbroath %1363-1364% ;; Chanoine de Ross %1378-1386% ;; Trésorier de Glasgow %1378-1386% ;; Chanoine d'Aberdeen %1379-1386% ;; Évêque de Saint-Andrews %1386-1401% ;.
+University functions: Orléans (Université : nuntius en à Avignon pour présenter le rotulus de l'Université) ;; Paris (Université : nuntius (?) en à Avignon pour présenter le rotulus de l'Université)..
+Representation roles: Ambassadeur en France auprès de CHARLES VI, roi de France en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction :Jean-Philippe Genet, 20/11/2021..

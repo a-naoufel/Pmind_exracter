@@ -1,0 +1,10 @@
+PERSON: GALFREDUS de Falays
+Also known as: Gaufridus de FALAYS.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1313-1313%.
+Born in: ?Normandie (Falaise ?)..
+Studied at: Paris (Nation de Normandie ?) en ..
+Academic grades obtained: Maître..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 3/03/2020..

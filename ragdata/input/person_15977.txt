@@ -1,0 +1,12 @@
+PERSON: DURANDUS de Pressiaco
+Also known as: Durandus de PRESSIACO.
+Description: Bachelier en décret..
+Status: Gradué.
+Gender: male.
+Active during: %1479-1479%.
+Born in: Languedoc ?.
+Diocese of origin: Diocèse de Rodez..
+Studied at: Paris %1479-1479%..
+Academic grades obtained: Bachelier en décret (Paris) en (23 mars) ;.
+Ecclesiastical positions held: Prêtre..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 22/06/2021)..

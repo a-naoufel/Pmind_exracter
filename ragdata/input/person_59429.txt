@@ -1,0 +1,10 @@
+PERSON: ANTHONIUS Aubberti
+Also known as: Anthonius AUBBERTI.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1518-1518%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en décret (Paris) en ..
+College affiliation: Collège d'Autun : boursier décrétiste en ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

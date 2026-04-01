@@ -1,0 +1,10 @@
+PERSON: LUDOVICUS de Verno
+Also known as: Ludovicus de VERNO; Louis de VERS.
+Description: Chanoine de Besançon.
+Status: Incertain.
+Gender: male.
+Active during: %1441-1479%.
+Studied at: ?.
+Academic grades obtained: Bachelier en droit canon ;.
+Ecclesiastical positions held: Chanoine de Besançon %1441-1479% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/03/2022)..

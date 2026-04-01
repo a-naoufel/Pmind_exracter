@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Brok
+Also known as: William de BROK.
+Description: Prieur de Gloucester.
+Status: Extérieur.
+Gender: male.
+Active during: %1283-1301%.
+Born in: Angleterre..
+Studied at: Oxford ca...
+Academic grades obtained: Docteur en théologie (Oxford) ..
+Religious order: O.S.B. : moine bénédictin de l'abbaye (bénédictine) de Gloucester..
+Religious functions: Prieur (bénédictin) de Gloucester..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 10/03/2022..

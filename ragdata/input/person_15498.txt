@@ -1,0 +1,12 @@
+PERSON: PETRUS de Marle
+Also known as: Petrus de MARLE.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1512%.
+Studied at: Paris ?%1492-1498%?..
+Academic grades obtained: Étudiant en décret (Paris) vers ?.
+Academic relationships: Élève de Dionysius ALLEGRET, D.Cn.L., avant ..
+Religious order: OS.B. : moine (bénédictin) de l'abbaye de Noyon (Saint-Eloi)..
+Religious functions: Trésorier de Noyon (Saint-Eloi) en ;; Abbé de Noyon (Saint-Eloi) en %1471-1512% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 26/02/2024)..

@@ -1,0 +1,11 @@
+PERSON: ANSELMUS de Lehericuria
+Also known as: Anselmus de LEHERICURIA; Anselme de LEHÉRICOURT; Anselme de HÉRICOURT.
+Description: Chanoine d'Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1247-1258%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Chanoine d'Amiens %1247-1255% ;; Archidiacre d'Amiens ;.
+Other ecclesiastical functions: Official d'Amiens %1247-1255% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/09/2020)..

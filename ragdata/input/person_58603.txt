@@ -1,0 +1,9 @@
+PERSON: RICARDUS Peregrini
+Also known as: Ricardus PEREGRINI.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1432-1432%.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en décret (Paris) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 06/02/2025..

@@ -1,0 +1,10 @@
+PERSON: GERARDUS de Blecterens
+Also known as: Gerardus de BLECTERENS.
+Description: Archidiacre de Gray.
+Status: Extérieur.
+Gender: male.
+Active during: %1389-1389%.
+Studied at: ?.
+Academic grades obtained: Maître.
+Ecclesiastical positions held: Chanoine de Besançon ;; Archidiacre de Gray ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 17/12/2021..

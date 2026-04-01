@@ -1,0 +1,13 @@
+PERSON: RENERIUS de Sens
+Also known as: Rénier de SENS.
+Description: Chanoine de Bourges.
+Status: Maître.
+Gender: male.
+Active during: %1281-1284%.
+Born in: ?Bourgogne (Sens)..
+Diocese of origin: Diocèse de Sens ?.
+Studied at: Paris..
+Academic grades obtained: ?Maître en théologie ou ?.
+Ecclesiastical positions held: Chanoine de Bourges..
+University functions: ?Paris (?Maître-Régent en Théologie en ou en ?)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 16/01/2024)..

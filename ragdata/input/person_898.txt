@@ -1,0 +1,10 @@
+PERSON: ARNALDUS de Stokhem
+Also known as: Arnaldus de STOKHEM.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1352-1352%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Academic relationships: Son maître est Albertus de SAXONIA..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 5/11/2020..

@@ -1,0 +1,9 @@
+PERSON: PETRUS de Cordella
+Also known as: Pierre de CORDELLA; Petrus de CORDELLA.
+Description: Etudiant en médecine..
+Status: Étudiant.
+Gender: male.
+Active during: %1395-1396%.
+Studied at: Paris %1395-1396%..
+Academic grades obtained: Étudiant en médecine (Paris) %1395-1396%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 14-02-2024..

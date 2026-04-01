@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Vacera
+Also known as: Guillaume de VACERA.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1264-1264%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse d'Amiens..
+Studied at: ?Paris..
+Academic grades obtained: Magister.
+Ecclesiastical status: Clerc du diocèse d'Amiens en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 27/12/2021..

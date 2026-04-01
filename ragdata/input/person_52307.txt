@@ -1,0 +1,16 @@
+PERSON: NICOLAUS Belin
+Also known as: Nicolas BELIN.
+Description: Pénitentiaire de Rouen.
+Status: Maître.
+Gender: male.
+Active during: %1492-1525%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris..
+Studied at: Paris (Nation de France) %1492-1525%..
+Academic grades obtained: Maître ès arts (Paris).; Licencié en théologie (Paris) ;; Docteur en théologie (Paris) ;.
+College affiliation: Collège de Sainte-Barbe : étudiant ès arts ;; Collège de Montaigu : maître-régents ès arts ;; Collège de Montaigu : maître-régent en théologie ;; Collège de Navarre : boursier théologien %1505-1510% ;.
+Family relationships: Son frère est Jean BELIN, Conseiller au parlement de Rouen ;.
+Academic relationships: Son maître est Philippe GRIVEAU au Collège Sainte-Barbe ; Son élève est Jean DES GROSELIERS au Collège de Montaigu ; Son élève est Étienne LORET au Collège de Montaigu ;.
+Ecclesiastical positions held: Chanoine d’Auxerre ;; Pénitientiaire de Rouen en ..
+University functions: Paris (Faculté des Arts : maître-régent ès arts au Collège de Montaigu) ;; Paris (Faculté de Théologie : maître-régent en théologie au Collège de Montaigu) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 29/04/2021)..

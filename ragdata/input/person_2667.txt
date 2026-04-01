@@ -1,0 +1,22 @@
+PERSON: GALFREDUS de Vinosalvo
+Also known as: Galfredus de VINOSALVO; Galfredus ANGLICUS; Geoffroi de VINSAUF.
+Description: Maître de grammaire.
+Status: Maître.
+Gender: male.
+Active during: %1174-1213%.
+Born in: Angleterre..
+Studied at: Oxford ;; Paris.; Bologne..
+Academic grades obtained: Magister (Paris ?)..
+University functions: Professeur à Bologne ;; Paris (Maître de grammaire ?) ;.
+Representation roles: Service (diplomatique) de JEAN, roi d’Angleterre envoyé à Rome ;.
+Authored work: 'Summa de coloribus rhetoricis', composed around ?.
+Authored work: 'Summa de arte dictandi', composed around %1188-1190% écrit à Bologne..
+Authored work: 'Poetria nova', composed around %1200-1202%., dedicated to Dédiée au Pape INNOCENT III dans une version terminée entre %1208-1213%, l’œuvre a aussi été présentée à GUILLAUME aux Blanches-mains, archevêque de Reims ;.
+Authored work: 'Documentum de modo et arte dictandi et versificandi', composed around ?.
+Authored work: 'Enchiridion [seu Tract. de synonimis et homonymis]', composed around ?.
+Authored work: 'Ars dictaminis', composed around %1191-98%.
+Authored work: 'Carmina', composed around ?.
+Authored work: 'Causa Magistri Gaufredi Vinesauf', composed around %1175-1183%..
+Authored work: 'De statu curiae Romanae', composed around ?.
+Authored work: 'De vino et vitibus conservandis', composed around ?.
+Source: ARLIMA :.

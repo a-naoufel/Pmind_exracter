@@ -1,0 +1,13 @@
+PERSON: PETRUS Andree 1
+Also known as: Petrus ANDREE.
+Description: Chanoine de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1353-1386%.
+Born in: Poitou ?.
+Diocese of origin: Diocèse de Saintes ;.
+Studied at: ?.
+Academic grades obtained: Étudiant en droit canon ;; Bachelier en droit canon ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Recteur de Saint-Hilaire-sur-Autise (diocèse de Maillezais) %1353-1365% ;; Chanoine de Poitiers %1371-1386% ;; Archidiacre de Brioux %1371-1386% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 23/11/2022..

@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Salomonis
+Also known as: Guillelmus SALOMONIS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Born in: ?Bretagne..
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant (Paris) %1329-1330% ?.
+Family relationships: Son frère est Yvo SALOMONIS..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 19/11/2019..

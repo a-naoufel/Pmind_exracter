@@ -1,0 +1,12 @@
+PERSON: RASSO Dogghert
+Also known as: Rasso DOGGHERT; Rasso de DEGGHER; Rasso de HEEMSTEDEM.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1404-1442%.
+Born in: Pays-Bas (Hollande : Heemstede)..
+Studied at: Paris %1404-1412%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Ecclesiastical positions held: Prévôt d'Oldenzaal (Saint-Plechelm) avant ;; Chanoine d'Utrecht avant ;.
+University functions: Paris (Faculté de médecine : maître-régent %1411-1412%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 24/01/2024..

@@ -1,0 +1,13 @@
+PERSON: SIMON de Lacheny
+Also known as: Simo de LACHENY.
+Description: Boursier du collège de Dainville.
+Status: Étudiant.
+Gender: male.
+Active during: %1384-1384%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Noyon ;.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège de Dainville : boursier à partir de ;.
+Ecclesiastical status: Clerc en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

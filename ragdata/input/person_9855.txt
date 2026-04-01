@@ -1,0 +1,10 @@
+PERSON: PETRUS Galensis
+Also known as: Petrus GALENSIS.
+Description: Camemarius laïc de la cour épiscopale de Paris..
+Status: Incertain.
+Gender: male.
+Active during: %1327-1327%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical status: Laïc..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 17/03/2024..

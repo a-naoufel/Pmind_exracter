@@ -1,0 +1,12 @@
+PERSON: LANFRANCUS Henrici de Moro de Castronovo
+Also known as: Lanfrancus de MORO de Castronovo; Lanfrancus HENRICI de Moro de Castronovo; Lanfrancus de CASTRONOVO.
+Description: Médecin.
+Status: Maître.
+Gender: male.
+Active during: %1329-1342%.
+Born in: Italie (Piémont ?) ;.
+Diocese of origin: Diocèse de Tortona..
+Studied at: Paris (Nation de France) %1329-1335%..
+Academic grades obtained: Maître ès arts (Paris ?) ;; Docteur en médecine.
+Ecclesiastical positions held: Recteur de Saint-Jean-de-Crieulon (diocèse de Nîmes) ;; Provision pour canonicat avec expectative de prébende de Tortona ;; Chapelain de Montpellier (Saint-Nicolas) ;; Recommandé pour l'office de prévôt de la cathédrale de Gênes par le maître-général des Dominicains en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 19/08/2023)..

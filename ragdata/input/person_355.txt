@@ -1,0 +1,10 @@
+PERSON: ALBERTUS Erfordiensis
+Also known as: Albertus ERFORDIENSIS; Albert d'ERFURT.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1301-1303%.
+Born in: Saxe (Erfurt ?)..
+Studied at: ?.
+Religious order: O.P. : frère dominicain..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/06/2020)..

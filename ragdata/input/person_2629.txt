@@ -1,0 +1,9 @@
+PERSON: GALTERIUS de Chandelis
+Also known as: Galterus de CHANDELIS; Gauthier de CHANDELIS.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1283-1283%.
+Studied at: Paris ?.
+Academic grades obtained: Magister, mais il n'est pas sûr que ce titre ait une connotation universitaire ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 6/11/2021..

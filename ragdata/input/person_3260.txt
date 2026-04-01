@@ -1,0 +1,35 @@
+PERSON: GONSALVUS Hispanus de Vallebona
+Also known as: Gonsalvus HISPANUS de Vallebona; Gonsalvus de VALLEBONA; Gonzalve de VALBONNE; Gonzalo HISPANO; GUNDISALVUS.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1255-1313%.
+Born in: Castille (Galice : Balboa)..
+Diocese of origin: Diocèse de Compostelle..
+Studied at: Paris (Couventfranciscain)..
+Academic grades obtained: Bachelier en théologie (Paris) et %1302-1303%.; Maître en théologie (Paris) ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) ..
+Religious order: O.F.M. : frère franciscain..
+Religious functions: Ministreprovincial (franciscain) de Santiago ;; Maîtregénéral des Franciscains en ;.
+University functions: Paris (Faculté de théologie : maître-régent %1302-1303%)..
+Representation roles: Il participe au Concile de Vienne en ..
+Authored work: 'Quaestiones disputatae 7 de laude divina', composed around %1301-1302%..
+Authored work: 'Quaestiones de quolibet', composed around ?.
+Authored work: '(Mémoire-réponse aux Quatre Questions )', composed around ..
+Authored work: '(Mémoire justificatif des condamnations contre Petrus Olivi)', composed around ..
+Authored work: 'Utrum Laus Dei in Patria sit Nobilior eius Dilectione in Via', composed around ?.
+Authored work: 'Conclusiones metaphysicae', composed around ?.
+Authored work: 'Conclusiones physicorum', composed around ?.
+Authored work: '(Lettre aux Clarisses)', composed around (26 juillet) à Alverne ., dedicated to /Adressée aux Clarisses..
+Authored work: '(Lettre au gardien du couvent franciscain de Paris)', composed around (18 novembre) à Ascolin dans la marche d’Ancône., dedicated to Adressé à Frater GUILLELMUS, gardien du couvent (franciscain) de Paris..
+Authored work: 'Litterae ad Fr. Antonium, provincialem ministrum Thusciae', composed around (20 août) à Alverne ., dedicated to /Adressé au Frère ANTOINE, provincial (franciscain) de Tuscie..
+Authored work: '(Lettre aux Clarisses)', composed around (21 janvier) à Pampelune., dedicated to /Adressée aux Clarisses..
+Authored work: '(Lettre encyclique)', composed around ..
+Authored work: 'Tractatus de usu paupere', composed around .
+Authored work: 'Tractatus de praeceptis eminentibus regulae et aequipollentibus', composed around ..
+Authored work: 'Tractatus de Formali Ratione Voti Fratrum', composed around ?.
+Authored work: '(Lettre à JAYME II)', composed around (21 janvier) … Pampelune ., dedicated to Adressée à JACQUES II, roi d'Aragon ..
+Authored work: '(Réplique au "Super tribus sceleribus" d'Ubertino de Casale)', composed around .
+Authored work: 'Communitatis Responsio ‘Religiosi Viri’ ad Rotulum Ubertini de Casali', composed around ..
+Authored work: '(Réplique au mémoire "Ostendebam vobis" d'Ubertino de Casale)', composed around ..
+Source: Bernd ROEST, Franciscan authors :.

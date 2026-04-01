@@ -1,0 +1,8 @@
+PERSON: HENRICUS de Colonia 1
+Also known as: Henricus de COLONIA; Henri de COLOGNE.
+Description: Maître.
+Status: Extérieur.
+Gender: male.
+Active during: %1250-1250%.
+Authored work: 'Comm. in versus de accentu', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/11/2022)..

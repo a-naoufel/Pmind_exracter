@@ -1,0 +1,10 @@
+PERSON: THEODERICUS Alaude
+Also known as: Theodericus ALAUDE; Theodericus ALOE.
+Description: Étudiant en théologie.
+Status: Étudiant.
+Gender: male.
+Active during: %1427-1428%.
+Studied at: Paris..
+Academic grades obtained: Étudiant en théologie (Paris) %1427-1428% ;.
+College affiliation: Sorbonne : hôte %1427-1428% ;.
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, dernière mise à jour 23/02/2021..

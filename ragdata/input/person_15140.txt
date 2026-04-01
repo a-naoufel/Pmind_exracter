@@ -1,0 +1,9 @@
+PERSON: PETRUS Radulphi 1
+Also known as: Pierre RAOUL; Petrus RADULPHI.
+Description: Bachelier en médecine..
+Status: Gradué.
+Gender: male.
+Active during: %1413-1418%.
+Studied at: Paris %1413-1418%..
+Academic grades obtained: Étudiant en médecine (Paris) %1413-1414% ;; Bachelier en médecine (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 06/04/2024)..

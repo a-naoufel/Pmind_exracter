@@ -1,0 +1,16 @@
+PERSON: RADULPHUS Belvacensis 1
+Also known as: Radulphus BELVACENSIS; Raoul de BEAUVAIS.
+Description: Magister scholarum de Beauvais.
+Status: Maître.
+Gender: male.
+Active during: %1135-1180%.
+Born in: Angleterre ?.
+Studied at: Paris..
+Academic grades obtained: Maître..
+Academic relationships: Son maître est Pierre ABÉLARD..
+Ecclesiastical positions held: Chanoine de Beauvais ?.
+Authored work: 'Liber Tytan', composed around ?.
+Authored work: 'Glose super Donatum', composed around ?.
+Authored work: 'Verba preceptiva', composed around ?.
+Authored work: 'Versus differentiales', composed around XIIIe siècle..
+Source: MIRABILE :.

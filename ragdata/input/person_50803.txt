@@ -1,0 +1,8 @@
+PERSON: PETRUS Baron
+Also known as: Petrus BARON.
+Description: Étudiant prétendu.
+Status: Incertain.
+Gender: male.
+Active during: %1327-1327%.
+Studied at: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 11/04/2020..

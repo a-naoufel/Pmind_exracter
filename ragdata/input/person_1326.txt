@@ -1,0 +1,23 @@
+PERSON: BERNARDUS de Ambasia
+Also known as: Bernardus AUREOLI; Bernardus de AMBASIA.
+Description: O. Carm..
+Status: Étudiant.
+Gender: male.
+Active during: %1347-1379%.
+Born in: Amboise ;.
+Diocese of origin: Diocèse de Tours..
+Studied at: Paris ;; Toulouse..
+Academic grades obtained: Étudiant (Paris) ;; Docteur en théologie (Toulouse ?)..
+Religious order: O.Carm. : frère carme..
+Religious functions: Définiteurgénéral au chapitre (carme) de Toulouse ;; Définiteurgénéral au chapitre (carme) du Puy ;; Provincial (carme) de Toulouse ..
+Ecclesiastical positions held: Cardinal ?.
+University functions: Paris (Lecteur des Sentences pour la IXe année ) ;; Paris (Lecteur de la Bible pour la VIIIe année ) ;; Toulouse (Lecteur des Sentences pour la IIIe année ) ;; Toulouse (Lecteur de la Bible pour la Ie année ) ;; Rome (Lecteur du Palaisapostolique )..
+Authored work: 'In epistolam Jacobi lectiones LXIV', composed around ?.
+Authored work: 'In epistola Johannis lectiones CXII', composed around ?.
+Authored work: 'In libro sententiarum commentaria', composed around ?.
+Authored work: 'Sermones quadragesimales,lib.I', composed around ?.
+Authored work: 'Sermones mariales,lib.I', composed around ?.
+Authored work: 'Sermones hyemales,lib.I', composed around ?.
+Authored work: 'Sermones aestivales,lib.I', composed around ?.
+Authored work: 'Collationes variae', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 27/04/2025)..

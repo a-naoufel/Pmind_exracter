@@ -1,0 +1,12 @@
+PERSON: ROBERTUS Majoris 1
+Also known as: Robertus MAIORIS; Robertus MAJORIS; Robert L’AÎNÉ.
+Description: Bachelier en médecine..
+Status: Gradué.
+Gender: male.
+Active during: %1385-1396%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie) %1385-1396%..
+Academic grades obtained: Étudiant ès arts (Paris) %1385-1388% ;; Bachelier en médecine (Paris) ..
+College affiliation: Collège de Laon : boursier ès arts %1385-1388% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 29/11/2021..

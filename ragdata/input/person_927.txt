@@ -1,0 +1,12 @@
+PERSON: ARNALDUS de Halla
+Also known as: Arnaldus de HALLA; Arnold de HALLE.
+Description: Médecin.
+Status: Maître.
+Gender: male.
+Active during: %1371-1417%.
+Born in: Brabant ;.
+Diocese of origin: Diocèse de Liège..
+Studied at: Paris (Nation de Picardie) vers ;; Avignon %1393-1394%..
+Academic grades obtained: Bachelier ès arts ;; Maître ès arts (Paris) avant ;; Licencié en médecine (Paris) ;; Bachelier en droit canon ;; Licencié en droit canon (Avignon) %1393-1394%..
+Ecclesiastical positions held: Clerc du diocèse de Liège ;; Écolâtre de Termonde %1371-1394% ;; Sacriste de Termonde ;; Candidat à un bénéfice à la collation de l'abbé (bénédictin) de Termonde en .; Vicaire de Barbentane ;; Chanoine de Cambrai (Saint-Géry) %1391-1417% ;; Chanoine de Cambrai %1426-1417% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne TOURNIEROUX ; révision, Jean-Philippe GENET 21/12/2025)..

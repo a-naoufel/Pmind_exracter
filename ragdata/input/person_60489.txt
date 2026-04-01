@@ -1,0 +1,12 @@
+PERSON: OLIVERIUS de Lyon
+Also known as: Olivier de LYON.
+Description: Boursier du collège de Navarre.
+Status: Maître.
+Gender: male.
+Active during: %1501-1515%.
+Born in: Berry ?.
+Diocese of origin: Diocèse de Bourges ;.
+Studied at: Paris (Nation de France) ;.
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en théologie (Paris) en ;.
+College affiliation: Collège de Navarre : boursier en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

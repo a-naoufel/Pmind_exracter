@@ -1,0 +1,10 @@
+PERSON: ROBERTUS de Monte Mileri
+Also known as: Robertus de MONTE MILERI.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1442-1442%.
+Studied at: Paris ..
+Academic grades obtained: Licencié en décret (Paris) (7 avril) ;; Son rang est 8/15 ;.
+Academic relationships: Son maître est Livinus NEVELINC pour la licence en décret en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ rédaction : Jean-Philippe Genet, 15/03/2022..

@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Platea
+Also known as: Guillelmus de PLATEA.
+Description: Bachelier en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1429-1429%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Coutances..
+Studied at: Paris (Nation de Normandie ?) %1429-1429%..
+Academic grades obtained: Maître ès arts (Paris) attesté en ;; Bachelier en décret (Paris) 24 janvier ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 16/04/2015 ; révision, Jean-Philippe Genet 09/04/2022...

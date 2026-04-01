@@ -1,0 +1,11 @@
+PERSON: LAURENTIUS Musche
+Also known as: Laurentius MUSCHE; Laurent MUSTE.
+Description: Maître en médecine de Padoue.
+Status: Maître.
+Gender: male.
+Active during: %1431-1437%.
+Born in: Brabant (Anvers)..
+Diocese of origin: Diocèse de Cambrai ?.
+Studied at: Paris %1431-1432% ;; Padoue %1433-1434%..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en théologie (Paris) %1431-1432% ;; Étudiant en médecine (Padoue) %1433-1434% ;; Licencié en médecine (Padoue) le 20 mai ;; Maître en médecine (Padoue) le 20 mai ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 24/08/2023)..

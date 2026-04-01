@@ -1,0 +1,11 @@
+PERSON: REGINALDUS La Cave
+Also known as: Reginaldus LA CAVE; Reginaldus LE CAVE.
+Description: Bachelier en décret.
+Status: Maître.
+Gender: male.
+Active during: %1434-1434%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Bachelier en décret (Paris) (20 mai) ;.
+Ecclesiastical positions held: Curé de Préaux au diocèse de Bayeux ;.
+University functions: Paris (Lecteur des Décrétales (livre II) en (15 juin) pour la 1e année et le 1er volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 16/12/2024)..

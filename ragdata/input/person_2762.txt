@@ -1,0 +1,12 @@
+PERSON: GERARDUS Bruxellensis
+Also known as: Gerardus BRUXELLENSIS; Gérard de BRUXELLES.
+Description: Maître parisien..
+Status: Maître.
+Gender: male.
+Active during: %1200-1225%.
+Born in: Brabant (Bruxelles)..
+Diocese of origin: Diocèse de Cambrai..
+Studied at: Paris %1200-1225%..
+Academic grades obtained: Maître ès arts (Paris)..
+Authored work: 'Subtilitas de motu', composed around ?.
+Source: MIRABILE, Andrea CENCINI :.

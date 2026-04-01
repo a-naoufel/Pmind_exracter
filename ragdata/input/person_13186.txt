@@ -1,0 +1,11 @@
+PERSON: BERTRANDUS de Fontenay
+Also known as: Bertaldus de FONTENAY; Bertandus de FONTANETO; Bertrandus PARATORIS.
+Description: ?Docteur en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1398-1414%?.
+Studied at: Paris %1398-1414%?..
+Academic grades obtained: Licencié en théologie (Paris) ;; ?Docteur en théologie (Paris) ..
+College affiliation: Collège des Bernardins ?.
+Religious order: Cistercien : ?abbaye (cistercienne) de Fontenay en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland, révision, Jean-Philippe Genet, dernière mise à jour 23/02/2021)..

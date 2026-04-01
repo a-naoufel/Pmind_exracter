@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Roseriis
+Also known as: Guillelmus de ROSERIIS.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1376-1387%.
+Studied at: Paris %1378-1386%..
+Academic grades obtained: Licencié en théologie (Paris) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère dominicain de la province (dominicaine) de France..
+University functions: Paris (Faculté de Théologie : Lecteur de la Bible %1378-1379%) ;; Paris (Faculté de Théologie : Lecteur des Sentences en ?) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision Jean-Philippe Genet, 15/04/2022..

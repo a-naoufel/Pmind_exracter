@@ -1,0 +1,10 @@
+PERSON: BLANCHETUS Lucas
+Also known as: Blanchetus LUCAS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1388-1388%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ;.
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiastique à la collation de l'évêque, du doyen et du chapitre de Paris en : mandat à l'official de Senlis..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 22/03/2021..

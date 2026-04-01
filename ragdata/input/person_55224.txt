@@ -1,0 +1,12 @@
+PERSON: AMADEUS de Danenches
+Also known as: Amadeus de DANENCHES; Aymericus de DANENCHES.
+Description: Chanoine de Mâcon.
+Status: Maître.
+Gender: male.
+Active during: %1302-1323%.
+Born in: Lyonnais (Bresse) ?.
+Diocese of origin: Diocèse de Lyon..
+Studied at: Paris..
+Academic grades obtained: Maitre ès arts (Paris)..
+Ecclesiastical positions held: Chanoine de Mâcon %1302-1323% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/02/2023..

@@ -1,0 +1,8 @@
+PERSON: GUYMAS
+Also known as: GUYMAS.
+Description: Locataire de la Sorbonne.
+Status: Extérieur.
+Gender: female.
+Active during: %1477-1477%.
+Family relationships: Veuve..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/05/2018)..

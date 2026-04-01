@@ -1,0 +1,10 @@
+PERSON: GEORGIUS Hertwig
+Also known as: Georgius HERTWIG.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1507-1553%.
+Born in: Alémanie (Berne)..
+Studied at: Paris (Nation Anglo-allemande) %1507-1511% ;.
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Maître ès arts (Erfurt) ;.
+Source: RAG ;.

@@ -1,0 +1,36 @@
+PERSON: ALEXANDER de Alexandria
+Also known as: Alexander de ALEXANDRIA; Alexandre BONINI; Alexandre de ALEXANDRIA; Alexander LOMBARDUS; Alexander ALEXANDRINUS.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1295-1314%.
+Born in: Italie (Piémont (Alexandrie))..
+Diocese of origin: Diocèse de Milan..
+Studied at: Paris %1301-1303% ;; Rome ..
+Academic grades obtained: Bachelier en théologie formatus (Paris) (juin) ;; Licencié en théologie (Rome) .; Maître en théologie (Paris) ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) %:1301:-:1303:%..
+Religious order: O.F.M. : frère franciscain..
+Religious functions: Provincial (franciscain) de Naples, %1309-1313% ;; Ministregénéral (franciscain), %1313-1314% ;; Il préside le chapitreprovincial (franciscain) de Nîmes..
+University functions: Lecteur en théologie au Latran à (Rome) ;; Lecteur en théologie au Couventfranciscain de (Gênes) ;; Paris (Faculté de Théologie : lecteur des Sentences %1301-1303%) ;; MaîtreRégent en théologie à l'Université de (Paris), %1307-1308%..
+Representation roles: Il a participé au Concile de Vienne en ..
+Authored work: 'In quatuor libros Sententiarum Commentaria', composed around %:1301:-:1303:% à Paris (Rédaction I).
+Authored work: 'In quatuor libros Sententiarum Commentaria', composed around (Rédaction II).
+Authored work: 'Postilla in Epist. ad Romenos', composed around ?.
+Authored work: 'Postilla in Evangelium Joannis', composed around ?.
+Authored work: 'Postilla in Isaiam', composed around ?.
+Authored work: 'Sermones de tempore', composed around ?.
+Authored work: 'Summa quaestionum Bonaventurae in IV libros Sententiarum', composed around ?.
+Authored work: 'Commentarius in Aristotelis Metaphysicam', composed around .
+Authored work: 'Commentarius in Aristotelis De anima', composed around (1e Rédaction).
+Authored work: 'Quodlibet I', composed around %1307-1308%.
+Authored work: 'Expositio in Aristotelis Metaphysicam', composed around ?.
+Authored work: '[Lettre à Frère AYCARD, ministre de Milan]', composed around à Barcelone.
+Authored work: '[Lettre à JAYME II]', composed around (23 novembre) à Florence.
+Authored work: '[Lettre à JAYME II]', composed around (1er août) à Naples.
+Authored work: 'Tractatus de usuris et restitutionibus', composed around ?%1304-1307% à Gênes.
+Authored work: 'Tractatus de usu paupere', composed around %1309-1310%.
+Authored work: 'Compendium tractatus de usu paupere', composed around .
+Authored work: '[Réplique au rotulus d'Ubertino de CASALE]', composed around %1311-1312%.
+Authored work: 'Postilla in Eccli.', composed around ?.
+Authored work: 'Postilla in Job', composed around ?.
+Source: Dizionario Biografico degli Italiani [en ligne] http://www.treccani.it/enciclopedia/alessandro-bonino_(Dizionario-Biografico)/:.

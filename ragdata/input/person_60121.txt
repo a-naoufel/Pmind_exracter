@@ -1,0 +1,9 @@
+PERSON: MATTHAEUS Bridel
+Also known as: Matthaeus BRIDEL.
+Description: Débirentier du collège de Dainville.
+Status: Extérieur.
+Gender: male.
+Active during: %1394-1408%.
+Studied at: ?.
+Academic grades obtained: ?; Débirentier du collège de Dainville ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

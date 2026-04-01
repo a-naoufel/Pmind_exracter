@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Hereforti
+Also known as: Guillelmus HEREFORT; Guillelmus HAREFORT.
+Description: Propriétaire d’une maison.
+Status: Extérieur.
+Gender: male.
+Active during: %1288-1296%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 15/11/2019..

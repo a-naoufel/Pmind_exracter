@@ -1,0 +1,9 @@
+PERSON: ANTHONIUS de Proilhac
+Also known as: Antonius de PROILHAC; Antoine de PROILLAC.
+Description: Bachelier Décret.
+Status: Gradué.
+Gender: male.
+Active during: %1488-1525%.
+Studied at: Paris %1488-1488%..
+Academic grades obtained: Bachelier Décret (Paris) (le 17 juillet) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/09/2020)..

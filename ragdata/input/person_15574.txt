@@ -1,0 +1,11 @@
+PERSON: ADAM de Ladehors
+Also known as: Adam de LADEHORS.
+Description: Bachelier en droit canon.
+Status: Maître.
+Gender: male.
+Active during: %1495-1495%.
+Born in: Ile-de-France ?.
+Diocese of origin: Diocèse de Paris..
+Studied at: Paris (Nation de France ?) %1495-1495%..
+Academic grades obtained: Maître ès arts (?Paris) ;; Bachelier en décret (Paris) en (17 mars) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ;,dernière mise à jour Jean-Philippe Genet, 11/04/2020)..

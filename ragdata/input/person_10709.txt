@@ -1,0 +1,11 @@
+PERSON: REMIGIUS de Marigniaco
+Also known as: Remy de MARIGNIACO; Remigius de MARIGNIACO.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1322-1332%.
+Studied at: Paris %1322-1332%..
+Academic grades obtained: Maître en médecine (Paris) ..
+Ecclesiastical positions held: Chanoine de Meaux ;; Chanoine de Lisieux en ..
+University functions: Paris (Faculté de médecine : Maître régent %1322-1332%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 12/11/2020)..

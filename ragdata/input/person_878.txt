@@ -1,0 +1,10 @@
+PERSON: ARNALDUS 4
+Also known as: ARNALDUS.
+Description: Chantre de Senlis.
+Status: Extérieur.
+Gender: male.
+Active during: %1347-1347%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chantre de Senlis en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction :Jean-Philippe Genet, dernière mise à jour 20/10/2020)..

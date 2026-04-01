@@ -1,0 +1,34 @@
+PERSON: ALBERTUS Patavinus
+Also known as: Albert de PADOUE; Albertus PATAVINUS; Alberto da PADOVA.
+Description: Augustin.
+Status: Étudiant.
+Gender: male.
+Active during: %1283-1328%.
+Born in: Italie (?Padoue)..
+Diocese of origin: Diocèse de Padoue ?.
+Studied at: Padoue ;; Paris..
+Academic grades obtained: Étudiant à Paris ?; Bachelier en théologie (Padoue) ;.
+College affiliation: Couvent des Grands-Augustins..
+Academic relationships: ?Son maître est Aegidius ROMANUS..
+Religious order: O.E.S.A. : frère augustin : en ou en ..
+Religious functions: Prédicateur apostolique : il a été nommé par BONIFACE VIII..
+University functions: Padoue (Couvent augustion : lecteur en théologie en %1317-1318%.; Paris (Faculté de Théologie : Maître-Régent ) ;; Selon le témoignage de Jourdain de SAXE ;.
+Authored work: 'Postilla super Evangelia Dominicalia', composed around ?.
+Authored work: 'Postilla super Evangelia quadragesimalia I', composed around ?.
+Authored work: 'Postilla super Evangelia quadragesimalia II', composed around ?.
+Authored work: 'Repertorium bibliographicum', composed around ?.
+Authored work: 'Libri IV in quatuor evangelia', composed around ?.
+Authored work: 'Expositio super Pentateuchum', composed around ?.
+Authored work: 'Collectiones biblicae', composed around ?.
+Authored work: 'Postilla super evangelia quadragesimae', composed around ?.
+Authored work: 'Commentaria in omnes epistolas D. Pauli', composed around ?.
+Authored work: 'Commentaria in quatuor evangelistas', composed around ?.
+Authored work: 'Sermones ad clerum', composed around ?.
+Authored work: 'Liber de veritate christianae religionis', composed around ?.
+Authored work: 'Libri IV in Magistrum Sententiarum', composed around ?.
+Authored work: 'Libri de praedestinatione et reprobatione', composed around ?.
+Authored work: 'Commentaria de paradiso terrestri', composed around ?.
+Authored work: '(Sermons sur la Nativité, l'Assomption et la Purification de la sainte Vierge)', composed around ?.
+Authored work: 'Sermones de Sanctis', composed around ?.
+Authored work: 'Sermones de tempore', composed around ?.
+Source: DBI (A.M. GIACOMINI) : http://www.treccani.it/enciclopedia/alberto-da-padova_(Dizionario-Biografico)/ ;.

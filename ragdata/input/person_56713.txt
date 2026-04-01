@@ -1,0 +1,11 @@
+PERSON: PETRUS Ruphii
+Also known as: PETRUS; P. RUPHII.
+Description: Chanoine de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1241-1250%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Clermont vers ? ;.
+Other ecclesiastical functions: Official de Clermont ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 05/10/2023..

@@ -1,0 +1,13 @@
+PERSON: OLAVUS de Sudercopia
+Also known as: OLIVERIUS de Sudercopia; Oliverius de SUDERCOPIA; OLAVUS.
+Description: Chanoine.
+Status: Étudiant.
+Gender: male.
+Active during: %1294-1325%.
+Born in: Suède (?Söderköping (Östergötland))..
+Diocese of origin: Diocèse de Linköping..
+Studied at: Paris (?Nationanglaise), ..
+Academic grades obtained: ?Étudiant (P)..
+Family relationships: Son parent (cognatus) est PETRUS, qui est à son service..
+Ecclesiastical positions held: ?Chanoine de Linköping, %1294-1325%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 14/08/2016..

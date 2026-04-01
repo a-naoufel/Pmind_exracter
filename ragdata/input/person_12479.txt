@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Pomeriis
+Also known as: Guillelmus de POMERIIS; Guillelmus de POMMIERS.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1364-1369%.
+Studied at: Paris %1364-1367%..
+Academic grades obtained: Bachelier en théologie (Paris) vers ;; Docteur en théologie (Paris) vers ..
+Religious order: O.Clun. : moine clunisien..
+Religious functions: Grandprieur de Cluny (diocèse de Mâcon) en %1364-1367% ;; Élu abbé de Cluny (diocèse de Mâcon) en ;; Abbé de Montiéramey (diocèse de Troyes) en ;.
+University functions: Paris (Faculté de Théologie : Lecteur des Sentences en (octobre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 09/04/2022)..

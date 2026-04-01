@@ -1,0 +1,10 @@
+PERSON: ULANDUS
+Also known as: ULANDUS.
+Description: Magister.
+Status: Incertain.
+Gender: male.
+Active during: %1284-1284%.
+Born in: Norvège?.
+Studied at: ?.
+Academic grades obtained: Magister.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 03/10/2025..

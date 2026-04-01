@@ -1,0 +1,13 @@
+PERSON: BENEDICTUS Sabariensis Hungarus
+Also known as: Benedictus SABARIENSIS Hungarus.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1300-1300%?.
+Born in: Hongrie (Szombathely, i.e. Steinamanger)..
+Studied at: Paris ;; Bologne..
+Academic grades obtained: Étudiant en théologie (Paris)..
+College affiliation: Couvent (domincain) de Paris (Jacobins) vers ?.
+Religious order: O.P. : frère dominicain..
+Authored work: 'Sermones (53) collecti Parisiis et Bononie per Fr. Benedictum Sabariensem lectorem ordinis predicatorum', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/03/2015).

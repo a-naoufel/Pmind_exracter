@@ -1,0 +1,12 @@
+PERSON: BONUS Mancipius
+Also known as: Bonus MANCIPIUS.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1290-1314%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: Dominicain : Couvent (dominicain) de Toulouse..
+Religious functions: Prieur (dominicain) de Perpignan..
+University functions: Castres (Couvent dominicain : Lecteur en Théologie )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 27/03/2021)..

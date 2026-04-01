@@ -1,0 +1,8 @@
+PERSON: LIPDID
+Also known as: LIPDID; ALAZIA.
+Description: Épouse d'un étudiant parisien.
+Status: Extérieur.
+Gender: female.
+Active during: %1338-1338%.
+Diocese of origin: Diocèse de Valence..
+Family relationships: Son mari est Vincentius MERCERII ;.

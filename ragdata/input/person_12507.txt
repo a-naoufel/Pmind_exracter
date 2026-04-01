@@ -1,0 +1,11 @@
+PERSON: ROBERTUS Parisiensis 4
+Also known as: Robertus PARISIENSIS; Robertus de PARIS.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1373-1386%.
+Studied at: Paris (Collège de Cluny) %1373-1386%..
+Academic grades obtained: Bachelier en théologie (Paris) ..
+College affiliation: Résident au collège de Cluny en %1373-1386%..
+Religious order: O.S.B. : moine clunisien du prieuré (augustin) de Nogent-le-Rotrou (diocèse de Chartres) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 11/11/2022..

@@ -1,0 +1,10 @@
+PERSON: PETRUS Colier
+Also known as: Pierre COLIER; Pierre COLLIER; Pierre COULIER.
+Description: Maître en arts et en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1497-1553%.
+Studied at: Paris (Nation de France) %1497-1510%..
+Academic grades obtained: Étudiant en médecine (Paris) %1497-1498% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+University functions: Paris (Faculté de médecine : lecteur à plusieurs reprises à partir de )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 16/01/2024..

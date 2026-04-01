@@ -1,0 +1,11 @@
+PERSON: MICHAEL Statun
+Also known as: Michael STATUN.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Diocese of origin: Diocèse de Thérouanne..
+Studied at: Paris (Nation de Picardie) en ..
+Academic grades obtained: Étudiant en ;.
+Ecclesiastical positions held: Chapelain du diocèse de Thérouanne ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 5/10/2023)..

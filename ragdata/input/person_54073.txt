@@ -1,0 +1,10 @@
+PERSON: GERMANUS Poreti
+Also known as: Germanus PORETI.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1429-1430%.
+Studied at: Paris %1429-1430%..
+Academic grades obtained: Bachelier en théologie (Paris) ;.
+University functions: Paris (Faculté de Théologie : lecteur en %1429-1430%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 27/08/2022..

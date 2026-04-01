@@ -1,0 +1,10 @@
+PERSON: IVO de Corellis
+Also known as: Yvo de CORDELLIS; Yvo dictus des CORDELLES.
+Description: Recteur de l'Université de Paris..
+Status: Maître.
+Gender: male.
+Active during: %1308-1308%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) ..
+University functions: Recteur de l'Université de Paris.; Témoin en tant que tel de la confession que fait Jacques de MOLAY dans la confession qu’il fait en (25 mai), en son nom et en celui de trois Templiers, devant Guillelmus de PARISIUS, O.P., inquisitor heretice pravitatis in regno Francie, Simon de GUIBERVILLA, chancelier de Paris, l’Official de Paris, six maîtres en théologie, Petrus de COURPALAIS, abbé (bénédictin) de Saint-Germain-des-Prés, et le prieur des Dominicains ;; Paris (Faculté des Arts : maître-régent en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 20/09/2022..

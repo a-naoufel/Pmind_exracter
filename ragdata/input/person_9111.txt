@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Pastilli
+Also known as: Nicolaus PASTILLI; Nicolas PASTILLI.
+Description: Boursier artien au collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1372-1372%.
+Studied at: Paris (Collège de Navarre) %1372-1372%..
+Academic grades obtained: Étudiant ès arts (Paris) ..
+College affiliation: Boursier artien au collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/11/2023..

@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Porelli
+Also known as: Guillelmus PORELLI; G. POREL; Guillaume POREL.
+Description: Conseiller lai au parlement de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1354-1398%.
+Studied at: ?.
+Academic grades obtained: Maître ?.
+Ecclesiastical status: Laïc ?.
+Source: Paris au Moyen Âge : http://parismoyenage.fr/parisiens/.

@@ -1,0 +1,9 @@
+PERSON: NICOLAUS de Larbroye
+Also known as: Nicolaus de LARBROYE.
+Description: Procureur au Châtelet.
+Status: Extérieur.
+Gender: male.
+Active during: %1426-1426%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 6/01/2019..

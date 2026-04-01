@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS de Sancto Benedicto 3
+Also known as: Guillelmus de SANCTOBENEDICTO.
+Description: Bachelier en droit canon.
+Status: Gradué.
+Gender: male.
+Active during: %1495-1496%.
+Born in: Orléanais ?.
+Diocese of origin: Diocèse de Chartres..
+Studied at: Paris %1495-1496%..
+Academic grades obtained: Bachelier en décret (Paris) (le 7 mars) ..
+Academic relationships: Protégé de Robertus GAGUIN, docteur en droit canon, en ..
+Religious order: O.S.B. : moine bénédictin..
+Religious functions: Bénéfices obtenus sur nomination par Robertus GAGUIN, docteur en droit canon, en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 16/04/2022..

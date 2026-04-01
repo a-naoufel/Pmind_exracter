@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Brinon 1
+Also known as: Guillaume de BRINON.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1416-1416%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Boursier du Collège de Dormans-Beauvais ;.
+Source: LAMOP : Opération Charles VI :.

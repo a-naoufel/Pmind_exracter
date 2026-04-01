@@ -1,0 +1,11 @@
+PERSON: ROBERTUS Poulain
+Also known as: Robert POULAIN.
+Description: Archevêque de Rouen.
+Status: Extérieur.
+Gender: male.
+Active during: %1208-1223%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chanoine de Rouen % -1209% ;; Archevêque de Rouen %1209-1223% ;.
+Representation roles: Il participe au concile de Latran IV en %1214-1215%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 10/04/2024)..

@@ -1,0 +1,9 @@
+PERSON: MICHAEL de Brauliis
+Also known as: Michel DE BRAULIIS.
+Description: Licencié en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1340-1340%.
+Studied at: Paris %1340-1340%..
+Academic grades obtained: Licencié en médecine (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 25/09/2023..

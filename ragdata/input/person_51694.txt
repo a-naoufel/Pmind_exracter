@@ -1,0 +1,11 @@
+PERSON: HENRICUS Bel Hoste
+Also known as: Henri BELHOSTE.
+Description: Étudiant au Collège de Laon..
+Status: Étudiant.
+Gender: male.
+Active during: %1330-1330%.
+Born in: Picardie ?.
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Laon : reçu au collège en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 11/12/2020..

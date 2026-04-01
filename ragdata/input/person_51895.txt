@@ -1,0 +1,18 @@
+PERSON: GUILLELMUS Pagan de Hannebergh
+Also known as: Guillelmus PAGAN de Hannebergh; Pagan de HANNEBERGH.
+Description: Carme.
+Status: Extérieur.
+Gender: male.
+Active during: %1278-1311%..
+Born in: Angleterre (Oxfordshire : ChurchHanborough)..
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Oxford)..
+Ecclesiastical positions held: Prieur-provincial d’Angleterre %1278-1299% et %1307-1311%..
+Authored work: 'Lecturae sententiarum', composed around ?.
+Authored work: 'Conciones populares', composed around ?.
+Authored work: 'De perfectione intellectus', composed around ?.
+Authored work: 'De notitia actuali', composed around ?.
+Authored work: 'De veritate formali', composed around ?.
+Authored work: 'De ente rationis', composed around ?.
+Authored work: 'Quaestiones ordinariae', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 1/02/2021)..

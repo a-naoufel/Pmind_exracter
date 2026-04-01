@@ -1,0 +1,10 @@
+PERSON: BANDINUS 1
+Also known as: BANDINUS.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1157-1158% ?.
+Studied at: Paris ..
+Academic grades obtained: Magister ?.
+Authored work: 'Abbreviatio magistri Bandini de libro sacramentorum magistri Petri Parisiensis', composed around %1157-1158% ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/03/2015).

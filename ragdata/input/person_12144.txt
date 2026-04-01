@@ -1,0 +1,48 @@
+PERSON: ULRICUS Engelberti
+Also known as: Ulricus ENGELBERTI de Argentina; Ulrich de STRASBOURG; Ulrich ENGELBRECHT; Uldaricus ENGELBERTI.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1248-1278%.
+Born in: Alémanie (Strasbourg)..
+Diocese of origin: Diocèse de Strasbourg..
+Studied at: Cologne ;; Paris..
+Academic grades obtained: Bachelier en théologie (Paris) ;.
+College affiliation: Grandcouvent des Jacobins à Paris..
+Academic relationships: Son élève est Jean de FRIBOURG..
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Strasbourg..
+Religious functions: Provincial (dominicain) d'Allemagne %1272-1277%..
+University functions: Strasbourg (couvent dominicain : lecteur) ;; Paris (couvent dominicain : lecteur des sentences)..
+Authored work: '(De summo bono libri VI)', composed around ?%1262-1272%.
+Authored work: '(In libros I et II Sententiarum)', composed around ?.
+Authored work: '(Sermon)', composed around ?.
+Authored work: '(Comment. in librum I de Anima)', composed around ?.
+Authored work: '(Tractatus de anima ejusque potentiis)', composed around ?.
+Authored work: '(Super librum Meteororum)', composed around ?.
+Authored work: '(Liber de foro conscientiae ac casibus juris)', composed around ?.
+Authored work: '(A Albert le Grand)', composed around , dedicated to Adressé à ALBERT le Grand..
+Authored work: '(Au socius du cardinal Hannibald)', composed around , dedicated to Adressé au socius du cardinal HANNIBALD..
+Authored work: '(Remerciements à Albert le Grand)', composed around %1272-1277%, dedicated to Adressé à ALBERT le Grand..
+Authored work: '(Lettre I)', composed around ?.
+Authored work: '(Lettre II)', composed around ?.
+Authored work: '(A Albert le Grand, pour le couvent de Neufs)', composed around ?, dedicated to Adressé à ALBERT le Grand..
+Authored work: '(Au prieur des dominicains de Cologne)', composed around ?, dedicated to Adressé au prieur (dominicain) de Cologne..
+Authored work: '(Au frère Godefroid de Duisburg)', composed around ?, dedicated to Adressé au Frère Godefroid de DUISBURG..
+Authored work: '(Au maire et au prieur d'Esslingen)', composed around ?, dedicated to Adressé au maire d'Esslingen et au prieur d'Esslingen..
+Authored work: '(Aux soeurs de Sirnau)', composed around ?, dedicated to Adressé aux soeurs de Sirnau..
+Authored work: '(A la prieure de Weiler)', composed around ?, dedicated to Adressé à la prieure de Weiler..
+Authored work: '(Pour l'élection de Rodolphe de Habsbourg)', composed around , dedicated to Pour l'élection de Rodolphe de HABSBOURG..
+Authored work: '(Au prieur d'Halberstadt)', composed around , dedicated to Adressé au prieur d'Halberstadt..
+Authored work: '(A un prieur)', composed around ?, dedicated to Adressé à un prieur..
+Authored work: '(Au nouveau prieur dominicain de Cologne)', composed around ?, dedicated to Adressé au nouveau prieur de Cologne..
+Authored work: '(Aux soeurs de Croswiz)', composed around ?, dedicated to Adressé aux soeurs de Croswiz..
+Authored work: '(Au prieur de Brême)', composed around ?, dedicated to Adressé au prieur de Bremen..
+Authored work: '(Au prieur de Rostock)', composed around ?, dedicated to Adressé au prieur de Rostock..
+Authored work: '(A un prieur)', composed around ?, dedicated to Adressé à un prieur..
+Authored work: '(A un seigneur)', composed around ?, dedicated to Adressé à un seigneur..
+Authored work: '(Pour le chapitre provincial de Vienne)', composed around , dedicated to Adressé au chapitreprovincial de Vienne..
+Authored work: '(Au roi Ottokar de Bohême)', composed around , dedicated to Adressé à OTTOKAR, roi de Bohême..
+Authored work: '(Aux frères de la province)', composed around , dedicated to Adressé aux frères de la province..
+Authored work: '(Lettre au frère Alexandre, lecteur à Constance)', composed around , dedicated to Adressé au Frère ALEXANDRE, lecteur à Constance..
+Authored work: '(Lettre au maître général)', composed around , dedicated to Adressé au maîtregénéral des Dominicains..
+Source: MIRABILE : Federico CONTINI :.

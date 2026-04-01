@@ -1,0 +1,9 @@
+PERSON: PETRUS de Cruce Hispanus Portugalensis
+Also known as: Petrus HISPANUSPORTUGALENSIS.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1480-1488%.
+Born in: Portugal ?.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?; Maître ès arts ?.

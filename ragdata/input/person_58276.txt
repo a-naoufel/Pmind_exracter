@@ -1,0 +1,12 @@
+PERSON: BERNARDUS Pisanus
+Also known as: Bernardus PISANUS; Bernardus de PISIS.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1172-1173%.
+Born in: Italie (Toscane : Pise) ?.
+Diocese of origin: Diocèse de Pise..
+Studied at: Paris.
+Academic grades obtained: Magister ;.
+University functions: Paris (Maître vers %1172-1173%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 27/11/2024..

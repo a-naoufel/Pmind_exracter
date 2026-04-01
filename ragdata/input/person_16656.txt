@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Le Poigneur
+Also known as: Guillelmus Le POIGNEUR.
+Description: Bachelier en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1403-1416%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Coutances ;.
+Studied at: Paris (Nation de Normandie) ..
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en théologie (Paris) ..
+University functions: Paris (Faculté de Théologie : il est l'un des membres de la Faculté figurant sur le rotulus des signataires en du document par lequel la Faculté de théologie condamne les neuf propositions de Johannes PARVI à la demande du roi entre le 29 août et le 16 octobre ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 14/05/2022..

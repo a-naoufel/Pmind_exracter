@@ -1,0 +1,10 @@
+PERSON: ARNALDUS de Capella
+Also known as: Arnoul de CAPELLA; Arnoul de CAPPELLA; Arnulphus de CAPELLA.
+Description: Licencié en médecine.
+Status: Gradué.
+Gender: male.
+Active during: %1434-1445%.
+Studied at: Paris (Nation de France) %1434-1436% ;; Paris (Collège des Dix-Huit) %1434-1445%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;.
+College affiliation: Boursier du collège des Dix-Huit à Paris en %1434-1445%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 3/11/2020..

@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Layn
+Also known as: Guillelmus de LAYN.
+Description: Maître ès arts ?.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Maître (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/08/2015..

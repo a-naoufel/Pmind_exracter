@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Musnier
+Also known as: Guillelmus MUSNIER; Guillaume MUSNIER; Guillaume MUSNERII; Guillaume LE MUNIER.
+Description: Maître en médecine à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1451-1466%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie) %1451-1462%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+College affiliation: Collège de Maître-Gervais : socius %1454-1455% ;; Grand boursier %1454 ;; Collège de Maître-Gervais : prieur ;.
+Family relationships: Son oncle est le médecin Guillelmus de ALGIA..
+University functions: Paris (Faculté de médecine : Maîtrerégent %1456-1466%) ;; Paris (Faculté de médecine : Doyen, %1459-1462%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 16/09/2029..

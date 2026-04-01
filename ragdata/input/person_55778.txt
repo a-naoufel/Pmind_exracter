@@ -1,0 +1,12 @@
+PERSON: RICARDUS Alexandre
+Also known as: Richard ALEXANDRE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1494-1494%.
+Studied at: Paris ?.
+Academic grades obtained: Maître ès arts (Paris ?)..
+Family relationships: Son parent est Guillaume ALEXANDRE, pelletier et bourgeois de Paris ;.
+Social origin: Bourgeoisie ?.
+Ecclesiastical positions held: Curé de Conflans près de Charenton ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

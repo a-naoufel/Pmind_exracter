@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Pinguis
+Also known as: Guillelmus PINGUIS.
+Description: Bachelier en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1474-1474%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris (Nation de Normandie) %1474-1474%..
+Academic grades obtained: Maître ès arts (Paris) attesté en ;; Bachelier en décret (Paris) attesté en ..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (3e année) en (27 septembre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 04/05/2015..

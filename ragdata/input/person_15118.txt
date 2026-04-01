@@ -1,0 +1,12 @@
+PERSON: PETRUS de Hamello
+Also known as: Pierre de HAMELLO; Petrus de HAMELO; Pierre du HAMEL.
+Description: Doyen de la Faculté de médecine.
+Status: Maître.
+Gender: male.
+Active during: %1444-1483%.
+Born in: Île-de-France (Paris) ;.
+Diocese of origin: Diocèse de Paris ?.
+Studied at: Paris (Nation de France) %:1443-1471%..
+Academic grades obtained: Bachelier ès arts (Paris) ,; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+University functions: Procureur de la nation de France ;; Doyen de la Faculté de médecine de Paris, %1453-1454%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 22/08/2015..

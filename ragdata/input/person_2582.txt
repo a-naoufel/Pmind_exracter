@@ -1,0 +1,14 @@
+PERSON: GALFREDUS Sapientis
+Also known as: Gaufridus SAPIENTIS; Geoffroy LE SAGE.
+Description: Chapelain du Collège de Navarre.
+Status: Maître.
+Gender: male.
+Active during: %1363-1395%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris (Nation de Normandie) %1363-1395%..
+Academic grades obtained: Maître ;; Étudiant en théologie (Paris) ..
+College affiliation: Collège de Navarre : boursier théologien au en ;; Collège de Navarre : chapelain en ;.
+Ecclesiastical status: Clerc en ;; Sous-diacre en ;.
+Ecclesiastical positions held: Archidiacre d'Évreux %1390-1391% ;; Chanoineprébendé d'Évreux %1391-1395% ;; Curé de Pontd'Arche , ;; Chanoineprébendé d'Évreux %1391-1395% ;; Chapelain du collège de Navarre à Paris, ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 30/11/2021..

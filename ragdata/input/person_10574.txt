@@ -1,0 +1,12 @@
+PERSON: RAGNVALDUS Swecus
+Also known as: Ragnvaldus SWECUS.
+Description: Étudiant.
+Status: Gradué.
+Gender: male.
+Active during: %1358-1358%.
+Born in: Suède.
+Diocese of origin: Diocèse de Skara..
+Studied at: Paris (Nationanglaise), ..
+Academic grades obtained: Bachelier ès arts (P), ..
+Academic relationships: Élève de magister NICOLAUS Johannis de Suecia (déterminance), ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 10/08/2016..

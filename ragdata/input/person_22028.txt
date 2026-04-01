@@ -1,0 +1,12 @@
+PERSON: CLAUDIUS 1
+Also known as: CLAUDIUS.
+Description: Chanoine d'Amiens.
+Status: Extérieur.
+Gender: male.
+Active during: %1255-1264%.
+Born in: Italie..
+Studied at: ?.
+Academic grades obtained: Maître..
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine de Rome ;; Chanoine d'Amiens ;.
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, dernière mise à jour 25/02/2021..

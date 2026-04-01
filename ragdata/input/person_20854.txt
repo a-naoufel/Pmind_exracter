@@ -1,0 +1,13 @@
+PERSON: Scolaris de Monte Sancte Marie
+Also known as: Scolaris de MONTE SANCTE MARIE.
+Description: Cistercien.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Born in: Comté de Bourgogne ?.
+Diocese of origin: Diocèse de Besançon ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+College affiliation: Collège des Bernardins ;.
+Religious order: O. Cist. : abbaye (cistercienne) de Mont-Sainte-Marie (diocèse de Besançon)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 30/08/2016..

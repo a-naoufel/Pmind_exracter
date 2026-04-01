@@ -1,0 +1,21 @@
+PERSON: HUGO de Fagiano
+Also known as: Hugo de FAGIANO; Hugo PISANUS; Hugo de PISIS; Hugues de PISE.
+Description: Archevêque de Nicosie.
+Status: Étudiant.
+Gender: male.
+Active during: %1230-1268%.
+Born in: Italie (Toscane : Fagiano) ;.
+Diocese of origin: Diocèse de Pise ?.
+Studied at: Bologne ;; Paris..
+Academic grades obtained: Étudiant en théologie (Paris) entre et ;.
+Religious order: O.Praem. : chanoine (Prémontré) de l’abbaye de Belpaïs en .; ?O.S.A..
+Ecclesiastical positions held: Chanoine de Pise ;; Chantre de Pise ;; Chantre de Rouen % -1237% ;; Archidiacre de Rouen %1237-1246% ;; Doyen de Rouen %1246-1248% ;; Archevêque de Nicosie %1250-1263% ;.
+Authored work: 'Constitutio qua declarantur et denunciantur excommunicati', composed around ;.
+Authored work: 'Constitutiones', composed around .
+Authored work: 'Synodicum Nicosiense', composed around %1252-1257%.
+Authored work: 'Statuta synodalia', composed around .
+Authored work: 'Contra avaritia clericurum', composed around .
+Authored work: 'De horis officii Divinis', composed around .
+Authored work: 'Contra usurarios', composed around .
+Authored work: 'De Assisiorum officiis', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

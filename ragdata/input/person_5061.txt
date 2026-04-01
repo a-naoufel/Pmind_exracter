@@ -1,0 +1,11 @@
+PERSON: HERMANNUS de Getlandia
+Also known as: Hermannus de GETLANDIA.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %:1333-1333%.
+Born in: ?Suède (?Gotland);.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: B.A. (P), ;.
+Academic relationships: Son maître est Johannes de SCENIGHEN pour le baccalauréat en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Elisabeth Mornet.

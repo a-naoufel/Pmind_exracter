@@ -1,0 +1,11 @@
+PERSON: PETRUS de Hangesto
+Also known as: Petrus de HANGESTO.
+Description: Prévôt d'Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1328-1349%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine de Reims %1334-1340% ;; Chanoine de Thérouanne % -1340% ;; Trésorier de Thérouanne % -1340% ;; Chanoine d’Amiens %1340-1349% ;; Prévôt d’Amiens %1340-1349% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 30/06/2021..

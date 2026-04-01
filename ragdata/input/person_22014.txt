@@ -1,0 +1,15 @@
+PERSON: GUILLELMUS de Monasteriolo
+Also known as: Guillelmus de MONASTERIOLO; Guillelmus de MONSTERIOLO; Guillaume de MONTREUIL.
+Description: Chanoine de Reims.
+Status: Maître.
+Gender: male.
+Active during: %1272-1273%.
+Studied at: Paris %:1272-1273%.
+Academic grades obtained: Magister (Paris) ..
+College affiliation: Sorbonne, s’il s’agit de Guillaume de MONTREUIL ?.
+Ecclesiastical status: Prêtre..
+Ecclesiastical positions held: Chanoine de Reims ;.
+Authored work: '(Sermon pour la Toussaint)', composed around (1er novembre) au béguinage de Paris..
+Authored work: '(Sermon pour la commémoration des défunts)', composed around (2 novembre) au béguinage de Paris..
+Authored work: '(Sermon pour le premier dimanche de l’Avent)', composed around (27 novembre) à l’égliseparoissiale de Paris (Saint-Jacques-de-la-Boucherie)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 2/04/2020..

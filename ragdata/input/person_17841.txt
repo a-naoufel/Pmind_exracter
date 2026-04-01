@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Jegoti
+Also known as: Guillelmus JEGOTI.
+Description: Bachelier en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1418-1418%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Troyes..
+Studied at: Paris (Nation de France) %1418-1418%..
+Academic grades obtained: Maître ès arts (Paris) attesté en ;; Bachelier en décret (Paris) 17 juin ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 07/05/2022.

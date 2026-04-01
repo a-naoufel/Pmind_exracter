@@ -1,0 +1,14 @@
+PERSON: MAURITIUS 4
+Also known as: MAURITIUS.
+Description: Clunisien.
+Status: Étudiant.
+Gender: male.
+Active during: %1343-1343%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse de Saint-Flour ?.
+Studied at: Paris (Collège de Cluny) %1343-1343%..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Étudiant du collège de Cluny à Paris avant ..
+Religious order: Clunisien.
+Religious functions: Moine de Lavoute-Chilhac (diocèse de Saint-Flour) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 24/09/2023..

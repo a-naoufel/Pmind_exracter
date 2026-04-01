@@ -1,0 +1,10 @@
+PERSON: HENRICUS Gusien
+Also known as: Henricus GUSIEN.
+Description: Chapelain de Saint-Séverin.
+Status: Incertain.
+Gender: male.
+Active during: %1425-1429%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chapelain de Paris (Saint-Séverin, chapelle Saint-Jacques et Saint-Nicolas) en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,9 @@
+PERSON: ARTHURUS de Richemont
+Also known as: Arthur de RICHEMONT.
+Description: Connétable de France.
+Status: Extérieur.
+Gender: male.
+Active during: %1414-1458%.
+Born in: Bretagne (Suscinio)..
+Family relationships: Son père est JEAN IV, duc de Bretagne ; Sa mère est Jeanne de NAVARRE ; Son frère est JEAN V, duc de Bretagne ; Son neveu est FRANCOIS I, duc de Bretagne ; Son neveu est PIERRE I, duc de Bretagne ; Son neveu est Gilles de BRETAGNE ; Son neveu est FRANCOIS II, duc de Bretagne ;.
+Social origin: Noble..

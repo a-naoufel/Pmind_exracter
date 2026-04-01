@@ -1,0 +1,10 @@
+PERSON: ALEXIUS
+Also known as: ALESSIO.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1159-1159%.
+Born in: Italie..
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/01/2022)..

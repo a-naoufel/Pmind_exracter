@@ -1,0 +1,19 @@
+PERSON: SIMON Lentis
+Also known as: Simon LENTIS; Simon de LENS; Symon de LANS.
+Description: Maître en théologie franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1273-1295%.
+Born in: Artois (Lens) ?.
+Diocese of origin: Diocèse d’Arras ?.
+Academic grades obtained: Maître en théologie (Paris) en ?)..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Religious order: O.F.M. : frère franciscain..
+University functions: Paris (Université : maître-régent au couvent franciscain)..
+Authored work: 'Comment. in IIm Sententiarum (316 q.)', composed around ?.
+Authored work: 'Comment.in IIIm Sententiarum', composed around ?.
+Authored work: 'Commnet. In IV Sententiarum', composed around ?.
+Authored work: 'Expositiones evangeliorum', composed around ?.
+Authored work: 'Sermon pour la fête de Saint MATHIAS', composed around .
+Authored work: 'Quodlibet I', composed around %1294-95%.
+Source: Répertoire des auteurs franciscains préparé par Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress :.

@@ -1,0 +1,14 @@
+PERSON: NICOLAUS de Sancto Justo 1
+Also known as: Nicolaus de SANCTOJUSTO; Nicolas de SAINT-JUST.
+Description: Grandmaître du collège de Navarre..
+Status: Maître.
+Gender: male.
+Active during: %1307-1329%.
+Born in: Champagne (Épernay)..
+Diocese of origin: Diocèse de Reims..
+Studied at: Paris (Nation de France) %1312-1329%..
+Academic grades obtained: Docteur en théologie avant ;.
+College affiliation: Collège de Navarre : maître en théologie avant .; Grandmaître du collège de Navarre à Paris en %1318-1329% au moins ;.
+Ecclesiastical positions held: Chanoineprébendé de Saint-Vedast en ;; Recteur d'Oudenarde (Sainte Aldeburge) en ;; Provision pour un canonicat avec expectative de prébende de Saint-Laurent (diocèse de Beauvais) en ;; Prévôt de l'église Cambrai (Saint-Géry) en ;; Chanoine de Saint-Quentin en ;; Provision pour un canonicat avec expectative de prébende de Cambrai en ;; Chanoine avec expectative de prébende de Lisieux en ;; Doyen du chapitre de Saint-Quentin ;.
+University functions: Paris (Faculté de théologie : Maître-régent) ;; Paris (Vice gérant de l'évêque de Senlis, conservateur des privilèges de l'Université en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 14/10/2023)..

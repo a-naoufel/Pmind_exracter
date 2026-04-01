@@ -1,0 +1,10 @@
+PERSON: ANTHONIUS Sollerius
+Also known as: Anthoine SOLLERIUS.
+Description: Hôte du collège de Fortet.
+Status: Incertain.
+Gender: male.
+Active during: %1506-1507%.
+Studied at: Paris ?.
+Academic grades obtained: Docteur in utroque ?.
+College affiliation: Collège de Fortet, hôte %1506-1507% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/04/2023)..

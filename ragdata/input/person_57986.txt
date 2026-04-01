@@ -1,0 +1,25 @@
+PERSON: GERVASIUS de Monte Sancti Eligii
+Also known as: Servais de GUEZ; Servasius de GUEZ; Gervasius de MONTE-SANCTI-ELIGII; Gervais du MONT-SAINT-ÉLOI; Gervasius de MONTE SANCTO ELIGIO.
+Description: Chanoine du Mont-Saint-Eloi.
+Status: Maître.
+Gender: male.
+Active during: %1273-1314%.
+Born in: Artois (Arras) ;.
+Studied at: Paris %1273-1286%..
+Academic grades obtained: Maître en théologie (Paris) %1277-1279% ;.
+Academic relationships: Son élève est Godefroy de FONTAINES ;.
+Religious order: O.S.A. : chanoinerégulier du Mont-Saint-Eloi..
+Religious functions: Abbé (O.S.A.) du Mont-Saint-Eloi %1291-1324%..
+University functions: Paris (Faculté de Théologie : Maître-régent %1279-1286%) ;; Paris (Faculté de Théologie : Doyen) ;.
+Authored work: 'Quodlibeta', composed around %1282-1291%.
+Authored work: '(Sermon pour le 2e dimanche de Carême)', composed around (5 mars)..
+Authored work: '(Sermon pour la fête de Saint Benoît)', composed around ?.
+Authored work: '(Sermon pour la fête de Saint Rémi)', composed around ?.
+Authored work: '(Sermon pour la fête de Saint Martin)', composed around ?.
+Authored work: '(Sermon pour le 3e dimanche après l’octave de Saint Rémi)', composed around (26 octobre)..
+Authored work: '(Sermon pour le 2e dimanche de Carême)', composed around (22 février)..
+Authored work: '(Sermon pour la Toussaint)', composed around (1er novembre)..
+Authored work: '(Sermon pour le Vendredi Saint)', composed around (16 avril)..
+Authored work: '(Sermon pour la fête de Saint Matthias)', composed around .
+Authored work: '(Sermone de sanctis)', composed around ?.
+Source: MIRABILE (Andrea CENCINI) :.

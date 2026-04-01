@@ -1,0 +1,10 @@
+PERSON: BERTRANDUS Heroii
+Also known as: Bertrandus HEROII.
+Description: Domicellus de l’abbé de Saint-Victor.
+Status: Suppôt.
+Gender: male.
+Active during: %1331-1331%.
+Studied at: ?Paris..
+Academic grades obtained: ?.
+College affiliation: Saint-Victor ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 14/03/2020..

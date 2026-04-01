@@ -1,0 +1,9 @@
+PERSON: PETRUS Valin 2
+Also known as: Pierre VALIN.
+Description: Écolier de la Faculté de médecine..
+Status: Étudiant.
+Gender: male.
+Active during: %1472-1473%.
+Studied at: Paris %1472-1473%..
+Academic grades obtained: Étudiant en médecine (Paris) %1472-1473% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux : révision, Jean-Philippe Genet, 14/09/2023..

@@ -1,0 +1,10 @@
+PERSON: BERNARDUS de Laborie
+Also known as: Bernardus de LABORIE.
+Description: Licencié Décret.
+Status: Maître.
+Gender: male.
+Active during: %1495-1495%.
+Studied at: Paris %1495-1495%..
+Academic grades obtained: Bachelier Décret (Paris) (le 24 février) ;; Licencié Décret (Paris) (le 15 avril) ..
+Academic relationships: Élève de Simon du GAST en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Anne Tournieroux ; Jean-Philippe Genet, dernière mise à jour 1/02/2021)..

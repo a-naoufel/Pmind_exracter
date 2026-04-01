@@ -1,0 +1,10 @@
+PERSON: PETRUS de Serrescuderia
+Also known as: Petrus de SERRESCUDERIA.
+Description: O.F.M..
+Status: Maître.
+Gender: male.
+Active during: %1333-1333%.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en théologie (Paris) ;; Maître en théologie (Paris) ;.
+College affiliation: Couvent (franciscain) de Paris ;.
+Religious order: O.F.M. : frère (franciscain) du couvent de Paris en ;.

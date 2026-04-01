@@ -1,0 +1,10 @@
+PERSON: GUIDO Corderii de Poloigniaco
+Also known as: Guido CORDERII; Guido de POLOIGNIACO.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1362-1362%.
+Studied at: Paris (Nation de France)..
+Academic grades obtained: Maître ès arts (Paris) en ..
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus de la Nation de France en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/01/2022..

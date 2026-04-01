@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Bretegnon
+Also known as: Guillelmus de BRETEGNON.
+Description: Sergent du chancelier de Paris.
+Status: Suppôt.
+Gender: male.
+Active during: %1254-1263%.
+Studied at: Paris ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 10/03/2022..

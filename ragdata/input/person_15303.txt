@@ -1,0 +1,11 @@
+PERSON: ADAM 2
+Also known as: ADAM.
+Description: Bénédictin.
+Status: Maître.
+Gender: male.
+Active during: %1209-1209%.
+Born in: Angleterre..
+Studied at: Oxford ;; Paris à partir de ..
+Academic grades obtained: Magister ?.
+Religious order: O.S.B. : moine bénédictin ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux, révision, Jean-Philippe Genet, 12/11/2019)..

@@ -1,0 +1,11 @@
+PERSON: ALEXANDER Alemannus
+Also known as: Alexander ALEMANNUS.
+Description: Proviseur du collège des Allemands.
+Status: Étudiant.
+Gender: male.
+Active during: %1348-1348%.
+Born in: Allemagne ?.
+Studied at: Paris (Nation d'Allemagne) ..
+Academic grades obtained: Étudiant à la Faculté des Arts ?.
+College affiliation: Proviseur du collège des Allemands en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 27/06/2020)..

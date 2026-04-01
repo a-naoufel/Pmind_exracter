@@ -1,0 +1,10 @@
+PERSON: GERARDUS de Passu
+Also known as: Girardus de PASSU.
+Description: Aumônier du pape.
+Status: Extérieur.
+Gender: male.
+Active during: %1391-1393%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 30/07/2021..

@@ -1,0 +1,9 @@
+PERSON: GUILLEBERTUS de Vouta
+Also known as: Guillebertus de VOUTA.
+Description: Bourgeois de Paris ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1282-1282%.
+Studied at: ?.
+Social origin: Bourgeois de Paris ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 06/02/2022..

@@ -1,0 +1,11 @@
+PERSON: REGINALDUS Subcamerarius Sancti Victoris
+Also known as: RENAUDUS, Subcamerarius Sancti Victoris.
+Description: Subcamerarius de Saint-Victor.
+Status: Incertain.
+Gender: male.
+Active during: %1331-1331%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.S.A. : chanoine (augustin) de Paris (Saint-Victor) ..
+Religious functions: Subcamerarius de Paris (Saint-Victor) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 14/03/2020..

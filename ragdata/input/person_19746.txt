@@ -1,0 +1,11 @@
+PERSON: FERNANDUS de Salamantica
+Also known as: Fernandus de SALAMANTICA.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1357-1357%.
+Born in: Castille ?.
+Studied at: Paris ;; Bologne..
+Academic grades obtained: Maître ès arts (Paris) ;; Maître en médecine (Bologne) ;.
+Ecclesiastical positions held: Titulaire d'une prestimonia (disputée) à Corita (diocèse d'Avila) en ;; Provision pour un canonicat avec expectative de prébende à la cathédrale de Ségovie en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 1/08/2021..

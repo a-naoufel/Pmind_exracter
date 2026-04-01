@@ -1,0 +1,9 @@
+PERSON: BALDUINUS de Serbona
+Also known as: Balduinus de SERBONA.
+Description: Docteur en théologie ?.
+Status: Maître.
+Gender: male.
+Active during: %1385-1385% ?.
+Studied at: Paris.
+Academic grades obtained: Docteur en théologie ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 1/12/2020)..

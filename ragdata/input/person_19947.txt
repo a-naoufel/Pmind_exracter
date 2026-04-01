@@ -1,0 +1,8 @@
+PERSON: HERMES Flosse
+Also known as: Hermes FLOSSE.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Maître (Paris) ?.

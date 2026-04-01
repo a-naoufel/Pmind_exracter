@@ -1,0 +1,32 @@
+PERSON: PETRUS Hispanus 2
+Also known as: Petrus HISPANUS; Pierre d'ESPAGNE; Pietro JULIANI; JEAN XXI; Pietro di GIULIANO.
+Description: Pape.
+Status: Maître.
+Gender: male.
+Active during: %1225-1277%.
+Born in: Portugal (Lisbonne) ;.
+Diocese of origin: Diocèse de Lisbonne..
+Studied at: Paris vers %1225-1235% ?; Toulouse..
+Academic grades obtained: Maître ès arts (Paris) ?; Étudiant en médecine (Paris) ?.
+Ecclesiastical positions held: Doyen de Lisbonne en ;; Archidacre de Braga en ;; Prieur de Guimaraes (collégiale Santa Maria) (11 décembre) ;; Archevêque de Braga (mai) ;; Cardinalévêque de Tusculum (Frascati) en (3 juin) nommé par GRÉGOIRE X ;; Pape : JEAN XXI est élu à Viterbe en (16 septembre ?) pour succéder à ADRIEN V..
+University functions: Paris, régent ès arts, en tout état de cause avant .; Toulouse ?.
+Representation roles: Il participe en tant que cardinal au concile de Lyon II en .; Mission diplomatique à Paris en pendant laquelle il aurait participé à un dispute de quolibet ?.
+Authored work: 'Comment. in Coelestem Hierarchiam Dionysii', composed around ?.
+Authored work: 'In librum Ecclesiasticae Hierarchicae', composed around ?.
+Authored work: 'In librum De divinis nominibus', composed around ?.
+Authored work: 'In librum Mysticae theologiae', composed around ?.
+Authored work: 'In epistolas Dionysii', composed around ?.
+Authored work: 'Sermones de tempore', composed around ?.
+Authored work: 'Tactatus majorum fallaciarum', composed around ?.
+Authored work: 'Syncathegoreumata', composed around ?.
+Authored work: 'Summulae logicales', composed around Vers (WEIJERS) ?.
+Authored work: 'Summa in Priscianum minorem', composed around ?.
+Authored work: 'Quaestiones super libro De animalibus Aristotelis', composed around ?.
+Authored work: 'Scriptum super librum De animalibus', composed around ?.
+Authored work: 'Comment. in lib. De morte et vita, De longitudine et brevitate vitae', composed around ?.
+Authored work: 'Problemata', composed around ?.
+Authored work: '[Registre de Jean XXI]', composed around %1276-1277%..
+Authored work: 'Opus puerorum', composed around ?.
+Authored work: 'Summulae antiquorum', composed around ?.
+Authored work: 'De rebus principalibus naturarum', composed around ?.
+Source: MIRABILE : Federico CONTINI :.

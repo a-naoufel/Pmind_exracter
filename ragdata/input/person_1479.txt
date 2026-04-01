@@ -1,0 +1,12 @@
+PERSON: BERTRANDUS 5
+Also known as: BERTRANDUS.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1418-1418%.
+Studied at: Paris (Collège de Marmoutier) %1418-1418%..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Marmoutier ..
+Religious functions: Prieur de Vesly (Diocèse de Rouen) en ..
+Ecclesiastical positions held: O.S.B.: moine de l'abbaye (bénédictine) de Marmoutier (Diocèse de Tours)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol ; révision, Jean-Philippe Genet, dernière mise à jour 3/05/2018).

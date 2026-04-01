@@ -1,0 +1,10 @@
+PERSON: PERRINUS de Tholono
+Also known as: Perrinus de THOLONO.
+Description: Chanoine d’Autun.
+Status: Incertain.
+Gender: male.
+Active during: %1455-1455%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Autun ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/01/2023..

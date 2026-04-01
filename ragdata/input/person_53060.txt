@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Ligni
+Also known as: Guillelmus de LIGNI; Guillaume de LIGNY.
+Description: Évêque-élu de Viviers.
+Status: Extérieur.
+Gender: male.
+Active during: %1388-1406%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.S.B. : moine bénédictin ;.
+Religious functions: Abbé du monastère (bénédictin) de Reims (Saint-Nicaise) % -1388% ;.
+Ecclesiastical positions held: Évêque de Viviers %1388-1406% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 7/12/2021..

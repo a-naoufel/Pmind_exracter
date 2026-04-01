@@ -1,0 +1,12 @@
+PERSON: ELVINUS
+Also known as: ELVINUS.
+Description: Évêque de Varad.
+Status: Étudiant.
+Gender: male.
+Active during: %1189-1200%.
+Born in: Hongrie ;.
+Diocese of origin: Diocèse de Pécs..
+Studied at: Paris..
+Academic grades obtained: Étudiant ès arts (Paris) ;.
+Ecclesiastical positions held: Évêque d’Oradea (Varad) %1189-1200%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, denière mise à jour, 18/10/2024..

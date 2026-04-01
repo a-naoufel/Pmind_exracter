@@ -1,0 +1,41 @@
+PERSON: HIERONYMUS Balbi
+Also known as: Hieronymus BALBI; Girolamo BALBI.
+Description: Humaniste vénitien..
+Status: Maître.
+Gender: male.
+Active during: %1480-1530%.
+Born in: Italie (Vénétie : Venise)..
+Diocese of origin: Diocèse de Venise..
+Studied at: Rome avant ;; Padoue avant ;; Paris %1484-1490% ;; Vienne %1493-1499% ;; Prague %1500-1501%..
+Academic grades obtained: Étudiant en humanités (Rome) ;; Étudiant en dtoit et jurisprudence (Padoue) ;; Docteur in utroque jure (Padoue ?)..
+Family relationships: Son neveu est Giovanni BAROZZI, qu’il essaiera de faire nommer évêque de Belluno..
+Academic relationships: Son maître est Pomponio LETO à Rome ; Son maître est Luca RIPA à Rome..
+Social origin: Commun ?.
+Ecclesiastical positions held: Chanoine de Vács (Waizen) %1510-1513% ;; Prévôt de Vács (Waizen) ;; Chanoine de Eger (Erlau) ;; Prévôt de Pozsony (Pressburg) ;; Prévôt de Sztonicza ?; Évêque de Gurk, %1523-1529%.; Prélat domestique à la cour de CLÉMENT VII en %1524-1530% ;.
+University functions: Paris (Faculté des Arts : la faculté est amenée à juger en du différend entre Guillaume TARDIF et Hieronymus BALBI et décide en faveur du premier, condamnant le second à présenter des excuses publiques à Pâques ) ;; Paris (Faculté des Arts : la Faculté l’autorise en (septembre), comme les autres humanistes italiens, notamment Cornelio VITELLI et Fausto ANDRELINI, à tenir des leçons in arte humanitatis) ;; Paris (lecteur extraordinaire en droit romain et en astrologie).; Vienne (Université : professeur de droit romain à l'Université de Vienne, %1493-1499%) ;; Vienne (Université : lecteur in arte humanitatis à l'Université de Vienne %1494-1497%.; Prague (Université : Professeur de droit romain à l'Université de Prague, %1500-1501%) ;; Prague (Université : lecteur in arte humanitatis à l'Université de Prague, %1500-1501%).; Padoue (Université : conservateur de l’Université) ;.
+Representation roles: Missions diplomatiques pour le roi de Hongrie, %1515-1524%.; Mission en Pologne en pour obtenir le soutien de la candidature à l’empire de CHARLES-QUINT.; Plénipotentiaire du roi de Hongrie pour les négociations de mariage entre Habsbourg et Jagellon en ;; Ambassadeur de Hongrie en Angleterre en .; Ambassadeur à Venise en ;; Représentant du roi de Hongrie à Rome en %1524-1530%..
+Authored work: 'Ad Clementem septem pontificem de virtutibus', composed around ?.
+Authored work: 'De Fortuna et providentia', composed around ?.
+Authored work: 'De civili et bellica fortitudine liber, ex Mysteriis peotae Vergilii nunc primum depromptus', composed around ?.
+Authored work: '(Édition des tragédies de Sénèque)', composed around ?.
+Authored work: 'Rhetor gloriosus', composed around .
+Authored work: 'Commentarius in somnium Scipionis', composed around ?.
+Authored work: 'Epigrammata et carmina', composed around ?, dedicated to Adressés, inter alia, au pape ADRIEN VI, au roi de Hongrie, au Cardinal Mercurino ARBORIO di Gattinara, à Johann FUCHSMANN, Janos VITÈZ, évêque de Veszprem, Conrad CELTES, Simon de UNGERSPACH, Georg RATALLER, Lorenzo PUCCI etc..
+Authored work: 'De cladibus italicis elegia', composed around ?.
+Authored work: 'Epistolae', composed around ?, dedicated to /Lettres adressées à divers correspondants : inter alia, Ambroise de CAMBRAI, chancelier de Paris, Johann von SCHELLENBERG, chancelier de Bohême, Christopher SCHIDLOVITZ, Conrad CELTES, FERDINAND, roi de Hongrie, Gabriel de SALAMANCA-ORTENBURG, Jacobus JOCHAR, Johannes SCHLECHTA, Nicolaus ACHEL, Bohuslav HASISTEIN etc..
+Authored work: 'De laudibus bellicis regis Pannoniae Matthiae Corvini carmen', composed around ?, dedicated to Dédié à Matthias CORVIN, roi de Hongrie, auprès duquel il cherchait du service, étant donné ses difficultés à Paris : mais la mort du roi en ruine cette possibilité et une nouvelle version sera dédiée à MAXIMILIEN..
+Authored work: 'Hodoeporicon elegia Bohuslao de Hasistein', composed around Vers ..
+Authored work: 'Statuta in synodo celebrata Gurcae 1524', composed around ..
+Authored work: 'Coronatio Caroli V Caesaris Aug. apud Aquisgranum', composed around ?.
+Authored work: 'De successibus et futuris victoriis Caroli imperatoris et Ferdinandi regis vaticinatio', composed around ?.
+Authored work: 'De rebus Turcicis ad Clementem VII pontificem', composed around ?, dedicated to Dédié au pape CLÉMENT VII..
+Authored work: 'Liber de coronatione ad Carolum V imperatorem'.
+Authored work: 'Oratio habita in imperiali conventu Wormaciensis die tertia aprilis M.D.XXI', composed around (3 avril) à la diète de Worms..
+Authored work: 'Oratio coram Adriano VI pontifice maximo habita', composed around ..
+Authored work: 'De schismaticis in Hungaria carmen', composed around ?.
+Authored work: 'De legibus Hungariae carmen', composed around ?.
+Authored work: 'Decretum in causa Lutheriana', composed around ?.
+Authored work: 'De pace inter christianos principes ineunda', composed around ?.
+Authored work: 'Oratio coram Clemente VII de confoederatione nuper inita, paceque universali atque expeditione adversus Turcas suscipienda', composed around ?, dedicated to Dédié au pape CLÉMENT VII..
+Authored work: 'Libellus de obitu Iulii P. M.', composed around ?.
+Source: RILL (G.), "BALBI, Girolamo", Dizionario Biografico degli Italiani, Vol. 5 (1963) [en ligne] http://www.treccani.it/enciclopedia/girolamo-balbi_(Dizionario-Biografico)/ ;.

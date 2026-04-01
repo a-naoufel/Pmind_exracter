@@ -1,0 +1,11 @@
+PERSON: REGINALDUS de Maisy
+Also known as: Renaud de MAISY.
+Description: Boursier du Collège de Laon..
+Status: Étudiant.
+Gender: male.
+Active during: %1390-1391%.
+Born in: Picardie ?.
+Studied at: Paris (Nation de Picardie) %1390-1391%..
+Academic grades obtained: Étudiant ès arts (Paris) %1390-1391% ;.
+College affiliation: Collège de Laon : boursier ès arts %1390-1391% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 14/12/2020..

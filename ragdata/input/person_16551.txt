@@ -1,0 +1,14 @@
+PERSON: PETRUS de Herches
+Also known as: Petrus de HERCHES; Pierre d'ERCHES.
+Description: Maître ès arts à Paris.
+Status: Maître.
+Gender: male.
+Active during: %1336-1371%?.
+Born in: Picardie (Erches)..
+Diocese of origin: Diocèse d'Amiens ?.
+Studied at: Paris %:1351-1363%..
+Academic grades obtained: Maître ès arts (Paris) au plus tard ;; Étudiant en théologie (Paris) attesté en ..
+Academic relationships: Son élève est Philippe de MÉZIÈRES, vers %1336-1340% ;.
+Ecclesiastical positions held: Candidat à une prébende de Noyon, ;; Curé d'Arvillers (diocèse d'Amiens), ;; Chanoine de Lille (Saint-Pierre) en ..
+University functions: Paris (Faculté des Arts : maître régent) ;; Paris (Université : il est présent parmi les "discreti viri magistri" qui prennent part à une délibération de l'université de Paris en faveur d'un étudiant emprisonné par l'évêque, 5 mars ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 19/02/2024)..

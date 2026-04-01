@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Fresneyo
+Also known as: Guillelmus de FRESNEYO.
+Description: Étudiant en droit canon.
+Status: Étudiant.
+Gender: male.
+Active during: %1379-1379%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en décret (Paris) en ?.
+Ecclesiastical status: Clerc du diocèse de Paris en ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus 'plurium magistrorum, doctorum, licentiatorum , baccal. et scolar. de Universitate Parisiens.' de ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 25/03/2022..

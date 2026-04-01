@@ -1,0 +1,11 @@
+PERSON: ROBERTUS Piedefer 4
+Also known as: Robertus PIEDEFER.
+Description: Seigneur de Guyancourt.
+Status: Incertain.
+Gender: male.
+Active during: %1500-1500%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris ?.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/11/2023..

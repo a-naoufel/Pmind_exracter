@@ -1,0 +1,10 @@
+PERSON: PETRUS Valleti
+Also known as: Petrus VALLETI.
+Description: Licencié ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1385-1385%.
+Studied at: Paris %:1385-1385%..
+Academic grades obtained: Licencié ès arts (Paris) ?.
+Family relationships: Son frère est Guillelmus VALLETI, magister ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 10/04/2024..

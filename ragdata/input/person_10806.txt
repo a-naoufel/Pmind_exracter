@@ -1,0 +1,13 @@
+PERSON: RICARDUS de Fiscanno
+Also known as: Ricardo de FISCANNO.
+Description: Maître en décret.
+Status: Maître.
+Gender: male.
+Active during: %1279-1279%.
+Born in: Normandie (Fécamp ?) ?.
+Diocese of origin: Diocèse de Rouen ?.
+Studied at: Paris ..
+Academic grades obtained: Maître en décret (Paris).
+College affiliation: Collège du Trésorier ;.
+University functions: Paris (Faculté de Décret : Maître régent en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 05/04/2024..

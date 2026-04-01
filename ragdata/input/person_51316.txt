@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Daguenet
+Also known as: Guillaume DAGUENET.
+Description: Hôte du Collège de Justice.
+Status: Gradué.
+Gender: male.
+Active during: %1448-1451%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie ?) %1448-1451%.
+Academic grades obtained: Bachelier en théologie (Paris) ?.
+College affiliation: Collège de Justice : hôte en %1448-1451% ;.
+University functions: Paris (Faculté de Théologie : cursor en %1449-1450%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Marion BERNARD-SCHWEITZER, 16/10/2020)..

@@ -1,0 +1,11 @@
+PERSON: ANDREAS Textoris 1
+Also known as: Andreas TEXTORIS.
+Description: Maître des écoliers du collège de Fortet.
+Status: Maître.
+Gender: male.
+Active during: %1394-1394%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris)..
+College affiliation: Collège de Fortet, Maître des écoliers (3 septembre) ;.
+Ecclesiastical status: Prêtre.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/04/2023)..

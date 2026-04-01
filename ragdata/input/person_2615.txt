@@ -1,0 +1,11 @@
+PERSON: GALFREDUS de Sancto Leodegario
+Also known as: Geoffreoy de SAINT-LEGER; Gaufridus de SANCTO LEODEGARIO; Galfridus de VICONOVO.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1316-1323%.
+Born in: Normandie (Saint-Léger)..
+Diocese of origin: ?Diocèse de Lisieux..
+Studied at: Paris..
+Family relationships: Son parent est peut-être Johannes de SANCTOLEODEGARIO ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 13/11/2019..

@@ -1,0 +1,10 @@
+PERSON: AEGIDIUS de LaVacqueresse
+Also known as: Aegidius de LA VACQUERESSE.
+Description: Chanoine du Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1400-1410%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical positions held: Chanoine de LeMans %1400-1410% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 19/06/2023)..

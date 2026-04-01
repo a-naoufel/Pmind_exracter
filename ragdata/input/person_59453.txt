@@ -1,0 +1,11 @@
+PERSON: PETRUS de Tuillières
+Also known as: Pierre de TUILLIÈRES.
+Description: Conseiller-lai au Parlement de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1425-1460%.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son frère est Robert de TUILLIÈRES, maître, conseiller-lai au Parlement de Paris ; Sa femme est Jeanne BRAQUE ;.
+Social origin: Noble ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

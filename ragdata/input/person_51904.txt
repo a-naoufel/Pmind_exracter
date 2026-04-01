@@ -1,0 +1,13 @@
+PERSON: BERNARDUS de Monte
+Also known as: Bernard du MONT.
+Description: Abbé du Mont-Saint-Michel.
+Status: Étudiant.
+Gender: male.
+Active during: %1131-1149%.
+Born in: Normandie ?.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+Family relationships: Son neveu Guillaume de ARCHIS, moine (bénédictin) du Mont-Saint-Michel ; Son neveu Étienne de ROUEN, moine (bénédictin) du Bec ;.
+Religious order: Moine (bénédictin) du Bec ;.
+Religious functions: Prieur (bénédictin) de Saint-MartinduBosc ;; Abbé (bénédictin) du Mont-Saint-Michel %1131-1149%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 16/07/2018)..

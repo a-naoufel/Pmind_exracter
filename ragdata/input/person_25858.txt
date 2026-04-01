@@ -1,0 +1,7 @@
+PERSON: HENRICUS Pastilari
+Also known as: Henricus PASTILARI.
+Description: Propriétaire d’une maison.
+Status: Extérieur.
+Gender: male.
+Active during: %1288-1288%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 31/07/2022..

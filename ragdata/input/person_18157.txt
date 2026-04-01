@@ -1,0 +1,13 @@
+PERSON: HENRICUS de Livre
+Also known as: Henricus de LIVRE; Henricus DELIVRE.
+Description: Bachelier in utroque jure..
+Status: Maître.
+Gender: male.
+Active during: %1440-1442%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris..
+Studied at: Paris (Nation de France) %1440-1442%..
+Academic grades obtained: Maître ès arts (Paris) attesté en ;; Bachelier en décret (Paris) attesté en ;; Bachelier in utroque jure attesté en ..
+Ecclesiastical status: Clerc du diocèse de Paris..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (1e année) en (12 décembre)) ;; Paris (Faculté de Décret : Lecteur des Décrétales (2e année) en (23 octobre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 04-06-2015..

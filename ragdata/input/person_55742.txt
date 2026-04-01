@@ -1,0 +1,10 @@
+PERSON: PETRUS Emery
+Also known as: Pierre EMERY.
+Description: Procureur du collège de Fortet.
+Status: Incertain.
+Gender: male.
+Active during: %1479-1481%.
+Studied at: ?.
+Academic grades obtained: ?.
+College affiliation: Collège de Fortet, procureur %1479-1481% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/04/2023)..

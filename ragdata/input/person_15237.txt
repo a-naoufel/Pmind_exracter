@@ -1,0 +1,11 @@
+PERSON: PETRUS de Louvain
+Also known as: Pierre de LOUVAIN; Pierre de LOUAIN; Pierre de LOVENT.
+Description: Licencié en médecine..
+Status: Gradué.
+Gender: male.
+Active during: %1499-1522%.
+Born in: Brabant (Louvain) ?.
+Diocese of origin: Liège ?.
+Studied at: Paris ..
+Academic grades obtained: Licencié en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 26/02/2024)..

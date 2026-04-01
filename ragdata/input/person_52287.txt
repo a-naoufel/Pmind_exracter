@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Villariis
+Also known as: Guillelmus de VILLARIIS; Guillaume de VILLIERS.
+Description: Chanoine de Notre-Dame de Paris.
+Status: Étudiant.
+Gender: male.
+Active during: %1389-1440%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant ?; Licencié en décret (Paris ?)..
+College affiliation: Collège de Montaigu : proviseur ;.
+Ecclesiastical positions held: Chanoine de Paris (églisecollégiale Sainte-Opportune) ;; Chanoine de Tours (églisecollégiale Saint-Martin) ;; Chanoine de Paris (Notre-Dame) %1416-1437%..
+Other ecclesiastical functions: Proviseur de l’Hôtel-Dieu %1435-1437%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/04/2021..

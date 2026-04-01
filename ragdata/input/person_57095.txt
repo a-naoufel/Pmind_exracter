@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS Le Fauconnier
+Also known as: Guillaume LE FAUCONNIER.
+Description: Abbé de Cîteaux.
+Status: Maître.
+Gender: male.
+Active during: %1498-1541%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen ?.
+Studied at: Paris..
+Academic grades obtained: Licencié en théologie (Paris) (26 janvier) ;; Maître en théologie (Paris) (25 septembre) ;.
+College affiliation: Collège des Bernardins..
+Religious order: O.Cist. : moine (cistercien) de l’abbaye (cistercienne) de Mortemer ;.
+Religious functions: Abbé de l’abbaye (O. Cist.) de Cîteaux %1531-1541%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 31/12/2023..

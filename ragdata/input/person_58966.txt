@@ -1,0 +1,38 @@
+PERSON: PETRUS Hispanus 3
+Also known as: Petrus HISPANUS; Pietro ISPANO.
+Description: Médecin.
+Status: Incertain.
+Gender: male.
+Active during: %1245-1263%.
+Studied at: Sienne.
+Academic grades obtained: Maître en médecine.
+University functions: Sienne (Professeur : il enseigne en ) ;.
+Authored work: 'Notulae super regimen acutorum Hippocratis', composed around ?.
+Authored work: 'Glossae super prognosticon Hippocratis', composed around ?.
+Authored work: 'Quaestiones super dietas particulares Isaac', composed around ?.
+Authored work: 'Quaestiones super libro de dietis universalibus Isaac', composed around ?.
+Authored work: 'Quaestiones super libro de urina', composed around ?.
+Authored work: 'Quaest. super lib. De crisi, et De diebus decretoriis', composed around ?.
+Authored work: 'Glossae super Phylaretum (de pulsibus)', composed around ?.
+Authored work: 'Liber de oculo, sive de morbis oculorum', composed around ?.
+Authored work: 'Epistola ad Fridericum imperatorem super regimen sanitatis', composed around ?.
+Authored work: 'Thesaurus pauperum', composed around Vers %1245-1250% ;.
+Authored work: 'Summa de conservanda sanitate', composed around ?.
+Authored work: 'Tractatus mirabilis aquarum', composed around ?.
+Authored work: 'Regimen sanitatis', composed around ?, dedicated to Dédié à Blanche de CASTILLE..
+Authored work: 'Regimen salutatis per omnes menses', composed around ?.
+Authored work: 'Secretum', composed around ?.
+Authored work: 'Anatomia', composed around ?.
+Authored work: 'Comment. Aphorismi Hippocratis', composed around ?.
+Authored work: 'Phlebotomia', composed around ?.
+Authored work: 'Dictae super cyrurgia', composed around ?.
+Authored work: 'De partibus corporis humani, de coitu', composed around ?.
+Authored work: 'Experimenta', composed around ?.
+Authored work: 'Quaestiones de medicinis laxativis', composed around ?.
+Authored work: 'De apostemate maturando, de morsu canis rabidi', composed around ?.
+Authored work: 'Glossae super libris de febribus Ysaac', composed around ?.
+Authored work: 'Notulae super Johannicium', composed around ?.
+Authored work: 'Glossae super libro tegni Galeni', composed around ?.
+Authored work: 'Quaestiones super Viatico Constantini', composed around ?.
+Authored work: 'De reductione vini ad pristinam bonitatem', composed around ?.
+Source: MIRABILE : Federico CONTINI :.

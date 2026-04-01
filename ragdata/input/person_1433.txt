@@ -1,0 +1,12 @@
+PERSON: BERNARDUS de La Fours
+Also known as: Bernard de LAFOURS.
+Description: O. Cist..
+Status: Étudiant.
+Gender: male.
+Active during: %1356-1386%.
+Studied at: Paris.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège Saint-Bernard ?.
+Religious order: O. Cist..
+Religious functions: Abbé (cistercien) de Franquevaux % -1356% ;; Abbé (cistercien) de Sénanque %1356-1368%.; Abbé (cistercien) de Grandselve %1368-1386%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne TOURNIEROUX ; révision, Jean-Philippe GENET, 02/09/2020..

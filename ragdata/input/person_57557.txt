@@ -1,0 +1,9 @@
+PERSON: BARNABAS Pignel
+Also known as: Barnebas PIGNEL.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1434-1434%.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en décret (Paris) (21 juillet) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 13/03/2024)..

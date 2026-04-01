@@ -1,0 +1,10 @@
+PERSON: SIMON Agnus
+Also known as: Simon AGNUS.
+Description: Chanoine de Châlons.
+Status: Incertain.
+Gender: male.
+Active during: %1483-1483%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Châlons-en-Champagne %1483- % ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/06/2025.

@@ -1,0 +1,9 @@
+PERSON: FRANCISCUS Leyrice
+Also known as: Franciscus LEYRICE.
+Description: Maître ès arts ?.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris..
+Academic grades obtained: Magister ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 8/08/2015..

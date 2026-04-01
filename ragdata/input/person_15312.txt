@@ -1,0 +1,9 @@
+PERSON: STEPHANUS de Gres
+Also known as: Etienne de GRES.
+Description: Juriste.
+Status: Maître.
+Gender: male.
+Active during: %1200-1231%.
+Diocese of origin: Diocèse de Chartres ?.
+Studied at: Paris..
+Academic grades obtained: Magister ?.

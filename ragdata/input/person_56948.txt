@@ -1,0 +1,21 @@
+PERSON: PETRUS Crockaert
+Also known as: Petrus CROCKAERT; Petrus de BRUCELLIS.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1490-1514%.
+Born in: Brabant (Bruxelles)..
+Diocese of origin: Diocèse de Cambrai ;.
+Studied at: Paris (Nation de Picardie)..
+Academic grades obtained: Maître ès arts (Paris) ;; Licencié en théologie (Paris) (26 janvier) ;; Maître en théologie (Paris) (21 mai) ;.
+College affiliation: Collège de Montaigu : étudiant ;; Collège de Montaigu : régent ès arts ;; Couvent (dominicain) de Paris (Jacobins)..
+Academic relationships: Son maître est John MAIR au collège de Montaigu ; Son élève est Francisco de VITORIA ; Son élève est Vincnet DIERCKX ; Son élève est Pieter FABRI de Nijmegen ; Son élève est Aimé MAIGRET ;.
+Religious order: O.P. : frère dominicain %1503-1514% ;.
+Religious functions: Prieur du couvent (dominicain) de Paris (Jacobins) ;; Selon Ricardo GARCIA VILLOSLADA..
+University functions: Paris (Faculté des Arts : maitre-régent au collège de Montaigu)..
+Authored work: 'Sancti doctoris divi Thome Aquinatis … Liber nomine Secunda Secunde … a patre petro Brusesellensi accuratissime castigatus'.
+Authored work: 'Summularium artis dialecticae utilis admodum interpretatio magistri Petri Hispani … una cum fructuosis quibusdam quodlibetis', composed around ?.
+Authored work: 'Acutissime questiones et quidam perutiles in singulos Aristotelis logicales libros magistri Petri de Bruxelles …', composed around ?.
+Authored work: 'Questiones super opusculum Sanctae Thomae de ente et essentia', composed around ?.
+Authored work: 'Argutissimae subtiles ac foecundae questiones in octos libros physicorum et in tres libros de anima Aristotelis', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/12/2023..

@@ -1,0 +1,11 @@
+PERSON: FRANCISCUS de Nova
+Also known as: Franciscus de NOVA.
+Description: Licencié en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1491-1491%.
+Born in: Aquitaine ?.
+Diocese of origin: Diocèse de Périgueux..
+Studied at: Poitiers ;; Paris %1491-1491%..
+Academic grades obtained: Licencié en lois (Poitiers) ;; Bachelier en décret (Poitiers) ;; Licencié en décret (Paris) 30 mars ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux : révision, Jean-Philippe Genet, 31/08/2021..

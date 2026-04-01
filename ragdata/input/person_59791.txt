@@ -1,0 +1,8 @@
+PERSON: ALEXANDRUS
+Also known as: ALEXANDRUS.
+Description: Serviteur.
+Status: Suppôt.
+Gender: male.
+Active during: %1428-1428%.
+Studied at: Paris..
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

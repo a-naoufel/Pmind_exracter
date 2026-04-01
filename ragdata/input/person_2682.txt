@@ -1,0 +1,9 @@
+PERSON: GEORGIUS Houstz
+Also known as: Georgius HOUD; Georges HOUSTZ.
+Description: Licencié en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1446-1448%.
+Studied at: Paris, %1446-1448%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 2/12/2021..

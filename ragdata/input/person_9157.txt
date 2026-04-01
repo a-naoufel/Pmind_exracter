@@ -1,0 +1,19 @@
+PERSON: NICOLAUS de Argentina 3
+Also known as: Nicolaus de ARGENTINA; Nicolas de STRASBOURG.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1330-1330%.
+Born in: Alémanie (Alsace, Strasbourg) ?.
+Diocese of origin: Diocèse de Strasbourg ?.
+Studied at: Paris ;.
+Academic grades obtained: Cologne.; Étudiant (Paris)..
+College affiliation: Couvent (dominicain) de Paris (Jacobins) ?.
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Strasbourg..
+Religious functions: Vicaire du Maîtregénéral des Dominicains ;.
+University functions: Cologne (Couvent dominicain : lecteur vers )..
+Authored work: 'Opus tripartitum', composed around .
+Authored work: 'Sermones 13', composed around ?.
+Authored work: 'Summa philosophica', composed around ?.
+Authored work: '(Actes relatifs au procès d'Eckhart)', composed around .
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 21/09/2020..

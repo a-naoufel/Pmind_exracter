@@ -1,0 +1,11 @@
+PERSON: HERMANNUS de Dacia
+Also known as: Hermannus de DACIA.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1401-1402%.
+Born in: Danemark ?.
+Studied at: Paris (Nation Anglo-allemande) %1401-1402%..
+Academic grades obtained: Étudiant (Paris) %1401-1402% ;.
+College affiliation: Collège de Dacie ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/01/2025)..

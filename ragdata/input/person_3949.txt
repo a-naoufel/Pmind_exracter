@@ -1,0 +1,15 @@
+PERSON: GUILLELMUS Lamberti 1
+Also known as: Guillelmus LAMBERTI.
+Description: Recteur de l'Université.
+Status: Maître.
+Gender: male.
+Active during: %1349-1365%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris (Nation de Normandie)..
+Academic grades obtained: Maître ès arts (Paris) .; Étudiant en théologie %1357-1365% ;.
+College affiliation: Collège du Trésorier : socius en ;.
+Ecclesiastical status: Clerc du diocèse de Rouen en .; Prêtre du diocèse de Rouen en ;.
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiastique à la collation de l’abbé et du couvent du monastère (bénédictin) de Conches, en lieu et place de celui demndé à la collation du doyen et du chapitre d'Orléans (églisecollégiale Saint-Aignan) en réponse au rotulus de : mandat à l’abbé (O.S.A.) de Paris (Sainte-Geneviève), à l’abbé (bénédictin) de Paris (Saint-Germain) et à l’abbé (O.S.A.) de Paris (Saint-Victor ;; Provision pour un bénéfice ecclésiastique à la collation de l’archevêché de Rouen sur le rotulus des nonces en : mandat à l’abbé (O.S.A.) de Paris (Sainte-Geneviève), au doyen d’Avignon (Saint-Agricol) et à Egidius de MALODIVERSORIO, chanoine de Rouen ;; Curé d’Amfreville-les-Champs ;; Sa possession est encore contestée en ;; Provision pour un bénéfice ecclésiastique à la collation de l’évêque, du doyen et du chapitre de Paris sur le rotulus de l’Université de Paris en ;; Chapelain de Roye (Saint Florent) en ;; Chanoine de Paris (Saint Marcel) ;; Provision pour un canonicat de Lille (Saint Pierre) en lieu et place du canonicat avec expectative de prébende de Cambrai (Saint Géry) demandé, en réponse au rotulus du Collège du Trésorier en , à condition qu’il renounce à son canonicat de Paris (Saint-Marcel) ;.
+University functions: Paris (Université : nonce auprès du pape à Avignon en ) ;; Paris (Université : Recteur entre et ) ;; Paris (Université : nonce auprès du pape à Avignon en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 27/03/2020..

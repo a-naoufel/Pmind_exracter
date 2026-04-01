@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS L'Espicier
+Also known as: Guillelmus l'ESPICIER; Gillelmus L'ESPICIER.
+Description: ?Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330% ;.
+Academic grades obtained: Étudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 13/05/2022..

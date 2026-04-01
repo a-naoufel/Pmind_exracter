@@ -1,0 +1,10 @@
+PERSON: GUIBERTUS de Catinghem
+Also known as: Guibertus de CATINGHEM.
+Description: Chanoine d'Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1384-1392%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d'Amiens %1384-1392% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 21/01/2022..

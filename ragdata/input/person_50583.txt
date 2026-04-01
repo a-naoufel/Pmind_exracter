@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Brito 3
+Also known as: Guillelmus BRITO.
+Description: Recteur de l’Université de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1304-1304%.
+Born in: Bretagne ?.
+Studied at: Paris (Nation de France)..
+Academic grades obtained: Maître ès arts (Paris) ..
+University functions: Paris (Université : recteur en ) ;; Paris (Nation de France : procureur en (octobre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 26/02/2020..

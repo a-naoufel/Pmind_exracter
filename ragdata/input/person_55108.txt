@@ -1,0 +1,12 @@
+PERSON: PETRUS Bertheleti
+Also known as: Petrus BERTHELETI.
+Description: Chanoine d’Autun.
+Status: Incertain.
+Gender: male.
+Active during: %1432-1482%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son neveu est Jean BERTHELET, chanoine de Beaune ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Beaune %1438-1482% ;; Chanoine d’Autun %1439-1482% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/01/2023..

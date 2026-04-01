@@ -1,0 +1,22 @@
+PERSON: HUMBERTUS Leonardi
+Also known as: Humbertus LEONARDI; Humbertus LEONARDUS; Hubertus LEONARDI.
+Description: Docteur en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1456-1496%.
+Studied at: Paris %:1458-1466%..
+Academic grades obtained: Étudiant ès arts (Paris) ;; Étudiant en théologie (Paris) ;; Bachelier en théologie biblicus (Paris) en septembre ;; Bachelier en théologie sententiarius (Paris) ;; Licencié en théologie (Paris) (le 19 décembre) ;; Docteur en théologie (Paris) (le 28 avril) ..
+College affiliation: Couvent (carme) de Paris..
+Religious order: Carme : couvent de Liège (province de France)..
+Religious functions: Inquisitor haereticae pravitatis au moins en ;.
+University functions: Paris (Faculté de Théologie : Lecteur de la Bible) ;.
+Authored work: 'Contra haereticos Nivellenses', composed around ?.
+Authored work: 'In Evangelium Lucae', composed around ?.
+Authored work: 'Sermones varii', composed around ?.
+Authored work: 'Quadrigesimale', composed around ?.
+Authored work: 'In magistrum Sententiarium', composed around ?.
+Authored work: 'De Perseo Jovis filio', composed around ?.
+Authored work: 'De genealogia nobilium Francorum et gestis eorum', composed around ?.
+Authored work: 'De regimine principum', composed around ?.
+Authored work: 'De immunitate ecclesiastica', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol ; révision, Jean-Philippe Genet, 20-02-2022..

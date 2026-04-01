@@ -1,0 +1,13 @@
+PERSON: REGINALDUS de Nantolio
+Also known as: Reginaldus de NANTOLIO; Reginaldus PENNIER.
+Description: Évêque de Beauvais.
+Status: Incertain.
+Gender: male.
+Active during: %1235-1283%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son père est Philippe de NANTEUIL ;.
+Social origin: Noble ;.
+Ecclesiastical status: Diacre ;.
+Ecclesiastical positions held: Chanoine de Beauvais %1235-1267 % ;; Chanoine de Reims %1242-1267% ;; Doyen de Beauvais %1248-1267 % ;; Évêque de Beauvais %1267-1283 % ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 09/06/2021..

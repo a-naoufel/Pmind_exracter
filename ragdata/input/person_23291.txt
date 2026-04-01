@@ -1,0 +1,13 @@
+PERSON: AEGIDIUS de Platea 1
+Also known as: Aegidius de PLATEA.
+Description: Étudiant en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1379-1394%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Beauvais..
+Studied at: Paris (Faculté des Arts) ..
+Academic grades obtained: Étudiant (Paris, Faculté des Arts) en .; Maître ès arts (Paris); Étudiant en théologie depuis six ans en ..
+College affiliation: Collège des Cholets ?.
+Ecclesiastical positions held: Provision pour un bénéfice à la collation de l'évêque, du doyen et du chapitre de Beauvais en en réponse au rotulus de ; mandat au pénitencier de Paris.; Provision pour un bénéfice à la collation de l'abbé et du monastère (bénédictin) de Saint-Denis en ;; Chanoine prébendé de Beauvais (églisecollégiale Saint-Michel) en ;; Chapelain de Noyelles-sur-Mer (Saint-Pierre) en .; Candidat à un bénéfice à la collation de l'évêque, du doyen et du chapitre de Beauvais en , à la demande de Karados de QUESNES, chevalier ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 29/04/2020)..

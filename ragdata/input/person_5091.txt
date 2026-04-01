@@ -1,0 +1,10 @@
+PERSON: HERVEUS Malinus
+Also known as: Herveus MALINUS; Hervé MALINUS.
+Description: Boursier théologien au Collège de Navarre à Paris.
+Status: Étudiant.
+Gender: male.
+Active during: %1372-1372%.
+Studied at: Paris (Collège de Navarre)%1372-1372%..
+Academic grades obtained: Étudiant en théologie (Paris) ..
+College affiliation: Boursier théologien au Collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 13/08/2022..

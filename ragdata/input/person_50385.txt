@@ -1,0 +1,13 @@
+PERSON: LUDOVICUS de Sancto Yone
+Also known as: Ludovicus de SANCTO-YONE; Loys de SAINT-YON.
+Description: Boursier au collège de Dormans-Beauvais.
+Status: Maître.
+Gender: male.
+Active during: %1451-1457%.
+Born in: Île-de-France (Paris) ;.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris (Nation de France) %1451-1457%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Maître ès arts (Paris) ;.
+College affiliation: Collège de Dormans-Beauvais : boursier %1451-1457% ;.
+Social origin: Bourgeoisie parisienne ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 06/12/2019..

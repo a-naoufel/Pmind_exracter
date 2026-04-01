@@ -1,0 +1,13 @@
+PERSON: DAVID de Bourgogne
+Also known as: David de BOURGOGNE.
+Description: Évêque de Thérouanne puis d'Utrecht.
+Status: Extérieur.
+Gender: male.
+Active during: %1452-1496%.
+Born in: Flandre..
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son père est PHILIPPE le Bon, duc de Bourgogne ; Sa mère est Jeanne CHASTELLAIN..
+Social origin: Noble..
+Ecclesiastical positions held: Prévôt de Bruges (Saint-Donatien) %1439-1455% ;; Évêque de Thérouanne %1451-1455% ;; Évêque d'Utrecht %1457-1496% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 05/04/2021.

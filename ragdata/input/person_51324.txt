@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Antegny
+Also known as: Guillelmus de ANTEGNY.
+Description: Hôte du Collège de Justice.
+Status: Étudiant.
+Gender: male.
+Active during: %1471-1472%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie ?) %1471-1472% ?.
+Academic grades obtained: Étudiant (Paris) %1471-1472% ?.
+College affiliation: Collège de Justice : hôte en %1471-1472% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Marion BERNARD-SCHWEITZER, dernière mise à jour 20/10/2020)..

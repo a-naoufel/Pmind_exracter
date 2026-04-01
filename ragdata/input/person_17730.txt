@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Chaillou
+Also known as: Guillelmus de CHAILLOU; Guillelmus dou CHAILLOU.
+Description: Bachelier en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1424-1425%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Nevers..
+Studied at: Paris (Nation de France) %1424-1424%..
+Academic grades obtained: Maître ès arts (Paris) attesté en ;; Bachelier en décret (Paris) en (9 novembre) ;.
+Ecclesiastical status: Prêtre du diocèse de Nevers en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 16/03/2022..

@@ -1,0 +1,12 @@
+PERSON: FRANCISCUS Petri 2
+Also known as: Franciscus PETRI; Francesco PÉREZ alias Ferdinandi.
+Description: Étudiant en théologie.
+Status: Étudiant.
+Gender: male.
+Active during: %1496-1496%.
+Born in: Castille..
+Diocese of origin: Diocèse de Tolède..
+Studied at: Paris..
+Academic grades obtained: Étudiant en théologie(Paris) ?.
+College affiliation: Sorbonne : socius et peut-être même Prieur ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 14/09/2021..

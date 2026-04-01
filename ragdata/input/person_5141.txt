@@ -1,0 +1,14 @@
+PERSON: HUGO Boileau 1
+Also known as: Hugo BOILEAU; Hugues BOILEAU; Hugues VERZIL.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1349-1394%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse d'Autun..
+Studied at: Paris (Nation de France) %1344-1352% ;; Orléans avant %1360-1360%..
+Academic grades obtained: Maître ès arts (Paris) ;; Licencié en théologie (Paris) ;; Licencié en droit civil (Orléans) ..
+College affiliation: Boursier grammairien au collège de Navarre à Paris en ;; Boursier artien au collège de Navarre à Paris, %1345-1349% ;; Collège de Navarre : boursier théologien en ;.
+Family relationships: ?Son parent est Eudes BOILEAU, trésorier de la Sainte-Chapelle à Paris de %1329-1335% ; Sa soeur est Isabelle LA MARGRETE..
+Ecclesiastical positions held: Curé d'une église paroissiale dans le diocèse d'Autun ;; Chapelain d'Amiens ;; Chapelain d'Abbeville ;; Chanoine de Paris (Notre-Dame) %1362-1394% ;; Chanoineprébendé de Provins (Saint-Quiriace) ;; Chanoineprébendé de Langres ;; Chanoineprébendé de Corbeil (Notre-Dame) ;; Chanoineprébendé de Corbeil (Saint-Exupère) ;; Prévôt de Champeaux (Saint-Martin) ;; Chanoineprébendé de Châlons-en-Champagne, ;; Trésorier de Paris (SainteChapelle) %1377-1394%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 28/08/2022..

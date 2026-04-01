@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Coquille
+Also known as: Guillelmus COQUILLE.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1450-1464%.
+Diocese of origin: Diocèse de Nevers..
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 04/03/2022..

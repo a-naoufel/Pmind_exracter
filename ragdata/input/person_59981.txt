@@ -1,0 +1,10 @@
+PERSON: PHILIPPUS Pierechon
+Also known as: Philippus PIERECHON.
+Description: Locataire du collège de Dainville.
+Status: Incertain.
+Gender: male.
+Active during: %1408-1418%.
+Studied at: ?.
+Academic grades obtained: ?.
+Academic relationships: Son parent est Guillelmus PIERECHON ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Monte Verduno
+Also known as: Guillaume de MONTE VERDUNO.
+Description: Magister.
+Status: Incertain.
+Gender: male.
+Active during: %1259-1259%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 09/04/2020..

@@ -1,0 +1,12 @@
+PERSON: BARTHOLOMAEUS Stocker
+Also known as: Bartholomaeus STOCKER.
+Description: Chapelain de Zug.
+Status: Maître.
+Gender: male.
+Active during: %1508-1561%.
+Born in: Alémanie (Zoug) ;.
+Diocese of origin: Diocèse de Constance ?.
+Studied at: Paris %1508-1511%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ..
+Ecclesiastical positions held: Chapelain de Zug (Saint-Michael) %1522-1561%..
+Source: RAG ;.

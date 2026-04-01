@@ -1,0 +1,11 @@
+PERSON: LUDOVICUS Episcopi
+Also known as: Ludovicus EPISCOPI.
+Description: Clunisien.
+Status: Étudiant.
+Gender: male.
+Active during: %1374-1386%.
+Studied at: Paris (Collège de Cluny) %1374-1386%..
+Academic grades obtained: Étudiant (Paris) %1374-1386%..
+College affiliation: Étudiant au collège de Cluny entre %1374-1386%..
+Religious order: O.Clun. : moine clunisien du monastère de Paris (Saint-Martin-des-Champs)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland, révision, Jean-Philippe Genet, 4/09/2023..

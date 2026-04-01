@@ -1,0 +1,10 @@
+PERSON: LAURENTIUS Alemant
+Also known as: Laurens ALEMANT.
+Description: Procureur du collège du Trésorier.
+Status: Incertain.
+Gender: male.
+Active during: %1340-1347%.
+Studied at: ?.
+Academic grades obtained: ?.
+College affiliation: Collège du Trésorier : procureur vers %1340-1347% ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

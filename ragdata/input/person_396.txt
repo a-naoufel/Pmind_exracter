@@ -1,0 +1,10 @@
+PERSON: ALBERTUS Smyer
+Also known as: Albertus SMYER.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1412-1413%.
+Studied at: Paris (Nation Anglo-allemande) %1412-1413%.
+Academic grades obtained: Bachelier ès arts (Paris) .; Licencié ès arts (Paris) .; Maître ès arts (Paris) ..
+Academic relationships: Son maître est Albertus de NOVIMAGIO pour le baccalauréat. Son maître est Heynricus de GORICHEM pour la licence. Son maître est Guillelmus LOCHEM pour la maîtrise..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/06/2020)..

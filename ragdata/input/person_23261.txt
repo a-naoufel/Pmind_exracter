@@ -1,0 +1,10 @@
+PERSON: GERARDUS Fernandes
+Also known as: Geraldus FERNANDES.
+Description: Licencié en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1363-1363%.
+Born in: Portugal..
+Studied at: Paris..
+Academic grades obtained: Licencié en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/12/2017)..

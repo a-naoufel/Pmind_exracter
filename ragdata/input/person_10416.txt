@@ -1,0 +1,20 @@
+PERSON: PETRUS Pictaviensis 1
+Also known as: Petrus PICTAVIENSIS; Pierre de POITIERS.
+Description: Chancelier de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1150-1205%.
+Born in: Poitou ?.
+Diocese of origin: Diocèse de Poitiers ?.
+Studied at: Paris %1167-1205%..
+Academic grades obtained: Étudiant (Paris) ;; Maître en théologie (Paris.) ?..
+Academic relationships: Son maître est Pierre LOMBARD ;.
+Ecclesiastical positions held: Chanoine de Paris (Notre-Dame) ?; Chanoine de LeMans %1192-1205% ;; Chancelier de Paris %1193-1205% ;.
+University functions: Paris (Maîtrerégent en théologie, %1169-1205%) ;; Chancelier de Paris, %1193-1205%..
+Authored work: 'Glossae super Sententias', composed around ., dedicated to Dédié à Guillaume de CHAMPAGNE, dit ‘Aux Blanches Mains’, archevêque de Reims..
+Authored work: 'Distinctiones super Psalterium magistri Petri Lombardi', composed around ?.
+Authored work: 'Allegoriae sub Tabernaculum Moysi', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Compendium historiae in genealogia Christi', composed around ?.
+Authored work: 'Historia actuum apostolorum', composed around ?.
+Source: PIGGIN -J.-B.), Peter's stemma, Library of Latin Diagrams, 2019.

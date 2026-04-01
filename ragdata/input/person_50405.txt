@@ -1,0 +1,13 @@
+PERSON: NICOLAUS de Duisans
+Also known as: Nicolas de DUISANS.
+Description: Abbé du Mont-Saint-Éloi.
+Status: Maître.
+Gender: male.
+Active during: %1324-1350%.
+Born in: Artois (Duisans ?) ;.
+Diocese of origin: Diocèse d’Arras..
+Studied at: Paris avant ..
+Academic grades obtained: Maître en théologie (Paris) avant ?.
+Religious order: O.S.A. : chanoinerégulier du Mont-Saint-Éloi ;.
+Religious functions: Abbé (O.S.A.) du Mont-Saint-Éloi %1324-1350% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 06/10/2019..

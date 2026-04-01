@@ -1,0 +1,16 @@
+PERSON: BALDUINUS de Boussu
+Also known as: Baudouin de BOUSSU.
+Description: Abbé cistercien de Cambron.
+Status: Maître.
+Gender: male.
+Active during: %1288-1293%.
+Born in: Hainaut (Mons) ;.
+Studied at: Paris.
+Academic grades obtained: Maître en théologie (Paris) ?.
+College affiliation: Collège Saint-Bernard ;.
+Religious order: O. Cist..
+Religious functions: Abbé (cistercien) de Cambron %1283-1293% ;.
+Authored work: '(Commentaire sur le livre des Sentences)', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Quolibet q. 1-11', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 16/04/2019)..

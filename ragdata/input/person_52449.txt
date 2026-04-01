@@ -1,0 +1,14 @@
+PERSON: MATTHAEUS Marescalli
+Also known as: Matthaeus MARESCALLI.
+Description: Étudiant ès arts.
+Status: Étudiant.
+Gender: male.
+Active during: %1386-1387%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse d’Amiens ;.
+Studied at: Paris (Nation de Picardie) %1386-1387%..
+Academic grades obtained: Étudiant ès arts (Paris) %1386-1387% ;.
+College affiliation: Collège des Cholets ;.
+Ecclesiastical status: Clerc du diocèse d’Amiens en ;.
+Ecclesiastical positions held: Candidat à un bénéfice ecclésiastique à la collation de l’abbé et du couvent du monastère (O.S.B.) d’Anchin (Saint-Sauveur) sur le rotulus du Collège des Cholets en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 24/06/2021..

@@ -1,0 +1,12 @@
+PERSON: CORNELIUS Proper
+Also known as: Cornelius PROPER.
+Description: Chanoine de Cambrai.
+Status: Maître.
+Gender: male.
+Active during: %1410-1455%.
+Diocese of origin: Diocèse de Liège ;.
+Studied at: Paris (Nation de Picardie ?) ;.
+Academic grades obtained: Maître ès arts (Paris) ;; Docteur in utroque jure ;.
+Ecclesiastical status: Clerc en puis sous-diacre ;.
+Ecclesiastical positions held: Chanoine de Laon en ;; Chanoine de Nivelles (Sainte-Gertrude) %1412-1418% ;; Chanoine de Utrecht ;; Chanoine de Anderlecht (Saint-Pierre) en ;; Chanoine de Cambrai %1419-1455% ;; Prévôt de Cambrai %1421-1455% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 27/12/2025)..

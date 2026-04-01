@@ -1,0 +1,13 @@
+PERSON: BURCARDUS Truotler de Rutlingen
+Also known as: Burckhardus TRUOTLER de Rutlingen; Borghardus de RUTLINGEN; Burkardt TUTEL.
+Description: Médecin de la ville de Reutlingen.
+Status: Maître.
+Gender: male.
+Active during: %1354-1375%.
+Born in: Alémanie (Reutlingen)..
+Diocese of origin: Diocèse de Constance..
+Studied at: Paris (Nation Anglo-allemande) %1358-1359% ;; Montpellier ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Montpellier : étudiant en médecine ;.
+Academic relationships: Son maître est Albertus de SAXONIA pour la licence en ; Son maître est Albertus de SAXONIA pour la maîtrise en ;.
+Ecclesiastical positions held: Provision pour un canonicat de Beromünster (Saint-Michael) ;; Curé de Seeberg jusqu'en ;; Chanoine de Beromünster (Saint-Michael) jusqu'en ;; Recteur de Herdwangen ..
+Source: RAG ;.

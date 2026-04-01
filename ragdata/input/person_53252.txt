@@ -1,0 +1,11 @@
+PERSON: HUGO Parvi de Ailliaco
+Also known as: Hugo PARVI de Ailliaco; Hugo de AILLIACO.
+Description: Chanoine d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1365-1388%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Diacre ;; Prêtre ;.
+Ecclesiastical positions held: Chapelain d'Amiens (Saint-Nicolas-des-Pauvres-Prêtres) ;; Chanoine d'Amiens %1365-1388% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 2/1/2022..

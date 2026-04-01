@@ -1,0 +1,11 @@
+PERSON: ANTHONIUS Montanieu
+Also known as: Anthonius MONTANIEU.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1481-1481%.
+Diocese of origin: Diocèse de Lyon..
+Studied at: Paris %1481-1481%..
+Academic grades obtained: Bachelier en décret (Paris) avant le 14 décembre ..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales en (14 décembre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision : Jean-Philippe Genet, dernière mise à jour 1/10/2020)..

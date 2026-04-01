@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Esnault
+Also known as: Nicolaus ESNAULT.
+Description: Ecolier du Collège de Boissy.
+Status: Maître.
+Gender: male.
+Active during: %1431-1431%.
+Studied at: Paris..
+Academic grades obtained: Maître..
+College affiliation: Collège de Boissy : écolier en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,13 @@
+PERSON: GALTERIUS de Gamaches
+Also known as: Galterus de GAMACHES; Gautier de GAMACHES.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1308-1337%.
+Studied at: Paris %1308-1308%..
+Academic grades obtained: Docteur en théologie (Paris) ..
+Academic relationships: ?Elève de Guido de PERNES, O.Clun., ..
+Religious order: Clunisien : abbaye de Samer-aux-Bois (diocèse de Thérouanne)..
+Religious functions: Abbé de Samer-aux-Bois (diocèse de Thérouanne) ;.
+University functions: Paris (Faculté de Théologie : Maître régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, 10/11/2021..

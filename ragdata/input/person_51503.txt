@@ -1,0 +1,17 @@
+PERSON: PETRUS de Verduno
+Also known as: Petrus de VERDUNO; Petrus de VIRDUNO.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1272-1273%.
+Born in: Lorraine ?.
+Diocese of origin: Diocèse de Verdun ?.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant ?.
+College affiliation: Couvent (dominicain) de Paris (Jacobins) ?.
+Religious order: O.P. : frère dominicain..
+Authored work: '(Sermon pour la fête de Saint Thomas apôtre)', composed around (21 decembre) au Béguinage..
+Authored work: '(Sermon pour la fête des Saints Jacques et Christophe)', composed around (25 juillet) au Béguinage..
+Authored work: '(Sermon pour le 13e dimanche après la Pentecôte)', composed around (27 août) au Béguinage..
+Authored work: '(Sermon pour la fête de Saint Martin)', composed around (25 juillet) à Saint-Antoine..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 14/11/2020..

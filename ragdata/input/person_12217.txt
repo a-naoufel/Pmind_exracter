@@ -1,0 +1,10 @@
+PERSON: W. de Sancto Melano
+Also known as: W. de SANCTO MELANO.
+Description: Maître parisien.
+Status: Maître.
+Gender: male.
+Active during: %1213-1213%.
+Studied at: Paris %1213-1213%..
+Academic grades obtained: Maître (Paris) ..
+University functions: Paris (Maître-régent en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 16/02/2023)..

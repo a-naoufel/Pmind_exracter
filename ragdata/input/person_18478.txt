@@ -1,0 +1,9 @@
+PERSON: PETRUS Martini 7
+Also known as: Petrus MARTINI.
+Description: Étudiant..
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris %1465-1478%..
+Academic grades obtained: Étudiant (Paris) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/03/2022)..

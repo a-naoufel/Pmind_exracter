@@ -1,0 +1,14 @@
+PERSON: SIMON de Dacia 2
+Also known as: Simon de DACIA.
+Description: Maître ?.
+Status: Incertain.
+Gender: male.
+Active during: %1280-1290%.
+Born in: Danemark ?.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ?.
+Authored work: 'Quaestiones super II° minoris voluminis Prisciani', composed around %1280-1290%.
+Authored work: 'Super modos significandi Martini', composed around %1280-1290%.
+Authored work: 'De modis significandi', composed around ?.
+Authored work: 'Dubia circa orationes grammaticas', composed around ?.
+Source: MIRABILE :.

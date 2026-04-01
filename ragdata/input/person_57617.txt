@@ -1,0 +1,14 @@
+PERSON: MATTHAEUS 1
+Also known as: MATHEUS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1162-1173%.
+Born in: Angleterre (Cambridge ?)..
+Studied at: Paris vers ..
+Academic grades obtained: Étudiant (Paris) ;.
+Family relationships: Son frère est Garinus de CAMBRIDGE, abbé de Saint-Albans)..
+Social origin: Bourgeoisie ?.
+Religious order: O.S.B. : moine bénédictin ?.
+Religious functions: Prieur (O.S.B.) de Saint-Albans ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 24/03/2024..

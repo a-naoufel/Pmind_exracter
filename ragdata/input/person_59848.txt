@@ -1,0 +1,10 @@
+PERSON: ANTHONIUS Lacherroys
+Also known as: Anthonius LACHERROYS; Anthonius LACHEROYS.
+Description: Boursier du collège de Dainville.
+Status: Maître.
+Gender: male.
+Active during: %1506-1510%.
+Studied at: Paris en %1506-1510%..
+Academic grades obtained: Maître (Paris) ;.
+College affiliation: Collège de Dainville : boursier %1506-1510% ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

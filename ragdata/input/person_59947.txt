@@ -1,0 +1,10 @@
+PERSON: PORRUS Lebailly
+Also known as: Poirus LEBAILLY.
+Description: Procureur du collège de Dainville.
+Status: Incertain.
+Gender: male.
+Active during: %1495-1495%.
+Studied at: ?.
+Academic grades obtained: ?.
+College affiliation: Collège de Dainville ; procureur en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

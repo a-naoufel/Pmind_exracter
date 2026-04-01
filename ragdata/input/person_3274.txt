@@ -1,0 +1,9 @@
+PERSON: GOSVINUS de Remel
+Also known as: Goswinus de REMEL.
+Description: Étudiant ès arts.
+Status: Étudiant.
+Gender: male.
+Active during: %1368-1368%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Étudiant ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/01/2022..

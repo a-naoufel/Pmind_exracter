@@ -1,0 +1,10 @@
+PERSON: ELIAS 1
+Also known as: ELIAS.
+Description: Chanoine de Troyes.
+Status: Incertain.
+Gender: male.
+Active during: %1229-1242%.
+Studied at: ?.
+Academic grades obtained: Maître en ;.
+Ecclesiastical positions held: Chanoine de Troyes %1229-1242% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 03/05/2023..

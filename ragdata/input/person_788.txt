@@ -1,0 +1,11 @@
+PERSON: ANTHONIUS du Clercq
+Also known as: Anthonius du CLERCQ.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1440-1508%.
+Studied at: Paris %1448-1448%..
+Academic grades obtained: Étudiant (Paris) ..
+Religious order: O.S.B. : moine bénédictin du monastère (bénédictin) de Saint-Vaast (diocèse de Arras)..
+Religious functions: Novice de Saint-Vaast en ;; Ordonné en ;; Cellerier de Saint-Vaast en ;; Prieur de Saint-Michel (une dépendance de Saint-Vaast) en ;; Sous-prieur de Saint-Vaast en .; Prieur de Saint-Aubin d'Anzin (diocèse de Arras) en ;; Prieur de Berclau (diocèse d'Arras) en ;; Prévôt de Mesnil en ;; Cellérier de Saint-Vaast en ;; "Granatarius" de Saint-Vaast en ;; Grand-prieur de Saint-Vaast, %1501-1508%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 30/09/2020)..

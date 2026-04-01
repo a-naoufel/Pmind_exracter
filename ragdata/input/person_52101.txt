@@ -1,0 +1,13 @@
+PERSON: RAIMUNDUS de Fronciaco
+Also known as: Raimundus de FRONCIACO; Raimundus de FRANCIACO; Raymond de FRONSAC.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1303-1312%.
+Born in: Aquitaine (Fronsac ?) ?.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) ;.
+Religious order: O.F.M. : frère franciscain ;.
+Religious functions: Procureur de l’ordre Franciscain au Concile de Vienne en %1311-1312% ;.
+Representation roles: Il participe au Concile de Vienne en %1311-1312% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 26/03/2021)..

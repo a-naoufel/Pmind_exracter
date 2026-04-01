@@ -1,0 +1,9 @@
+PERSON: DIONYSIUS de Porta
+Also known as: DIONYSIUS de PORTA.
+Description: Etudiant.
+Status: Incertain.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Etudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ rédaction, Jean-Philippe Genet, dernière mise à jour 27/05/2021..

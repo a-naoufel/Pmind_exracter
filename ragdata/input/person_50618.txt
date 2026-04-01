@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Cruberet
+Also known as: Guillaume de CRUBERET.
+Description: Doyen de Tournai.
+Status: Maître.
+Gender: male.
+Active during: %1304-1309%.
+Studied at: Paris %:1304-1306:%.
+Academic grades obtained: Maître en théologie (Paris) av...
+Ecclesiastical positions held: Doyen de Tournai %1304-1309% au moins ;.
+University functions: Paris (Faculté de Théologie : maître-régent %:1304-1306:%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 05/03/2020..

@@ -1,0 +1,15 @@
+PERSON: NICOLAUS Vischel
+Also known as: Nikolaus VISCHEL.
+Description: Abbé d'Heiligenkreuz.
+Status: Extérieur.
+Gender: male.
+Active during: %1275-1330%.
+Born in: Autriche ?.
+Studied at: ?.
+Religious order: O. Cist. : moine cistercienne..
+Religious functions: Abbé (cistercien) de Heiligenkreuz..
+Authored work: 'De Sanctissima Ecclesie', composed around ?.
+Authored work: 'Tractatus contra perfidos Judaeos', composed around ?.
+Authored work: 'Imago beatae virginis Mariae', composed around ?.
+Authored work: 'De sex operibus Abygail', composed around ?.
+Source: MIRABILE : Federico CONTINI :.

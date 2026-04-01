@@ -1,0 +1,10 @@
+PERSON: GALTERIUS Carne
+Also known as: Walterus CARNE; Walterus de CARNE.
+Description: Maître.
+Status: Extérieur.
+Gender: male.
+Active during: %1264-1264%.
+Studied at: ?.
+Academic grades obtained: ?.
+College affiliation: Collège de Sorbonne ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 05/09/2023)..

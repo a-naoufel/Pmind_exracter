@@ -1,0 +1,13 @@
+PERSON: MARTIALIS Nepotis
+Also known as: Martialis NEPOTIS.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1394-1395%.
+Born in: Limousin ?.
+Diocese of origin: Diocèse de Limoges ;.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en décret (Paris) ;.
+Ecclesiastical status: Prêtre du diocèse de Limoges en ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus présenté par Garnerius GUERANDI, archidiacre de Paris à BENOÎT XIII en %1394-1395% (5 décembre – 6 janvier) à Avignon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 16/02/2019..

@@ -1,0 +1,13 @@
+PERSON: MATTHAEUS de Bar
+Also known as: Mathieu de BAR.
+Description: Boursier du Collège de Laon.
+Status: Étudiant.
+Gender: male.
+Active during: %1410-1410%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie) ;.
+Academic grades obtained: Étudiant ès arts (Paris) ;.
+College affiliation: Collège de Laon : boursier ès arts ;.
+Family relationships: Son oncle est Jean MOTEL d’Origny ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 24/01/2024..

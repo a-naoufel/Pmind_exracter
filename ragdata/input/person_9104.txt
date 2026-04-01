@@ -1,0 +1,14 @@
+PERSON: NICOLAUS Haudrici
+Also known as: Nicolaus HAUDRICI; Nicolaus de CARNOTO; Nicolas HAUDRY; Nicolas HAUDRI; Nicolas HAUDRI de CHARTRES.
+Description: Étudiant en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1200-1247%.
+Born in: Orléanais (Chartres) ;.
+Diocese of origin: Diocèse de Chartres..
+Studied at: Paris vers %1200-1210% et ;; Montpellier avant ;; Bologne avant ..
+Academic grades obtained: Étudiant ès arts (Paris) ;; Maître ès arts (Paris) ;; Étudiant en médecine (Montpellier) ;; Étudiant en droit canon (Bologne) ;; Étudiant en théologie (Paris) ..
+Social origin: Bourgeois..
+Ecclesiastical positions held: Chantre de Paris (Notre-Dame) ..
+University functions: Paris (Maître enseignant les Arts libéraux à Paris, ) ;; Bologne (Maître enseignant le Droit canon à Bologne, avant ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire PRIOL dernière mise à jour 29/04/2014..

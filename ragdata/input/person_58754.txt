@@ -1,0 +1,176 @@
+PERSON: ROBERTUS Grosseteste
+Also known as: Robert GROSSETETE; Robertus LICOLNIENSIS.
+Description: Évêque de Lincoln..
+Status: Incertain.
+Gender: male.
+Active during: ?%1190-1253%.
+Born in: Angleterre (Suffolk, Stow) ;.
+Studied at: Cambridge avant ;; Oxford à partir de ?; Oxford ;; Paris..
+Academic grades obtained: Maître ès arts (Oxford) entre et ;; Docteur en théologie (Oxford ?) ;.
+Social origin: Commun : origine modeste..
+Ecclesiastical positions held: Recteur d'Abbotsley (Huntingdonshire) %1225-1231% ;; Chanoine de Lincoln %1229-1235% ;; Archidiacre de Leicester %1229-1231% ;; Evêque de Lincoln %1235-1253%..
+University functions: Oxford (magister scholarum entre %1214-1231%) ;; Oxford (Université : chancelier à partir de ) ;; Oxford (lecteur des Franciscains %1232-1235%)..
+Representation roles: Concile de Lyon en : il n’y participe pas à proprement parler, mais il y est présent, étant venu demander à INNOCENT IV l’aide nécessaire pour empêcher les membres du chapitre de Lincoln d’attribuer les bénéfices à leurs amis et aux membres de leurs familles,.
+Authored work: 'Testamenta XII patriarchum', composed around ?.
+Authored work: 'De Centum heresibus', composed around ?.
+Authored work: 'De fide orthodoxa', composed around ?.
+Authored work: 'Elementarium dogmaticum', composed around ?.
+Authored work: 'De Hymno Trisagion', composed around ?.
+Authored work: 'Prologus Maximi Confessori in Opera Pseudo-Dionysii', composed around ?.
+Authored work: 'Scholia Maximi Confessori in Opera Pseudo-Dionysii', composed around ?.
+Authored work: 'De Celesti Hierarchia', composed around ?.
+Authored work: 'De Hierarchia Ecclesiastica', composed around ?.
+Authored work: 'De Divinis Nominibus', composed around ?.
+Authored work: 'De Mystica Theologia', composed around ?.
+Authored work: 'Epistole Ignatii Martiris et Beate Virginis Marie', composed around ?.
+Authored work: 'Lexicon Suidas', composed around ?.
+Authored work: 'De probatione Virginitatis Mariae', composed around ?.
+Authored work: 'De sacerdotio Christi', composed around ?.
+Authored work: 'De vita monachorum', composed around ?%1238-1240% ;, dedicated to Adressé à l’abbaye (O.S.B) de Bury-St.Edmunds et non à Walter de ST.EDMUND, abbé de Peterborough, comme le voulait H.R. LUARD..
+Authored work: 'Commentarium in Epistolam Pauli ad Galatas', composed around %1231-1235%..
+Authored work: 'Commentarium in Epistolam Pauli ad Romanos V-XVI', composed around ?.
+Authored work: 'Glossarum in Sancti Pauli epistolas fragmenta', composed around ?.
+Authored work: 'Commentarios in Psalmos I-C', composed around ?.
+Authored work: 'De operationibus solis', composed around ? ;.
+Authored work: 'Commentarium in De Celesti Hierarchia Pseudo-Dionysii', composed around ?.
+Authored work: 'Commentarium in De Ecclesiastica Hierarchia Pseudo-Dionysii', composed around ?.
+Authored work: 'Commentarium in De Divinis Nominibus Pseudo-Dionysii', composed around ?.
+Authored work: 'Commentarium in De Theologia Mystica Pseudo-Dionysii', composed around ?.
+Authored work: 'Notule in Opera Pseudo-Dionysii', composed around ?.
+Authored work: 'Notule super Epistolam Johannis Damasceni De Trisagion', composed around ?.
+Authored work: 'Hexaemeron', composed around ?.
+Authored work: 'De Ordine emendandi causatorum a Deo', composed around ?.
+Authored work: 'Quinque Questiones Theologice', composed around ?.
+Authored work: 'De scientia Dei', composed around ?.
+Authored work: 'De Cessatione Legalium', composed around %1231-1235%..
+Authored work: 'Concordancia Patrum', composed around ?.
+Authored work: 'Memorandum', composed around .
+Authored work: 'De Confessione I', composed around ?.
+Authored work: 'De Confessione II', composed around ?.
+Authored work: 'De Confessione III', composed around ?.
+Authored work: 'De Confessione et Modo Confitendi Peccata', composed around ?.
+Authored work: 'De Modo Confitendi', composed around ?.
+Authored work: 'Correctorium tocius Biblie', composed around ?.
+Authored work: 'De Cura Pastorali', composed around ?.
+Authored work: 'De Dotibus', composed around ?.
+Authored work: 'De decem mandatis', composed around ?.
+Authored work: 'Nota de Graciis Deo Agenda', composed around ?.
+Authored work: 'De Humilitate Contemplativorum', composed around ?.
+Authored work: 'Meditaciones', composed around ?.
+Authored work: 'De Obsequiis Bene Dicendis', composed around ?.
+Authored work: 'De Penis Purgatorii', composed around ?.
+Authored work: 'De Penitencia David', composed around ?.
+Authored work: 'De Sanguine Christi', composed around (octobre).
+Authored work: 'Templum Dei', composed around ?.
+Authored work: 'De Triplici Rectitudine', composed around ?.
+Authored work: 'Versus de X Mandatis', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Dicta', composed around ?.
+Authored work: 'Le chasteau d’amour', composed around Vers ?.
+Authored work: 'Confessioun', composed around ?.
+Authored work: 'La manere de sey confesser des mortels pecchez e de lur especies solum mestre Robert eveske de Nichole', composed around ?.
+Authored work: 'Iniunccio Penitencie Gallice', composed around ?.
+Authored work: 'Le mariage des neuf filles du diable', composed around ?.
+Authored work: 'Oracio ad Sanctam Margaritam Gallice', composed around ?.
+Authored work: 'Oraciuncula post Prandium Gallice', composed around ?.
+Authored work: 'Expositio canonis misse', composed around ?.
+Authored work: 'Aristotelis De Virtute', composed around ?.
+Authored work: 'Commentarum in libros Posteriorum Analyticorum', composed around ..
+Authored work: 'De Logica Johannis Damasceni', composed around ?.
+Authored work: 'Prologus in Librum Johannis Damasceni De Logica', composed around ?.
+Authored work: 'Commentarum in Sophisticos elenchos Aristotelis', composed around ?.
+Authored work: 'Regulae libri Priorum Analyticorum Aristotelis', composed around ?.
+Authored work: 'De Libero Arbitrio I', composed around ?..
+Authored work: 'De Libero Arbitrio II', composed around ?.
+Authored work: 'De Artibus liberalibus', composed around ?%1200-1209%.
+Authored work: 'De forma prima omnium', dedicated to Adressé à Adam d’EXETER (Adam RUFUS)..
+Authored work: 'De intelligentiis'.
+Authored work: 'De potentia et actu', composed around ?.
+Authored work: 'De statu causarum, sive De causis', composed around ?.
+Authored work: 'De subsistentia rei', composed around Avant ?.
+Authored work: 'De Veritate', composed around ?.
+Authored work: 'De Veritate proposicionis', composed around ?.
+Authored work: 'De passionibus', composed around Vers ?.
+Authored work: 'Quod homo sit minor mundus', composed around ?.
+Authored work: 'De finitate motus et temporis', composed around Avant.
+Authored work: 'De luce', composed around ?.
+Authored work: 'De Cane Ethimologia', composed around ?.
+Authored work: 'Commentarum in VIII libros Physicorum', composed around Av...
+Authored work: 'Summa in VIII libros Physicorum', composed around ?.
+Authored work: 'Aristotelis De Celo et Mundo', composed around ?.
+Authored work: 'Pseudo-Aristotelis De Lineis Indivisibilibus', composed around ?.
+Authored work: 'De accessu et recessu maris', composed around ?.
+Authored work: 'De calore quaestio', composed around ca.%1220-1223%.
+Authored work: 'De Calore solis', composed around ?.
+Authored work: 'De colore', composed around ?.
+Authored work: 'De cometis et causis ipsarum', composed around %1228-1229%..
+Authored work: 'Compotus I', composed around ?.
+Authored work: 'Compotus minor', composed around ?.
+Authored work: 'Computus correctorius', composed around %1215-1229%.
+Authored work: 'De differentiis localibus', composed around Avant ?.
+Authored work: 'De generatione sonorum', composed around %1200-1209% à Hereford ;.
+Authored work: 'De impressionibus aeris', composed around (avant juillet).
+Authored work: 'De impressionibus elementorum', composed around ?.
+Authored work: 'De iride seu de fractionibus radiorum', composed around ?.
+Authored work: 'Kalendarium', composed around Avant , à Hereford..
+Authored work: 'De lineis, angulis et figuris', composed around ?.
+Authored work: 'De motu corporali et luce', composed around %1215-1220%.
+Authored work: 'De motu supercelestium', composed around ?.
+Authored work: 'De natura locorum', composed around ?.
+Authored work: 'In Ptolemeum de novem planetis', composed around ?.
+Authored work: 'Quadratura per lunulas', composed around ?.
+Authored work: 'De sphaera', composed around ?.
+Authored work: 'Theorica planetarum', composed around ?.
+Authored work: 'De universitatis machina', composed around ?.
+Authored work: 'De universi completione quaestio', composed around ?.
+Authored work: 'Les Reulles Seint Robert', composed around Avant, dedicated to Adressé à Marguerite de QUINCY, Comtesse de Lincoln..
+Authored work: 'Statuta que Robertus Lincolniensis ordinavit et domis suis prepositis tradidit', composed around ?.
+Authored work: 'Stans puer ad mensam', composed around ?.
+Authored work: 'Epistolae', composed around ?.
+Authored work: 'Ordinacio de pecunia Deposita in Cista S. Frideswyde', composed around ?.
+Authored work: 'Constituciones', composed around ?.
+Authored work: '(Correspondance concernant le neveu du pape Innocent IV)', composed around ..
+Authored work: '(Actes de Robert Grosseteste)', composed around ?.
+Authored work: '(Traduction de l’Ethique d’Aristote)', composed around ?.
+Authored work: 'Notulae in Ethica Nicomach. et in commentatores graecos in eadem', composed around ?.
+Authored work: 'Commentatores greci in Ethica Nicomachea Aristotelis', composed around ?.
+Authored work: 'Summa in Ethica Nicomachea Aristotelis', composed around ?.
+Authored work: '(Dossier sur l’action de l’évêque de Lincoln à la Curie en défense des intérêts de l’Église d’Angleterre)', composed around à Lyon (où réside alors la Curie)..
+Authored work: 'Diffinicio Eucaristie', composed around ?.
+Authored work: 'De eucharistia', composed around ?.
+Authored work: 'Tractatus de veneno spirituali', composed around ?.
+Authored work: 'Summa theologiae', composed around ?.
+Authored work: 'Disputatio christiani et Saraceni', composed around ?.
+Authored work: 'De septem vitiis capitalibus', composed around ?.
+Authored work: 'Summa vitiorum', composed around ?.
+Authored work: 'De effectibus virtutum', composed around ?.
+Authored work: 'De aversione a summo bono', composed around ?.
+Authored work: 'De Gloria in Infirmitatibus', composed around ?.
+Authored work: 'De homine creato corrupto restaurato', composed around ?.
+Authored work: 'De poenitantia danda', composed around ?.
+Authored work: 'Dialogus de Contemptu Mundi', composed around ?.
+Authored work: 'Prohemium et Glose in Libros Sapiencie et Ecclesiastice', composed around ?.
+Authored work: 'Notulae in Psalterium seu in Commentarium Petri Lombardi in Psalmos', composed around ?.
+Authored work: 'Moralitates super evangelia', composed around ?.
+Authored work: 'Commentarium in librum De anima', composed around ?.
+Authored work: 'De Anima', composed around %1208-1210%.
+Authored work: 'Communia totius logice et totius grammatice', composed around ?.
+Authored work: 'Summa philosophie', composed around Après ;.
+Authored work: 'Grammatica', composed around ?.
+Authored work: 'Ars Predicandi', composed around ?.
+Authored work: 'Comm. in librum De coelo et mundo', composed around ?.
+Authored work: 'Questiones in De Celo et Mundo Aristotelis', composed around ?.
+Authored work: 'Comm. in lib. De generatione et corruptione', composed around ?.
+Authored work: 'Recapitulatio super VIII libros Physicorum Aristotelis', composed around ?.
+Authored work: 'Comm. in lib. Physicorum', composed around ?.
+Authored work: 'De astrolabio', composed around ?.
+Authored work: 'De compositione chilindri', composed around ?.
+Authored work: 'De officio quadrantis', composed around ?.
+Authored work: 'Liber quadrantis', composed around ?.
+Authored work: 'De quadratura circuli', composed around ?.
+Authored work: 'Ars algorismi in communi', composed around ?.
+Authored work: 'De astronomia', composed around ?.
+Authored work: 'De generatione stellarum', composed around ?.
+Authored work: 'Compotus ecclesiasticus', composed around ?.
+Authored work: 'Liber Curialis', composed around Avant ?.
+Source: ARLIMA : Laurent BRUN et Maureen BOULTON :.

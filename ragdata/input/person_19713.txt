@@ -1,0 +1,9 @@
+PERSON: BERNARDUS Dalli
+Also known as: Bernardus DALLI.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Maître ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 22/01/2021).

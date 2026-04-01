@@ -1,0 +1,10 @@
+PERSON: PETRUS Tallanderius
+Also known as: Petrus TALLANDERIUS.
+Description: Musicien ?.
+Status: Incertain.
+Gender: male.
+Active during: %1380-1410%.
+Studied at: ?.
+Academic grades obtained: ?.
+Authored work: 'Lectura ordinale tam super cantu mensurabili quam super immensurabili', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 05/04/2024..

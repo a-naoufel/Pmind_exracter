@@ -1,0 +1,10 @@
+PERSON: PETRUS Absolve
+Also known as: Pierre ABSOLVE.
+Description: Hôte du Collège de Justice.
+Status: Étudiant.
+Gender: male.
+Active during: %1353-1353%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Justice : hôte ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Marion Bernard-Schweitzer 16/09/2020..

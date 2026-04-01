@@ -1,0 +1,10 @@
+PERSON: RADULPHUS Chevenelli
+Also known as: Radulphus CHEVENELLI.
+Description: Archidiacre de Puisaye.
+Status: Incertain.
+Gender: male.
+Active during: %1322-1330%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Archidiacre de Puisaye %1322-1330% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 25/06/2025)..

@@ -1,0 +1,10 @@
+PERSON: RADULPHUS Haultin
+Also known as: Radulphus HAULTIN.
+Description: Chantre de Chalon.
+Status: Incertain.
+Gender: male.
+Active during: %1443-1443%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical positions held: Chanoine de Chalon ;; Chantre de Chalon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/05/2025..

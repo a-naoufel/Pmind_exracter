@@ -1,0 +1,10 @@
+PERSON: X Harleville
+Also known as: X HARLEVILLE.
+Description: Bachelier en théologie.
+Status: Incertain.
+Gender: male.
+Active during: %1411-1411%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;; Bachelier en théologie ;.
+Social origin: Noble..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/05/2021..

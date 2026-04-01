@@ -1,0 +1,12 @@
+PERSON: GALFREDUS 3
+Also known as: GAUFRIDUS.
+Description: Chancelier de Sainte-Geneviève.
+Status: Maître.
+Gender: male.
+Active during: %1282-1285%.
+Studied at: Paris %1282-1285% ?.
+Academic grades obtained: Magister ?.
+Religious order: O.S.A : chanoinerégulier de Paris (Sainte-Geneviève) ;.
+Religious functions: Chancelier (augustin) de Paris (Sainte-Geneviève) %1282-1285% au moins ;.
+University functions: Paris (Université : exécuteur en avec GARINUS de Anduy, abbé de Sainte-Geneviève d’une contribution concédée par le siège apostolique à l’université de Paris pour participation aux dépenses de l’université ;; Paris (Université : Chancelier de Sainte-Geneviève %1282-1285% au moins)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 16/01/2021)..

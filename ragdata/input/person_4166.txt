@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS de Bordis
+Also known as: Guillelmus de BORDIS; Guillaume de BORDIE; Guillelmus GABART.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1456-1503%.
+Born in: Aquitaine ?.
+Studied at: Paris %1459-1467%.
+Academic grades obtained: Baccalarius biblicus (Paris) %1459-1460% ;; Baccalarius sententiarius (Paris) ;; Licencié en théologie (Paris) (le 19 décembre) ;; Docteur en théologie (Paris) (en mars) ..
+College affiliation: Couvent (carme) de Paris..
+Religious order: O.Carm. : frère carme de la province d'Aquitaine..
+Religious functions: Socius de Johannes SORETH, maître général de l'Ordre en ;; Définiteur de la province d'Aquitaine au chapitre général de tenu à Rome ;; Primus socius" de la province d'Aquitaine en ..
+University functions: Paris (Faculté de Théologie : Lecteur de la Bible en %1459-1460%) ;; Paris (Faculté de Théologie : Lecteur des Sentences en ) ;; Paris (Faculté de Théologie : Lecteur en théologie en (24 octobre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux et Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 06/02/2020..

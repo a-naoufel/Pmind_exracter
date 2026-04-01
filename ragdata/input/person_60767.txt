@@ -1,0 +1,9 @@
+PERSON: GISELBERTUS Anchiel
+Also known as: Giselbertus ANCHIEL.
+Description: Chanoine de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1262-1262%.
+Studied at: Maître ;.
+Ecclesiastical positions held: Chanoine de Cambrai ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 30 décembre 2025..

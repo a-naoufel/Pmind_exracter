@@ -1,0 +1,8 @@
+PERSON: BERTRANDUS de Edyo
+Also known as: Bertrandus de EDYO; Bertrandus de EDIO.
+Description: Bedeau principal de la faculté de décret..
+Status: Suppôt.
+Gender: male.
+Active during: %1416-1421%.
+University functions: Bedeau principal de la faculté de décret en %1416-1421%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 23/02/2021).

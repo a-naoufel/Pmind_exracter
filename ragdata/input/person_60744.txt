@@ -1,0 +1,11 @@
+PERSON: EBRARDUS de Vinea
+Also known as: Everardus de VINEA.
+Description: Chanoine Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1230-1250%.
+Studied at: ?.
+Academic grades obtained: Maître :.
+Ecclesiastical positions held: Chanoine de Cambrai %1230-1249% ;; Prévôt de Renaix (Saint-Hermès) %1237-1249% ;.
+Other ecclesiastical functions: Clerc de Godefridus de FONTANIS, évêque de Cambrai ;; Official de Cambrai %1230-1233% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/12/2025)..

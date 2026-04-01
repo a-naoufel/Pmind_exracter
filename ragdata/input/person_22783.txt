@@ -1,0 +1,8 @@
+PERSON: AEGIDIUS 1
+Also known as: AEGIDIUS.
+Description: Prévôt de Normandie.
+Status: Incertain.
+Gender: male.
+Active during: %1275-1275%.
+Studied at: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019)..

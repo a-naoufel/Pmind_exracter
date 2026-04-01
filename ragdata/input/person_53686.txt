@@ -1,0 +1,11 @@
+PERSON: PETRUS Mandanella
+Also known as: Petrus MANDANELLA.
+Description: Archidiacre de Montaut.
+Status: Incertain.
+Gender: male.
+Active during: %1496-1502%.
+Studied at: ?.
+Academic grades obtained: Bachelier en droit canon ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Archidiacre de Montaut %1496-1502% ;; Chanoine de Lectoure ;; Recteur de Montclar ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/05/2022)..

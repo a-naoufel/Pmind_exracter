@@ -1,0 +1,7 @@
+PERSON: DIONYSIUS 6
+Also known as: DIONYSIUS.
+Description: Tailleur de pierre.
+Status: Extérieur.
+Gender: male.
+Active during: %1465-1465%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/05/2021)..

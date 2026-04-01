@@ -1,0 +1,11 @@
+PERSON: VEDASTUS Briois
+Also known as: Vedastus BRIOIS.
+Description: Chanoine d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1486-1518%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son oncle est Jean de RÉLY, chanoine d’Amiens ;.
+Ecclesiastical positions held: Archidiacre de Ponthieu en la cathédrale d’Amiens %1486-1518% ;; Chanoine d’Amiens %1492-1518% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 19/11/2021..

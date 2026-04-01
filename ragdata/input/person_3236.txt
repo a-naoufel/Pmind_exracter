@@ -1,0 +1,41 @@
+PERSON: GALFREDUS de Fontibus
+Also known as: Gaufridus de FONTIBU; Godefroid de FONTAINES; Godefridus de FONTIBUS.
+Description: Évêque-élu de Tournai.
+Status: Maître.
+Gender: male.
+Active during: %1272-1308%.
+Born in: Fontaines-les-Hozémont près de Liège)..
+Diocese of origin: Diocèse de Liège ?.
+Studied at: Paris ..
+Academic grades obtained: Maître en théologie (Paris) ..
+College affiliation: Sorbonne..
+Family relationships: Son père est Barge de FONTAINES-LEZ-HOZÉMONT..
+Academic relationships: Son élève est Jean de POUILLY ; Son élève est Gui TERRE ; Son élève est Jacques de BRUGES..
+Social origin: Noblesse : famille de Fontaine-Hozémont..
+Ecclesiastical positions held: Chanoine de Liège (Saint-Martin) ;; Chanoine de Liège (Saint-Lambert) ;; Chanoine de Tournai ;; Chanoine de Paris ;; Prévôt de Cologne (Saint-Séverin) en %1287-1295%.; Evêque-élu de Tournai ;.
+University functions: Paris (Faculté de Théologie : Maître-Régent en %1285-1304%)..
+Authored work: '(Sermon pour le IIe dim. après l'Epiphanie)', composed around (18 janvier).
+Authored work: 'Quaestiones tres disputatae de virtutibus', composed around ?.
+Authored work: 'Notule de scientia theologie', composed around ?.
+Authored work: 'Quodlibet I, 20q.', composed around ..
+Authored work: 'Quodlibet II, 14q.', composed around (Pâques)..
+Authored work: 'Quodlibet III, 16q.', composed around ..
+Authored work: 'Quodlibet IV, 22q.', composed around (No‰l)..
+Authored work: 'Quodlibet V, 20q.', composed around .
+Authored work: 'Quodlibet VI, 18q.', composed around .
+Authored work: 'Quodlibet VII, 18q.', composed around ..
+Authored work: 'Quodlibet VIII, 17q.', composed around .
+Authored work: 'Quodlibet IX, 20q.', composed around .
+Authored work: 'Quodlibet X, 19q.', composed around .
+Authored work: 'Quodlibet XI, 17q.', composed around .
+Authored work: 'Quodlibet XII, 20q.', composed around .
+Authored work: 'Quodlibet XIII, 18q.', composed around .
+Authored work: 'Quodlibet XIV, 26q.', composed around .
+Authored work: 'Quodlibet XV ?', composed around ?.
+Authored work: '(Abrégés, extraits ou contenu imprécis des Quodlibets)', composed around ?.
+Authored work: '(Notes marginales et scholies)', composed around ?.
+Authored work: 'Abbreviatio Boethii de Dacia “De modo significndi” et “Quaestiones super Topica”', composed around ?.
+Authored work: '(Interventions scolaires ; extraits)', composed around ?.
+Authored work: '(Scholies sur le "Contra Gandiles")', composed around ?.
+Authored work: '(Scholies sur la I Pars de la Somme Theologique)', composed around ?.
+Source: MIRABILE :.

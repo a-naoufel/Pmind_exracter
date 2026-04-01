@@ -1,0 +1,29 @@
+PERSON: HILARIUS Aurelianensis
+Also known as: Hilarius AURELIANENSIS; Hilaire d’ORLÉANS.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1120-1160%.
+Born in: ?Orléanais (Orléans) ;.
+Studied at: Orléans ;; Angers ?; Paris..
+Academic relationships: Son maître est Pierre ABÉLARD au Paraclet..
+Religious order: Chanoine ;.
+University functions: Orléans ;; Paris (Maître enseignant les arts libéraux) ;; Angers ?.
+Authored work: 'Expositio hymnorum', composed around ?.
+Authored work: 'Historia de Danielis representanda', composed around ?.
+Authored work: 'Ludus super iconie sancti Nicolai', composed around ?.
+Authored work: 'Suscitatio Lazari', composed around ?.
+Authored work: 'Ludus Danielis Belovacensis', composed around ?.
+Authored work: 'Ad sanctimonialem nomine Bonam', composed around ?.
+Authored work: 'Ad sanctimonialem nomine Superbam', composed around ?.
+Authored work: 'Ad roseam', composed around ?.
+Authored work: 'Ad Puer Andegavensem', composed around ?.
+Authored work: 'Ad Guillelmum de Anfonia', composed around ?.
+Authored work: 'Ad Puer Anglicum', composed around ?.
+Authored work: 'Ad Petrum Abelardum', composed around ?.
+Authored work: 'Epistolae', composed around ?.
+Authored work: 'Epistolae', composed around ?.
+Authored work: '(Vie d’Eve de Winchester)', composed around ?.
+Authored work: 'Commentum in Statii Thebaidem', composed around ?.
+Authored work: 'Commentum in Vergilii Aeneida', composed around ?.
+Source: MIRABILE :.

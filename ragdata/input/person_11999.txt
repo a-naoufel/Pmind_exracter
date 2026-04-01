@@ -1,0 +1,12 @@
+PERSON: THOMAS de Andover
+Also known as: Thomas de ANDOVER.
+Description: Fellow de Merton.
+Status: Extérieur.
+Gender: male.
+Active during: %1299-1335%.
+Born in: Angleterre..
+Studied at: Oxford (Merton College)..
+Academic grades obtained: Maître ès arts (Oxford)..
+Ecclesiastical positions held: Recteur d'Ibstone (Buckinghamshire) %1315-1335%..
+University functions: Oxford (Merton College : fellow %1299-1315%) ;; Oxford (Merton College : 2nd bursar %1305-1306%) ;; Oxford (Merton College : 3rd bursar %1313-1314%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 02/10/2024.

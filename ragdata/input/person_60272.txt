@@ -1,0 +1,85 @@
+PERSON: PHILIPPUS Beroaldus
+Also known as: Philippus BEROALDUS.
+Description: Professeur humaniste de Bologne.
+Status: Maître.
+Gender: male.
+Active during: %1472-1505%.
+Born in: Italie/Émilie-Romagne/Bologne..
+Diocese of origin: Diocèse Bologne..
+Studied at: Maître ?.
+Academic grades obtained: Paris..
+Family relationships: Sa mère est Giovanna CASTO ; Son beau-père est le jurisconsulte Vincenzo PALEOTTI ; Son fils est Vincenzo BEROALDO ; Son neveu est Philippo BEROALDO juniore ;.
+Academic relationships: Son maître est Francesco PUTEOLANO di Parma. Son élève est Jean DU PIN, archevêque de Toulouse ; Son élève est Bartolomeo BIANCHINI..
+Social origin: Noble..
+University functions: Bologne (professeur ‘ad lecturam rhetoricae et poësis’ %1472-1475%) ;; Parme (professeur de rhétorique, ) ;; Paris (professeur de rhétorique, ).; Bologne (Professeur %1479-1505%) ;.
+Representation roles: Ambassadeur et orateur public auprès de Milan..
+Authored work: 'Carmen lugubra de die dominicae Passionis', composed around ?.
+Authored work: 'Paeanes b. Virginis Marie', composed around %.
+Authored work: 'De felicitate', composed around ?.
+Authored work: 'Declamatio ebriosi, scortatoris et aleatoris', composed around ..
+Authored work: 'Declamatio philosophi, medici et oratoriss', composed around ..
+Authored work: 'Heptalogos', composed around ..
+Authored work: 'Oratio proverbiorum', composed around à Bologne..
+Authored work: 'Opuscula', composed around ?.
+Authored work: 'Symbola Pythagore moraliter explicita', composed around ?.
+Authored work: 'Apologia pro Socrate', composed around ?.
+Authored work: 'Plinius. Historia Naturalis', composed around à Parme ;.
+Authored work: 'Annotationes in commentarios Servii virgilianos', composed around ?.
+Authored work: 'Vergilius. Opera', composed around à Paris ?.
+Authored work: 'Cicero. In Catilinam orationes', composed around ..
+Authored work: 'Annotationes Centum', composed around ?.
+Authored work: '(Commentaire sur les Elégies de Properce)', composed around ?.
+Authored work: 'Matthaeus Bossus. Recuperationes Faesulanae', composed around ?.
+Authored work: 'Cicero.Tusculanae disputationes', composed around ..
+Authored work: 'Plautus. Comoediae', composed around .
+Authored work: 'Plinius Secundus. Epistolae', composed around ?.
+Authored work: 'Cicero. Orationes', composed around ?.
+Authored work: 'Apuleius. Asinus aureus, sive Metamorphosis', composed around ?.
+Authored work: 'Philostrate. De vita Apollonii Tyanae', composed around ?.
+Authored work: 'Persius. Satyrae', composed around ?.
+Authored work: 'Commentarii Marci Ciceronis Philippicarum', composed around ?.
+Authored work: 'Cicero. Epistolae familiares', composed around ?.
+Authored work: 'Suetonius. De grammaticis et rhetoribus clarisimis libellus', composed around ?.
+Authored work: 'Cicero. Invectivae', composed around ?.
+Authored work: 'Sallustius. Invectivae', composed around ?.
+Authored work: 'De componendis epistolis', composed around ?.
+Authored work: 'Censorinus. De die natali', composed around /Le volume contient d’autres œuvres, éditées ou traduites par d’autres personnes..
+Authored work: 'Bavierus de Baveriis. Consilia Medica', composed around ?.
+Authored work: 'Opusculum Philippi Beroaldi de terre motu et pestilentia, cum annotationes in Galenum', composed around ?.
+Authored work: 'Commentarium in Celsum', composed around ?.
+Authored work: 'Oratio de laudibus gymnasii Parisiorum', composed around à Paris ?, dedicated to Dédié à Louis de ROCHECHOUART..
+Authored work: 'Carmen de officio scribe', composed around ?.
+Authored work: 'De duobus amantibus', composed around ?.
+Authored work: 'Nuptiae Bentivolorum', composed around ..
+Authored work: 'Orationes et poemata', composed around ?.
+Authored work: 'Cimone', composed around ?.
+Authored work: 'Tito Romano e Crisippo Ateniese', composed around ?.
+Authored work: 'Vir prudens', composed around ..
+Authored work: 'Cato. Enarrationes. De re rustica', composed around ?.
+Authored work: 'Varro. De re rustica', composed around ?.
+Authored work: 'Columella. De re rustica', composed around ?.
+Authored work: 'De re rustica', composed around ?.
+Authored work: 'De venatione', composed around ?.
+Authored work: 'Epistolae', composed around ?.
+Authored work: 'Florus. Epitome rerum Romanarum', composed around à Parme..
+Authored work: 'Ptolemaeus. Cosmographia', composed around ..
+Authored work: 'Sallustius. Opera', composed around à Paris..
+Authored work: 'Suetonius. Vitae XII Caesarum', composed around ?.
+Authored work: 'Justinus. Epitomae in Trogi Pompeii historias', composed around .
+Authored work: 'Solinus. Polyhistor', composed around ?.
+Authored work: 'Horapollo Niliacus: Epitoma litterarum Aegyptiarum', composed around ?.
+Authored work: 'Aulus Gelius. Noctes atticae', composed around ?.
+Authored work: 'Caesar. Commentaria', composed around ?.
+Authored work: 'Disceptatio de nomine imperatoris', composed around ?.
+Authored work: 'Pharsalia', composed around ?.
+Authored work: 'Cyropedia', composed around ?.
+Authored work: 'De regis Agesilai Lacedaemoniorum laudibus', composed around ?.
+Authored work: 'Epistolion', composed around ..
+Authored work: 'Frontinus. Stratagemata', composed around ?.
+Authored work: 'Vegetius. De re militair', composed around ?.
+Authored work: 'Aelianus Tacitus De instruendis aciebus', composed around ?.
+Authored work: 'Modestus. De vocabulis rei militaris', composed around ?.
+Authored work: 'De optimo statu et principe', composed around ?.
+Authored work: 'De rei publicae et de legibus Lacedaemoniorum', composed around ?.
+Authored work: 'Opusculum de tyranide', composed around ?.
+Source: MIRABILE :.

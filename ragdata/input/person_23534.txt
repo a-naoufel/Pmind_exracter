@@ -1,0 +1,10 @@
+PERSON: MATTHAEUS Randoul
+Also known as: Mathieu RANDOUL.
+Description: Maître du Collège de Dormans-Beauvais ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1483-1499%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Dormans-Beauvais : écolier ;; Collège de Dormans-Beauvais : sous-maître ;; Collège de Dormans-Beauvais : maître ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 22/09/2023)..

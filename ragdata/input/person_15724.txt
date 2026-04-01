@@ -1,0 +1,9 @@
+PERSON: ARTHURUS Prat
+Also known as: Arthurius PRAT; Arthurius PRART.
+Description: Bachelier Décret.
+Status: Gradué.
+Gender: male.
+Active during: %1501-1501%.
+Born in: France(Paris)..
+Studied at: Paris %1501-1501%..
+Academic grades obtained: Bachelier Décret (Paris) (le 29 mars) ..

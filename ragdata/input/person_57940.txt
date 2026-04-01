@@ -1,0 +1,10 @@
+PERSON: MATTHAEUS Franchon
+Also known as: Matthaeus FRANCHON; Matthaeus FRANCHONIS.
+Description: Boursier ès arts du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1514-1516%.
+Studied at: Paris (Nation de France) %1514-1516%..
+Academic grades obtained: Étudiant ès arts (Paris) %1514-1516% ;.
+College affiliation: Collège d'Autun : boursier ès arts en %1514-1516% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 03/07/2024..

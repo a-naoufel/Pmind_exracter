@@ -1,0 +1,14 @@
+PERSON: ROBERTUS Morelet
+Also known as: Robertus MORELET.
+Description: Chancelier de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1421-1471%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Family relationships: Son père est Jean MORELET, avocat du roi au bailliage de Caux ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Rouen %1421-1450% ;; Curé de Cormeilles %1439-1471% ;; Chancelier de Rouen %1440-1471% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 5/11/2021..

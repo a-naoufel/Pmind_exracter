@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS de Savigniaco
+Also known as: Giletus de SAVIGNIACO; Gilet de SAVIGNY.
+Description: Boursier artien ou grammairien au Collège de Navarre..
+Status: Étudiant.
+Gender: male.
+Active during: %1404-1404%.
+Studied at: Paris (Collège de Navarre), %1404-1404%..
+Academic grades obtained: Étudiant ès arts (Paris) ..
+College affiliation: Boursier grammairien ou artien au Collège de Navarre à Paris en ..
+Family relationships: Son oncle est Jean GUIOT, chanoine de Sens et de la collégiale de ChampeauxenBrie, curé de Chitry, et chapelain de CHARLES VI, roi de France..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 03/05/2020)..

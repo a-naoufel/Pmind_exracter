@@ -1,0 +1,13 @@
+PERSON: ROBERTUS Brion
+Also known as: Robertus BRION.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1399-1403%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris %1399-1403% ;.
+Academic grades obtained: Étudiant en décret (Paris) %1399-1403% ;.
+Ecclesiastical status: Prêtre du diocèse de Rouen ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Magnus Rotulus (rotulus scolarium Parisiensum) de l’Université de Paris daté de (23 octobre) et présenté à BENOÎT XIII..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 11/11/2018..

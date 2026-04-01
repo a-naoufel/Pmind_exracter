@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Laloyer
+Also known as: Guillelmus LALOYER.
+Description: Criminel.
+Status: Extérieur.
+Gender: male.
+Active during: %1383-1383%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 21/09/2021..

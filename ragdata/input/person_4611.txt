@@ -1,0 +1,10 @@
+PERSON: HENRICUS de Segori
+Also known as: Henricus de SEGORI; Henri de SEGORI.
+Description: Boursier théologien au Collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1384-1384%.
+Studied at: Paris (Collège de Navarre) %1384-1384%..
+Academic grades obtained: Étudiant en théologie (Paris) ..
+College affiliation: Boursier théologien au Collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/07/2022..

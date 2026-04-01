@@ -1,0 +1,10 @@
+PERSON: PETRUS de Cordone
+Also known as: Petrus de CORDONE; Petrus de CORDOUE.
+Description: Magister.
+Status: Extérieur.
+Gender: male.
+Active during: %1267-1267%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Chanoine de Saint-Omer en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 09/04/2020..

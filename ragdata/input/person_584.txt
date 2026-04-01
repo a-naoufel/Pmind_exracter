@@ -1,0 +1,11 @@
+PERSON: ARNULPHUS de Dargies
+Also known as: Arnulphus de DARGIES; An. de DARGNIER.
+Description: Chanoine d'Amiens.
+Status: Maître.
+Gender: male.
+Active during: %1260-1283%.
+Studied at: ?Paris..
+Academic grades obtained: Magister..
+Family relationships: Son père est un chevalier ;.
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine d'Amiens %1260-1283% ;; Chantre d'Amiens %1270-1283% ;.

@@ -1,0 +1,13 @@
+PERSON: STEPHANUS Normannus
+Also known as: Stephanus NORMANUS.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1272-1272%.
+Born in: Normandie ?.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant ?.
+College affiliation: Couvent (dominicain) de Paris (Jacobins) en ..
+Religious order: O.P. : frère dominicain..
+Authored work: 'Sermo (et collatio) fr. Stephani Iacobite Normanni in die sacro Pentecostes'.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 15/01/2025..

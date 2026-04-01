@@ -1,0 +1,10 @@
+PERSON: LUDOVICUS Girault
+Also known as: Loys GIRAULT.
+Description: Boursier en décret du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1516-1516%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en décret (Paris) ;.
+College affiliation: Collège d'Autun : boursier en décret en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 03/07/2024..

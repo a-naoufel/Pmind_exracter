@@ -1,0 +1,9 @@
+PERSON: GREGORIUS de Flavy
+Also known as: Grégoire de FLAVY.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1504-1504%.
+Studied at: Paris ;.
+Academic grades obtained: Maître ès arts en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

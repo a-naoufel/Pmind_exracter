@@ -1,0 +1,12 @@
+PERSON: THOMAS 3
+Also known as: THOMAS; TAMÁS.
+Description: Archevêque d’Esztergom..
+Status: Incertain.
+Gender: male.
+Active during: %1209-1224%.
+Born in: Hongrie..
+Studied at: ?Paris..
+Academic grades obtained: Magister..
+Ecclesiastical positions held: Prévôt de Veszprém, %1210-1212% ;; Prévôt de Szeben, ;; Prévôt de Székesfehérvár, %1213-1217% ;; Évêque d’Eger, %1217-1223% ;; Archevêque d’Esztergom, %1223-1224%..
+Representation roles: Ve Croisade, %1217-1220%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Gergely KISS, 26/07/2014..

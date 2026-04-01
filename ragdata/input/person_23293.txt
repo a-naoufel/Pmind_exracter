@@ -1,0 +1,18 @@
+PERSON: ALBERICUS Remensis 1
+Also known as: Alberic de REIMS; Albericus de REIMS.
+Description: Archevêque de Bourges.
+Status: Maître.
+Gender: male.
+Active during: %1110-1141%.
+Born in: Champagne..
+Diocese of origin: Diocèse de Reims ?.
+Studied at: Laon ;; Paris ?.
+Academic grades obtained: Magister.
+Family relationships: Son neveu est Étienne de LA PORTE DU CLOÎTRE..
+Academic relationships: Son maître est Anselme de LAON ; Son maître est Guillaume de CHAMPEAUX ; Son élève est PIERRE le Chantre ; Son élève est Adalbert de SARREBRUCK, futur archevêque de Mayence ; Son élève est Philippe de HEINSBERG, futur archevêque de Cologne ;.
+Ecclesiastical positions held: Écolâtre de Reims ;; Archidiacre de Reims %1130-1136% ;; Archevêque de Bourges %1137-1141% ..
+University functions: Reims : écolâtre %1117-1136% ;; Paris (tient école en %1120-1122%)..
+Representation roles: Il participe au concile de Soissons en ;; Il participe au concile de Latran II en ..
+Authored work: '(Participation à la rédaction de la glose ordinaire)', composed around % -1117% ?.
+Authored work: 'Epistola', composed around ?.
+Source: MIRABILE, Federico CONTINI :.

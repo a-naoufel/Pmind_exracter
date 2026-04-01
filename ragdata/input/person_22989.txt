@@ -1,0 +1,12 @@
+PERSON: Studens pro provincia Dacie 1
+Also known as: Studens pro provincia DACIE.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1283-1283%.
+Born in: Suède ?.
+Diocese of origin: Diocèse de Linköping ?.
+Studied at: Paris, ..
+Academic grades obtained: É. (P), ..
+Religious order: O.P. (province de Dacie)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Élisabeth Mornet, 15/12/2017..

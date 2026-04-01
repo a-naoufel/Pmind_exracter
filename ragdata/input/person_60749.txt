@@ -1,0 +1,10 @@
+PERSON: GALTERIUS de Bans
+Also known as: Galterus de BANS.
+Description: Chanoine de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1296-1296%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Cambrai ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 29/12/2025.

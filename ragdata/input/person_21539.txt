@@ -1,0 +1,10 @@
+PERSON: GASPERUS de Puteo
+Also known as: Gaspardus de PUTEO.
+Description: Étudiant en théologie.
+Status: Étudiant.
+Gender: male.
+Active during: %1484-1484%.
+Studied at: Paris..
+Academic grades obtained: Étudiant en Théologie (Paris ?) ;.
+College affiliation: Sorbonne : "socius" en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 29/11/2020)..

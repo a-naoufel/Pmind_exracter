@@ -1,0 +1,14 @@
+PERSON: ADAM de Clamecy
+Also known as: Adam de CLAMECY.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1391-1394%.
+Born in: Île-de-France (Paris)..
+Diocese of origin: Diocèse de Paris ?.
+Studied at: Paris %1391-1394%..
+Academic grades obtained: Étudiant (Paris) %1391-1394%..
+College affiliation: Collège de Dormans-Beauvais : boursier %1391-1394% (CollDB 2720) ;.
+Family relationships: Son frère est Gilles de CLAMECY ;.
+Social origin: Bourgeoisie ;.
+Source: LAMOP : Opération Charles VI (n° 2518) :.

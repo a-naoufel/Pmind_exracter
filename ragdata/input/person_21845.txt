@@ -1,0 +1,10 @@
+PERSON: GALTERIUS de Parvo Ponte
+Also known as: Galterus de PARVO PONTE.
+Description: Chancelier de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1222-1222%.
+Studied at: ?.
+Academic grades obtained: Magister.
+Ecclesiastical positions held: Chancelier de Rouen ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 13/11/2021..

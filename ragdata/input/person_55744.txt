@@ -1,0 +1,12 @@
+PERSON: LANDO
+Also known as: LANDO.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1233-1233%.
+Born in: Italie (Sicile ?) ?.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+Family relationships: Son oncle est BERARDO, archevêque de Messine..
+Ecclesiastical status: Clerc ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 03/04/2023)..

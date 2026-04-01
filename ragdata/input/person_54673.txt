@@ -1,0 +1,12 @@
+PERSON: PETRUS Menypeny
+Also known as: Petrus MENYPENY.
+Description: Chanoine de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1450-1483%.
+Studied at: Poitiers..
+Academic grades obtained: Bachelier en droit canon en ;.
+Social origin: Noble ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Poitiers %1450-1482% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 21/11/2022..

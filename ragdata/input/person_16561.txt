@@ -1,0 +1,13 @@
+PERSON: ARNALDUS de Tricht 1
+Also known as: Arnaldus de TRICHT; Arnoldus TRICHT.
+Description: Maitre ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1378-1379%.
+Born in: Pays-Bas (Utrecht) ?.
+Diocese of origin: Diocèse d'Utrecht ?.
+Studied at: Paris (Nation Anglo-Allemande)..
+Academic grades obtained: Maître ès arts (Paris) ..
+Ecclesiastical positions held: Candidat à un bénéfice sur un rotulus envoyé à URBAIN VI en ;.
+University functions: Paris (Nation Anglo-allemande : il fait partie d'une quinzaine de maîtres au nom desquels Theodoricus de YSELSTEIN dépose une demande en (23 mars) pour être placé sur le prochain rotulus) ;; Paris (Nation Anglo-allemande : il demande en (28 avril) avec Aegidius BRUNE à être considéré comme présent s'il rentrait chez lui pour une courte période puisqu'ils avaient un domicile à Paris ; cette demande est accordée, mais elle provoque des remous) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe GENET 7/11/2020)..

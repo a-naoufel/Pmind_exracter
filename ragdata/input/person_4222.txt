@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Doreto
+Also known as: Guillelmus de DORETO; Guillelmus le VIVETIER.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1387-1387%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse de Sées ;.
+Studied at: Paris (Nation de Normandie) ..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en décret (Paris) en ;.
+Ecclesiastical status: Clerc du diocèse de Sées ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus de ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 22/03/2022..

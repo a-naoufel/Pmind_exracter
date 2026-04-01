@@ -1,0 +1,25 @@
+PERSON: ADALBERTUS Ranconis de Ericinio
+Also known as: Adalbertus RANCONIS de Ericinio; Adalbertus RANKONIS de Ericinio; Adalbert de ERICINIO; Albertus RANCONIS; Vojtech RANKUV Z JEZOVA; Albertus de BOHEMIA.
+Description: Chanoine de Prague..
+Status: Maître.
+Gender: male.
+Active during: %1340-1388%.
+Born in: Bohême (MalýJežov)..
+Diocese of origin: Diocèse de Prague..
+Studied at: Paris (Nation Anglo-allemande) %1344-1365% ;; Oxford %1360-1366%..
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en théologie (Paris) ;; ?Maître en théologie (Paris) ..
+College affiliation: Collège de Sorbonne %1344-1365% ;; Socius du Collège de Sorbonne en ..
+Family relationships: Son père est Ranco de JEZOV..
+Ecclesiastical positions held: Candidat à un canonicat avec expectative de prébende à la collation du doyen et du chapitre de Prague (Saint-Vit) dans le rotulus de .; Chanoine de Prague %1349-1388% ;; Pénitencier pontifical à Avignon, %1362-1364% ;; Chanoine de Breslau ?%1363-1388%..
+University functions: Paris (Nation Anglo-allemande : procureur %1349-1351%) ;; Paris (Université : recteur %1355-1356%) ;.
+Authored work: 'De frequenti communione ad plebanum Martinum', composed around ?.
+Authored work: 'Notulae receptae de libro Bonaventurae super Iohannem', composed around ?.
+Authored work: 'Articuli sex anno 1371 ab Adalberto de Bohemia ad Gregorium XI delati', composed around .
+Authored work: 'Laus philosophiae cum quaestione : Utrum naturalis philosophus per rationem naturalem possit habere notitiam sive scientiam evidentem de aliqua veritate', composed around Écrit en à Paris.
+Authored work: 'Statuta de reformando modo legendi', composed around Rédigés en à Paris.
+Authored work: 'Apologia', composed around ?.
+Authored work: 'Apologia in detractores', composed around ?.
+Authored work: 'Questio: Utrum philosophus moralis habeat concedere istam de virtute sermonis: Rex est servus regni', composed around Écrit à Paris..
+Authored work: 'Tetragonus Aristotelis', composed around ?.
+Authored work: '[Oraison funèbre de CHARLES IV de Luxembourg]', composed around ?.
+Source: http://brrp.org/proceedings/brrp7/herold.pdf.

@@ -1,0 +1,12 @@
+PERSON: CLAUDIUS Lebret
+Also known as: Claudius LEBRET.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1497-1497%.
+Studied at: Paris (Collège de Cluny) %1497-1497%..
+Academic grades obtained: Bachelier en théologie formatus (Paris) ..
+College affiliation: Boursier au collège de Cluny en ..
+Religious order: O.Clun. : moine clunisien..
+Religious functions: Bénéfice à la collation de l'abbé de Cluny (diocèse de Mâcon) en ;; Bénéfice à la collation du prieuré de La Charité-sur-Loire (diocèse d'Auxerre) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 13/04/2021..

@@ -1,0 +1,13 @@
+PERSON: MARTINUS de Vaccaria
+Also known as: Martinus de VACCARIA.
+Description: Boursier du collège de Dainville.
+Status: Étudiant.
+Gender: male.
+Active during: %1508-1510%.
+Born in: Artois ?.
+Diocese of origin: Diocèse d’Arras ;.
+Studied at: Paris (Nation de Picardie ?) en %1508-1510%..
+Academic grades obtained: Étudiant (Paris) %1508-1510% ;.
+College affiliation: Collège de Dainville : boursier en %1508-1510%, à partir de (10 septembre) ;.
+Family relationships: Son frère est Gabriel de VACCARIA..
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

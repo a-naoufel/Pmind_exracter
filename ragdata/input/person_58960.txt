@@ -1,0 +1,11 @@
+PERSON: ADAM Fremin
+Also known as: Adam FREMIN.
+Description: Chanoine de Châlons-en-Champagne.
+Status: Incertain.
+Gender: male.
+Active during: %1484-1503%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;; Bachelier en droit canon ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Châlons-en-Champagne %1484-1503% ;; Sous-chantre de Châlons-en-Champagne %1500-1503% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/05/2025..

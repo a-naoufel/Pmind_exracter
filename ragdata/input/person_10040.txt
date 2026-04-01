@@ -1,0 +1,10 @@
+PERSON: PETRUS de Beze
+Also known as: Petrus de BEZE; Pierre de BEZE.
+Description: Boursier théologien au collège de Navarre..
+Status: Maître.
+Gender: male.
+Active during: %1342-1348%.
+Studied at: Paris %1342-1348%..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en théologie (Paris) %1342-1348%..
+College affiliation: Boursier théologien au collège de Navarre à Paris en %1342-1348%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 05/02/2024..

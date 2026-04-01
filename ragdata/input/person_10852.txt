@@ -1,0 +1,12 @@
+PERSON: RICARDUS de Abindon
+Also known as: Richard d'ABINDON.
+Description: Fellow de Merton.
+Status: Extérieur.
+Gender: male.
+Active during: %1299-1339%.
+Born in: Angleterre..
+Studied at: Oxford (Merton College)..
+Academic grades obtained: Maître ès arts (Oxford)..
+Ecclesiastical positions held: Recteur de Finmere (Oxfordshire) %1306-1339%..
+University functions: Oxford (Merton College : fellow %1299-1304%) ;; Oxford (Merton College : 1st bursar %1303-1304%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019).

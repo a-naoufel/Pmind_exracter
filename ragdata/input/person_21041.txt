@@ -1,0 +1,10 @@
+PERSON: PETRUS Taupin alias Ledit
+Also known as: Petrus TAUPIN; Petrus LEDIT.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+Family relationships: Son parent est peut-être Johannes PETIT alias Taupin qui s'acquiitte de sa participation à la collecte de en même temps que lui..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/08/2016..

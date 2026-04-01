@@ -1,0 +1,11 @@
+PERSON: STEPHANUS 8
+Also known as: STEPHANUS.
+Description: Doyen de Saint-Germain l'Auxerrois.
+Status: Maître.
+Gender: male.
+Active during: %1238-1238%.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) ;.
+Ecclesiastical positions held: Doyen de Paris (Saint-Germain l'Auxerrois) en ;.
+University functions: Paris (Faculté de Théologie : maître-régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/02/2024)..

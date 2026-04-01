@@ -1,0 +1,10 @@
+PERSON: GARNERIUS de Moreto
+Also known as: Garnier de MORET; Garnerius de MORETO.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1290-1290%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Sorbonne ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/11/2021..

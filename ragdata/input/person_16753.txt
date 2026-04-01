@@ -1,0 +1,11 @@
+PERSON: OTTO
+Also known as: OTTO.
+Description: Chanoine de Lund..
+Status: Incertain.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: ?.
+Academic grades obtained: ?.
+Academic relationships: Maître d'Andreas de SUETIA..
+Ecclesiastical positions held: Chanoine de Lund..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction: Élisabeth Jean-Philippe Genet, dernière mise à jour 02/12/2023..

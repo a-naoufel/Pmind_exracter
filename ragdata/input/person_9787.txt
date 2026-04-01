@@ -1,0 +1,10 @@
+PERSON: PETRUS Bonaefidei
+Also known as: Petrus BONAEFIDEI; Petrus BONEFIDEI.
+Description: Doyen de la Faculté de médecine..
+Status: Maître.
+Gender: male.
+Active during: %1346-1349%;.
+Studied at: Paris %1346-1349%..
+Academic grades obtained: Maître en médecine (Paris) ..
+University functions: Paris (Faculté de médecine : doyen en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 09/01/2024)..

@@ -1,0 +1,10 @@
+PERSON: MICHAEL de Couhan
+Also known as: Michel de COUHAN; Michelet de COUHAON; Michelet d’ESCOUHAN.
+Description: Hôte du Collège de Dormans-Beauvais.
+Status: Maître.
+Gender: male.
+Active during: %1384-1394%.
+Studied at: Paris (Nation de France ?) %1384-1394%..
+Academic grades obtained: Maître ès arts (Paris) %1391-1392% ;.
+College affiliation: Collège de Dormans-Beauvais : hôte %:1384-1385% ;; Collège de Dormans-Beauvais : boursier %:1385-1391% ;; Collège de Dormans-Beauvais : hôte %:1391-1394% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 03/09/2019..

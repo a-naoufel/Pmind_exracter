@@ -1,0 +1,10 @@
+PERSON: VINCENTIUS Varnholte
+Also known as: Vincentius VARNHOLTE.
+Description: Maître de l’école de Spandau.
+Status: Extérieur.
+Gender: male.
+Active during: %1450-1450%.
+Studied at: ?.
+Academic grades obtained: ?.
+Authored work: 'Commetarius in Parvulum philosophie', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 10-09-2024..

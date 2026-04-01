@@ -1,0 +1,9 @@
+PERSON: STEPHANUS de Silva
+Also known as: Stephanus de SILVA.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1385-1385%.
+Studied at: Paris ..
+Academic grades obtained: Maître en médecine (Paris) avant ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 16/09/2024..

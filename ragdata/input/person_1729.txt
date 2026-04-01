@@ -1,0 +1,45 @@
+PERSON: CONRADUS de Megenberg
+Also known as: Conrad de MEGENBERG; Conrad de MONTE PUELLARUM; Conrad de MEYDEBURGH.
+Description: Chanoine de Regensburg.
+Status: Maître.
+Gender: male.
+Active during: %1333-1374%.
+Born in: Franconie (Mäbenberg, près de Nuremberg) ;.
+Diocese of origin: Diocèse de Bamberg ?.
+Studied at: Erfurt ;; Paris (Nation Anglo-allemande)..
+Academic grades obtained: Maître ès arts (Paris) avant ..
+College affiliation: Il est l'hôte des Cisterciens et Lecteur de Philosophie dans leur Collège des Bernardins..
+Social origin: Noble..
+Ecclesiastical positions held: Provision pour un canonicat avec expectative de prébende à la cathédrale de Regensburg en : mandat à l'archevêque de Salzbourg, à l'évêque de Marseille et à l'abbé du monastère de Regensburg (Saint-Emeran) ;; Chanoine de Regensburg %1348-1374% ;; Curé de Regensburg (St-Ulric) %1359-1374%..
+University functions: Paris (Collège des Bernardins : Lecteur de Philosophie) ;; Paris (Maître Régent %1334-1342%) ;; Paris (Nation Anglo-allemande : Procureur %1337-1342%).; Paris (Nation Anglo-allemande : nonce pour la Nation Anglo-allemande en )..
+Authored work: '(Commentaire sur les quatre livres des Sentences)', composed around %1337-1342% ?.
+Authored work: 'Appellatio contra omnes mendicantes in Ratispona', composed around ..
+Authored work: 'Lacrima Ecclesiae', composed around Après ., dedicated to dédié à Arnaud AUBERT, archevêque d'Auch..
+Authored work: 'Commentarius de laudibus B.V. Marie', composed around Ap. ..
+Authored work: 'Tractatus de XII virtutibus misse', composed around ?.
+Authored work: 'Sermones varii', composed around ?.
+Authored work: 'De filiatione Dei', composed around ?.
+Authored work: 'Descriptio apparitionis sancti Francisci', composed around ?.
+Authored work: 'Tractatus contra Walter Burley', composed around ?.
+Authored work: 'Von der Sel', composed around ?.
+Authored work: 'Buch des Natur', composed around %1349-1350%..
+Authored work: 'Expositio super Speram', composed around ?.
+Authored work: 'Quaestiones in Iohannis de Sacrobosco Spheram', composed around .
+Authored work: 'Deutsche Sphaera', composed around ?.
+Authored work: 'Tractatus de mortalitate in Alemania', composed around ., dedicated to Dédié au Cardinal Roger de BEAUFORT..
+Authored work: 'Tractatus de rarificatione et condensatione', composed around ?.
+Authored work: 'Tractatus de arboribus consanguinitatis et affinitatis et spiritualis ac legalis cognacionis', composed around ..
+Authored work: 'Canones penitentiales', composed around ..
+Authored work: 'De limitibus parochiarum civitatis Ratisbonensis', composed around ..
+Authored work: 'Statuta Ecclesiae Ratisponensis', composed around ..
+Authored work: 'Vita Sancti Erhardi', composed around ., dedicated to Adressée à Jean OCKO de Wlasim, archevêque de Prague..
+Authored work: 'Vita Sancti Dominici', composed around ?.
+Authored work: 'Historia Sancti Mathaei', composed around ..
+Authored work: 'Planctus Ecclesiae in Germaniam', composed around ., dedicated to Dédié à Jean de PISCIBUS ;.
+Authored work: 'Monastica [Corpus Philosophiae Moralis I]', composed around , dedicated to Dédié à RODOLPHE IV de Habsbourg, duc d'Autriche..
+Authored work: '(Corpus Philosophiae Moralis II) Oeconomica', composed around %1351-1354%., dedicated to Dédié à Lupold de BEBENBURG, évêque de Bamberg..
+Authored work: '(Corpus Philosophiae Moralis I) Politica', composed around Ap. ..
+Authored work: 'Tractatus de translatione imperii', composed around ., dedicated to Dédié à CHARLES IV..
+Authored work: 'Epistola ad Carolum IV', composed around ?.
+Authored work: 'Tractatus contra Guillelmum Occam', composed around ., dedicated to Dédié à CHARLES IV ;.
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

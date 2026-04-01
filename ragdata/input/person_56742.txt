@@ -1,0 +1,10 @@
+PERSON: PETRUS de Yrissone
+Also known as: Petrus d’YRISSONE.
+Description: Chanoine de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1361-1370%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Clermont %1361-1370% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/10/2023..

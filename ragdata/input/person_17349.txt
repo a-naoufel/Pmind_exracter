@@ -1,0 +1,13 @@
+PERSON: BERTRANDUS Albibach
+Also known as: Bertrandus ALBIBACH.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1378-1378%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) pendant trois ans ..
+Social origin: Noble..
+Ecclesiastical positions held: Supplique pour un canonicat avec expectative de prébende ou un office à la cathédrale d'Evreux en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/02/2021).

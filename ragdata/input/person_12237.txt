@@ -1,0 +1,12 @@
+PERSON: GALTERIUS de Knolle
+Also known as: Walter de KNOLLE.
+Description: Franciscain.
+Status: Extérieur.
+Gender: male.
+Active during: %1272-1307%.
+Born in: Angleterre..
+Studied at: Oxford ;; Cambridge..
+Academic grades obtained: Docteur en théologie (Oxford) %1287-1288% ?.
+Religious order: O.F.M. : frère franciscain du couvent d'Oxford ;.
+University functions: Oxford (couvent franciscain : 19e lecteur %1288-1289%) ;; Cambridge (couvent franciscain : 23e lecteur, %1291-1293%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 10/11/2021..

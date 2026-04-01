@@ -1,0 +1,12 @@
+PERSON: NICOLAUS de Lauduno 1
+Also known as: Nicolaus de LAUDUNO.
+Description: Clerc.
+Status: Extérieur.
+Gender: male.
+Active during: %1259-1259%.
+Born in: Picardie (Laon) ?.
+Diocese of origin: Diocèse de Laaon ?.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical status: Clerc..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 31/03/2021)..

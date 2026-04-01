@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Auchoire
+Also known as: Guillelmus de AUCHOIRE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1288-1288%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) ..
+University functions: Paris (Université : il est l’un des quatre maître ès arts taxateurs des maisons en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 29/03/2020..

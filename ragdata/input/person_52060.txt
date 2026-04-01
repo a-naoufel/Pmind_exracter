@@ -1,0 +1,13 @@
+PERSON: OLIVERIUS de La Belleroche
+Also known as: Olivier de LA BELLEROCHE.
+Description: Chapelain du Collège de Coronuaille.
+Status: Étudiant.
+Gender: male.
+Active during: %1486-1486%.
+Diocese of origin: Bretagne ?.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Étudiant ?.
+College affiliation: Collège de Cornouailles : procureur en ;; Collège de Cornouailles : chapelain en ;.
+Ecclesiastical status: Prêtre..
+Ecclesiastical positions held: Chapelain du Collège de Cornouailles..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 3/03/2021..

@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Anglicus 8
+Also known as: Guillelmus ANGLICI.
+Description: Nonce pour le diocèse de Sens.
+Status: Suppôt.
+Gender: male.
+Active during: %1446-1449%.
+Diocese of origin: Diocèse de Paris..
+Studied at: Paris (Nation de France) %1446-1449%..
+University functions: Paris (Nation de France : Nonce pour le diocèse de Sens en ) ;; Paris (Nation de France : Nonce pour le diocèse de Sens en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 05/07/2023)..

@@ -1,0 +1,9 @@
+PERSON: RALBATO de Branchberg
+Also known as: Ralbatto de BRANCHBERG; Rabbatto de BRANCHBERG.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris (Nation Anglo-allemande ?) en ..
+Academic grades obtained: Étudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 16-11-2019..

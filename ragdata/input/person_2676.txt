@@ -1,0 +1,10 @@
+PERSON: GALFREDUS de Mortone
+Also known as: Geoffrey de MORTONE.
+Description: Magister.
+Status: Extérieur.
+Gender: male.
+Active during: %1221-1227%.
+Born in: Angleterre..
+Studied at: Oxford..
+Academic grades obtained: Magister.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe GENET, 8/10/2021..

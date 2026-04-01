@@ -1,0 +1,11 @@
+PERSON: STEPHANUS Regnardi
+Also known as: Stephanus REGNARDI.
+Description: Bachelier en décret.
+Status: Maître.
+Gender: male.
+Active during: %1429-1429%.
+Born in: ComtédeBourgogne ?.
+Diocese of origin: Diocèse de Besançon ;.
+Studied at: Paris (Nation de France) en ..
+Academic grades obtained: Maître ès arts (Paris ?) ;; Bachelier en décret (Paris) (10 mars) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 15/05/2025..

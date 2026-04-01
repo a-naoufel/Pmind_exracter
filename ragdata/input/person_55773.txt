@@ -1,0 +1,11 @@
+PERSON: SIMON Morhier
+Also known as: Simon MORBIER.
+Description: Garde de la prévôté de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1427-1430%.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son fils est ;.
+Social origin: Noble ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

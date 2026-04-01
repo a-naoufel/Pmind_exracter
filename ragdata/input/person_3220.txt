@@ -1,0 +1,9 @@
+PERSON: GODEFRIDUS de Belieme
+Also known as: Godefridus de BELIEME; Godefridus de BLIENNE.
+Description: Maître ès art.
+Status: Maître.
+Gender: male.
+Active during: %1385-1385%..
+Studied at: Paris ..
+Academic grades obtained: Maître ès art (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 17/01/2022..

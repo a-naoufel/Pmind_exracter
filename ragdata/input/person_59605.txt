@@ -1,0 +1,10 @@
+PERSON: STEPHANUS Boynetus
+Also known as: Stephanus BOYNETUS.
+Description: Moine de Saint-Laumer de Luisant.
+Status: Extérieur.
+Gender: male.
+Active during: %1358-1358%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.S.B. ? Moine du prieuré de Luisant (Saint-Laumer) au diocèse de Chartres ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

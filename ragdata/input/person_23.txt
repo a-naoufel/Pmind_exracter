@@ -1,0 +1,10 @@
+PERSON: ADAM Anglicus
+Also known as: Adamus ANGLICUS.
+Description: Scholaris Parisiensis.
+Status: Étudiant.
+Gender: male.
+Active during: %1277-1277%.
+Born in: ?Angleterre..
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019)..

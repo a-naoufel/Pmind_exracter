@@ -1,0 +1,12 @@
+PERSON: MAURITIUS Picard
+Also known as: Mauritius PICARD.
+Description: Dominicain.
+Status: Gradué.
+Gender: male.
+Active during: %1438-1438%.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en théologie (Paris) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins) en %1437-1438% ?.
+Religious order: O.P. : frère dominicain..
+University functions: Paris (Faculté de Théologie : lecteur des Sentences en au couvent dominicain) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/03/2021)..

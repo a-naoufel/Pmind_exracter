@@ -1,0 +1,10 @@
+PERSON: RICARDUS de Merite
+Also known as: Richard de MERITE.
+Description: Maître ès art et notaire.
+Status: Maître.
+Gender: male.
+Active during: %1440-1440%.
+Born in: Flandres ?.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) .; Etudiant en décret (Paris) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 21/06/2024..

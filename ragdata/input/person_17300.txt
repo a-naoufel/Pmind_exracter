@@ -1,0 +1,12 @@
+PERSON: BERNARDUS de Casasiaga
+Also known as: Bernardus de CASASIAGA.
+Description: Doyen de Barcelone.
+Status: Étudiant.
+Gender: male.
+Active during: %1437-1442%.
+Diocese of origin: Péninsule ibérique : Catalogne..
+Studied at: Paris %1437-1442% ?.
+Academic grades obtained: Magister.; Étudiant en théologie..
+College affiliation: Collège de Sorbonne, hospes %1437-1442%..
+Ecclesiastical positions held: Doyen de Barcelone ?.
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ (Rédaction Jean-Philippe Genet, dernière mise à jour 23/01/2021)..

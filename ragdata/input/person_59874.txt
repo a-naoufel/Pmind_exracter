@@ -1,0 +1,7 @@
+PERSON: REGINALDUS Moreau
+Also known as: Reginaldus MOREAU.
+Description: Apothicaire.
+Status: Extérieur.
+Gender: male.
+Active during: %1505-1510%.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

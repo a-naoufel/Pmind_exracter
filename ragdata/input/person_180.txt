@@ -1,0 +1,9 @@
+PERSON: AEGIDIUS Hervey
+Also known as: Aegidius HERVEY; Aegidius HERVEI.
+Description: Magister..
+Status: Maître.
+Gender: male.
+Active during: %1447-1447%.
+Studied at: Paris (Nation Anglo-allemande) ?.
+Academic grades obtained: Maître ès arts (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 05/05/2020)..

@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Principis
+Also known as: Guillelmus PRINCIPIS.
+Description: Nuncius.
+Status: Suppôt.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+University functions: Paris (Université : Nuncius en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 27/05/2022..

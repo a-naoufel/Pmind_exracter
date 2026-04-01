@@ -1,0 +1,10 @@
+PERSON: CONRADUS 4
+Also known as: CONRALDUS.
+Description: Serviens de la Nation Anglo-allemande.
+Status: Suppôt.
+Gender: male.
+Active during: %1333-1333%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: ?.
+University functions: Paris (Nation Anglo-allemande : serviens principalis en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 22/04/2021..

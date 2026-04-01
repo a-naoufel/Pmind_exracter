@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Senonis 2
+Also known as: Guillaume de SENS; Guillelmus de SENONIS.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1263-1263%.
+Born in: Bourgogne (Sens ?) ?.
+Diocese of origin: Diocèse de Sens ?.
+Studied at: ?Paris..
+Academic grades obtained: Magister ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/04/2021..

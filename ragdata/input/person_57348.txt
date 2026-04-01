@@ -1,0 +1,11 @@
+PERSON: THOMAS Robert
+Also known as: Thomas ROBERT.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1451-1456%.
+Studied at: Paris..
+Academic grades obtained: ?.
+Family relationships: Son beau-père est Guillelmus DIVITIS, procureur de l’université au Châtelet de Paris ;.
+University functions: Paris (Université : libraire en 1451%) ;; Paris (Université : l'un des quatre grands libraires en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/01/2024..

@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Aignan
+Also known as: Guillaume d'AIGNAN.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1291-1315%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant à Paris en ?; Magister.
+College affiliation: Couvent (domincain) de Paris (Jacobins) ;.
+Religious order: O.P. : frère (dominicain) du couvent (dominicain) de Toulouse.; Provincial (dominicain) de Toulouse..
+University functions: Rieux (couvent dominicain : lecteur en théologie )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019)..

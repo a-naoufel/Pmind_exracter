@@ -1,0 +1,11 @@
+PERSON: PETRUS Bequillardi 2
+Also known as: Pierre BEQUILLART.
+Description: Hôte du collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1425-1427%.
+Studied at: Paris %1425-1427%..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dormans-Beauvais : hôte en %1424-1435% ;; Collège de LaMarche en ?.
+Family relationships: Son parent est Pierre BEQUILLART, chapelain du Collège de Dormans-Beauvais en %1423-1431% ; Son parent est Jean BEQUILLART, martinet du Collège de Dormans-Beauvais en %1431-1435% ; Son parent est Nicolas BEQUILLART, martinet du Collège de Dormans-Beauvais en %1434-1438% ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

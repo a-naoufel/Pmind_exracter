@@ -1,0 +1,12 @@
+PERSON: GERARDUS de Molendino de Ludersen
+Also known as: Gerardus de LUDERSEN de Molendino; Gerardus de MOLENDINO de Ludersen; Gerardus de MOLENDINO; Gherardus de SAXSONIA; Geverhardus de SAXONIA.
+Description: Maître ès art.
+Status: Maître.
+Gender: male.
+Active during: %1351-1371%.
+Born in: Saxe ?.
+Studied at: Paris (Nation Anglo-allemande) %1351-1371%.
+Academic grades obtained: Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Henricus de MYNDA pour la licence en et la maîtrise en ; Son élève est Ulricus KELLER pour le baccalauréat en ;.
+University functions: Paris (Nation Anglo-allemande : maître-régent en ) ;; Paris (Nation Anglo-allemande : il demande en à figurer sur le rotulus de la nation, bien qu'absent, ce qui lui est accordé) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 8/01/2021.

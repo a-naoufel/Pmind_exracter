@@ -1,0 +1,16 @@
+PERSON: GUILLELMUS Carpentarii 3
+Also known as: Guillelmus CARPENTARII; Guillermus LE CARPENTIER.
+Description: Chanoine de Rouen.
+Status: Maître.
+Gender: male.
+Active during: %1387-1422%.
+Born in: Normandie (Rouen) ;.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris (Nation de Normandie) %:1387-1410%..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en théologie en ;; Étudiant en théologie en cinquième année ;; Bachelier en théologie (Paris) ;.
+College affiliation: Sorbonne : socius..
+Social origin: Bourgeoisie rouennaise ;.
+Ecclesiastical status: Clerc du diocèse de Rouen..
+Ecclesiastical positions held: Provision pour un bénéfice de l'abbesse et du couvent du monastère de Rouen (Saint-Amand) en en réponse au rotulus de la Nation de Normandie en :; Chanoine de Rouen %1410-1422% ;.
+Representation roles: Procureur de l'Université de Paris au Concile de Pise en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 14/11/2019..

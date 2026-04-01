@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS Morin 1
+Also known as: Guillermus MORIN.
+Description: Chanoine du Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1268-1284%.
+Born in: Anjou-Maine ;.
+Diocese of origin: Diocèse de LeMans ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Noble ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de LeMans %1268-1283% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 05/07/2023)..

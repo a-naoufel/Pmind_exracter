@@ -1,0 +1,10 @@
+PERSON: HIERONYMUS de Mathas
+Also known as: Hieronymus de MATHAS; Jérôme de MATHAS.
+Description: Boursier grammairien au collège de Navarre..
+Status: Étudiant.
+Gender: male.
+Active during: %1342-1342%.
+Studied at: Paris (Collège de Navarre) %1342-1342%..
+Academic grades obtained: Étudiant en grammaire (Paris) ..
+College affiliation: Collège de Navarre : Boursier grammairien en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 25/08/2022)..

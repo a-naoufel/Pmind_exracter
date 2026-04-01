@@ -1,0 +1,10 @@
+PERSON: PHILIPPUS Laurentii
+Also known as: Philippe LAURENS; Philippus LAURENTII.
+Description: Etudiant en médecine..
+Status: Gradué.
+Gender: male.
+Active during: %1495-1500%.
+Studied at: Paris %1495-1498% ;; Montpellier %1500-1500%..
+Academic grades obtained: Étudiant en médecine (Paris) %1495-1496% ;; ?Bachelier en médecine (Paris) ..
+University functions: Professeur de médecine à l'Université de Montpellier en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 5/05/2024..

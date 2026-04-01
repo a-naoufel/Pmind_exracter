@@ -1,0 +1,10 @@
+PERSON: BARTHOLOMAEUS Berk
+Also known as: Bartholomeus BERK; Bartholomeus de CAMPIS; Bartholomeus BERKA; Bartholomeus KAMP de Weckberck.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1485-1491%.
+Born in: Luxembourg (Weckbecker) ?.
+Diocese of origin: Diocèse de Liège..
+Studied at: Cologne ;; Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Cologne) ;; Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) .; Maître ès arts (Paris) ..

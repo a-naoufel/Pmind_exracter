@@ -1,0 +1,15 @@
+PERSON: HUGO Michaelis de Bisuncio
+Also known as: Hugo de BISUNCIO; Hugues de BESANCON; Hugo MICHAELIS; Hugo de BESUNCIO; Hugo de BYSUNTIO.
+Description: Évêque de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1298-1332%.
+Born in: Comté de Bourgogne ?.
+Diocese of origin: Diocèse de Besançon ?.
+Studied at: Paris..
+Academic grades obtained: Docteur en décret (Paris ?) dès ;.
+Family relationships: Son père est Odin MICHEL, citoyen de Besançon ;.
+Ecclesiastical status: Clerc du diocèse de Besançon ?.
+Ecclesiastical positions held: Chanoine de Laon ;; Chanoine de Dole ?; Chanoine de Paris (Notre-Dame) ;; Chantre de Paris %1313-1326% ;; Archidiacre de Brie en la cathédrale de Paris ;; Chanoine de Besançon %1319-1320% ;; Évêque de Paris %1326-1332% ;.
+University functions: Paris (Faculté de Décret : "professor" et maître-régent en ) ;; Paris (Utriusque juris professor en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/04/2022)..

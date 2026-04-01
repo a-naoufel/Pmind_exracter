@@ -1,0 +1,9 @@
+PERSON: ODO Ferrant
+Also known as: Odo FERRANT.
+Description: Portier.
+Status: Suppôt.
+Gender: male.
+Active during: %1433-1433%.
+Studied at: Paris..
+College affiliation: Suppôt de la Sorbonne : portier ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 8/05/2018)..

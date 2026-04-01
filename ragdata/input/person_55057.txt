@@ -1,0 +1,12 @@
+PERSON: X Le Maistre
+Also known as: LEMAISTRE.
+Description: Chancelier de Sainte-Geneviève.
+Status: Maître.
+Gender: male.
+Active during: %1448-1448%.
+Studied at: Paris..
+Academic grades obtained: Maître ?.
+Family relationships: Son frère est Johannes LE MAISTRE, nonce pour le diocèse de Meaux ;.
+Religious order: O.S.A. : chanoine (victorin) de Sainte-Geneviève ;.
+Religious functions: Chancelier de Sainte-Geneviève en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/01/2023..

@@ -1,0 +1,12 @@
+PERSON: ALBERICUS de Metis
+Also known as: Albericus de METIS.
+Description: Archidiacre de Metz.
+Status: Incertain.
+Gender: male.
+Active during: %1321-1355%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre..
+Ecclesiastical positions held: Chanoine de Metz %1321-1355% ;; Archidiacre de Metz %1321-1355% ;; Chanoine de Reims %1331-1355% ;.
+University functions: Professeur in utroque jure ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 22/06/2020)..

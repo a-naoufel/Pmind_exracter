@@ -1,0 +1,37 @@
+PERSON: RICARDUS Rufus Corbubiensis
+Also known as: Ricardus RUFUS; Ricardus CORNUBIENSIS; Richard RUFUS de Cornouailles.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1229-1256%.
+Born in: Angleterre (Cornouailles) ?.
+Diocese of origin: Diocèse d’Exeter ?.
+Studied at: Paris et ;; Oxford %1229-1229:%..
+Academic grades obtained: Magister (Paris) avant ;; Étudiant en théologie (Paris) avant puis après .; Étudiant en théologie (Oxford) %1250-1253% après être devenu franciscain ;; Maître en théologie (Oxford) ?; Étudiant en théologie (Paris) %1253-1256%..
+Religious order: O.F.M. : frère franciscain, ..
+University functions: Oxford (Maître-régent en ) ;; Oxford (Lecteur des sentences en %1252-1253%) ;; Paris (Lecteur des sentences en %1253-1256% en collaboration avec BONAVENTURE) ;; Oxford (Faculté de Théologie : 5e lecteur en théologie du couvent (franciscain) d’Oxford après ) ;.
+Authored work: 'In Sent. I-III', composed around %1250-1253% à Oxford..
+Authored work: 'Abbreviatio Commentarii in I-IV Sent. Bonaventurae', composed around %1253-1256% à Paris..
+Authored work: 'De Deo', composed around %1240-1245%..
+Authored work: 'Miserabilis est humana conditio', composed around %1240-1245%..
+Authored work: 'Speculum animae', composed around %1245-1246%..
+Authored work: 'Sermones de Sanctis', composed around ?.
+Authored work: 'Commentarium in Analytica posteriora Aristotelis', composed around %1235-1236%..
+Authored work: 'De rationibus seminalibus', composed around %1234-1235%..
+Authored work: 'Quaestiones de ideis', composed around ?.
+Authored work: 'Memoriale quaestionum in Metaphysicam Aristotelis', composed around ..
+Authored work: 'Scriptum super Metaphysicam', composed around %1237-1238%..
+Authored work: 'Quaestiones disputatae (6)', composed around ?.
+Authored work: 'De speciebus intelligibilibus', composed around %1240-1245%..
+Authored work: 'De intellectu divino', composed around ..
+Authored work: 'Contra Averroem', composed around %1236-1237%..
+Authored work: 'De mutatione', composed around ..
+Authored work: 'De materia in angelis', composed around %1245-1250%..
+Authored work: 'Quaestiones disputatae', composed around Vers ..
+Authored work: 'Quaestio de Causa Individuationis', composed around ?.
+Authored work: 'Expositio libti De anima Aristotelis', composed around Avant probablement ;.
+Authored work: 'Commentarium in De generatione et corruptione Aristotelis', composed around ..
+Authored work: 'Super Physicam Aristotelis', composed around ?.
+Authored work: 'Que sit materia divinarum scripturarum', composed around ?.
+Authored work: 'Sermo', composed around ?.
+Source: Répertoire des auteurs franciscains préparé par Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress :.

@@ -1,0 +1,13 @@
+PERSON: HUETUS Eschart
+Also known as: Hue ESCHART.
+Description: Écolier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1384-1385%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris %1384-1385%..
+Academic grades obtained: Étudiant (Paris) %1384-1385%.
+College affiliation: Collège de Dormans-Beauvais : hôte %1384-1385% ;.
+Family relationships: Son père est Huges ESCHART ; Son frère est Jean ESCHART ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 22/11/2018..

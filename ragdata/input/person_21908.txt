@@ -1,0 +1,12 @@
+PERSON: GUIDO de Anagnia
+Also known as: Guido de ANAGNIA.
+Description: Chanoine de Paris.
+Status: Étudiant.
+Gender: male.
+Active during: %1296-1303%.
+Born in: Italie (Latium : Anagni ?)..
+Diocese of origin: Diocèse de Anagni ;.
+Studied at: ?.
+Academic grades obtained: Étudiant (Paris) en ;; Maître ;.
+Ecclesiastical positions held: Chanoine de Paris (Notre-Dame) %1296-1301% ;; Chanoine de Cambrai %1297-1303% ;; Chanoine d'Amiens %1297- % ;; Chanoine d'Arras %1297- % ;; Chanoine de Beauvais %1297- % ;; Chanoine d'Anagni %1297- %.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 31/12/2025..

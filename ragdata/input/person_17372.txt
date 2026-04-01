@@ -1,0 +1,11 @@
+PERSON: BERTALDUS Chevalet
+Also known as: Bertaudus CHEVALET.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1403-1403%.
+Diocese of origin: Diocèse de Senlis..
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en décret (Paris ?) en ..
+Ecclesiastical positions held: Candidat à un bénéfice ecclésiastique sur le rotulus de ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/02/2021)..

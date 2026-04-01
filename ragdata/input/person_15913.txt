@@ -1,0 +1,12 @@
+PERSON: HAIMERICUS Fabri
+Also known as: Aymericus FABRI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1378-1379%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie) %1378-1379%..
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier ès Lois ..
+Ecclesiastical status: Prêtre en ..
+Ecclesiastical positions held: Candidat à un bénéfice ecclésiastique à la collation de l'abbé et du couvent du monastère de Saint-Evroult dans le rotulus de la Nation de Normandie en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/06/2022)..

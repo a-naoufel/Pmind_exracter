@@ -1,0 +1,10 @@
+PERSON: VITALIS Bancelli
+Also known as: Vitalis BANCELLI.
+Description: Boursier en décret du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1514-1514%.
+Studied at: Paris.
+Academic grades obtained: Étudiant en décret (Paris) en ;.
+College affiliation: Collège d'Autun : boursier en décret ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 05/09/2024..

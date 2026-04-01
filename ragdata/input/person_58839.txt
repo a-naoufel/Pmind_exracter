@@ -1,0 +1,11 @@
+PERSON: THOMAS de Argentolio 1
+Also known as: Thomas de ARGENTOLIO.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1235-1235%.
+Born in: Île-de-France (Argenteuil ?) ;.
+Diocese of origin: Diocèse de Paris..
+Studied at: Paris ?.
+Academic grades obtained: Maître ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 07/05/2025)..

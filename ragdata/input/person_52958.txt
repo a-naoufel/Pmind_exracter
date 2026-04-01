@@ -1,0 +1,10 @@
+PERSON: PETRUS Germani
+Also known as: Petrus GERMANI ;.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1288-1288%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Rouen ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/11/2021..

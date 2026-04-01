@@ -1,0 +1,10 @@
+PERSON: ROBERTUS de Puteolis
+Also known as: Robertus de PUTEOLIS; Robert de PUISEUX; Robertus de PORTA.
+Description: Archidiacre du Vexin Français.
+Status: Incertain.
+Gender: male.
+Active during: %1263-1295%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Rouen %1263-1278% ;; Archidiacre du VexinFrançais ;; Chantre de Rouen %1291-1295% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 5/11/2021..

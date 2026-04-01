@@ -1,0 +1,63 @@
+PERSON: FAUSTUS Andrelinus
+Also known as: Fausto ANDRELINO.
+Description: Poète royal.
+Status: Maître.
+Gender: male.
+Active during: %1483-1519%.
+Born in: Italie (Forli)..
+Studied at: Bologne.; Paris..
+Academic grades obtained: Docteur en droit canon (Bologne) ..
+Academic relationships: Son maître à Rome est POMPONIUS LAETUS..
+Ecclesiastical positions held: Chanoine de Bayeux %1505-1519%..
+University functions: Paris (Enseignant des humanités en %1489-1490%) ;; Poitiers ;; Toulouse ;; Paris (professeur enseignant les humanités %1494-1519%) ;.
+Authored work: 'Ad candidos lectores', composed around ..
+Authored work: 'Fausti ad sanctam Eucharistiam Carmen', composed around ?.
+Authored work: 'Carmen de beata Vergine Christum crucifixum in gremio suo deflente carmen', composed around ?.
+Authored work: 'Tetrasticon ad beatam Virginem', composed around .
+Authored work: 'De eximiis laudibus theologorum praecipue Parhisiensiurn carmen', composed around .
+Authored work: 'De moralibus et intellectualibus virtutibus', composed around ?, dedicated to Dédié à Pierre de COUTHARDY et Guillaume BRICONNET..
+Authored work: 'Epistolae proverbiales et morales', composed around ..
+Authored work: 'Sententiae', composed around ..
+Authored work: 'Ecloga moralissima'.
+Authored work: 'Epistolarum conficiendarum viginti praecepta', composed around ?.
+Authored work: 'Ad Ludovicum Gonzagam', composed around ?, dedicated to Adressés à Ludovico GONZAGA, évêque de Mantoue..
+Authored work: 'De poetarum infelicitate', composed around ?.
+Authored work: 'Amores sive Livia', composed around ., dedicated to Dédié à Guillaume de ROCHEFORT, Chancelier de France..
+Authored work: 'Elegiae', composed around ?.
+Authored work: 'De fuga Balbi ex urbe Parisia', composed around ..
+Authored work: 'De influentia siderum et querela Parisiensis pavimenti', composed around ?.
+Authored work: 'Bucolica', composed around ..
+Authored work: 'Paolo Fregosio cardinali Januensi', composed around ?, dedicated to Adressé au Cardinal Paolo FREGOSIO, auparavant archevêque de Gênes, mort en qui était à Naples en et l’a accompagné à Rome en ..
+Authored work: 'De coetu poetarum', composed around ..
+Authored work: 'Fasti', composed around ..
+Authored work: 'Epistola Erasmo', composed around ?.
+Authored work: 'Tristia', composed around ..
+Authored work: 'Ignavo ocio laborem anteponendo', composed around ., dedicated to Adressé à Guy de ROCHEFORT, chancelier de France..
+Authored work: 'Deploratio de morte Petri Coardi', composed around ?.
+Authored work: 'Faustus universis scholasticis Parisiensibus Faustitatem', composed around ?.
+Authored work: 'Ecloga', composed around ?.
+Authored work: 'Hecatodistichon', composed around ..
+Authored work: 'Epigrammaton libellus', composed around ?.
+Authored work: 'De Scilorum arrogantia proberbialis liber', composed around ?.
+Authored work: 'In Gallicas Historias Carmen', composed around ..
+Authored work: 'Disticha in Eusebii Historiam Ecclesiasticam', composed around ..
+Authored work: 'De Neapolitana Fornoviensique victoria', composed around ., dedicated to Riposte au Trophaeum pro Gallis expulsis de Battista MANTOVANO..
+Authored work: 'Carmen panegyricum ad Carolum Francorum regem', composed around ?., dedicated to En l’honneur de CHARLES VIII, roi de France..
+Authored work: 'De obitu Caroli octavi deploratio', composed around ?, dedicated to Déploration en l’honneur de CHARLES VIII, roi de France..
+Authored work: 'De pacifica successione', composed around ?.
+Authored work: 'De Cancellarii ingressu in urbe Parrhisia', composed around ?.
+Authored work: 'De captivitate Ludovici Sphortiae', composed around ..
+Authored work: 'De Neapolitana victoria', composed around ..
+Authored work: 'De secunda victoria Neapolitana', composed around ?.
+Authored work: 'Carmen de expugnatione Genuensi', composed around ..
+Authored work: 'Epitaphia Sixti IV', composed around ?, dedicated to /Epitaphe de SIXTE IV est mort en , mais l’attribution est douteuse..
+Authored work: 'Epitaphia', composed around ?.
+Authored work: 'Epitaphium Guidonis Rupefortis', composed around ..
+Authored work: 'De regia in Genuenses victoria libri tres', composed around ..
+Authored work: 'Epistola in qua Anna gloriosissima Francorum regina exhortatur maritum regem Ludovicum duodecimum ut expectatum in Galliam adventum maturet posteaquam de prostratis a se Venetis triumphavit,', composed around ..
+Authored work: 'Epithalamium Fausti de Claudia regia et Francisco Valesiorum duce', composed around ..
+Authored work: 'In Annam Francorum reginam panegyricon', composed around ..
+Authored work: 'Praefationes duae, altera de vivente altera de mortua Anna Francorum regina', composed around ..
+Authored work: 'Epistolae Annae Reginae', composed around ?.
+Authored work: 'De luctu Anae finiendo', composed around ?.
+Source: DBI : http://www.treccani.it/enciclopedia/publio-fausto-andrelini_(Dizionario-Biografico)/.

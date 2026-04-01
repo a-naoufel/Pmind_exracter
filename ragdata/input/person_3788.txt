@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Carnificis 1
+Also known as: Guillelmus CARNIFICIS.
+Description: Habitant de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1312-1312%.
+Studied at: ?.
+Academic grades obtained: ?.
+Social origin: Commun, habitant de Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 3/03/2020..

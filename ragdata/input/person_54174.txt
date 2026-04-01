@@ -1,0 +1,10 @@
+PERSON: ROBERTUS de Luzarchis
+Also known as: Robertus de LUZARCHIS.
+Description: Prévôt de Saint-Étienne de Troyes.
+Status: Incertain.
+Gender: male.
+Active during: %1293-1309%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Recteur de Tonnerre (Hôpital) %1293-1298% ;; Chanoine de Sens ;; Chanoine de LeMans(Saint-Pierre de la Cour) ;; Prévôt de Troyes (Saint-Étienne) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 10/09/2022..

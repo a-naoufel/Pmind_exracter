@@ -1,0 +1,10 @@
+PERSON: GIRAUDUS 2
+Also known as: GIRAUDUS.
+Description: Doyen de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1231-1231%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Doyen de Paris (Notre-Dame) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 8/12/2021..

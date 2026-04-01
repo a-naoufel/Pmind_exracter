@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Senonis 1
+Also known as: Guillelmus de SENONIS.
+Description: Chanoine d'Amiens ?.
+Status: Maître.
+Gender: male.
+Active during: %1251-1254%.
+Born in: Bourgogne (Sens ?) ?.
+Diocese of origin: Diocèse de Sens ?.
+Studied at: Paris ?.
+Academic grades obtained: Magister (Paris) ?.
+Ecclesiastical positions held: Chanoine d'Amiens ;.
+University functions: Paris (Université : présent à la prestation du serment des universitaires et des citoyens de Paris en (19-24 juin) devant Blanche de CASTILLE, reine de France et régente pendant l'absence de LOUIS IX, roi de France) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/04/2021..

@@ -1,0 +1,22 @@
+PERSON: HENRICUS Zomeren
+Also known as: Henricus ZOMEREN; Henricus de SOMEREN; Henricus de ZEMEREN; Henri van ECHERBROECH.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1434-1472%.
+Born in: Pays-Bas (Brabant (Zomeren))..
+Diocese of origin: Diocèse d'Utrecht..
+Studied at: Louvain %1434-1472% ;; Paris %1451-1463%..
+Academic grades obtained: Étudiant ès arts (Paris) à partir de ;; Bachelier ès arts (Louvain) ;; Maître ès arts (Louvain) ;; Bachelier en théologie formatus (Louvain) ;; Licencié en théologie (Paris) (le 4 mars) ;; Docteur en théologie (Paris) (le 19 octobre) ..
+Ecclesiastical status: Clerc du diocèse d'Utrecht ;.
+Ecclesiastical positions held: Chanoine de Louvain en ..
+University functions: Louvain (Faculté des arts : lecteur en ) ;; Louvain (Université : secrétaire en ) ;; Paris (Faculté de théologie : Lecteur des Sentences en septembre ) ;; Louvain (Faculté de théologie : Ordinarius en ) ;; Paris (Faculté de théologie : Maîtrerégent en septembre ) ;; Louvain (Université : Recteur en ) ;; Louvain (Faculté de théologie : Professeur jusqu'à la fin de ) ;.
+Representation roles: Chargé, en tant que secrétaire de l'Université de Louvain, de porter le rotulus de l'Université à Rome le 5 mars ..
+Authored work: 'Multiplices questiones super Quartum Sententiarum ex diversis doctoribus, scilicet Scoto et aliis doctoribus subtilibus', composed around ?.
+Authored work: 'Questio sollemniter disputata anno Domini 1462 in Universitate Parisiensi', composed around ..
+Authored work: 'Epithoma in prima parte Dialogi de haereticis a Guillelmo de Ockam', composed around ?, dedicated to Dédié au cardinal Jean BESSARION..
+Authored work: 'Tractatus adversus sententiam Petri de Rivo de futuris contingentibus', composed around %1470-1473% ?.
+Authored work: 'Propositiones Petri de Rivo per Henricum Zoemeren collectae', composed around ?.
+Authored work: 'Epistolarum liber', composed around ?.
+Authored work: 'Ex tractaculo de pensionibus vitalibus', composed around ?.
+Source: MIRABILE : Rino MODONUTTI :.

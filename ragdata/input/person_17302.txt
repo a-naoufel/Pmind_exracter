@@ -1,0 +1,12 @@
+PERSON: BUSSARDUS de Gandavo
+Also known as: Bussardus de GANDAVO.
+Description: Régulier.
+Status: Étudiant.
+Gender: male.
+Active during: %1448-1448%.
+Born in: Flandres ?.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant en théologie..
+College affiliation: Collège de Sorbonne, hospes ..
+Religious order: Régulier..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 27/03/2021)..

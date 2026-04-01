@@ -1,0 +1,12 @@
+PERSON: AMADEUS Piloti
+Also known as: Amedeus PILOTI.
+Description: Bachelier en droit canon.
+Status: Gradué.
+Gender: male.
+Active during: %1478-1478%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse d'Autun ;.
+Studied at: Paris %1478-1478%..
+Academic grades obtained: Bachelier en décret (Paris) 1er avril (1er avril)..
+Ecclesiastical status: Clerc du diocèse d'Autun..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; Jean-Philippe Genet, dernière mise à jour 17/07/2020)..

@@ -1,0 +1,18 @@
+PERSON: GUILLELMUS de Rubione
+Also known as: Guillelmus RUBIO; Guillelmus de RUBIONE.
+Description: O.F.M..
+Status: Étudiant.
+Gender: male.
+Active during: %1290-1333%.
+Born in: Catalogne (Villafranca-del-Pénédès ?) ;.
+Studied at: Paris %1315-1325%..
+Academic grades obtained: Étudiant en théologie (Paris) ?.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) %1315-1325%..
+Religious order: O.F.M. : frère franciscain..
+Religious functions: Ministreprovincial (franciscain) d’Aragon ..
+Authored work: 'In I-IV Sent.', composed around ..
+Authored work: 'Quodlibeta 2', composed around ?.
+Authored work: 'Arca theologiae', composed around ?.
+Authored work: 'Reportationes lectionum Francisci de Marchia super quattuor libros Sententiarum', composed around .
+Authored work: 'Tractatus de universalibus', composed around ?.
+Source: Franciscan authors (B. ROEST) :.

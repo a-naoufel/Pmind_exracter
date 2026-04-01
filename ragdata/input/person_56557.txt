@@ -1,0 +1,9 @@
+PERSON: MARTINUS Guignon
+Also known as: Martin GUIGNON.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1456-1456%.
+Studied at: Paris..
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/09/2023)..

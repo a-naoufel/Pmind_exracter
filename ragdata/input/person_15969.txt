@@ -1,0 +1,12 @@
+PERSON: DIONYSIUS de Villeta
+Also known as: Dyonisius de VILLETA.
+Description: Bachelier en décret..
+Status: Maître.
+Gender: male.
+Active during: %1433-1435%.
+Born in: Orléanais (Chartres)..
+Diocese of origin: Diocèse de Chartres ?.
+Studied at: Paris (Nation de France) %1433-1435%..
+Academic grades obtained: Maître ès arts (?Paris) ;; Bachelier en décret (Paris) (le 29 octobre) ..
+University functions: Lecteur des Décrétales à Paris le 5 janvier ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ rédaction, Anne Tournieroux ; Jean-Philippe Genet, dernière mise à jour 28/05/2021..

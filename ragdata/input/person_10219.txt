@@ -1,0 +1,8 @@
+PERSON: PETRUS de Yncausto
+Also known as: Petrus de YNCAUSTO; Petrus de INCLAUSTRO ;; Pierre de L'ENCLOISTRE ;.
+Description: Propriétaire d'une maison.
+Status: Incertain.
+Gender: male.
+Active during: %1288-1288%.
+Studied at: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/03/2024..

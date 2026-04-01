@@ -1,0 +1,12 @@
+PERSON: PHILIPPUS de Harveng
+Also known as: Philippus de HARVENG.
+Description: Abbé prémontré de Bonne-Espérance.
+Status: Étudiant.
+Gender: male.
+Active during: %1120-1183%.
+Born in: Hainaut (Mons : Harveng) ;.
+Diocese of origin: Diocèse de Cambrai ?.
+Studied at: Étudiant (Paris) ?.
+Academic grades obtained: Maître ?.
+Religious order: O.Praem. : chanoine (Prémontré) de Bonne-Espérance ;.
+Religious functions: O.Praem. : abbé (Prémontré) de Bonne-Espérance %1157-1182% ;.

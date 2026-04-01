@@ -1,0 +1,10 @@
+PERSON: ARMANDUS du Puy
+Also known as: Armand du PUY.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1266-1272%.
+Studied at: ?.
+Religious order: O.P. : frère dominicain..
+University functions: Bordeaux (Lecteur en Natural. en ) ;; Orthez (Lecteur en Théologie en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 16/10/2020..

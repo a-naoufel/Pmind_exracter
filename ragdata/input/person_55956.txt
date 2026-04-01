@@ -1,0 +1,11 @@
+PERSON: ADAM Cochard
+Also known as: Adam COCHARD.
+Description: Chanoine de Troyes.
+Status: Incertain.
+Gender: male.
+Active during: %1469-1492%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts..
+Ecclesiastical status: Prêtre ;; Curé de Troyes (Saint-Nizier) ;; Curé de Troyes (Saint-Rémy) %1470-1485% ;.
+Ecclesiastical positions held: Chanoine de Troyes %1475-1492% ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 13/05/2020)..

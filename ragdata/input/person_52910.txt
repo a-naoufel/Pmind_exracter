@@ -1,0 +1,11 @@
+PERSON: ROBERTUS de Asneriis 1
+Also known as: Robertus de ASNIERES.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1292-1302%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son parent est peut-être Guillaume d’ASNIERES, évêque de Lisieux ?.
+Ecclesiastical positions held: Chanoine de Rouen %1292-1302% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 6/11/2021..

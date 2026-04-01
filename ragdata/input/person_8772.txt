@@ -1,0 +1,11 @@
+PERSON: LUNNUS Clerici
+Also known as: Lunnus CLERICI; Livinus CLERICI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1362-1362%.
+Diocese of origin: Diocèse de Tournai..
+Studied at: Paris (Nation de Picardie) avant ;; Montpellier %1362-1362%..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Bachelier en médecine (Montpellier) ..
+Ecclesiastical positions held: Clerc du diocèse de Tournai..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 06/09/2023..

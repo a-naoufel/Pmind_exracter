@@ -1,0 +1,21 @@
+PERSON: HUGO de Castello
+Also known as: Hugues de CASTELLO.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1318-1358%.
+Born in: Italie (Toscane : CivitateCastelli) ?.
+Diocese of origin: Diocèse de Sienne ?.
+Studied at: Paris ;; Florence ;; Pérouse ..
+Academic grades obtained: Étudiant (Paris) %1332-1337%..
+College affiliation: Couvent (dominicain) de Paris (Jacobins) ;.
+Religious order: O.P. ; frère dominicain du couvent (dominicain) de Sienne %1318-1319%..
+Religious functions: Prédicateur-général (dominicain) de Todi ..
+Ecclesiastical positions held: Évêque de Philadelphie ..
+University functions: Todi (lecteur ) ;; Pise (lecteur )..
+Authored work: 'Tract. super librum de Sphera mundi', composed around (commençé à Paris, achevé à Florence)..
+Authored work: 'Tract. Ugonis de Castello de eclipsibus', composed around (août)..
+Authored work: 'Commentum super Theorica planetarum sec. fr. Ugonem episc. Philadelphye ord. fr. pred.', composed around ?.
+Authored work: 'Theorica latitudinis trium superiorum planetarum', composed around ?.
+Authored work: 'Tractatus de diebus criticis', composed around à Pérouse..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 6/10/2020..

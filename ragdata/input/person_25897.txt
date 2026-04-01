@@ -1,0 +1,11 @@
+PERSON: RAIMUNDUS Chamar
+Also known as: Raymundus CHAMAR.
+Description: Carme.
+Status: Étudiant.
+Gender: male.
+Active during: %1383-1386%.
+Studied at: Paris..
+Academic grades obtained: Étudiant en théologie (Paris) ?.
+College affiliation: Couvent des Carmes en ;.
+Religious order: O.Carm. : frère carme..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 19/10/2023)..

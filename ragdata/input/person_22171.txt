@@ -1,0 +1,88 @@
+PERSON: GALTERIUS de Castellione
+Also known as: Galterus de CASTELLIONE; Galterus de INSULA; Gautier de CHÂTILLON; Gautier de LILLE.
+Description: Chanoine de Reims.
+Status: Étudiant.
+Gender: male.
+Active during: %1160-1180%.
+Born in: Flandres (Roncq, près de Lille) ;.
+Diocese of origin: Diocèse de Tournai..
+Studied at: Ecolecathédrale de Reims ;; Paris ;; Bologne %1164-1165%..
+Academic grades obtained: Étudiant (Paris) ?; Étudiant en droit (Bologne)..
+Academic relationships: Son maître à Reims puis à Paris où il semble l’avoir suivi est Étienne de BEAUVAIS ;.
+Ecclesiastical positions held: Chanoine de Reims ?; Chanoine de Beauvais ?; Chanoine de Amiens ?; Chanoine d’Orléans ?.
+University functions: Laon (Ecole cathédrale : enseignant)..
+Authored work: 'Contra Judaeos', composed around ?.
+Authored work: 'Moralium dogma philosophorum', composed around ..
+Authored work: '(Poème 1)', composed around ?.
+Authored work: '(Poème 2)', composed around ?.
+Authored work: '(Poème 3)', composed around ?.
+Authored work: '(Poème 4)', composed around ?.
+Authored work: '(Poème 5)', composed around ?.
+Authored work: '(Poème 6)', composed around ?.
+Authored work: '(Poème 7)', composed around ?.
+Authored work: '(Poème 8)', composed around ?.
+Authored work: '(Poème 9)', composed around ?.
+Authored work: '(Poème 10)', composed around ?.
+Authored work: '(Poème 11)', composed around ?.
+Authored work: '(Poème 12)', composed around ?.
+Authored work: '(Poème 13)', composed around ?.
+Authored work: '(Poème 14)', composed around ?.
+Authored work: '(Poème 15)', composed around ?.
+Authored work: '(Poème 16)', composed around ..
+Authored work: '(Poème 17)', composed around ?.
+Authored work: '(Poème 18)', composed around ?.
+Authored work: '(Poème 19)', composed around ?.
+Authored work: '(Poème 20)', composed around ?.
+Authored work: '(Poème 21)', composed around ?.
+Authored work: '(Poème 22)', composed around ?.
+Authored work: '(Poème 23)', composed around ?.
+Authored work: '(Poème 24)', composed around ..
+Authored work: '(Poème 25)', composed around ?.
+Authored work: '(Poème 26)', composed around ?.
+Authored work: '(Poème 27)', composed around ?.
+Authored work: '(Poème 28)', composed around ?.
+Authored work: '(Poème 29)', composed around ?.
+Authored work: '(Poème 30)', composed around ..
+Authored work: '(Poème 31)', composed around ?.
+Authored work: '(Poème 32)', composed around ?.
+Authored work: '(Poème 33)', composed around ?.
+Authored work: '(Poème 34 [Christmas Hymn])', composed around ?.
+Authored work: '(Poème 35)', composed around ? pour performance à la fête de la Circoncision..
+Authored work: '(Poème 36)', composed around ? pour performance à la fête de la Circoncision..
+Authored work: '(Poème 37 [Contre les vices des prélats])', composed around ?.
+Authored work: '(Poème 38)', composed around ?.
+Authored work: '(Poème 39 [Sur la corruption de la justice])', composed around ?.
+Authored work: '(Poème 40 [Poème pour la Fête des Fous ?])', composed around ?.
+Authored work: '(Poème 41 [Poème pour la remise du baculus le 1er janvier])', composed around ?.
+Authored work: '(Poème 42 [W. MÜLDENER, 1. De statibus mundi : poème pour la Fête des Fous ?])', composed around ?.
+Authored work: '(Poème 43 [Poème pour la remise du baculus le 1er janvier])', composed around ?.
+Authored work: '(Poème 44)', composed around ?.
+Authored work: '(Poème 45)', composed around ?.
+Authored work: '(Poème 46 [W. MÜLDENER, 6. Contra statum ecclesiae depravatum : lamentation de l’Eglise])', composed around à Troyes, en tous cas avant le concile de Tours en (Mai) : l’attitude ambivalente de Gautier de CHÂTILLON s’explique parce que son patron, HENRI le Libéral, comte de Champagne veut ménager ses voisins impériaux en évitant de s’engager trop contre VICTOR IV alors que tous les princes français sont favorables à ALEXANDRE III..
+Authored work: '(Poème 47)', composed around ? Attaque contre MANASSÈS, évêque d’Orléans..
+Authored work: '(Poème 48 [Célébration du baculum, poème pour la Fête des Fous])', composed around ?.
+Authored work: '(Poème 49)', composed around %1161-1164% pour performance à Troyes à la cour de HENRI le Libéral, comte de Champagne ;.
+Authored work: '(Poème 50)', composed around %1161-1162% à Troyes..
+Authored work: '(Poème 51)', composed around ?.
+Authored work: '(Poème 52)', composed around ., après mai : performance à Besançon avant que le poète soit arrivé à Bologne ;.
+Authored work: '(Poème 53)', composed around %1164-1166% à Bologna..
+Authored work: '(Poème 54)', composed around %1164-1166% à Bologna..
+Authored work: '(Poème 55 [W. MÜLDENER, 8. Domino Papae ; version remanié et plus longue du poème 45])', composed around %1166-1167% à Rome..
+Authored work: '(Poème 56)', composed around %1167-1169% : attaque contre le Pape et la Curie..
+Authored work: '(Poème 57)', composed around ..
+Authored work: '(Poème 58 [W. MÜLDENER, 7. De adventu Antichristi])', composed around %1171-1173%..
+Authored work: '(Poème 59 [W. MÜLDENER, 2. Super statibus ecclesiasticarum personarum])', composed around %1171-1175% à Trêves..
+Authored work: '(Poème 60 [W. MÜLDENER, 3. Contra ecclesiasticos prelatos])', composed around %1174-1176%..
+Authored work: '(Poème 61 : un prosimetron, car le stance 2 est en prose)', composed around %1176-1177%..
+Authored work: '(Prosimetron)', composed around .
+Authored work: '(Poème 63)', composed around %1179-1180%..
+Authored work: '(Poème 64)', composed around %1179-1180%..
+Authored work: '(Poème 65)', composed around ?.
+Authored work: '(Poème 66)', composed around ?.
+Authored work: '(Poème 67 [W. MÜLDENER, 10. Oratio "Miserere mei deum" rhytmice composita])', composed around ?.
+Authored work: '(Poème composite)', composed around ?.
+Authored work: 'Alexandreis', composed around : écrit en cinq ans., dedicated to Dédié à GUILLAUME aux BlanchesMains, archevêque de Reims..
+Authored work: 'Vita rythmica Sancti Thomae', composed around %1172-1173%..
+Authored work: 'Vita rythmica Sancti Alexii', composed around ?.
+Authored work: 'Vita rythmica Sancti Brandani', composed around ?.
+Source: ARLIMA (Laurent BRUN) :.

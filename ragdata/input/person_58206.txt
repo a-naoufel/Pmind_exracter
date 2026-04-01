@@ -1,0 +1,9 @@
+PERSON: PETRUS Cyrau
+Also known as: Petrus CYRAU.
+Description: Nonce pour le diocèse de Esztergom.
+Status: Suppôt.
+Gender: male.
+Active during: %1507-1507%.
+Studied at: Paris (Nation Anglo-allemande)..
+University functions: Paris (Nation Anglo-allemande : nonce pour le diocèse de Esztergom ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour, 08/11/2024..

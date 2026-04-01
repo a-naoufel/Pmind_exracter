@@ -1,0 +1,9 @@
+PERSON: NICOLAUS Masculi
+Also known as: Nicolaus MASCULI; Nicolas LEMASLE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1440-1445%.
+Academic grades obtained: Maître ès arts (Paris) ?.
+College affiliation: Collège de Lisieux ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 25/11/2020)..

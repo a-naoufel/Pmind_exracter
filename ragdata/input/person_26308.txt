@@ -1,0 +1,13 @@
+PERSON: PETRUS de Ons
+Also known as: Petrus de ONS.
+Description: Archidiacre du Grand-Caux.
+Status: Maître.
+Gender: male.
+Active during: %1252-1266%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Beauvais ?.
+Studied at: ?Paris.
+Academic grades obtained: Maître (Paris) ;.
+Ecclesiastical positions held: Chanoine de Rouen %1253-1255% ;; Archidiacre du Grand-Caux %1256-1266% ;; Doyen de Valmont ;.
+Other ecclesiastical functions: Official de Rouen %1252-1255% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 13/11/2021..

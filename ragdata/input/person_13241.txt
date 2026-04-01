@@ -1,0 +1,11 @@
+PERSON: GARINUS de Lotharingia
+Also known as: Guerinus de LOTHARINGIA; Quericus de LOTHARINGIA.
+Description: Licencié en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1408-1408%.
+Studied at: Paris %1408-1408%..
+Academic grades obtained: Licencié en théologie (Paris) (après le 1er octobre) ..
+College affiliation: Couvent (franciscain) de Paris ..
+Religious order: O.F.M. : frère franciscain..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/11/2021..

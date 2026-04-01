@@ -1,0 +1,22 @@
+PERSON: PETRUS Ad Boves
+Also known as: Petrus ad BOVES; Pierre Aux Boeufs; Pierre Auxboeufs.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1403-1425%.
+Studied at: Paris %1403-1422%.
+Academic grades obtained: Licencié en théologie (Paris) ;; Docteur en théologie (Paris) vers ;.
+Religious order: O.F.M. : frère franciscain..
+University functions: Paris (Facultédethéologie : Maîtrerégent en %1421-1422%) ;.
+Representation roles: Participe à l'assemblée du clergé convoquée pour mettre fin au Grand Schisme en où il prêche ;; Prêche le 27 mai à la Couture de Saint-Martin-des-Champs annoncant la décision du roi de rester neutre dans l'affaire du Grand Schisme ;; Participe au Concilium fidei Parisiis discutant la Justificatio entre décembre et début janvier ;; Présent lors du dicours donné par le chancelier royal au Parlement de Paris expliquant les raisons poussant le roi à ne pas soutenir la ville de Rouen en ;.
+Authored work: 'Sermones in celeberrimis Lutetiae Parisiensi eclesiis habiti', composed around ?.
+Authored work: 'Sermones de opere Magistri Petri Ad Boves de Dominicis et Sanctis', composed around ?.
+Authored work: 'Sermo Magistri Petri Ad Boves de Passione Christi', composed around ?.
+Authored work: 'Petri Ad Boves Postilla super Apocalypsim', composed around ?.
+Authored work: 'Petri Ad Boves Postilla super Exodus', composed around ?.
+Authored work: 'Commentarium in I libro Sententiarum', composed around ?.
+Authored work: 'Commentarium in IV libris Sententiarum', composed around ?.
+Authored work: 'Petri Ad Boves quaedam sermones aureos', composed around ?.
+Authored work: 'Directorium praecipuarum Quaestionum Theolog. certo indice adhibito', composed around ?.
+Authored work: 'Oratio ad Carolum VI Regem', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 04/12/2023..

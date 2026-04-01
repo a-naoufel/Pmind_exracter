@@ -1,0 +1,11 @@
+PERSON: LEONINUS Parisiensis
+Also known as: Leoninus PARISIENSIS; LEONINUS; LÉONIN.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1163-1201%.
+Studied at: Paris ?.
+Academic grades obtained: Magister ?.
+Ecclesiastical positions held: Chanoine de Paris (Notre-Dame)..
+Authored work: 'Magnus liber organi de graduali et antiphonario', composed around ?.
+Source: MIRABILE : Féderico CONTINI :.

@@ -1,0 +1,15 @@
+PERSON: GUILLELMUS de Estoutevilla 1
+Also known as: Guillaume d'ESTOUTEVILLE.
+Description: Évêque de Lisieux..
+Status: Gradué.
+Gender: male.
+Active during: %1362-1415%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris ;; Bologne %1368-1370% ;.
+Academic grades obtained: Étudiant (Paris) ;; Étudiant en droit (Bologne) %1368-1370% ;; Étudiant en décret (Paris) ;; Licencié in utroque jure ..
+Family relationships: Son père est Jean d'ESTOUTEVILLE, seigneur de Torcy ; Sa mère est Jeanne de FIENNES ; Son frère est Colart d'ESTOUTEVILLE, chevalier-banneret ; Son frère est Jean d'ESTOUTEVILLE, écuyer de corps du roi ; Son frère est Estout de ESTOUTEVILLA, abbé de Fécamp ; Son frère est Aegidius de ESTOUTEVILLA, archidiacre d'Eu ; Son frère est Radulphus de ESTOUTEVILLA, archidiacre d'Eu ; Son frère est Robertus de ESTOUTEVILLA, archidiacre du Neubourg ; Son frère est Thomas de ESTOUTEVILLA, évêque de Beauvais ; Son parent est le Cardinal Guillaume d'ESTOUTEVILLE. Son cousin est Jean de LARIVIERE, premier chambellan du roi ;.
+Social origin: Noble..
+Ecclesiastical status: Sous-diacre en ;; Diacre en ;.
+Ecclesiastical positions held: Curé de Farceaux ;; Curé de Manneville-la-Goupil ;; Chanoine de Saint-Quentin % -1375% ;; Évêque d'Évreux %1374-1376% ;; Évêque d'Auxerre %1376-1382% ;; Évêque de Lisieux %1382-1415% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/07/2020)..

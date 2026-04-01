@@ -1,0 +1,10 @@
+PERSON: DIONYSIUS Cagneodi
+Also known as: Dionysius CAGNEODI.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant ?.
+Family relationships: Son frère est Bartholomaeus CAGNEODI qui s'acquitte de la contribution de en même temps que lui..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 19/05/2021..

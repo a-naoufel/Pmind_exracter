@@ -1,0 +1,12 @@
+PERSON: ANTHONIUS de Treufles
+Also known as: Anthonius de TREUFLES.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1482-1482%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse d'Amiens..
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Academic relationships: Son maître est Bertrandus PIGOUCHE..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 29/09/2020)..

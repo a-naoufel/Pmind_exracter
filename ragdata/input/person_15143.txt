@@ -1,0 +1,11 @@
+PERSON: PETRUS Rousselli 3
+Also known as: Pierre ROUSSEAU; Pierre ROSSEAU; Petrus ROUSSELLI.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1475-1514%.
+Studied at: Paris %1475-1494%..
+Academic grades obtained: Bachelier en médecine (Paris) %1475-1476% ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Ecclesiastical positions held: Chanoine de Dijon (chapelleroyale) en ;; Chantre de Dijon (chapelleroyale) en ;; Chapelain de l'une des portions de Nevers (chapelle Saint-Etienne, fondée en la maison épiscopale, près la grande église de Saint-Cyr de Nevers) ..
+University functions: Paris (Faculté de médecine : Maître régent ?%1479-1494%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 02/12/2021..

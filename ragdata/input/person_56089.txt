@@ -1,0 +1,13 @@
+PERSON: THEOBALDUS de Pomorio
+Also known as: Theobaldus de POMORIO.
+Description: Chanoine de Troyes.
+Status: Incertain.
+Gender: male.
+Active during: %1235-1279%.
+Born in: Champagne (Pommeuse ?) ?.
+Diocese of origin: Diocèse de Troyes ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Troyes %1235-1254% ;; Archidiacre d’Arcis-sur-Aube %1269-1279% ;.
+Other ecclesiastical functions: Official de Troyes %1241-1242% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 20/05/2023..

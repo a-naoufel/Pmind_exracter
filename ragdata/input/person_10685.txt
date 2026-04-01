@@ -1,0 +1,14 @@
+PERSON: REGINALDUS de Cornemare
+Also known as: Regnault de CORNEMARE; Regnault de CORNUMARE; Regnault de CORNEMALE; Jean de CORMARE; Johannes de CORMARA.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1326-1342%.
+Born in: Normandie..
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris (Nation de Normandie) %1326-1326%..
+Academic grades obtained: Maître ès arts (Paris) ;; Maître en médecine (Paris) ..
+Ecclesiastical status: Clerc du diocèse de Rouen ;.
+Ecclesiastical positions held: Obtention d'une expectative d'un bénéfice à la collation de l'abbaye du Bec en ;; Curé de Saint-Armand-des-Hautes-Terres (diocèse d'Évreux) en ;; Chanoine d'Évreux %1335-1342%..
+University functions: Paris (Faculté de Médecine : maîtrerégent %1326-1333%) ;; Paris (Faculté de Médecine : lieutenant ou substitut du doyen) ;; Paris (Faculté de Médecine : Doyen en %1332-1333%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 25/03/2023)..

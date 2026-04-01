@@ -1,0 +1,40 @@
+PERSON: GUILLELMUS de Militona
+Also known as: Guillelmus de MILITONA; Guillaume de MELITON; William MILTON; William de MIDDLETON.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1245-1261%.
+Born in: Angleterre..
+Studied at: Paris %:1245-1253% ;; Cambridge %1253-1256%..
+Academic grades obtained: Bachelier-formé en théologie (Paris) ).; Maître en théologie (Paris) (janvier)..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) : cursus de théologie ?.
+Academic relationships: Son maître est Alexandre de HALES..
+Religious order: O.F.M. : frère franciscain..
+University functions: Paris (Faculté de Théologie : lecteur des Sentences au couvent franciscain avant ) ;; Paris (Maîtrerégent en Théologie ) ;; Cambridge (couvent franciscain : 5e maître)..
+Authored work: 'Postillae in Pentateuchum', composed around ?.
+Authored work: 'Postilla in Deuteronomium', composed around ?.
+Authored work: 'In librum Job', composed around ?.
+Authored work: 'Postilla in Psalmos', composed around ?.
+Authored work: 'Postilla in Ecclesiasticus', composed around ?.
+Authored work: 'In Cantica Canticorum', composed around ?.
+Authored work: 'Postilla in Danielem', composed around ?.
+Authored work: 'Postillae super XII Prophetas minores', composed around ?.
+Authored work: 'Postilla super libros Machabaeorum', composed around ?.
+Authored work: 'Postilla in epist. ad Romanos', composed around ?.
+Authored work: 'Postilla in epist. ad Hebraeos', composed around ?.
+Authored work: 'In epistolas canonicas', composed around ?.
+Authored work: 'Principium in Apocalypsim', composed around ?.
+Authored work: 'In Apocalypsim', composed around ?.
+Authored work: 'Tractatus super missam', composed around ?.
+Authored work: 'Tractatus de sacramentis (Comm. in IV Sent.)', composed around ?.
+Authored work: 'Quaestiones de natura theologiae', composed around ?.
+Authored work: 'De differentia contritionis, attritionis et compunctionis', composed around ?.
+Authored work: 'Quaestiones disputatae : de praedestinatione, reprobatione...', composed around ?.
+Authored work: 'Quaestiones disputatae de sanctificatione B.M.V.', composed around ?.
+Authored work: 'Quaestiones disputatae de decimatione ; de Christo ; de caritate', composed around ?.
+Authored work: 'Quaestiones disputatae de oratione ; de peccato, etc.', composed around ?.
+Authored work: 'Quaestio de eleemosyna', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Postilla super Ev. Marci', composed around ?.
+Authored work: 'Postilla in Ecclesiastes', composed around ?.
+Source: Franciscan authors (B. ROEST) :.

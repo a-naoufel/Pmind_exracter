@@ -1,0 +1,11 @@
+PERSON: NATALIS Chesneau
+Also known as: Natalis CHESNEAU; Natalis CHANEAU.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1478-1478%.
+Studied at: Paris %1478-1478%.
+Academic grades obtained: Licencié en théologie (Paris) (le 27 janvier) ;; Docteur en théologie (Paris) (le 9 novembre) ..
+College affiliation: Couvent (carme) de Paris (Grands-Carmes) en ..
+Religious order: O.Carm. : frère carme :de la province d'Aquitaine..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 7/10/2023)..

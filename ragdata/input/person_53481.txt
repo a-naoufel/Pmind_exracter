@@ -1,0 +1,14 @@
+PERSON: GUIDO de Borbonio
+Also known as: Guy de BOURBON.
+Description: Prévôt de Moulins.
+Status: Maître.
+Gender: male.
+Active during: %1245-1279%.
+Born in: Berry ?.
+Diocese of origin: Diocèse de Bourges ;.
+Studied at: Paris %1245-1246%.
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en théologie (Paris) ;.
+Family relationships: Son père est Archambaud VI de BOURBON. Son frère est Archambaud VII de BOURBON..
+Social origin: Noble ;.
+Ecclesiastical positions held: Prévôt de Clermont en %1245-1272% ;; Chanoine de Jenzat ;; Archidiacre de Moulins en ;; Doyen de Rouen %1254-1279 ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 22/02/2022)..

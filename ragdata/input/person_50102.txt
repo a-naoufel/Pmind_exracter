@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Petragoricensis
+Also known as: Guillelmus PETRAGORICENSIS.
+Description: Clerc bénéficié de Saint-Benoît le Bétourné.
+Status: Extérieur.
+Gender: male.
+Active during: %1295-1295%.
+Born in: ?Aquitaiine (Périgord) ?.
+Diocese of origin: Diocèse de Périgueux ?.
+Studied at: ?.
+Ecclesiastical positions held: Clercbénéficié de Paris (Saint-Benoît (églisecollégiale Saint-Benoît -le-Bétourné ?)) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019)..

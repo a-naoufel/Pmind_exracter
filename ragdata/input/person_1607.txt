@@ -1,0 +1,10 @@
+PERSON: CAROLUS de Mauregard 2
+Also known as: Carolus de MAUREGARD II; Charles de MAUREGARD.
+Description: Étudiant en médecine à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1492-1495%.
+Studied at: Paris, %1492-1495%..
+Academic grades obtained: Étudiant en médecine (Paris) %1492-1495%..
+Family relationships: Son parent est sans doute Charles de MAUREGARD, seigneur de Bondouffle..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 2/04/2021)..

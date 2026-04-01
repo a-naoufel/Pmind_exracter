@@ -1,0 +1,13 @@
+PERSON: GILBERTUS Bartholomew
+Also known as: Gilbert BARTHOLOMEW.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1392-1397%.
+Born in: Écosse..
+Diocese of origin: Diocèse d'Argyll..
+Studied at: Paris..
+Academic grades obtained: Étudiant en décret %1392-1395% ;.
+Ecclesiastical status: Clerc du diocèse d'Argyll ;.
+Ecclesiastical positions held: Provision pour une expectative de bénéfice à la présentation de l'évêque et du chapitre d'Argyll en ;; Provision pour le vicariat de Saint-Bruterni-in-Bute ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 14/01/2022..

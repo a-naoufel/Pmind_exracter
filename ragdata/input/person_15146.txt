@@ -1,0 +1,13 @@
+PERSON: PETRUS de Sarcellis
+Also known as: Pierre de SARCELLES; Petrus de SARCELLIS; Pierre de CERCHELLES; Petrus de CERCELLIS; Petrus de CERCELLIIS; Pierre du SAUSEL; Petrus de SCROHELLIS; Petrus de SARSELEIS; Petrus de SARCELLIS.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1323-1331%.
+Born in: Ile-de-France (Sarcelles) ?.
+Diocese of origin: Diocèse de Paris ?.
+Studied at: Paris..
+Academic grades obtained: Maître en médecine (Paris)..
+Ecclesiastical positions held: Prêtre..
+University functions: Paris (Faculté de Médecine : Maîtrerégent )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 1/03/2024)..

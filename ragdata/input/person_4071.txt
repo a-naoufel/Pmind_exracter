@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Saleben
+Also known as: Guillelmus SALEBEN.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1379-1379%.
+Born in: Orléanais ?.
+Diocese of origin: Diocèse d'Orléans ;.
+Studied at: Paris..
+Academic grades obtained: Étudiant en décret (Paris) ;.
+Ecclesiastical status: Clerc du diocèse de Orléans.
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus baccalareorum et scolarium in art. studii Paris. en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 30/05/2022..

@@ -1,0 +1,11 @@
+PERSON: CORNELIUS Gueraldi
+Also known as: Cornelius GUERALDI.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1501-1501%.
+Born in: Pays-Bas ?.
+Diocese of origin: Diocèse d'Utrecht..
+Studied at: Paris %1501-1501%..
+Academic grades obtained: Bachelier en décret (Paris) (le 17 août) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 28/04/2021)..

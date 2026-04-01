@@ -1,0 +1,20 @@
+PERSON: STEPHANUS Tempier
+Also known as: Stephanus TEMPIER; Stephanus de AURELIANIS; Etienne TEMPIER.
+Description: Evêque de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1262-1279%.
+Born in: Orléanais (Orléans) ;.
+Diocese of origin: Diocèse d’Orléans ?.
+Studied at: Paris, %:1263-1277%.
+Academic grades obtained: Maître en théologie (Paris).
+Ecclesiastical positions held: Chanoine de Paris de %1262-1268% ;; Evêque de Paris %1268-1279%..
+University functions: Chancelier de l'Université de Paris en ;.
+Authored work: '[Sermon pour le dimanche après l'Epiphanie)]', composed around (8 janvier) Saint-Jean-de-Grève..
+Authored work: '[Sermon pour le 1er dimanche de Carême]', composed around (26 février) prononcé à Paris (Notre-Dame)..
+Authored work: '[Sermon pour le synode]', composed around (27 avril) prononcé à Paris (Notre-Dame)..
+Authored work: 'Epistola praefatoria ad articulos condemnatos anno 1277', composed around ..
+Authored work: '[Censure de 13 thèses averroistes]', composed around .
+Authored work: '[Condamnation des 219 propositions]', composed around .
+Authored work: 'Praecepta synodalia', composed around ?.
+Source: MIRABILE :.

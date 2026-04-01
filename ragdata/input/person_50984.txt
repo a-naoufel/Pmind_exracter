@@ -1,0 +1,12 @@
+PERSON: ANCELLUS Chocart
+Also known as: Ancel CHOCART; Anseau CHOQUART.
+Description: Conseiller au Parlement.
+Status: Maître.
+Gender: male.
+Active during: %1358-1369%.
+Studied at: ?Paris..
+Academic grades obtained: Docteur en décret ?.
+Family relationships: Son épouse est Marote (Marie) du BOSC, nièce de Nicolas du BOSC, conseiller au Parlement, qui se remarie avec Étienne de LA GRANGE, frère du Cardinal de LA GRANGE..
+University functions: Paris (Faculté de Décret : Professeur in utroque)..
+Authored work: '(Discours prononcé devant Urbain V)', composed around ., dedicated to Prononcé devant URBAIN V..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 29/10/2018..

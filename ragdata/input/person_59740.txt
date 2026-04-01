@@ -1,0 +1,12 @@
+PERSON: THEODERICUS de Schönbergk
+Also known as: Theodericus de SCHÖNBERG; Dietrich von SCHÖNBERG.
+Description: Évêque de Naumburg.
+Status: Étudiant.
+Gender: male.
+Active during: %1430-1492%.
+Born in: Saxe ?.
+Studied at: Leipzig %1439-1445% ;; Paris ..
+Academic grades obtained: Étudiant (Paris) ;; Bachelier ès arts (Leipzig) ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Naumburg ;; Chanoine de Bautzen ;; Prévôt de Meissen %1465-1466% ;; Évêque de Naumburg.
+Source: RAG ;.

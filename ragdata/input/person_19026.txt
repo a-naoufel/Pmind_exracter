@@ -1,0 +1,9 @@
+PERSON: NICOLAUS de Costardi
+Also known as: Nicolaus de COSTARDI; Nicolaus HAUSTARDI.
+Description: Maître ès art.
+Status: Maître.
+Gender: male.
+Active during: %1385-1385%..
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 10/10/2023)..

@@ -1,0 +1,11 @@
+PERSON: HUMBERTUS dictus Li Papes
+Also known as: Humbertus dictus LI PAPES.
+Description: Clunisien.
+Status: Étudiant.
+Gender: male.
+Active during: %1343-1343%.
+Studied at: Paris (Collège de Cluny) %1343-1343%..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Ecolier au collège de Cluny en ..
+Religious order: O.Clun. : moine clunisien de l'abbaye de Coincy (diocèse de Soissons)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Reagan ; révision, Jean-Philippe Genet, 11/09/2022.

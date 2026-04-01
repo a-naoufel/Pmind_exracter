@@ -1,0 +1,12 @@
+PERSON: MARTINUS Bellifratris
+Also known as: Martinus BELLIFRATIS.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1366-1366%.
+Studied at: Paris (Collège de Cluny) %1366-1366%.
+Academic grades obtained: Étudiant (Paris).
+College affiliation: Étudiant au collège de Cluny à Paris en ..
+Religious order: O.Clun. : moine clunisien de l'abbaye de Longpont (diocèse de Paris)..
+Religious functions: Prieur de Saint-Julien-le-Pauvre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 12/04/2023)..

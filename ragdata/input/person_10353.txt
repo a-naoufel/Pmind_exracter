@@ -1,0 +1,12 @@
+PERSON: PETRUS Tardini
+Also known as: Pierre TARDINI.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1276-1297%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Couvent (dominicain) de Paris ..
+Religious order: O.P. : frère dominicain..
+University functions: Paris (Couvent dominicain : Lecteur en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 09/04/2024..

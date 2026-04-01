@@ -1,0 +1,10 @@
+PERSON: STEPHANUS Bellhandy
+Also known as: Stephanus BELLHANDY.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1496-1496%.
+Studied at: Paris %1496-1496%.
+Academic grades obtained: Licencié en théologie (Paris) (le 27 janvier) ;; Docteur en théologie (Paris) (le 16 mai) ;.
+Religious order: O.P. : frère dominicain..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/09/2024)..

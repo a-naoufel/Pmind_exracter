@@ -1,0 +1,11 @@
+PERSON: THOMAS de Largiis
+Also known as: Thomas de LARGIIS.
+Description: Clunisien.
+Status: Étudiant.
+Gender: male.
+Active during: %1362-1362%.
+Studied at: Paris %1362-1362%..
+Academic grades obtained: Étudiant en théologie (Paris) ..
+Religious order: O.S.B. : moine (clunisien) de l'abbaye de Cluny (diocèse de Mâcon) en ;.
+Religious functions: Bénéfice réservé par le pape URBAIN V à la collation de l'abbé de Cluny le 3 janvier ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 03/10/2024..

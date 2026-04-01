@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Taneguy
+Also known as: Guillelmus TANEGUY; Guillelmus TANGUIDI.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1415-1415%.
+Studied at: Paris %1415-1415%..
+Academic grades obtained: Bachelier en décret (Paris) 28 mai ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 13/04/2015..

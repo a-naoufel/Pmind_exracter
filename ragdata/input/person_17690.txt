@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Bosco 4
+Also known as: Guillelmus de BOSCO.
+Description: Licencié en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1434-1444%.
+Studied at: Paris %1434-1444%..
+Academic grades obtained: Bachelier en décret (Paris) attesté en ;; Licencié en décret (Paris) 20 mars ..
+Academic relationships: Son maître est Guillelmus de CONTI, abbé (bénédictin) de Sainte-Catherine-du-Mont, en ..
+Ecclesiastical positions held: Curé de Longueil (église paroissiale) (diocèse de Rouen) en ..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (2e année) vers octobre-septembre ) ;; Paris (Faculté de Décret : Lecteur des Décrétales (4e année) le 11 octobre ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux, dernière mise à jour Jean-Philippe Genet, 22/05/2018)..

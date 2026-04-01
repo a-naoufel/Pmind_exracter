@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Montemorenciaco
+Also known as: Guillaume de MONTMORENCY; Guillelmus de MONTEMORENCIACO.
+Description: Archiprêtre de Saint-Séverin.
+Status: Maître.
+Gender: male.
+Active during: %1273-1286%.
+Born in: Île-de-France ?.
+Studied at: Paris..
+Academic grades obtained: Magister..
+College affiliation: Sorbonne : proviseur en %1274-1286% ;.
+Ecclesiastical positions held: Archiprêtre de Paris (Saint-Séverin) ;; Chanoine de Paris ;; Sous-chantre de Paris ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 31/03/2020..

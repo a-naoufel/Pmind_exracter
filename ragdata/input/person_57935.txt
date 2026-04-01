@@ -1,0 +1,9 @@
+PERSON: STEPHANUS Ebeydus
+Also known as: Stephanus EBEYDUS.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1431-1431%.
+Studied at: Paris ;.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 04/07/2024..

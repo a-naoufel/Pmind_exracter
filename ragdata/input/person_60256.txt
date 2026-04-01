@@ -1,0 +1,10 @@
+PERSON: BERNARDUS de Swecia
+Also known as: Bernardus de SWECIA; Bernardus SUECUS.
+Description: Étudiant.
+Status: Incertain.
+Gender: male.
+Active during: %1375-1376%.
+Born in: Suède ?.
+Studied at: Prague ;.
+Academic grades obtained: Bachelier ès arts (Prague) ..
+Source: RAG ;.

@@ -1,0 +1,11 @@
+PERSON: RICARDUS de Margunto
+Also known as: Richard de MARGUNTO.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1304-1304%.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) av...
+College affiliation: Collège de Sorbonne ?.
+University functions: Paris (Faculté de théologie : maître-régent en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 21/06/2024..

@@ -1,0 +1,12 @@
+PERSON: HUGO de Claveriis
+Also known as: Hugo de CLAVERIIS.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1477-1477%.
+Diocese of origin: Diocèse de Saint-Flour..
+Studied at: Paris %1477-1477%..
+Academic grades obtained: Licencié en lois attesté en ;; Bachelier en décret (Paris) 7 mars ..
+Ecclesiastical status: Clerc du diocèse de Saint-Flour..
+University functions: Lecteur des Décrétales (1e année) à Paris le 14 mars ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 04-06-2015..

@@ -1,0 +1,13 @@
+PERSON: ALBERICUS de Humbert
+Also known as: Albéricus de HUMBERT; Aubry de HUMBERT; Albéric de LAON; Albéric de HAUTVILLERS.
+Description: Archevêque de Reims.
+Status: Maître.
+Gender: male.
+Active during: %1206-1218%.
+Born in: ?Champagne (Hautvillers) ou Picardie (Laon)..
+Studied at: Paris..
+Academic grades obtained: Magister (Paris)..
+Ecclesiastical positions held: ?Archidiacre de Paris % -1207% ;; Archevêque de Reims %1207-1218%..
+Representation roles: Participe au concile de Latran IV ()..
+Authored work: '(Sermones de divitiis relinquendis)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

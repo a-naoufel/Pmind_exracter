@@ -1,0 +1,11 @@
+PERSON: MICHAEL Morisel
+Also known as: Michael MORISEL.
+Description: Chanoine d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1250-1250%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d’Amiens %1250-1250% ;; Datation arbitraire : on sait seulement qu’il était chanoine au XIIIe siècle..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/12/2021..

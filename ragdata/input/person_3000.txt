@@ -1,0 +1,12 @@
+PERSON: GERVASIUS Munerii
+Also known as: Gervasius MUNERII; Gervasius MUNERI; Gervais MUNIER.
+Description: Maître en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1475-1481%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie) %1475-1481% ;.
+Academic grades obtained: Maître ès arts (Paris) .; Licencié en théologie (Paris) (27 janvier) ;; Maître en théologie (Paris) (28 mars)..
+College affiliation: Collège d'Harcourt %1475-1481% ;.
+University functions: Paris (Nation de Normandie : temptator examinis Sancte Genovefe élu le 24 janvier ) ;; Paris (Université : Recteur élu vers le 6 juillet ) ;; Candidat à la fonction d'intrans, choisi par la Nation de Normandie pour élire le recteur, le 16 décembre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Révision : Jean-Philippe GENET, 31/10/2019..

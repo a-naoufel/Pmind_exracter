@@ -1,0 +1,11 @@
+PERSON: MARTINUS Le Tellier
+Also known as: Martinus LE TELLIER.
+Description: Nonce pour le diocèse de Mâcon.
+Status: Suppôt.
+Gender: male.
+Active during: %1449-1449%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris (Nation de France)..
+University functions: Paris (Université : Nonce pour le diocèse de Mâcon, reçu en (31 janvier)) ;.
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 27/01/2023.

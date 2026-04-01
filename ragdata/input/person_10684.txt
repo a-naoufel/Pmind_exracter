@@ -1,0 +1,15 @@
+PERSON: REGINALDUS Chuffes
+Also known as: Reginaldus CHUFFES; Regnault CHUFFES; Regnault CHUFLES; Regnault CHUFET.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1451-1505%.
+Born in: Normandie (Rouen) ;.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris (Nation de Normandie) %1451-1457%..
+Academic grades obtained: Étudiant en médecine (Paris) ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Social origin: Bourgeoisie de Rouen ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Rouen %1465-1505% ;; Curé de Rouen (Saint Denis) %1469-1500% ;; Archidiacre d'Eu en la cathédrale de Rouen %1492-1505% ;; Personnat de Yébleron ;.
+Other ecclesiastical functions: Vicaire général du diocèse de Rouen en %1493-1494%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 11/11/2021..

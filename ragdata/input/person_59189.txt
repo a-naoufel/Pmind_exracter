@@ -1,0 +1,7 @@
+PERSON: MATTHAEUS de Parvogodeto
+Also known as: Matheus de PARVOGODETOS.
+Description: Chevalier servant au Châtelet de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1341-1345%.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,14 @@
+PERSON: STEPHANUS de Villaribus 3
+Also known as: Stephanus de VILLARIBUS.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1474-1487%.
+Born in: Champagne ?.
+Studied at: Paris %1474-1487%..
+Academic grades obtained: Licencié en théologie (Paris) (le 20 décembre) ;; Docteur en théologie (Paris) (le 1er mars) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: Dominicain : couvent de Troyes (Nation de Champagne)..
+Religious functions: Magister studentium au couvent Saint-Jacques de Paris en %1474-1475% ;; Magister studentium au couvent Saint-Jacques de Paris en ..
+University functions: Paris (Faculté de Théologie : Lecteur du livre des ActesdesApôtres à Paris en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 18/09/2024..

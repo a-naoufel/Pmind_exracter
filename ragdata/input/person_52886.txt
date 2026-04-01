@@ -1,0 +1,14 @@
+PERSON: ROGARIUS de Croismare
+Also known as: Rogerus de CROISMARE.
+Description: Chanoine de Rouen.
+Status: Gradué.
+Gender: male.
+Active during: %1490-1493%.
+Born in: Normandie (Rouen) ;.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris..
+Academic grades obtained: Bachelier en droit canon (Paris) ;.
+Family relationships: Son oncle est Robert de CROISMARE, archevêque de Rouen ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Curé de Braquetuit %1490-1493% ;; Chanoine de Rouen %1492-1493% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 5/11/2021..

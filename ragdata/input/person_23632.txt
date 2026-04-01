@@ -1,0 +1,10 @@
+PERSON: GUNTHERUS Colli
+Also known as: Guntherus COLLI.
+Description: Recteur.
+Status: Maître.
+Gender: male.
+Active during: %1403-1403%.
+Studied at: Paris ?.
+Academic grades obtained: Maître ès arts (Paris) ;.
+University functions: Paris (Université : recteur en ?) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 08/06/2022)..

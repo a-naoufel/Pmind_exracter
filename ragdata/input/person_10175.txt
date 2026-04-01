@@ -1,0 +1,11 @@
+PERSON: PETRUS de Puteo 1
+Also known as: Petrus de PUTEO.
+Description: Licencié en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1331-1342%.
+Diocese of origin: Diocèse de Thérouanne..
+Studied at: Paris %1331-1342%..
+Academic grades obtained: Bachelier en médecine (Paris) %1331-1332% ;; Licencié en médecine (Paris) ..
+Ecclesiastical positions held: Prêtre en ;; Obtention de la réserve d'un bénéfice à la collation de l'abbé de Saint-Bertin à Saint-Omer en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 21/09/2023..

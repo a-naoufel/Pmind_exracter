@@ -1,0 +1,7 @@
+PERSON: PAULUS Sobe
+Also known as: Paulus SOBE.
+Description: Apothicaire.
+Status: Extérieur.
+Gender: male.
+Active during: %1452-1452%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/05/2023..

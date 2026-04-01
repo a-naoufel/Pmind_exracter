@@ -1,0 +1,20 @@
+PERSON: LAURENTIUS de Poulangy
+Also known as: Laurent de POULANGY; Laurentius de VALLESCHOLARIUM.
+Description: Ordre du Val-des-Écoliers.
+Status: Maître.
+Gender: male.
+Active during: %1283-1309%.
+Born in: Champagne (Poulengy)..
+Diocese of origin: Diocèse de Langres ?.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie.
+Academic relationships: Son maître est Grégoire de BOURGOGNE..
+Religious order: O.S.A. : chanoinerégulier de l’Ordre du Val-des-Écoliers (Prieuré de Paris) en ..
+Religious functions: Prieur de Langres (ordre du Val-des-Écoliers) %1297-1302% au moins..
+University functions: Paris (Faculté de Théologie : maître-régent en et en %1302-1309%)..
+Authored work: 'Sermon pour l'Annonciation', composed around .
+Authored work: 'Sermon pour le premier Dimanche de Carême', composed around .
+Authored work: 'Sermon pour le Dimanche de la passion', composed around .
+Authored work: 'Quodlibet', composed around %1294-1295% ?.
+Authored work: 'Quaestio disputata', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol ; révision, Jean-Philippe GENET, 21/09/2024..

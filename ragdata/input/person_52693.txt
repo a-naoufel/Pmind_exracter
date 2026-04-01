@@ -1,0 +1,10 @@
+PERSON: GUIDO de Villaribus
+Also known as: Guido de VILLARIBUS.
+Description: Chanoine de Saint-Germain l’Auxerrois.
+Status: Incertain.
+Gender: male.
+Active during: %1389-1389%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chanoine de Paris (Saint-Germain l’Auxerrois) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 25/09/2021..

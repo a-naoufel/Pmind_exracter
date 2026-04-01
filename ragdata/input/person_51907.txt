@@ -1,0 +1,13 @@
+PERSON: PETRUS de Pruvino
+Also known as: Pierre de PRUVINO.
+Description: Maître en décret.
+Status: Maître.
+Gender: male.
+Active during: %1409-1429%.
+Studied at: Paris..
+Academic grades obtained: Docteur en décret (Paris)..
+College affiliation: Commanderie Saint-Antoine..
+Religious order: Chanoinerégulier (O.S.A.) de Saint-Antoine-en-Viennois..
+University functions: Paris (Université : très probablement l’un des ambassadeurs auprès de l’Université de Vienne en (mars) : si ce n’est lui, c’est Haimericus SEGAUDI) ?.
+Representation roles: Participe au concile de Pise en comme représentant de l’université de Paris ;; Participe au concile de Constance en comme représentant de l’université de Paris ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/08/2022)..

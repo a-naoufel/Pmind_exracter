@@ -1,0 +1,14 @@
+PERSON: GUIDO de Turre Claromontensis
+Also known as: Guido de TURRE Claromontensis.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1238-1286%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant au couvent (dominicain) de Paris (Saint-Jacques) où il a été reçu dans l’ordre en ?.
+College affiliation: Couvent (dominicain) de Paris (Jacobins) ca. ;.
+Religious order: O.P. : frère (dominicain) de Paris %1238-1250% ?.
+Ecclesiastical positions held: Évêque de Clermont %1250-1286%..
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Statuta synodalia ecclesie Claromontensis', composed around ..
+Source: MIRABILE : Andrea CENCINI ;.

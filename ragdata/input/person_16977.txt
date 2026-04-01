@@ -1,0 +1,11 @@
+PERSON: GERARDUS 1
+Also known as: GIRARDUS.
+Description: Archidiacre de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1180-1180%.
+Studied at: ?.
+Academic grades obtained: ?.
+College affiliation: Collège des Dix-Huit ?.
+Ecclesiastical positions held: Archidiacre de Paris (Notre-Dame)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 8/12/2021..

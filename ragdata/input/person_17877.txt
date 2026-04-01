@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Hauton
+Also known as: Guillelmus HAUTON.
+Description: Licencié en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1464-1474%.
+Studied at: Paris %1464-1474%..
+Academic grades obtained: Maître (Paris) ?; Licencié en décret. (Paris) avril ..
+Academic relationships: Son maître est Robertus TULEU en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/05/2022)..

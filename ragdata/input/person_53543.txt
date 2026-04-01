@@ -1,0 +1,10 @@
+PERSON: THEODERICUS de Savigny
+Also known as: Theodericus de SAVIGNY.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1448-1448%.
+Studied at: Paris..
+Academic grades obtained: Licence en décret (Paris) en (4 avril) ;.
+Academic relationships: Son maître est Johannes MIDOULX pour la licence en décret en (4 avril) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/03/2022)..

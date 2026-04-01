@@ -1,0 +1,9 @@
+PERSON: INGERANNUS 2
+Also known as: ENGUERRAND.
+Description: Chirurgien parisien.
+Status: Incertain.
+Gender: male.
+Active during: %1395-1395%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 18/09/2024..

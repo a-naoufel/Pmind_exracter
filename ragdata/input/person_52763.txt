@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Coustour
+Also known as: Guillelmus COUSTOUR.
+Description: Chapelain de Notre-Dame de Paris.
+Status: Étudiant.
+Gender: male.
+Active during: %1357-1357%.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) ?.
+Ecclesiastical positions held: Chapelain de Paris (Notre-Dame) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 11/10/2021..

@@ -1,0 +1,9 @@
+PERSON: LUCAS Pinay alias Merchier
+Also known as: Lucas PINAY alias Merchier; Lucas MERCHIER.
+Description: Nonce pour le diocèse d'Albi.
+Status: Suppôt.
+Gender: male.
+Active during: %1446-1446%.
+Born in: Paris..
+University functions: Paris (Université : Nonce pour le diocèse d'Albi )..
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 25/01/2023.

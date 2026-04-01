@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Juvenalis des Ursins
+Also known as: Guillaume JOUVENEL des Ursins.
+Description: Chancelier de France.
+Status: Extérieur.
+Gender: male.
+Active during: %1420-1472%.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son père est Jean JOUVENEL des Ursins, baron de Trainel ; Sa mère est Michelle de VITRY ; Sa femme est Geneviève HÉRON ; Son fils est Jean JOUVENEL des Ursins, conseiller au Parlement de Paris..
+Social origin: Noble ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 17/11/2022..

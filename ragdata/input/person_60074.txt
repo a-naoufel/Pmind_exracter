@@ -1,0 +1,9 @@
+PERSON: PETRUS du Fraine
+Also known as: Petrus DU FRAINE.
+Description: Notaire ou procureur au Châtelet de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1394-1408%.
+Studied at: ?.
+Academic grades obtained: Maître.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

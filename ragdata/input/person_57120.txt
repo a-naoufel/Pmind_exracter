@@ -1,0 +1,14 @@
+PERSON: LUDOVICUS Pitoys
+Also known as: Louis PITOYS.
+Description: Maître en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1490-1536%.
+Born in: Champagne (Bar-sur-Aube ?) ?.
+Diocese of origin: Diocèse de Langres ;.
+Studied at: Paris (Nation de France) %1490-1513%..
+Academic grades obtained: Licencié en théologie (Paris) (9 mai) ;; Maître en théologie (Paris) (17 mars) ;.
+College affiliation: Collège de Presles : régent ès arts ;; Collège de Navarre : boursier en ;; Collège de Navarre : régent ès arts en ;.
+Ecclesiastical positions held: Curé de Arnancourt ;; Chanoine de Langres %1511-1536% ;; Théologal de Langres %1511-1536% ;.
+University functions: Paris (Faculté des Arts : maître-régent au collège de Presles puis au collège de Navarre)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/01/2024)..

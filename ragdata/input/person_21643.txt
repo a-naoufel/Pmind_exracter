@@ -1,0 +1,11 @@
+PERSON: MAURITIUS de Dunblane
+Also known as: Mauritius de DUNBLANE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1349-1349%.
+Born in: Écosse..
+Studied at: Paris (Nation Anglo-allemande ?) ?.
+Academic grades obtained: Maître ès arts (Paris) ?.
+Ecclesiastical positions held: Recteur de Nevay en ;; Provision pour un canonicat avec expectative de prébende de Dunkeld en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/09/2023..

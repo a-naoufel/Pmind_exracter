@@ -1,0 +1,10 @@
+PERSON: BERTRANDUS de ChavencioCastro
+Also known as: Bertrandus de CHAVENCIOCASTRO; Bertrandus WAUCHER.
+Description: Chanoine de Reims ?.
+Status: Incertain.
+Gender: male.
+Active during: %1334-1335%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Reims en %1334-1335% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/05/2021..

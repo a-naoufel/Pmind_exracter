@@ -1,0 +1,11 @@
+PERSON: HENRICUS Federici
+Also known as: Henricus FEDERICI.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1501-1501%.
+Born in: Artois ?.
+Diocese of origin: Diocèse d'Arras..
+Studied at: Paris %1501-1501%..
+Academic grades obtained: Bachelier en décret (Paris) 17 août ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 11-06-2015..

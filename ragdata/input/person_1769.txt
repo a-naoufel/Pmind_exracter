@@ -1,0 +1,28 @@
+PERSON: CONRADUS Summenhart
+Also known as: Conradus SUMMENHART; Conradus SUMENHART; Conradus SOMMENNART; Conradus SOMMENART.
+Description: Recteur de l’Université de Tübingen.
+Status: Maître.
+Gender: male.
+Active during: %1472-1502%.
+Born in: Alémanie (Württemberg : Calw)..
+Diocese of origin: Diocèse de Spire..
+Studied at: Heidelberg ;; Paris ;.
+Academic grades obtained: Tübingen .; Bachelier ès arts (Heidelberg) ;; Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Licencié en théologie (Tübingen) ;; Docteur en théologie (Tübingen) ..
+Ecclesiastical positions held: Chapelain de Gültingen %1481-1482% ;; Curé de Gültingen ;.
+University functions: Tübingen (Faculté des arts : Professeur ) ;; Tübingen (Faculté des arts : Doyen ) ;; Tübingen (Université : Recteur ) ;; Tübingen (Faculté de Théologie : Doyen , , %1496-1497%, )..
+Authored work: 'In Sententias Petri Lombardi Conclusiones', composed around ?.
+Authored work: 'De sanguine Christi', composed around ?.
+Authored work: 'Tractatulus exhortatorius ad attendendem super decem defectibus virorum monasticorum', composed around ..
+Authored work: 'Tractatulus pro monialibus ad vitandam symoniam in receptione novitiarum', composed around ?.
+Authored work: 'Tractatus bipartitus de Deo homine facto in quo quod Deus homo fieri voluerit', composed around ?.
+Authored work: 'Oratio funebris in officio exequiarum Eberhardi ducis in Württemberg', composed around ?.
+Authored work: 'Commentaria in Summam physicae Alberti magni', composed around ?.
+Authored work: 'Tractatus de indulgentiis', composed around ?.
+Authored work: 'Tractatus de matrimonio', composed around ?.
+Authored work: 'Tractatus de simonia', composed around ?.
+Authored work: 'Tractatus de suffragiis defunctorum', composed around ?.
+Authored work: 'Septipertitum opus de contractibus pro foro conscientie atque theologico', composed around ?.
+Authored work: 'Tractatulus bipartitus de decimis defensivus opinionis theologorum adversus comiter canonistas de quotta decimarum si debita sit iure divino vel humano', composed around ?.
+Authored work: 'Tractatus de contractibus licitis et illicitis', composed around ?.
+Authored work: 'Acta et decreta generalis Concilii Constantiensis', composed around ..
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

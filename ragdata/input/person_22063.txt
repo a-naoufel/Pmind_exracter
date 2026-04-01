@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Nivernis 1
+Also known as: Guillermus de NIVERNIS; Guillaume de NEVERS.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1287-1320%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Chanoine de Nesles %1287-1306% ;; Chanoine de Reims %1307-1320% ;.
+Other ecclesiastical functions: Sigillifer de l'officialité de l'archevêque %1287-1306% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 04/04/2022..

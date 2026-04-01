@@ -1,0 +1,11 @@
+PERSON: THADDAEUS de Parisio
+Also known as: Thaddaeus de PARISIO; Thedeus PARISIENSIS.
+Description: Médecin ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1400-1400%.
+Studied at: ?.
+Academic grades obtained: Maître ?.
+Authored work: 'Tadei de Parisio boni medici phisica vel respecta', composed around ?.
+Authored work: 'Regimen sanitatis magistri Thedei Parisiensis', composed around ?.
+Source: MIRABILE, Andrea CENCINI :.

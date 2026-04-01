@@ -1,0 +1,11 @@
+PERSON: BERTRANDUS de Montibus
+Also known as: Bertrandus de MONTIBUS.
+Description: Prévôt d’Auch.
+Status: Incertain.
+Gender: male.
+Active during: %1487-1492%.
+Studied at: ?.
+Academic grades obtained: Docteur in utroque jure ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Rodez %1487-1492% ;; Prévôt d’Auch ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 1/06/2022..

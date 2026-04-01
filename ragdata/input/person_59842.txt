@@ -1,0 +1,13 @@
+PERSON: LUDOVICUS Roger
+Also known as: Ludovicus ROGER.
+Description: Boursier du collège de Dainville.
+Status: Maître.
+Gender: male.
+Active during: %1510-1510%.
+Born in: Artois ?.
+Diocese of origin: Diocèse d’Arras ;.
+Studied at: Paris (Nation de Picardie) en %1505-1512%..
+Academic grades obtained: Maître ès arts (Paris) en ;.
+College affiliation: Collège de Maître-Gervais : étudiant pour son ‘triennium’ avant ;; Collège de Dainville : maître en %1505-1512% ;; Il témoigne en tant que tel pour le quinquennium de Michael REUSSE, le triennium de Carolus BOREL et celui de Firminus CARONIS, tous trois anciens étudiants de Nicolaus MURIEL au collège de Maître-Gervais, et pour le ‘triennium’ de Stephanus de MARES, étudiant de Johannes MAIORIS au collège de Montaigu ;.
+Academic relationships: Son maître est Nicolaus MURIEL au collège de Maître-Gervais avant ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,11 @@
+PERSON: GUIDO Parisiensis
+Also known as: Guido PARISIENSIS; Guido de PARISIA.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1298-1302%.
+Studied at: Paris ?.
+Academic grades obtained: Magister ?.
+University functions: Paris (Maître de grammaire %1298-1302% ?)..
+Authored work: 'Practica sive usus dictaminis', composed around %1298-1302%..
+Source: MIRABILE, Rino MONODUTTI :.

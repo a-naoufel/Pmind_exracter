@@ -1,0 +1,10 @@
+PERSON: EDMUNDUS Munerii
+Also known as: Eadmundus MUNERII;; Gadmundus AGNERII;.
+Description: Socius de la Sorbonne.
+Status: Étudiant.
+Gender: male.
+Active during: %1428-1429%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Socius de la Sorbonne..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/07/2021)..

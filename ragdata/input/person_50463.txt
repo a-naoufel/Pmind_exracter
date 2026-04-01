@@ -1,0 +1,11 @@
+PERSON: PETRUS de Montecornuto
+Also known as: Petrus de MONTECORNUTO; Petrus de MONTECORNUTO.
+Description: Procureur de la Sorbonne.
+Status: Maître.
+Gender: male.
+Active during: %1295-1295%.
+Studied at: Paris..
+Academic grades obtained: Maître (Paris ?) ;.
+College affiliation: Collège de Sorbonne : procureur en ..
+Ecclesiastical status: Clerc..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 12/11/2019..

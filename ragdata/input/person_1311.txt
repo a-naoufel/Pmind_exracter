@@ -1,0 +1,11 @@
+PERSON: BERNARDUS Dominici
+Also known as: Bernard DOMINICI.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1287-1302%.
+Studied at: Montpellier ?.
+Academic grades obtained: Magister ?.
+Religious order: O.P. : frère dominicain.
+University functions: Montpellier (Couvent dominicain : Lecteur en Théologie )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 3/02/2021).

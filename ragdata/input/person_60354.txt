@@ -1,0 +1,10 @@
+PERSON: DROCO de Par
+Also known as: Dreux de PAR.
+Description: Écolier du collège de Reims ;.
+Status: Étudiant.
+Gender: male.
+Active during: %1503-1503%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) en ;.
+College affiliation: Collège de Reims : écolier en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

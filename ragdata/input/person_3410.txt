@@ -1,0 +1,10 @@
+PERSON: GUIDO de Novaria
+Also known as: Guido de RODIS; Guido de REDIS; Guido de NOVARIA; Guy de NOVARIA; Guy de NAVARRA; Guy de NOVARIA alias de RODES%; Guido de RODES.
+Description: Médecin.
+Status: Maître.
+Gender: male.
+Active during: %1329-1332%.
+Born in: Navarre ?.
+Studied at: Paris (Faculté de Médecine) %1330-1332%..
+Academic grades obtained: Licencié en médecine (Paris) .; Son grade de licencié en médecine est confirmé en (10 avril) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 26/11/2019..

@@ -1,0 +1,14 @@
+PERSON: PETRUS de Dacia 2
+Also known as: Petrus de DACIA; Petrus WINTER de Dacia; Petrus THURONIS de Dacia.
+Description: Évêque.
+Status: Maître.
+Gender: male.
+Active during: %1327-1364%.
+Born in: Danemark (Sud-Jutland)..
+Studied at: Paris, %1327-1333%;.
+Academic grades obtained: Magister (Paris), av. ;.
+Family relationships: Son père est Ture HARTHBO, † ; il possédait des biens à Bredebro (Danemark (Sonderjylland)); Sa mère est CRISTINA, † ; Son oncle maternel est magister TUCHO, archidiacre de Ribe, %1332-1338%;.
+Ecclesiastical positions held: Chanoine de Ribe (cathédrale), , ;; Curé de Hygum (diocèse de Ribe), ;; Archidiacre de Ribe (cathédrale), %1338-1345%;; Évêque de Ribe, %1345-1364%;.
+University functions: Paris: Recteur de l'Université, 22 mars ;; Paris (Nation Anglo-allemande): Maître-régent, , ;; Paris (Nation Anglo-allemande): Procureur de la Nation, , ;.
+Representation roles: Il assiste au concileprovincial de Helsingborg : "presentibus […] Magistro Petro electo confirmato Ripensi", mai ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 18/02/2023.

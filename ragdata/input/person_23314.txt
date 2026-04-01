@@ -1,0 +1,7 @@
+PERSON: X Daleuf
+Also known as: DALEUF.
+Description: Débiteur de la Sorbonne ???.
+Status: Extérieur.
+Gender: male.
+Active during: %1465-1465%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 8/05/2018)..

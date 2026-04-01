@@ -1,0 +1,11 @@
+PERSON: PETRUS Floridi
+Also known as: Petrus FLORIDI.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1431-1431%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse d’Évreux ;.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en décret (Paris) (2 juin) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 19/03/2025..

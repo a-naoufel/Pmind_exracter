@@ -1,0 +1,11 @@
+PERSON: THOMAS Renstautum
+Also known as: Thomas RENSTAUTUM.
+Description: Clunisien.
+Status: Étudiant.
+Gender: male.
+Active during: %1418-1418%.
+Studied at: Paris (Collège de Cluny) %1418-1418%..
+Academic grades obtained: Étudiant (Paris) à partir de ..
+College affiliation: ?Étudiant au collège de Cluny à partir du 28 juillet ..
+Religious order: O.S.B. : moine clunisien ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 11/10/2024..

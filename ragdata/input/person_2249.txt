@@ -1,0 +1,18 @@
+PERSON: FERRANDUS de Hispania
+Also known as: Ferrand d'ESPAGNE; Ferrandus de HISPANIA; Durandus de HISPANIA.
+Description: ?Evêque de Calahorra.
+Status: Maître.
+Gender: male.
+Active during: %1281-1281%.
+Born in: ?Espagne (Aragon)..
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) ?.
+Family relationships: ?Il serait le frère du roi d’Aragon ….
+Social origin: Noble ?.
+Ecclesiastical positions held: Evêque de Calahorra ?.
+Authored work: '(Commentaire sur les Sentences)', composed around ?.
+Authored work: 'Quaestio de specie intelligibili', composed around ?.
+Authored work: 'Commentarius in Metaphysicam Aristotelis', composed around ?.
+Authored work: 'Expositio et quaestiones in lib. Averroïs De substantia orbis', composed around ?.
+Authored work: 'Commentarius in Oeconomica Aristotelis ?', composed around ?.
+Source: MIRABILE : http://www.mirabileweb.it/author/ferrandus-hispanus-saec-xiii-ex-xiv-in--author/21497 ;.

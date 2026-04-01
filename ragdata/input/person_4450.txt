@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Anglicus de la Cormere
+Also known as: Guillemus ANGLICUS de la Cormere; Guillaume de LA CORMERE.
+Description: Maître en décret.
+Status: Maître.
+Gender: male.
+Active during: %1275-1275%.
+Studied at: Paris ..
+Academic grades obtained: Maître en décret ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/02/2022..

@@ -1,0 +1,12 @@
+PERSON: REGINALDUS 3
+Also known as: RAINALDUS; RENAUD II, abbé de Morimond.
+Description: Abbé cistercien de Morimond.
+Status: Étudiant.
+Gender: male.
+Active during: %1331-1354%.
+Studied at: ?Paris..
+Academic grades obtained: ?Étudiant (Paris ?) ?.
+College affiliation: Collège Saint-Bernard avant ?.
+Religious order: O. Cist. : moine cistercien.
+Religious functions: Abbé (cistercien) de Morimond %1331-1354%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 18/12/2019..

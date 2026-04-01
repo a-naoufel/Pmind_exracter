@@ -1,0 +1,21 @@
+PERSON: RICARDUS de Sancto Laurentio
+Also known as: Richard de SAINT-LAURENT.
+Description: Doyen de Rouen.
+Status: Étudiant.
+Gender: male.
+Active during: %1239-1245%.
+Born in: Normandie (St-Laurent au Pays de Caux?) ;.
+Diocese of origin: Diocèse de Rouen..
+Studied at: ?.
+Academic grades obtained: Étudiant en théologie (Paris) ;.
+Religious order: ?O.Cist. : moine cistercien à la fin de sa vie ?.
+Ecclesiastical positions held: Chanoine de Rouen ;; Doyen de Rouen %1239-1245% ;.
+Authored work: 'De Virtutibus', composed around ?.
+Authored work: 'De exterminatione mali et promotione boni', composed around ?.
+Authored work: 'De Laudibus Beatae Mariae Virginis libri XII', composed around ?.
+Authored work: 'In nativitate Domini', composed around ?.
+Authored work: 'In passione Domini', composed around ?.
+Authored work: 'De uno martyre', composed around ?.
+Authored work: 'De beata Maria Virgine sermones tres', composed around ?.
+Authored work: 'De origine ac viris illustribus ordinis Cisterciensis', composed around ?.
+Source: MIRABILE, Andrea CENCINI :.

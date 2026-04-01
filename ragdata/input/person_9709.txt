@@ -1,0 +1,16 @@
+PERSON: PAULUS Gloterer
+Also known as: Paulus GLOTERER; Paulus GLOTTLERER; Paulus GLATERER; Paul GLOTER; Paul CLOTER; Paulus JOHANNIS.
+Description: Médecin de la ville de Fribourg-en-Brisgau.
+Status: Maître.
+Gender: male.
+Active during: %1402-1446%.
+Born in: Alémanie (Bade-Wurtemberg (Fribourg-en-Brisgau))..
+Diocese of origin: Diocèse de Constance..
+Studied at: Paris (Nation Anglo-allemande) %1402-1405% ;; Padoue %1410-1411%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Maître en médecine (Padoue) ..
+Family relationships: Son père est Meister Johann GLOTTERER, Stadtschreiber de Fribourg-en-Brisgau ; Sa mère est Elisabeth GLOTTERER ; Sa femme est Anna GLOTTERER..
+Academic relationships: Son maître est Hermannus de ESSLINGA pour le baccalauréat en ; Son élève est Thomas de LIN pour le baccalauréat en ; Son élève est Heynemanus de BRILLON pour le baccalauréat en ;.
+Social origin: Bourgeoisie ;.
+Ecclesiastical status: Clerc du diocèse de Constance..
+University functions: Paris (Nation Anglo-allemande : Maître régent pour l'année %1404-1405%) ;; Son fidéjusseur est Hermannus de ESSLINGA pour sa régence en %1404-1405% ;; Paris (Nation Anglo-allemande : Maître régent pour l'année %1405-1406%) ;; Son fidéjusseur est Henricus de FELTKICH pour sa régence en %1405-1406% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 03/12/2023..

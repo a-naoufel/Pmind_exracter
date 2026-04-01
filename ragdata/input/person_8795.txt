@@ -1,0 +1,12 @@
+PERSON: MARCUS de Mediolano
+Also known as: Marcus de MEDIOLANO,; Marc de MEDIOLANO.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1396-1398%.
+Born in: ?Italie (Lombardie : Milan)..
+Diocese of origin: Diocèse de Milan ?.
+Studied at: Paris (Nation de France) %1396-1398%..
+Academic grades obtained: Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+University functions: Paris (Faculté de médecine : Maître-régent jusqu'en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 08/09/2023)..

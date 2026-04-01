@@ -1,0 +1,12 @@
+PERSON: REGINALDUS de Neomio
+Also known as: Reginaldus de NEOMIO.
+Description: Chanoine d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1350-1359%.
+Born in: Limousin ?.
+Diocese of origin: Diocèse de Limoges ;.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;; Licencié en droit civil ;.
+Ecclesiastical positions held: Chanoine de Tournai %1350-1354% ;; Chanoine d’Amiens %1353-1359% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 1/12/2021..

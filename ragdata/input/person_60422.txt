@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Nourenoult
+Also known as: Guillaume de NOURENOULT.
+Description: Abbé de Chézy.
+Status: Extérieur.
+Gender: male.
+Active during: %1337-1347%.
+Religious order: Il est peut-être en abbé de l’abbaye (O.S.B.) de Chézy : il n’est attesté comme tel qu’en ;.
+Ecclesiastical positions held: O.S.B. : moine bénédictin ;.
+Source: WIKIPEDIA ;.

@@ -1,0 +1,14 @@
+PERSON: EUSTASIUS de Curia
+Also known as: Eustache de LACOURT; Eustache de LACOURT.
+Description: Franciscain..
+Status: Maître.
+Gender: male.
+Active during: %1476-1488%.
+Born in: Touraine ?.
+Diocese of origin: Diocèse de Tours ?.
+Studied at: Paris ..
+Academic grades obtained: Licencié en théologie (Paris) ;; Docteur en théologie (Paris) (14 octobre)..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Religious order: O.F.M. : frère franciscain de la province (franciscaine) de Tours..
+Authored work: 'Commentarios in quatuor libros Sententiarum', composed around ?.
+Source: B. ROEST, Franciscan Authors, 13th-18th Century : A catalogue in progress (Eustachius de Curia) : http://users.bart.nl/~roestb/franciscan/index.htm.

@@ -1,0 +1,9 @@
+PERSON: PETRUS Guerardi
+Also known as: Petrus GUERARDI.
+Description: Serviteur de la Faculté des Arts.
+Status: Suppôt.
+Gender: male.
+Active during: %1355-1355%.
+Studied at: Paris ..
+University functions: Paris (Faculté des Arts : serviteur)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 17/03/2024..

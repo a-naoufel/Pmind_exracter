@@ -1,0 +1,10 @@
+PERSON: COLOMANNUS de Novavilla
+Also known as: Colomannus de NOVAVILLA.
+Description: Recteur de l'Université de Vienne.
+Status: Extérieur.
+Gender: male.
+Active during: %1396-1396%.
+Studied at: Vienne..
+Academic grades obtained: ?.
+University functions: Vienne : Recteur..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 22/04/2021..

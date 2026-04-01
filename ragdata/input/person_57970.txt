@@ -1,0 +1,10 @@
+PERSON: PETRUS Judi
+Also known as: Petrus JUDI; Petrus INDI.
+Description: Boursier du collège d’Autin.
+Status: Étudiant.
+Gender: male.
+Active during: %1518-1518%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en décret (Paris) ;.
+College affiliation: Collège d'Autun : boursier en décret ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

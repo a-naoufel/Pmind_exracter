@@ -1,0 +1,11 @@
+PERSON: ODO de Ossun
+Also known as: Odo de OSSUN.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1292-1292%.
+Studied at: ?.
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Morlaas..
+Religious functions: Prieur de ?.
+University functions: Saint-Sever (couvent dominicain : lecteur en théologie )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019).

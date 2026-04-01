@@ -1,0 +1,10 @@
+PERSON: LAMBERTUS Bouche
+Also known as: Lambert BOUCHE.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1288-1288%.
+Studied at: Paris ..
+Academic grades obtained: Maître en théologie (Paris) en ..
+University functions: Paris (Université : taxateur des maisons en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 18/08/2023..

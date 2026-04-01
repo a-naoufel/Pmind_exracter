@@ -1,0 +1,10 @@
+PERSON: LAURENTIUS Probihominis
+Also known as: Laurentius PROBIHOMINIS; Laurent PROBIHOMINIS; Laurent PREUDOMME; Lorin PREUDOMME.
+Description: Boursier artien au collège de Navarre..
+Status: Étudiant.
+Gender: male.
+Active during: %1373-1378%.
+Studied at: Paris %1373-1378%..
+Academic grades obtained: Étudiant ès arts (Paris) %1377-1378%..
+College affiliation: Collège de Dormans-Beauvais : boursier %1373-1377% ;; Collège de Navarre : boursier artien en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 07/11/2019..

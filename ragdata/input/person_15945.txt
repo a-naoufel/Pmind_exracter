@@ -1,0 +1,11 @@
+PERSON: DESIDERIUS Castelani
+Also known as: Desiderius CASTELANI.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1497-1497%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse d'Autun..
+Studied at: Paris %1497-1497%..
+Academic grades obtained: Bachelier en décret (Paris) (le 4 août) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 09/05/2021)..

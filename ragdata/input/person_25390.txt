@@ -1,0 +1,13 @@
+PERSON: AMADEUS de Gebenna
+Also known as: Amadeus de GEBENNA.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1330%.
+Born in: Genève..
+Studied at: Paris ..
+Academic grades obtained: Étudiant.
+Family relationships: Son père est AMÉDÉE, comte de Genève ; Sa mère est Agnès de CHALON ; Son frère est GUILLAUME, comte de Genève..
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine de Langres avec expectative de prébende ;; Recteur de Filinges (diocèse de Genève) ;; Chanoine de Lyon ;; Chanoine de Genève ;; Doyenetsacristain de Mayence ;; Chanoine de Paris ;; Évêque de Toul ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne TOURNIEROUX ; révision, Jean-Philippe GENET, 23/03/2020..

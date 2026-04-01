@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Celseto 2
+Also known as: GuiIIaume de CELSOY.
+Description: Conseiller-lai au Parlement de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1388-1432%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Paris au Moyen Âge : //http://www.parismoyenage.fr/ ;.

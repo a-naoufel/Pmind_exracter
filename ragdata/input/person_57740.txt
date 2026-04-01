@@ -1,0 +1,10 @@
+PERSON: ROGARIUS 1
+Also known as: ROGERIUS.
+Description: Doyen de Rouen.
+Status: Extérieur.
+Gender: male.
+Active during: %1219-1219%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Doyen de Rouen en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 10/04/2024)..

@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Castro Eraudi
+Also known as: Guillelmus de CASTRO ERAUDI; Guillaume de CHÂTELLERAULT.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1267-1277%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Chanoine de Reims %1267-1277% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 10/01/2019..

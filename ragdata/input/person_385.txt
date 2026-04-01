@@ -1,0 +1,100 @@
+PERSON: ALBERTUS Magnus
+Also known as: Albertus MAGNUS; Albert LE GRAND; Albert de BOLLSTAEDT; Albert de LAVINGEN; Albertus THEUTONICUS; Doctor universalis.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1222-1280%.
+Born in: Allemagne (Lavingen)..
+Diocese of origin: Diocèse d'Augsbourg..
+Studied at: Padoue %1222-1223% ;; Cologne %1248-1274% ;; Paris %1242-1248%..
+Academic grades obtained: Étudiant ès arts (Padoue) ;; Bachelier en théologie (Paris) ;; Maître en théologie (Paris) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins) %1242-1248% ;.
+Family relationships: Son père est le comte de BOLLSTAEDT..
+Academic relationships: Son élève est THOMAS d'Aquin ; Son élève est Ulrich de STRASBOURG ; Son élève est Aegidius de LESSINES..
+Social origin: Noble..
+Religious order: O.P. : frère dominicain..
+Religious functions: Provincial (dominicain) d'Allemagne, %1253-1256%..
+Ecclesiastical positions held: Évêque de Regensburg %1260-1262%..
+University functions: Lecteur au couvent (dominicain) de Freiburg-im-Brisgau ;; Lecteur au couvent (dominicain) de Ratisbonne ;; Lecteur au couvent (dominicain) de Strasbourg, %1268-1269% ;; Paris (Faculté de Théologie : maître-régent au couvent de Saint-Jacques à Paris, %1242-1248%) ;; Cologne (Studium generale : lecteur en ) ;; Rome (Curie Lecteur en théologie en ) ;; Cologne (Studium generale : lecteur en %1257-1260%) ;; Cologne (Studium generale : lecteur en %1269-1274%) ;.
+Representation roles: Prédication de la Croisade en Allemagne et en Bohême en %1263-1264% ;; Il effectue des missions pour le Pape en Flandres en ;; Il assiste au Concile de Lyon en ..
+Authored work: 'Principium Bibliae', composed around ?.
+Authored work: 'In librum Job expositio', composed around ..
+Authored work: 'Expositio in Isaiam', composed around ?.
+Authored work: 'Expositio in Jeremiam', composed around ?.
+Authored work: 'In Threnos Jeremiae expositio', composed around ?.
+Authored work: 'In Baruch expositio', composed around ?.
+Authored work: 'In Ezechielem expositio', composed around ?.
+Authored work: 'In Danielem', composed around ?.
+Authored work: 'In XII Prophetas minores', composed around ?.
+Authored work: 'Expositio in Evang. Matthaei', composed around .
+Authored work: 'In Evang. Marci expositio', composed around %:1272:-:1275:%.
+Authored work: 'In Lucam expositio', composed around ?%1270-1275%.
+Authored work: 'In Evang. Joannis', composed around %1272-1275%.
+Authored work: 'Tractatus de natura boni', composed around Avant ..
+Authored work: 'De quattuor coaequaevis', composed around ?.
+Authored work: 'De homine', composed around ?.
+Authored work: 'De forma resultante in speculo', composed around ?.
+Authored work: 'De bono', composed around ?.
+Authored work: 'De sacramentis', composed around ?.
+Authored work: 'De resurrectione', composed around ?.
+Authored work: 'De incarnatione', composed around ?.
+Authored work: 'In libros I-IV Sententiarum', composed around %1246-1249%..
+Authored work: 'In librum de coelesti hierarchia Dionysii Areopagitae', composed around %1248-1252%.
+Authored work: 'In librum de ecclesiastica hierarchia Dionysii Areopagitae', composed around ?.
+Authored work: 'In librum de divinis nominibus Dionysii Areopagitae', composed around %1248-1252%..
+Authored work: 'In librum de mystica theologica Dionysii Areopagitae', composed around Après.
+Authored work: 'In Dionysii epistolas', composed around ?.
+Authored work: 'Summa theologiae sive de mirabili scientia Dei (Pars I)', composed around Après.
+Authored work: 'Summa theologiae sive de mirabili scientia Dei (Pars II)', composed around Après ..
+Authored work: 'Quaestiones Theologicae (28 quaestiones)', composed around ?.
+Authored work: 'De mysterio missae', composed around ?.
+Authored work: 'De corpore domini', composed around ?.
+Authored work: 'In septuagesima', composed around ?.
+Authored work: 'Dominica in ramis palmarum sermo', composed around ?.
+Authored work: 'Dominica XVIII post Pentecosten', composed around ?.
+Authored work: 'Dominica XXI post Pentecosten', composed around ?.
+Authored work: '[Sermones]', composed around ?.
+Authored work: '"De ungelt"', composed around , dedicated to Adressé à Berthold von REGENSBURG..
+Authored work: 'De muliere forti', composed around ?.
+Authored work: 'Commentarium in librum Porphyrii De quinque universalibus', composed around ?.
+Authored work: 'In lib. Aristotelis de Praedicamentis', composed around .
+Authored work: 'In lib. sex principiorum Gilberti Porretani', composed around ?.
+Authored work: 'In librum Boethii de Divisione', composed around ?.
+Authored work: 'In lib. Peri hermenias', composed around ?.
+Authored work: 'Liber Priorum Analyticorum', composed around ?.
+Authored work: 'Liber Posteriorum Analyticorum', composed around ?.
+Authored work: 'Liber Topicorum', composed around ?.
+Authored work: 'Liber Elenchorum Aristotelis', composed around ?.
+Authored work: 'Liber Methaphysicae', composed around Vers %1265-1270%.
+Authored work: 'De unitate intellectus contra Averroem', composed around puis ..
+Authored work: 'De quindecim Problematibus ad Aegidium de Lessiniis', composed around Avant selon les deux éditeurs., dedicated to A la demande de Gilles de LESSINES..
+Authored work: 'De fato', composed around ?.
+Authored work: 'Liber Physicorum', composed around ?.
+Authored work: 'In lib. Aristotelis de Caelo et Mundo', composed around Après ;.
+Authored work: 'De causis proprietatum elementorum', composed around (15 août)..
+Authored work: 'In lib. Aristotelis de Generatione et Corruptione', composed around Après ;.
+Authored work: 'In libros Metheororum', composed around ?.
+Authored work: 'De lapidibus et mineralibus', composed around ?.
+Authored work: 'In lib. Aristotelis de Anima', composed around ?.
+Authored work: 'De nutrimento et nutribili', composed around Vers ;.
+Authored work: 'In lib. de sensu et sensato', composed around ?.
+Authored work: 'Liber de memoria et reminiscentia', composed around ?.
+Authored work: 'De intellectu et intelligibili libri duo', composed around ?.
+Authored work: 'In libros Aristotelis de somno et vigilia', composed around Vers ;.
+Authored work: 'In lib. Aristotelis de spiritu et respiratione', composed around ?.
+Authored work: 'De motibus animalium', composed around ?.
+Authored work: 'Liber de aetate sive de iuventute et senectute', composed around ?.
+Authored work: 'Liber de morte et vita', composed around ?.
+Authored work: 'Liber de vegetabilibus et plantis', composed around Vers ;.
+Authored work: 'Liber De Animalibus', composed around Vers ;.
+Authored work: 'Quaestiones in libros de Animalibus', composed around à Cologne, probablement rapportées par Conradus AUSTRIACUS, O.P..
+Authored work: 'De natura et origine animae', composed around ?.
+Authored work: 'De principiis motus progressivi', composed around ?.
+Authored work: 'Commentarius in Euclidis geometriam', composed around ?.
+Authored work: 'De natura locorum', composed around Vers ;.
+Authored work: 'Ethica 1', composed around %1248-1252% à Cologne ;.
+Authored work: 'Ethica 2', composed around %1267-1268% ;.
+Authored work: 'In VIII libros Politicorum Aristotelis', composed around ?.
+Authored work: 'De quidditate et esse', composed around ?.
+Authored work: 'Speculum astronomiae', composed around ?.
+Source: http://www.arlima.net/mp/nature_des_faulcons.html.

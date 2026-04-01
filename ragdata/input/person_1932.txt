@@ -1,0 +1,10 @@
+PERSON: DEODATUS Benedicti
+Also known as: Deodatus BENEDICTI.
+Description: Curé de Stella.
+Status: Extérieur.
+Gender: male.
+Active during: %1338-1338%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Curé de Stella (diocèse de Valence)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 09/05/2021)..

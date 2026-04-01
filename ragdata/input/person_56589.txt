@@ -1,0 +1,10 @@
+PERSON: ARNALDUS de Cardona
+Also known as: Arnaldus de CARDONA; Arnaldus de CARDENA.
+Description: Official de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1337-1340%.
+Studied at: ?.
+Academic grades obtained: Licencié en droit canon..
+Other ecclesiastical functions: Official de Clermont %1337-1340% ;; Vicairegénéral de Clermont %1338-1339% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 15/09/2023)..

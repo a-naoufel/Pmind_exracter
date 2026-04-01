@@ -1,0 +1,11 @@
+PERSON: DESIDERIUS Brielli
+Also known as: Desiderius BRIELLI.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1488-1488%.
+Born in: Lorraine ?.
+Diocese of origin: Diocèse de Toul ;.
+Studied at: Paris %1488-1488%..
+Academic grades obtained: Bachelier en décret (Paris) (18 juin) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 09/05/2021)..

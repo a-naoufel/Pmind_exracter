@@ -1,0 +1,11 @@
+PERSON: CALANUS
+Also known as: CALANUS; KALÁN.
+Description: Évêque de Pécs..
+Status: Incertain.
+Gender: male.
+Active during: %1181-1218%.
+Born in: Hongrie(Bár)..
+Studied at: ?Paris..
+Social origin: Noble..
+Ecclesiastical positions held: Clerc de la chapelle royale ;; Évêque de Pécs, ?%1185-1218% ;; Episcopus palliatus Quinqueeclesiensis, gubernator totius Dalmatie et Croatie, %1193-1194% ;; Archevêque electus d’Esztergom, ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Gergely KISS, 26/07/2014..

@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Cousinot
+Also known as: Guillaume COUSINOT.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1402-1442%.
+Studied at: Paris %1402-1442%..
+Academic grades obtained: Étudiant (Paris ?) ?; Maître ?.
+Family relationships: Son frère est Pierre COUSINOT, conseiller au Parlement de Paris ; Son fils est Guillaume COUSINOT qui combat dans l’armée de CHARLES VII qui le fait chevalier au siège de Rouen en et le nomme bailli ;.
+Source: Paris au Moyen Âge :.

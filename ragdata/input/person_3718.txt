@@ -1,0 +1,8 @@
+PERSON: GUILLELMUS Aurelianensis
+Also known as: Guillelmus AURELIANENSIS; Guillaume de AURELIANIS.
+Description: Librarius et stationarius.
+Status: Suppôt.
+Gender: male.
+Active during: %1342-:1350%.
+Family relationships: Son épouse est AGNES..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 20/02/2022..

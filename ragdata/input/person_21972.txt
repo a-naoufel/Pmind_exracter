@@ -1,0 +1,11 @@
+PERSON: CAROLUS Double
+Also known as: Charles DOUBLE.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1396-1399%.
+Studied at: Paris %1396-1399%..
+Academic grades obtained: Étudiant (Paris) %1396-1399%..
+College affiliation: Boursier du Collège de Dormans-Beauvais %1396-1399% ;.
+Family relationships: Son père est Martin DOUBLE, avocat au Châtelet de Paris ; Son frère est Bureau DOUBLE ;.
+Source: LAMOP : Opération Charles VI :.

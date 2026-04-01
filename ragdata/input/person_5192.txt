@@ -1,0 +1,9 @@
+PERSON: HUGO de Montibus
+Also known as: Hugo de MONTIBUS.
+Description: Maître ès arts..
+Status: Maître.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Maître ès arts (Paris)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland; révision, Jean-Philippe Genet, dernière mise à jour 1/09/2022)..

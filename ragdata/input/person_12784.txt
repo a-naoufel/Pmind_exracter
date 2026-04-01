@@ -1,0 +1,11 @@
+PERSON: ROBERTUS Hervieu
+Also known as: Robertus HERVIEU.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1499-1499%.
+Born in: Normandie ?.
+Studied at: Paris %1499-1499%..
+Academic grades obtained: Bachelier en théologie (Paris) vers ..
+Religious order: O.S.B. : moine bénédictin de l'abbaye de Jumièges (diocèse de Rouen) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 24/08/2024..

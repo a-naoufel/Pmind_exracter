@@ -1,0 +1,13 @@
+PERSON: HENRICUS de Aillyaco
+Also known as: Henricus de AILLYACO.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1394-1394%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Soissons ;.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) en ?.
+Ecclesiastical status: Clerc du diocèse de Soissons en ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus présenté par Pierre d’AILLY à BENOÎT XIII en (13 décembre) à Avignon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 10/02/2019..

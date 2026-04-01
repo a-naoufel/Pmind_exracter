@@ -1,0 +1,11 @@
+PERSON: LUDOVICUS Du Pin
+Also known as: Louis DU PIN.
+Description: Chapelain du collège de Sées.
+Status: Étudiant.
+Gender: male.
+Active during: %1516-1516%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Sées : chapelain en ;.
+Ecclesiastical positions held: Chapelain du collège de Sées ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

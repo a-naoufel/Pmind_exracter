@@ -1,0 +1,10 @@
+PERSON: OGERUS 1
+Also known as: OGIERUS.
+Description: Chanoine d’Évreux.
+Status: Incertain.
+Gender: male.
+Active during: %1200-1200%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Évreux ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/03/2023)..

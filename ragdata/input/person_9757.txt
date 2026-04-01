@@ -1,0 +1,12 @@
+PERSON: PETRUS Bachelier
+Also known as: Petrus BACHELIER.
+Description: Bachelier Décret.
+Status: Gradué.
+Gender: male.
+Active during: %1498-1502%.
+Diocese of origin: Diocèse de Thérouanne..
+Studied at: Paris %1498-1498%.
+Academic grades obtained: Bachelier Décret (Paris) (le 31 mai) ;.
+Religious order: O.S.B. : moine bénédictin..
+Religious functions: Bénéfice à la collation du monastère d'Evron (diocèse LeMans) en ;; Bénéfice à la collation du monastère de Saint-Eloi (diocèse de Noyon) en ;; Bénéfice à la collation de l'abbaye de Saint-Vaast (diocèse d'Arras) en ;; Bénéfice à la collation de l'abbaye de Corbie (diocèse d'Amiens) en ;; Bénéfice à la collation de l'abbaye Saint-Lucien (diocèse de Beauvais) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 20/08/2016..

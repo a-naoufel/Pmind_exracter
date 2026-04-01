@@ -1,0 +1,10 @@
+PERSON: DURANDUS Pinel
+Also known as: Durandus PINEL.
+Description: Chanoine du Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1242-1246%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de LeMans ;; Chanoine de Saint-Pierre-de-la-Cour %1245-1246% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/06/2023)..

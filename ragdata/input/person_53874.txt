@@ -1,0 +1,10 @@
+PERSON: GALFREDUS de Heiwes
+Also known as: Gauffridus de HEIWES.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1416-1416%.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en théologie en ;.
+University functions: Paris (Faculté de Théologie : il est l'un des signataires en du document dans lequel la Faculté de théologie condamne les neuf propositions de Johannes PARVI à la demande du roi) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 09/03/2022..

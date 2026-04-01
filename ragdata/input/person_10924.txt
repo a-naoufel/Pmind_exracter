@@ -1,0 +1,9 @@
+PERSON: ROBERTUS Fauquet
+Also known as: Robert FAUQUET; Robertus FAUQUETI; Robertus FRANQUETI.
+Description: Bachelier en médecine..
+Status: Gradué.
+Gender: male.
+Active during: %1414-1418%.
+Studied at: Paris %1414-1418%..
+Academic grades obtained: Étudiant en médecine (Paris) %1414-1415% ;; Bachelier en médecine (Paris) :.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 24/08/2024..

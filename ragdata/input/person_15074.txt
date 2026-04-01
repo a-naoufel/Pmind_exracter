@@ -1,0 +1,11 @@
+PERSON: PHILIPPUS Justoti
+Also known as: Philippe JUSTOTI.
+Description: Étudiant en médecine..
+Status: Gradué.
+Gender: male.
+Active during: %1456-1458%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse d’Autun ;.
+Studied at: Paris (Nation de France) %1456-1458%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Étudiant en médecine (Paris) %1457-1458%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/06/2023..

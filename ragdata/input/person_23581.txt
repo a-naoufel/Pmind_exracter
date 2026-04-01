@@ -1,0 +1,10 @@
+PERSON: PETRUS Bernou
+Also known as: Pierre BERNOU; Pierre BERNIER.
+Description: Hôte du Collège de Dormans-Beauvais ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1388-1389%.
+Studied at: Paris %1388-1389%..
+Academic grades obtained: Étudiant (Paris) %1388-1389%..
+College affiliation: Collège de Dormans-Beauvais : dépensier intérimaire %1388-1389% ?.
+Source: LAMOP : Opération Charles VI (n° 2357) :.

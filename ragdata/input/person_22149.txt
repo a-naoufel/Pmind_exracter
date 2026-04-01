@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Gandavo 1
+Also known as: Guillelmus de GANDAVO; Guillelmus THIESSELIN.
+Description: Chanoine de Tournai.
+Status: Incertain.
+Gender: male.
+Active during: %1240-1255%.
+Born in: Flandre (Gand) ?.
+Diocese of origin: Diocèse de Tournai ?.
+Studied at: ?.
+Academic grades obtained: Magister ..
+Ecclesiastical positions held: Chanoine de Tournai %1241-1255% ;; Chanoine de Lille (Saint-Pierre) %1242-1255% ;; Doyen de Lille (Saint-Pierre) %1248-1255% ;.
+Other ecclesiastical functions: Official de Tournai %1240-1244% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/05/2017..

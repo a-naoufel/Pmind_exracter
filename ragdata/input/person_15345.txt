@@ -1,0 +1,12 @@
+PERSON: PETRUS Brito
+Also known as: PETRUS BRITO.
+Description: Enseignant le décret à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1205-1218%.
+Studied at: Paris %1205-1218%..
+University functions: Enseignant le décret à Paris, entre %1205-1218%..
+Authored work: 'Glossae ad Comp. 1', composed around ?.
+Authored work: 'Reportationes glossarum', composed around ?.
+Authored work: '[Apparat Ecce vicit leo]', composed around %:1202:-:1210:%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 22/08/2023)..

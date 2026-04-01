@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Regis 2
+Also known as: Guillelmus REGIS.
+Description: Étudiant.
+Status: Incertain.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+Family relationships: Son parent est (peut-être) Guillelmus REGIS qui s'acquitte de son dû pour la collecte en même temps que lui..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/05/2022..

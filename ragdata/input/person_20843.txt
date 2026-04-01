@@ -1,0 +1,12 @@
+PERSON: Scolaris de Alpibus primus
+Also known as: Scolaris de ALPIBUS primus.
+Description: Cistercien.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Diocese of origin: Diocèse de Genève ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+College affiliation: Collège des Bernardins ;.
+Religious order: O. Cist. : abbaye (cistercienne) d’Aulps au diocèse de Genève ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 30/08/2016..

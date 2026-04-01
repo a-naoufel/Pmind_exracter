@@ -1,0 +1,15 @@
+PERSON: ARNALDUS de Claromonte
+Also known as: Arnaldus de CLAROMONTE.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1332-1337%.
+Studied at: Paris %1333-1334% ?.
+Academic grades obtained: Maître en théologie (Paris) "ex gratia"..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) %1333-1334% ?.
+Social origin: ?Noble..
+Religious order: O.F.M. : frère franciscain.
+Ecclesiastical positions held: Évêque de Tulle %1334-1337%..
+University functions: Orléans (couvent franciscain : lecteur) ;; Toulouse (couvent franciscain : lecteur) ;; Bordeaux (couvent franciscain : lecteur) ;; Paris (Faculté de Théologie : lecteur au couvent franciscain en )..
+Authored work: 'Utrum anime spearate a corpore virtute sacramentorum sufficienter purgate immediate habent dei visionem', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

@@ -1,0 +1,7 @@
+PERSON: RICARDUS Sapientis
+Also known as: Richard LESAIGE; Richard LESAGE; Ricardus SAPIENTIS.
+Description: Empirique parisien..
+Status: Extérieur.
+Gender: male.
+Active during: %1492-1495%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision Jean-Philippe Genet, 06/07/2024..

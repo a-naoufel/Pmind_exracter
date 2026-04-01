@@ -1,0 +1,11 @@
+PERSON: GUIDO de Gravia
+Also known as: Guido de GRAVIA.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1282-1282%.
+Studied at: ?Paris..
+Academic grades obtained: Magister ?.
+Family relationships: Est-il parent d'Agnes de GRAVIA, également détentrice d'une maison ?.
+Social origin: Bourgeois de Paris ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/01/2022..

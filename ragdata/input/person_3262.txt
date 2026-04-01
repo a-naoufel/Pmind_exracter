@@ -1,0 +1,11 @@
+PERSON: GORGETUS Villain
+Also known as: Gorgetus VILLAIN; Georget VILLAIN.
+Description: Boursier artien au Collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1353-1353%.
+Studied at: Paris (Collège de Navarre) %1353-1353%..
+Academic grades obtained: Étudiant ès arts (Paris) ..
+College affiliation: Boursier artien au Collège de Navarre à Paris en ..
+Family relationships: Son père est Georges VILLAIN, notaire et secrétaire du roi..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 19/01/2022..

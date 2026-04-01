@@ -1,0 +1,26 @@
+PERSON: PREVOSTIN
+Also known as: PREVOSTIN; PREVOTIN; PRAEPOSITINUS.
+Description: Chancelier de Paris.
+Status: Maître.
+Gender: male.
+Active during: ?%1165-1210%.
+Born in: Italie (Lombardie : Crémone)..
+Diocese of origin: Diocèse de Crémone..
+Studied at: Paris ;; ?Bologne..
+Academic grades obtained: Maître en théologie (Paris) ;; ?S.Droit (Bologne)..
+Academic relationships: Jean de MATHA est un de ses élèves..
+Ecclesiastical positions held: ?Chanoine de Mayence %1194-1203% ;; Chanoine de Paris %1206-1210% ;; Chancelier de Paris %1206-1210%..
+University functions: Enseignant la Théologie à Paris, %1191-1192%..
+Authored work: 'Quaestiones', composed around %:1170:-:1180:%.
+Authored work: 'Tractatus de peccato originali', composed around ?.
+Authored work: 'Summa de poenitentia injungenda', composed around ?.
+Authored work: 'Summa contra haereticos', composed around %1184-1210%.
+Authored work: 'Summa super Psalterium', composed around 1196-1198%.
+Authored work: 'Tractatus de Officiis', composed around ?.
+Authored work: 'Summa theologica', composed around %1206-1210%.
+Authored work: '[Huit sermons de Mayence]', composed around %1194-1198%.
+Authored work: '[Trente-six sermons parisiens]', composed around %1205-1210%.
+Authored work: '[Neuf sermons du chancelier]', composed around %1206-1210%.
+Authored work: '[Six sermons de Paris]', composed around %1206-1210%.
+Authored work: '[Sermons divers]', composed around ?.
+Authored work: 'Collecta ex distinctionibus Praepositini', composed around ?.

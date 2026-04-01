@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Salmonisvilla
+Also known as: Guillelmus de SALMONISVILLA.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1249-1261%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Chanoine de Rouen %1249-1261% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 17/04/2022..

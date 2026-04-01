@@ -1,0 +1,13 @@
+PERSON: DAVID Scotus
+Also known as: David SCOTUS.
+Description: Évêque de Bangor.
+Status: Étudiant.
+Gender: male.
+Active during: %1106-1138%.
+Born in: Irlande..
+Studied at: ?Paris, où il aurait suivi les leçons de Guillaume de CHAMPEAUX avant ..
+Ecclesiastical positions held: Evêque de Bangor %1120-1127% ?.
+Authored work: '(Comment. super Jerem.)', composed around ?.
+Authored work: '(Historia en trois livres du règne de l'Empereur Henri V)', composed around .
+Authored work: '(Traités en défense de la politique de l'Empereur Henri V)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/07/2015)..

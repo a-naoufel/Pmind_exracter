@@ -1,0 +1,10 @@
+PERSON: HUGO de Monteformoso
+Also known as: Hugo de MONTEFORMOSO.
+Description: Sous-bedeau de la Faculté de décret..
+Status: Suppôt.
+Gender: male.
+Active during: %1438-1438%.
+Studied at: Paris..
+Academic grades obtained: ?.
+University functions: Sous-bedeau de la Faculté de décret de Paris nommé le 4 septembre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 04-06-2015..

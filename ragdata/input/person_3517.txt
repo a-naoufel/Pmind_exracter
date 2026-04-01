@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Patemoysi
+Also known as: Guillaume PATEMOYSI.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1307-1307%.
+Born in: Orléanais (Orléans) ;.
+Diocese of origin: Diocèse d’Orléans ?.
+Studied at: Paris..
+Academic grades obtained: Magister cité en 1307..
+College affiliation: Sorbonne..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 14/04/2020..

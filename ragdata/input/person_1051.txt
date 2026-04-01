@@ -1,0 +1,10 @@
+PERSON: ARNULPHUS de Borcendi Curia
+Also known as: Arnulfus de BORCENDI CURIA.
+Description: Procureur du Chapitre de Notre-Dame de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1285-1285%.
+Studied at: ?.
+Academic grades obtained: ?.
+Other ecclesiastical functions: Procureur du chapitre de Notre-Dame de Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet 17/11/2020..

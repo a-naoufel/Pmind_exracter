@@ -1,0 +1,12 @@
+PERSON: CASSINUS Sarrazin
+Also known as: Cassin SARRAZIN.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1357-1357%.
+Born in: Artois..
+Diocese of origin: Diocèse de Thérouanne..
+Studied at: Paris ..
+Academic grades obtained: Étudiant ès Arts en ..
+College affiliation: Collège de Boncourt ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision Jean-Philippe Genet, 06/04/2021...

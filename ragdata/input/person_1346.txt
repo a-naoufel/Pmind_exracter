@@ -1,0 +1,13 @@
+PERSON: BERNARDUS de Verdun
+Also known as: Bernard de VERDUN.
+Description: Franciscain.
+Status: Incertain.
+Gender: male.
+Active during: %1280-1300%.
+Born in: ?Lorraine (?Verdun)..
+Studied at: ?.
+Academic grades obtained: Magister.
+Religious order: Franciscain.
+Authored work: 'Thesaurus philosophiae', composed around ?.
+Authored work: 'Tract. super totam Astrologiam', composed around ?.
+Source: http://sip.mirabileweb.it.

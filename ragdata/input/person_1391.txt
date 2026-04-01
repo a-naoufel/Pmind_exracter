@@ -1,0 +1,11 @@
+PERSON: BERNARDUS Suircosyn
+Also known as: Bernardus SUIRCOSYN.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1458-1458%.
+Born in: Pologne..
+Diocese of origin: Diocèse de Wloclawek..
+Studied at: Paris (Nation Anglo-allemande).
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 20/02/2021).

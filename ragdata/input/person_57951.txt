@@ -1,0 +1,9 @@
+PERSON: PHILIPPUS de La Gareinne
+Also known as: Philippus de LA GAREINNE.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1432-1432%.
+Studied at: Paris..
+Academic grades obtained: Maître (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 08/07/2024..

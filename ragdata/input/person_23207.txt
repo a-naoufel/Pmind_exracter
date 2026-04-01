@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Fraxinis
+Also known as: Guillelmus de FRAXINIS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1449-1449%.
+Born in: Anjou-Maine ?.
+Diocese of origin: Diocèse de LeMans ;.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Étudiant ès arts (Paris) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 25/03/2022..

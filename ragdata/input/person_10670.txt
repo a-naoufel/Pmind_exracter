@@ -1,0 +1,10 @@
+PERSON: REGINALDUS Le Cousturier
+Also known as: Reginaldus LECOUSTURIER.
+Description: Suppôt.
+Status: Suppôt.
+Gender: male.
+Active during: %1346-1346%.
+Studied at: Paris..
+Ecclesiastical status: Laïc..
+University functions: Paris (Faculté des Arts : serviteur ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 05-06-2024..

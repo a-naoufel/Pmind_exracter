@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Riveri
+Also known as: Guillelmus de RIVERI.
+Description: Boursier du Collège de Montaigu.
+Status: Étudiant.
+Gender: male.
+Active during: %1434-1434%.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Montaigu : boursier en ;.
+Ecclesiastical status: Prêtre..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/04/2021..

@@ -1,0 +1,10 @@
+PERSON: EGNO
+Also known as: EGNO; EGHNO.
+Description: Licencié ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1342-1342%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;.
+Academic relationships: Son maître est le magister CONRADUS, peut-être Conradus de MONTEPUELLARUM pour le baccalauréat en ; Son maître est Ulricus de AUGUSTA pour la licence en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet 6/07/2021..

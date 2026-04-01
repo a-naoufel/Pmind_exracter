@@ -1,0 +1,12 @@
+PERSON: HENRICUS Flourie
+Also known as: Henricus FLOURIE.
+Description: Clerc.
+Status: Extérieur.
+Gender: male.
+Active during: %1341-1345%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Lisieux ;.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical status: Clerc du diocèse de Lisieux ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

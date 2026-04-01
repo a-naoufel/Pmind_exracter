@@ -1,0 +1,12 @@
+PERSON: HUGO Sapientis
+Also known as: Hugo SAPIENTIS; Hugues SAPIENTIS.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1338-1349%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Lisieux ;.
+Studied at: Paris (Nation de Normandie) %:1338-1339%..
+Academic grades obtained: Maître ès arts (Paris) ;; Maître en médecine (Paris) ..
+Ecclesiastical positions held: Clerc du diocèse de Lisieux ;; Sollicite un bénéfice en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 11/09/2022.

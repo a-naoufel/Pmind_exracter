@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS Raoul
+Also known as: Guillaume RAOUL; Guillelmus RADULPHI.
+Description: Maître en théologie cistercien.
+Status: Maître.
+Gender: male.
+Active during: %1496-1520%.
+Diocese of origin: Diocèse de Tournai ?.
+Studied at: Paris..
+Academic grades obtained: Licencié en théologie (Paris) (26 janvier) ;; Maître en théologie (Paris) (13 décembre) ;.
+College affiliation: Collège Saint-Bernard ;.
+Religious order: O.Cist. : moine de l’abbaye (cistercienne) de Loos (diocèse de Tournai) ;.
+Religious functions: Sous-prieur du Collège Saint-Bernard ;; Abbé (cistercien) de Longvilliers (diocèse de Thérouanne) en ..
+University functions: Paris (Faculté de Théologie : maître-régent au collège Saint-Bernard %1513-1517%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 06/01/2024..

@@ -1,0 +1,26 @@
+PERSON: MARTINUS Magistri
+Also known as: Martinus MAGISTRI; Martinus LE MAISTRE; Martinus LE MAÎTRE; Martinus LEMAISTRE; Martinus LEMAÎTRE; Martinus des MAGISTRIS; Martinus MAÎTRE.
+Description: Maître en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1451-1482%.
+Born in: Touraine (Tours) ;.
+Diocese of origin: Diocèse de Tours ;.
+Studied at: Paris (Nation de France) %1451-1480% ;.
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Bachelier en théologie cursor (Paris) ;; Licencié en théologie (Paris) (12 février) ;; Maître en théologie (Paris) (30 mars) ;.
+College affiliation: Collège de Navarre : boursier ?; Enseignant la rhétorique au collège de Navarre en ;; Principal du collège Sainte-Barbe en ;; Candidat à la fonction de grand maître du collège de Navarre en ..
+Family relationships: Son père est Jean LEMAISTRE ; Sa mère est Gillette de NEUBOURG, issue d'une des familles importantes de Tours. Son frère est peut-être Johannes de MAGISTRIS, maître ès arts et auteur de Summule.
+Academic relationships: Élève de Johannes NORMANI en ; Maître de Johannes RAULINI ; Maître de Anthonius CISTEL au collège Sainte-Barbe ; Maître de Octavien de SAINT-GELAIS au collège Sainte-Barbe..
+Ecclesiastical positions held: Candidat à une prébende de l'église de Saint-Cajetan (diocèse de Tours) en juin ..
+University functions: Paris (Nation de France : procureur en ) ;; Paris (Université de Paris : recteur élu en mars ) ;; Paris (Nation de France : receveur en ) ;; Paris (Nation de France : receveur en ) ;; Paris (Faculté de Théologie : Lecteur de la Bible en (18 juillet)) ;; Paris (Université : Lector Ethicorum en %1470-1472%) ;.
+Authored work: 'Expositio super Salve Regina', composed around ?.
+Authored work: 'Expositio super librum praedicabilium Porphyrii', composed around ?.
+Authored work: 'Tractatus consequentiarum in vera divinaque Nominalium via', composed around ?.
+Authored work: 'Questiones morales de fortitudine novissime ab erratis mendisque limate adiecta tabula', composed around ..
+Authored work: 'Questiones moralium partes II: Questiones morales de fortitudine', composed around ?.
+Authored work: 'Questiones additate in librum de fortitudine magistri Martini de Magistris', composed around ?.
+Authored work: 'Questio de Fato', composed around ?.
+Authored work: 'Eximii doctoris parisiensis magistri Martini Magistri [de temperantia] liber', composed around ?.
+Authored work: 'Liber de Rhetorica', composed around ?.
+Authored work: '[Commentaire de l'Éthique]', composed around /Édité avec la traduction d’Henricus KOSBEIN, avec le commentaire de Johannes BURIDAN..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland, 10/06/2016, révision Jean-Philippe Geenet, 25/02/2021..

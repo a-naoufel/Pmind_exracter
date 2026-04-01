@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Brolio
+Also known as: Guillelmus de BROLIO; Guillaume de BROLIO; Guillelmus du BREUL; Guillelmus du BREIL.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1453-1477%.
+Born in: Anjou-Maine ?.
+Diocese of origin: Diocèse de LeMans ;.
+Studied at: Paris (Nation de France) %1453-1464%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Étudiant en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de LeMans %1470-1477% ;; Curé de Charné (diocèse de LeMans) %1472-1477% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 10/03/2022..

@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Gauchier
+Also known as: Guillelmus GAUCHIER; Guillaume GAUCHIER.
+Description: Boursier grammairien au collège de Navarre..
+Status: Étudiant.
+Gender: male.
+Active during: %1340-1343%.
+Studied at: Paris (Collège de Navarre) %1340-1343%..
+Academic grades obtained: Étudiant en grammaire (Paris) %1340-1343%..
+College affiliation: Collège de Navarre : boursier grammairien en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet 01/05/2022.

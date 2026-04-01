@@ -1,0 +1,11 @@
+PERSON: DAVID d'Athies
+Also known as: David d'ATHIES.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1468-1501%.
+Studied at: Paris %1468-1469%.
+Academic grades obtained: Étudiant (Paris) %1468-1469% ;.
+Religious order: O.S.B. : moine de l'abbaye (bénédictine) de Saint-Vaast à Arras dans le diocèse de Arras en %1468-1469% ;.
+Religious functions: Prieur de Gorre dans le diocèse d'Arras en ;; Prieur de Berclau dans le diocèse d'Arras en ;; Rentier de Berclau dans le diocèse d'Arras en ;; Aumônier de Berclau dans le diocèse d'Arras en ;; Prévôt de Mesnil en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 05/04/2021.

@@ -1,0 +1,9 @@
+PERSON: FERNANDUS de Weda
+Also known as: Fernandus de WEDA.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1385-1385%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en théologie ?.
+Religious order: Franciscain..

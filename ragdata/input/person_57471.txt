@@ -1,0 +1,9 @@
+PERSON: SIMON Pelletin
+Also known as: Simon PELLETIN.
+Description: Étudiant en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1415-1415%.
+Studied at: Paris %1415-1415%..
+Academic grades obtained: Étudiant en décret (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 14-02-2024..

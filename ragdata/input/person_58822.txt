@@ -1,0 +1,16 @@
+PERSON: RADULPHUS de Coggeshall
+Also known as: Radulphus de COGGESHALL.
+Description: Abbé de Coggeshall.
+Status: Extérieur.
+Gender: male.
+Active during: %1200-1229%.
+Diocese of origin: Angleterre..
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.Cist; : moine cistercien..
+Religious functions: Abbé de l’abbaye (O.Cist.) de Coggeshall (Essex) %1207-1218% ;.
+Authored work: 'Visio Thurkilli', composed around ?.
+Authored work: 'Chronicon Anglicanum', composed around ?.
+Authored work: 'Distinctiones monasticae et morales', composed around ?.
+Authored work: 'Chronicon de terrae sanctae et de captis a Saladino Hierosolymis', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 10/05/2025..

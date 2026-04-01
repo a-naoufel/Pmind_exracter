@@ -1,0 +1,14 @@
+PERSON: ARNALDUS de Barreris
+Also known as: Arnaud de BARRERIS.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1286-1308%.
+Born in: Gascogne ?.
+Diocese of origin: Diocèse de Lectoure ?.
+Studied at: Paris (Couvent dominicain) en ..
+Academic grades obtained: Étudiant (Paris) en théologie ?.
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Lectoure où il est étudiant en ;.
+University functions: Bordeaux (Couvent dominicain : Lecteur en Théologie )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 29/10/2020)..

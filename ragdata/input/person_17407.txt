@@ -1,0 +1,9 @@
+PERSON: BALDUINUS Ambianensis
+Also known as: Balduinus AMBIANENSIS.
+Description: Nuntius.
+Status: Suppôt.
+Gender: male.
+Active during: %1476-1476%.
+Studied at: Paris (Nation de Picardie) ..
+University functions: Paris (Nation de Picardie : nuntius) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 27/11/2020)..

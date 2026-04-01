@@ -1,0 +1,12 @@
+PERSON: RADULPHUS de Colonia
+Also known as: Radulphus de COLONIA.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1333-1333%.
+Born in: Rhénanie (Cologne ?) ?.
+Diocese of origin: Diocèse de Cologne ?.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts en ;.
+Academic relationships: Son maître est Johannes de WALTIRSTONA pour le baccalauréat en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/01/2025)..

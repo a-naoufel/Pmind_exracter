@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Fabrica
+Also known as: Guillelmus de FABRICA.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1379-1379%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Meaux..
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en décret (Paris) en ;.
+Ecclesiastical status: Clerc du diocèse de Meaux..
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus de ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 25/03/2022..

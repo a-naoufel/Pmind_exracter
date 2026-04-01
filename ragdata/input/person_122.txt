@@ -1,0 +1,31 @@
+PERSON: ADAM de Buckfield
+Also known as: Adamus BOCFELDIUS; Adam de BOUCHEMFORD; Adam de BOUCHERMEFORT; Adam de BOCFELD; Adam de BUCKFIELD.
+Description: Chanoine de Lincoln.
+Status: Extérieur.
+Gender: male.
+Active during: %1243-:1285:%.
+Born in: Angleterre (Bockenfield, Northumberland)..
+Diocese of origin: Diocèse de Durham..
+Studied at: Oxford 1238 ;; Paris ?.
+Academic grades obtained: Maître ès arts (Oxford) ..
+Family relationships: Son père est Robert de GRANTELEYE..
+Ecclesiastical positions held: Recteur de WestRounton (Yorkshire ) en ;; Recteur de Ivers (Buckinghamshire ) en ;; Chanoine de Lincoln, %1264 -1268%..
+Authored work: 'Commentarium in (Ps-) Aristotelis Librum de causis (R.1 et R.2)', composed around ?.
+Authored work: 'Commentarium in Aristotelis De Anima (R.1, R.2 et R.3)', composed around ?.
+Authored work: 'Rationes super De anima', composed around ?.
+Authored work: 'Commentarium in Costa-ben-Luca De differentia spiritus et animae', composed around ?.
+Authored work: 'Commentarium in Aristotelis Metaphysicam novam', composed around ?.
+Authored work: 'Commentarium in Aristotelis Metaphysicam veterem', composed around ?.
+Authored work: 'Commentarium in Aristotelis de Coelo et Mundo (R.1, R.2)', composed around ?.
+Authored work: 'Commentarium in Aristotelis de generatione et corruptione (R.1 et R.2)', composed around ?.
+Authored work: 'Commentarium in Aristotelis De longitudine et brevitate vitae (R.1 et R.2)', composed around ?.
+Authored work: 'Commentarium in Aristotelis De memoria et reminiscentia (R.1 et R.2)', composed around ?.
+Authored work: 'Commentarium in Aristotelis De morte et vita', composed around ?.
+Authored work: 'Commentarium in Aristotelis De sensu et sensato (R.1 et R.2)', composed around ?.
+Authored work: 'Commentarium in Aristotelis De somno et vigilia (R.1, R.2 et R.3)', composed around ?.
+Authored work: 'Commentarium in (Ps-)Aristotelis De Vegetabilibus', composed around ?.
+Authored work: 'Commentarium in Aristotelis Meteora', composed around ?.
+Authored work: 'Commentarium in Aristotelis Physicam', composed around ?.
+Authored work: 'Quaestio de augmento [secundum magistrum Adam de Bochefeld]', composed around ?.
+Authored work: 'Quaestio de tempore', composed around ?.
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

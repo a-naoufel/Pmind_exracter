@@ -1,0 +1,11 @@
+PERSON: HENRICUS de London 2
+Also known as: Henricus de LONDON.
+Description: Fellow de Merton.
+Status: Incertain.
+Gender: male.
+Active during: %1284-1289%.
+Born in: Angleterre (?Yorkshire) ..
+Studied at: Oxford (Merton College) ..
+Academic grades obtained: Maître ès arts (Oxford)..
+University functions: Oxford (Merton College : fellow %1284-1289%) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 30/07/2022..

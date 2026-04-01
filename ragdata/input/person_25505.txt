@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Clauso
+Also known as: Guillermus de CLAUSO; Guillermus de LAUSANA.
+Description: Chanoine de Besançon.
+Status: Incertain.
+Gender: male.
+Active during: %1341-1348%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical positions held: Chanoine de Besançon %1341- % ;; Chanoine de Lausanne %1347-1348% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/03/2022)..

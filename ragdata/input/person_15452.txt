@@ -1,0 +1,14 @@
+PERSON: GUIDO de Munois
+Also known as: Guido de MUNOIS; Gui de MUNOIS.
+Description: Abbé de Saint-Germain d’Auxerre.
+Status: Étudiant.
+Gender: male.
+Active during: %1260-1313%.
+Born in: Bourgogne (Mesmont ?) ;.
+Diocese of origin: Diocèse d’Autun ;.
+Studied at: Paris ;.
+Academic grades obtained: Orléans ;; Étudiant en théologie (Paris) ?.
+Social origin: Noble ;.
+Religious order: O.S.B. : moine bénédictin de l’abbaye (bénédictine) d’Auxerre (Saint-Germain) ;; Granatarius de l’abbaye (bénédictine) d’Auxerre (Saint-Germain) ;; Aumônier du prieuré (bénédictin) de Moutiers ;; Prieur du prieuré (bénédictin) de Diges ;; Prieur de l’abbaye (bénédictine) d’Auxerre (Saint-Germain) en ;; Abbé de l’abbaye (bénédictine) d’Auxerre (Saint-Germain) %1285-1309% ;.
+Authored work: 'De gesta abbatum S. Germani Autissodoriensis', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 24/04/2025..

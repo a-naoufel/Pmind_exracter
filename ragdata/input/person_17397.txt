@@ -1,0 +1,11 @@
+PERSON: FOUCAUDUS de Baconel
+Also known as: Foucaudus de BACONEL; Foucaudus de BACOUEL; Fourcaudus de BOCOUEL.
+Description: Licencié en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1423-1426%.
+Studied at: Paris %1423-1426%..
+Academic grades obtained: Bachelier en décret (Paris) attesté en ;; Licencié en décret (Paris) en (4 avril) ;.
+Academic relationships: Son maître est Herveus POUCHARDI pour la licence en décret en ;.
+University functions: Paris (Faculté de décret : Lecteur des Décrétales (L. II) en (24 octobre) pour la 2e année et le 2e volume) ;; Paris (Faculté de décret : Lecteur des Décrétales (L. IV) en (28 octobre) pour la 4e année et le 4e volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 21/03/2022)..

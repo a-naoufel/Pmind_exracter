@@ -1,0 +1,10 @@
+PERSON: ARNALDUS de Brocke
+Also known as: Arnoldus de BROCKE alias Zokarst; Arnaldus ZOKARST.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1408-1408%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Academic relationships: Son maître est le Magister PAULUS..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 29/10/2020)..

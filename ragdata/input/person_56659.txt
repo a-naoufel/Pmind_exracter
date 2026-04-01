@@ -1,0 +1,10 @@
+PERSON: GERARDUS de Alzonio
+Also known as: Geraldus ALZONIO.
+Description: Official de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1411-1415%.
+Studied at: ?.
+Academic grades obtained: Bachelier en droit canon ;; Licencié en droit civil ;.
+Other ecclesiastical functions: Official de Clermont %1411-1412% ;; Vicairegénéral de Clermont ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 26/09/2023)..

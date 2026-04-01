@@ -1,0 +1,11 @@
+PERSON: RAIMUNDUS de Rampagiis
+Also known as: Raymundus de RAMPAGIIS.
+Description: O. Cist..
+Status: Étudiant.
+Gender: male.
+Active during: %1358-1358%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège Saint-Bernard..
+Religious order: O. Cist. : moine cistercien ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 01-06-2024..

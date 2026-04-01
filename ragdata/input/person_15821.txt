@@ -1,0 +1,11 @@
+PERSON: CLAUDIUS Pommier
+Also known as: Claudius POMMIER.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1501-1501%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Mâcon..
+Studied at: Paris %1501-1501%..
+Academic grades obtained: Bachelier en décret (Paris) (le 18 février) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 14/04/2021..

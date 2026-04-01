@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Trosnes
+Also known as: Guillermus TROSNES.
+Description: Chanoine de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1493-1506%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Poitiers %1493-1506% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 09/12/2022..

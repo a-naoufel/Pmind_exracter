@@ -1,0 +1,11 @@
+PERSON: GEORGIUS Fabri
+Also known as: Georgius FABRI.
+Description: Clunisien.
+Status: Étudiant.
+Gender: male.
+Active during: %1419-1419%.
+Studied at: Paris (Collège de Cluny) %1419-1419%..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Cluny : étudiant en ..
+Religious order: O.Clun. : moine (clunisien) du monastère Romeinmôtier (diocèse de Lausanne)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 1/12/2021..

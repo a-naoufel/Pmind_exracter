@@ -1,0 +1,15 @@
+PERSON: GEORGIUS Bruxellensis
+Also known as: Georgius BRUXELLENSIS; Georges de BRUXELLES.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1483-1510%.
+Born in: Brabant (Bruxelles ?)..
+Studied at: Paris (Nation de Picardie ?)..
+Academic grades obtained: Maître ès arts (Paris)..
+Authored work: 'Cursus optimarum questionum super philosophiam Aristotelis cum interpretatione textus secundum viam Modernorum ac secundum cursum magistri Georgii per magistrum Thomam Bricot sacrae theologiae professorem emendatae. Incipiunt quaestiones super philosophiam Aristotelis cum interpretatione textum eiusdem a magistro Georgio et per magistrum Thomam Bricot emendatae', composed around ?.
+Authored work: 'Quaestiones in totam logicam', composed around ?.
+Authored work: 'Expositio super VI libris Metaphysicorum Aristotelis', composed around ?.
+Authored work: 'Expositio in summulas Patri Hispani', composed around ?.
+Authored work: 'Commentarium in Aristotelis librum Topicorum', composed around ?.
+Source: MIRABILE :.

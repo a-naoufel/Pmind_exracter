@@ -1,0 +1,31 @@
+PERSON: CONRADUS de Halberstadt junior
+Also known as: Conrardus de ALVERSTAT; Conradus de HALBERSTADT junior; Conradus de ALEMANIA.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1342-1362%.
+Born in: Saxe (Halberstadt ?) ;.
+Diocese of origin: Diocèse de Halberstadt ?.
+Studied at: ?Paris ;; Montpellier..
+Academic grades obtained: Licencié en théologie (Montpellier) .; Maître en théologie (Montpellier) ;.
+Religious order: O.P. : frère dominicain..
+Religious functions: Vicaireprovincial (dominicain) de Saxe ;; Prieurprovincial (dominicain) de Saxe ..
+University functions: Magdeburg (Couvent dominicain : Lecteur des Sentences, assigné en ) ;.
+Authored work: 'Biblia breviata seu curtata', composed around ?, dedicated to Dédié à Ernest de PARDUBICE, archevêque de Prague..
+Authored work: 'Glossemata super Josue', composed around ?, dedicated to Dédié à l’Empereur CHARLES IV de Luxembourg..
+Authored work: 'Postilla super Iob', composed around ?.
+Authored work: 'Super I-IV libros Sententiarum Petri Lombardi', composed around ?.
+Authored work: 'De Trinitate', composed around ?, dedicated to Dédié à l’Empereur CHARLES IV de Luxembourg..
+Authored work: 'Tripartitus moralium', composed around ?.
+Authored work: 'Trivium praedicabilium', composed around à Halberstadt..
+Authored work: 'Liber similitudinum naturalium', composed around ?.
+Authored work: 'Consolatorium maestorum', composed around ?.
+Authored work: 'Tractatus de virginitate', composed around ?.
+Authored work: 'De numero duodenario', composed around ?, dedicated to Dédié à l’Empereur CHARLES IV de Luxembourg..
+Authored work: 'Responsorium Curiosum', composed around ?.
+Authored work: 'Mensa Philosophica', composed around ?.
+Authored work: 'Responsio ad questionem an novitius stans ultra annum probationis sue in aliquo monasterio in habitu novitiorum qui est distinctus in scissura, colore vel forma ab habitu prodessorum, censeatur tacite professus', composed around ?.
+Authored work: 'Figurae historiae Christi', composed around ?, dedicated to Dédié à l’Empereur CHARLES IV de Luxembourg..
+Authored work: 'Chronographia Summorum Pontificum et Imperatorum Romanorum', composed around ?, dedicated to Dédié à Ernest de PARDUBICE, archevêque de Prague..
+Authored work: 'De origine regnorum. De regno Romanorum', composed around ?.
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

@@ -1,0 +1,12 @@
+PERSON: ADAM de Bessrecourt
+Also known as: Adam de BESSRECOURT.
+Description: Étudiant du Collège de Laon..
+Status: Étudiant.
+Gender: male.
+Active during: %1385-1385%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon..
+Studied at: Paris (Nation de Picardie) %1385-1385%..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Laon : boursier, il quitte le collège en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/12/2020..

@@ -1,0 +1,12 @@
+PERSON: CLEREMBALDUS Mercatoris
+Also known as: Clerembault MARCHAND.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1468-1476%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon..
+Studied at: Paris (Nation de Picardie) %1390-1391%..
+Academic grades obtained: Maître ès arts (Paris) avant ;.
+College affiliation: Collège de Laon : boursier ès arts %1468-1470% ;; Collège de Laon : boursier en théologie %1473-1476% ;; Collège de Laon : procureur %1475-1476% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 6/01/2021..

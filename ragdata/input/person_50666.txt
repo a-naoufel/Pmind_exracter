@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Gresso
+Also known as: Guillelmus de GRESSO; Guillelmus de GROSS..
+Description: Médecin.
+Status: Incertain.
+Gender: male.
+Active during: %1301-1301%.
+Studied at: ?.
+Academic grades obtained: Maître en médecine ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 20/03/2020..

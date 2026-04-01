@@ -1,0 +1,12 @@
+PERSON: ALEXANDER de Wichard
+Also known as: Alexander de WICHARD.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1391-1391%.
+Born in: Écosse..
+Studied at: Paris ..
+Academic grades obtained: Étudiant en décret (Paris) en ..
+Social origin: Noble..
+Ecclesiastical positions held: Candidat à l'égliseparoissiale de Careston (diocèse de Saint-Andrews) vacante par la mort en curie de Adam BLAKE sur le rotulus composé par Henri BAYLER, évêque d'Alet en .; Chanoine d'Elgin avec prébende de Duthil en ;; Chanoine de Ross avec prébende de Lumpuliro (?) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 29/06/2020)..

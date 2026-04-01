@@ -1,0 +1,13 @@
+PERSON: LAMBERTUS de Marchia
+Also known as: Lambertus de MARCHIA.
+Description: Recteur de l’université.
+Status: Maître.
+Gender: male.
+Active during: %1361-1379%.
+Born in: Lorraine ?.
+Diocese of origin: Diocèse de Toul ;.
+Studied at: Paris (Nation de France) %1361-1371%..
+Academic grades obtained: Maître ès arts (Paris) en ;; Étudiant en théologie depuis quatre ans en ;.
+Ecclesiastical positions held: Chanoineprébendé d’Épinal (Saint-Goëry) en ;; Provision pour un bénéfice ecclésiastique à la collation de l’évêque, du doyen et du chapitre de Langres : mandat au chancelier de Paris ;.
+University functions: Paris (Université : recteur en (novembre) ;; Paris (Nation de France : il participe en (6 mai) à une réunion sur la rémunération du curé de Paris (Saint-Nicolas-du-Chardonnet) pour des messes dites en l’absence du chapelain, alors à Rome) ;; Paris (Nation de France : intrans en (23 juin) pour l’élection du recteur) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 26/06/2025)..

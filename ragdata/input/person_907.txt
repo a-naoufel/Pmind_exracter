@@ -1,0 +1,12 @@
+PERSON: ARNALDUS Guillelmi
+Also known as: Arnaldus GUILLELMI; Arnaud GUILLAUME.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1268-1316%.
+Born in: Béarn (Lourdes)..
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: Dominicain en ..
+University functions: Albi (Lecteur en Logique en ) ;; Rieux (Lecteur en Théologie en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 10/11/2020)..

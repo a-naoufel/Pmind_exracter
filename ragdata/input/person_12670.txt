@@ -1,0 +1,12 @@
+PERSON: NICOLAUS de Leodio
+Also known as: Nicolaus de LEODIO.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1450-1450%.
+Studied at: Paris %1450-1450%..
+Academic grades obtained: Bachelier en théologie (Paris) vers ..
+Academic relationships: Son maître est Robertus CYBOULE, D.T., en ..
+Religious order: O.S.B. : moine bénédictin ;.
+University functions: Paris (Faculté de Théologie : Lecteur de la Bible (1er cours) le 13 octobre ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 6/01/2019..

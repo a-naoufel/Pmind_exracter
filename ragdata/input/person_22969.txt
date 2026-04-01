@@ -1,0 +1,11 @@
+PERSON: MARTINUS de Agada
+Also known as: Martinus de AGADA.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1438-1438%.
+Born in: Catalogne ?.
+Studied at: Paris ..
+Academic grades obtained: Maître..
+College affiliation: Sorbonne (8 Juin) : reçu comme hôte ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 3/05/2025)..

@@ -1,0 +1,15 @@
+PERSON: ALBERTUS Cluniacensis
+Also known as: ALBERTUS; Albert de CLUNY.
+Description: Prieur de Montdidier.
+Status: Maître.
+Gender: male.
+Active during: %1270-1285%.
+Studied at: Paris %:1270:-1285%?.
+Academic grades obtained: Docteur en théologie (Paris) %:1270:-:1271:%.
+Religious order: Clunisien.
+Religious functions: Prieur (clunisien) de Montdidier dans le diocèse d'Amiens en ..
+University functions: Paris (Faculté de Théologie de Paris : maître-régent %1282-1285%?) ;.
+Representation roles: Présent à l'assemblée convoquée pour régler les différends entre séculiers et mendiants, décembre ..
+Authored work: '[Sermon pour l'Épiphanie]', composed around (6 janvier) à Paris..
+Authored work: '(Sermon pour Septuagésime)', composed around (14 février)..
+Source: MIRABILE, A. CENCINI :.

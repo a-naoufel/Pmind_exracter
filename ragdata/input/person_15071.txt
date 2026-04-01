@@ -1,0 +1,9 @@
+PERSON: PHILIPPUS Hay
+Also known as: Philippe HAY.
+Description: Bachelier en médecine..
+Status: Gradué.
+Gender: male.
+Active during: %1410-1410%.
+Studied at: Paris %1410-1410%..
+Academic grades obtained: Bachelier en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Dernière mise à jour : Jean-Philippe Genet 22/04/2024)..

@@ -1,0 +1,9 @@
+PERSON: NICOLAUS Parvi 2
+Also known as: Nicolas PARVI.
+Description: Bachelier en médecine.
+Status: Gradué.
+Gender: male.
+Active during: %1464-1470%.
+Studied at: Paris %1464-1470%..
+Academic grades obtained: Étudiant en ?; Bachelier en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 7/08/2016..

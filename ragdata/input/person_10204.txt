@@ -1,0 +1,10 @@
+PERSON: PETRUS de Verberia 2
+Also known as: Petrus de VERBERIA.
+Description: Clerc.
+Status: Incertain.
+Gender: male.
+Active during: %1335-1335%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Clerc marié ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/03/2024)..

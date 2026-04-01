@@ -1,0 +1,11 @@
+PERSON: ELIAS de Trikingham 1
+Also known as: Elias de TRIKINGHAM.
+Description: Maître ?.
+Status: Incertain.
+Gender: male.
+Active during: %1230-1240%.
+Born in: Angleterre ?.
+Studied at: Paris ?.
+Academic grades obtained: Maître ?.
+Authored work: 'De disciplina scholarium', composed around %1230-1240%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 29/04/2016)..

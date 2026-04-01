@@ -1,0 +1,11 @@
+PERSON: PAULUS
+Also known as: PAULUS.
+Description: Hôte du collège de Dainville.
+Status: Étudiant.
+Gender: male.
+Active during: %1396-1397%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dainville : hôte vers %1396-1397% ;.
+Ecclesiastical positions held: Curé de Buistathe ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

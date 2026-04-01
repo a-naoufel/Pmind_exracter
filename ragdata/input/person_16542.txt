@@ -1,0 +1,9 @@
+PERSON: ANSELMUS de Novo Castro
+Also known as: Ancelmus de NOVO CASTRO.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1329 -1330%.
+Studied at: Paris %1329 -1330%..
+Academic grades obtained: Étudiant ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet et Claire Priol, dernière mise à jour 17/07/2015)..

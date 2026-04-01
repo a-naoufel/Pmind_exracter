@@ -1,0 +1,10 @@
+PERSON: ARNALDUS Kunnen
+Also known as: Arnoldus KUNNEN; Arnoldus CONEN.
+Description: Procureur de la Nation Anglo-allemande.
+Status: Maître.
+Gender: male.
+Active during: %1455-1456%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Baccalauréat ès arts (Paris) .; Licencié ès arts (Paris) .; Maître ès arts (Paris) ..
+University functions: Paris (Nation Anglo-allemande : procureur élu en (2 juin)) ;; Paris (Nation Anglo-allemande : procureur élu en (2 juin)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/03/2025)..

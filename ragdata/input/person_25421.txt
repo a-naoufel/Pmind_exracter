@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Caturco
+Also known as: Guillelmus de CATURCO; Guillaume de CAHORS.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1267-1277%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Chanoine de Châlons-sur-Marne ;.
+Other ecclesiastical functions: Official de Reims %1267-1277% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 10/01/2019..

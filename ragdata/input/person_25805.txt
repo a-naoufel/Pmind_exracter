@@ -1,0 +1,12 @@
+PERSON: PETRUS de Zippa
+Also known as: Petrus de ZIPPA.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1367-1371%.
+Diocese of origin: Diocèse de Tournai ?.
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Bachelier ès lois en ;.
+Ecclesiastical positions held: Chapelain de Gand (Saint-Jean) en ;.
+University functions: Paris (Universté : recteur) ;; Paris (Faculté des Arts : Maître-régent en ?) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/03/2024..

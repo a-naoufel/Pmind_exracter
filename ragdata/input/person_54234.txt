@@ -1,0 +1,9 @@
+PERSON: QUINTINUS Massue
+Also known as: Quentin MASSUE.
+Description: Conseiller au Parlement de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1410-1427%.
+Studied at: ?.
+Academic grades obtained: Maître ?.
+Source: Bibliographie et chronologie de Paris au Moyen Âge :.

@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Ardee
+Also known as: Guillaume ARDÉE.
+Description: Membre du collège de Montaigu.
+Status: Maître.
+Gender: male.
+Active during: %1513-1513%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) en ;.
+College affiliation: Collège de Montaigu : membre en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

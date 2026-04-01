@@ -1,0 +1,7 @@
+PERSON: DIONYSIUS Bourrache
+Also known as: Dionysius dictus BOURRACHES.
+Description: Propriétaire d'une maison.
+Status: Extérieur.
+Gender: male.
+Active during: %1368-1368%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/05/2021..

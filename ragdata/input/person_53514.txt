@@ -1,0 +1,12 @@
+PERSON: SIMON de Bergeriis
+Also known as: Simon de BERGERIIS; Simon de BERGERII; Simon des BERGERIES.
+Description: Chanoine de Besançon.
+Status: Étudiant.
+Gender: male.
+Active during: %1435-1466%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) en , et en ;.
+Ecclesiastical positions held: Chanoine de Besançon %1435-1466% ;; Chanoine de Langres ;.
+University functions: Paris (Université : recteur ?) ;.
+Representation roles: Ambassadeur de la nation de France de l'université au concile de Bourges en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/03/2022)..

@@ -1,0 +1,19 @@
+PERSON: DANIEL de Parisiis
+Also known as: Daniel de PARIS; Daniel de PARISIUS.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1272-1273%.
+Born in: ?Île-de-France (Paris) ?.
+Diocese of origin: ?Diocèse de Paris..
+Studied at: Paris ?.
+Academic grades obtained: Étudiant à la faculté de théologie ?.
+College affiliation: Couvent (dominicain) de Paris (Jacobins) ?.
+Religious order: O.P. : frère dominicain..
+Authored work: 'Sermo ad S. Lefredum eodem die, post prandium', composed around (13 novembre) II Dominica infra octavam beati Martini)..
+Authored work: 'Sermo ad S.Gervasium eodem die, post prandium', composed around (20 novembre : II Dominica post octavam beati Martini)..
+Authored work: 'Sermo ad S. Gervasium eodem die, post prandium', composed around (25 décembre : Noël)..
+Authored work: 'Sermo eadem die ad Magdalenam, post prandium', composed around (1er janvier : In die Circumcisione)..
+Authored work: 'Sermo ad S. Antonium in cathedra S. Petri', composed around (22 février : In die Cinerum ; fête de la chaire de Saint PIERRE).
+Authored work: 'Sermo ad S. Gervasium in festo Trinitatis, post prandium', composed around .
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 5/09/2015..

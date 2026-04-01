@@ -1,0 +1,12 @@
+PERSON: VINCENTIUS Mercerii
+Also known as: Vicentius MERCERII.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1338-1338%.
+Born in: Provence ?.
+Diocese of origin: Diocèse de Valence..
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+Family relationships: Son épouse est LIPDID, alias ALAZIA ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/09/2024..

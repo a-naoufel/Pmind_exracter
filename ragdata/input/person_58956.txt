@@ -1,0 +1,15 @@
+PERSON: THEOBALDUS de Aula
+Also known as: Theobaldus de AULA.
+Description: Chanoine de Chalon.
+Status: Incertain.
+Gender: male.
+Active during: %1342-1361%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Mâcon ;.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Family relationships: Son père est Jean de LASALLE, chevalier ; Son oncle est Theobaldus de AULA, doyen de Chalon ;.
+Social origin: Noble ?.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Chalon %1342-1355% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/05/2025..

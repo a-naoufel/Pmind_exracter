@@ -1,0 +1,8 @@
+PERSON: BALLTO de Normesia
+Also known as: Ballto de NORMESIA.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris %1313-1313%..
+Academic grades obtained: Étudiant (Paris) ..

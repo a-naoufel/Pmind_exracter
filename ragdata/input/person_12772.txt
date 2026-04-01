@@ -1,0 +1,11 @@
+PERSON: CLAUDIUS de Saxo
+Also known as: Claudius de SAXO; Claudius de SAIX.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1497-1497%.
+Studied at: Paris %1497-1497%..
+Academic grades obtained: Bachelier en théologie formatus (Paris) ..
+Religious order: O.Clun. : moine clunisien..
+Religious functions: Candidat à des bénéfices à la collation de l'abbé et de la communauté de Cluny (diocèse de Mâcon) en mars ;; Candidat à des bénéfices à la collation du prieur et de la communauté de Saint-Martin-des-Champs (diocèse de Paris) en mars ..
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 12/04/2021..

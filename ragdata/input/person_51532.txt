@@ -1,0 +1,13 @@
+PERSON: PETRUS Marcelli de Paternis
+Also known as: Petrus MARCELLI de Paternis; Petrus de PATERNIS; Peyre de PATERNAS.
+Description: Maître en théologie augustin.
+Status: Maître.
+Gender: male.
+Active during: %1340-1350%.
+Born in: Provence (Pernes) ?.
+Diocese of origin: Diocèse de Carpentras ?.
+Studied at: Paris..
+Academic grades obtained: Bachelier en théologie (Paris) ;; Maître en théologie (Paris) ..
+University functions: Paris (Faculté de Théologie : lecteur des Sentences au couvent des Augustins).; Toulouse (Maître-régent au couvent augustin en %1346-1347%) ;.
+Authored work: 'Liber asceticus de necessitate et sufficientia humanae vitae', composed around ., dedicated to Dédié à Delphine de BEAUFORT, nièce du pape CLÉMENT VI et épouse de Hugues de LAROCHE, maréchal de la Curie et recteur du Comtat : elle lui a demandé de traduire dans sa langue maternelle le Libellus revelationum attribué à Elisabeth de HONGRIE, duchesse de Thuringe, en fait un recueil apocryphe d’origine franciscaine : ce texte provençal est enchâssé dans un commentaire ; de la dédicace et de nombreux passages sont en latin..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 18/11/2020)..

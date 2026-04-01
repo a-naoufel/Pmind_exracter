@@ -1,0 +1,10 @@
+PERSON: QUENUS Phily de Sancto Nicasio
+Also known as: Quenus PHILY de Sancto Nicasio.
+Description: Notaire.
+Status: Extérieur.
+Gender: male.
+Active during: %1308-1308 %.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Quimper ;.
+Studied at: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 21/11/2019..

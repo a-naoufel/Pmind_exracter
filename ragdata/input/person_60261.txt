@@ -1,0 +1,10 @@
+PERSON: BRANDANUS Koeskul
+Also known as: Brandan KOESKUL.
+Description: Maître ès arts d’Erfurt ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1436-1444%.
+Born in: Livonie..
+Studied at: Paris avant ?; Erfurt ;; Rostock ..
+Academic grades obtained: Étudiant (Paris) ?; Maître ès arts (Erfurt) avant ;.
+Source: RAG ;.

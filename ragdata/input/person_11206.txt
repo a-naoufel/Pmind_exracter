@@ -1,0 +1,15 @@
+PERSON: ROBERTUS de Templo alias Septemvallibus
+Also known as: Robertus de TEMPLO alias SEPTEMVALLIBUS; Robert du Temple alias de SEPTEMVALLIBUS; Robert du TEMPLE; Robert TEMPLE; Robert de SEPTVAUX.
+Description: Boursier au collège de Navarre..
+Status: Maître.
+Gender: male.
+Active during: %1340-1362%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon..
+Studied at: Paris (Nation de Picardie), %1347-1351% ;.
+Academic grades obtained: Maître ès arts (Paris) dès ;; Étudiant en théologie (Paris) ..
+College affiliation: Collège de Laon : reçu au collège en ;; Collège de Navarre : boursier théologien en ;.
+Ecclesiastical status: Clerc du diocèse de Laon ;.
+Ecclesiastical positions held: Candidat sur le grand rotulus de l'Université de Paris en ..
+University functions: Paris (Nation de Picardie : procureur en ) ;; Paris (Nation de Picardie : maîtrerégent en %1349-1362%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 12/12/2020..

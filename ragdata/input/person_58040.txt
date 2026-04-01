@@ -1,0 +1,10 @@
+PERSON: OLIVERIUS Charasson
+Also known as: Olivarius CHARASSON.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1502-1504%.
+Studied at: Paris.
+Academic grades obtained: Bachelier en décret en (5 janvier) ;; Étudiant (Paris) en ;.
+College affiliation: Collège d’Autun : résident en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 11/09/2024..

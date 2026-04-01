@@ -1,0 +1,12 @@
+PERSON: PHILIPPUS Escoquart
+Also known as: Philippe ESCOQUART.
+Description: Archidiacre de Brie.
+Status: Maître.
+Gender: male.
+Active during: %1285-1307%.
+Academic grades obtained: Maître en théologie avant.
+Ecclesiastical positions held: Archidiacre de Brie en la cathédrale de Paris..
+University functions: Paris (Maître-Régent en Théologie vers )..
+Authored work: '(Sermon pour le premier dimanche de Carême)', composed around .
+Authored work: '(Sermon pour le samedi des Quatres Temps de Carême)', composed around .
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 27/08/2024)..

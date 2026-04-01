@@ -1,0 +1,10 @@
+PERSON: AEGIDIUS de Subfurno
+Also known as: Gilles de SOUBZLEFOUR; Gilles de DESOUBZLEFOUR; Aegidius de SUBFURNO; Gilles DESSOUBZ-LE-FOUR.
+Description: Chirurgien.
+Status: Suppôt.
+Gender: male.
+Active during: %1390-1421%.
+Family relationships: Son fils est Jean de SOUBZLEFOUR..
+University functions: Il présente, au nom du collège de Chirurgie, une supplique à la Faculté de Médecine de Paris en , pour qu’elle apporte son concours à la lutte contre les charlatans ;.
+Authored work: 'Recepta pro restriccione emorroidarum', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux, révision, Jean-Philippe Genet, 03/05/2020)..

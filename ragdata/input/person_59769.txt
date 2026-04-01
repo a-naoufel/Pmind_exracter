@@ -1,0 +1,13 @@
+PERSON: GEORGIUS Neusel
+Also known as: Georgius NEUSEL; Georgius NUZEL; Georgius de MISNIA.
+Description: Maître ès arts de Leipzig.
+Status: Maître.
+Gender: male.
+Active during: %1414-1424%.
+Born in: Saxe (Thorgau) ;.
+Diocese of origin: Diocèse de Meissen ?.
+Studied at: Paris (Nation Anglo-allemande) %1412-1415% ;; Leipzig %1423-1424%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Maître ès arts (Leipzig) ;.
+Academic relationships: Son maître est Johannes GUYLIC pour le baccalauréat en ; Son maître est Wilhelmus LOCHEM pour la licence en ; Son maître est Wilhelmus LOCHEM pour la maîtrise en ;.
+University functions: Paris (Nation Anglo-allemande ; il demande des litterae testimoniales de sa maîtrise en , demande qui lui est accordée) ;.
+Source: RAG ;.

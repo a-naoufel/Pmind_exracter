@@ -1,0 +1,7 @@
+PERSON: MARIA la Vinarde
+Also known as: Maria LA VINARDE.
+Description: Locataire de la Sorbonne.
+Status: Extérieur.
+Gender: female.
+Active during: %1431-1431%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 14/06/2024.

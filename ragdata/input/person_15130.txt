@@ -1,0 +1,11 @@
+PERSON: PETRUS Mathie
+Also known as: Pierre MATHIE.
+Description: Maître en arts..
+Status: Maître.
+Gender: male.
+Active during: %1412-1422%.
+Born in: Brandebourg (Bernau)..
+Diocese of origin: Diocèse de Brandebourg..
+Studied at: Paris ;; Vienne , %14I7% ;; Padoue %1415-1418% ;; Erfurt %1418-1419% ;; Rostock ;.
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en médecine (Padoue) ;; Bachelier en décret (Vienne) ;; Docteur en médecine (Padoue) ..
+Source: RAG ;.

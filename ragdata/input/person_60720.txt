@@ -1,0 +1,11 @@
+PERSON: BERNARDINUS
+Also known as: BERNARDINUS.
+Description: Chanoine de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1249-1253%.
+Studied at: ?.
+Academic grades obtained: Étudiant ;.
+Family relationships: Son grand-oncle est INNOCENT IV ;.
+Ecclesiastical positions held: Chanoine de Cambrai %1249-1253% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/12/2025)..

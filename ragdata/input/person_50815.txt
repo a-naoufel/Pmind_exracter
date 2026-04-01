@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Pichard
+Also known as: Guillelmus PICHARD.
+Description: Magister.
+Status: Incertain.
+Gender: male.
+Active during: %1302-1302%.
+Studied at: Paris ..
+Academic grades obtained: Magister en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 16/04/2020..

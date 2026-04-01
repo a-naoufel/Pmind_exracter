@@ -1,0 +1,10 @@
+PERSON: MARTINUS de Mol
+Also known as: Martinus de MOL.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1448-1448%.
+Studied at: Paris ..
+Academic grades obtained: Licencié en décret (Paris) en (4 avril)) ;.
+Academic relationships: Son maître est Martinus de FRAXINIS pour la licence en (4 avril)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ rédaction : Jean-Philippe Genet, 15/05/2022..

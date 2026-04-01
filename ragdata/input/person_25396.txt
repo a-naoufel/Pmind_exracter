@@ -1,0 +1,13 @@
+PERSON: ROBERTUS de Baubignoyo
+Also known as: Robertus de BAUBIGNOYO.
+Description: Abbé de Saint-Étienne de Dijon.
+Status: Maître.
+Gender: male.
+Active during: %1403-1403%.
+Studied at: Paris %1403-1403% ;.
+Academic grades obtained: Docteur en décret (Paris) ;.
+Religious order: O.S.A. : chanoinerégulier ;.
+Religious functions: Abbé (augustin) de Dijon (Saint-Étienne) en ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Magnus Rotulus de l’Université de Paris daté de (21 octobre) et présenté à BENOÎT XIII parmi les maîtres en décret ;.
+University functions: Paris (Faculté de Décret : Maître-régent) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 8/01/2019..

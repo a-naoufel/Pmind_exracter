@@ -1,0 +1,10 @@
+PERSON: MATTHAEUS Martini
+Also known as: Matthaeus MARTINI.
+Description: Boursier du collège de Dainville.
+Status: Maître.
+Gender: male.
+Active during: %1454-1464%.
+Studied at: Paris ..
+Academic grades obtained: Maître (Paris) en ?.
+College affiliation: Collège de Dainville : boursier en %1454-1456% ;; Collège de Dainville : procureur en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

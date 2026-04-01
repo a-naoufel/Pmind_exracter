@@ -1,0 +1,10 @@
+PERSON: PETRUS Reginaldi 5
+Also known as: Petrus REGINALDI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1496-.
+Studied at: Paris.
+Academic grades obtained: Maître ès arts (Paris) en ;.
+Ecclesiastical positions held: Candidat en d’après le rotulus nominatorum du recteur Guillaume BACHELOT à un bénéfice à la collation de l’archevêque de Bourges ;; Candidat en d’après le rotulus nominatorum du recteur Guillaume BACHELOT à un bénéfice à la présentation de l’abbesse (O.S.B.) de Charenton-du-Cher, diocèse de Bourges ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/02/2025)..

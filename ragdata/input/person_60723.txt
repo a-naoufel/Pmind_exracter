@@ -1,0 +1,10 @@
+PERSON: BOUCHARDUS
+Also known as: BOUCHARDUS.
+Description: Chanoine de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1245-1245%.
+Studied at: ?.
+Academic grades obtained: Maître ?.
+Ecclesiastical positions held: Chanoine de Cambrai ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/12/2025)..

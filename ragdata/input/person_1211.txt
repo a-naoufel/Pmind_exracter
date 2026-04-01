@@ -1,0 +1,12 @@
+PERSON: BARTHOLOMAEUS Johannis Hollandrinus de Schidam
+Also known as: Bartholomaeus JOHANNIS Hollandrinus de Schidam; Bartholomaeus Johannis Hollandrinus de SCHIDAM; Bartholomaeus Johannis HOLLANDRINUS de Schidam.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1382-1382%.
+Born in: Pays-Bas (Schiedam ?)..
+Diocese of origin: Diocèse d'Utrecht ?.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Academic relationships: Son maître est Johannes HOEKELEM..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/12/2020).

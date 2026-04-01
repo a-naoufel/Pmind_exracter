@@ -1,0 +1,10 @@
+PERSON: ALANUS de Beio
+Also known as: Alanus de BEIO.
+Description: Docteur in utroque d'Orléans.
+Status: Extérieur.
+Gender: male.
+Active during: %1363-1363%.
+Studied at: Orléans..
+Academic grades obtained: Docteur in utroque jure (Orléans)..
+Authored work: 'Harengua... quando creavit dominum Ricardum de Bisontino Aurelianens. doctorem', composed around ., dedicated to Écrit pour le doctorat de Ricardus de BISONTINO..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

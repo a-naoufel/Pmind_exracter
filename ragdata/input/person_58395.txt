@@ -1,0 +1,13 @@
+PERSON: PHILIPPUS de Otterberg
+Also known as: Philippus d’OTTERBERG.
+Description: Abbé d’Otterberg.
+Status: Maître.
+Gender: male.
+Active during: %1180-1225%.
+Born in: Allemagne ?.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ;.
+Academic relationships: Son maître est ROBERT, futur écolâtre de Cologne..
+Religious order: O.Cist. : moine cistercien..
+Religious functions: Abbé (Cistercien) d’Otterberg %1195-1225%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 12/01/2025..

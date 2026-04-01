@@ -1,0 +1,46 @@
+PERSON: HENRICUS Birnbaum de Piro 2
+Also known as: Henricus BRUNONIS de Piro; Henricus de PIRO; Heinrich BIRNBAUM.
+Description: Chartreux.
+Status: Gradué.
+Gender: male.
+Active during: %1418-1473%.
+Born in: Rhénanie (Cologne) ;.
+Diocese of origin: Diocèse de Cologne..
+Studied at: Paris (Nation Anglo-allemande) ;; Cologne ;; Bologne %1426-1428% ;; Louvain %1428-1431%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Maître ès arts (université inconnue) en ;; Etudiant en droit civil (Cologne) ;; Licencié ès lois (Bologne) ;; Docteur ès lois (Bologne) ;.
+Family relationships: Son oncle est Henricus BIRNBAUM de Piro, prévôt de Cologne (Saint-Cunibert)..
+Academic relationships: Son maître est Johannes WENK pour le baccalauréat en ;.
+Social origin: Bourgeoisie ;.
+Ecclesiastical status: Clerc du diocèse de Cologne en ;.
+Religious order: O.Carth. : moine chartreux de la Chartreuse de Cologne ;; O.Carth. : moine chartreux de la Chartreuse (observante) de Zeelhem ;.
+Religious functions: Prieur de la Chartreuse de Tournai ;; Prieur de la Chartreuse de Wesel ;; Prieur de la Chartreuse de Rettel ;; Prieur de la Chartreuse de Trèves ;; Prieur de la Chartreuse de Diest ;; Prieur de la Chartreuse de Liège ;.
+Ecclesiastical positions held: Ecolâtre de Liège (Saint-Paul) ;.
+Other ecclesiastical functions: Official de Cologne ;.
+University functions: Louvain (Faculté de droit : professeur %1427-1431%) ;; Cologne (Faculté de droit : professeur %1432-1435%) ;; Cologne (Université : recteur ) ;.
+Representation roles: Concile de Bâle : député de l'université de Cologne en ;.
+Authored work: 'Ad novitios liber de reformatione interna', composed around ?.
+Authored work: 'Considerationes decem ad sciendum qualiter fratres se habeant in visitationibus', composed around ?.
+Authored work: 'Continuatio libelli de christianissimo documento', composed around ?.
+Authored work: 'De confirmatione ordinis Carthusiensis', composed around ?.
+Authored work: 'De esu carnalium epistola grandis', composed around ?.
+Authored work: 'De horis canonicis', composed around ?.
+Authored work: 'De mundi vanitate et fallacia', composed around ?.
+Authored work: 'Defensio pro immaculato conceptu beatae Mariae virginis', composed around ?.
+Authored work: 'Epistola de casibus absolutionis', composed around ?.
+Authored work: 'Oculus fidei', composed around ?.
+Authored work: 'Oratio funebris Alberti Kiveti', composed around (20 ma) ;.
+Authored work: 'Responsio ad quaestiones prioris Carthusiae Basiliensis', composed around ?.
+Authored work: 'Responsio super tractatum de simonia Dionysii Cartusiani', composed around ?.
+Authored work: 'Sermones de sanctis', composed around ?.
+Authored work: 'Sermones de tempore', composed around ?.
+Authored work: 'Statuta ordinis in alphabetum redacta et explicatio dubiorum', composed around ?.
+Authored work: 'In Institutiones Commentarium', composed around %1430-1431%.
+Authored work: 'Consilium super non dandis et exigendis cautionibus pro missis', composed around ?.
+Authored work: 'Lectura Digesti novi', composed around ?.
+Authored work: 'Lectura super Infortiatum', composed around ?.
+Authored work: 'Lectura super Libris feudirum', composed around ?.
+Authored work: 'Quaestio de emptione reddituum', composed around ?.
+Authored work: 'Repetitio super legem ‘Id quod pauperibus’ (C. I 3 24)', composed around %1427-1428%..
+Authored work: 'Repetitiones', composed around ?.
+Authored work: 'Tractatus actionum', composed around ?.
+Source: MIRABILE :.

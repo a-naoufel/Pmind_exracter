@@ -1,0 +1,9 @@
+PERSON: NICOLAUS Quarreti
+Also known as: Nicolaus de QUARRETI; Nicolas de QUARRETI.
+Description: Boursier artien au collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1351-1351%.
+Studied at: Paris (Collège de Navarre) %1351-1351%..
+Academic grades obtained: Étudiant ès arts (Paris) ..
+College affiliation: Boursier artien au collège de Navarre à Paris en ..

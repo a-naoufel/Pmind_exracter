@@ -1,0 +1,10 @@
+PERSON: PETRUS Wagnet
+Also known as: Petrus WAGNET; Petrus VAYER.
+Description: Chanoine du Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1478-1489%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical positions held: Chanoine de LeMans en %1478-1489% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 10/08/2023)..

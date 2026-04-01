@@ -1,0 +1,10 @@
+PERSON: GUIDOCUS de Ypris
+Also known as: Guidocus de YPRIS.
+Description: Étudiant en médecine.
+Status: Étudiant.
+Gender: male.
+Active during: %1407-1408%.
+Born in: Flandre (Ypres ?) ?.
+Studied at: Paris %1407-1408%..
+Academic grades obtained: Étudiant en médecine (Paris) %1407-1408%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne TOURNIEROUX ; Jean-Philippe GENET, 06/02/2022..

@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Des Rues
+Also known as: Guillelmus des RUES; Guillaume des RUES.
+Description: ?Médecin.
+Status: Incertain.
+Gender: male.
+Active during: %1490-1491%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe GENET, 13/10/2019..

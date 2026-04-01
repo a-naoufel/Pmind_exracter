@@ -1,0 +1,10 @@
+PERSON: HUBERTUS de Bonovolatu
+Also known as: Hubertus de BONOVOLATU.
+Description: Chanoine du Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1250-1250%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de LeMans ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 12/07/2023)..

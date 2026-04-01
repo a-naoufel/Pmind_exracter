@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS de Quarello
+Also known as: Aegidius de QUARELLO; Aegidius de CARELLO.
+Description: Chanoine d'Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1350-1353%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d'Amiens %1352-1353% ;.
+Other ecclesiastical functions: Pénitencier d'Amiens %1350-1353% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 01/05/2020)..

@@ -1,0 +1,10 @@
+PERSON: PONCETUS Fornerii
+Also known as: Poncetus FORNERII.
+Description: Boursier en décret du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1459-1459%.
+Studied at: Paris.
+Academic grades obtained: Étudiant en décret (Paris) en ;.
+College affiliation: Collège d'Autun : boursier en décret en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 04/09/2024..

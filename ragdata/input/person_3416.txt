@@ -1,0 +1,11 @@
+PERSON: GUIDO de Suecia
+Also known as: Guido de SUECIA.
+Description: Prêtre.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-:1340:%.
+Born in: Suède.
+Studied at: Paris (collège de Linköping), %1329-1330%..
+College affiliation: Collège de Linköping..
+Ecclesiastical positions held: Prêtre.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Révision Élisabeth Mornet, 16/01/2017..

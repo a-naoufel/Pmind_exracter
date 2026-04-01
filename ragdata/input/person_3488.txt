@@ -1,0 +1,24 @@
+PERSON: GUILLELMUS Ficheti
+Also known as: Guillelmus FICHETI; Guillelmus FICETI; Guillelmus FICHET; Guillelmus FICHETUS; Guillelmus FISCHET; Guillelmus FISSET; Guillelmus PHICHETI; Guillelmus VICHETI; Guillaume FICHET.
+Description: Recteur de l'Université de Paris..
+Status: Maître.
+Gender: male.
+Active during: %1452-1478%?.
+Born in: Savoie (Le Petit-Bornand)..
+Diocese of origin: Diocèse de Genève..
+Studied at: Paris (Nation de France) %:1452-1477% ;.
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Bachelier en théologie (Paris) ;; Licencié en théologie (Paris) 23 janvier ;; Maître en théologie (Paris) 7 avril ..
+College affiliation: Paris (Collège de Sorbonne) %1461-1477%.; Collège de Sorbonne : il est admis à la probation en (5 décembre) ;; Collège de Sorbonne : hôte admis en (12 décembre) ;; Collège de Sorbonne : socius en ;; Collège de Sorbonne : prieur en %1465-1466%, élu en (25 avril) ;; Collège de Sorbonne : il assiste aux discussions concernant la distribution des bourses, à la fois pour lui-même et pour magister Johannes QUENTINI, janvier et février ;; Bibliothécaire du du Collège de Sorbonne élu le 25 mars et à nouveau le 25 mars .; Demande au Collège de Sorbonne de lui rembourser un prêt de neuf "scuta" pour des réparations, 10 avril ..
+Academic relationships: Son maître est Petrus de VAUCELLO ; Son élève est Robert GAGUIN..
+University functions: Paris (Faculté de Théologie : Lecteur de la Bible, comme bachelier en théologie en (21 février)) ;; Paris (Faculté de Théologie : Lecteur de la Bible en (31 août)) ;; Paris (Faculté de Théologie : Lecteur des Sentences en (septembre)) ;; Paris (Nation de France, procureur élu en ) ;; Paris (Université : Recteur élu par la Faculté des Arts en (24 juin) jusqu’au 10 octobre) ;.
+Representation roles: Mission diplomatique à Milan en Italie : envoyé avec Aegidius de ALNETIS par LOUIS XI, roi de France auprès de Galeazzo Maria SFORZA, duc de Milan pour le persuader de faire appel au roi de France pour réunir un nouveau concile de l'Église, %1469-1470% ;.
+Authored work: 'Sermo de s. Stephano', composed around .
+Authored work: 'Compendiosus dialogus de arte punctandi', composed around .
+Authored work: 'De caracteribus institutio', composed around .
+Authored work: 'Rhetorica', composed around ?.
+Authored work: 'Exordia.', composed around ?.
+Authored work: 'Epistolae', composed around ?.
+Authored work: 'Consolatio luctus parisiensis', composed around ?.
+Authored work: '[Correspondance avec BESSARION]', composed around ?.
+Authored work: '[Préface et lettres dédicatoires des Orationes de BESSARION]', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol et Anne Tournieroux ; révision : Jean-Philippe Genet, 23/08/2017..

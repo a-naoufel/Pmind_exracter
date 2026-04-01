@@ -1,0 +1,8 @@
+PERSON: ADAM Flamingi
+Also known as: Adam FLAMING; Adam le FLAMENC.
+Description: Fermier d'impôt.
+Status: Extérieur.
+Gender: male.
+Active during: %1365-1372%.
+Studied at: ?.
+Academic grades obtained: ?.

@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Britonis 1
+Also known as: Nicolaus BRITONIS.
+Description: Bachelier en droit canon.
+Status: Gradué.
+Gender: male.
+Active during: %1415-1425%.
+Studied at: Paris %1415-1425%.
+Academic grades obtained: Bachelier en décret (Paris) (14 mars) ;.
+Social origin: Noble ;.
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (L. V) en (16 octobre) pour la 4e année et le 4e volume) ;; Paris (Faculté de Décret : Lecteur des Décrétales (L. III) en (11 octobre) pour la 4e année et le 4e volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 9-02-2024..

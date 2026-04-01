@@ -1,0 +1,13 @@
+PERSON: PHILIPPUS de Novomolendino
+Also known as: Philippus de NOVOMOLENDINO; Philippe de NEUFMOULIN.
+Description: Boursier grammairien au collège de Navarre..
+Status: Étudiant.
+Gender: male.
+Active during: %1382-1419%.
+Born in: Picardie..
+Studied at: Paris %1382-1382%..
+Academic grades obtained: Étudiant en grammaire (Paris) ..
+College affiliation: Boursier grammairien au collège de Navarre à Paris en ..
+Social origin: Noble..
+Ecclesiastical positions held: Chantre du chapitre cathédral de Cambrai %:1402:-:1419:%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 05/04/2024..

@@ -1,0 +1,12 @@
+PERSON: THOMAS Niger
+Also known as: Thomas NIGER.
+Description: Archidiacre de Bayeux.
+Status: Incertain.
+Gender: male.
+Active during: %1249-1249%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son père est ANSELMUS ;.
+Ecclesiastical status: Diacre ;.
+Ecclesiastical positions held: Chanoine de Reims ;; Archidiacre de Bayeux ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 19/05/2021..

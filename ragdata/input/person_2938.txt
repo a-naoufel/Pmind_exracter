@@ -1,0 +1,9 @@
+PERSON: GERARDUS de Sancto Martho
+Also known as: Girardus de SANCTO MARTHO; Gerardus de SANCTO MARCHO; Gerardus de SANCTA MARTHA; Gerardus de SANCTOMARTIRO.
+Description: Etudiant.
+Status: Incertain.
+Gender: male.
+Active during: %1310-1313%.
+Studied at: Paris en ..
+Academic grades obtained: Étudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 8/01/2021.

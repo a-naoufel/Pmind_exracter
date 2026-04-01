@@ -1,0 +1,9 @@
+PERSON: DIONYSIUS Ficion
+Also known as: Dionysius FICION.
+Description: Maître ès arts ?.
+Status: Maître.
+Gender: male.
+Active during: %1463-1464%.
+Studied at: Paris..
+Academic grades obtained: Maître ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 29/05/2021)..

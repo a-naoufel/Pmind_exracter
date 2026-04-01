@@ -1,0 +1,12 @@
+PERSON: FELICIUS Esculi
+Also known as: Felix ESCULI; Félix leNESPLIER; Felicius de BELLAVILLA.
+Description: Chanoine de Troyes.
+Status: Maître.
+Gender: male.
+Active during: %1390-1415%.
+Born in: Champagne..
+Studied at: Paris (Nation de France), %1390-1398%..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en théologie (Paris) ;; Bachelier en théologie (Paris) ..
+College affiliation: Boursier théologien au Collège de Navarre à Paris, %1391-1394%..
+Ecclesiastical positions held: Chapelain de Troyes (Saint-Étienne) ;; Candidat à des bénéfices à la collation de Saint-Germain-l'Auxerrois, %1394-1395% ;; Candidat à des bénéfices à la collation de l'évêque de Troyes ou de celui de Châlons, %1394-1395% ;; Chanoine de Troyes %1397-1415% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 22/04/2023..

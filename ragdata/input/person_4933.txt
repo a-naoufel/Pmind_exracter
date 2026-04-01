@@ -1,0 +1,10 @@
+PERSON: HENRICUS de Lubec
+Also known as: Henricus de LUBEC; Henricus de LÜBECK.
+Description: Étudiant..
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Born in: AllemagneduNord (Lübeck ?) ?.
+Diocese of origin: Diocèse de Lübeck ?.
+Studied at: Paris %1329-1330%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 21/07/2022..

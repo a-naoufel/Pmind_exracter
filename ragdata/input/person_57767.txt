@@ -1,0 +1,10 @@
+PERSON: PETRUS de Ociaco
+Also known as: Petrus de OCIACO; Pierre d'OISY.
+Description: Procureur de la Sorbonne.
+Status: Maître.
+Gender: male.
+Active during: %1289-1290%.
+Studied at: Paris..
+Academic grades obtained: Maître ?.
+College affiliation: Collège de Sorbonne : procureur en %1289-1290%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 25/04/2024..

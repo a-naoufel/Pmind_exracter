@@ -1,0 +1,13 @@
+PERSON: HENRICUS Sandford
+Also known as: Henry SANDFORD; Magister H..
+Description: Évêque de Rochester.
+Status: Maître.
+Gender: male.
+Active during: %1190-1235%.
+Born in: Angleterre ;.
+Studied at: Paris dans les années ?.
+Academic relationships: Son maître est Stephen LANGTON..
+Ecclesiastical positions held: Chanoine de Salisbury ;; Archidiacre de Canterbury ;; Évêque de Rochester %1226-1235%.
+Representation roles: Mission diplomatique en à Rome pour empêcher les moines de Canterbury d’élire un des leurs comme archevêque de Canterbury ;; Mission diplomatique en France en pour conclure une paix avec la France ;.
+Authored work: '(Notes sur les Quaestiones Theologicae)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 08/05/2025)..

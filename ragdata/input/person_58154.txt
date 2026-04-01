@@ -1,0 +1,11 @@
+PERSON: GEORGIUS 3
+Also known as: GEORGIUS.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1528-1528%.
+Born in: Hongrie (Pécs) ;.
+Diocese of origin: Diocèse de Pecs ?.
+Studied at: Paris (Nation Anglo-allemande) ?.
+Academic grades obtained: Étudiant en théologie (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour, 18/10/2024..

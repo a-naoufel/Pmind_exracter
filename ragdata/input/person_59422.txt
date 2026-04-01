@@ -1,0 +1,11 @@
+PERSON: MICHAEL Guy
+Also known as: Michiel GUY.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1398-1398%.
+Born in: Champagne ?.
+Studied at: Paris..
+Academic grades obtained: Maître (Paris) en ;.
+College affiliation: Collège d’Autun ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

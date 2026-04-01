@@ -1,0 +1,11 @@
+PERSON: HERVEUS Brito dictus Raucus
+Also known as: Herveus BRITO dictus Raucus; Herveus RAUCUS.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1249-1276%.
+Studied at: Paris ..
+Academic grades obtained: Magister ?.
+Ecclesiastical status: Sous-diacre ;.
+Ecclesiastical positions held: Chanoine de Reims %1249-1276% ;; Chanoine de Paris %1260-1276% ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 22/09/2019..

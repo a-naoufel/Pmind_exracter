@@ -1,0 +1,9 @@
+PERSON: CAROLUS Garineau
+Also known as: Charles GARINEAU; Charles GUARINEAU; Charles GUERINEAU.
+Description: Libraire juré..
+Status: Étudiant.
+Gender: male.
+Active during: %1391-1433%.
+Studied at: Paris %1391-1433%..
+Academic grades obtained: Étudiant : "Escolier" ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 05/04/2021..

@@ -1,0 +1,13 @@
+PERSON: IVO Carnotensis
+Also known as: Ivo CARNOTENSIS; Yves de CHARTRES.
+Description: Doyen de Chartres.
+Status: Maître.
+Gender: male.
+Active during: %1140-1166%.
+Born in: Orléanais (Chartres) ;.
+Diocese of origin: Diocèse de Chartres ?.
+Studied at: Paris ;; Chartres..
+Academic grades obtained: Maître..
+Ecclesiastical positions held: Doyen de Chartres ;.
+University functions: Paris (Maître enseignant les arts libéraux) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 06/04/2024..

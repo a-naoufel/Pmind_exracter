@@ -1,0 +1,10 @@
+PERSON: STEPHANUS Cocti
+Also known as: Stephanus COCTI; Etienne COCTI.
+Description: Étudiant en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1343-1351%.
+Studied at: Paris %1343-1351% ;.
+Academic grades obtained: ?Maître ès arts (Paris) ;; Étudiant en théologie (Paris)..
+College affiliation: Boursier ès Arts au Collège de Navarre %1343-:1351% ;; Boursier en Théologie au Collège de Navarre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet ; dernière mise à jour, Jean-Philippe Genet, 15/09/2024..

@@ -1,0 +1,14 @@
+PERSON: AEGIDIUS de Douvrin
+Also known as: Egidius de DOUVRIN.
+Description: Boursier du collège de Dainville.
+Status: Étudiant.
+Gender: male.
+Active during: %1384-1384%.
+Born in: Picardie (Douvrin ?) ?.
+Diocese of origin: Diocèse d’Arras ?.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège de Dainville : boursier à partir de ;; Collège de Dainville : procureur en ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Curé de Bulecourt (diocèse d’Arras) ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

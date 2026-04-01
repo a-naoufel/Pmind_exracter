@@ -1,0 +1,9 @@
+PERSON: AEGIDIUS Le Covereur
+Also known as: Aegidius le COVEREUR.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : dernière mise à jour, Jean-Philippe Genet, 05/05/2020) ;.

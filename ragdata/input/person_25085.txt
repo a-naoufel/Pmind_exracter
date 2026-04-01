@@ -1,0 +1,12 @@
+PERSON: GERARDUS de Marla 1
+Also known as: Gerardus de MARLA.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1288-1291%.
+Born in: Picardie ;.
+Diocese of origin: Diocèse de Laon ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Reims %1288-1291% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/12/2018..

@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Dumas
+Also known as: Guillelmus DUMAS.
+Description: Procureur de l’université au parlement.
+Status: Suppôt.
+Gender: male.
+Active during: %1430-1430%.
+Studied at: Paris..
+Academic grades obtained: Magister ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/01/2022..

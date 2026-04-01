@@ -1,0 +1,13 @@
+PERSON: DIONYSIUS Le Masurier
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1464-1492%.
+Born in: Normandie ?.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) en ?; Maître ès arts (Paris) ;; Bachelier en théologie (Paris) ;.
+College affiliation: Collège de Maître-Gervais : socius ;; Boursier théologien ;; Procureur du Collège de Maître-Gervais %1478-1482% ;; Chapelain du Collège de Maître-Gervais ;; Collège de Maître-Gervais : grand boursier théologien en ;.
+Family relationships: Son oncle est peut-être Jean LE MASUYER ?.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chapelain du Collège de Maître-Gervais ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 16/09/2020..

@@ -1,0 +1,10 @@
+PERSON: PETRUS Carre
+Also known as: Petrus CARRÉ.
+Description: Écolier du collège de Reims ;.
+Status: Étudiant.
+Gender: male.
+Active during: %1504-1504%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) en ;.
+College affiliation: Collège de Reims : écolier en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

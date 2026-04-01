@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS 24
+Also known as: GUILLAUME.
+Description: Evêque urbaniste d’Amiens ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1378-1379%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Evêqueurbaniste d’Amiens ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 27/09/2021..

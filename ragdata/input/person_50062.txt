@@ -1,0 +1,14 @@
+PERSON: GUIDO Caprarii
+Also known as: Guido CAPRARII.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Born in: Bourgogne ;.
+Diocese of origin: Diocèse de Mâcon ;.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant (Paris) ?.
+Family relationships: Son père est Guido CAPRARII, chevalier ; Son oncle est Guillelmus CAPRARII, chanoine d’Auxerre ; Son frère est Johannes CAPRARII ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoineprébendé de Dol ;; Chanoineprébendé de Coutances ;; Chanoineprébendé de Bayeux ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 25/11/2019)..

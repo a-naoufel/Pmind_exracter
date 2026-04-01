@@ -1,0 +1,11 @@
+PERSON: GALTERIUS 3
+Also known as: GALTERUS.
+Description: Prêtre.
+Status: Incertain.
+Gender: male.
+Active during: %1180-1180%.
+Studied at: ?.
+Academic grades obtained: ?.
+College affiliation: Collège des Dix-Huit ?.
+Ecclesiastical status: Prêtre..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/05/2022)..

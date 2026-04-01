@@ -1,0 +1,13 @@
+PERSON: THOMAS de Corbridge 1
+Also known as: Thomas de CORBRIDGE; Thomas CORBRIGGE.
+Description: Archevêque d'York.
+Status: Étudiant.
+Gender: male.
+Active during: %1277-1304%.
+Born in: Angleterre (Northumberland : Corbridge ?) ;.
+Diocese of origin: Diocèse d'York..
+Studied at: ?Oxford ;; ?Paris.
+Academic grades obtained: Magister ;; ?Étudiant (Paris) ?; Docteur en théologie (?Oxford) ..
+College affiliation: Sorbonne ;.
+Ecclesiastical positions held: Chanoine d'York %1277-1299% ;; Chancelier d'York %1277-1290% ;; Sacriste de York (St-Mary of the Angels) %1290-1299% ;; Archevêque de York %1299-1304%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 22/9/2020..

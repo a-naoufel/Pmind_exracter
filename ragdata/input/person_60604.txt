@@ -1,0 +1,7 @@
+PERSON: VALRAND Denis
+Also known as: Walleran DENIS.
+Description: Sergent à cheval du Châtelet.
+Status: Extérieur.
+Gender: male.
+Active during: %1487-1487%.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

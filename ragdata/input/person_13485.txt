@@ -1,0 +1,14 @@
+PERSON: LAURENTIUS de Rua
+Also known as: Laurentius de RUA; Laurentius de LARUE.
+Description: Cistercien.
+Status: Maître.
+Gender: male.
+Active during: %1394-1418%.
+Born in: Picardie (Rue)..
+Studied at: Paris %1390-1398%..
+Academic grades obtained: Bachelier en théologie formatus (Paris) ;; Licencié en théologie (Paris) ;; Docteur en théologie (Paris) vers ..
+College affiliation: Étudiant au collège Saint-Bernard à Paris en ..
+Religious order: Cistercien.
+Religious functions: Abbé de Beaupré %1390-1396% ;; Abbé de Chaalis en %1398-1418%..
+Representation roles: Participe aux chapitres généraux de l'Ordre entre %1391-1402% ;; Envoyé avec Matthieu REGNAULT, aumônier de LOUIS, duc d'Orléans, auprès du pape en octobre ;; Participe au concile de Constance..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 24/08/2023)..

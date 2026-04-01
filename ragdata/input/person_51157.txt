@@ -1,0 +1,15 @@
+PERSON: RICARDUS de Fourmigny
+Also known as: Ricardus de FOURMIGNY.
+Description: Boursier du collège de Maître Gervais.
+Status: Étudiant.
+Gender: male.
+Active during: %1370-1379%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse de Bayeux ;.
+Studied at: Paris (Nation de Normandie) %1370- % ;.
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en décret (Paris) %1374-1379% ;.
+College affiliation: Collège de Maître-Gervais : l’un des boursiers de la fondation en ;.
+Family relationships: Son parent est peut-être Henri VACAIRE, médecin, fondateur de deux bourses, l’une pour un prêtre, l’autre pour un artien, au collège de Maître-Gervais dès ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Recteur de Nonant (Saint-Martin) en ;; Provision pour un canonicat avec expectative de prébende d’Avranches en réponse au rotulus de l’université de Paris en : mandat à l’Official de Bayeux ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet 16/09/2020..

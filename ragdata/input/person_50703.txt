@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Jehannes
+Also known as: Guillelmus de JEHANNES.
+Description: Clerc.
+Status: Étudiant.
+Gender: male.
+Active during: %1314-1314%.
+Studied at: Paris.
+Family relationships: Son frère est peut-être Petrus de JEHANNES ?.
+Ecclesiastical positions held: Étudiant (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 26/03/2020..

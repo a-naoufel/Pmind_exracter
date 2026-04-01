@@ -1,0 +1,10 @@
+PERSON: FELICIUS 1
+Also known as: FÉLIX.
+Description: Étudiant en médecine à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1300-1300%.
+Studied at: Paris ;; Florence..
+Academic grades obtained: Étudiant en médecine (Paris) ;; Étudiant en notariat (Florence)..
+Authored work: '[Réceptaire]', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux, dernière mise à jour 4/01/2016)..

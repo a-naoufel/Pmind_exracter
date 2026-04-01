@@ -1,0 +1,13 @@
+PERSON: FRANCISCUS de Trevio
+Also known as: Franciscus de TREVIO.
+Description: Dominicain..
+Status: Étudiant.
+Gender: male.
+Active during: %1291-1332%.
+Born in: Italie (Trevi)..
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Couvent (dominicain) de Paris (Jacobins) ?.
+Religious order: O.P. : frère dominicain..
+Authored work: 'De miraculo facto in conv. Fratrum Pred. in Aretio fr. Iacobutio de Spoleto O.P.', composed around %1326-1332% ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 21/03/2020..

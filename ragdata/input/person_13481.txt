@@ -1,0 +1,7 @@
+PERSON: MARGARETA de Ypra
+Also known as: Marguerite de YPRA.
+Description: Chirurgienne parisienne..
+Status: Extérieur.
+Gender: female.
+Active during: %1322-1322%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 7/08/2016..

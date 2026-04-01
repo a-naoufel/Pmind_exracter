@@ -1,0 +1,14 @@
+PERSON: HENRICUS de Alemania 1
+Also known as: Henricus de ALEMANNIA; Henricus de ALEMANIA.
+Description: Maître ès arts à Paris.
+Status: Maître.
+Gender: male.
+Active during: %1285-1310%.
+Born in: Allemagne ?.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris)..
+Authored work: 'Questiones de quolibet', composed around ?.
+Authored work: 'Questiones super De iuventute et senectute, De respiratione, De vita et morte', composed around ?.
+Authored work: 'Questiones in librum De Anima (I-II, 6)', composed around ?.
+Authored work: 'Questiones in librum De generatione et corruptione', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 3/04/2021)..

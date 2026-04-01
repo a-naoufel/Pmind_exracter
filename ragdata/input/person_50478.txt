@@ -1,0 +1,10 @@
+PERSON: PETRUS Renart
+Also known as: Pierre RENART; Perrin REGNART.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Maître.
+Gender: male.
+Active during: %1384-1391%.
+Studied at: Paris (Nation de France ?) %1384-1391%..
+Academic grades obtained: Maître ès arts (Paris) ?.
+College affiliation: Collège de Dormans-Beauvais : hôte %1384-1385% ;; Collège de Dormans-Beauvais : boursier %1385-1391% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 18/11/2019..

@@ -1,0 +1,10 @@
+PERSON: ANDREAS Stazos
+Also known as: Andreas STAZOS de Norvegia.
+Description: Chanoine.
+Status: Étudiant.
+Gender: male.
+Active during: %1287-1287%.
+Born in: Norvège..
+Studied at: Paris, ..
+Ecclesiastical status: Dominus..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth MORNET, 09/03/2022..

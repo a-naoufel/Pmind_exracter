@@ -1,0 +1,10 @@
+PERSON: HUGO Fabri 4
+Also known as: Hugo FABRI; Hugues FABRI.
+Description: Maître en médecine à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1410-1415%.
+Studied at: Paris (Nation de Picardie) %:1410-1415%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) (29 mars) ;; Maître en médecine (Paris) ..
+University functions: Paris (Faculté de Médecine : Maîtrerégent pour %1412-1413%) ;; Paris (Faculté de Médecine : Maîtrerégent pour %1414-1415%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Anne Tournieroux ; révision, Jean-Philippe Genet, 05/09/2022..

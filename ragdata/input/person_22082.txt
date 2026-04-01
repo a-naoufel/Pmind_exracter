@@ -1,0 +1,11 @@
+PERSON: EBRARDUS de Calvincuria
+Also known as: Evrardus de CALVINCURIA.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1207-1212%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Chanoine de Rouen %1207-1212% ;.
+Other ecclesiastical functions: Clercdel'archevêque de Rouen ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 24/06/2021..

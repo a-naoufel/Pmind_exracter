@@ -1,0 +1,9 @@
+PERSON: GALTERIUS de Billenden
+Also known as: Walter de BILLENDEN; Walter de BYLLINGTON.
+Description: Magister.
+Status: Extérieur.
+Gender: male.
+Active during: %1240-1271%.
+Studied at: Oxford..
+Academic grades obtained: Magister ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 1/09/2020..

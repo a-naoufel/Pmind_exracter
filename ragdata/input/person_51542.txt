@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Bertoul
+Also known as: Nicholaus BERTOUL.
+Description: Boursier du Collège des Cholets.
+Status: Étudiant.
+Gender: male.
+Active during: %1444-1458%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège des Cholets ; boursier ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 22/10/2020)..

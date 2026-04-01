@@ -1,0 +1,9 @@
+PERSON: SIMON Callat
+Also known as: Simon CALLAT.
+Description: Nonce pour le diocèse de Nevers.
+Status: Suppôt.
+Gender: male.
+Active during: %1447-1447%.
+Studied at: Paris (Nation de France) ..
+University functions: Paris (Nation de France : il reçoit l'office de nonce pour le diocèse de Nevers en (24 décembre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 07/12/2023..

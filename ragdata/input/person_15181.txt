@@ -1,0 +1,12 @@
+PERSON: RICARDUS Piscis
+Also known as: Richard PISCIS.
+Description: Maître en arts et bachelier en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1379-1379%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Coutances ;.
+Studied at: Paris (Nation normande) %1379-1379%..
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en médecine (Paris) ..
+Ecclesiastical positions held: Sous-diacre du diocèse de Coutances..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 05/07/2024..

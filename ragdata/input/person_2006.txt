@@ -1,0 +1,9 @@
+PERSON: DOMINICUS de Ispannia
+Also known as: Dominicus de ISPANNIA; Dominicus de HISPANIA.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Born in: Espagne ?.
+Studied at: Paris %1329-1330%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 9/06/2021)..

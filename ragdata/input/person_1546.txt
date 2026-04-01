@@ -1,0 +1,10 @@
+PERSON: BONIFACIUS
+Also known as: BONIFACIUS.
+Description: Abbé de Cîteaux.
+Status: Extérieur.
+Gender: male.
+Active during: %1243-1257%.
+Studied at: ?.
+Religious order: O.Cist. : moine cistercien..
+Religious functions: Abbé (cistercien) de Cîteaux (%1243-1257%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 26/03/2021)..

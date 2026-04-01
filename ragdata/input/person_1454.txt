@@ -1,0 +1,10 @@
+PERSON: BERTALDUS 3
+Also known as: BERTOLDUS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1372-1372%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+Ecclesiastical positions held: Chanoine de Saint-Salvator..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/02/2021)..

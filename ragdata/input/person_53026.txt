@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Gouloch
+Also known as: Guillelmus GOULOCH.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1380-1380%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 28/11/2021..

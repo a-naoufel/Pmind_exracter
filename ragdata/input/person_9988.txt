@@ -1,0 +1,9 @@
+PERSON: PETRUS Umloep
+Also known as: Petrus UMLOEP.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1360-1360%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 10/04/2024)..

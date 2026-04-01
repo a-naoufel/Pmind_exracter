@@ -1,0 +1,9 @@
+PERSON: PHILIPPUS Du Vivier
+Also known as: Philippe du VIVIER.
+Description: Notaire.
+Status: Incertain.
+Gender: male.
+Active during: %1372-1373%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

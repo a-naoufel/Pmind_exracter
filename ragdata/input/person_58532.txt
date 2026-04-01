@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Bachelerot
+Also known as: Guillelmus BACHELEROT.
+Description: Recteur de l'université de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1491-1496%.
+Studied at: Paris (Nation de Picardie) ;.
+Academic grades obtained: Maître ès arts (Paris) avant ..
+University functions: Paris (Nation de Picardie : il est élu en (18 janvier) temptator examinis pour Sainte-Geneviève) ;; Paris (Université : recteur en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 11/09/2025..

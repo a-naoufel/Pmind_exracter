@@ -1,0 +1,9 @@
+PERSON: THOMAS de Wymondswold
+Also known as: Thomas de WYMONDSWOLD; Thomas de WYMONDLKOLD.
+Description: Libraire et stationarius.
+Status: Suppôt.
+Gender: male.
+Active during: %1314-1323%.
+Born in: Angleterre ?.
+Studied at: Paris ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 16/11/2019..

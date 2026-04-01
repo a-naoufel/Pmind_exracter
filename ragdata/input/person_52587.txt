@@ -1,0 +1,10 @@
+PERSON: MICHAEL de Serenofonte
+Also known as: Michael de SERENOFONTE; Michel de SERIFONTAINE.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1330-1368%.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Reims %1330-1368% ;; Chanoine de Reims (Saint-Symphorien) %1333-1368% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 31/08/2021..

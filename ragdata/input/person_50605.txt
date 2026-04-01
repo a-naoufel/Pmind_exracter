@@ -1,0 +1,13 @@
+PERSON: GERARDUS de Bechaya
+Also known as: Gerardus de BECHAYA; Gerardus de LEBECHAYE.
+Description: Recteur de l'Université.
+Status: Maître.
+Gender: male.
+Active during: %1342-1362%.
+Born in: Artois ?.
+Diocese of origin: Diocèse d'Arras..
+Studied at: Paris (Nation de Picardie) %:1342-1362%..
+Academic grades obtained: Maître ès arts (Paris) ..
+Ecclesiastical positions held: Provision pour un bénéfice à la collation de l’abbé de Cambrai (Saint Sépulcre) ;; Provision pour un canonicat avec expectative prébende Douai (Saint-Amé) en réponse au rotulus de l’Université de Paris en (19 juin) : mandat à l’abbé (bénédictin) de Arras (Saint-Vaast), à l’abbé (O.S.A.) de Paris (Sainte-Geneviève) et au chantre de Seclin (Saint-Piat) ;; Provision pour un bénéfice ecclésiastique à la collation du doyen et du chapitre de Leuze (églisecollégiale Saint-Pierre) en réponse au rotulus additionnel de l’Université de Paris en (24 juin) : mandat à l’abbé (bénédictin) de Arras (Saint-Vaast), à l’abbé (O.S.A.) de Paris (Sainte-Geneviève) et au chantre de Seclin (Saint-Piat) ;; Provision pour un bénéfice ecclésiastique à la collation du doyen et du chapitre de Leuze (églisecollégiale Saint-Pierre) en réponse au rotulus additionnel de l’Université de Paris en (24 juin) : mandat à l’abbé (bénédictin) de Arras (Saint-Vaast), à l’abbé (O.S.A.) de Paris (Sainte-Geneviève) et au chantre de Seclin (Saint-Piat) ;; Chanoine de Douai (Saint-Amé) ;; Provision pour un bénéfice ecclésiastique à la collation du doyen et du chapitre de Arras en réponse au rotulus de l’Université de Paris en (4 avril) : mandat à l’abbé (bénédictin) de Arras (Saint-Vaast), à l’abbé (O.S.A.) de Mont Saint-Éloi et à Johannes CORTOIS, chanoine d’Amiens ;; Chapelainperpétuel d’une chapelle de la cathédrale d’Arras ;; Chapelain d’Austricourt ;; Curé de Flines ;; Provision pour un canonicat avec expectative prébend’Arras en réponse au rotulus de l’Université de Paris en : mandat à l’évêque de Paris ;.
+University functions: Paris (Université : Recteur)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 02/03/2020..

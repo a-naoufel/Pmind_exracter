@@ -1,0 +1,10 @@
+PERSON: SIMON Maillard
+Also known as: Simon MAILLARD.
+Description: Boursier grammairien au collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1385-1385%.
+Studied at: Paris %1385-1385%..
+Academic grades obtained: Étudiant en grammaire (Paris) ..
+College affiliation: Boursier grammairien au collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 14/09/2024..

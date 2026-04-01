@@ -1,0 +1,10 @@
+PERSON: GEORGIUS 1
+Also known as: GEORGIUS.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1170-1170%.
+Studied at: Paris.
+Academic grades obtained: Magister ;.
+University functions: Paris (Maître vers )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 27/11/2024..

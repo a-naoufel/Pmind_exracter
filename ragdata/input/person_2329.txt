@@ -1,0 +1,13 @@
+PERSON: FRANCISCUS de Mediolano
+Also known as: Franciscus de MEDIOLANO; Franciscus de MILAN.
+Description: Docteur en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1372-1379%.
+Born in: Italie (Lombardie : Milan ?) ?.
+Diocese of origin: Diocèse de Milan ?.
+Studied at: Paris (Collège de Tournai) %1372-1379%..
+Academic grades obtained: Licencié en théologie (Paris) ;; Docteur en théologie (Paris) ..
+College affiliation: Couvent des Servites ?; Collège de Tournai : boursier en ..
+Religious order: O.Serv..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, 28/08/2021..

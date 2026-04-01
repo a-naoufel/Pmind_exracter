@@ -1,0 +1,10 @@
+PERSON: GALTERIUS Hugonis de Linsemial
+Also known as: Galterus HUGONIS; Galterus de LINSEMIAL.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1362-1362%.
+Diocese of origin: Diocèse de Liège..
+Studied at: Paris (Nation de Picardie)..
+Academic grades obtained: Maître ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 17/11/2021..

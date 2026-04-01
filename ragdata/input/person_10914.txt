@@ -1,0 +1,12 @@
+PERSON: ROBERTUS Blund
+Also known as: Robert BLUND.
+Description: Enseignant à Paris jusque vers ..
+Status: Maître.
+Gender: male.
+Active during: %1200-1200%.
+Studied at: Paris jusque vers ..
+Academic grades obtained: Maître ès arts (Paris)..
+Family relationships: Son neveu est John BLUND..
+University functions: Enseignant à Paris jusque vers ..
+Authored work: 'Summa in arte grammatica', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 10/07/2024..

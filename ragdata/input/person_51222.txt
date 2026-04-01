@@ -1,0 +1,32 @@
+PERSON: GUILLELMUS de Tornaco
+Also known as: Guillelmus de TORNACO; Guillaume de TOURNAI.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1264-1293%.
+Born in: Flandre (Tournai) ?.
+Diocese of origin: Diocèse de Tournai ?.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris)..
+College affiliation: Couvent (dominicain) de Paris (Jacobins) %1272-1274% ;.
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Lille..
+Religious functions: Il participe au Chapitreprovincial (dominicain) de LeMans en où il est le second à signer la demande d'introduction de la cause de LOUIS IX..
+University functions: Paris (Faculté de Théologie : lecteur en théologie au couvent des Jacobins où il enseigne en %1272-1274%)..
+Authored work: 'In Ecclesiasten', composed around ?.
+Authored work: 'Expositio in librum Sapientiae', composed around ?.
+Authored work: 'Postillae in Matth.', composed around ?.
+Authored work: 'Postillae super epistolas Pauli', composed around ?.
+Authored work: 'Comm. IV libros Sententiarum', composed around ?.
+Authored work: 'Sermo fr. Guillelmi de Tornaco ad. S. Anthonium in oct. Pasche', composed around (16 Avril)..
+Authored work: 'Sermon pour le IVe dimanche de Carême', composed around (20 mars)..
+Authored work: 'Sermo in IV dom. Epiph. fr. Guillelmi de Tornaco', composed around ?.
+Authored work: 'Sermo in XVII dom. fr. Guillelmi de Tornaco', composed around ?.
+Authored work: 'Sermo in Nativ. virg. glor. fr. Guillelmi de Tornaco', composed around ?.
+Authored work: 'Sermo in XXIII dom. fr. Guillelmi de Tornaco', composed around ?.
+Authored work: 'Sermo in dom. 19 fr. Guillermi de Tornaco', composed around ..
+Authored work: 'Sermones de tempore et sanctis', composed around ?.
+Authored work: 'De instructione puerorum', composed around ..
+Authored work: 'Tractatus de arte et scienta geomantiae', composed around ?.
+Authored work: 'De pronosticatione mortis et vitae', composed around ?.
+Authored work: 'Ethicorum lib.X', composed around .
+Source: MIRABILE : //http://www.mirabileweb.it/author/guillelmus-tornacensis-m-post-1275-author/33665 ;.

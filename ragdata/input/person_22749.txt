@@ -1,0 +1,8 @@
+PERSON: RICARDUS Faguee
+Also known as: Ricardus FAGUEE.
+Description: Tailleur de pierre.
+Status: Extérieur.
+Gender: male.
+Active during: %1284-1284%.
+Social origin: Bourgeois de Paris ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 27/12/2018..

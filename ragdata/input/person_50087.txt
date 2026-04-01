@@ -1,0 +1,12 @@
+PERSON: ROBERTUS de Mandagoto
+Also known as: Robertus de MANDAGOTO.
+Description: Prevôt d’Uzès.
+Status: Extérieur.
+Gender: male.
+Active during: %1339-1339%.
+Studied at: Orléans..
+Academic grades obtained: Docteur Décret ?.
+Religious order: O.S.A. : Chanoinerégulier en ..
+Religious functions: Prévôt de Uzès ;.
+University functions: Orléans (professeur de droit canon en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 18/12/2019..

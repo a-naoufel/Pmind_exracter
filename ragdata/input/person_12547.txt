@@ -1,0 +1,24 @@
+PERSON: PETRUS de Versaliis
+Also known as: Petrus de VERSALIIS; Petrus de VERSAILLIIS; Petrus de VERSAILLES.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1400-1446%.
+Born in: Île-de-France (Versailles)..
+Diocese of origin: Diocèse de Paris ?.
+Studied at: Paris %1405-1446%..
+Academic grades obtained: Bachelier en théologie formatus (Paris) ;; Licencié en théologie (Paris) ;; Docteur en théologie (Paris) ..
+Family relationships: Son frère est Guido de VERSALIIS, M.A. de Paris..
+Social origin: Noble..
+Religious order: O.S.B. : moine bénédictin de l’abbaye de Saint-Denis-en-France (diocèse de Paris)..
+Religious functions: Infirmier de Saint-Denis-en-France (diocèse de Paris) en ;; Prieur de Chaumont-en-Vexin (dépendance de Saint-Denis-en-France dans le diocèse de Rouen) en ?%1415-1418% ;; Prieur Saint-Sauveur-en-Rue (diocèse de Vienne) en ;; Candidat, proposé par Petrus BASTON, abbé de Saint-Maixent, pour être un des visiteurs de l'abbaye commissionné pour réformer l'abbaye en ;; Abbé de Talmont (diocèse de Luçon) en %1420-1429% ;; Abbé de Limoges (Saint-Martial) en %1429-1432%..
+University functions: Paris (Faculté de Théologie : Lecteur des Sentences (2e cours) en ) ;; Paris (Université : Conservator privilegiorum apostolorum de l'Université de Paris en %1444-1446%) ;.
+Representation roles: Membre d'une ambassade en Angleterre auprès d'HENRI IV, roi d'Angleterre et partisan des Armagnacs en ;; Présent aux quatre sessions du Concilium fidei tenu à Paris en %1413-1414% ;; Ambassadeur de CHARLES VI au Concile de Constance en ;; Ambassadeur de CHARLES VII auprès du nouveau pape EUGENE IV à la fin de l'année ;; Représentant du clergé de Provence au concile de Bâle, comme évêque de Digne, en ;; Chef de la délégation envoyée par le concile de Bâle à Constantinople, pour rencontrer l'empereur byzantin JEAN VIII Paléologue, en ;; Représentant du pape EUGENE IV à une assemblée du clergé de France, convoquée par le roi, en mai ;; Envoyé par le roi de France, discuté de la tenue d'un troisième concile sur le territoire français, auprès du pape le 16 décembre ;; Assigné par le pape EUGENE IV, pour enquêter sur le chancelier de l'Université de Paris, le 7 février , en raison de plaintes reçues à son encontre ;.
+Authored work: '[Lettre sur la corruption de son époque]', composed around Écrit en à Saint-Maixent., dedicated to Adressé à Jean JUVENAL des URSIN..
+Authored work: '[Supplicatio]', composed around ?Écrit à Constance..
+Authored work: 'Propositio habita in Basiliensi concilio', composed around ?Écrit en %1432-1437% à Bâle..
+Authored work: 'Oratio pro Ludovico III, rege Hierusalem et Siciliae', composed around ?Ecrit en %1432-1437% à Bâle..
+Authored work: 'De auctoritate summi pontificis ex symbolo Niceano', composed around ?.
+Authored work: 'De potestate papae', composed around ?.
+Authored work: 'Propositio facta coram Eugenio IV ex parte regis Franciae', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, 03/10/2023..

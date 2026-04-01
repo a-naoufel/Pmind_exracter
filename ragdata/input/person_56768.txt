@@ -1,0 +1,10 @@
+PERSON: STEPHANUS de Landoza
+Also known as: Stephanus de LANDOZA; Stephanus de ANDOZIA.
+Description: Chanoine de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1373-1422%.
+Studied at: ?.
+Academic grades obtained: Étudiant en droit en ;.
+Ecclesiastical positions held: Chanoine de Clermont %1373-1422% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/10/2023..

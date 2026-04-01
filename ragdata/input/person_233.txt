@@ -1,0 +1,13 @@
+PERSON: AEGIDIUS de Vannis
+Also known as: Aegidius de VANNIS.
+Description: Chancelier de Sainte-Geneviève.
+Status: Maître.
+Gender: male.
+Active during: %1382-1382%.
+Studied at: ?Paris..
+Academic grades obtained: Magister ?.
+College affiliation: Sainte-Geneviève..
+Religious order: O.S.A. : chanoinerégulier (Sainte-Geneviève)..
+Religious functions: Chancelier de Paris (Sainte-Geneviève) en ..
+University functions: Paris (Abbaye de Sainte-Geneviève : Chancelier)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/05/2020)..

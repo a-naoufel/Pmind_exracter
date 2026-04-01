@@ -1,0 +1,9 @@
+PERSON: STEPHANUS de Bascoel
+Also known as: Stephanus DE BASCOEL.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1290-1290%.
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 05/04/2024..

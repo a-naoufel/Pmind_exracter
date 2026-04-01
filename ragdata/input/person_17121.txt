@@ -1,0 +1,13 @@
+PERSON: ALARDUS
+Also known as: ALARDUS.
+Description: O.P..
+Status: Incertain.
+Gender: male.
+Active during: %1210-1242%.
+Born in: Angleterre..
+Studied at: Oxford.; ?Paris..
+Academic grades obtained: Étudiant ?; Magister..
+Religious order: O.P. : frère dominicain à partir de %1231-1232%..
+Religious functions: Prieurprovincial (dominicain) d'Angleterre %1235-1242%..
+Ecclesiastical positions held: Subdean de Wells %1213-1215% ;; Chancelier de Wells %1215-1231%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire PRIOL, révision Jean-Philippe GENET, 10/06/2020..

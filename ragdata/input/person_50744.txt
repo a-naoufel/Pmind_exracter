@@ -1,0 +1,31 @@
+PERSON: GUILLELMUS de Montibus 1
+Also known as: Guillelmus de MONTIBUS; Guillelmus de MONTE; Guillaume de LEICESTER.
+Description: Chancelier de Lincoln.
+Status: Maître.
+Gender: male.
+Active during: %1160-1213%.
+Born in: Angleterre (Wigford, dans la banlieue de Lincoln) ;.
+Diocese of origin: Diocèse de Lincoln..
+Studied at: Paris ..
+Academic grades obtained: Magister (Paris)..
+Academic relationships: Son maître est Petrus COMESTOR..
+Ecclesiastical positions held: Chancelier de Lincoln %1194-1213%..
+University functions: Paris : il enseigne la théologie dans sa propre école sur la Montagne-Sainte-Geneviève jusque dans les années .; Lincoln (École cathédrale : il y enseigne des années jusqu’à sa mort ;.
+Authored work: 'Numerale', composed around ?.
+Authored work: 'Distinctiones theologicae', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Speculum poenitentie', composed around ?.
+Authored work: 'De Tropis', composed around ?.
+Authored work: 'Proverbia et alia aedificatoria', composed around ?.
+Authored work: 'Versarius', composed around ?.
+Authored work: 'Penitas citeo', composed around ?.
+Authored work: 'Carmen alphabeticum de adventu Christi', composed around ?.
+Authored work: 'Flores sapientiae', composed around ?.
+Authored work: 'Tractatus metricus de sacramentis ecclesiae', composed around ?.
+Authored work: 'De septem sacramentis Ecclesiae', composed around ?.
+Authored work: 'De eliminatione errorum de quibusdam quae in ecclesia cantantur et leguntur', composed around ?.
+Authored work: 'Epistola ad moniales', composed around ?.
+Authored work: 'Lectura super Psalmos', composed around ?.
+Authored work: 'Quomodo religiosi monendi sunt ad confitendum', composed around ?.
+Authored work: 'Similitudinarium, sive de Cognitione intellectuali', composed around ?.
+Source: ODNB: (Joseph GOERING) :.

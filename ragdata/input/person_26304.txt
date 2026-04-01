@@ -1,0 +1,12 @@
+PERSON: SIMON de La Barre
+Also known as: Simon de LABARRE.
+Description: Prieur de Hennemont.
+Status: Étudiant.
+Gender: male.
+Active during: %1434-1460%.
+Studied at: Paris avant ..
+Academic grades obtained: Étudiant (Paris) avant ?.
+College affiliation: Sainte-Catherine du ValdesÉcoliers ..
+Religious order: O.S.A. : chanoine (augustin) du ValdesÉcoliers (Prieuré Sainte-Catherine) avant ;.
+Religious functions: Prieur (O.S.A. : Val des Écoliers) de Marcy ;; Prieur (O.S.A. : Val des Écoliers) de Hennemont avant ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 19/10/2023)..

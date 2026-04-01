@@ -1,0 +1,9 @@
+PERSON: PETRUS Sarraceni
+Also known as: Petrus SARRACENI.
+Description: Bourgeois parisien.
+Status: Extérieur.
+Gender: male.
+Active during: %1220-1220%.
+Family relationships: Son fils est Johannes SARRACENI. Sa belle-fille est Gila dicta de HOUZEL..
+Social origin: Bourgeoisie parisienne..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 24/03/2024..

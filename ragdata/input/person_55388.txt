@@ -1,0 +1,10 @@
+PERSON: LAURENTIUS de Dacia
+Also known as: Laurentius de DACIA.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1327-1327%.
+Born in: Danemark.
+Studied at: Paris, ..
+Academic grades obtained: Magister (Paris), ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Élisabeth Mornet, 25/01/2023..

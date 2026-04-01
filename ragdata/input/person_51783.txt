@@ -1,0 +1,36 @@
+PERSON: RICARDUS de Mediavilla
+Also known as: Richard de MEDIAVILLA; Richard de MIDDLETON; Richard de MIDDLETOWN; Richard de MENNEVILLE.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1280-1307%.
+Born in: Picardie (Menneville) ?.
+Studied at: Paris %1280-1287% ;; Naples %1295-1296%.
+Academic grades obtained: Bachelier en théologie (Paris) ;; Maître en théologie (Paris) ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) %1280-1287%..
+Academic relationships: Son maître est Guillaume de LA MARE ; Son maître est Mathieu d’AQUASPARTA ;.
+Religious functions: Provincial (franciscain) de France %1295-1300%, élu au chapitre de Metz..
+Ecclesiastical positions held: O.F.M. ; frère franciscain..
+University functions: Paris (Faculté de Théologie : lecteur des Sentences au couvent franciscain en %1280-1281%).; Paris (Faculté de Théologie : maître-régent en %1284-1287%).; Naples (Maître-régent en théologie vers %1295-1296%)..
+Authored work: '(Comment. in libros Sententiarum)', composed around %1282-1284% (composition), (rédaction)..
+Authored work: '(Quaestiones 45 disputatae )', composed around .
+Authored work: '(Quodlibeta I-III)', composed around (Pâques) pour le Quodlibet I, (Pâques) pour le Quodlibet II et (Pâques) pour le Quodlibet III ;.
+Authored work: '(Quaestio de privilegio papae Martini IV)', composed around %1286-1287%.
+Authored work: 'Postilla in Job', composed around ?.
+Authored work: '(Postillae in quatuor Evangelia)', composed around ?.
+Authored work: '(Postillae in epistolas Pauli)', composed around ?.
+Authored work: 'Postilla in Apcalypsim', composed around ?.
+Authored work: 'De Sacramentis', composed around ?.
+Authored work: 'Collectum indulgentiarum', composed around ?.
+Authored work: 'Distinctiones', composed around ?.
+Authored work: 'Tractatus Virtutum Moralium', composed around ?.
+Authored work: 'De conceptione Virginis Mariae et expositio super Ave Maria', composed around ?.
+Authored work: 'Sermones de Tempore', composed around ?.
+Authored work: 'Sermones de Sanctis et de Tempore', composed around ?.
+Authored work: '(Sermon pour la fête de Sainte CATHERINE)', composed around (25 novembre) ;.
+Authored work: '(Sermon pour la Purification)', composed around (2 fevrier) ;.
+Authored work: '(Sermon pour le samedi avant la Passion)', composed around (3 avril)..
+Authored work: '(Sermon pour la fête de l'Ascension)', composed around ?.
+Authored work: '(Quaestio de gradu formarum)', composed around ?.
+Authored work: 'Quaestio de pluritate formarum', composed around ?.
+Source: Répertoire des auteurs franciscains préparé par Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress :.

@@ -1,0 +1,30 @@
+PERSON: GILBERTUS Porretanus
+Also known as: Gilbert de la PORREE; Gilbert de POITIERS; Gilbertus PORRETANUS.
+Description: Évêque de Poitiers.
+Status: Maître.
+Gender: male.
+Active during: %1100-1154%.
+Born in: Poitou (Poitiers)..
+Diocese of origin: Diocèse de Poitiers..
+Studied at: Laon (école épiscopale) ;; Paris %1137-1142% au moins..
+Academic grades obtained: Magister ;.
+Academic relationships: Son maître est Hilaire de POITIERS ; Son maître est Bernard de CHARTRES ; Son maître estAnselme de LAON ; Son élève est Nicolas d’AMIENS ; Son élève est Jordan FANTOSME ; Son élève est Yves de CHARTRES ; Son élève est Jean BELETH ; Son élève est Raoul ARDENT ; Son élève est Ebrard de BÉTHUNE ; Son élève est Jean de SALISBURY ; Son élève est Otho de FREISING ; Son élève est Hugo ETHERIANUS ; Son élève est Hugo de HONAU ;.
+Ecclesiastical positions held: Chancelier de Chartres %1126-1137% ;; Évêque de Poitiers %1142-1154%..
+University functions: Chartres (enseignant).; Paris (enseignant) après ;.
+Representation roles: Il participe au concile de Sens en ;; Il participe au concile de Paris en ;; Il participe au concile de Reims en ;.
+Authored work: '(Commentaire sur les Psaumes)', composed around ?.
+Authored work: '(Commentaire sur les Épîtres de Saint Paul).', composed around ?.
+Authored work: 'Glossa super Acta Apostolorum', composed around ?.
+Authored work: 'Introitus in Glossa super Apocalypsim', composed around ?.
+Authored work: 'Notae super Johannem', composed around ?.
+Authored work: 'Comentarium in Symbolum Quicumque', composed around ?.
+Authored work: 'Commentarium in Boethii Contre Eutychen et Nestorius', composed around ..
+Authored work: 'Commentarium in Boethii De hebdomadibus', composed around ..
+Authored work: 'Commentarium in Boethii De Trinitate', composed around ..
+Authored work: 'Commentarium in Boethii Utrum Pater et Filius et Spiritus Sanctus de divinitate substantialiter praedicentur', composed around ..
+Authored work: '(Sermon pour la fête de Noël)', composed around ?.
+Authored work: 'Sententiae', composed around ?.
+Authored work: '(Lettre à Matthieu de SAINT-FLORENT)', composed around ?.
+Authored work: '(Prose rimée sur la Trinité)', composed around ?.
+Authored work: 'Compendium Logicae Porretanum', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

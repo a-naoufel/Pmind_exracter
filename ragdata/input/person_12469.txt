@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Gauterii
+Also known as: Guillelmus GAUTERII; Guillelmus GAUTIER.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1347-1371%.
+Studied at: Paris %1347-1364%..
+Academic grades obtained: Docteur en théologie (Paris) ..
+Religious order: O.S.B. : moine bénédictin du monastère de Colombier (diocèse de Meaux)..
+Religious functions: Prieur de Colombier en ;; Abbé de Rebais (diocèse de Meaux) en ;; Abbé de LaChaiseDieu (diocèse de Clermont-Ferrand) en %1361-1366% ;; Abbé de Saint-Médard (diocèse de Soissons) en %1366-1371%..

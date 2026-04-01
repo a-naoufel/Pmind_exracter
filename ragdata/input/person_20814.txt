@@ -1,0 +1,9 @@
+PERSON: MARTINUS Quignon
+Also known as: Martinus QUIGNON.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1464-1487%.
+Studied at: Paris ..
+Academic grades obtained: Maître (Paris) en ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

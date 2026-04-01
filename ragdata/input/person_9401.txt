@@ -1,0 +1,20 @@
+PERSON: NICOLAUS de Baya
+Also known as: Nicolaus de BAYA; Nicolaus de BAYE; Coleçon LECRANTINAT ;.
+Description: Greffier du Parlement de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1380-1419%.
+Born in: Champagne (Baye) ;.
+Diocese of origin: Diocèse de Châlons-sur-Marne ;.
+Studied at: Paris (Nation de France) %1384-1419% ;; Orléans %1389-1395% ;.
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en droit civil (Orléans) ;; Licencié en droit civil (Orléans) ;; Bachelier en décret (Paris ?) ;.
+College affiliation: Collège de Dormans-Beauvais : boursier %1380-1395% ?.
+Family relationships: Son père est Coleçon LECRANTINAT, tanneur ; Sa nièce est Marion de BAYE ;.
+Academic relationships: Son maître est Dominique PETIT pour la maîtrise ès arts en ;.
+Social origin: Commun paysan ;.
+Ecclesiastical status: Clerc avant ;; Sous-diacre ;; Prêtre en ;.
+Ecclesiastical positions held: Chapelain de Paris (Saint-Benoît) en ;; Chanoineprébendé de Soissons %1393-1413% ;; Curé de Montigny-Lencoup (diocèse de Sens) ;; Chanoine de Soissons ;; Chanoine de Châlons %1406-1419% ;; Curé de Paris (Saint-Jacques de la Boucherie) %1407-1417% ;; Chanoine de Tournai ;; Chanoine de Paris (Notre-Dame) %1413-1419% ;; Chanoine d'Auxerre % -1417% ;; Chanoine de Reims %1413-1417% ;; Archidiacre d’Arcis-sur-Aube %1416-1419% à la cathédrale de Troyes ;.
+Authored work: '(« Journal »)', composed around %1400-1416%..
+Authored work: '(Correspondance)', composed around ?.
+Authored work: '(Mémorial)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 14/01/2019..

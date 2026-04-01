@@ -1,0 +1,69 @@
+PERSON: PETRUS Abelardi
+Also known as: Petrus ABAELARDI.
+Description: Maître, puis moine bénédictin.
+Status: Maître.
+Gender: male.
+Active during: %1095-1142%.
+Born in: Bretagne (LePallet) ;.
+Diocese of origin: Diocèse de Nantes ?.
+Studied at: Chartres ;; Loches ;; Tours ;; Laon ;; Paris..
+Family relationships: Son père est chevalier ; Sa femme est HÉLOÏSE ; Son fils est ASTROLABE..
+Academic relationships: Son maître est ROSCELIN de Compiègne à Loches et à Tours en %1095-1100% ; Son maître est Guillaume de CHAMPEAUX à Paris vers %1100-1102% ; Son maître est ANSELME de Laon auprès duquel il va étudier la théologie à Laon à partir de ;.
+Social origin: Noble..
+Religious functions: Abbé de Saint-Gildas-de-Ruys (diocèse de Vannes) %1127-1132% ;.
+Ecclesiastical positions held: O.S.B. : moine (bénédictin) de Saint-Denis %1117-1121% ;; Moine à l’oratoire qu’il a établi à Quincey, qu’il appelle LeParaclet en %1122-1127% : il le transmet à HÉLOÏSE quand il est élu abbé de Saint-Gildas-de-Ruys ;; O.S.B. : moine (bénédictin) de Saint-Denis %1140-1142%..
+University functions: Paris (École de Notre-Dame : il est chargé d’enseigner la dialectique en ) ;; Paris (École de Sainte-Geneviève en ?%1109-1113%) ;; Paris (École de Notre-Dame : maître principal de l’école en %1114-1116% : interrompu par son mariage avec HÉLOÏSE) ;; Quincey (Paraclet) : il y enseigne en %1122-1127% ;; Paris (École de Sainte-Geneviève en %1132-1133%) ;; Paris (École sur le Mont Sainte-Geneviève en %1133-1137%) ;; Paris (École à Saint-Hilaire en ) ;.
+Authored work: 'Expositio in Hexameron', composed around ?.
+Authored work: 'Expositio in Librum Hiezechielis', composed around ?.
+Authored work: 'Expositio in Epistolam Pauli ad Romanos', composed around ?.
+Authored work: 'Expositio orationis dominicae « Multorum legimus orationes »', composed around ?.
+Authored work: 'Expositio Symboli apostolorum', composed around ?.
+Authored work: 'Expositio Symboli Sancti Athanasii', composed around ?.
+Authored work: 'Confessio fidei « Universis »', composed around ?.
+Authored work: '[Epistola ad beati Martini Turonensis ecclesiam]', composed around ?.
+Authored work: 'Sententiae Petri Abaelardi', composed around ?.
+Authored work: 'Sententiae secundum magistrum Petrum', composed around ?.
+Authored work: 'Theologia christiana', composed around ?.
+Authored work: 'Introductio ad Theologiam', composed around ?.
+Authored work: 'Theologia ‘summi boni’', composed around ?.
+Authored work: 'Collationes', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Apologia contra Bernardum', composed around ?.
+Authored work: 'Carmen ad Astrolabium', composed around ?.
+Authored work: 'Soliloquium', composed around ?.
+Authored work: 'Epistolae Petri Abaelardi et Heloissae', composed around ?.
+Authored work: 'Epistola IX (ad virgines Paraclitenses de studio litterarum)', composed around ?, dedicated to Adressé aux moniales du Paraclet..
+Authored work: 'Epistola X (ad Bernardum Claravaellensem abbatem de oratione dominica)', composed around ?, dedicated to Adressé à Bernard de CLAIRVAUX..
+Authored work: 'Epistola XI (de Dionisio Areopagita)', composed around ?.
+Authored work: 'Epistola XII (contra quemdam canonicum regularem, qui monasticum ordinem deprimebat et suum illi anteferebat)', composed around ?.
+Authored work: 'Epistola XIII (Invectiva in quemdam ignarum dialectices, qui tamen eius studium reprehendebat et omnia ius dogmata putabat sophismata et deceptiones)', composed around ?.
+Authored work: 'Epistola XIV (ad G. Parisiensem episcopum)', composed around ?.
+Authored work: 'Epistola Petri Abailardi contra Bernhardum abbatum', composed around ?.
+Authored work: 'Ordinale Paraclitense', composed around ?.
+Authored work: 'Problemata Heloissae cum Petri Abaelardi solutiones', composed around ?.
+Authored work: 'Confessio fidei ad Heloissam', composed around ?, dedicated to Adressé à HÉLOÏSE..
+Authored work: 'Dialectica', composed around ?.
+Authored work: 'Glossae super Topica', composed around ?.
+Authored work: 'Introductiones parvulorum', composed around ?.
+Authored work: 'Logica ‘Nostrorum petitioni sociorum’', composed around ?.
+Authored work: 'Logica ‘Ingredientibus’', composed around ?.
+Authored work: 'Sic et non', composed around ?.
+Authored work: 'Tractatus de intellectibus', composed around ?.
+Authored work: 'Glossae super Porphyrium secundum vocales', composed around ?.
+Authored work: 'Glossae super Peri Hermeneias', composed around ?.
+Authored work: 'Grammatica', composed around ?.
+Authored work: 'Carmina amatoria'.
+Authored work: 'Planctus', composed around ?.
+Authored work: 'Hymnarius Paraclitensis', composed around ?.
+Authored work: 'De profundis', composed around ?.
+Authored work: 'Epithalamica', composed around ?.
+Authored work: 'Virgines castae', composed around ?.
+Authored work: 'Carmen figuratum', composed around ?.
+Authored work: 'Ethica seu Scito te ipsum', composed around ?.
+Authored work: 'Sententiae', composed around ?.
+Authored work: 'Sententiae Florianenses', composed around ?.
+Authored work: 'Sententiae Parisienses I', composed around ?.
+Authored work: 'Sententiae Parisienses II', composed around ?.
+Authored work: 'Abbreviatio Commentariorum Petri Abaelardi in Epistolam Pauli', composed around ?.
+Authored work: 'Lux orientalis / et amica Dei specialis', composed around ?.
+Source: Oxford Bibliographies : Constant J. MEWS, 2016 ;.

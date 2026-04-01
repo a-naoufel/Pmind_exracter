@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Paris 1
+Also known as: Guillelmus PARIS; Guillelmus PARYS; Guillaume PARIS.
+Description: Licencié en médecine à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1418-1428%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie)..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) (27 mars) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 22/05/2022..

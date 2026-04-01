@@ -1,0 +1,30 @@
+PERSON: MICHAEL Angrianus
+Also known as: Michael ANGRIANUS; Michael AIGUANI de Bononia; Michael de AYGUANIS.
+Description: Carme.
+Status: Maître.
+Gender: male.
+Active during: %1340-1400%.
+Born in: Italie (Émilie-Romagne : Bologne) ;.
+Diocese of origin: Diocèse de Bologne..
+Studied at: Paris ;; Bologne..
+Academic grades obtained: Maître en théologie (Paris) vers %1364-1365% ;.
+College affiliation: Couvent (carme) de Paris (Grands-Carmes)..
+Family relationships: Son père est Stefano AIGUANI ; Sa mère est Giacoma SERENI Son frère est Bernardo AIGUANI ;.
+Religious order: O.Carm. : frère du couvent (carme) de Bologne ;.
+Religious functions: Définiteur de la province (carme) de Bologne en ;; Définiteur au chapitregénéral (carme) de LePuy-en-Velay en ;; Définiteur au chapitregénéral (carme) de Bruges en ;; Vicairegénéral des Carmes ;; Prieurgénéral des Carmes %1381-1386% ;; Prieurgénéral des Carmes %1395-1400% ;.
+University functions: Bologne (Faculté de Théologie : professeur en %1370-1380% puis en %1386-1395%)..
+Authored work: 'Lectura Sententiarum', composed around ?.
+Authored work: 'Quaestiones disputatae super libros I-IV Sententiarum', composed around ?.
+Authored work: 'Lectura super Michaea propheta', composed around ?.
+Authored work: 'Lectura super Psalterio', composed around ?.
+Authored work: 'Lectura super Matthaeum', composed around ?.
+Authored work: '(Commentaire sur l’Apocalypse)', composed around ?.
+Authored work: 'Tractatus Concepcionis gloriosae Virginis Mariae', composed around ?.
+Authored work: 'Dictionarium Sacrum', composed around ?.
+Authored work: 'Alphabetum Sacrum', composed around ?.
+Authored work: 'Informatio cuiuslibet peccatoris confiteri volentis', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Tabula super Moralia Gregorii Magni', composed around ?.
+Authored work: '(Commentaire sur le Décret de Gratioen)', composed around ?.
+Authored work: '(Commentaire sur l’Éthique à Nicomaque)', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

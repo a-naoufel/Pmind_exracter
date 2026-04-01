@@ -1,0 +1,10 @@
+PERSON: AEGIDIUS Picardi 1
+Also known as: Aegidius PICARDI; Aegidius FLANDRENSIS.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1253-1263%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Chanoine de Rouen %1253-1263% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 11/05/2020..

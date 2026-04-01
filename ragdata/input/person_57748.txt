@@ -1,0 +1,11 @@
+PERSON: ALGRINUS
+Also known as: ALGRINUS.
+Description: Chancelier de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1120-1150%.
+Studied at: Paris..
+Academic grades obtained: Maître ?.
+Ecclesiastical status: Diacre..
+Ecclesiastical positions held: Chancelier de Paris (Notre-Dame) %1120-1146% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/04/2024..

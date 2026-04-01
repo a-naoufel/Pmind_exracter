@@ -1,0 +1,9 @@
+PERSON: PETRUS Courtin 1
+Also known as: Petrus COURTIN.
+Description: Bachelier en décret.
+Status: Maître.
+Gender: male.
+Active during: %1426-1426%.
+Academic grades obtained: Paris .; Maître ès arts (Paris ?) ;; Bachelier en décret (Paris) en ;; Licencié ès lois ;.
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (L. VI) en (11 octobre) pour la 2e année et le 2e volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 16/09/2025..

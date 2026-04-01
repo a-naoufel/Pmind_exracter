@@ -1,0 +1,13 @@
+PERSON: PETRUS de Abbatisvilla 2
+Also known as: Petrus de ABBATISVILLA.
+Description: Chanoine de Cambrai.
+Status: Maître.
+Gender: male.
+Active during: %1318-1328%.
+Born in: Picardie (Abbeville ?) ?.
+Diocese of origin: Diocèse d'Amiens ?.
+Studied at: Paris %1318-1321%..
+Academic grades obtained: Maître en théologie (Paris) ?.
+Ecclesiastical positions held: Chanoine de Cambrai..
+University functions: Paris (Faculté de Théologie : doyen ?).
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 28/01/2024..

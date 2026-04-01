@@ -1,0 +1,13 @@
+PERSON: PETRUS Champy
+Also known as: Pierre CHAMPY.
+Description: Clerc intérimaire de la chapelle du collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1447-1447%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dormans-Beauvais : Clerc intérimaire de la chapelle (du 19 mai au 15 septembre) ;.
+Family relationships: Son parent est peut-être Guillaume CHAMPY, chapelain du collège de Dormans-Beauvais ;.
+Ecclesiastical status: Clerc ?.
+Ecclesiastical positions held: Clerc intérimaire de la chapelle du collège de Dormans-Beauvais ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet 24/11/2020)..

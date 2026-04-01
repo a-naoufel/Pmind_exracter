@@ -1,0 +1,12 @@
+PERSON: PHILIPPUS Cousin
+Also known as: Philippus COUSIN.
+Description: Abbé de Sainte-Geneviève.
+Status: Étudiant.
+Gender: male.
+Active during: %1488-1517%.
+Studied at: Paris.
+Academic grades obtained: Étudiant ?.
+College affiliation: Sainte-Geneviève %1488-1517%..
+Religious order: Chanoinerégulier(O.S.A. victorin) de Paris (Sainte-Geneviève)..
+Religious functions: Abbé (O.S.A) de Paris (Sainte-Geneviève) %1488-1517%..
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

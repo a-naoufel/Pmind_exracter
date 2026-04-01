@@ -1,0 +1,10 @@
+PERSON: HANNIBALDUS de Ceccano
+Also known as: Annibale de CECCANO.
+Description: Archidiacre d’Arras.
+Status: Incertain.
+Gender: male.
+Active during: %1389-1389%.
+Studied at: ?.
+Academic grades obtained: ?;.
+Ecclesiastical positions held: Archidiacre d’Arras en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

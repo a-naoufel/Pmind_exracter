@@ -1,0 +1,11 @@
+PERSON: BONAVENTURA Parisiensis
+Also known as: Bonaventure PARISIENSIS; Bonafortuna PARISIENSIS.
+Description: Franciscain..
+Status: Étudiant.
+Gender: male.
+Active during: %1250-1250%.
+Studied at: Paris ?.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Religious order: O.F.M. : frère franciscain..
+Authored work: 'Summa que dicitur Legifer de collationibus per annum', composed around ?.
+Source: Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress ("Bonventura Parisiensis") : //http://users.bart.nl/~roestb/franciscan/index.htm.

@@ -1,0 +1,16 @@
+PERSON: LANDULPHUS Junior
+Also known as: LANDULPHUS Junior; LANDOLFO Iuniore.
+Description: Acolyte.
+Status: Étudiant.
+Gender: male.
+Active during: %1097-1137%.
+Born in: Italie (Lombardie : Milan) ;.
+Diocese of origin: Diocèse de Milan..
+Studied at: Milan.; Orléans en ;; Tours en %1106-1107% ;; Paris en %1106-1107% ;; Laon en ..
+Academic grades obtained: Étudiant (Paris) %1106-1107% ;.
+Family relationships: Son oncle est LIUTPRAND, prêtre et recteur de Milan (San-PaoloinCampito)..
+Academic relationships: Son maître est Andrea DALVOLTO à Milan ; Son maître est ALFRED à Orléans en et à Tours en %1106-1107%. Son maître est JACQUES à Orléans en . Son maître est Guillaume de CHAMPEAUX à Paris en %1106-1107%. Son maître est Anselme de LAON à Laon en ; Son maître à Laon est RODOLPHE à Laon en ..
+Ecclesiastical status: Acolyte..
+Ecclesiastical positions held: Recteur de Milan (San-PaoloinCampito).; Maître de la chapelle archiépiscopale 1126-1135 ;.
+Authored work: 'Liber Hystoriarum Mediolanensis urbis Landulfi de Sancto Paulo', composed around ?.
+Source: DBI : Paolo CHIESA ;.

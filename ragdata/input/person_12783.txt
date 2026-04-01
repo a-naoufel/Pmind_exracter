@@ -1,0 +1,12 @@
+PERSON: RICARDUS Duval
+Also known as: Richard DUVAL.
+Description: Bénédictin.
+Status: Gradué.
+Gender: male.
+Active during: %1499-1499%.
+Born in: Normandie ?.
+Studied at: Paris %1499-1499%..
+Academic grades obtained: Bachelier en théologie (Paris) vers ..
+Religious order: O.S.B. : moine bénédictin de l'abbaye de Jumièges (diocèse de Rouen)..
+Religious functions: Quatrième-prieur de de Jumièges (diocèse de Rouen) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 27/12/2018..

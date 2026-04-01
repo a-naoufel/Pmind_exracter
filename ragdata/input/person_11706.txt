@@ -1,0 +1,28 @@
+PERSON: THADDAEUS Florentinus
+Also known as: Thaddeus FLORENTINUS; Thaddaeus de FLORENTIA; Thadée de FLORENCE; Taddeo ALDEROTTI.; Taddeo ALDEROTO..
+Description: Médecin.
+Status: Extérieur.
+Gender: male.
+Active during: %1245-1295%.
+Born in: Italie (Toscane : ?Florence)..
+Diocese of origin: Diocèse de Florence ?.
+Studied at: Bologne ;.
+Academic grades obtained: Maître ?.
+Social origin: Commun ;.
+University functions: Bologne (professeur de médecine dès )..
+Authored work: 'In Isagoge Honein ibn Isaac, Johannitii', composed around ?.
+Authored work: 'Expositio in Avicenne Canononem medicinae', composed around ?.
+Authored work: 'Recollectiones super I° Galieni de crisi', composed around ?.
+Authored work: 'Libellus medicinalis ad conservationem sanitatis', composed around ?.
+Authored work: 'Expositiones super librum Tegni Galieni', composed around ?.
+Authored work: 'Expositio in arduum Aphorismorum Hippocratis volumen', composed around ?.
+Authored work: 'Expositio divinum Hipocratis Pronosticorum volumen', composed around ?.
+Authored work: 'Comm. Hipocratis Regimen acutorum', composed around ?.
+Authored work: 'De conservanda sanitate', composed around ?.
+Authored work: 'Consilia', composed around ?.
+Authored work: 'Experimenta', composed around ?.
+Authored work: 'De regimine sanitatis', composed around ?.
+Authored work: 'De sanitate', composed around ?.
+Authored work: 'Sulla conservazione della salute', composed around ?, dedicated to Pour Corso DONATI..
+Authored work: '(Traduction italienne de la Summa Alexandrinorum)', composed around ?.
+Source: Dizionario biografico degli Italiani (Luigi BELLONI et Letizia VERGNANO) :.

@@ -1,0 +1,9 @@
+PERSON: FRANCISCUS de Florentina
+Also known as: Franciscus de FLORENTINA.
+Description: Licencié en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1393-1393%.
+Studied at: Paris %:1393-1393%..
+Academic grades obtained: Licencié en théologie (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 27/08/2021..

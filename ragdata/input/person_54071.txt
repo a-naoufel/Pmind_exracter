@@ -1,0 +1,10 @@
+PERSON: GERARDUS de Lingonis
+Also known as: Gerardus de LINGONIS.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1396-1398%.
+Studied at: Paris..
+Academic grades obtained: Bachelier en médecine avant ;; Licencié en médecine (Paris) (24-25 février) ;.
+University functions: Paris (Faculté de Médecine : Maître-régent pour %1396-1397%, désigné en (4 novembre)) ;; Paris (Faculté de Médecine : Maître-régent pour %1398-1399%, désigné en (5 novembre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 08/08/2022..

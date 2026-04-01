@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de Schiltberghe
+Also known as: Nicolaus de SKILDEBIERHG; Nicolaus de SCHILTBERGHE.
+Description: Procureur de la Nation Anglo-allemande.
+Status: Maître.
+Gender: male.
+Active during: %1339-1339%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est le Magister LUDGER pour le baccalauréat, la licence et la maîtrise en ;.
+University functions: Paris (Nation Anglo-allemande : procureur élu en (5 mai), prolongé le 2 juin, mais interrompu par son absence de Paris, et donc jusqu'au 27 août)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/10/2023..

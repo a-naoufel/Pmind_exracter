@@ -1,0 +1,7 @@
+PERSON: GUILLELMUS de Beauval
+Also known as: Guillelmus de BEAUVAL.
+Description: Médicastre.
+Status: Extérieur.
+Gender: male.
+Active during: %1423-1423%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 19/09/2022..

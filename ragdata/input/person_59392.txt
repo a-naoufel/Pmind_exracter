@@ -1,0 +1,10 @@
+PERSON: PETRUS Rousselet
+Also known as: Petrus ROUSSELET.
+Description: Procureur en Parlement.
+Status: Incertain.
+Gender: male.
+Active during: %1442-1485%.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Sa femme Symonne La ROLANDE, morte avant ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

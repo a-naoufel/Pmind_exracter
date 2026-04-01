@@ -1,0 +1,9 @@
+PERSON: IVO Bertrandi
+Also known as: Yvo BERTRANDI.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1446-1446%.
+Studied at: Paris %1446-1446%..
+Academic grades obtained: Bachelier en décret. (Paris) 14 octobre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 19/9/2022..

@@ -1,0 +1,10 @@
+PERSON: RICARDUS Travados
+Also known as: Ricardus TRAVADOS.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1303-1303%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Reims ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 08/06/2021..

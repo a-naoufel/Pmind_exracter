@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Monardi
+Also known as: Guillermus MONARDI.
+Description: Archidiacre d’Anvers.
+Status: Incertain.
+Gender: male.
+Active during: %1415-1435%.
+Studied at: ?.
+Academic grades obtained: Maître ;; Licencié en droit canon ;.
+Ecclesiastical positions held: Archidiacre d’Anvers %1415-1435% ;.
+Representation roles: Délégué de CHARLES VI, roi de France au concile de Constance ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 02/01/2026..

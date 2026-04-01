@@ -1,0 +1,11 @@
+PERSON: GALTERIUS Forestarii de Edua
+Also known as: Galterus FORESTARII de Edua.
+Description: Chanoine de Mâcon.
+Status: Maître.
+Gender: male.
+Active during: %1281-1308%.
+Studied at: Paris ?.
+Academic grades obtained: Maître ès arts (Paris) ?.
+Ecclesiastical positions held: Chanoine d'Autun %1281-1285% :; Chanoine de Mâcon %1287-1308% ;.
+Other ecclesiastical functions: Official de Lyon nommé par l'évêque d'Autun ;; Official de Lyon.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 17/11/2021..

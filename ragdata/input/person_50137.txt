@@ -1,0 +1,11 @@
+PERSON: HERVEUS de Saham
+Also known as: Hervey de SAHAM.
+Description: Chancelier d'Oxford.
+Status: Extérieur.
+Gender: male.
+Active during: %1285-1286%.
+Born in: Angleterre..
+Studied at: Oxford..
+Academic grades obtained: Docteur en théologie (Oxford) ?.
+University functions: Oxford (Université : chancelier en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 05/09/2019..

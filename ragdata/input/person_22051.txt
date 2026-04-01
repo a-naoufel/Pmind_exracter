@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS Archiepiscopi
+Also known as: Aegidius ARCHIEPISCOPI.
+Description: Doyen d'Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1383-1388%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Doyen d'Amiens %1383-1388% ;.
+University functions: Professeur de droit ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 19/04/2020)..

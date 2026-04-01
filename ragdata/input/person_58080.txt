@@ -1,0 +1,13 @@
+PERSON: HENRICUS de Bethune
+Also known as: Henri de BETHUNE.
+Description: Maître en décret.
+Status: Maître.
+Gender: male.
+Active during: %1310-1310%.
+Born in: Flandre (Béthune ?) ?.
+Diocese of origin: Diocèse d’Arras..
+Studied at: Paris..
+Academic grades obtained: Maître en décret (Paris)..
+Ecclesiastical positions held: Chanoine de Furnes (Sainte Walburge)..
+University functions: Paris (Faculté de Décret :maître-régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 17/09/2024..

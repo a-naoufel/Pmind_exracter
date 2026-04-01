@@ -1,0 +1,9 @@
+PERSON: BONAMI
+Also known as: BONAMI.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1487-1487%.
+Studied at: Paris ..
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (dernière mise à jour, Jean-Philippe Genet, 24/03/2021)..

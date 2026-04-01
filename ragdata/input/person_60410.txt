@@ -1,0 +1,11 @@
+PERSON: SALOMON Thoraldi
+Also known as: Salomon THORALDI; SALOMON Þoraldasson.
+Description: Évêque.
+Status: Incertain.
+Gender: male.
+Active during: %1296-1351%.
+Born in: Norvège.
+Studied at: ?.
+Academic grades obtained: Étudiant.
+Ecclesiastical positions held: Chanoine de Nidaros (Trondheim), %1305-1322%.; Évêque d'Oslo, %1322-1351%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 21/11/2025..

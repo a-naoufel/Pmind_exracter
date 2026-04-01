@@ -1,0 +1,13 @@
+PERSON: AUGUSTINUS Caminadus
+Also known as: Augustinus CAMINADUS.
+Description: Humaniste.
+Status: Maître.
+Gender: male.
+Active during: %1488-1511%.
+Born in: Gueldre (Viersen ?) ?.
+Studied at: Cologne ;; Paris ;; Orléans %1500-1502%..
+Academic grades obtained: Étudiant (Cologne) ;; Maître ès arts (université inconnue) avant ;; Licencié droit civil (Orléans)..
+University functions: Paris (Maître de latin pour des élèves privés) ;.
+Authored work: 'Opera', composed around .
+Authored work: 'Adagia. Prosopopoeia Britanniae Majoris'.
+Source: Base Budé (non consultée) ;.

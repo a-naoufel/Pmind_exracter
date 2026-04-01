@@ -1,0 +1,11 @@
+PERSON: THEOBALDUS de Vivario
+Also known as: Thibaut du VIVIER.
+Description: Hôte du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1403-1404%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Dormans-Beauvais : hôte ;.
+Family relationships: Son parent est peut-être Henri du VIVIER ; Son parent est peut-être Jean du VIVIER, hôte en %1403-1404% ; Son parent est peut-être Jean du VIVIER, hôte en %1447-1448% ;.
+Source: LAMOP : Opération Charles VI (n° 2485) :.

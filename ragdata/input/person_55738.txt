@@ -1,0 +1,10 @@
+PERSON: OLIVERIUS Le Bourguignon
+Also known as: Olivier LE BOURGUIGNON.
+Description: Procureur du collège de Fortet.
+Status: Maître.
+Gender: male.
+Active during: %1452-1465%.
+Studied at: Paris ?.
+Academic grades obtained: Maître ès arts (Paris) ?.
+College affiliation: Collège de Fortet : boursier ;; Collège de Fortet, procureur %1457-1465% ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

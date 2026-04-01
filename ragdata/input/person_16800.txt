@@ -1,0 +1,24 @@
+PERSON: ARLOTTUS de Prato
+Also known as: Arlottus de PRATO.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1274-1286%.
+Born in: Italie (Toscane : Prato)..
+Diocese of origin: Diocèse de Prato ?.
+Studied at: Couvent (franciscain) de Paris (Cordeliers)..
+Academic grades obtained: Maître en théologie (Paris) ..
+Family relationships: Son frère est Gherardo da PRATO, O.F.M., missionnaire en Orient et auteur d’un commentaire sur les Sentences de Pierre LONBARD..
+Social origin: Noble..
+Religious order: O.F.M. : frère franciscain..
+Religious functions: ?Ministreprovincial (franciscain) de Toscane %1283-1285%.; Ministregénéral des Franciscains, élu en par le Chapitre de Milan..
+University functions: Paris (Faculté de Théologie : il fait partie des maîtres en théologie parisiens qui répondent en (novembre) à deux cas de conscience qui leur ont été soumis) ;; Paris (Université : en 1282, Arlotto de PRATO, O.F.M., et Hugo AYCELIN de Billom, O.P., maîtres en théologie, quatre maîtres ès arts et deux bourgeois de Paris, Johannes QUIDERNOIE et Nicolaus de ALTYSIODORO sont chargés d'établir la taxatio domorum) ;; Paris (Faculté de Théologie : Maître-régent du couvent franciscain %1284-1285%)..
+Authored work: '(Sermons)', composed around ?.
+Authored work: '(Commentaire sur les Sentences)', composed around ?.
+Authored work: '(Rotulus)', composed around ?.
+Authored work: 'Littera septem sigillorum', composed around ?.
+Authored work: 'De aeternitate mundi quaestio disputata', composed around ?.
+Authored work: 'Lettre encyclique', composed around .
+Authored work: 'Super epistolas et evangelia totius anni collationes', composed around ?.
+Authored work: 'Concordantiae utriusque Testamenti', composed around ?.
+Source: http://tel.archives-ouvertes.fr/docs/00/52/04/60/PDF/HDR_Piron_vol._3.pdf, 15-33..

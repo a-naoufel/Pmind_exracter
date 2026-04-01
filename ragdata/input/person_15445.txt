@@ -1,0 +1,12 @@
+PERSON: G. de Gasgoing
+Also known as: G. de GASGOING.
+Description: Bénédictin.
+Status: Maître.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1350%..
+Academic grades obtained: ?Maître (Paris) ..
+College affiliation: Collège de Saint-Denis ;.
+Religious order: O.S.B. : moine bénédictin de l'abbaye de Saint-Denis-en-France en %1329-1330%..
+University functions: Paris (Maître des étudiants de l'abbaye de Saint-Denis-en-France à Paris ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 24/09/2021..

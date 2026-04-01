@@ -1,0 +1,8 @@
+PERSON: ALANUS Masan
+Also known as: Alanus MASAN.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 04/06/2020..

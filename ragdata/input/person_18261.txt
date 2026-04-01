@@ -1,0 +1,11 @@
+PERSON: DIONYSIUS Basin
+Also known as: Dionysius BASIN.
+Description: Baccalauréat ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1451-1451%.
+Born in: Berry ?.
+Diocese of origin: Diocèse de Bourges..
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/05/2021..

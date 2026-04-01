@@ -1,0 +1,10 @@
+PERSON: ROBERTUS de Domfront
+Also known as: Robert de DOMFRONT.
+Description: Maître..
+Status: Maître.
+Gender: male.
+Active during: %:1220-:1220:%.
+Studied at: Paris ?.
+Academic grades obtained: Magister..
+Ecclesiastical positions held: Ecolâtre de Paris ;; Chanoine du LeMans dès les années ..
+University functions: Maître..

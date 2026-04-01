@@ -1,0 +1,10 @@
+PERSON: ELEUTHERIUS Audacis
+Also known as: Eleuthère AUDACIS.
+Description: Boursier théologien au Collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1384-1395%.
+Studied at: Paris (Collège de Navarre) %1384-1395%..
+Academic grades obtained: Étudiant en théologie (Paris) ..
+College affiliation: Boursier théologien au Collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet 6/07/2021..

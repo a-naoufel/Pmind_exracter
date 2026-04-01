@@ -1,0 +1,12 @@
+PERSON: GALTERIUS Teutonicus
+Also known as: Galterus TEUTONICUS; Gautier le TEUTONIQUE.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1229-1229%.
+Born in: Allemagne ?.
+Studied at: Paris ;; Verceil..
+Academic grades obtained: Maître ès arts (Paris)..
+Religious order: O.P. frère dominicain ..
+University functions: Paris (Maître enseignant la logique) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 5/09/2021)..

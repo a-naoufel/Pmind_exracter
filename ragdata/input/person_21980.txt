@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Champeaux
+Also known as: Guillaume de CHAMPEAUX.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1396-1399%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: ?Boursier du Collège de Dormans-Beauvais %1396-1399% ;.
+Source: LAMOP : Opération Charles VI (2631) :.

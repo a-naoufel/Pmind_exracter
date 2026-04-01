@@ -1,0 +1,11 @@
+PERSON: BERNARDUS Sabatier I
+Also known as: Bernard SABATIER.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1283-1299%.
+Studied at: Montpellier ?.
+Academic grades obtained: Magister ?.
+Religious order: O.P. : frère du couvent (dominicain) de Montpellier..
+University functions: Narbonne (Couvent dominicain : Lecteur de Logique ) ;; Carcassonne (Couvent dominicain : Lecteur Natural. ) ;; Montpellier (Couvent dominicain : Lecteur de Théologie )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 20/02/2021).

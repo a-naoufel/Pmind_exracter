@@ -1,0 +1,9 @@
+PERSON: THEOBALDUS Rozé
+Also known as: Theobaldus ROZÉ.
+Description: Bachelier en droit.
+Status: Incertain.
+Gender: male.
+Active during: %1474-1474%.
+Studied at: ?.
+Academic grades obtained: Bachelier en droit.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 2/05/2016..

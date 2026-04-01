@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Amydoux
+Also known as: Guillelmus AMYDOUX; Guillaume AMYDOUX; Guillelmus AMICUS DULCIS.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1331-1331%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie ?) ..
+Academic grades obtained: Magister (Paris)..
+College affiliation: Collège de Sorbonne : procureur ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 22/11/2019..

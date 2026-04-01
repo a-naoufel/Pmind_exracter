@@ -1,0 +1,10 @@
+PERSON: HENRICUS de Sognies
+Also known as: Henricus de SOGNIES.
+Description: Chanoine de Tournai.
+Status: Extérieur.
+Gender: male.
+Active during: %1198-1198%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chanoine de Tournai % -1198% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/03/2024..

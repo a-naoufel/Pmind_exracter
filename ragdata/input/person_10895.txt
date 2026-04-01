@@ -1,0 +1,12 @@
+PERSON: RICARDUS de Bosco 2
+Also known as: Richardus de BOSCO; Richard de BOST.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1483-1491%.
+Born in: Normandie ?.
+Studied at: Paris %1483-1491%.
+Academic grades obtained: Baccalarius formatus en théologie (Paris) ;; Licencié en théologie (Paris) (le 13 janvier) ;; Docteur en théologie (Paris) (le 19 mars) ..
+College affiliation: Étudiant au collège Saint-Bernard à Paris en %1483-1488% ;; Proviseur du collège Saint-Bernard dans les années 1490 ;.
+Religious order: O.Cist. : moine cistercien de l'abbaye (cistercienne) de Mortemer ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 19/06/2024..

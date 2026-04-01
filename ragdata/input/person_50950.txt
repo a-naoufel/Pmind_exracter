@@ -1,0 +1,10 @@
+PERSON: BERTRANDUS 2
+Also known as: BERTRANDUS.
+Description: Chanoine d'Auxerre.
+Status: Extérieur.
+Gender: male.
+Active during: %1213-1214%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Chanoine d'Auxerre %1213-1214%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 08/08/2020).

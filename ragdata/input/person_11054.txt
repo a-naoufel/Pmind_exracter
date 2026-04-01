@@ -1,0 +1,12 @@
+PERSON: ROBERTUS Cadard
+Also known as: Robertus CADARD.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1394-1394%.
+Born in: Diocèse de Thérouanne ?.
+Studied at: Paris %1394-1394%.
+Academic grades obtained: Étudiant en décret (Paris) ..
+Religious order: Bénédictin : monastère (bénédictin) de Saint-Jean-au-Mont-lès-Thérouanne (Diocèse de Thérouanne)..
+Religious functions: Candidat à un bénéfice à la collation de l'abbé et de la communauté de Cluny en ;; Candidat à un bénéfice à la collation de l'abbé et de la communauté de Saint-Bertin en ;; Candidat à un bénéfice à la collation de l'abbé et de la communauté de Corbie en ;; Candidat à un bénéfice à la collation de l'abbé et de la communauté de Saint-Amand-les-Eaux en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol ; révision, Jean-Philippe Genet, 24/12/2018..

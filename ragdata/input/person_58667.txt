@@ -1,0 +1,16 @@
+PERSON: MANEGOLDUS de Lautenbach
+Also known as: Manegold de LAUTENBACH.
+Description: Prieur de Marbach.
+Status: Extérieur.
+Gender: male.
+Active during: %1070-1103%.
+Born in: Alémanie ?.
+Studied at: Maître..
+Religious order: O.S.B. : moine (bénédictin) de Lautenbach jusque vers 1085 ;; O.S.A. : en , chanoineaugustin de l’abbaye (O.S.A.) de Rottenbuch en Bavière, dans le diocèse de Freising ;.
+Religious functions: Prieur de l’abbaye (O.S.A.) de Marbach en Alsace ;.
+Authored work: 'Liber contra Wolfelmum Coloniensem', composed around . ;.
+Authored work: 'Consuetudines Marbacenses', composed around ?.
+Authored work: 'Liber ad Gebhardum', composed around %1084-1085%, dedicated to Adressé à GEBHARDUS, archevêque de Salzbourg..
+Authored work: 'Commentarium in Apocalypsim', composed around ?.
+Authored work: 'Commentarium in epistolas Pauli', composed around ?.
+Source: Deutsche Geschichtsquellen : //https://www.geschichtsquellen.de/autor/3753 ;.

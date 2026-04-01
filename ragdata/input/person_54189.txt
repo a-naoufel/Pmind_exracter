@@ -1,0 +1,12 @@
+PERSON: ROBERTUS de Creciaco
+Also known as: Robertus de CRECIACO.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1264-1284%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Diacre ;.
+Ecclesiastical positions held: Chanoine de Sens %1264-1284% ;.
+Other ecclesiastical functions: Clerc de l’archevêque de Sens ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 10/09/2022..

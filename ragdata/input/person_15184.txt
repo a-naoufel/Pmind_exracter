@@ -1,0 +1,9 @@
+PERSON: ROBERTUS Dyonisii
+Also known as: Robert DYONISII.
+Description: Écolier de la Faculté de médecine..
+Status: Étudiant.
+Gender: male.
+Active during: %1416-1417%.
+Studied at: Paris %1416-1417%..
+Academic grades obtained: Étudiant en médecine (Paris) %1416-1417%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 24/08/2024..

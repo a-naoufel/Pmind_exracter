@@ -1,0 +1,13 @@
+PERSON: Scolaris de Moris
+Also known as: Scolaris de MORIS.
+Description: Cistercien.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Langres ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+College affiliation: Collège des Bernardins ;.
+Religious order: O. Cist. : abbaye (cistercienne) de Mores (diocèse de Langres)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 30/08/2016..

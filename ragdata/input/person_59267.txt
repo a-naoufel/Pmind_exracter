@@ -1,0 +1,8 @@
+PERSON: PETRUS A Parisius
+Also known as: Petrus a PARISIUS.
+Description: Notaire.
+Status: Extérieur.
+Gender: male.
+Active during: %1341-1345%.
+Social origin: Bourgeoisie ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

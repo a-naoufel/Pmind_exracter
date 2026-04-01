@@ -1,0 +1,8 @@
+PERSON: PHILIPPUS de Leviis
+Also known as: Ph. de LEVIIS; Philippus de LEVIS.
+Description: Enquêteur.
+Status: Extérieur.
+Gender: male.
+Active during: %1170-1204%.
+Social origin: Noble ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 15/09/2023)..

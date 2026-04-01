@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Brideti de Vaudemonte
+Also known as: Nicolaus BRIDETI de Vaudemonte; Nicolaus de VAUDEMONTE.
+Description: Étudiant en médecine.
+Status: Étudiant.
+Gender: male.
+Active during: %1399-1400%.
+Born in: Lorraine ?.
+Studied at: Paris %1399-1400%..
+Academic grades obtained: Étudiant en médecine (Paris) %1399-1400% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 8/10/2023)..

@@ -1,0 +1,11 @@
+PERSON: ADAM Corbier
+Also known as: Adam CORBIER.
+Description: Chanoine de Saint-Denis.
+Status: Extérieur.
+Gender: male.
+Active during: %1387-1388%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Saint-Denis (Saint-Paul) en %1387-1388% ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,14 @@
+PERSON: HONORATUS de Puteovillari
+Also known as: Honoré de PUTEOVILLARI; Honoré de PUTHEVILLERS; Honoré de PUCHEVILLER.
+Description: Maître-régent de la Faculté de Médecine de Paris..
+Status: Maître.
+Gender: male.
+Active during: %1395-1424%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse d'Amiens ;.
+Studied at: Paris %1395-1396%..
+Academic grades obtained: Maître en médecine (Paris) ?..
+Ecclesiastical status: Clerc du diocèse d'Amiens ;; Prêtre ;.
+Ecclesiastical positions held: Chanoine de Cambrai, %1422-1424% ;; Chanoine d'Amiens %1413-1424% ;; Curé d'Amiens (Saint-Martin) ;; Chapelain de Picquigny (Saint-Martin) ;; Chapelain de Sainte-Brigitte près de Corbie.; Préchantre d'Amiens %1422-1424% ;.
+University functions: Paris (Faculté de Médecine : Maîtrerégent %1395-1396%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision Jean-Philippe Genet, 19/11/2021..

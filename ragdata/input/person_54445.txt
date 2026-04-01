@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Triangulo
+Also known as: Guillelmus de TRIANGULO; Guillaume de TRAINEL.
+Description: Évêque de Metz.
+Status: Incertain.
+Gender: male.
+Active during: %1247-1269%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Sens ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Sens %1247-1264% ;; Chanoine de Metz %1263-1264% ;; Évêque de Metz %1264-1269% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 24 octobre 2022..

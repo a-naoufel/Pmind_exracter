@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Sancto Genesio
+Also known as: Guillelmus de SANCTO GENESIO; Guillaume de SAINT GENES.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1272-1292%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) en ?.
+College affiliation: Couvent des Jacobins ?.
+Religious order: O.P. : frère dominicain ;.
+University functions: Figeac (Couvent dominicain : lecteur ) ;; Paris (Couvent dominicain : lecteur ) ;; Cahors (Couvent dominicain : lecteur)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 29/08/2020)..

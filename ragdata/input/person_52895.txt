@@ -1,0 +1,10 @@
+PERSON: ROBERTUS de Pratellis
+Also known as: Robertus de PRATELLIS.
+Description: Archidiacre de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1322-1341%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Curé de Bretteville ;; Archidiacre de Rouen %1337-1341% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 5/11/2021..

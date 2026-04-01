@@ -1,0 +1,10 @@
+PERSON: CLAUDIUS Bauberetus
+Also known as: Claudius BAUBERETUS.
+Description: Étudiant en théologie ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1480-1480%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant en théologie ?.
+College affiliation: Sorbonne ?.
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, dernière mise à jour 25/02/2021..

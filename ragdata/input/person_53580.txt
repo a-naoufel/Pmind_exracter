@@ -1,0 +1,12 @@
+PERSON: PETRUS Martini 10
+Also known as: Petrus MARTINI.
+Description: Curé de Souvans.
+Status: Incertain.
+Gender: male.
+Active during: %1472-1476%.
+Born in: ComtédeBourgogne (Chaussin) ;.
+Diocese of origin: Diocèse de Besançon ;.
+Studied at: ?.
+Academic grades obtained: Licencié in utroque ;.
+Ecclesiastical positions held: Chanoine (non reçu) de Besançon en ;; Curé de Souvans en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/03/2022)..

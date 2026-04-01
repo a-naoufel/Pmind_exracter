@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Piedefer
+Also known as: Guillelmus PIEDEFER; Guillermus PIEDEFER.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1482-1482%.
+Studied at: Paris %1482-1482%..
+Academic grades obtained: Étudiant en décret (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 04/05/2015..

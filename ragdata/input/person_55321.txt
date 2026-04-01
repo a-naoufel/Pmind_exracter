@@ -1,0 +1,9 @@
+PERSON: MICHAEL Sonnacheau
+Also known as: Michael SONNACHEAU; Michael SONNENCHEAU.
+Description: Nonce pour le diocèse d'Orléans.
+Status: Suppôt.
+Gender: male.
+Active during: %1449-1449%.
+Studied at: Paris (Nation de France) ..
+University functions: Paris (Nation de France : nonce pour le diocèse de Orléans en (27 juillet) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/02/2023..

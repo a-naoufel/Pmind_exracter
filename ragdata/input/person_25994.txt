@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS de Smidt
+Also known as: Guillelmus de SMIDT.
+Description: Abbé (cistercien) de TerDoest.
+Status: Maître.
+Gender: male.
+Active during: %1356-1386%.
+Born in: Flandre ?.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) ?.
+College affiliation: Collège Saint-Bernard ?.
+Religious order: O.Cist. : moine cistercien..
+Religious functions: Abbé (cistercien) de TerDoest %1357-1386%..
+Authored work: 'Summa theologica scolasticae', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 18/04/2022..

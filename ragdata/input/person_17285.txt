@@ -1,0 +1,16 @@
+PERSON: ADRIANUS de Lameth
+Also known as: Adrianus de LAMETH.
+Description: Recteur de l'Université.
+Status: Maître.
+Gender: male.
+Active during: %1496-1553%.
+Born in: Picardie (Noyon ?)..
+Studied at: Paris (Nation de Picardie)..
+Academic grades obtained: Maître ès arts (Paris) .; Maître en théologie (Paris) ..
+College affiliation: Sorbonne : socius ; il a reçu les clés de la bibliothèque en ..
+Family relationships: Son oncle est Adrien de HÉNENCOURT, docteur en décret et chanoine d'Amiens..
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine d'Amiens %1496-1553% ;; Chanoine de Noyon ;; Chancelier de Noyon ;; Archidiacre de Noyon ;; Doyen d'Amiens %1529-1553% ;.
+University functions: Paris (Faculté des Arts : Recteur )..
+Authored work: 'Viginti Psalmi interpretati', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

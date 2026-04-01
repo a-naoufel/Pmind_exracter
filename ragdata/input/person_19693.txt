@@ -1,0 +1,15 @@
+PERSON: PETRUS de La Fin
+Also known as: Pierre de LA FIN.
+Description: Abbé de Pontigny.
+Status: Étudiant.
+Gender: male.
+Active during: %1460-1506%.
+Born in: Bourbonnais ?.
+Studied at: Paris ..
+Academic grades obtained: Etudiant (Paris) en ?; Bachelier en théologie (Paris)..
+College affiliation: Collège Saint-Bernard..
+Family relationships: Son frère est Antoine de LAFIN, seigneur de Beauvoir, maître d'hôtel de JEAN II, duc de Bourbon ; Son frère est Hugues de LAFIN, seigneur de Praigne..
+Social origin: Noble..
+Religious order: Cistercien à l'abbaye (cistercienne) de LaBénisson-Dieu dans le Forez..
+Religious functions: Abbé de l'abbaye (cistercienne) de LaBénisson-Dieu %1460-1504% ;; Abbé de l'abbaye (cistercienne) de Pontigny %1475-1505% :.
+Source: http://belling.dominique.free.fr/ : accès à l'histoire de la Bénisson-Dieu de l'abbé Dard (1880)..

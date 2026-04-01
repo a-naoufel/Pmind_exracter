@@ -1,0 +1,10 @@
+PERSON: SIMON de Valleum
+Also known as: Simon de VALLEUM.
+Description: Maître en décret.
+Status: Maître.
+Gender: male.
+Active during: %1272-1272%.
+Studied at: Paris (Faculté de Décret) ..
+Academic grades obtained: Maître en décret (Paris) ..
+University functions: Paris (Faculté de Décret : Maître régent en droit canon en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 19/02/2024)..

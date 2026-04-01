@@ -1,0 +1,10 @@
+PERSON: ROLANDUS Fabri 1
+Also known as: Rollandus FABRI.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1394-1394%.
+Studied at: Paris %:1389-1394% ;.
+Academic grades obtained: Étudiant en décret (Paris) en ;.
+Ecclesiastical positions held: Recteur de Castris-sous-Monthléry (?) en ;; Candidat à un canonicat de Noyon sur le rotulus présenté par Elias de LESTRANGE, évêque de Saintes à BENOÎT XIII en (25-29 octobre) à Avignon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 10/02/2019..

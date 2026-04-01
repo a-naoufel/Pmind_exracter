@@ -1,0 +1,12 @@
+PERSON: LUDOVICUS Chambon
+Also known as: Ludovicus CHAMBON.
+Description: Sous-doyen de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1482-1507%.
+Born in: Poitou ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son parent est (peut-être) Jean CHAMBON, maire de Poitiers en ?.
+Ecclesiastical positions held: Chanoine de Poitiers %1482-1507% ;; Sous-doyen de Poitiers %1497-1507% ;; Aumônier de Poitiers (Sainte-Radegonde) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 28/11/2022..

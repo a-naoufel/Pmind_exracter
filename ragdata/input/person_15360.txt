@@ -1,0 +1,8 @@
+PERSON: ROBERTUS de Somercotes
+Also known as: Robert de SOMERCOTES.
+Description: Etudiant à Bologne et Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %:1232-1232%.
+Studied at: Bologne ;; Paris..
+Family relationships: Apparenté à la famille des FOLIOT ; Son frère est le juriste Laurent de SOMERCOTES..

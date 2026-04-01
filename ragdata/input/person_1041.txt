@@ -1,0 +1,11 @@
+PERSON: ARNALDUS de Hassenede
+Also known as: Arnoul de HASSENEDE.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1291-1291%.
+Born in: Flandre ?.
+Studied at: Paris..
+Academic grades obtained: Magister ?.
+College affiliation: Sorbonne ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe GENET 3/11/2020)..

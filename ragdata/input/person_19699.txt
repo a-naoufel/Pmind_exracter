@@ -1,0 +1,35 @@
+PERSON: NICOLAUS Parisiensis 1
+Also known as: Nicolaus PARISIENSIS; Nicolas de PARIS.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1230-1240%.
+Born in: Île-de-France (Paris) ?.
+Diocese of origin: Diocèse de Paris ?.
+Studied at: Paris ?.
+Academic grades obtained: Maître ès arts (Paris) ?.
+University functions: Paris (Faculté des Arts : maître-régent vers %1230-1240%) ;.
+Authored work: 'Expositio in Apocalypsim', composed around ?.
+Authored work: 'Expositio in Lucam', composed around ?.
+Authored work: 'Philosophia', composed around ?.
+Authored work: 'Notulae super lib. Topicorum Boetii', composed around ?.
+Authored work: 'Notulae super lib. Elenchorum', composed around ?.
+Authored work: 'Rationes sex principiorum', composed around ?.
+Authored work: 'Rationes super libro Perhermenias', composed around ?.
+Authored work: 'Comment. in Categorias Aristotelis', composed around ?.
+Authored work: 'Comment. in Boethium De divisione', composed around ?.
+Authored work: 'Comment. in Isagoge Porphyrii', composed around ?.
+Authored work: 'Comment. in librum Sex principiorum', composed around ?.
+Authored work: 'Comment in libros Analyticorum Posterium', composed around ?.
+Authored work: 'Sincategoreumata', composed around ?.
+Authored work: 'Obligationes', composed around ?.
+Authored work: 'Sophismata', composed around ?.
+Authored work: 'In Praedicamenta', composed around ?.
+Authored work: 'Summe Metenses', composed around ?.
+Authored work: 'Divisio scientiarum', composed around ?.
+Authored work: 'Comment. in Donatum De barbarismo', composed around ?.
+Authored work: 'Comment. in Priscianum De accentibus', composed around ?.
+Authored work: 'Comm. in lib. De accidentibus Prisciani', composed around ?.
+Authored work: 'Quaestiones super Priscianum minorem', composed around ?.
+Authored work: 'Quaestiones naturales', composed around ?.
+Source: MIRABILE :.

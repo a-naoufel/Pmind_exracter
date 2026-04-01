@@ -1,0 +1,31 @@
+PERSON: PHILIPPUS Cancellarius
+Also known as: Philippus CANCELLARIUS; Philippe LE CHANCELIER.
+Description: Chancelier de l'église de Paris..
+Status: Maître.
+Gender: male.
+Active during: %1206-1236%.
+Born in: Paris..
+Studied at: Paris %:1206-1207:%..
+Academic grades obtained: Licencié en théologie (Paris) %:1206:-:1207:% ;; Maître en théologie (Paris) ?..
+Family relationships: Son père est PHILIPPE, archidiacre de Paris..
+Ecclesiastical positions held: Archidiacre de Noyon %1211-1217% ;; Chancelier de l'église de Paris, %1218-1236%..
+Authored work: 'Summa quaestionum theologicarum [Summa de bono]', composed around .
+Authored work: 'Summa super Psalterium [336 sermons].', composed around ?.
+Authored work: 'Sermones festivales', composed around ?.
+Authored work: 'Sermones super evangelia', composed around ?.
+Authored work: '[Sermon pour le Jeudi Saint]', composed around .
+Authored work: '[Sermon pour la fête de S. Pierre aux Liens]', composed around .
+Authored work: 'Expositio evangeliorum dominicorum', composed around ?.
+Authored work: '[Sermon pour le Samedi Saint]', composed around .
+Authored work: '[Relation sur le clou miraculeux de Saint DENIS]', composed around .
+Authored work: 'Libellus de modo exhortandi et faciendi de illis qui in agone... laborant', composed around ?.
+Authored work: 'Homo quam sit pura', composed around ?.
+Authored work: 'Centrum capit circulus', composed around ?.
+Authored work: '[Pièce notée 1]', composed around ?.
+Authored work: 'Quisquis cordis et oculi (pièce notée 2]', composed around ?.
+Authored work: '[Pièce notée 3]', composed around ?.
+Authored work: '[Pièce notée 3]', composed around ?.
+Authored work: 'Disputatio inter matrem crucifixi et crucem', composed around ?.
+Authored work: 'Virgo templum Trinitatis', composed around ?.
+Authored work: 'Christus assistens pontifex', composed around ?.
+Authored work: 'Pange lingua Magdalenae', composed around ?.

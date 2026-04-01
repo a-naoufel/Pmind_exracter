@@ -1,0 +1,10 @@
+PERSON: GERVASIUS Coignart
+Also known as: Gervasius COIGNART; Gervasius CUONART.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1487-1510%.
+Studied at: Paris (Nation Anglo-allemande )..
+Academic grades obtained: ?.
+University functions: Paris (Nation Anglo-allemande : parvus librarius %1487-1510%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 14/01/2022..

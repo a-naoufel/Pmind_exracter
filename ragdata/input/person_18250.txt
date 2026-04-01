@@ -1,0 +1,10 @@
+PERSON: DIONYSIUS de Brocia
+Also known as: Dionysius de BROCIA.
+Description: Trésorier de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1260-1260%.
+Studied at: ?.
+Academic grades obtained: Magister.
+Ecclesiastical positions held: Diacre ;; Chanoine de Sens % -1260% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/05/2021..

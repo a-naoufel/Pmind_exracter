@@ -1,0 +1,13 @@
+PERSON: BENEDICTUS Johannis 1
+Also known as: BENEDICTUS Johannis; Benedictus JOHANNIS.
+Description: Évêque.
+Status: Incertain.
+Gender: male.
+Active during: %1288-1321%.
+Born in: Suède.
+Studied at: ?Paris, ..
+Academic grades obtained: Mag. ?(P), ..
+Ecclesiastical positions held: Chanoine de Skara (cathédrale), ;; Prévôt de Skara (cathédrale), %1308-1317%;; Évêque de Skara, %1317-1321%..
+Other ecclesiastical functions: Procureur de BRYNULPHUS Algoti, évêque de Skara, ..
+Representation roles: Membre de l'assemblée d'Uppsala, qui a élu MAGNUS Eriksson roi de Suède, 8 juillet ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 28/02/2018..

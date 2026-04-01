@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Mile
+Also known as: Nicolaus MILE.
+Description: Écolier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1414-1414%.
+Studied at: Paris %1414-1417%..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Dormans-Beauvais : écolier ;.
+Family relationships: Son parent est peut-être Henri MILE ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/11/2023..

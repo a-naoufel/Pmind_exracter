@@ -1,0 +1,10 @@
+PERSON: ROBERTUS Comin
+Also known as: Robertus COMIN.
+Description: Recteur d’Oissel.
+Status: Extérieur.
+Gender: male.
+Active during: %1326-1326%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Recteur d’Oissel (Saint-Martin) en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

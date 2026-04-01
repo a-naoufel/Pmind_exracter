@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Postel
+Also known as: Nicolas POSTEL.
+Description: Recteur de Bouquelon.
+Status: Maître.
+Gender: male.
+Active during: %1279-1279%.
+Studied at: Paris.
+Academic grades obtained: Magister.
+University functions: Recteur de Bouquelon, près de Pont-Audemer, en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 24/11/2023)..

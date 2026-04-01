@@ -1,0 +1,11 @@
+PERSON: ARNALDUS de Glymez
+Also known as: Arnoldus de GLYMEZ; Arnoldus de GLYMES; Arnoldus de GLIMES; Arnoldus de GLIMIS.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1418-1446%.
+Studied at: Paris %1418-1418% ;; Louvain %1446-1446%..
+Academic grades obtained: Bachelier en théologie (Paris) ;; Étudiant (Louvain) ..
+Social origin: Noblesse..
+Religious order: Bénédictin : abbaye de Gembloux (diocèse de Namur)..
+Religious functions: Moine de l'abbaye de Gembloux (diocèse de Namur) en ;; Candidat au prieuré de Vesly (dépendance de Marmoutier au diocèse de Rouen) le 10 juillet ;; Candidat à l'abbaye de Gembloux en ;; Procureur de l'abbé de Brogne (diocèse de Namur) en mai ;; Prieur de Mersen (diocèse de Reims) en %1425-1446% ;; Prieur dans le diocèse de Reims en ;; Prieur de Prix (diocèse de Reims) ;.

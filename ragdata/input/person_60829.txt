@@ -1,0 +1,11 @@
+PERSON: HUGO de Sorra
+Also known as: Hugo de SORRA.
+Description: Chanoine de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1234-1236%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Cambrai %1234-1236% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 04/01/2026..

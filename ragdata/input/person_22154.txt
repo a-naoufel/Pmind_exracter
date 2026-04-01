@@ -1,0 +1,10 @@
+PERSON: BERARDUS
+Also known as: BERARDUS.
+Description: Chanoine de Tournai.
+Status: Incertain.
+Gender: male.
+Active during: %1256-1268%.
+Studied at: ?.
+Academic grades obtained: Magister ..
+Ecclesiastical positions held: Chanoine de Tournai %1256-1268% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/05/2017..

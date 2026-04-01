@@ -1,0 +1,11 @@
+PERSON: GALFREDUS 4
+Also known as: GAUFRIDUS.
+Description: Chanoine d’Angers.
+Status: Incertain.
+Gender: male.
+Active during: %1284-1286%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Angers %1284-1286% ;.
+Other ecclesiastical functions: Official d’Angers %1284-1286% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 22/07/2022)..

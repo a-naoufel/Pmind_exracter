@@ -1,0 +1,9 @@
+PERSON: ROBERTUS Le Boursier
+Also known as: Robertus LEBOURSIER.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Maître (Paris) en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/08/2016..

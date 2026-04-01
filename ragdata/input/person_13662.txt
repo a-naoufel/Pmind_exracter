@@ -1,0 +1,10 @@
+PERSON: REGINALDUS Agni
+Also known as: Reginaldus AGNI.
+Description: Cistercien.
+Status: Maître.
+Gender: male.
+Active during: %1377-1377%.
+Studied at: Paris %:1377-1377%..
+Academic grades obtained: Licencié en théologie (Paris) ..
+Religious order: O.Cist. : moine cistercien ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 02/06/2024..

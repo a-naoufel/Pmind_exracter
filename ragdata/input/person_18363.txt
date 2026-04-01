@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS Gossuin
+Also known as: Aegidius GOSSUIN; Gilles de HARNIES; Gilles GOSSUIN de Harmies.
+Description: ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1338-1362%.
+Born in: Champagne (Hargnies ?) ?.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant ?.
+College affiliation: Collège de Sorbonne ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 05/05/2020)..

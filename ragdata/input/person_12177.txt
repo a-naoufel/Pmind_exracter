@@ -1,0 +1,10 @@
+PERSON: V. Bouret
+Also known as: V. BOURET.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1274-1274%.
+Studied at: Paris %1274-1274%..
+Academic grades obtained: Maître en médecine (Paris) ..
+University functions: Paris (Faculté de médecine : maître-régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 04/09/2023..

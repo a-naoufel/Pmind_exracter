@@ -1,0 +1,12 @@
+PERSON: HUGO Clerici 2
+Also known as: Hugo CLERICI.
+Description: Maître ès arts..
+Status: Maître.
+Gender: male.
+Active during: %1444-1445%.
+Born in: Poitou ?.
+Diocese of origin: Diocèse de Poitiers ;.
+Studied at: Paris (Nation de France) %1444-1445%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Hugo ROGERII pour le baccalauréat en ; Son maître est Darianus PETRI pour la maîtrise en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 30/08/2022..

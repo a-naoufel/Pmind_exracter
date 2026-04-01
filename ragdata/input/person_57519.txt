@@ -1,0 +1,22 @@
+PERSON: PETRUS de Palma
+Also known as: Petrus de PALMA; Pierre de BAUME.
+Description: O.P..
+Status: Maître.
+Gender: male.
+Active during: %1322-1345%.
+Born in: ComtédeBourgogne (Baume-les-Dames) ;.
+Diocese of origin: Diocèse de Besançon.
+Studied at: Paris %1322-1325%..
+Academic grades obtained: Licencié en théologie (Paris) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère dominicain du couvent de Besançon..
+Religious functions: Prieurprovincial (dominicain) de France %1333-1343% ;; Maîtregénéral des Dominicains %1343-1345% ;.
+University functions: Paris (Faculté de Théologie : lecteur des Sentences en )..
+Authored work: 'Postilla super Proverbia', composed around ?.
+Authored work: 'Moralitates super Evangelia', composed around ?.
+Authored work: 'Quaestiones Petri de Palma', composed around ?.
+Authored work: 'Sermo in Nativitate B. Mariae', composed around ?.
+Authored work: 'Sermo et collatio de pluribus sanctis', composed around ?.
+Authored work: 'Sermo factus in domo d. Penestrin. Dom. II quadrag.', composed around ..
+Authored work: 'Litterae ad Ord. Praed.', composed around %1343-1344%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 28/02/2024..

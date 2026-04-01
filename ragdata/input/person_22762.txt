@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Apperleye
+Also known as: William de APPERLEYE.
+Description: Maître.
+Status: Extérieur.
+Gender: male.
+Active during: %1294-1301%.
+Born in: Angleterre..
+Studied at: Oxford..
+Academic grades obtained: Magister (Oxford ?) ;.
+Ecclesiastical status: Prêtre ..
+Ecclesiastical positions held: Recteur de Britwell-Baldwin (Oxfordshire) 1294-1301% ;; Dean de Warwick (St.Mary) %1297-1301% ;; Warden de Kincardine-in-Neel (Hôpital) %1298-1301%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 05/03/2022..

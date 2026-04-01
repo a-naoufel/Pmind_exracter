@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Le Fevre
+Also known as: Guillaume LE FEVRE.
+Description: Membre du Collège de Maître-Gervais.
+Status: Étudiant.
+Gender: male.
+Active during: %1402-1436%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant ès arts (Paris) .; Étudiant en théologie (Paris) ..
+College affiliation: Collège de Maître-Gervais : socius ;; Boursier ès arts en ;; Boursier en théologie en ;; Collège de Maître-Gervais : chapelain ;.
+Ecclesiastical status: Prêtre ?.
+Ecclesiastical positions held: Chapelain du collège de Maître-Gervais en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Marion Bernard-Schweitzer 16/09/2020..

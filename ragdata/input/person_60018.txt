@@ -1,0 +1,9 @@
+PERSON: GOSVINUS Ketule
+Also known as: Gossuynus KETULE.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1425-1425%.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dainville : étudiant ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

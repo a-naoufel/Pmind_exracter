@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Brito 4
+Also known as: Guillelmus BRITO; Guillelmus BRITON.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1313-1313%.
+Born in: Bretagne ?.
+Studied at: Paris en ..
+Academic grades obtained: Magister.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 26/02/2020..

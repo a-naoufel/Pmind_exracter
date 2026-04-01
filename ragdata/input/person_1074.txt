@@ -1,0 +1,9 @@
+PERSON: ASPASIUS Bonhomme
+Also known as: Aspasius BONHOMME; Aspasius BONHOME; Aspaïs BONHOMME.
+Description: Libraire ?.
+Status: Suppôt.
+Gender: male.
+Active during: %1455-1475%.
+Studied at: Paris..
+Family relationships: Son fils est Pascasius BONHOMME, Grand Libraire de l'Université ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 22/10/2020)..

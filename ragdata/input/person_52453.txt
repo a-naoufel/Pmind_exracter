@@ -1,0 +1,12 @@
+PERSON: PETRUS Parvus 2
+Also known as: Petrus PARVUS.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: Datation arbitraire : Pierre DESPORTES le situe au XIIIe siècle..
+Born in: Limousin ?.
+Diocese of origin: Diocèse de Limoges ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Reims %1417-1434% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/06/2021..

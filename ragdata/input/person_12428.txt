@@ -1,0 +1,9 @@
+PERSON: IVO de Fulcosa
+Also known as: Yvo de FULCOSA; Yvo de FULCONA.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris.
+Academic grades obtained: Maître (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 20/09/2022..

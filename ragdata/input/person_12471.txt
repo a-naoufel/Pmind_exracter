@@ -1,0 +1,13 @@
+PERSON: PETRUS Emmenaut de Allouagne
+Also known as: Petrus EMMENAUT de ALLOUAGNE; Petrus EMMENAUT de ALOENGES; Petrus EMMENAUT de ALEVAGUE; Petrus EMMENAUT de ALLEVAIGNE; Petrus EMMENAUT de ALLEMAGNE; Petrus EMMENAUT de ALBANIA; Petrus EMMENAUT de ALVENGES.
+Description: Bénédictin.
+Status: Maître.
+Gender: male.
+Active during: %1341-1361%.
+Diocese of origin: Diocèse de Thérouanne ?.
+Studied at: Paris %1341-1349% ?.
+Academic grades obtained: Bachelier en théologie (Paris) vers ;; ?Docteur en théologie (Paris) vers ..
+Religious order: O.S.B. : moine bénédictin du monastère de Saint-Bertin (diocèse de Thérouanne)..
+Religious functions: Abbé de Saint-Bavon à Gand (diocèse de Tournai) en %1341-1343% ;; Abbé de Saint-Riquier (diocèse d'Amiens) en mai ..
+Representation roles: Membre d'un comité chargé de faciliter le travail de l'assemblée des Etats généraux de France en novembre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 13/03/2024)..

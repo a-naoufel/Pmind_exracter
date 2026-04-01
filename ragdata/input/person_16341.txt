@@ -1,0 +1,9 @@
+PERSON: ANTHONIUS Mori
+Also known as: Anthonius MORI.
+Description: Nonce pour le diocèse de Carcassonne.
+Status: Suppôt.
+Gender: male.
+Active during: %1448-1448%.
+Studied at: Paris (Nation de France)..
+University functions: Paris (Nation de France : Nonce pour le diocèse de Carcassonne)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/10/2020)..

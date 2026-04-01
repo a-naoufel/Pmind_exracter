@@ -1,0 +1,13 @@
+PERSON: CAROLUS MaleClientis
+Also known as: Karolus MALECLIENTIS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1378-1378%.
+Born in: Normandie..
+Diocese of origin: Diocèse d'Évreux..
+Studied at: Paris (Nation de Normandie ?) ..
+Academic grades obtained: Étudiant à la Faculté des Arts en (novembre)..
+Ecclesiastical status: Clerc du diocèse d'Evreux ;.
+Ecclesiastical positions held: Candidat à un canonicat avec expectative de prébende de l'églisecollégiale de Paris (Saint-Etienne-des-Grès) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 05/04/2021..

@@ -1,0 +1,9 @@
+PERSON: GERVASIUS Dodier
+Also known as: Gervasius DODIER.
+Description: Portier.
+Status: Suppôt.
+Gender: male.
+Active during: %1501-1501%.
+Studied at: Paris..
+University functions: Portier ("Clavigerius") à l'univeristé de Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 14/01/2022..

@@ -1,0 +1,10 @@
+PERSON: PETRUS de Mosiaco
+Also known as: Petrus de MOSIACO.
+Description: Chanoine d’Autun.
+Status: Incertain.
+Gender: male.
+Active during: %1449-1481%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Autun %1449-1481% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/01/2023..

@@ -1,0 +1,10 @@
+PERSON: OLIVERIUS Jarno
+Also known as: Oliverius JARNO; Olivier JARNE.
+Description: Boursier du collège du Plessis.
+Status: Maître.
+Gender: male.
+Active during: %1464-1466%.
+Studied at: Paris ..
+Academic grades obtained: Maître (Paris) en ?.
+College affiliation: Collège du Plessis : boursier en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

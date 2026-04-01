@@ -1,0 +1,10 @@
+PERSON: FIRMINUS Quemyne
+Also known as: Fremyn QUEMYNE.
+Description: Boursier du collège de La Marche.
+Status: Étudiant.
+Gender: male.
+Active during: %1508-1514%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) en %1508-1514% ;.
+College affiliation: Collège de LaMarche : boursier en %1508-1514% ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

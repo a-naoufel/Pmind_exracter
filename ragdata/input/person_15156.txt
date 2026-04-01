@@ -1,0 +1,9 @@
+PERSON: PETRUS Wissonis
+Also known as: Pierre WISSONIS.
+Description: Bachelier de la Faculté de médecine..
+Status: Gradué.
+Gender: male.
+Active during: %1411-1414%.
+Studied at: Paris %1411-1414%..
+Academic grades obtained: Bachelier en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 15/04/2024..

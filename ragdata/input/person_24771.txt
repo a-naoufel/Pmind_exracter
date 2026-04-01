@@ -1,0 +1,11 @@
+PERSON: HENRICUS Rousselli
+Also known as: Henricus ROUSSELLI.
+Description: Chanoine d'Amiens.
+Status: Maître.
+Gender: male.
+Active during: %1395-1402%.
+Studied at: Paris ?.
+Academic grades obtained: Maître ès arts (Paris ?) ;; Bachelier en droit canon (Paris ?) :.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d'Amiens %1395-1402% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 1/08/2022..

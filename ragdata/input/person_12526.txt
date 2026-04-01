@@ -1,0 +1,11 @@
+PERSON: GUASPERO
+Also known as: GUASPERO.
+Description: Clunisien.
+Status: Maître.
+Gender: male.
+Active during: %1400-1400%.
+Studied at: Paris %1400-1400%..
+Academic grades obtained: Licencié en décret (Paris) ..
+Religious order: O.Clun. : moine clunisien de Longpont (diocèse de Paris)..
+Religious functions: Sacristain de Saint-Julien-le-Pauvre (dépendance de Longpont dans le diocèse de Paris) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 21/01/2022..

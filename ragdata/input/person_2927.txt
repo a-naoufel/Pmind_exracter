@@ -1,0 +1,12 @@
+PERSON: GERARDUS de Montecorbonis
+Also known as: Gerardus de MONTECORBONIS; Gerardus de MON.CORB.; Gerardus de MONTECORBONO; Gérard de MONTCORBON.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1268-1288% ?.
+Studied at: ?Paris..
+Social origin: Noble ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Sens ;; Doyen de Sens %1273-1288% ;.
+Authored work: 'Scriptum super librum Praedicamentorum', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 1/7/2019..

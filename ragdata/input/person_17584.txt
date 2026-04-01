@@ -1,0 +1,9 @@
+PERSON: GERARDUS Le Coq
+Also known as: Gerardus LE COQ.
+Description: Avocat..
+Status: Extérieur.
+Gender: male.
+Active during: %1436-1436%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 9/01/2022..

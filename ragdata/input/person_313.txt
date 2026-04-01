@@ -1,0 +1,11 @@
+PERSON: ALANUS de Savigniaco
+Also known as: Alanus de SAVIGNIACO.
+Description: Cistercien.
+Status: Maître.
+Gender: male.
+Active during: %1426-1434%.
+Studied at: Paris %1426-1434%.
+Academic grades obtained: Bachelier en théologie biblicus (Paris) ;; Bachelier en théologie sententiarius (Paris) ;; Licencié en théologie (Paris) (le 1er avril) ..
+College affiliation: Collège Saint-Bernard..
+Religious order: O. Cist. : moine cistercien de l'abbaye (cistercienne) de Savigny..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Claire Priol ; dernière mise à jour, Jean-Philippe Genet, 28/05/2020..

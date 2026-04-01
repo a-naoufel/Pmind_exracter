@@ -1,0 +1,12 @@
+PERSON: ROBERTUS Fabri 1
+Also known as: Robertus FABRI; Robert LE FEBVRE.
+Description: Médecin.
+Status: Incertain.
+Gender: male.
+Active during: %1275-1309%.
+Born in: Normandie ?.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Recteur de Saint-Martind’Aubigny (diocèse de Coutances) en ;; Chanoine de Bayeux ;; Archidiacre d’Avranches ;.
+Authored work: 'De inquisitione nativitatis proprie', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 05/09/2024)..

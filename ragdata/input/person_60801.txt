@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Turpini
+Also known as: Guillelmus TURPINI.
+Description: Chanoine de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1420-1457%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Douai (Saint-Amé) %1420-1446% ;; Chanoine de Douai (Saint-Pierre) %1430-1446% ;; Chanoine de Cambrai %1446-1457% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 02/01/2026..

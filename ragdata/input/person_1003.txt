@@ -1,0 +1,13 @@
+PERSON: ARNALDUS de Dorp
+Also known as: Arnoldus de DORP.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1398-1418%.
+Born in: Pays-Bas ?.
+Diocese of origin: Diocèse d'Utrecht ?.
+Studied at: Paris (Nation Anglo-allemande) .; Cologne..
+Academic grades obtained: Bachelier ès arts (Paris) .; Etudiant en droit (Cologne) en ;.
+Academic relationships: Son maître est Johannes DORP pour le baccalauréat en ;.
+Ecclesiastical status: Prêtre en ;.
+Source: RAG ;.

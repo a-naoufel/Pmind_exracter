@@ -1,0 +1,11 @@
+PERSON: INGERANNUS de Maintenay
+Also known as: Ingerandus de MAINTENAY.
+Description: Seigneur de Maintenay.
+Status: Incertain.
+Gender: male.
+Active during: %1262-1262%.
+Born in: Artois ?.
+Diocese of origin: Diocèse d’Arras ?.
+Social origin: Noble ;.
+University functions: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 24/03/2024..

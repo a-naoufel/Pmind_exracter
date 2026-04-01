@@ -1,0 +1,10 @@
+PERSON: HUGO de Loya
+Also known as: Hugo de LOYA; Hugues de LALOÉ.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1362-1393%.
+Studied at: ?.
+Academic grades obtained: Licencié in utroque jure ;.
+Ecclesiastical positions held: Chanoine de Bourges ;; Doyen de Moyenmoutier ;; Chanoine de Reims %1376-1393% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 27/10/2021..

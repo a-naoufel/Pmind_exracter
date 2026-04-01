@@ -1,0 +1,10 @@
+PERSON: BERTRANDUS de Rosmadeuc
+Also known as: Bertrandus de ROSMADEUC.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1403-1403%.
+Studied at: Paris (Nation de France) ;.
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en décret (Paris) .; Licencié ès lois ..
+Ecclesiastical positions held: Candidat à un bénéfice ecclésiastique sur le rotulus de ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/02/2021..

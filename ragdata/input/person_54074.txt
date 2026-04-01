@@ -1,0 +1,11 @@
+PERSON: GUEROLDUS Postelli
+Also known as: Gerouldus POSTELLI.
+Description: Bachelier in utroque.
+Status: Gradué.
+Gender: male.
+Active during: %1431-1434%.
+Studied at: Paris..
+Academic grades obtained: Bachelier ès arts (Paris) ?; Bachelier in utroque ;.
+Social origin: ?.
+Ecclesiastical status: Prêtre..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 27/08/2022..

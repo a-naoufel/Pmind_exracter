@@ -1,0 +1,18 @@
+PERSON: GUILLELMUS de Caioco
+Also known as: Guillaume de CAYEUX; Guillelmus de CAIOCCO; Guillelmus de KAYOTHO; Guillaume de CAHIEU.
+Description: Provincial dominicain de France.
+Status: Étudiant.
+Gender: male.
+Active during: %1286-1309%.
+Born in: Picardie (Cayeux-sur-Mer, près d'Abbeville) ;.
+Diocese of origin: Diocèse d’Amiens ?.
+Studied at: Paris..
+College affiliation: Couvent (dominicain) de Paris (Jacobins) %1286-1296%..
+Religious order: O.P. : frère dominicain du couvent (dominicain) d'Amiens..
+Religious functions: Prieur (dominicain) de Paris (couvent St Jacques) %1286-1296% ;; Provincial (dominicain) de France %1296-1302%, %1306-1309% ;; Vicairegénéral des Dominicains %1298-1300%..
+Authored work: '(Sermo dom. VII)', composed around 1294 (1er septembre, à Paris)..
+Authored work: '(Abrégé de la Summa confessorum de Jean le Teutonique)', composed around %1280-1290%.
+Authored work: '(Summa confessorum Johannes de Friburgo abbreviata et sec. ordinem alphabeti collecta)', composed around ?.
+Authored work: 'Formularium Ordinis Praedicatorum. De agendis in Ordine', composed around .
+Authored work: 'Litterae de obitu Stephani Bisuntini mag. gen. Ord. Praed.', composed around (19 janvier, à Paris)..
+Source: MIRABILE, Andrea CENCINI :.

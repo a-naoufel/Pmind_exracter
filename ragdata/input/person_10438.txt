@@ -1,0 +1,12 @@
+PERSON: PETRUS Archiepiscopus
+Also known as: PETRUS Archiepiscopus; Petrus ARCHIEPISCOPUS; PETRUS Archiepiscopus; Pierre l'ARCHEVÊQUE.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1240-1248%.
+Studied at: Paris.
+Academic grades obtained: Maître en théologie (Paris) avant ..
+University functions: Paris (Faculté de théologie : maître-régent %1240-1248% ;.
+Authored work: 'Comm. in libros Sententiarum', composed around v. ..
+Authored work: 'In cathedra B. Petri', composed around .
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 27/08/2023..

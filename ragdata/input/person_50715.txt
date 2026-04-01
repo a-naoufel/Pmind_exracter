@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Arnaldi
+Also known as: Guillelmus ARNALDI.; Guillaume ARNAULD.
+Description: Maître ès arts toulousain.
+Status: Incertain.
+Gender: male.
+Active during: %1295-1300%.
+Studied at: Toulouse..
+Academic grades obtained: Maître ès arts (Toulouse) :.
+Authored work: 'Scriptum super logicam veterem', composed around ?.
+Authored work: 'Glose super Analytica priora', composed around ?.
+Authored work: 'Glose super Analytica posteriora', composed around ?.
+Authored work: '(Lectura Tractatum Petri Hispani)', composed around %1275-1300%..
+Source: MIRABILE : Andrea CENCINI :.

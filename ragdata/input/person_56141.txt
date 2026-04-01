@@ -1,0 +1,11 @@
+PERSON: MAURITIUS de Chaonnis
+Also known as: Mauritius de CHAONNIS.
+Description: Chanoine de Troyes.
+Status: Étudiant.
+Gender: male.
+Active during: %1387-1416%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chapelain de Paris (Saint-Eustache, chapelle Saint-André) ;; Chanoine de Troyes %1388-1415% ;; Chanoine de Troyes (Saint-Urbain) ;; Chanoine de Troyes (Saint-Étienne) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 05/06/2023..

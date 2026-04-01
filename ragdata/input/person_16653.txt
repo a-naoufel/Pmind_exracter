@@ -1,0 +1,9 @@
+PERSON: ARNALDUS de Lirichant
+Also known as: Arnoldus de LIRICHANT.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1416-1416%.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en théologie (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 6/03/2019..

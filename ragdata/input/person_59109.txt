@@ -1,0 +1,10 @@
+PERSON: PETRUS Brunel 3
+Also known as: Petrus BRUNEL.
+Description: Archidiacre de Châlons.
+Status: Incertain.
+Gender: male.
+Active during: %1496-1497%.
+Studied at: ?.
+Academic grades obtained: Licencié droit canon ;.
+Ecclesiastical positions held: Archidiacre de Châlons-en-Champagne %1496-1497% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/06/2025.

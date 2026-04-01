@@ -1,0 +1,10 @@
+PERSON: RICARDUS de Biliaco
+Also known as: Richardus de BILIACO.
+Description: Recteur de l'Université de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1339-1339%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) ..
+University functions: Paris (Université : Recteur élu en (Mai) après le retrait (forcé ?) de Johannes de BONONIA) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 19/06/2024..

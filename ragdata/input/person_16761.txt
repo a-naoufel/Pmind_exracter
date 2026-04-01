@@ -1,0 +1,10 @@
+PERSON: FLORENTIUS
+Also known as: FLORENTIUS.
+Description: Archidiacre d'Utrecht..
+Status: Étudiant.
+Gender: male.
+Active during: %1320-1330%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant en théologie ?.
+College affiliation: Sorbonne ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction et dernière mise à jour, Jean-Philippe Genet, 10/08/2021..

@@ -1,0 +1,10 @@
+PERSON: ALANUS de Insula
+Also known as: Alanus de INSULA.
+Description: Recteur de St-Grégoire de Redon..
+Status: Gradué.
+Gender: male.
+Active during: %1379-1379%.
+Studied at: Angers ;; Paris en ..
+Academic grades obtained: Bachelier en décret attesté en ..
+Ecclesiastical positions held: Recteur de l'égliseparoissiale de St-Grégoire (diocèse de Rennes) en ;; Chapelain perpétuel d'Angers (autel de Saint-René à la cathédrale d'Angers) en .; Provision pour un canonicat avec expectative de prébende de Rennes sur le rotulus des juristes parisiens pour , pour lequel une provision est adressée à l'abbé (bénédictin) de Rennes (Saint-Melaine) en .; Provision pour un canonicat avec expectative de prébende de Quimper sur le grand rotulus de l'université d'Angers en ;; Provision pour un bénéfice à la collation de l'évêque, du doyen et du chapitre d'Angers sur le parvus rotulus de l'université d'Angers en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 28/05/2020..

@@ -1,0 +1,9 @@
+PERSON: GUIARDUS de Profunda Valle
+Also known as: Guiart de PROFUNDAVALLE.
+Description: Bachelier en médecine à Paris..
+Status: Gradué.
+Gender: male.
+Active during: %1331-1331%.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 23/07/2020)..

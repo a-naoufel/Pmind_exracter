@@ -1,0 +1,13 @@
+PERSON: REGINALDUS de Monte
+Also known as: Reginaldus de MONTE; Le lien entre le bachelier de et le maître et chanoine de Reims mort en n'est qu'une hypothèse ?.
+Description: Chanoine de Reims.
+Status: Maître.
+Gender: male.
+Active during: %1455-1500%.
+Born in: Champagne (Reims) ;.
+Diocese of origin: Diocèse de Reims ;.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Maître (?Paris) ;.
+Family relationships: Son frère est Johannes de MONTE, chanoine de Reims ;.
+Ecclesiastical positions held: Chanoine de Reims %1467-1500% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/11/2023..

@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Prevosteau
+Also known as: Guillaume PREVOSTEAU.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1446-1454%.
+Studied at: Paris..
+Academic grades obtained: Maître (Paris)..
+College affiliation: Collège de Dainville : maître au collège ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

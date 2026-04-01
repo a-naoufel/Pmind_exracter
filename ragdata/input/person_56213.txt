@@ -1,0 +1,10 @@
+PERSON: ABRAHAM
+Also known as: ABRAHAM.
+Description: Maître.
+Status: Incertain.
+Gender: male.
+Active during: %1192-1200%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de LeMans %1192-1200% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 15/06/2023..

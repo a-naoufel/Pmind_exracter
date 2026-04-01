@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Pulchrosono
+Also known as: Guillelmus de PULCHROSONO.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+Family relationships: Parent (frère ?) de Franciscus de PULCHRSONO qui paye la collecte en même temps que lui ; Parent (frère ?) de Ludovicus de PULCHRSONO qui paye la collecte en même temps que lui ; Parent (frère ?) de Jacobus de PULCHRSONO qui paye la collecte en même temps que lui ; Parent (frère ?) de Dominus Petrus de PULCHRSONO qui paye la collecte en même temps que lui ; Parent (frère ?) de Dinetus de PULCHRSONO qui paye la collecte en même temps que lui ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 13/04/2022..

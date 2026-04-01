@@ -1,0 +1,10 @@
+PERSON: BALDUINUS Tyson
+Also known as: Baudonnet TYSON.
+Description: Écolier au collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1411-1411%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Dormans-Beauvais : écolier en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 5/12/2020..

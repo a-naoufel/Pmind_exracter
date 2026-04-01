@@ -1,0 +1,10 @@
+PERSON: NICOLAUS de Margerie
+Also known as: Nicolaus de MARGERIE.
+Description: Chanoine de Troyes.
+Status: Incertain.
+Gender: male.
+Active during: %1215-1259%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Doyen de Troyes (Saint-Étienne) %1216-1218% ;; Chanoine de Troyes %1258-1259% ;; Archidiacre de Brienne %1258-1259% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 10/05/2023..

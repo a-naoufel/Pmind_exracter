@@ -1,0 +1,10 @@
+PERSON: MARTINUS La Chapelia
+Also known as: Martinus LA CHAPELIA; Martinus LA CHAPOLIA.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1338-1345%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Rouen ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/11/2021..

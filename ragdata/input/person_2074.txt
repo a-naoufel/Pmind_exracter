@@ -1,0 +1,9 @@
+PERSON: EDMUNDUS Clementis
+Also known as: Edmundus CLEMENTIS; Edmond CLEMENTIS.
+Description: Étudiant en médecine.
+Status: Étudiant.
+Gender: male.
+Active during: %1461-1462%.
+Studied at: Paris, %1461-1462%.
+Academic grades obtained: Étudiant en médecine (Paris) %1461-1462%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 1/07/2021)..

@@ -1,0 +1,143 @@
+PERSON: AEGIDIUS Romanus
+Also known as: Aegidius ROMANUS; Aegidius COLONNA; Gilles de ROME.
+Description: Maitre général des Augustins, archevêque de Bourges.
+Status: Maître.
+Gender: male.
+Active during: %1265-1316%.
+Born in: Italie..
+Diocese of origin: Diocèse de Rome ?.
+Studied at: Paris %1260-1278% et à partir de ..
+Academic grades obtained: Étudiant ès arts (Paris) à partir de ;; Étudiant en théologie à partir de ;; Bachelierformé en théologie (Paris) ;; Maître en théologie (Paris) ?.
+Academic relationships: Son élève est Jacobus de VITERBO ;.
+Religious order: Augustin : couvent (augustin) de Rome (Santa Maria del Popolo) %1258-1260%..
+Religious functions: Définiteurdelaprovince (augustinienne) de Rome () au chapitregénéral (Augustin) de Padoue où il dispute vingt questions ; entre et , il n’y a aucune preuve de sa présence en Italie et il se peut qu’il ait continué à résider en France puisque c’est la période pendant laquelle il écrit pour le prince PHILIPPE le De Regimine Principum.; Il participe au chapitregénéral de SanMartinodiCampiano en (septembre) ;; Il participe au chapitreprovincial de Cori en (mai) ;; Provincial (augustin) de Rome en ;; Il participe au chapitregénéral d’Orvieto en (mai);; Il participe au chapitreprovincial de Genazzano en (octobre) ;; Il participe au chapitreprovincial de Tuscania en (mai), en tant que vicaire-général du prieur général de l’ordre Clemente da OSIMO ;; Docteur officiel de l’ordre des Augustins, proclamé au chapitregénéral de Florence ;; Vicairegénéral des Augustins () ;; Il participe au chapitregénéral de Regensburg en où lui est accordé le privilège de sélectionner lui-même les frères qui devront aller à Paris pour y lire les Sentences ;; Il participe au chapitregénéral de Viterbe en ;; Il participe au chapitregénéral de Rome en (janvier) où il est élu MaîtreGénéral ;; MaîtreGénéral des Augustins (%1292-1295%).; Il participe au chapitregénéral de Sienne en où il dispute une question (perdue)..
+Ecclesiastical positions held: Archevêque de Bourges %1295-1316%.; Il convoque et préside le synodeprovincial de Bourges en ..
+University functions: Paris (Faculté de Théologie : lecteur des Sentences ca.%1271-1277%).; Paris (Faculté de Théologie : Maître-régent ca.%1285-1291%).; Paris (Université : chargé de la taxatio domorum en ) ;; Paris (Université : en ou en , il obtient que les lectures données par les frères Augustins soient comptées dans leur temps de présence à Paris, même si elles ont été faites ailleurs) ;.
+Representation roles: Il participe au Concile de Vienne en %1311-1312%..
+Authored work: 'Super librum I Sententiarum (reportatio)', composed around ..
+Authored work: 'Super librum I Sententiarum (ordinatio)', composed around (%1276-1277% ?) ;.
+Authored work: 'Super librum II Sententiarum (reportatio)', composed around ..
+Authored work: 'In II lib. Sententiarum (ordinatio)', composed around Après ., dedicated to Dédié à ROBERT, roi de Naples..
+Authored work: 'Super librum III Sententiarum (reportatio)', composed around ..
+Authored work: 'Super librum III Sententiarum (ordinatio)', composed around ?.
+Authored work: 'Super librum IV Sententiarum (reportatio)', composed around ..
+Authored work: 'Theoremata de corpore Christi', composed around (avant Noël)..
+Authored work: 'Tractatus de corpore Christi', composed around ?.
+Authored work: 'Apologia', composed around ..
+Authored work: 'De resurrectione mortuorum quaest. 7', composed around à Paris..
+Authored work: 'De peccato originali', composed around ..
+Authored work: 'Quaestiones disputatae in capitulo generali Paduae', composed around ..
+Authored work: 'De praedestinatione et prescientia, paradiso et inferno', composed around ?.
+Authored work: 'Quodlibeta I-VI', composed around %1286-1291% ;.
+Authored work: 'Quaest. 14 de cognitione angelorum', composed around %1287-1288%..
+Authored work: 'Quaestiones decem de mensura angelorum', composed around %1287-1288%..
+Authored work: 'Quaestiones decem motu angelorum', composed around %1287-1288%..
+Authored work: 'Quaestiones sex de compositione angelorum', composed around %1286-1295%..
+Authored work: 'Tractatus de subiecto theologiae', composed around %1289-1295%.
+Authored work: 'Quaestiones de subiecto theologiae', composed around %1289-1295%..
+Authored work: 'Capitula fidei christianae ad Tartarum maiorem', composed around %1296-1298% ?.
+Authored work: 'Isagoge, sive introductio in fidei ad regem Armenie', composed around %1297-1298% ?.
+Authored work: 'Hexaemeron, seu de mundo sex diebus condito', composed around %1301-1303%., dedicated to Décié à BONIFACE VIII, puis à Robert de CLERMONT..
+Authored work: 'De laudibus divinae sapientiae', composed around ?.
+Authored work: 'De divina influentia in beatos', composed around %1296-1316%..
+Authored work: 'Impugnatio doctrinae Petri Johannis Olivi', composed around %1311-1312%..
+Authored work: 'De arca Noe', composed around ?.
+Authored work: 'De defectu et deviatione malorum culpae et peccatorum a Verbo', composed around ?.
+Authored work: 'De distinctione articulorum fidei', composed around ?.
+Authored work: 'De sacramentis', composed around ?.
+Authored work: 'De zelotipia', composed around ?.
+Authored work: 'Septem aeternitatis itinera', composed around ?.
+Authored work: 'De gradibus caritatis', composed around ?.
+Authored work: 'Versus de presbyteris', composed around ?.
+Authored work: 'De tribulationibus patienter sustinendi', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Sermones de tribus vitiis mundi', composed around ?.
+Authored work: 'Sermo de Sancto Georgio', composed around ?.
+Authored work: 'Sermones de tempore', composed around ?.
+Authored work: 'Sermones de Corpore Christi', composed around ?.
+Authored work: 'Super epistolas Pauli', composed around ..
+Authored work: 'In epist. ad Corinthios', composed around av...
+Authored work: 'Super Cantica Canticorum', composed around .
+Authored work: 'Expositio super orationem dominicam', composed around ?.
+Authored work: 'In salutationem angelicam expositio', composed around ?.
+Authored work: 'Super prologis biblie', composed around ?.
+Authored work: 'Sententiae super Lucam', composed around ?.
+Authored work: 'Super Ecclesiasten', composed around ?.
+Authored work: 'Super Apocalypsim', composed around ?.
+Authored work: 'In epistolas canonicas', composed around ?.
+Authored work: 'In Evangelium Joannis', composed around ?.
+Authored work: 'Hymnus ad faciem Salvatoris', composed around ?.
+Authored work: 'Horae canonicae Salvatoris', composed around ?.
+Authored work: 'Patris Sapientia', composed around ?.
+Authored work: 'Quaestiones metaphysicales (reportatio)', composed around %1269-1273%..
+Authored work: 'Contra errores Philosophorum', composed around %:1270-1275%..
+Authored work: 'Super libros Elenchorum', composed around %1274-1275%., dedicated to Dédié à Philippe de FLANDRES..
+Authored work: 'De plurificatione intellectus possibilis', composed around %1270-1277%..
+Authored work: 'Super De bona fortuna', composed around %1271-1278%, probablement pas avant ;.
+Authored work: 'Super De anima', composed around , au moins pour les livres I-III ;.
+Authored work: 'De partibus philosophiae essentialibus', composed around ..
+Authored work: 'Quaestio de medio demonstrationis', composed around ..
+Authored work: 'Quaestio de pluritate formarum', composed around %1277-1278%.
+Authored work: 'De gradibus formarum in ordine ad Christi opera', composed around %1278-1279..
+Authored work: 'De gradibus formarum accidentalium', composed around %1277-1278%.
+Authored work: 'De intentionibus in medio', composed around ..
+Authored work: 'De ente et essentia aurea theoremata 22', composed around %1278-1286%..
+Authored work: 'Quaestiones de esse et essentia', composed around %1285-1286% (I-IX) ;.
+Authored work: 'Quaestiones disputatae de esse et essentia', composed around ?.
+Authored work: 'Super Posteriora Analytica', composed around %1287-1295%, probablement avant (septembre) ;.
+Authored work: 'Super De causis', composed around %1289-1291%..
+Authored work: 'Quaestio de deceptione', composed around ..
+Authored work: 'Quaestio " Numquid per animam intellectivam homo ponitur in esse specifico', composed around ?.
+Authored work: 'Questiones de demonstratione substantiae', composed around ?.
+Authored work: 'Questiones de intentionibus primis et secundis', composed around ?.
+Authored work: 'De principiis naturae', composed around ?.
+Authored work: 'Quaestiones variae de universalibus', composed around ?.
+Authored work: 'Sopra la canzone di Guido Cavalcanti " Donna mi priega "', composed around ?.
+Authored work: 'Super libros Rhetoricorum', composed around %:1271-1274% ;.
+Authored work: 'In poesim Aristotetelis', composed around ?.
+Authored work: 'Super De generatione et corruptione', composed around ..
+Authored work: 'Quaestiones super librum primum De generatione', composed around ..
+Authored work: 'Super Physicam', composed around pour les livres II-VIII ;.
+Authored work: 'De formatione corporis humani in utero', composed around .
+Authored work: 'De materia coeli contra Averroistas', composed around %1286-1295%..
+Authored work: 'Super Physiognomiam', composed around ?.
+Authored work: 'De cometis', composed around ?.
+Authored work: 'De arcu et corda', composed around av. ;.
+Authored work: 'Liber de moralibus corporum coelestium, elementorum, etc.', composed around %1281-1291% ;.
+Authored work: 'Prolocutiones ad dicendum aliquid de magnitudine atque de tempore', composed around ?.
+Authored work: 'Liber contra exemptos', composed around %1311-1312%..
+Authored work: 'Expositio in decret. " Firmiter " de Summa Trinitate et fide catholica', composed around ..
+Authored work: 'Expositio super decretalem " Cum Marthae " seu De celebratione missae', composed around ?.
+Authored work: 'Testament', composed around (29 mars)..
+Authored work: 'Codicille', composed around (19 décembre)..
+Authored work: 'De differentia ethicae, politicae et rhetoricae', composed around .
+Authored work: 'De regimine principum', composed around %1277-1279%..
+Authored work: 'Oratio in die coronationis Philippe regis', composed around (janvier)..
+Authored work: 'In lib. Ethicorum', composed around %1286-1291% ?, dedicated to Adressé à Stephanus de MAULAI, selon l'incipit d'un manuscrit perdu (la référence donnée traditionnellement à un MS. Cambridge, Gonville Coll. est une erreur : celui-ci contient le texte du commentaire de Saint THOMAS comme l'a montré R.A. GAUTHIER) ; au demeurant, AEGIDIUS Romanus l'a connu comme étudiant à Paris avant sans doute de le retrouver à Rome où il est chapelain pontifical avant de rentrer en Angleterre où il sera chanoine de York et archdeacon de Cleveland de à ; il appartient à l'importante famille baronniale de Maulai et est désigné comme " magister " (LE NEVE, Fasti Ecclesiae Anglicanae, 1300-1541, VI, Northern Provinces, Londres, 1963, 19)..
+Authored work: 'De renuntiatione papae', composed around %1297-1298% ;.
+Authored work: 'De potestate domini papae', composed around ..
+Authored work: 'De ecclesiastica potestate', composed around Sans doute , après la bulle Ausculta Fili (février) en tous cas avant la promulgation de la bulle Unam Sanctam (novembre)., dedicated to Dédié à BONIFACE VIII..
+Authored work: 'Super bullam Unam sanctam', composed around ..
+Authored work: 'Quomodo reges et principes possunt possessiones et bona regni particularia ecclesiis elargiri', composed around ?.
+Authored work: 'Super libros politicorum', composed around ?.
+Authored work: 'Super libros Oeconomicorum', composed around ?.
+Authored work: 'Compendium in libros I-IV Sent.', composed around ?.
+Authored work: 'Quaestiones de potentia dei', composed around ?.
+Authored work: 'Quaestiones de spiritualibus creaturis', composed around ?.
+Authored work: 'Super epistolam Pauli ad Hebreos', composed around ?.
+Authored work: 'Quaestiones philosophicae', composed around ?.
+Authored work: 'Super artem veterem', composed around %1295-1300% ?.
+Authored work: '(Tractatus) de universalibus', composed around ?.
+Authored work: 'Questiones circa unionem numeralem substantiarum.', composed around ?.
+Authored work: 'Quaestio de natura universalis', composed around ?.
+Authored work: 'Super Priora Analytica', composed around ?.
+Authored work: 'Quaestiones de demonstrabilitate substantiae', composed around ?.
+Authored work: 'De mixtione elementorum', composed around ?.
+Authored work: 'Capitulum de diluviis sumptum de Timaeo Platonis', composed around ?.
+Authored work: 'De causa longitudinis et brevitatis vitae', composed around ?.
+Authored work: 'Super Meteora', composed around ?.
+Authored work: 'Tractatus de sponsalibus', composed around ?.
+Authored work: 'Super decretales', composed around ?.
+Authored work: 'Questio in utramque partem', composed around ?.
+Authored work: 'In lib. Ethicorum', composed around ?.
+Source: MS. Amiens, BM 78, De erroribus philosophorum :.

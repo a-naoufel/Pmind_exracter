@@ -1,0 +1,11 @@
+PERSON: RADULPHUS de Albussensi
+Also known as: Radulphus de ALBUSSENSI; Radulphus de ALBUSSENSI; Raoul d’AUBUSSON.
+Description: Chanoine d’Évreux.
+Status: Maître.
+Gender: male.
+Active during: %1252-1275%.
+Studied at: Paris ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d’Évreux %1255-1265% ;; Chanoine de Bourges %1257- % ;; Doyen de Chartres %1259-1272% ;; Chanoine de Rouen % -1275% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/03/2023)..

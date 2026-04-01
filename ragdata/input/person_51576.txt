@@ -1,0 +1,12 @@
+PERSON: PETRUS Poitevin
+Also known as: Petrus POITEVIN.
+Description: Chapelain-boursier du collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1468-1496%.
+Studied at: Paris %1425-1428%..
+Academic grades obtained: Étudiant (Paris) %1468-171% ?.
+College affiliation: Collège de Dormans-Beauvais : écolier ;; Collège de Dormans-Beauvais : chapelain ;.
+Ecclesiastical status: Prêtre..
+Ecclesiastical positions held: Chapelain du Collège de Dormans-Beauvais en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 25/11/2020)..

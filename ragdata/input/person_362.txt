@@ -1,0 +1,12 @@
+PERSON: ALBERTUS de Mediolano
+Also known as: Albertus de MEDIOLANO.
+Description: Magister.
+Status: Incertain.
+Gender: male.
+Active during: %1389-1389%.
+Born in: Italie, Lombardie, Milan ?.
+Diocese of origin: Diocèse de Milan ?.
+Studied at: ?.
+Academic grades obtained: Magister.
+University functions: Paris (Université : procureur à la Curie à Avignon )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/06/2020)..

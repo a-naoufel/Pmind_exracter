@@ -1,0 +1,10 @@
+PERSON: RADULPHUS Prepositi 1
+Also known as: Raoul PREPOSITI; Radulphus PREPOSITI.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1395-1399%.
+Studied at: Paris %1395-1399%..
+Academic grades obtained: Maître en médecine (Paris) vers ..
+University functions: Paris (Faculté de médecine : Maître régent %1395-1399%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 2/01/2019..

@@ -1,0 +1,10 @@
+PERSON: DECANUS Brunel
+Also known as: Decanus BRUNEL; Doyen BRUNEL.
+Description: Écolier au collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1370-1376%.
+Studied at: Paris ..
+College affiliation: Collège de Dormans-Beauvais : écolier en %1370-1376% ;.
+Family relationships: Son frère est Jean BRUNEL, boursier du collège de Dormans-Beauvais. Son frère est Pierre BRUNEL, boursier du collège de Dormans-Beauvais..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 12/05/2021..

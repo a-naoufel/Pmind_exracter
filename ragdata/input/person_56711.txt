@@ -1,0 +1,11 @@
+PERSON: MICHAEL Gilberti
+Also known as: Michael GILBERTI.
+Description: Chantre de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1453-1472%.
+Studied at: ?.
+Academic grades obtained: Bachelier en théologie ;; Docteur en droit canon ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Clermont %1453-1472% ;; Chantre de Clermont %1464-1472% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 05/10/2023..

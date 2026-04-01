@@ -1,0 +1,14 @@
+PERSON: THOMAS Bouchart 1
+Also known as: Thomas BOUCHART.
+Description: Docteur Décret.
+Status: Maître.
+Gender: male.
+Active during: %1342-1342%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Bayeux ;.
+Studied at: Paris (Nation de Normandie).
+Academic grades obtained: Licencié ès arts (Paris ?) ;; Licencié ès lois ;; Docteur en décret (Paris ?) en ;.
+Ecclesiastical status: Clerc (?) du diocèse de Bayeux en ;.
+Ecclesiastical positions held: Recteur de Tracey, au diocèse de Bayeux ;; Provision pour un canonicat et une prébende de Bayeux en parmi les dix nonces de l'Université de Paris ;; Chanoine de Bayeux ;.
+Representation roles: Paris (Université : nonce à Avignon auprès de CLÉMENT VI en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 01/10/2024..

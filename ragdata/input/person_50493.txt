@@ -1,0 +1,14 @@
+PERSON: REGINALDUS Nepveu
+Also known as: Regnaud NEPVEU; Reginaldus NEPOTIS.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1394-1405%.
+Born in: Île-de-France (Paris) ;.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris %1484-1492% ;; Orléans ..
+Academic grades obtained: Étudiant (Paris) %1395-1396% ?; Étudiant (Orléans) en ;.
+College affiliation: Collège de Dormans-Beauvais : boursier %1395-1396% ;.
+Family relationships: Son père est Guillaume NEPVEU ; Son frère est Jean NEPVEU, boursier du Collège de Dormans-Beauvais en %1398-1401% ; Son cousin est Guillaume de DORMANS, archevêque de Sens ;.
+Ecclesiastical status: Clerc en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 14/10/2019..

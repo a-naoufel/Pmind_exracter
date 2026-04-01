@@ -1,0 +1,12 @@
+PERSON: ROBERTUS de Riparia
+Also known as: Robertus RIPARIA.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1433-1433%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Bayeux ;.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en décret (Paris) en (18 juin) ;.
+Ecclesiastical status: Clerc ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 18/10/2024..

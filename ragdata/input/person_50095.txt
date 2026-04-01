@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Buchini
+Also known as: Guillelmus BUCHINI.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1349-1349%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en théologie (Paris) ?.
+College affiliation: Couvent (dominicain) de Paris (Jacobins) ;.
+Religious order: O.P. : frère dominicain ..
+University functions: Orléans (Lecteur au couvent dominicain) en ;; Paris (Couvent dominicain : lecteur de la Bible ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 28/12/2019..

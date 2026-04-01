@@ -1,0 +1,10 @@
+PERSON: PETRUS Presbyter
+Also known as: Petrus PRESBYTER.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1417-1419%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical positions held: Chanoine de Reims %1417-1419% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/06/2021..

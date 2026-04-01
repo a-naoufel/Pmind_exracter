@@ -1,0 +1,9 @@
+PERSON: DIONYSIUS Palluau
+Also known as: Dionysius PALLUAU; Denis PALLUAU.
+Description: Chirurgien juré du Roi au Châtelet..
+Status: Maître.
+Gender: male.
+Active during: %1424-1436%.
+Studied at: Paris..
+Academic grades obtained: Maître-chirurgien ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tourieroux ; révision, Jean-Philippe Genet, 2/06/2021..

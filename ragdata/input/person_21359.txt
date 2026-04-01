@@ -1,0 +1,10 @@
+PERSON: STEPHANUS Capel
+Also known as: Stephanus CAPEL; Étienne CAPEL.
+Description: Procureur du collège de Fortet.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1468%.
+Studied at: Paris %1464-1468%..
+Academic grades obtained: Étudiant (Paris) en ?.
+College affiliation: Collège de Fortet, procureur %1467-1468% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 31/08/2016..

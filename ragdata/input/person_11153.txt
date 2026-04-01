@@ -1,0 +1,8 @@
+PERSON: ROBERTUS de Boncourt
+Also known as: Robertus de BONCOURT; Robertus de BOCOURT.
+Description: Témoin lors d'une procédure de la Faculté de médecine..
+Status: Incertain.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 13/09/2023)..

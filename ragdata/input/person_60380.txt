@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Le Chat 1
+Also known as: Guillaume LECHAT.
+Description: Clerc de notaire au Châtelet.
+Status: Incertain.
+Gender: male.
+Active during: %1324-1324%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

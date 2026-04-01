@@ -1,0 +1,10 @@
+PERSON: BERTALDUS de Pratis
+Also known as: Berthaudus de PRATIS; Bertaud DESPRÉS.
+Description: Conseiller-lai au Parlement.
+Status: Extérieur.
+Gender: male.
+Active during: %1336-1345%.
+Studied at: ?.
+Academic grades obtained: ?.
+Social origin: Noble.
+Source: Paris au Moyen Âge : les Parisiens :.

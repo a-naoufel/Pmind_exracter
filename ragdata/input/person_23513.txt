@@ -1,0 +1,11 @@
+PERSON: THEODERICUS Thiefaine 2
+Also known as: Thierry THIEFAINE.
+Description: Hôte du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1403-1406%.
+Studied at: Paris %1403-1406%..
+Academic grades obtained: Étudiant (Paris) %1403-1406%..
+College affiliation: Collège de Dormans-Beauvais : hôte %1403-1406% ?.
+Family relationships: Son oncle est Thierry THIEFAINE, avocat au Châtelet de Paris ?.
+Source: LAMOP : Opération Charles VI (n° 2441) :.

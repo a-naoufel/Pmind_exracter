@@ -1,0 +1,10 @@
+PERSON: PETRUS de Bellicio
+Also known as: Petrus de BELLICIO; Pierre de BELLEY.
+Description: Chanoine de Mâcon.
+Status: Incertain.
+Gender: male.
+Active during: %1440-1441%.
+Studied at: ?.
+Academic grades obtained: Maître ;; Bachelier en théologie ;.
+Ecclesiastical positions held: Chanoine de Mâcon %1440-1441% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/02/2023)..

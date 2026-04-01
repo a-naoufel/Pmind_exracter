@@ -1,0 +1,9 @@
+PERSON: HUBERTUS Jacobi
+Also known as: Hubert JACOBI.
+Description: Bachelier en médecine.
+Status: Gradué.
+Gender: male.
+Active during: %1414-1416%.
+Studied at: Paris (Nation de France) %:1414-1416%..
+Academic grades obtained: Étudiant en médecine (Paris) ;; Bachelier en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 22/11/2018..

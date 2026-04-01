@@ -1,0 +1,13 @@
+PERSON: MICHAEL de Croismare
+Also known as: Michel de CROISMARE.
+Description: Boursier du Collège de Justice.
+Status: Maître.
+Gender: male.
+Active during: %1479-1482%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie ?) ?.
+Academic grades obtained: Maître ès arts (Paris) ?.
+College affiliation: Collège de Justice : boursier en ;.
+Family relationships: Son parent est peut-être Jacques de CROISMARE, chanoine de Rouen ? Son parent est peut-être Robert de CROISMARE, archevêque de Rouen ?.
+Social origin: Noble ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Marion BERNARD-SCHWEITZER 21/10/2020)..

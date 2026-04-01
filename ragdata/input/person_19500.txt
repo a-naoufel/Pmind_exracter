@@ -1,0 +1,9 @@
+PERSON: GEORGIUS Tseiclaf
+Also known as: Georgius TSEICLAF.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Magister (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 8/12/2021..

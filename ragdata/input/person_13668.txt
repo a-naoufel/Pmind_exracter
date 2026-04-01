@@ -1,0 +1,11 @@
+PERSON: RICARDUS Generalis
+Also known as: Richardus GENERALIS.
+Description: Docteur en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1405-1409%.
+Studied at: Paris %1405-1409%..
+Academic grades obtained: Licencié en théologie (Paris) ;; Docteur en théologie (Paris) (avant le 7 mai) ..
+Religious order: O.F.M. : frère franciscain ;.
+University functions: Paris (Faculté de Théologie : il assiste à une assemblée de la faculté de théologie, discutant les déclarations faîtes lors des Vêpres par le franciscain Johannes GORRELO, tenue à Paris le 2 janvier ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : claire Priol-Hoogland : révision, Jean-Philippe Genet, dernière mise à jour 24/03/2022)..

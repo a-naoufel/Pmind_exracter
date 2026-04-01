@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de Sancto Hilario
+Also known as: Nicolaus de SANCTO HILARIO; Nicolas de SAINT-HILIER.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1413-1423%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Reims %1413-1423% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/07/2021..

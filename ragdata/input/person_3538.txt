@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Vastinel
+Also known as: Guillelmus VASTINEL; Guillaume VASTINEL.
+Description: Boursier artien au collège de Navarre..
+Status: Étudiant.
+Gender: male.
+Active during: %1356-1356%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris (Nation de Normandie) %1356-1356%..
+Academic grades obtained: Étudiant ès arts (Paris) ..
+College affiliation: Boursier artien au collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 05/06/2022)..

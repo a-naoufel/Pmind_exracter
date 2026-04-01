@@ -1,0 +1,11 @@
+PERSON: GUERENDUS
+Also known as: GUERENDUS.
+Description: Chanoine d’Amiens.
+Status: Maître.
+Gender: male.
+Active during: %1260-1260%.
+Studied at: Paris ..
+Academic grades obtained: Maître en théologie (Paris) ..
+Ecclesiastical positions held: Chanoine d’Amiens..
+University functions: Paris (Faculté de Théologie : maître-régent ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/01/2022..

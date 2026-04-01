@@ -1,0 +1,13 @@
+PERSON: PETRUS Baudry
+Also known as: Petrus BAUDRY.
+Description: Chanoine d’Auxerre.
+Status: Incertain.
+Gender: male.
+Active during: %1407-1410%.
+Born in: Bourgogne (Auxerre) ?.
+Diocese of origin: Diocèse d’Auxerre ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Social origin: Bourgeoisie ;.
+Ecclesiastical status: Chanoine d’Auxerre %1407-1410% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 01/07/2025)..

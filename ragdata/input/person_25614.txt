@@ -1,0 +1,13 @@
+PERSON: IVO de Mota
+Also known as: Yvo de MOTA.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1388-1403%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Tréguier ;.
+Studied at: Paris avant %1388-1403% ;.
+Academic grades obtained: Étudiant en décret (Paris) en %1388-1394% ;; Bachelier en décret avant ;.
+Ecclesiastical status: Clerc du diocèse de Tréguier en ;.
+Ecclesiastical positions held: Candidat à un canonicat de Noyon sur le rotulus présenté par Elias de LESTRANGE, évêque de Saintes à BENOÎT XIII en (25-29 octobre) à Avignon ;; Candidat à un bénéfice sur le Rotulus quorundam licentiatorum et bacalariorum Universitatis Parisiensis présenté à BENOÎT XIII en (?) à Avignon ;; Candidat à un bénéfice sur le Rotulus licentiatorum et bacallariorum in decretis Parisius adressé à BENOÎT XIII en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

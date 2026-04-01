@@ -1,0 +1,10 @@
+PERSON: FLORENTIUS de Champi
+Also known as: Florentius de CHAMPI.
+Description: Maître-régent.
+Status: Maître.
+Gender: male.
+Active during: %1483-1483%.
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+University functions: Paris (Nation de Picardie : Maître-régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/08/2021..

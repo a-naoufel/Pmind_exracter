@@ -1,0 +1,11 @@
+PERSON: PETRUS Paree
+Also known as: Petrus PAREE.
+Description: Maîtrerégent de la faculté des arts..
+Status: Maître.
+Gender: male.
+Active during: %1319-1331%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie) %1319-1331%..
+Academic grades obtained: Maître ès arts (Paris) ..
+University functions: Paris (Faculté des Arts : Maîtrerégent en ) ;; Paris (Faculté des Arts : Maîtrerégent en février ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 25/03/2020..

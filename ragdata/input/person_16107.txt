@@ -1,0 +1,7 @@
+PERSON: ALANUS Juvenis
+Description: Propriétaire d'une maison à Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1282-1282%.
+Studied at: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet 20/05/2020)..

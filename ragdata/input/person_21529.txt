@@ -1,0 +1,12 @@
+PERSON: GUIDO de Alneto 1
+Also known as: Guido de ALNETO; Guy de L'AULNAY.
+Description: Chanoine de Châlons-en-Champagne.
+Status: Maître.
+Gender: male.
+Active during: %1276-1297%.
+Born in: Champagne (Aulnay ?) ;.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris ?) ;; Étudiant en droit canon ;; Étudiant en droit civil..
+Family relationships: Noble..
+Ecclesiastical positions held: Chanoine de Châlons-en-Champagne %1276-1297% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/01/2022..

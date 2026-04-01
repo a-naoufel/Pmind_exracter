@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Rocha 1
+Also known as: Guillelmus de ROCHA.
+Description: Maître d’école.
+Status: Suppôt.
+Gender: male.
+Active during: %1412-1412%.
+Studied at: Paris ..
+Academic grades obtained: Magister ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 1/09/2020..

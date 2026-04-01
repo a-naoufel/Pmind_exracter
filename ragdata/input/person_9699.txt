@@ -1,0 +1,12 @@
+PERSON: PATRICIUS de Hibernia
+Also known as: Patricius de HIBERNIA.
+Description: Maître ès arts..
+Status: Maître.
+Gender: male.
+Active during: %1281-1281%.
+Born in: Irlande ?.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Maître ès arts (Paris) avant ..
+University functions: Paris (Faculté des Arts : maître-régent en )..
+Authored work: 'Sophismata', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 03/12/2023..

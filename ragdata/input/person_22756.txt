@@ -1,0 +1,9 @@
+PERSON: AEGIDIUS Le Brun de Trazegnies
+Also known as: Gilo dictus LE BRUN; Gilles de TRAZEGNIES.
+Description: Connétable de France.
+Status: Extérieur.
+Gender: male.
+Active during: %1220-1276%.
+Family relationships: Son père est Gilles II de TRAZEGNIES ; Sa femme (première) est Ida de SOTRUD ; Sa femme (seconde) est Simonette de JOINVILLE ; Son beau-frère est Jean de JOINVILLE..
+Social origin: Noble..
+Source: https://fr.wikipedia.org/wiki/Gilles_de_Trazegnies_dit_le_Brun.

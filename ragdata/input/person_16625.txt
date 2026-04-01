@@ -1,0 +1,11 @@
+PERSON: MATTHIAS de Buglosu
+Also known as: Mathias de BUGLOSU.
+Description: Curé.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1339%.
+Born in: Suède (Uppland (?Boglösa)).
+Studied at: Paris (Nationanglaise?), ..
+Academic grades obtained: ?Étudiant (P), ..
+Ecclesiastical positions held: Curé de Boglösa (diocèse d'Uppsala), %1316:-1339%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 24/04/2014..

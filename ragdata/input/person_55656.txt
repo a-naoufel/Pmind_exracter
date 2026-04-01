@@ -1,0 +1,12 @@
+PERSON: ALBERTUS de Chamberello
+Also known as: Albertus de CHAMBERELLO.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1354-1354%.
+Studied at: Paris ?.
+Academic grades obtained: Maître ?.
+College affiliation: Sorbonne : procureur en ?.
+Family relationships: Son parent est peut-être Johannes HUGONIS de Chamberello, également procureur dans la même affaire ?.
+Ecclesiastical positions held: Chanoine de Narbonne ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 3/04/2023..

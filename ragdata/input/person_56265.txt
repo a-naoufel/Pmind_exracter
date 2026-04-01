@@ -1,0 +1,15 @@
+PERSON: FRANCISCUS Le Chat
+Also known as: Franciscus LE CHAT.
+Description: Chantre du Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1476-1522%.
+Born in: Anjou-Maine (LeMans) ;.
+Diocese of origin: Diocèse de LeMans ;.
+Studied at: ?.
+Academic grades obtained: Docteur in utroque ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Sillé-le-Guillaume % -1476% ;; Chanoine de LeMans %1476-1522% ;; Chantre de LeMans %1478-1519% ;.
+Other ecclesiastical functions: Vicairegénéral de LeMans ;.
+Authored work: 'Traité sur les cérémonies et les costumes de la cathédrale du Mans', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/06/2023)..

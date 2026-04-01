@@ -1,0 +1,11 @@
+PERSON: GALTERIUS de Wetheringsete
+Also known as: Walter de WETHERINGSETE.
+Description: Chancelier d'Oxford.
+Status: Extérieur.
+Gender: male.
+Active during: %1300-1304%.
+Born in: Angleterre..
+Studied at: Oxford..
+Academic grades obtained: Docteur en théologie (Oxford)..
+University functions: Oxford (Université : Chancelier %1302-1304%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 16/11/2021..

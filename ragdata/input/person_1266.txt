@@ -1,0 +1,11 @@
+PERSON: BENEDICTUS 5
+Also known as: BENEDICTUS.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1455-1455%.
+Studied at: Paris %1455-1455%.
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Cluny : étudiant en ..
+Religious order: O.S.B. : moine clunisien du ?prieuré de Montléant (diocèse de Soissons)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; dernière mise à jour,Jean-Philippe Genet, 29/12/2024)..

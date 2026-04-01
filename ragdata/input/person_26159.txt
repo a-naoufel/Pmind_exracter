@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de Dacia 1
+Also known as: Nicolaus de DACIA.
+Description: O.P..
+Status: Maître.
+Gender: male.
+Active during: %1270-1285%.
+Studied at: Paris..
+Religious order: ?O.P. : frère (dominicain) du couvent (dominicain) de Paris (Saint-Jacques) ?.
+Ecclesiastical positions held: Chanoine de Paris ;; Official de Paris ;.
+Authored work: 'Sermo in dominica XVII post Trinitatem', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 15/05/2019..

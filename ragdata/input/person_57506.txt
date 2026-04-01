@@ -1,0 +1,11 @@
+PERSON: SINIBALDO de Gentile
+Also known as: Sinibaldo de GENTILE.
+Description: Médecin.
+Status: Extérieur.
+Gender: male.
+Active during: %1265-1265%.
+Born in: Italie..
+Studied at: ?Bologne..
+Academic grades obtained: Maître..
+University functions: Bologne (lecteur en Grammaire en ) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/02/2024)..

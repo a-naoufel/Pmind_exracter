@@ -1,0 +1,14 @@
+PERSON: NICOLAUS de Escaquelont
+Also known as: Nicolaus de ESCAQUELONT.
+Description: Membre du Collège du Trésorier.
+Status: Maître.
+Gender: male.
+Active during: %1342-1342%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris (Nation de Normandie) ..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en théologie (Paris) ;.
+College affiliation: Collège du Trésorier : socius ;.
+Ecclesiastical status: Clerc en ;.
+Ecclesiastical positions held: Provision pour une grâce expectative à la collation de l’abbé et du couvent du monastère (bénédictin) de Saint-Évroult en réponse au rotulus du Collège du Trésor en (9 août) : mandat à l’abbé (O.S.A.) de Paris (Sainte-Geneviève), à l’abbé (O.S.A.) de Paris (Saint-Victor) et au prieur de Rouen (Saint-Lô) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/09/2020)..

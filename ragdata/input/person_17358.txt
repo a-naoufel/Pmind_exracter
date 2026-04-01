@@ -1,0 +1,12 @@
+PERSON: BURELLUS de Cormellis
+Also known as: Burellus de CORMELLIS.
+Description: Secrétaire royal.
+Status: Étudiant.
+Gender: male.
+Active during: %1381-1431%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris .; Orléans..
+Academic grades obtained: Étudiant (Paris) en ;; Licencié en droit civil (Orléans) ..
+Ecclesiastical positions held: Provision en pour un canonicat avec expectative de prébende ou un office dans la cathédrale d'Évreux..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 27/03/2021)..

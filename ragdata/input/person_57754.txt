@@ -1,0 +1,17 @@
+PERSON: RAIMUNDUS de Boulogne
+Also known as: Raymond de BOULOGNE.
+Description: Archidiacre de Boulogne.
+Status: Maître.
+Gender: male.
+Active during: %1275-1280%.
+Born in: Boulonnais (Boulogne)..
+Diocese of origin: Diocèse de Thérouanne ?.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) ?.
+Ecclesiastical positions held: Archidiacre de Boulogne..
+Authored work: '(Sermon pour le jour de la Circoncision)', composed around (1er janvier)..
+Authored work: '(Sermon pour la conversion de Saint-Paul)', composed around (25 janvier, fête pour la conversion de Saint PAUL)..
+Authored work: '(Sermon pour le jour de la circoncision)', composed around (1er janvier)..
+Authored work: '(Sermon ou principium)', composed around ?.
+Authored work: '(Sermon)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 28-04-2024..

@@ -1,0 +1,16 @@
+PERSON: DURANDUS de Alvernia
+Also known as: Durand d'AUVERGNE.
+Description: Procureur de l'Université à la Curie.
+Status: Maître.
+Gender: male.
+Active during: %1295-1295%.
+Born in: ?Auvergne..
+Studied at: Paris.; Maître ès arts ?.
+University functions: Paris (Université : Procureur à la Curie à Anagni en )..
+Authored work: 'Commentarius in Aristotelis Perihermeneias', composed around ?.
+Authored work: 'Scripta super libros Topicorum', composed around ?.
+Authored work: 'Quaestiones super librum Praedicamentorum', composed around ?.
+Authored work: 'Quaestiones super Porphyrium', composed around ?.
+Authored work: 'In VIII libros Physicorum', composed around ?.
+Authored work: 'Scriptum supra Yconomicam', composed around ?.
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

@@ -1,0 +1,13 @@
+PERSON: NICOLAUS de Douzy
+Also known as: Nicolaus de DOUZY; Nicolaus de DOUZIS.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1383-1384%.
+Born in: Champagne (Douzy) ;.
+Diocese of origin: Diocèse de Reims ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Reims %1383-1384% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 27/08/2021..

@@ -1,0 +1,10 @@
+PERSON: GILBERTUS Baudequin
+Also known as: Gilbert BAUDEQUIN.
+Description: Écolier du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1398-1398%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) en ;.
+College affiliation: Collège d’Autun : écolier ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

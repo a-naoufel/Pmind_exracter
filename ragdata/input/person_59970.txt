@@ -1,0 +1,12 @@
+PERSON: NICOLAUS Wibert
+Also known as: Nioclaus WIBERT.
+Description: Boursier du collège de Dainville.
+Status: Maître.
+Gender: male.
+Active during: %1425-1425%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Noyon ;.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) ;.
+College affiliation: Collège de Dainville : boursier ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

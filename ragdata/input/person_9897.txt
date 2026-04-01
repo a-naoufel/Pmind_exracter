@@ -1,0 +1,11 @@
+PERSON: PETRUS Laurentii de Suecia
+Also known as: PETRUS Laurentii de Suecia; Petrus LAURENTII de Suecia; Petrus Laurentii de SUECIA.
+Description: Étudiant.
+Status: Gradué.
+Gender: male.
+Active during: %1342-1342%.
+Born in: Suède.
+Studied at: Paris (Nationanglaise), ..
+Academic grades obtained: L.A. (P), ..
+Academic relationships: Élève de maître GERARDUS Pelegrini de Marten (licence), ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 09/06/2014..

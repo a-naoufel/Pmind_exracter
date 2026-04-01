@@ -1,0 +1,11 @@
+PERSON: PETRUS de Stagno 1
+Also known as: Petrus de STAGNO; Pierre d'ESTAING.
+Description: Archidiacre de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1436-1460%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;; Licencié en droit canon ;; Étudiant en théologie ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Rodez %1436-1454% ;; Archidiacre de Rodez %1455-1460% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 20/05/2022..

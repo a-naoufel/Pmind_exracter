@@ -1,0 +1,11 @@
+PERSON: GUIDO Pictavensis
+Also known as: Guido PICTAVENSIS.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Born in: Poitou ?.
+Diocese of origin: Diocèse de Poitiers ?.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant (Paris) %1329-1330% ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/02/2022)..

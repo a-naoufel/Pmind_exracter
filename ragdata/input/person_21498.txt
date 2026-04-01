@@ -1,0 +1,72 @@
+PERSON: NICOLAUS Oresme
+Also known as: Nicolaus ORESME; Niolas ORESME; Nicole ORESME.
+Description: Évêque de Lisieux.
+Status: Maître.
+Gender: male.
+Active during: %1342-1382%.
+Born in: Normandie (Alemaigne) ;.
+Diocese of origin: Diocèse de Bayeux..
+Studied at: Paris (Nation de de Normandie) avant ;.
+Academic grades obtained: Maître ès arts (Paris) avant ;; Étudiant en théologie (Paris) %1348-1356% ;; Licencié en théologie (Paris) avant ;; Maître en théologie (Paris) vers ;.
+College affiliation: Collège de Navarre : il est boursier théologien au collège de Navarre à Paris en %1348-1356% ;; Collège de Navarre : Grand-Maître %1356-1361% ;.
+Family relationships: Son frère est peut-être Henri ORESME, chanoine de Bayeux ? Son neveu est Henri ORESME junior, chanoine de Bayeux, licencié en décret ? Son parent est probablement Guillaume ORESME ;.
+Social origin: Commun (paysan ?)..
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Provision pour un bénéfice à la collation de l’abbé et du couvent du monastère (bénédictin) de Montebourg : mandat à Denis de DUCLAIR, chanoine de Coutances, Thomas BOUCHARD, chanoine de Bayeux et Guy de VELLIACO, chanoine de Beauvais en réponse au rotulus des maîtres normands de la Faculté des Arts en ;; Recteur de Fontenay (Saint Pierre) au diocèse de Bayeux en ;; Provision pour un bénéfice à la collation de l’évêque d’Avranches, nonobstant sa précédente provision et son église de Fontenay : mandat à l’archevêque d’Arles, à l’abbé de Paris (Sainte-Geneviève) et à Guillaume CAMPIONIS, chanoine de Beauvais en réponse au rotulus des maîtres normands de la Faculté des Arts en ;; Archidiacre de Bayeux en ;; Chapelain au Châtelet de Paris en ;; Recteur de Cormolain au diocèse de Bayeux en ;; Provision pour un canonicat et une prébende à la cathédrale de Rouen, nonobstant sa chapellenie et son église de Cormolain : mandat à l’archevêque d’Embrun, à l’abbé de Paris (Sainte-Geneviève) et au chancelier de Paris en réponse au rotulus des maîtres en théologie parisiens en ;; Curé de Paris (Saint-JacquesdelaBoucherie) en ;; Chanoine de Rouen %1362-1376% ;; Chanoine de Paris (Notre-Dame) en ;; Doyen du chapitre de Rouen %1365-1376% ;; Évêque de Lisieux %1377-1382% ;.
+Authored work: 'Determinatio facta in resumpta in domo Navarrae', composed around ;.
+Authored work: 'Questiones super Libros Sententiarum Petri Lombardi', composed around ?.
+Authored work: 'De communicatione idiomatum in Christo', composed around ..
+Authored work: 'Sententia libri De anima', composed around ?.
+Authored work: 'Questiones super librum De anima', composed around ?.
+Authored work: 'Determinatio an liceat iudici occidere innocentem', composed around ?Avant ..
+Authored work: 'Expositio super libros I-VIII Physicorum', composed around ?%1342-1347% ;.
+Authored work: 'Questiones super librum VIII Physicorum', composed around ?%1342-1347% ;.
+Authored work: 'Questiones super VII libros Physicorum', composed around ?%1342-1347% ;.
+Authored work: 'Questiones super librum De celo et mundo', composed around ?%1345-1350%..
+Authored work: 'Questiones super De celo', composed around ?.
+Authored work: 'Questiones libri De generatione et corruptione', composed around ?.
+Authored work: 'Questiones super De sensu et sensato', composed around ?.
+Authored work: 'Sententia super libros Meteororum', composed around ? ..
+Authored work: 'Questiones in Meteorologica de prima lectura', composed around ..
+Authored work: 'Questiones in Meteorologica de ultima lectura', composed around ..
+Authored work: 'Sententia super De generatione et corruptione', composed around ..
+Authored work: 'Questiones super De spera', composed around ?.
+Authored work: 'Questiones super De spera (Erfurt)', composed around ?.
+Authored work: 'Questiones super Euclidis Elementa', composed around ?.
+Authored work: 'Ad pauca respicientes', composed around ?.
+Authored work: 'Algorismus proportionum', composed around %1351-1360%?.
+Authored work: 'De commensurabilitate vel incommensurabilitate motuum celi', composed around ?.
+Authored work: 'De proportionibus proportionum', composed around %1351-1360%..
+Authored work: 'Utrum dyameteralicuius quadrati sit commensurabilis costa eiusdem', composed around ?%1353-1357% si l’oeuvre est écrite par Nicole ORESME ?.
+Authored work: 'De visione stellarum', composed around ?.
+Authored work: 'De configurationibus qualitatum et motuum', composed around ?%1351-1355%.
+Authored work: 'Questiones de perfectione specierum', composed around ?.
+Authored work: 'Utrum aliqua res videatur tanta quanta est', composed around ?.
+Authored work: '(Question sur les arts divinatoires)', composed around ?.
+Authored work: 'Tractatus contra astronomos judiciarios', composed around Avant ..
+Authored work: 'Quaestio contra divinatores horoscopios', composed around ?.
+Authored work: 'De causis mirabilium', composed around ?.
+Authored work: 'Tabula problematum', composed around ?.
+Authored work: 'Problemata', composed around ?.
+Authored work: 'Livre de divinacions', composed around selon G.W. COOPLAND, ou selon Sylvie LEFÈVRE ;.
+Authored work: 'Le traictié de l'espere', composed around %1365-1368%..
+Authored work: 'Le livre du ciel et du monde', composed around Daté de ., dedicated to Dédié à CHARLES V, roi de France..
+Authored work: 'Conclusio mirabilis', composed around ?.
+Authored work: 'Expositio cujusdam legis', composed around ?.
+Authored work: 'De Moneta', composed around pour la première version préparée pour JEAN II le Bon, roi de France et pour la version définitive pour CHARLES, dauphin (CHARLES V)..
+Authored work: 'Sermo coram Papa Urbano V', composed around (veille de Noël) à Avignon., dedicated to Sermon prêché devant le Pape URBAIN V, en cour d’Avignon..
+Authored work: '[Sermo] De malis venturis super ecclesiam', composed around ?.
+Authored work: 'Le Livre de Ethiques', composed around %1370-1372%, dedicated to Pour CHARLES V, roi de France..
+Authored work: 'Le Livre de Politiques', composed around %1371-1374%., dedicated to Pour CHARLES V, roi de France..
+Authored work: 'Le Livre de Yconomique', composed around Vers, dedicated to Pour CHARLES V, roi de France..
+Authored work: 'Ars predicandi', composed around ?.
+Authored work: 'Sacrae conciones', composed around ?.
+Authored work: 'De conceptione Beatae Marie virginis', composed around ?.
+Authored work: 'Liber de Antichristo', composed around ?%1263-1273..
+Authored work: 'Sermo contra mendicationem', composed around ?%1250-1260..
+Authored work: 'De instantibus', composed around ?.
+Authored work: 'De proportionibus velocitatum in motibus', composed around ?.
+Authored work: 'De terminis confindentibus', composed around ?.
+Authored work: 'Expositio libri De physiognomia', composed around .
+Authored work: 'Inter omnes impressiones', composed around ?.
+Source: ARLIMA (Archives de littérature du Moyen Âge) :.

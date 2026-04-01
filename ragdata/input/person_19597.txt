@@ -1,0 +1,13 @@
+PERSON: EVENUS Bilibouc
+Also known as: Evenus BILIBOUC.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1389-1389%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Léon..
+Studied at: Paris..
+Academic grades obtained: Étudiant en décret (Paris) ;.
+Ecclesiastical status: Prêtre du diocèse de Saint-PauldeLéon..
+Ecclesiastical positions held: Supplique pour un bénéfice ecclésiastique à la collation de l'évêque, du doyen et du chapitre de Paris en sur le rotulus de la semaine sainte proposé par Gilles de LESCOURS, référendaire ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 30/07/2021..

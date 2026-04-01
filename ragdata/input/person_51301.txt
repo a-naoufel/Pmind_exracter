@@ -1,0 +1,11 @@
+PERSON: G. Marie
+Also known as: G. MARIE.
+Description: Boursier au Collège de Justice.
+Status: Étudiant.
+Gender: male.
+Active during: %1466-1466%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie) ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Justice : boursier en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Marion BERNARD-SCHWEITZER, 14/10/2020)..

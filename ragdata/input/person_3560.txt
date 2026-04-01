@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Angus
+Also known as: Guillelmus ANGUS; Willelmus de ANGOS; William de ANGUS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1345%.
+Born in: Écosse..
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant (Paris) en %1329-1330%..
+Ecclesiastical positions held: Chanoine prébendé de Rethtref à Dunkeld jusqu'en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/02/2022..

@@ -1,0 +1,54 @@
+PERSON: HENRICUS de Frimaria senior
+Also known as: Henricus de FRIMARIA; Henricus de FRIMARIA I; Henricus de FRIMARIA Senior; Henricus de VRIMARIA; Henricus de WIMARIA; Henri de Frimar; Henri de FRIMAR I; Henri d'ALLEMAGNE; Henricus TEUTONICUS; Henricus de ALLEMANNIA; Henri l’ALLEMAND.
+Description: Augustin.
+Status: Maître.
+Gender: male.
+Active during: %1265-1340%.
+Born in: Allemagne ?.
+Studied at: Paris %1304-1312%, mais peut-être aussi dés la fin du XIIIe siècle.; Bologne ?; Paris jusqu’en 1312% ?; Erfurt après ..
+Academic grades obtained: Maître en théologie (Paris) ?..
+College affiliation: Couvent (augustin) de Paris (Grands-Augustins) %1305-1312%..
+Religious order: O.E.S.A. : frère augustin..
+Religious functions: MinistreProvincial (O.E.S.A.) d'Allemagne %1296-1299%.; MinistreProvincial (O.E.S.A.) de ThuringeetSaxe en %1315-1318%..
+University functions: Paris (Faculté de Théologie : maîtrerégent en théologie du studium augustin %1305-1309%) ;; Erfurt (Maîtrerégent en théologie du studium augustin après )..
+Authored work: 'Expositio decem preceptorum', composed around ?.
+Authored work: 'Questiones disputate', composed around ?.
+Authored work: 'Tractatus de adventu verbi in mentem', composed around ?.
+Authored work: 'Abbreviatio Quodlibeti XIV Godefridi de Fontibus', composed around ?.
+Authored work: 'Actus divinationis quandoque est peccatum mortale, quandoque veniale', composed around ?.
+Authored work: 'Commonitorium directivum simplicium volentium pure et integraliter confiteri', composed around ?.
+Authored work: 'De Quadruplici Instinctibus, scilicet divino, angelico, diabolico, et humano', composed around ?.
+Authored work: 'De expositione missae et mysteriorum in ea contentorum', composed around ?.
+Authored work: 'Epitome Sententiarum in Petri Lombardi', composed around ?.
+Authored work: 'Explanatio in Apocalypsim', composed around ?.
+Authored work: 'Liber de perfectione spirtuali interioris homins', composed around ?.
+Authored work: 'Nota de vero religioso', composed around ?.
+Authored work: 'Quaestiones (19)', composed around ?.
+Authored work: 'Quaestiones circa contractus (4)', composed around ?.
+Authored work: 'Quodlibet I (20 qu.)', composed around ?.
+Authored work: '(Questions disputées : extraits)', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Opus sermonum exactissimorum de sanctis', composed around ?.
+Authored work: 'Tractatus de adventu domini', composed around ?.
+Authored work: 'Tractatus de adventu Verbi in mentem', composed around ?.
+Authored work: 'Tractatus de confessione', composed around ?.
+Authored work: 'Tractatus de exemptione', composed around ?.
+Authored work: 'Tractatus de incarnatione Verbi', composed around ?.
+Authored work: 'Tractatus de occultatione vitiorum sub specie virtutum', composed around ?.
+Authored work: 'Tractatus de septem gradibus amoris', composed around ?.
+Authored work: 'Expositio brevior orationis dominicae', composed around ?.
+Authored work: 'Tractatus de vitiis', composed around ?.
+Authored work: 'Tractatus duo de corpore Christi', composed around ?.
+Authored work: 'Tractatus vel sermo de aqua benedicta', composed around ?.
+Authored work: 'Tractatus vel sermo de corpore Christi', composed around ?.
+Authored work: 'Tractatus vel sermones de poenitentia', composed around ?.
+Authored work: 'Notule super syllogismorum capitulum', composed around ?.
+Authored work: 'Expositio decretalis ‘Cum Marthae’ de celebranda missa', composed around ?.
+Authored work: 'De origine et progressu ordinis fratrum heremitarum Sancti Augustini', composed around ?.
+Authored work: 'Tractatus de libertatibus ordinis Minorum', composed around ?.
+Authored work: 'Sententia totius libri Ethicorum', composed around ., dedicated to Dédié à Hannibaldus de CECCANO..
+Authored work: 'De passione Domini', composed around ?.
+Authored work: 'De generatione et corruptione', composed around ?.
+Authored work: 'De iuventute et senectute', composed around ?.
+Authored work: 'Questiones super libros Ethicorum "secundum mentem Henrici de Alemannia"', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

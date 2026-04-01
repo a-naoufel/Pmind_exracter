@@ -1,0 +1,10 @@
+PERSON: THOMAS Corpir
+Also known as: Thomas CORPIR; Thomas CUPIR.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1329-1330%.
+Born in: Écosse ?.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Maître (Paris)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 30/09/2024..

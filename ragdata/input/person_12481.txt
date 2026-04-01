@@ -1,0 +1,12 @@
+PERSON: GUIDO de Monceau
+Also known as: Guido de MONCEAU; Guido de MONCEAUX; Guido de MONCELLI.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1364-1398%.
+Studied at: Paris %1364-1394%..
+Academic grades obtained: Bachelier en théologie (Paris) ;; Docteur en théologie (Paris) ..
+Religious order: O..B. : moine bénédictin de l'abbaye de Saint-Denis-en-France (diocèse de Paris)..
+Religious functions: Aumônier de Saint-Denis-en-France (diocèse de Paris) en ;; Abbé de Saint-Denis-en-France (diocèse de Paris) en %1363-1393%..
+Representation roles: Exécuteur d'une bulle pontificale interdisant aux bacheliers de donner quoi que ce soit au chancelier de Paris lors de la réception du signetum du 9 novembre ;; Participe à une assemblée de l'Université réunie pour discuter du Schisme les 25-26 février ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 29/01/2022)..

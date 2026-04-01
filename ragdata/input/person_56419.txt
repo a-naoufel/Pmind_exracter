@@ -1,0 +1,11 @@
+PERSON: MATTHAEUS Vituli
+Also known as: Matthaeus VITULI.
+Description: Chanoine du Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1432-1483%.
+Studied at: ?.
+Academic grades obtained: Licencié in utroque jure ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de LeMans (Saint-Pierre-de-la-Cour) %1444-1483% ;; Chantre de LeMans (Saint-Pierre-de-la-Cour) %1460-1463% ;; Doyen de LeMans (Saint-Pierre-de-la-Cour) %1463-1483% ;; Chanoine de LeMans %1472-1483% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 4/08/2023)..

@@ -1,0 +1,9 @@
+PERSON: GODINUS
+Also known as: GODINUS.
+Description: Amauricien.
+Status: Étudiant.
+Gender: male.
+Active during: %:1210-1210%.
+Studied at: Paris %:1210-1210% ?.
+Academic grades obtained: Étudiant ès arts (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 19/01/2022..

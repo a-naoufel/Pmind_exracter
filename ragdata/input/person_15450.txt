@@ -1,0 +1,12 @@
+PERSON: LEONETUS Grimault
+Also known as: Leonetus GRIMAULT.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1453-1498%.
+Studied at: Paris %1453-1453%..
+Academic grades obtained: Étudiant (Paris) ..
+Family relationships: Son oncle est Guillelmus GRIMAULT..
+Religious order: O.S.B. : moine bénédictin de l'abbaye de Tiron (diocèse de Chartres)..
+Religious functions: Prieur de Bouche-d'Aigre (dépendance de Tiron dans le diocèse de Chartres) en ;; Abbé de Tiron (diocèse de Chartres) en %1453-1492%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 26/08/2023)..

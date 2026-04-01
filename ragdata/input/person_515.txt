@@ -1,0 +1,11 @@
+PERSON: ALEXANDER de Quappelode
+Also known as: Alexander de QUAPPELAD; Alexander de QUAPPELODE.
+Description: Recteur de Great Lindford.
+Status: Extérieur.
+Gender: male.
+Active during: %1292-1341%.
+Born in: Angleterre..
+Studied at: Oxford ?.
+Academic grades obtained: Magister (Oxford?) ..
+Ecclesiastical positions held: Recteur de LowerHeynford (Oxfordshire) %1293-1311% ;; Recteur de Hanborough (Oxfordshire) %1311-1336% ;; Recteur de GreatLindford (Buckinghamshire) %1336-1341%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 28/06/2020)..

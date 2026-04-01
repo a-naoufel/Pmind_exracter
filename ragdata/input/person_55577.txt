@@ -1,0 +1,13 @@
+PERSON: REGINALDUS de Villaribus 1
+Also known as: Reginaldus de VILLARIBUS.
+Description: Official d’Évreux.
+Status: Maître.
+Gender: male.
+Active during: %1362-1375%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris (Nation de Normandie)..
+Academic grades obtained: Maître ès arts (Paris) en ;.
+Ecclesiastical positions held: Candidat à un bénéfice ecclésiastique sur le rotulus de l’université de Paris en ;.
+Other ecclesiastical functions: Official d’Évreux ;; Vicairegénéral d’Évreux ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 26/02/2023)..

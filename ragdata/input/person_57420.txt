@@ -1,0 +1,13 @@
+PERSON: ODO Cheneval
+Also known as: Eudes CHENEVAL.
+Description: Chapelain au Collège de Laon (Motel).
+Status: Étudiant.
+Gender: male.
+Active during: %1471-1473%.
+Born in: Picardie (Laon ?) ;.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie) %1471-1473% ;.
+Academic grades obtained: Étudiant (Paris) %1471-1473% ;.
+College affiliation: Collège de Laon : chapelain de Motel %1471-1473% ;.
+Ecclesiastical positions held: Chapelain du Collège de Laon (Motel) %1471-1473% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 28/01/2024..

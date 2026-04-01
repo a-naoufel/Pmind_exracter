@@ -1,0 +1,11 @@
+PERSON: ROBERTUS Majoris 3
+Also known as: Robertus MAJORIS.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1427-1427%.
+Born in: Picardie (Amiens) ;.
+Diocese of origin: Diocèse d’Amiens.
+Studied at: Paris ;.
+Academic grades obtained: Bachelier en décret (Paris) (26 août) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 07/10/2025..

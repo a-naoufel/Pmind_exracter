@@ -1,0 +1,9 @@
+PERSON: PETRUS de Molinis
+Also known as: Petrus de MOLINIS.
+Description: Nonce pour le diocèse de Soissons.
+Status: Suppôt.
+Gender: male.
+Active during: %1450-1450%.
+Studied at: Paris (Nation de France)..
+University functions: Paris (Nation de France) : il est désigné comme nonce pour le diocèse de Soisssons en (17 octobre) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 23/08/2023)..

@@ -1,0 +1,10 @@
+PERSON: GALFREDUS de Buillane
+Also known as: Gaufridus de BUILLANE.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1338-1338%.
+Diocese of origin: Diocèse de Liège..
+Studied at: Paris.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 15/11/2019..

@@ -1,0 +1,10 @@
+PERSON: ALANUS 8
+Also known as: ALANUS.
+Description: Maître ès arts..
+Status: Maître.
+Gender: male.
+Active during: %1450-1450%.
+Studied at: Paris (Nation de France)..
+Academic grades obtained: Maître ès arts (Paris)..
+University functions: Paris (Nation de France : examinateur du baccalauréat pour la province de Tours..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 05/05/2020)..

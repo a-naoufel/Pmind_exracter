@@ -1,0 +1,12 @@
+PERSON: M. de Boetauville
+Also known as: M. DE BOETAUVILLE.
+Description: Étudiant en médecine.
+Status: Étudiant.
+Gender: male.
+Active during: %1457-1477%?.
+Born in: Île-de-France?.
+Diocese of origin: Diocèse de Chartres ?.
+Studied at: Paris (Nation de France) %1457-1457%..
+Academic grades obtained: Étudiant en médecine (Paris) ..
+Ecclesiastical positions held: ?Curé de Guitraucourt en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 07/09/2023)..

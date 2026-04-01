@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Rousseleti
+Also known as: Guillelmus ROUSSELETI.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1424-1426%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Bachelier en décret (Paris) .; Licencié en décret (Paris) (30 mars) ..
+Academic relationships: Son maître est Johannes de SERVAVILLA pour la licence en décret en (4 avril) ;.
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (in titulo De vita et honestate clericorum, VI, 1) en (11 octobre) pour la 6e année et le 5e volume) ;; Paris (Faculté de Décret : Lecteur des Clémentines en (11 octobre) pour la 6e année et le 5e volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 07/01/2026)..

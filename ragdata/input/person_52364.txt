@@ -1,0 +1,13 @@
+PERSON: SIMON de Poilleyo
+Also known as: Simon de POILLEYO.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1276-1285%.
+Born in: Champagne (Poilly) ;.
+Diocese of origin: Diocèse de Reims ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Reims %1276-1285% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 2/06/2021..

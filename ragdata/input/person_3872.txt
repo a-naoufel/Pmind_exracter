@@ -1,0 +1,7 @@
+PERSON: GUILLELMUS Figuli 1
+Also known as: Guillelmus FIGULI.
+Description: Tavernier.
+Status: Extérieur.
+Gender: male.
+Active during: %1425-1429%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/08/2017..

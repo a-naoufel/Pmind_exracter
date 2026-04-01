@@ -1,0 +1,9 @@
+PERSON: CLAUDIUS Jaumart
+Also known as: Claudius JAUMART; Claudius JAUMAR.
+Description: Libraire juré..
+Status: Suppôt.
+Gender: male.
+Active during: %1493-1500%.
+Studied at: Paris.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 13/04/2021..

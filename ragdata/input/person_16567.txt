@@ -1,0 +1,10 @@
+PERSON: ALANUS 3
+Also known as: ALANUS.
+Description: "Doctor parisinus"..
+Status: Incertain.
+Gender: male.
+Active during: %1300-1325%.
+Studied at: ?Paris..
+Academic grades obtained: ?Docteur (Paris)..
+Authored work: 'Questiones totius libri Aristotelis De anima', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Dernière mise à jour, Jean-Philippe Genet 20/05/2020)..

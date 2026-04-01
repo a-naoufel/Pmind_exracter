@@ -1,0 +1,12 @@
+PERSON: HENRICUS Andreae de Ghiislingen
+Also known as: Henricus ANDREE de Ghiislingen; Henricus de GHIISLINGEN.
+Description: Médecin.
+Status: Maître.
+Gender: male.
+Active during: %1398-1405%.
+Born in: Alémanie (Souabe : Geislingen)..
+Studied at: Paris (Nation Anglo-allemande) .; Padoue ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Docteur en médecine (Padoue) ;.
+Academic relationships: Son maître est Heynricus de AERNEM pour la licence et pour la maîtrise en ..
+Authored work: '(Prédiction astrologique pour 1405)', composed around ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 18/03/2019..

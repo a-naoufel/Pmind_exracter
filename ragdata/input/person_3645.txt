@@ -1,0 +1,17 @@
+PERSON: GUILLELMUS de Ponte Arce
+Also known as: Guillelmus de PONTEARCE; Guillaume de PONTdeL'ARCHE.
+Description: Évêque de Lisieux.
+Status: Maître.
+Gender: male.
+Active during: %1218-1251%.
+Born in: Normandie (Pont-de-L'Arche ?)..
+Diocese of origin: Diocèse d'Évreux ?.
+Studied at: Paris %:1218-1218%..
+Academic grades obtained: Maître en théologie (Paris) ..
+Ecclesiastical positions held: Évêque de Lisieux %1218-1250%..
+University functions: Paris (Faculté de théologie : Maîtrerégent vers ) ;.
+Authored work: '[Sermon]', composed around ?.
+Authored work: 'Sermo de sanctis Petro et Paulo', composed around ?.
+Authored work: 'Sermo de sancto Augustino', composed around ?.
+Authored work: 'Sermo in synodo', composed around ?.
+Source: MIRABILE, Federico CONTINI :.

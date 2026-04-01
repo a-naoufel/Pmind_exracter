@@ -1,0 +1,13 @@
+PERSON: EUSTASIUS Juvenalis
+Also known as: Eustache JOUVENEL des Ursins.
+Description: Chanoine et Vidame de Reims.
+Status: Étudiant.
+Gender: male.
+Active during: %1460-1483%.
+Studied at: Paris %1464-1465% et %1475-1476% ;; Orléans %1466-1470% ;; Rome ;.
+Academic grades obtained: Étudiant (Paris) ;; Bachelier in utroque ;; Licencié en droit civil (Orléans) ;; Licencié in utroque ;.
+Family relationships: Son père est Michel JOUVENEL des Ursins, bailli de Troyes ; Sa mère est Yolande de MONTBERON ; Son oncle est Jean JOUVENEL des Ursins, archevêque de Reims ;.
+Social origin: Noble ;.
+Ecclesiastical status: Clerc ;.
+Ecclesiastical positions held: Chanoine de Reims %1460-1483% ;; Chanoine de Troyes %1460-1483% ;; Chanoine de Châlons %1466-1483% ;; Chanoine d'Amiens %1475-1483%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 22/04/2023..

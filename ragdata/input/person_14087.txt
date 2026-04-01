@@ -1,0 +1,7 @@
+PERSON: NICOLAUS 17
+Also known as: NICOLAS.
+Description: Barbier parisien..
+Status: Extérieur.
+Gender: male.
+Active during: %1492-1493%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 05/02/2021)..

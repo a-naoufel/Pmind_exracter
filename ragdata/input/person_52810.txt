@@ -1,0 +1,10 @@
+PERSON: X Gnezenocio
+Also known as: Dominus de GNEZENOCIO.
+Description: Prêtre ?.
+Status: Incertain.
+Gender: male.
+Active during: %1387-1387%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical status: Prêtre ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 21/10/2021..

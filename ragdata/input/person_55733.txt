@@ -1,0 +1,11 @@
+PERSON: PASQUERIUS Josset
+Also known as: Pasquier JOSSET.
+Description: Procureur du collège de Fortet.
+Status: Étudiant.
+Gender: male.
+Active during: %1431-1431%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Fortet, procureur %1431-1431% ;.
+Ecclesiastical positions held: Chapelain de Paris (Notre-Dame) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/04/2023)..

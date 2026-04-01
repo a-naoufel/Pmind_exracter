@@ -1,0 +1,12 @@
+PERSON: FIRMINUS Deutart de Abbatisvilla
+Also known as: Firminus DEUTART de Abbatisvilla; Firminus de ABBATISVILLA.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1331-1338%.
+Born in: Picardie (Abbeville ?) ?.
+Diocese of origin: Amiens ?.
+Studied at: Paris (Nation de Picardie ?) ?.
+Academic grades obtained: Maître ès arts (Paris) ?; Étudiant en théologie ?.
+College affiliation: Collège de Sorbonne : ?socius ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 14/03/2020..

@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Bryaval
+Also known as: Guillelmus de BRYAVAL.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1467-1467%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Reims ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 27/11/2020)..

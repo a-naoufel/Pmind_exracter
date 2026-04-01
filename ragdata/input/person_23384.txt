@@ -1,0 +1,10 @@
+PERSON: PETRUS Le Jay
+Also known as: Pierre LEJAY; Petrus LE GAY.
+Description: Avocat au Parlement de Paris.
+Status: Gradué.
+Gender: male.
+Active during: %1402-1430%.
+Studied at: Paris ?.
+Academic grades obtained: Bachelier en décret (Paris ?) ;; Licencié ès lois..
+College affiliation: Collège de Dormans-Beauvais : auditeur des comptes ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

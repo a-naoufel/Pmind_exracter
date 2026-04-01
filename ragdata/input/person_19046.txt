@@ -1,0 +1,24 @@
+PERSON: CONRADUS de Saxonia
+Also known as: Conradus de SAXONIA; Conradus de BRUNOPOLI; Conradus HOLZINGARIUS; Conradus HOLTNICKER.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1235-1279%.
+Born in: Saxe : Braunschweig..
+Studied at: ?Paris (Couvent franciscain);.
+Academic grades obtained: Étudiant en théologie..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Social origin: Noble..
+Religious order: O.F.M. : frère franciscain de la province de Saxe..
+Religious functions: Ministreprovincial de la province (franciscaine) de Saxe %1247-1262% ;; Ministreprovincial de la province (franciscaine) de Saxe %1272-1279% ?.
+Authored work: 'Speculum Beatae Mariae Virginis in angelica salutatione', composed around ?.
+Authored work: 'Commentarius in loca S. Scripturae', composed around ?.
+Authored work: 'Sermones de Festis/Sermones de Commune Sanctorum [22 ou 24 sermons]', composed around ?.
+Authored work: 'Sermones de Sanctis [106 sermons]', composed around ?.
+Authored work: 'Sermones de Sacerdotibus et Prelatis [6 sermons]', composed around ?.
+Authored work: 'Sermones de Dominicalibus Evangeliis et Epistolis [110 sermons]', composed around ?.
+Authored work: 'Quadragesimale [46 sermons]', composed around ?.
+Authored work: 'Sermo in Exaltatione Sancte Crucis', composed around ?.
+Authored work: 'Sermones de Tempore [256 sermons]', composed around ?.
+Authored work: 'Versus Holtnikeri', composed around ?.
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

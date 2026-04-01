@@ -1,0 +1,8 @@
+PERSON: CORNUTUS de Coureyo
+Also known as: Cornutus de COUREYO.
+Description: Chevalier.
+Status: Extérieur.
+Gender: male.
+Active during: %1371-1373%.
+Social origin: Noble : chevalier..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 30/04/2021..

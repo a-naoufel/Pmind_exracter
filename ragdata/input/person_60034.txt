@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Marla
+Also known as: Guillelmus de MARLA.
+Description: Chanoine d’Arras.
+Status: Maître.
+Gender: male.
+Active during: %1400-1422%.
+Studied at: Paris ?.
+Academic grades obtained: Maître ?; Docteur ès lois ;.
+College affiliation: Collège de Dainville : auditeur des comptes %1408-1418% ;.
+Family relationships: Son frère est Henri de MARLE, président au Parlement de Paris ;.
+Ecclesiastical positions held: Doyen de Paris (Saint-Marcel) ;; Chanoine d’Arras ;; Archidiacre d’Ostrevent en la cathédrale d’Arras ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

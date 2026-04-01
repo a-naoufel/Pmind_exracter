@@ -1,0 +1,10 @@
+PERSON: HUGO de Maudetour
+Also known as: Hugo de MAUDETOUR.
+Description: Doyen de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1245-1245%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chantre de Bayeux ;; Doyen de Rouen ;; Personne de Yébleron ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 05/01/2022..

@@ -1,0 +1,13 @@
+PERSON: NICOLAUS de Altomonte
+Also known as: Nicolaus de ALTOMONTE; Nicolas de HAUTMONT; Nicolaus de ROSERIIS; Nicolaus de ROUSERIIS.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1422-1435%.
+Studied at: ?Paris. %1423-1435%.
+Academic grades obtained: Baccalarius sententiarius (Paris) ;; Licencié en théologie (Paris) ;; Docteur en théologie (Paris) (le 20 février) ;.
+College affiliation: Collège Saint-Bernard : régent en théologie..
+Religious order: O.Cist. : moine (cistercien) de l'abbaye de Rosières en ;.
+Religious functions: Abbé de Mortemer en %1428-1431%? (le 26 novembre) ;.
+University functions: Paris (Faculté de Théologie : Lecteur (premier cours) en tant que bachelier sententiaire en (septembre)) ;; Paris (Faculté de Théologie : Lecteur cursor (seconde Lecture) de La Bible à Paris en (novembre) "de gratia facultatis") ;; Paris (Facultédethéologie : maître-régent en %1434-1435%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 9/10/2023)..

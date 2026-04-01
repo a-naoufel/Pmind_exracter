@@ -1,0 +1,9 @@
+PERSON: BERARDUS de Frisia
+Also known as: Beardus de FRISIA; Berardus de FRISIA; Bernardus de FRISIA.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Born in: Frise ?.
+Studied at: Paris %1329-1330%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 13/01/2021)..

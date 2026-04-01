@@ -1,0 +1,10 @@
+PERSON: VINCENTIUS Du Puy
+Also known as: Vincentius du PUY; Vincencius du PUY.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1486-1486%.
+Studied at: Paris %1486-1486%..
+Academic grades obtained: Bachelier en décret (Paris) 27 avril ;.
+Religious order: Frater ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 14/10/2024..

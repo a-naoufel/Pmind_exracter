@@ -1,0 +1,11 @@
+PERSON: STEPHANUS 9
+Also known as: STEPHANUS.
+Description: Chanoine de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1251-1264%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Vicairegénéral de Clermont ;.
+Other ecclesiastical functions: Official de Clermont %1249-1259% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/10/2023..

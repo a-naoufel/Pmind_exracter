@@ -1,0 +1,11 @@
+PERSON: ODO de Senna
+Also known as: Odo de SENNA.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1263-1263%.
+Born in: Italie ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Rouen ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/11/2021..

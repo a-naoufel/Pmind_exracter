@@ -1,0 +1,10 @@
+PERSON: ANTHONIUS de Alice
+Also known as: Antoine des ALEX; Anthonius de ALICE.
+Description: Chanoine de Laon.
+Status: Maître.
+Gender: male.
+Active during: %1308-1350%.
+Studied at: Paris %:1308-1308%.
+Academic grades obtained: Maître ès arts (Paris) ;; Maître en médecine (Paris) ..
+Ecclesiastical positions held: Chanoine de Laon, %1340-1349% ;; Provision pour un canonicat avec expectative de prébende dans l'église de Liège en réponse au rotulus ; mandat à l'archidiacre de Wells, à l'archidiacre de Reims et à Betinus de RIVOLA, chanoine de Laon.; Candidat à un canonicat avec expectative de prébende à Verceil sur le rotulus de la Faculté de Médecine en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; Jean-Philippe Genet, dernière mise à jour 21/09/2020)..

@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Rubroek
+Also known as: Guillaume de RUBROEK.
+Description: Franciscain.
+Status: Extérieur.
+Gender: male.
+Active during: %1250-1270%.
+Born in: Flandre (Rubrouck, près de Cassel ?)..
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.F.M. : frère franciscain de la province de TerreSainte..
+Authored work: 'Itinerarium fratris Guillelmi', composed around ?.
+Source: ARLIMA, Laurent BRUN :.

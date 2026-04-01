@@ -1,0 +1,8 @@
+PERSON: ROBERTUS Pelerin
+Also known as: Robert PÉLERIN.
+Description: Parcheminier.
+Status: Suppôt.
+Gender: male.
+Active during: %1368-1368%.
+Studied at: Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 27/08/2016..

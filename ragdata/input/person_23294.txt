@@ -1,0 +1,19 @@
+PERSON: ALBERICUS de Paris
+Also known as: Magister ALBERICUS; Albéric de PARIS; Albéric du MONT; Aubry de PARIS; Albericus REMENSIS.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1130-1160%.
+Studied at: Paris %1130-1160%..
+Academic grades obtained: École de Sainte-Geneviève ?.
+Academic relationships: Jean de SALISBURY est son élève. Guillaume de TYR est son élève..
+Religious order: O.S.A. : Chanoinerégulier de Paris (Sainte-Geneviève) ?.
+University functions: Paris (magister enseignant sur la Montagne Sainte-Geneviève jusqu'en ).; Bologne (%1136-1142%).; Paris (magister enseignant sur la Montagne Sainte-Geneviève à partir de )..
+Authored work: '(Commentaire sur Porphyre)', composed around ?.
+Authored work: '(Commentaire sur les Praedicamenta)', composed around ?.
+Authored work: '(Commentaire sur les Perihermeneias)', composed around ?.
+Authored work: '(Commentaire sur les Libri Elenchorum)', composed around ?.
+Authored work: '(Commentaire sur les Catégories)', composed around ?.
+Authored work: 'De syllogismo hypothetico', composed around ?.
+Authored work: '("Introductiones Montanae Maiores" : contient des extraits des œuvres de Magister Albericus)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

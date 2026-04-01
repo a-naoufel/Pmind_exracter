@@ -1,0 +1,7 @@
+PERSON: MARTINUS Jeham
+Also known as: Martin JEHAM.
+Description: Opposant du collège d’Autun dans un procès.
+Status: Extérieur.
+Gender: male.
+Active during: %1413-1413%.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

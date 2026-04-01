@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS Segart
+Also known as: Gilles SÉGART.
+Description: Martinet du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1436-1436%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dormans-Beauvais : martinet ;.
+Family relationships: Son parent est peut-être Jacques SÉGART ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 12/05/2020)..

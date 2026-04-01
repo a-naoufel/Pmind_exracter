@@ -1,0 +1,10 @@
+PERSON: ADAM 7
+Also known as: ADAM.
+Description: Chanoine de Sainte-Croix de Liège..
+Status: Maître.
+Gender: male.
+Active during: %1387-1387%.
+Studied at: Paris %:1387-1387% ;; ?Heidelberg..
+Academic grades obtained: Maître ès arts (Paris) ..
+Ecclesiastical positions held: Chanoine de Liège (Sainte-Croix) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 6/11/2016..

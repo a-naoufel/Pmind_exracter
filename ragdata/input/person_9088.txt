@@ -1,0 +1,21 @@
+PERSON: NICOLAUS Botlesham
+Also known as: Nicholas BOTLESHAM.
+Description: Carme.
+Status: Maître.
+Gender: male.
+Active during: %1435-1435%.
+Born in: Angleterre (Ely)..
+Diocese of origin: Diocèse d'Ely ?.
+Studied at: Paris ;; Oxford..
+Academic grades obtained: Bachelier en théologie (Oxford) ;; Docteur en théologie (Paris) ?.
+College affiliation: Collège des Carmes..
+Religious order: O.Carm., frère du couvent (carme) de Cambridge..
+Religious functions: Prieur (Carme) de Cambridge jusqu'à sa mort, ou ..
+University functions: Paris (Couvent des Carmes : 49e Maître des études)..
+Authored work: 'Commentarii Sententiarum', composed around ?.
+Authored work: 'Quaestiones theologicae', composed around ?.
+Authored work: 'Tabulare Studentium', composed around ?.
+Authored work: 'Tabula in Cantica Ridevallis', composed around ?.
+Authored work: 'Conciones', composed around ?.
+Authored work: 'Lecturae', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 15/02/2019..

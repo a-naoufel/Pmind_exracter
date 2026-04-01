@@ -1,0 +1,13 @@
+PERSON: LAURENTIUS Arosiensis de Suecia
+Also known as: Laurentius AROSIENSIS de Suecia; Laurentius Arosiensis de SUECIA; LAURENTIUS Hemmingi.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1344-1348%.
+Born in: Suède (Västerås).
+Studied at: Paris (Nationanglaise), %1344-1348%..
+Academic grades obtained: Bachelier ès arts (P), ;; Licencié ès arts (P), ;; Maître ès arts (P), ..
+Academic relationships: Élève de SUNO Karoli (déterminance), ; Élève de GODFRIDUS Parchim de Greifswald (licence), ; Élève de HALQUINUS Johannis de Swecia (inception), ..
+Ecclesiastical positions held: Curé de Leksand (diocèse de Västerås), 25 février ;; Chanoine de Västerås (cathédrale), ..
+University functions: Procureur de la Nationanglaise, Paris, ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 02/10/2016..

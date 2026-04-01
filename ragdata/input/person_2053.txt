@@ -1,0 +1,14 @@
+PERSON: DURANDUS de Fontibus
+Also known as: Durandus de FONTIBUS.
+Description: Professeur des deux droits.
+Status: Maître.
+Gender: male.
+Active during: %1362-1382%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Bayeux ;.
+Studied at: Paris..
+Academic grades obtained: Licencié en décret ?.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chapelain de Notre-Dame-du-Val, diocèse d'Évreux en ;; Recteur de Ferrières-Haut-Clocher, diocèse d'Évreux en ;; Provision pour un canonicat avec expectative de prébende pour un canonicat à la cathédrale d'Évreux ainsi que pour l'office succentor ;; Chanoine d'Évreux %1362-1382% ;; Provision pour un canonicat avec expectative de prébende dans l'églisecathédrale de Bayeux en : mandat au l'abbé de Paris (Sainte-Geneviève), au doyen d'Avignon (Saint-Agricol) et au chantre de Paris ;; Chanoine et succentor de Bayeux ;; Demande un canonicat avec expectative de prébende à la cathédrale d'Évreux sur un rotulus présenté par LOUIS I, duc d'Anjou et duc de Calabre en ;.
+University functions: Paris (Faculté de Décret : Maîtrerégent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 22/06/2021)..

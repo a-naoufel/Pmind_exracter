@@ -1,0 +1,9 @@
+PERSON: AEGIDIUS Ystier
+Also known as: Gilles YSTIER; Egidius ITHERI.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1397-1401%.
+Studied at: Paris ..
+College affiliation: Boursier au collège de Dormans-Beauvais en %1397-1401%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

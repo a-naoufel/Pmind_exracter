@@ -1,0 +1,11 @@
+PERSON: ROBINUS Le Tardif
+Also known as: Robin LE TARDIF.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1427-1427%.
+Born in: Normandie ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en décret (Paris) en ;.
+Academic relationships: Son maître est Gueroldus BOISSELLI en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/03/2022)..

@@ -1,0 +1,11 @@
+PERSON: CONRADUS Ingolt
+Also known as: Conradus INGOLT.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1464-1464%.
+Born in: Alémanie (Alsace : Haguenau)..
+Diocese of origin: Diocèse de Strasbourg..
+Studied at: Paris (Nation Anglo-allemande) ;; Freiburg ;.
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 7/08/2016..

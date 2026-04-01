@@ -1,0 +1,12 @@
+PERSON: ANDREAS Amrissonis
+Also known as: Andreas AMRISSONIS.
+Description: Étudiant en décret..
+Status: Étudiant.
+Gender: male.
+Active during: %1378-1378%.
+Born in: Viennois..
+Diocese of origin: Diocèse de Vienne..
+Studied at: Paris ..
+Academic grades obtained: Étudiant en décret (Paris) ..
+Ecclesiastical positions held: Prêtre du diocèse de Vienne.; Provision pour un bénéfice à la collation de l'évêque de Lyon accordée en (22 novembre) à l'official de Vienne..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 27/07/2020)..

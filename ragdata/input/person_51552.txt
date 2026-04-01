@@ -1,0 +1,11 @@
+PERSON: MATTHAEUS Berthélemy
+Also known as: Mathieu BERTHÉLEMY.
+Description: Hôte du collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1437-1441%.
+Studied at: Paris %1430-1432%..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dormans-Beauvais : hôte et en %1440-1441% ;.
+Family relationships: Son parent est peut-être Jean BERTHÉLEMY procureur du Collège de Dormans-Beauvais en %1438-1456% ; Son parent est peut-être Guillaume BERTHÉLEMY martinet du Collège de Dormans-Beauvais en %1437-1438% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet 24/11/2020)..

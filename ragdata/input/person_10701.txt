@@ -1,0 +1,9 @@
+PERSON: REMIGIUS 1
+Also known as: REMIGIUS.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1260-1260%.
+Studied at: Paris ..
+Academic grades obtained: Magister (Paris ?) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 03/06/2024..

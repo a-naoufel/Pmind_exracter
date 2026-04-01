@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Kantebrugia
+Also known as: Willelmus de KANTEBRUGIA; William de CAMBRIDGE.
+Description: Maître ès arts..
+Status: Gradué.
+Gender: male.
+Active during: %1333-1333%.
+Born in: Angleterre..
+Studied at: Paris (Nation Anglo-allemande) %1333-1333%..
+Academic grades obtained: Licencié ès arts (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ rédaction : Jean-Philippe Genet, 29/03/2022..

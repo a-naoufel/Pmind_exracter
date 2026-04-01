@@ -1,0 +1,10 @@
+PERSON: ALDEFREDUS
+Also known as: ALDEFREDUS.
+Description: Chanoine de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1195-1215%.
+Studied at: ?.
+Academic grades obtained: Maître.
+Ecclesiastical positions held: Chanoine de Clermont ;; Pénitencier de Clermont %1202-1215% ;; Prieur de Chantouin %1202-1211% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 13/09/2023)..

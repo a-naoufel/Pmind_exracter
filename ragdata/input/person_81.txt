@@ -1,0 +1,11 @@
+PERSON: ADAM de Emelisse
+Also known as: Adam de EMELISSE.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1358-1358%.
+Born in: Pays-Bas/Zélande/Émelisse ?.
+Diocese of origin: Diocèse d'Utrecht ?.
+Studied at: Paris (Nation Anglo-allemande)..
+Academic grades obtained: Étudiant ès arts ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

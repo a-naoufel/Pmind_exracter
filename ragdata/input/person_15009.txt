@@ -1,0 +1,9 @@
+PERSON: HERMANNUS de Vianey
+Also known as: Herman de VIANEY.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1467-1467%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en médecine (Paris)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 06-08-2022..

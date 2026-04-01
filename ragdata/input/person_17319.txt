@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Montibus 2
+Also known as: Guilelmus de MONTIBUS; Guilaume de MONS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1310-1313%.
+Studied at: Paris en ..
+Academic grades obtained: Étudiant (Paris) ?.
+Ecclesiastical positions held: Prêtre..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 04/04/2022..

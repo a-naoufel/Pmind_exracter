@@ -1,0 +1,8 @@
+PERSON: ALANUS 6
+Also known as: ALANUS; ALAIN.
+Description: Notaire..
+Status: Extérieur.
+Gender: male.
+Active during: %1419-1419%.
+Studied at: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Dernière mise à jour, Jean-Philippe Genet 20/05/2020)..

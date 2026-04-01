@@ -1,0 +1,10 @@
+PERSON: STEPHANUS de Crissiaco
+Also known as: Stephanus de CRISSIACO; Etienne de CRISSIACO.
+Description: Étudiant ès arts.
+Status: Étudiant.
+Gender: male.
+Active during: %1367-1367%.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant ès arts (Paris) ..
+College affiliation: Étudiant ès Arts au Collège de Navarre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 16/09/2024..

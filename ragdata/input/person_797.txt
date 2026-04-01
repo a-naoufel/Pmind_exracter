@@ -1,0 +1,9 @@
+PERSON: ANTHONIUS Thevenardi
+Also known as: Antoine THEVENARD.
+Description: Étudiant en médecine.
+Status: Étudiant.
+Gender: male.
+Active during: %1485-1486%.
+Studied at: Paris %1485-1486%.
+Academic grades obtained: Étudiant en médecine (Paris) %1485-1486%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/10/2020)..

@@ -1,0 +1,12 @@
+PERSON: SARDERINUS de Montibus
+Also known as: Sarderinus de MONTIBUS.
+Description: Clerc du diocèse de Bayeux.
+Status: Extérieur.
+Gender: male.
+Active during: %1454-1454%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Bayeux ;.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical status: Clerc du diocèse de Liège ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

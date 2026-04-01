@@ -1,0 +1,11 @@
+PERSON: STEPHANUS Colleau
+Also known as: Stephanus COLLEAU.
+Description: Chanoine de Troyes.
+Status: Maître.
+Gender: male.
+Active during: %1423-1441%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en théologie (Paris) ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Troyes %1423-1441% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 19/05/2023..

@@ -1,0 +1,9 @@
+PERSON: X Blanche
+Also known as: X... BLANCHE.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1419-1419%.
+Studied at: Paris..
+Academic grades obtained: Maître (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/03/2021..

@@ -1,0 +1,12 @@
+PERSON: BARTHOLOMAEUS de Pennis
+Also known as: Bartholomaeus de PENNIS.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1303-1303%.
+Born in: Italie..
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) en ..
+Religious order: O.F.M. : frère franciscain du couvent (franciscain) de Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 12/12/2020..

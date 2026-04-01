@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Benintone
+Also known as: William de BENINTONE.
+Description: Maître.
+Status: Extérieur.
+Gender: male.
+Active during: %1268-1268%.
+Born in: Angleterre..
+Studied at: Oxford ?.
+Academic grades obtained: Magister (Oxford ?) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/12/2019..

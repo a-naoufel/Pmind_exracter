@@ -1,0 +1,10 @@
+PERSON: MICHAEL de Bohain
+Also known as: Michel de BOHAIN.
+Description: Étudiant en médecine.
+Status: Étudiant.
+Gender: male.
+Active during: %1473-1504%.
+Studied at: Paris %1473-1474%..
+Academic grades obtained: Étudiant en médecine (Paris) %1473-1474%..
+Ecclesiastical positions held: Chanoine de Poitiers (Saint-Hilaire-le-Grand) vers ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 25/09/2023..

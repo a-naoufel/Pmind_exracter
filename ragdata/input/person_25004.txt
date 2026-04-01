@@ -1,0 +1,14 @@
+PERSON: HUGO Pilot
+Also known as: Hugues PILOT.
+Description: Chapelain du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1371-1389%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Laon ;.
+Studied at: Paris %1388-1389%..
+Academic grades obtained: Étudiant (Paris) %1388-1389% ;.
+College affiliation: Collège de Dormans-Beauvais : chapelain %1388-1389%..
+Ecclesiastical status: Clerc du diocèse de Laon en ;; Prêtre du diocèse de Laon en ;.
+Ecclesiastical positions held: Chapelain du Collège de Dormans-Beauvais %1388-1389%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 29/10/2019..

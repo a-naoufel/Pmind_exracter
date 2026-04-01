@@ -1,0 +1,11 @@
+PERSON: DROUETUS Hutin
+Also known as: Drouet HUTIN.
+Description: Écolier du collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1373-1379%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris).
+College affiliation: Collège de Dormans-Beauvais : boursier en %1373-1379% ;; Collège de Dormans-Beauvais : clerc de la chapelle en ;.
+Family relationships: Son oncle est Oudard JACQUIER..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet 18/06/2021..

@@ -1,0 +1,10 @@
+PERSON: MARTINUS de Essartis 2
+Also known as: Martinus de ESSARTIS.
+Description: Conseiller du roi.
+Status: Extérieur.
+Gender: male.
+Active during: %1341-1345%.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Sa femme est Nicola de ESSARTIS ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

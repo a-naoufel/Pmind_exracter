@@ -1,0 +1,22 @@
+PERSON: FRANCISCUS Accursius
+Also known as: Francisco ACCURSIUS; Franco ACCORSO.
+Description: Professeur de Bologne.
+Status: Extérieur.
+Gender: male.
+Active during: %1250-1293%.
+Born in: Italie (Bologne)..
+Studied at: Bologne ;.
+Academic grades obtained: Docteur en droit civil (Bologne)..
+Family relationships: Son père est ACCURSIUS, le dernier des glossateurs ; Sa femme (I) est Aichina GUEZZI ; Sa femme (II) est Rengarda ALDIGHIERO ; Son fils est Castellano ACCURSIUS..
+University functions: Bologne (Professeur de droit jusqu'en et de nouveau à partir de ..
+Representation roles: Mission diplomatique à Paris ;; Mission diplomatique à la Curie (Rome) en ..
+Authored work: 'Additiones ad Glosam', composed around ?.
+Authored work: 'Arenga coram domino papa Nicolao III pro rege Angliae in curia Romana', composed around ..
+Authored work: 'Casus Digesti novi', composed around ?.
+Authored work: 'Consilia', composed around ?.
+Authored work: 'Glose extraordinarie', composed around ?.
+Authored work: 'Lectura Institutionum', composed around ?.
+Authored work: 'Quaestiones disputatae', composed around ?.
+Authored work: 'Repetitio de lege «Cum pro eo» (C. 7, 47 un.)', composed around ?.
+Authored work: 'Tractatus de syndicatu', composed around ?.
+Source: MIRABILE : http://www.mirabileweb.it/author/franciscus-accursii-n-1225-m-1293-author/23622.

@@ -1,0 +1,13 @@
+PERSON: STEPHANUS Gebenensis
+Also known as: Stephanus GEBENENSIS; Étienne de GENÈVE.
+Description: Procureur de la Nation de France.
+Status: Maître.
+Gender: male.
+Active during: %1275-1275%.
+Born in: Picardie (Genève) ;.
+Diocese of origin: Diocèse de Laon ;.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+College affiliation: Sorbonne..
+University functions: Paris (Nation de France : procureur en (7 mai)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/02/2024)..

@@ -1,0 +1,13 @@
+PERSON: PETRUS Guilloti
+Also known as: Petrus GUILLOTI.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1453-1519%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse d'Autun ;.
+Studied at: Paris (Nation de France) %1453-1464% au moins..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Maître (Paris) en ?.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Sens (Trésor) %1496-1504% ;; Chanoine de Sens ('Notre-Dame') %1504-1519% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/09/2022..

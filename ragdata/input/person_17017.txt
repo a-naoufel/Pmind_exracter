@@ -1,0 +1,9 @@
+PERSON: ANTHONIUS de Arthusio
+Also known as: Anthonius de ARTHUSIO.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris..
+Academic grades obtained: Maître (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/09/2020)..

@@ -1,0 +1,13 @@
+PERSON: BERLIO Ruphi de Marchiniaco
+Also known as: Berlio RUPHI de Marchiniaco.
+Description: Étudiant ès arts.
+Status: Étudiant.
+Gender: male.
+Active during: %1378-1394%.
+Born in: ComtédeBourgogne ?.
+Diocese of origin: Clerc du diocèse de Belley..
+Studied at: Paris ..
+Academic grades obtained: Étudiant ès arts..
+Ecclesiastical status: Clerc..
+Ecclesiastical positions held: Provision en pour un canonicat avec expectative de prébende de l'églisecathédrale de Belley..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 14/01/2021).

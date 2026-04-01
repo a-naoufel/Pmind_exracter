@@ -1,0 +1,11 @@
+PERSON: RICARDUS de Stanes
+Also known as: Richard STANES.
+Description: Magister.
+Status: Extérieur.
+Gender: male.
+Active during: %1262-1277%.
+Studied at: ?Oxford..
+Academic grades obtained: Magister (Oxford ?) avant ;.
+Ecclesiastical positions held: Recteur de Bocking (Essex) ;.
+Other ecclesiastical functions: Gardien des temporalités de l’évêché de Londres, sede vacante, ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/05/2023..

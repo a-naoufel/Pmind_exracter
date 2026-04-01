@@ -1,0 +1,15 @@
+PERSON: HENRICUS de Fulda
+Also known as: Henricus de FULDA.
+Description: Licencié ès lois.
+Status: Maître.
+Gender: male.
+Active during: %1393-1403%.
+Born in: Hesse ;.
+Diocese of origin: Diocèse de Würzbourg ;.
+Studied at: Paris (Nation Anglo-allemande) %1393-1403% ;.
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en théologie %1396-1403% ;.
+Academic relationships: Son maître est Egidius de JUTFAES pour la maîtrise en ;.
+Ecclesiastical status: Clerc du diocèse de Würzbourg ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Magnus Rotulus de l’Université de Paris daté de (21 octobre) et présenté à BENOÎT XIII parmi les maîtres présents de la Nation Anglo-allemande ;.
+University functions: Paris (Nation Anglo-allemande : il fait partie de ceux qui sont désignés en (2 mai) pour aller examiner les réparations faites à la maison Ad cornum cervi) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 2/01/2019..

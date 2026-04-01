@@ -1,0 +1,15 @@
+PERSON: AEGIDIUS Abbatis
+Also known as: Aegidius ABBATIS; Aegidius ABBE; Aegidius LABBE.
+Description: Maître en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1384-1387%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris (Nation de Normandie) %:1383-1387%..
+Academic grades obtained: Maître ès arts (Paris) ;; Licencié en théologie (Paris) ;; Maître en théologie (Paris) ..
+College affiliation: Collège d'Harcourt : prieur en %1384-1385% ;; Collège d'Harcourt : régent en théologie en ;.
+Ecclesiastical status: Prêtre du diocèse de Rouen ;.
+Ecclesiastical positions held: Curé de l'égliseparoissiale de Sotteville en ;; Candidat à des bénéfices attribués par le pape CLEMENT VII sur un rotulus des maîtresrégents de la Faculté de Théologie de Paris de ..
+University functions: Paris (Faculté de théologie : Maîtrerégent %1384-1387%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol et Anne Tournieroux ; révision, Jean-Philippe Genet, 12/11/2019)..

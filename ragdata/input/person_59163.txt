@@ -1,0 +1,10 @@
+PERSON: SIMON 4
+Also known as: SIMON.
+Description: Chanoine d'Auxerre.
+Status: Incertain.
+Gender: male.
+Active during: %1221-1233%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d'Auxerre; Archidiacre du Tonnerrois en la cathédrale de Langres %1221-1230% ;; Archidiacre du Langrois en la cathédrale de Langres %1230-1231% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 20/06/2025)..

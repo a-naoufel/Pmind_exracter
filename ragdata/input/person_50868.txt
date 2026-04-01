@@ -1,0 +1,15 @@
+PERSON: GILBERTUS de Glanville
+Also known as: Gilbert de GLANVILLE.
+Description: Évêque de Rochester.
+Status: Maître.
+Gender: male.
+Active during: %1164-1214%.
+Born in: Angleterre ?.
+Studied at: Paris ;; Bologne ?.
+Academic grades obtained: Magister ;.
+Family relationships: Son parent est peut-être Ranulph de GLANVILLE..
+Academic relationships: Son maître est Gérard PUCELLE à Paris..
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Archidiacre de Lisieux ;; Évêque de Rochester %1185-1214% ;.
+Representation roles: Envoyé de Thomas BECKET à la Curie à Rome en ;; Envoyé par HENRI II, roi d’Angleterre auprès de PHILIPPE-AUGUSTE, roi de France en ;; Il participe à la conférence de LaFerté-Bernard en ..
+Source: TURNER (R.), The English judiciary in the age of Glanvill and Bracton, c.1176–1239, Cambridge, 2008 ;.

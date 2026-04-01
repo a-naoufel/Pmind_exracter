@@ -1,0 +1,8 @@
+PERSON: MARINUS de Trosnyer
+Also known as: Marin de TROSNYER.
+Description: Maître barbier chirurgien à Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1508-1508%.
+Studied at: Paris..
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

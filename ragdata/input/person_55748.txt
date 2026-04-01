@@ -1,0 +1,10 @@
+PERSON: ANTHONIUS de Manso 2
+Also known as: Antoine de MANSO.
+Description: Boursier du collège de Fortet.
+Status: Étudiant.
+Gender: male.
+Active during: %1512-1512%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège de Fortet, boursier ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023..

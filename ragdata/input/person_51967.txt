@@ -1,0 +1,11 @@
+PERSON: CL. Lois
+Also known as: Cl. LOIS.
+Description: Val des Écoliers.
+Status: Étudiant.
+Gender: male.
+Active during: %1461-1461%.
+Studied at: Paris..
+Academic grades obtained: Étudiant ès arts (Paris)..
+College affiliation: Collège de Navarre : étudiant en ;; Sainte-Catherine..
+Religious order: O.S.A. (ValdesÉcoliers) ;.
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, dernière mise à jour 25/02/2021..

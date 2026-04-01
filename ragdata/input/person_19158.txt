@@ -1,0 +1,13 @@
+PERSON: BALDUINUS de Barra
+Also known as: Balduinus de BARRA; Baudetus de BARRA; Baudouin de LABARRE; Baudet de LABARRE.
+Description: Écolier du collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1373-1379%.
+Born in: Picardie.
+Diocese of origin: Diocèse de Beauvais..
+Studied at: Paris ;; Orléans ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dormans-Beauvais : procureur-boursier en %1391-1393% ;.
+Ecclesiastical positions held: Prêtre .; Chapelain de Tricot (diocèse de Beauvais) en 1394% ;; Curé de Doudeauville (diocèse d'Orléans) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 28/11/2020)..

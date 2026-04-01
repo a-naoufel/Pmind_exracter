@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Boere
+Also known as: Guillelmus BOERE.
+Description: Chanoine d'Autun.
+Status: Incertain.
+Gender: male.
+Active during: %1279-1288%.
+Studied at: ?.
+Academic grades obtained: Maître..
+Ecclesiastical positions held: Chanoine d'Autun %1279-1288% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/02/2022..

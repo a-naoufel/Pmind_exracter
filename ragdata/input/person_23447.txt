@@ -1,0 +1,11 @@
+PERSON: ANDRONICUS Kontoblakas
+Also known as: Andronicos KONTOBLAKAS; Andronic CONTOBLAS.
+Description: Professeur de grec.
+Status: Maître.
+Gender: male.
+Active during: %1472-1488%.
+Born in: Grèce..
+Studied at: Bologne ;; Paris ;; Bâle %1474-1488%..
+Academic relationships: Son élève est Guillaume FICHET à Paris en ; Son élève est Johannes REUCHLIN à Basel en %1474-1488%..
+University functions: Bologne (professeur de grec ) ;; Paris (professeur de grec ) ;; Bologne (professeur de grec %1474-1488%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 3/09/2020)..

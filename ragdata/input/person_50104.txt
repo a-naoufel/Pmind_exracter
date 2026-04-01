@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Pointona
+Also known as: Guillelmus de POINTONA; Guillelmus de PONTON.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1342-1343%.
+Studied at: Paris %1342-1343%..
+Academic grades obtained: ?.
+Family relationships: Son parent est peut-être Johannes de POINTONA ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 15/11/2019..

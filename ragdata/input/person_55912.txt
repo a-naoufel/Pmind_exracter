@@ -1,0 +1,13 @@
+PERSON: AEGIDIUS de Pruvino
+Also known as: Gilo de PRUVINO.
+Description: Chanoine de Troyes.
+Status: Incertain.
+Gender: male.
+Active during: %1226-1226%.
+Born in: Champagne (Provins) ?.
+Diocese of origin: Diocèse de Sens ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Troyes ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 03/05/2023..

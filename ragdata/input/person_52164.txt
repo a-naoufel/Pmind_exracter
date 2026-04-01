@@ -1,0 +1,13 @@
+PERSON: ROBERTUS de Sancto Pharone
+Also known as: Robertus de SANCTO PHARONE.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1303-1303%.
+Born in: Île-de-France (Saint-Faron) ?.
+Diocese of origin: Diocèse de Meaux ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) ;.
+Religious order: O.F.M. : frère franciscain..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/04/2021)..

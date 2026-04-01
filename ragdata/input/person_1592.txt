@@ -1,0 +1,12 @@
+PERSON: CAROLUS de Templo
+Also known as: Carolus de TEMPLO; Charles du TEMPLE.
+Description: Boursier grammairien au Collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1372-1384%.
+Studied at: Paris (Collège de Navarre), %1372-1372%..
+Academic grades obtained: Étudiant en grammaire (Paris) ..
+College affiliation: Hôte du Collège de Dormans à Paris, ;; Boursier grammairien au Collège de Navarre à Paris en ..
+Family relationships: Son père est Raymond du TEMPLE, architecte du roi..
+Ecclesiastical positions held: ?Reçoit un canonicat avec réserve de prébende en juin ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/03/2021)..

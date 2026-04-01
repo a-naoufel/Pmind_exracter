@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Bothewald
+Also known as: William BOTHEWALD.
+Description: Chanoine Augustin.
+Status: Extérieur.
+Gender: male.
+Active during: %1197-1209%.
+Born in: Angleterre..
+Studied at: Oxford ?.
+Academic grades obtained: Magister (Oxford) ?.
+Religious order: O.S.A. : chanoine Augustin?.
+Religious functions: Sous-prieur (Augustin) d'Oxford (Saint-Frideswide) %1197-1209%..
+Authored work: 'Invectio', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/02/2022.

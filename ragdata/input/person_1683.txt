@@ -1,0 +1,11 @@
+PERSON: CLEMENS 4
+Also known as: CLEMENT.
+Description: Prêtre de Issiaco.
+Status: Incertain.
+Gender: male.
+Active during: %1282-1282%.
+Studied at: ?Paris en ..
+Academic grades obtained: ?.
+Ecclesiastical status: Prêtre..
+Ecclesiastical positions held: Prêtre de Issiaco (Issy ?)..
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction, Jean-Philippe Genet, 15/04/2021..

@@ -1,0 +1,10 @@
+PERSON: PETRUS Starc
+Also known as: Petrus STARC.
+Description: Hôte de la Sorbonne.
+Status: Maître.
+Gender: male.
+Active during: %1471-1471%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Maître (Paris)..
+College affiliation: Sorbonne : hôtr reçu en (3 août) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 08/07/2024..

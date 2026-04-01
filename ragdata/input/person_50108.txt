@@ -1,0 +1,11 @@
+PERSON: HAIMERICUS de Dormans
+Also known as: Aimery de DORMANS.
+Description: Écolier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1379-1407%.
+Studied at: Paris %1379-1385%..
+Academic grades obtained: Étudiant (Paris) %1379-1385% ;.
+College affiliation: Collège de Dormans-Beauvais : boursier %1379-1385% ;.
+Family relationships: Son parent est Jean de DORMANS ; Son père est Pierre II de DORMANS ; Son cousin est Pierre TARTIER ; Son parent est Thomas TARTIER ; Son parent est Geoffroy de DORMANS ; Son parent est Geoffroy TARTIER ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 05/09/2019..

@@ -1,0 +1,38 @@
+PERSON: GUIDO Faba
+Also known as: Gui FABA; Guido FAVA.
+Description: Professeur de rhétorique.
+Status: Extérieur.
+Gender: male.
+Active during: %1210-1245%.
+Born in: Italie/Émilie-Romagne (Bologne)..
+Diocese of origin: Diocèse de Bologne ?.
+Studied at: Bologne..
+Academic grades obtained: Magister (Bologne) ..
+Family relationships: Son père est Niccolo FABA, notaire..
+Ecclesiastical status: Prêtre..
+Ecclesiastical positions held: Chapelain de Bologne (San Michele di Mercato di Mezzo)..
+Other ecclesiastical functions: Juge-délégué pontifical ?.
+University functions: Bologne (professeur de dictamen et de rhétoriqueenseignant %1223-1240%) ;.
+Authored work: 'Summa de vitiis et virtutibus', composed around ?.
+Authored work: 'Rota nova', composed around %1225-1226%..
+Authored work: 'Litterae styli saecularis', composed around ?.
+Authored work: 'Litterae prosaici dictaminis stili ecclesiastici', composed around ?.
+Authored work: 'Dictamina rhetoricae', composed around %1226-1227%..
+Authored work: 'Summa dictaminis', composed around %1228-1229%., dedicated to Dédié à Aliprando FAVA, podestat de Bologne en ..
+Authored work: 'Summula dictaminis', composed around ?.
+Authored work: 'Gemma purpurea', composed around %1239-1248%..
+Authored work: 'Epistolae', composed around %1239-1241..
+Authored work: 'Libelli ecclesiastici', composed around %1226-1234..
+Authored work: 'Proverbia', composed around ?.
+Authored work: 'Littera quam magister Guido Sancti Michaelis Bononie misit scolaribus in suo principio, et lecta fuit per omnes scolas', composed around ?.
+Authored work: 'Littera carnisprivii contra quadragesimam adversariam suam. Invectiva quadragesimae contra carnisprivium inimicum suum', composed around ?.
+Authored work: 'Invectiva magistri contra scolares maliciosos', composed around ?.
+Authored work: 'Exordia', composed around ?.
+Authored work: 'Epistolae', composed around %1239-1241..
+Authored work: 'Petitiones', composed around ?.
+Authored work: 'Parlamenta et epistolae', composed around %1242-1243%..
+Authored work: 'Arengae', composed around ..
+Authored work: 'Ars metrica', composed around ?.
+Authored work: 'De arte conscribendi epistolas', composed around ?.
+Authored work: 'Doctrina ad formandas materias', composed around ?.
+Source: MIRABILE :.

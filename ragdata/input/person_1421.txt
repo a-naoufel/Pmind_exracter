@@ -1,0 +1,14 @@
+PERSON: BERNARDUS de Pisis
+Also known as: Bernardus de PISIS; Bernardus de PACTERIO.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1352-1352%.
+Born in: Italie (Toscane : Pise ?).
+Diocese of origin: Diocèse de Pise..
+Studied at: Paris..
+Academic grades obtained: Bachelier en théologie (Paris ?) ?; Maître en théologie (Paris) ?.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) %1351-1352%..
+Religious order: O.F.M. : frère franciscain de la province de Tuscie..
+University functions: Lecteur des Sentences au couvent franciscain vers ?)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 2/02/2021)..

@@ -1,0 +1,21 @@
+PERSON: RICARDUS Poor
+Also known as: Richard POOR; Richard POORE; Richard LEPOER.
+Description: Évêque de Durham.
+Status: Maître.
+Gender: male.
+Active during: %1180-1237%.
+Born in: Angleterre ;.
+Studied at: Paris vers puis en %1208-1214%..
+Academic grades obtained: Magister..
+Family relationships: Son père est sans doute Richard de ILCHESTER, évêque de Winchester ; Son frère est Herbert LEPOER, évêque de Salisbury..
+Academic relationships: Son maître est Stephen LANGTON à la fin du XIIe siècle à Paris..
+Social origin: Illégitime..
+Ecclesiastical positions held: Doyen de Salisbury %1198-1215% ;; Évêque de Chichester %1215-1217% ;; Évêque de Salisbury %1217-1228% ;; Évêque de Durham %1228-1237%..
+University functions: Paris (Maître-régent en théologie en )..
+Authored work: '(Commentaire sur Baruch)', composed around ?.
+Authored work: 'Consuetudinarium', composed around ?.
+Authored work: 'Ordinale', composed around ?.
+Authored work: 'Litterae ad instruendum clericum in minoribus existentesm et infra legitimum aetatem', composed around ?.
+Authored work: 'Sermo ‘Ad Hebreos IX, Christus assistens pontifex futurorum bonorum introiuit semel in sancta', composed around %1208-1213% aux Jacobins s’il a été prêché par Richard POORE..
+Authored work: 'Summa de sacramentis', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/01/2021..

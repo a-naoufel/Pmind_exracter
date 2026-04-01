@@ -1,0 +1,10 @@
+PERSON: HENRICUS Minart
+Also known as: Henricus MINART; Henricus MINNAERT.
+Description: Étudiant en théologie.
+Status: Étudiant.
+Gender: male.
+Active during: %1428-1429%.
+Studied at: Paris %1428-1429%..
+Academic grades obtained: Étudiant en théologie en %1428-1429% ;.
+College affiliation: Sorbonne : socius ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 29/11/2020)..

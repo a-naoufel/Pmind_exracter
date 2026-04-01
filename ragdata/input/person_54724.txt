@@ -1,0 +1,13 @@
+PERSON: MARTINUS Du Bellay
+Also known as: Martinus DU BELLAY.
+Description: Chanoine de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1465-1510%.
+Born in: Anjou..
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son oncle est Jean DU BELLAY, évêque de Poitiers ; Son frère est René DU BELLAY, chanoine de Poitiers ;.
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine de Poitiers (Saint-Hilaire) %1465-1468% ;; Chanoine de Poitiers %1468-1497% ;; Chantre de Poitiers %1475-1510% ;; Archiprêtre de Montmorillon %1477-1479% ;; Chanoine de Paris %1498-1505% ;; Prieur de Thouars (Saint-Michel) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 28/11/2022..

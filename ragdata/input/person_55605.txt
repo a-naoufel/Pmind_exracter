@@ -1,0 +1,10 @@
+PERSON: THEODERICUS de Erlebach
+Also known as: Theodericus de ERLEBACH.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1336-1336%.
+Born in: Saxe (Thuringe : Erlebach ?) ?.
+Studied at: Paris.
+Academic grades obtained: Étudiant (Paris) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Projet ORESM. Dépouillements de Louise Gousseau 28/03/2023)..

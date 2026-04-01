@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Venaco
+Also known as: Guillelmus de VENACO; Guillaume de VENACO; Guillaume de VENATO.
+Description: Maître en médecine à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1322-1331%.
+Studied at: Paris %:1322-1328%..
+Academic grades obtained: Maître en médecine (Paris) ..
+Ecclesiastical positions held: Chanoine d'Aire-sur-la-Lys (Saint-Pierre) %1322-1328% ;; Curé d'Enquin ;; Chapelain d'Ardres (Maison-Dieu) ;; Provision pour un canonicat avec expectative de prébende de Bourges (Saint-Ursin) en répone au rotulus de l’Université de Paris en : mandat à l’abbé (O.S.A.) de Paris (Sainte-Geneviève), à l’archidiacre de Bourges et à l’écolâtre de Toul ;; Candidat à un bénéfice à la collation de l'Abbé de Fécamp, ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 05/06/2020..

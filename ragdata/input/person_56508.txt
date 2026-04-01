@@ -1,0 +1,12 @@
+PERSON: RADULPHUS de Monte Desiderio
+Also known as: Radulphus de MONTE DESIDERIO; Raoul de MONTDIDIER.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1248-1248%.
+Born in: Picardie (Montdidier ?) ?.
+Diocese of origin: Diocèse d'Amiens ?.
+Studied at: Paris ..
+Academic grades obtained: Maître en théologie (Paris) ;.
+University functions: Paris (Maître-régent en théologie en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 6/08/2017).

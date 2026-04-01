@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Maleisie
+Also known as: Guillermus de MALEISIE.
+Description: Etudiant ?.
+Status: Incertain.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+Family relationships: Son parent est peut-être Magister Petrus MALEISIE ; Son parent est peut-être Johannes MALEISIE ; Son parent est peut-être Enguerrandus MALEISIE ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/08/2015..

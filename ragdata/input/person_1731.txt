@@ -1,0 +1,13 @@
+PERSON: CONRADUS de Querfurt
+Also known as: Conrad de QUERFURT.
+Description: Évêque de Würzburg.
+Status: Étudiant.
+Gender: male.
+Active during: %1182-1202%.
+Born in: Saxe (?Magdebourg)..
+Studied at: ?Paris.
+Academic grades obtained: Étudiant (Paris) ?.
+Family relationships: Son père est le burgrave de Magdebourg..
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine de Magdebourg %1182- %.; Prévôt de Goslar %1188- % ;; Prévôt de Magdebourg %1190- % ;; Prévôt d'Aix-la-Chapelle %1193- %.; Évêque d'Hildesheim %1194-1199% ;; Évêque de Würzbug %1197-1199% et %1201-1202% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 25/04/2021..

@@ -1,0 +1,10 @@
+PERSON: SIMON Clerici 2
+Also known as: Simon CLERICI; Simon LECLERC.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1452-1462%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Reims %1452-1462% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 04/06/2021..

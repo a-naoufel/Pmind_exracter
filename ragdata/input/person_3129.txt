@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS de Moreto
+Also known as: Aegidius de MORETO; Gilles de MORET.
+Description: Boursier grammairien au Collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1315-1329%.
+Born in: ?Champagne..
+Studied at: Paris (Collège de Navarre) %1315-1315%..
+Academic grades obtained: Étudiant en grammaire (Paris) ..
+College affiliation: Boursier grammairien au Collège de Navarre à Paris en ..
+University functions: Paris (Collège de Navarre : sous-maître des grammairiens en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 29/04/2020)..

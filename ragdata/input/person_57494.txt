@@ -1,0 +1,10 @@
+PERSON: PETRUS 3
+Also known as: PETRUS.
+Description: Chapelain du comte de Dreux.
+Status: Extérieur.
+Gender: male.
+Active during: %1198-1198%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chapelain ROBERT II, comte de Dreux ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 19/02/2024)..

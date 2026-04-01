@@ -1,0 +1,10 @@
+PERSON: ELIAS Prestic 2
+Also known as: Helias PRESTIC.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1448-1448%.
+Studied at: ?Paris.
+Academic grades obtained: ?.
+University functions: Paris (Université : libraire ?)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 13/07/2021..

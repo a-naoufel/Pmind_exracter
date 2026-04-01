@@ -1,0 +1,8 @@
+PERSON: ADAM Scotrelman
+Also known as: Adam SCOTRELMAN.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1385-1385%.
+Studied at: Paris ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/04/2020)..

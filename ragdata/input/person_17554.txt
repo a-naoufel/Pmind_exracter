@@ -1,0 +1,9 @@
+PERSON: CLEMENS de Latisserie
+Also known as: Clemens de LATISSERIE; Clemens de LATAXERIE.
+Description: Nonce pour le diocèse de Mende.
+Status: Suppôt.
+Gender: male.
+Active during: %1445-1449%.
+Studied at: Paris (Nation de France) ..
+University functions: Paris (Nation de France) : nonce pour le diocèse de Narbonne ?; Paris (Nation de France) : nonce pour le diocèse de Mende (10 Janvier)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 18/04/2021..

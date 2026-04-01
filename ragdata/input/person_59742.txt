@@ -1,0 +1,11 @@
+PERSON: THEODERICUS de Riin
+Also known as: Theodoricus de RIIN.
+Description: Bachelier ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1467-1467%.
+Born in: Pays-Bas ? ;.
+Diocese of origin: Diocèse de Utrecht ;.
+Studied at: Paris (Nation Anglo-allemande) ;.
+Academic grades obtained: Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Source: RAG ;.

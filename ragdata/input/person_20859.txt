@@ -1,0 +1,13 @@
+PERSON: Scolaris de Insula
+Also known as: Scolaris de INSULA.
+Description: Cistercien.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Born in: Lorraine ?.
+Diocese of origin: Diocèse de Toul ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+College affiliation: Collège des Bernardins ;.
+Religious order: O. Cist. : abbaye (cistercienne) de Lisle-en-Barrois (diocèse de Toul) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 30/08/2016..

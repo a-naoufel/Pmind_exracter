@@ -1,0 +1,20 @@
+PERSON: ALBERTUS de Chiavari
+Also known as: Albert de CHIAVARI; Albertus JANUENSIS; Albert de GENES.
+Description: Dominicain.
+Status: Gradué.
+Gender: male.
+Active during: %1275-1300%.
+Born in: Italie (Ligurie (Chiavari))..
+Studied at: Paris (Couvent (dominicain) de Saint-Jacques))..
+Academic grades obtained: Bachelier en théologie (Paris) ?.
+Social origin: Noble..
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Gênes..
+Religious functions: Maîtregénéral des Dominicains en ..
+Authored work: '(Commentaires sur les quatre livres des Sentences)', composed around ?.
+Authored work: '(Postilles sur les Psaumes)', composed around ?.
+Authored work: '(Super Porphyrium)', composed around ?.
+Authored work: '(Super Praedicamenta)', composed around ?.
+Authored work: '(Super Peryermenias)', composed around ?.
+Authored work: '(Super sex principia)', composed around ?.
+Authored work: 'Epistola ad universum ordinem encyclica', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

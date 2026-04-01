@@ -1,0 +1,58 @@
+PERSON: DURANDUS de Sancto Porciano
+Also known as: Durandus de SANCTO PORCIANO; Durand de SAINT-POURCAIN.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1300-1334%.
+Born in: Auvergne (Bourbonnais : Saint-PourçainsurSioule ?)..
+Diocese of origin: Diocèse de Clermont ?.
+Studied at: Paris à partir de au moins..
+Academic grades obtained: Maître en théologie (Paris) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins) en ..
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Clermont-Ferrand ..
+Ecclesiastical positions held: Évêque de Limoux %1317-1318% ;; Évêque du Puy %1318-1326% ;; Évêque de Meaux %1326-1334%..
+University functions: Paris (Faculté de Théologie : Lecteur des Sentences au Couvent dominicain en %1307-1308%) ;; Avignon (Curie, lecteur en de Théologie )..
+Representation roles: Diplomate, il réussit à obtenir pour le compte du Pape JEAN XXII un accord entre Béraud de MERCOEUR et Hugues de CHALON-ARLAY..
+Authored work: 'In lib. Sententiarium Comm.', composed around %1307-1308% etc....
+Authored work: 'Additiones in Im Sententiarium', composed around %1308-1310%..
+Authored work: '(Utrum intelligere sit aliquid additum intellectui)', composed around (Durand opponens)..
+Authored work: 'De libero arbitrio quaest. 3', composed around ?.
+Authored work: '(Quaestio (IIa)Vesperiarum)', composed around ..
+Authored work: '(Quaestio (IIIa) in Aula )', composed around ..
+Authored work: '(Quaestio magistrorum in aula)', composed around ..
+Authored work: '(Qu. (IIa) vesperiarum resumpta)', composed around ..
+Authored work: '(Qu. IIIa in Aula resumpta)', composed around ..
+Authored work: 'Quodlibet I', composed around à Paris..
+Authored work: 'Quodlibet II', composed around %1312-1313% à Paris..
+Authored work: 'Quodlibet III (18 quaest.)', composed around à Avignon..
+Authored work: 'Quodlibet IV (11 quaest.)', composed around à Avignon..
+Authored work: 'Quodlibet V (11 quaest.)', composed around à Avignon..
+Authored work: '(Consultation des 13 Maîtres sur les quatres articles)', composed around ..
+Authored work: '(Censure des 51 articles de Guillaume Occam)', composed around .
+Authored work: 'De visione Dei quam habent animae sanctorum ante judicium generale', composed around .
+Authored work: '(Sermons : In Annuntiatione Domini)', composed around %1310-1312%.
+Authored work: '(Sermons : In Annuntiatione Domini)', composed around ?.
+Authored work: '(Sermons : In Assumptione beatae Maria)', composed around %1310-1312%.
+Authored work: '(Sermons : In Assumptione)', composed around %1310-1312%.
+Authored work: '(Sermons : In Nativitate B. V.)', composed around %1310-1312%.
+Authored work: '(Sermons : In Nativitate B. V.)', composed around %1310-1312%.
+Authored work: '(Sermo in Quinquagesima)', composed around %1310-1312%..
+Authored work: '(Sermo et Collatio : Dominica IIIa Quadragesimae)', composed around %1310-1312%..
+Authored work: '(Sermons : Dominica post Pascha)', composed around %1310-1312%..
+Authored work: '(Sermons : Dominica XXa post Trinitatem)', composed around %1310-1312%..
+Authored work: '(Sermo Dominica XXIa post Trinitatem)', composed around .
+Authored work: '(Sermo et collatio Dom. XXIII p. Trin.)', composed around .
+Authored work: 'Excusationes', composed around ..
+Authored work: 'Quaestiones theologicae', composed around ?.
+Authored work: 'Tractatus de univocis, aequivocis et analogis', composed around ?.
+Authored work: 'Quaestio disputata "Utrum in intellectu"', composed around ?.
+Authored work: '(Utrum duo habitus possint causare effectum)', composed around ? (Durand respondens)..
+Authored work: 'De habitibus (quaest. 5)', composed around %1312-1317%..
+Authored work: 'Votum de dissolubilitate matrimonii non consummati per susceptionem ordinis sacri', composed around ..
+Authored work: 'Regulae celebrationis missae', composed around ?.
+Authored work: 'Statuta synodi dioces. Aniciens.', composed around ..
+Authored work: '(Votum de paupertate Christi et apostolorum)', composed around à Avignon..
+Authored work: 'De origine potestatum et jurisdictionum quibus populus regitur', composed around à l'Assemblée de Vincennes..
+Authored work: 'Adnotationes in Evangelium'.
+Authored work: 'Super Epp. Pauli'.
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

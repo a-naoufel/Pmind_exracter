@@ -1,0 +1,12 @@
+PERSON: RADULPHUS de La Bruiere
+Also known as: Radulphus de la BRUIERE.
+Description: Recteur d'Écrainville.
+Status: Maître.
+Gender: male.
+Active during: %1279-1279%.
+Born in: Normandie ?.
+Studied at: Paris.
+Academic grades obtained: Magister.
+College affiliation: Collège du Trésorier ;.
+Ecclesiastical positions held: Recteur de Escreinville, aujourd'hui Écrainville, dans le Pays de Caux en.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 05/04/2024..

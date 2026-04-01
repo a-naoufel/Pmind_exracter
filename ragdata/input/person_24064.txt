@@ -1,0 +1,11 @@
+PERSON: GALFREDUS Bouillé
+Also known as: Geoffroy BOUILLÉ.
+Description: Chapelain du Collège de Dormans-Beauvais.
+Status: Maître.
+Gender: male.
+Active during: %1421-1437%.
+Studied at: Paris %1385-1386%..
+Academic grades obtained: Maître ès arts (Paris) ..
+College affiliation: Collège de Presles : maître ;; Collège de Dormans-Beauvais : chapelain en %1421-1437% ;.
+Family relationships: Son neveu est Guillaume BOUILLÉ, maître du Collège de Dormans-Beauvais ;.
+Ecclesiastical positions held: Prêtre ;; Chapelain de Paris (Collège de Dormans-Beauvais) %1385-1386% ;.

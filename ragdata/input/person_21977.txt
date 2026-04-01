@@ -1,0 +1,11 @@
+PERSON: VITALIS Beaublé
+Also known as: Vital BEAUBLÉ.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1405-1406%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) %1405-1406%..
+College affiliation: Collège de Dormans-Beauvais : boursier %1405-1406% ;.
+Family relationships: Son oncle est Pierre BEAUBLÉ, évêque de Sées ;.
+Source: LAMOP : Opération Charles VI n° 2500 :.

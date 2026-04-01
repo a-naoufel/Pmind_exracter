@@ -1,0 +1,13 @@
+PERSON: HUGO de Pomeriis
+Also known as: Hugo de POMERIIS.
+Description: Chanoine de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1342-1360%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse de Saint-Flour ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Prieur de Pont (diocèse de Rodez) ;; Chanoine de Comines (Saint-Pierre) %1342-1348% ;; Chanoine de Cambrai %1343-1345% ;; Chanoine de Cahors %1343-1345% ;; Chanoine de Chartres %1344-1354% ;; Chanoine de Lille (Saint-Pierre) ;; Chanoine de Paris (Saint-Honoré) %1342-1348% ;; Chanoine de Narbonne %1350-1360% ;.
+Other ecclesiastical functions: Vicairegénéral de Cambrai %1343-1344% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 04/01/2026..

@@ -1,0 +1,11 @@
+PERSON: ROGISIUS
+Also known as: ROGISIUS.
+Description: Chanoine du Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1192-1213%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de LeMans %1192-1213% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/08/2023)..

@@ -1,0 +1,74 @@
+PERSON: STEPHANUS Langton
+Also known as: Stephen LANGTON; Etienne LANGTON.
+Description: Archevêque de Canterbury.
+Status: Maître.
+Gender: male.
+Active during: %1175-1228%.
+Born in: Angleterre (Lincolnshire (Langton-by-Wragby))..
+Diocese of origin: Diocèse de Canterbury..
+Studied at: Paris %:1180-1200%..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Maître en théologie (Paris) ..
+Family relationships: Son père est Henri LANGTON, "country gentleman of modest standing in Lincolnshire", qui possède un manoir ; Son frère cadet est SIMON, Archidiacre..
+Social origin: Noblesse (gentry)..
+Ecclesiastical positions held: Chanoine de Notre-Dame de (Paris) en ;; Chanoine de York ? ;; Cardinal (au titre de Saint-Chrysogone) ;; Archevêque de Canterbury %1207-1228%..
+University functions: Maîtrerégent de la Faculté des Arts à Paris ;; Maître en Théologie à Paris %1180-1206% ;.
+Authored work: 'Postille super Bibliotecam : In Pentateuchum', composed around ?%1180-1185%..
+Authored work: 'Postille super Bibliotecam : In libros historicos', composed around ?.
+Authored work: 'Postillae in Prophetas', composed around %1203-1206%..
+Authored work: 'Postillae in XII Prophetas minores', composed around .
+Authored work: 'Postillae in Libros Sapientiales', composed around ?.
+Authored work: '(Commentaire sur les Psaumes)', composed around ?.
+Authored work: 'Postilla in Mattheum...', composed around ?.
+Authored work: 'Postilla in Marcum', composed around ?.
+Authored work: 'Postilla in Lucam', composed around ?.
+Authored work: 'Postilla in Joannem', composed around ?.
+Authored work: 'Glossa in Magnam Glossaturam', composed around %1200-1203%.
+Authored work: 'Postillae (abbreviatae) in Rom. et Cor.', composed around ?.
+Authored work: 'Glossa in septem epistolas canonicas', composed around ?.
+Authored work: 'Introitus in Actus Apostolorum', composed around ?.
+Authored work: 'Commentarium in Apocalypsim', composed around ?.
+Authored work: 'Concordia utriusque testamenti', composed around ?.
+Authored work: 'Expositio super orationem dominicam', composed around ?.
+Authored work: 'Commentarium in Ave Maris Stella', composed around ?.
+Authored work: 'Commentarius in Sententias', composed around ?.
+Authored work: 'Prologus generalitatum', composed around ?.
+Authored work: 'Diffinitiones morales', composed around ?.
+Authored work: 'Generalitates', composed around ?.
+Authored work: 'Summa', composed around ?.
+Authored work: 'Quaestiones theologicae', composed around ?.
+Authored work: 'Distinctiones', composed around ?.
+Authored work: 'Conflictus vitiorum et virtutum', composed around ?.
+Authored work: 'Summa de vitiis et virtutibus', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Similitudinarium', composed around ?.
+Authored work: 'De poenitentia sub persona Magdalenae', composed around ?.
+Authored work: 'De benedictionibus et maledictionibus in monte Ebal', composed around ?.
+Authored work: 'De benedictionibus et maledictionibus in monte Ebal', composed around ?.
+Authored work: 'Stertimus indomitum quod dispandare', composed around ?.
+Authored work: 'Hexameron carmine heroico', composed around ?.
+Authored work: 'Psalterium Mariae', composed around ?.
+Authored work: '[Hymne : Veni Sancte Spiritus]', composed around ?.
+Authored work: 'Veni creator spiritus', composed around ?.
+Authored work: 'Ars de computo', composed around ?.
+Authored work: 'Constitutiones primae', composed around ?.
+Authored work: 'De iure decimarum', composed around ?.
+Authored work: 'De decimis', composed around ?.
+Authored work: 'Constitutiones', composed around , Concile d'Oxford..
+Authored work: 'Statuta legenda', composed around ?.
+Authored work: 'Epistolae', composed around ?.
+Authored work: '[Aux suffragants de Canterbury]', composed around ?.
+Authored work: 'Glossa in Historiam Scholasticam I', composed around Avant ;.
+Authored work: 'Glossa in Historiam Scholasticam II', composed around ;.
+Authored work: 'Historia evangelica', composed around ?.
+Authored work: 'Vita Ricardi regis', composed around ?.
+Authored work: '[Lettre adressée à JEAN Sans Terre, roi d’Angleterre]', composed around , dedicated to Adressée à JEAN Sans Terre, roi d’Angleterre..
+Authored work: '[Aux évêques d'Angleterre et à ses amis]', composed around ?.
+Authored work: 'Sermo in translatione S. Thomae Cantuarinesis', composed around ?.
+Authored work: '[Sermons politiques]', composed around ?.
+Authored work: 'Postilla in Psalmos', composed around ?.
+Authored work: 'Expositio in Psalmos', composed around ?.
+Authored work: 'De contemptu mundi', composed around ?.
+Authored work: 'Documenta clericorum', composed around ?.
+Authored work: 'Conflictus vitiorum et virtutum', composed around ?.
+Authored work: 'Summa theologiae', composed around ?%1180-1185%.
+Source: MIRABILE : Andrea CENCINI :.

@@ -1,0 +1,32 @@
+PERSON: DOMINICUS de Flandria
+Also known as: Dominicus de FLANDRIA; Baudouin LOTTIN.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1445-1479%.
+Born in: Flandres (Merville/Merris).
+Diocese of origin: Diocèse de Thérouanne..
+Studied at: Paris ;; Bâle ;; Bologne ..
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en théologie (Bâle) ;; Maître en théologie (Bologne ?)..
+Academic relationships: Son maître a été Johannes VERSOR à Paris ; Son maître a été peut-être Petrus de BERGAMO à Bologne, qui l’aurait aidé à passer de l’albertisme au thomisme..
+Religious order: O.P. : Dominicain : couvent (dominicain) de Bologne (7 septembre) ;.
+University functions: Bologne (Couvent dominicain : professeur %1462-1470%) ;; Florence (Couvent dominicain : professeur %1470-1472%) ;; Pise (Couvent dominicain : professeur %1473-1474%) ;; Bologne (Couvent dominicain : professeur %1475-1476%) ;; Florence (Couvent dominicain (Santa Maria Novella) : Régent %1478-1479%)..
+Authored work: 'Summa philosophiae Moralis', composed around ?.
+Authored work: 'Summa philosophiae Sermocinalis (Periherm.)', composed around ?.
+Authored work: 'Quaestiones in Analytica priora', composed around ?.
+Authored work: 'Super libros Analyticorum Posteriorum (I : Declaratio eorum que inveniuntur in scripto Thomae de Aq. ; II : Problemata que sunt inter doctorem sanctum et alios doctores circa libros Poster.)', composed around à Florence..
+Authored work: 'Quaestiones articulatae super libros Analyticorum Posteriorum', composed around à Florence., dedicated to Dédié à Nicolao UGOLINI de Martellis..
+Authored work: 'Super Praedicamenta', composed around ?.
+Authored work: 'Expositio super tract. Thomae de Aquino De fallaciis', composed around ?.
+Authored work: 'Quaestiones super VI principia', composed around ?.
+Authored work: 'Tractatus de modalibus', composed around ?.
+Authored work: 'Commentarium in Summulas Petri Hispani', composed around ?.
+Authored work: 'Tractatus de suppositionibus', composed around ?.
+Authored work: 'Recollectio super libros De anima tradita Bononiae in conv. S. Dominici', composed around ?.
+Authored work: 'Summa divinae philosophiae (quaest. in XII libros metaphys.)', composed around /Pas après , à Bologne pour la Pars I ; pas après pour la Pars II., dedicated to Dédié à Lorenzo de MEDICI..
+Authored work: 'Commentaria in propositiones de causis Procli', composed around ?.
+Authored work: 'Tractatus de ordine divinarum personarum', composed around ?.
+Authored work: 'Quaestiones quodlibetales', composed around ?.
+Authored work: 'Epistulae II ad Laurentium Petri de Medicis', composed around ..
+Authored work: '(Quaestiones in libros Physicorum)', composed around ?.
+Source: RAG ;.

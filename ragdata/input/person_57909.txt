@@ -1,0 +1,8 @@
+PERSON: SYBILLA Lissiardi
+Also known as: Sybilla LISSIARDI.
+Description: Chirugienne.
+Status: Extérieur.
+Gender: female.
+Active during: %1200-1200%.
+Family relationships: Son père est LISUARDUS ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 21/06/2024..

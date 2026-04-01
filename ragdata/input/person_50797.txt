@@ -1,0 +1,7 @@
+PERSON: A. Nanton
+Also known as: A. NANTON.
+Description: Clerc de la chancellerie.
+Status: Extérieur.
+Gender: male.
+Active during: %1437-1437%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019)..

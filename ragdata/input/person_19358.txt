@@ -1,0 +1,11 @@
+PERSON: ANTHONIUS Sausier
+Also known as: Anthonius SAUSIER.
+Description: Cistercien.
+Status: Gradué.
+Gender: male.
+Active during: %1450-1451%.
+Studied at: Paris (Faculté de théologie) ..
+Academic grades obtained: Bachelier en théologie ..
+Religious order: Cistercien : abbaye (cistercienne) de Lauroux (de Oratorio) ;.
+University functions: Paris (Faculté de théologie : cursor en théologie) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/10/2020)..

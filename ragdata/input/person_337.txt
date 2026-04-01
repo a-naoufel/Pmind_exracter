@@ -1,0 +1,12 @@
+PERSON: ALARDUS du Castel
+Also known as: Alardus DU CASTEL.
+Description: Clunisien.
+Status: Gradué.
+Gender: male.
+Active during: %1482-1494%.
+Studied at: Paris (Faculté de Décret) %1494-1494%..
+Academic grades obtained: Bachelier en décret (Paris) le 25 Février ..
+Religious order: Clunisien : monastère (clunisien) de Davenescourt (diocèse d'Amiens)..
+Religious functions: Moine (clunisien) de Davenescourt ;; ?Prieur (clunisien) de Grandchamp (diocèse de Meaux), %1482-1487%..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales en (25 février)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol ; dernière mise à jour Jean-Philippe Genet, 16/06/2020)..

@@ -1,0 +1,10 @@
+PERSON: BARTHOLOMAEUS de Ledula
+Also known as: Bartholomaeus de LEDULA.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1320-1321%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant ?.
+College affiliation: Collège des Bons Enfants ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 22/10/2020)..

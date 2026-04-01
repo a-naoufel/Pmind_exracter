@@ -1,0 +1,14 @@
+PERSON: FIRMINUS Barbe
+Also known as: Firmin BARBE.
+Description: Chapelain du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1390-1418%.
+Born in: Picardie (Boves ?) ;.
+Diocese of origin: Diocèse d'Amiens..
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) %1401-1402%..
+College affiliation: Collège de Dormans-Beauvais : boursier ;; Collège de Dormans-Beauvais : chapelain %1390-1396% ;.
+Ecclesiastical status: Prêtre en ..
+Ecclesiastical positions held: Curé de May-en-Multien en ;; Chapelain de la cathédrale de Meaux (chapelle Saint-Georges) en ;; Chanoine de Meaux %1409-1418%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 4/08/2021)..

@@ -1,0 +1,10 @@
+PERSON: MICHAEL Guerin
+Also known as: Michel GUÉRIN.
+Description: Hôte du Collège de Dormans-Beauvais ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1402-1403%.
+Studied at: Paris %1402-1403%..
+Academic grades obtained: Étudiant (Paris) %1402-1403%..
+College affiliation: Collège de Dormans-Beauvais : hôte %1402-1403% ?.
+Source: LAMOP : Opération Charles VI (n° 2427) :.

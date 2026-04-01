@@ -1,0 +1,10 @@
+PERSON: EUSTASIUS de Levis
+Also known as: Eustachius de LEVIS; Eustacius de LEVIS.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1496-1496%.
+Diocese of origin: Diocèse de Lyon ;.
+Studied at: Paris %1496-1496%..
+Academic grades obtained: Bachelier en décret (Paris) 27 juillet ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 26/07/2021)..

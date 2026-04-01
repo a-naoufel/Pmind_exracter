@@ -1,0 +1,13 @@
+PERSON: ALEXANDER de Beaunay
+Also known as: Alexander de BEAUNAY; Alexander de BAUVAY; Alexandre de BEAUVAIS; Alexandre de BEAUVAY; Alexandre de BIAUVAY; Alexandre DEBEAUNAY.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1460-1466%.
+Studied at: Paris %1460-1464%.
+Academic grades obtained: Bachelier en théologie (Paris) ;; Licencié en théologie (Paris) (le 28 mars) ;; Docteur en théologie (Paris) (le 15 octobre) ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Religious order: O.F.M. : frère (franciscain) du couvent de Paris..
+Religious functions: Gardien du couvent de Paris en ..
+University functions: Lecteur des Sentences à Paris en septembre ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/06/2020)..

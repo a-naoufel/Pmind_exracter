@@ -1,0 +1,21 @@
+PERSON: HENRICUS de Harclay
+Also known as: Henri de HARCLAY.
+Description: Chancelier d'Oxford.
+Status: Étudiant.
+Gender: male.
+Active during: %1292-1317%.
+Born in: ?Westmoreland ("diocèse de Carlisle")..
+Studied at: Oxford ;; Paris ca...
+Academic grades obtained: Maître ès arts (Oxford) ;; Docteur en théologie (Oxford) au moins..
+Ecclesiastical positions held: Recteur de Dacre (Cumberland) %1296-1316% ;; Chanoine de Salisbury %1316-1317%..
+University functions: Oxford (Université : maître-régent %1311-1312%) ;; Oxford (Université : commissaire du chancelier ) ;; Oxford (Université : chancelier %1312-1317%)..
+Authored work: 'Commentarium super Sententias', composed around ..
+Authored work: 'Quaestiones ordinariae', composed around ..
+Authored work: '?Determinationes', composed around ?.
+Authored work: '?De transsubstantiatione', composed around ?.
+Authored work: 'Quodlibet I-II', composed around .
+Authored work: 'Quaestiones 14 disputatae', composed around ?.
+Authored work: 'Utrum mundus poterit durare in aeternum a parte post', composed around ?.
+Authored work: '(Historiola Universitatis Oxoniensis)', composed around ?.
+Authored work: 'Concio in laudem D. Thomae Cantuariensis', composed around ., dedicated to En l'honneur de Thomas BECKET..
+Source: MIRABILE : Andrea CENCINI ;.

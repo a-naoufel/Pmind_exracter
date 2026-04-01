@@ -1,0 +1,11 @@
+PERSON: THEODERICUS Uten Ham
+Also known as: Theodericus UTHERHAM; Theodericus UTEN HAM.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1503-1507%.
+Born in: Pays-Bas ? ;.
+Diocese of origin: Diocèse de Utrecht ;.
+Studied at: Paris (Nation Anglo-allemande) avant ;; Greifswald ;.
+Academic grades obtained: Étudiant (Paris) ?? ;; Maître és arts (Cologne) ;.
+Source: RAG ;.

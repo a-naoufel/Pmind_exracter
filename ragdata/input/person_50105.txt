@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Reginaldi 2
+Also known as: Guillaume REGNAULT.
+Description: Martinet du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1436-1436%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dormans-Beauvais : martinet ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 09/11/2019..

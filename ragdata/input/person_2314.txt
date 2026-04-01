@@ -1,0 +1,11 @@
+PERSON: FRANCISCUS de Alft
+Also known as: Franciscus de ALFT.
+Description: Chanoine de St-Victor..
+Status: Maître.
+Gender: male.
+Active during: %1361-1361%.
+Studied at: ?Paris..
+Academic grades obtained: Docteur en théologie (Paris) ?.
+College affiliation: Saint-Victor..
+Religious order: Chanoine régulier : abbaye de Saint-Victor..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 8/12/2020)..

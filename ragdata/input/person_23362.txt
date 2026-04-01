@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Memonte
+Also known as: Guillelmus de MEMONTE; Guillaume de MEMONT.
+Description: Chanoine de Melun.
+Status: Incertain.
+Gender: male.
+Active during: %1254-1263%.
+Studied at: ?.
+Academic grades obtained: ?.
+College affiliation: Sorbonne : il aide Robert de SORBONNE à acquérir les terrains et les maisons nécessaires à la fondation du Collège de Sorbonne ;.
+Ecclesiastical positions held: Chanoine de Melun %1254-1265% au moins ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 2/04/2022..

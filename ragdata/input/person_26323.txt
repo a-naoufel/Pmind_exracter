@@ -1,0 +1,9 @@
+PERSON: BENEDICTUS de Sancto Gervasio
+Also known as: Benedictus de SANCTO-GERVASIO.
+Description: Auditeur des causes au Châtelet de Paris..
+Status: Incertain.
+Gender: male.
+Active during: %1308-1308%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 06/01/2021).

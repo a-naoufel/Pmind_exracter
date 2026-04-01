@@ -1,0 +1,13 @@
+PERSON: NICOLAUS Provostelli
+Also known as: Nicolaus PROVOSTELLI; Nicolaus PREVOSTELLI.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1433-1436%.
+Studied at: Paris ..
+Academic grades obtained: Licencié en décret (Paris) avant ;; Licencié en décret (Paris) (19 mars) ;; Son rang est 14/32 ;.
+Academic relationships: Son maître est Livinus NEVELINC pour la licence en décret en ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Saint-Maclou en ;; Curé de Pontoise (Saint-Martin) en %1432-1433% ;; Chanoine de Pontoise (Saint-Mellon) en ;.
+University functions: Paris (Lecteur des Décrétales (livre I) en (31 août) pour la 1ere année et le 1er volume) ;; Paris (Lecteur des Décrétales (livre IV) en (15 octobre) pour la 2e année et le 2e volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ rédaction : Jean-Philippe Genet, 15/03/2022..

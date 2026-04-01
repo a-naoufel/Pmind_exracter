@@ -1,0 +1,10 @@
+PERSON: GARINUS de Espizonna
+Also known as: Garinus de ESPIZONNA.
+Description: Doyen de Châlons-en-Champagne.
+Status: Incertain.
+Gender: male.
+Active during: %1260-1272%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Doyen de Châlons-en-Champagne %1260-1263% ;; Archidiacre de Joinville %1264-1272% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 05/06/2025.

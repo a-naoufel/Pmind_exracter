@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Mutonis
+Also known as: Guillermus MUTONIS.
+Description: Chanoine d’Auxerre.
+Status: Extérieur.
+Gender: male.
+Active during: %1371-1400%.
+Studied at: ?.
+Academic grades obtained: Bachelier en droit canon ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Curé de Briare ;; Chanoine d’Auxerre (Notre-Dame-en-Cité) ;; Chanoine d’Auxerre %1385-1400% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/08/2020)..

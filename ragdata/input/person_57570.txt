@@ -1,0 +1,10 @@
+PERSON: MICHAEL Porion
+Also known as: Michael PORION.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1434-1434%.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en décret (Paris) (8 janvier) ;.
+Ecclesiastical status: Prêtre ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 14/03/2024)..

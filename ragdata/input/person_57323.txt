@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS Gillobert
+Also known as: Gilles GILLOBERT.
+Description: Boursier du Collège de Laon.
+Status: Étudiant.
+Gender: male.
+Active during: %1407-1408%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie) %1407-1408% ;.
+Academic grades obtained: Étudiant ès arts (Paris) %1407-1408% ;.
+College affiliation: Collège de Laon : boursier ès arts %1407-1408% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 24/01/2024..

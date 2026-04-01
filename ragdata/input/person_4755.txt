@@ -1,0 +1,10 @@
+PERSON: HENRICUS Ludenschede
+Also known as: Henricus LUDENSCHEDE.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1378-1378%.
+Studied at: Paris (Nation Anglo-allemande).
+Academic grades obtained: Bachelier ès arts (Paris).
+Academic relationships: Son maître est Marsilius de INGHEN pour le baccalauréat en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 30/07/2022..

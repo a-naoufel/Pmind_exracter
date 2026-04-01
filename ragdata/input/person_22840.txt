@@ -1,0 +1,9 @@
+PERSON: PETRUS Rovele
+Also known as: Petrus dictus ROVELE.
+Description: Bedeau de la faculté de décret.
+Status: Suppôt.
+Gender: male.
+Active during: %1285-1285%.
+Studied at: Paris ..
+University functions: Paris (Faculté de Décret : bedeau en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 07/04/2024..

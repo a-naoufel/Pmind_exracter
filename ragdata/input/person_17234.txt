@@ -1,0 +1,13 @@
+PERSON: BARTHOLOMAEUS de Alkeriis de Bricia
+Also known as: Bartholomaeus de ALKERIIS de Bricia; Bartholomeus de BRICIA; Barthélemy de BRICE; Berthelemy de BRICE.
+Description: Maître en médecine.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1342%.
+Born in: Italie (Lombardie : Brescia) ?.
+Studied at: Paris (Nation de France) %1329-1339%..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en médecine en ;; Maître en médecine (Paris) vers janvier ..
+Family relationships: Son frère est Gratianus de ALKERIIS de Bricia, docteur en médecine ; Son oncle est Bartholomaeus de BRIXIQ, scribe pontifical, chanoine de Brescia et chanoine de Bergamo..
+Ecclesiastical positions held: Provision pour un canonicat de Brescia avec expectative de prébende en ; mandats à l'abbé de Paris (Sainte-Geneviève), à l'abbé de Brescia (Sainte-Euphémie) et à Oliverius SALLAHADINUS.; Chanoine de Brescia ;; Provision pour un canonicat de Padoue avec expectative de prébende en (juin) ; mandats à l'abbé de Paris (Sainte-Geneviève), à l'archidiacre de Brescia et à Franciscus de CASTELLO, chanoine de Noyon..
+University functions: Maîtrerégent de la Faculté de médecine de Paris en novembre ;; ?Doyen de la Faculté de médecine à Paris en %1340-1341% ;; Maîtrerégent de la Faculté de médecine de Paris en juin ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet 9/12/2020)..

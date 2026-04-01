@@ -1,0 +1,12 @@
+PERSON: ANGELUS de Spoleto
+Also known as: Angelus de SPOLETO.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1379-1391%.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (?Paris) ;.
+College affiliation: Couvent des Cordeliers à Paris..
+Religious order: Franciscain.
+Religious functions: Procureur-général des Franciscains à la Curie d'Avignon en ;; Ministregénéral des Franciscains %1379-1391%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 3/09/2021)..

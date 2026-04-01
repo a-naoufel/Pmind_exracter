@@ -1,0 +1,13 @@
+PERSON: GUIDO Begin
+Also known as: Guido BEGIN.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1379-1379%.
+Born in: Champagne..
+Diocese of origin: Diocèse de Langres..
+Studied at: Paris..
+Academic grades obtained: Bachelier en décret (Paris) ..
+Ecclesiastical status: Clerc du diocèse de Langres..
+Ecclesiastical positions held: Candidat à un bénéfice ecclésiastique sur le rotulus de l'université de Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 19/09/2021)..

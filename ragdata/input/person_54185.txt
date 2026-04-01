@@ -1,0 +1,10 @@
+PERSON: RICARDUS Margat
+Also known as: Ricardus MARGAT.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1463-1467%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Sens (’Notre-Dame’) %1463-1467% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 10/09/2022..

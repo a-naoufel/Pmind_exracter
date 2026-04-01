@@ -1,0 +1,10 @@
+PERSON: HENRICUS de Piro
+Also known as: Henricus de PIRO; Henri de PIRO.
+Description: Maître en médecine à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1394-1408%.
+Studied at: Paris (Collège de Cornouailles) %1394-1408%..
+Academic grades obtained: Étudiant en médecine (Paris) ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+College affiliation: Collège de Cornouailles %1394-1408%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/07/2022)..

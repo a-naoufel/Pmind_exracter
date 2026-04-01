@@ -1,0 +1,12 @@
+PERSON: THEOBALDUS Notarius
+Also known as: Theobaldus NOTARIUS; Theobaldus NOTERIUS; THIBAUD le Notaire.
+Description: Archidiacre de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1112-1126%.
+Born in: Île-de-France ?.
+Studied at: Paris..
+Academic grades obtained: Maître ;.
+Social origin: Noble ?.
+Ecclesiastical positions held: Chanoine d'Étampes en ?; Chanoine de Paris ?; Chancelier de Paris en ;; Archidiacre de Paris ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/05/2024)..

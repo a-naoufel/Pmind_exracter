@@ -1,0 +1,12 @@
+PERSON: DOMINICUS de Hispania
+Also known as: Dominicus de HISPANIA.
+Description: Augustin.
+Status: Gradué.
+Gender: male.
+Active during: %1393-1393%.
+Born in: Espagne ?.
+Studied at: Paris %1393-1393%..
+Academic grades obtained: Licencié en théologie (Paris) ..
+College affiliation: Couvent (augustin) de Paris (Grands-Augustins) ..
+Religious order: O.E.S.A. : frère augustin..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 5/09/2015)..

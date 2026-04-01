@@ -1,0 +1,10 @@
+PERSON: FRANCISCUS Baccalarii
+Also known as: Johannes BACCALARII.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1454-1454%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège de Dainville : boursier en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

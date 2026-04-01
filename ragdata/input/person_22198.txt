@@ -1,0 +1,9 @@
+PERSON: GERMANUS Rapine
+Also known as: Germanus RAPINE.
+Description: Bachelier ès arts.
+Status: Incertain.
+Gender: male.
+Active during: %1421-1454%.
+Studied at: ?.
+Academic grades obtained: Magister ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/06/2017..

@@ -1,0 +1,18 @@
+PERSON: AEGIDIUS de Liège
+Also known as: Aegidius de LIEGE; Gilles de LIEGE; Gilles d'ORP.
+Description: Dominicain.
+Status: Incertain.
+Gender: male.
+Active during: %1272-1273%?.
+Born in: Brabant (Orp)..
+Studied at: ?Paris.
+Religious order: O.P. ; frère dominicain..
+Authored work: 'Sermon pour le dimanche avant la Toussaint', composed around (30 octobre) à Saint-Gervais..
+Authored work: 'Sermon pour le 1er dimanche de l'Avent', composed around (27 novembre) à la Madeleine..
+Authored work: 'Sermon pour l'Épiphanie', composed around (6 janvier) au Béguinage..
+Authored work: 'Sermon pour la Saint-Vincent', composed around (22 janvier) au Béguinage..
+Authored work: 'Sermon pour le dimanche de la Passion', composed around (26 mars) à Saint-Gervais..
+Authored work: 'Sermon pour le 5e dimanche après Pâques', composed around (14 mai) à Saint-Gervais..
+Authored work: 'Sermon pour le 5e dimanche après Pâques', composed around (14 mai) à Saint-Leuffroy..
+Authored work: 'Sermon pour la Saint-Luc', composed around (18 octobre) au Béguinage. ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 29/04/2020)..

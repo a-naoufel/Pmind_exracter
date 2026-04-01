@@ -1,0 +1,13 @@
+PERSON: BONAMICUS
+Also known as: BONAMICUS; BONUSAMICUS.
+Description: Notaire.
+Status: Suppôt.
+Gender: male.
+Active during: %1267-1289%.
+Born in: Italie (Émilie-Romagne) ;.
+Diocese of origin: Diocèse de Bologne ;.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son père est ROBERT..
+Ecclesiastical status: Clerc de Bologne..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (dernière mise à jour, Jean-Philippe Genet, 24/03/2021)..

@@ -1,0 +1,19 @@
+PERSON: WITELO
+Also known as: WITELO.
+Description: Philosophe et mathématicien..
+Status: Maître.
+Gender: male.
+Active during: %1250-1285%.
+Born in: Pologne (Silésie)..
+Studied at: Paris avant ;; Padoue %1262-1268%..
+Academic grades obtained: ?Maître ès arts (Paris) ;; Étudiant en droit canon (Padoue) %1262-1268%..
+Ecclesiastical positions held: Chanoine de Wroclaw..
+University functions: Enseignant de la faculté des arts de l'université de Padoue en %1262-1268%..
+Authored work: 'De causa primaria penitentie in hominibus et de natura demonum', composed around ?.
+Authored work: 'Optica', composed around Rédigé ., dedicated to Dédié à Guillaume de MOERBEKE, O.P...
+Authored work: 'Recensio Euclidis de visu', composed around ?.
+Authored work: 'De elementatis conclusionibus', composed around ?.
+Authored work: 'Philosophia naturalis', composed around ?.
+Authored work: 'Scientia motuum coelestium', composed around ?.
+Authored work: 'Naturales animae passiones', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 12/06/2023)..

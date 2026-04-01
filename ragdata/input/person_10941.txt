@@ -1,0 +1,9 @@
+PERSON: ROBERTUS Leporatoris
+Also known as: Robert LEPORATORIS; Robert LEPERATORIS.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1492-1498%.
+Studied at: Paris %1492-1498%..
+Academic grades obtained: Étudiant en médecine (Paris) %1492-1493% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 26/08/2024..

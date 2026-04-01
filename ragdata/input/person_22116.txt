@@ -1,0 +1,13 @@
+PERSON: DIONYSIUS Belvacensis
+Also known as: Dionysius BELVACENSIS; Denis de BEAUVAIS.
+Description: Écolâtre de Tournai.
+Status: Incertain.
+Gender: male.
+Active during: %1198-1205%.
+Born in: Flandre (Gand)..
+Diocese of origin: Diocèse de Tournai..
+Studied at: ?.
+Academic grades obtained: Magister ..
+Ecclesiastical status: Diacre en ;.
+Ecclesiastical positions held: Chanoine de Tournai %1198-1205% ;; Écolâtre de Tournai %1198-1205% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 13/05/2017..

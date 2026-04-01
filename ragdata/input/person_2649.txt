@@ -1,0 +1,16 @@
+PERSON: GENTILIS de Cingulo
+Also known as: Gentilis de CINGULO; Gentilis da CINGOLI; Gentilis de PANICALI de Cingulo.
+Description: Professeur à Bologne.
+Status: Maître.
+Gender: male.
+Active during: %1280-1320%.
+Born in: Italie (Marches : Cingoli)..
+Studied at: Paris.; Bologne..
+Academic grades obtained: Maître ès arts ?.
+Academic relationships: Son maître est Johannes VATE à Paris ; Son élève à Bologne est Angelo d’AREZZO ;.
+University functions: Bologne (Université : professeur %1295- %) ;.
+Authored work: 'Commentarium super Perihermeneias', composed around %1295-1305%.
+Authored work: 'Quaestiones supra Prisciano Minori', composed around ?.
+Authored work: 'Questio disputata de mixtione elementorum', composed around ?.
+Authored work: 'Questio utrum species sensibilis vel intellegibilis habeat virtutem alterandi corpus ad caliditatem vel frigiditatem', composed around ?.
+Source: Dizinario Biografico degli Italiani (Sonia GENTILE) :.

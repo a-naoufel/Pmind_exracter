@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Suessionensis
+Also known as: Guillelmus SUESSIONENSIS; Guillaume de SOISSONS.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1138-1150%.
+Born in: Île-de-France (Soissons) ?.
+Diocese of origin: Diocèse de Soissons ?.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris)..
+Academic relationships: Son maître est Johannes SARESBERIENSIS, dans les années 1138-1141% ;.
+University functions: Paris (Maître ès arts, logicien réputé , vers %1140-1160%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 16/01/2025)..

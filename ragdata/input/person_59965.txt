@@ -1,0 +1,11 @@
+PERSON: ANTHONIUS Kraft
+Also known as: Anthonius KRAFT.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1507-1509%.
+Born in: Alémanie ;.
+Diocese of origin: Diocèse de Constance..
+Studied at: Paris (Nation Anglo-allemande) %1507-1509%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maîtrise ès arts (Paris) ;.
+Source: RAG ;.

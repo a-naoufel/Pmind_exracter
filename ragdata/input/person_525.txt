@@ -1,0 +1,11 @@
+PERSON: ALPHONSUS 1
+Also known as: ALPHONSUS; ALFONSUS.
+Description: Franciscain.
+Status: Incertain.
+Gender: male.
+Active during: %1430-1430%.
+Studied at: Paris (Faculté de théologie) ..
+Academic grades obtained: Bachelier en théologie (Paris) ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Religious order: O.F.M. : frère franciscain.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/07/2020)..

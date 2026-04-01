@@ -1,0 +1,11 @@
+PERSON: RAIMUNDUS 5
+Also known as: REMUNDUS.
+Description: Dominicain.
+Status: Gradué.
+Gender: male.
+Active during: %1321-1321%.
+Studied at: Paris %1321-1321%..
+Academic grades obtained: Bachelier en théologie (Paris) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère dominicain..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 05/02/2021)..

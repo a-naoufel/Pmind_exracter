@@ -1,0 +1,10 @@
+PERSON: GEORGIUS Trabukier
+Also known as: Georgius TRABUKIER.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1442-1442%.
+Studied at: Paris %1442-1442%..
+Academic grades obtained: Bachelier en décret (Paris) 14 juin ..
+Religious order: O.S.A. (Val-des-Écoliers) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 8/12/2021..

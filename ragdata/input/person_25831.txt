@@ -1,0 +1,12 @@
+PERSON: NICASIUS de Gaukières
+Also known as: Nicaise de GAUKIERES.
+Description: Chanoine du Val des Écoliers.
+Status: Gradué.
+Gender: male.
+Active during: %1433-1433%.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en théologie (Paris ?) ..
+College affiliation: Paris (Sainte-Catherine) ?.
+Religious order: Chanoinerégulier (Val des Écoliers) ;.
+Religious functions: Prieur (O.S.A. Val des Écoliers) de Mons en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 27/03/2019..

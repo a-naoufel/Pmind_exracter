@@ -1,0 +1,10 @@
+PERSON: GUIDO de Brueriis
+Also known as: Guido de BRUERIIS; Guido de BRUERIIS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1295-1296%.
+Studied at: Paris %1295-1296%..
+Academic grades obtained: Maître ès arts (Paris) ;.
+University functions: Paris (Université : témoin d’un acte du recteur en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019)..

@@ -1,0 +1,12 @@
+PERSON: HUGO de Conflans
+Also known as: Hugo de CONFLANS.
+Description: Hôte du collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1375-1383%.
+Studied at: Paris %1376-1377%..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dormans-Beauvais : hôte %1376-1377% ;.
+Family relationships: Son père est Jean de CONFLANS ; Son oncle (par alliance) est Jean de DORMANS, évêque de Beauvais. Son frère est Jean de CONFLANS ;.
+Ecclesiastical status: Laïc..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 24/11/2020)..

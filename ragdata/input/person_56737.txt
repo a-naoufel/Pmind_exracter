@@ -1,0 +1,14 @@
+PERSON: PETRUS de Porta 7
+Also known as: Petrus de PORTA.
+Description: Chanoine de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1486-1507%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse de Clermont ?.
+Studied at: ?.
+Academic grades obtained: Docteur in utroque ;.
+Family relationships: Son frère est Matheus de PORTA, doyen de Clermont ; Son neveu est Antonius de PORTA, chanoine de Clermont ;.
+Ecclesiastical positions held: Chanoine de Clermont %1488-1507% ;; Chanoine de Lezoux (Saint-Pierre) ;.
+Other ecclesiastical functions: Official de Clermont ;; Official de Clermont %1492-1498% ;; Official de Clermont ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/10/2023..

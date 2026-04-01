@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Insulis
+Also known as: Guillelmus de INSULIS.
+Description: Procureur de la nation de Normandie.
+Status: Maître.
+Gender: male.
+Active during: %1266-1267%.
+Born in: ?Normandie..
+Studied at: Paris (Nation de Normandie) %1266-1267%..
+Academic grades obtained: Maître ès arts (Paris) ..
+University functions: Paris (Nation de Normandie : procureur en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 28/03/2022..

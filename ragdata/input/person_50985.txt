@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Chaylliaco
+Also known as: Guillelmus de CHAYLLIACO; Guillelmus de CHAYLEYO.
+Description: Chanoine d’Auxerre.
+Status: Extérieur.
+Gender: male.
+Active during: %1297-1298%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Auxerre %1297-1298% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/07/2020)..

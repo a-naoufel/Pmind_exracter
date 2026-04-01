@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Harnys
+Also known as: Guillelmus HARNYS.
+Description: Habitant de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1312-1312%.
+Studied at: ?.
+Social origin: Commun, habitant de Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 23/03/2020..

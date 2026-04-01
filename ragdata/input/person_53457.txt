@@ -1,0 +1,11 @@
+PERSON: PETRUS de Salinis 2
+Also known as: Frater Petrus de SALINIS.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1429-1430%.
+Studied at: Paris..
+Academic grades obtained: Licencié en décret (Paris) (14 mars) ;; Rang : 5/54 ;.
+Academic relationships: Son maître est Johannes de SERVAVILLA pour la licence en décret en ;.
+Religious order: Frater..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 09/03/2022..

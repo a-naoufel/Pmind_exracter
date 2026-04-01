@@ -1,0 +1,11 @@
+PERSON: MICHAEL Le Queux
+Also known as: Michael LE QUEUX.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1428-1432%.
+Studied at: Paris %1428-1432%..
+Academic grades obtained: Bachelier en décret (Paris) en ;; Licencié en décret (Paris) ;.
+Academic relationships: Son maître est Livinus NEVELLIN pour la licence en ;.
+University functions: Paris (Lecteur des Décrétales (L. II) en (11 octobre) pour la 4e année et le 4e volume) ;; Paris (Lecteur des Décrétales (L. V) en (11 octobre) pour la 5e année et le 5e volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 06/05/2025..

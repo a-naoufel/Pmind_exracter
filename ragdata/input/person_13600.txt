@@ -1,0 +1,15 @@
+PERSON: PETRUS Gracilis
+Also known as: Petrus GRACILIS.
+Description: Docteur en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1375-1393%.
+Studied at: Paris %1375-1385%..
+Academic grades obtained: Licencié en théologie (Paris) ;; Docteur en théologie (Paris) ..
+College affiliation: Couvent (augustin) de Paris (Grands-Augustins)..
+Religious order: O.E.S.A. : frère augustin du couvent de Reims..
+Religious functions: Participe au chapitre général des Augustins d'obédience avignonnaise tenu à Paris en ..
+University functions: Paris (Faculté de théologie : Lecteur des Sentences en %1375-1376% ?)..
+Authored work: 'In IV libros Sententiarium Commentarius', composed around ?.
+Authored work: 'Recitata super Evangelio beati Luce, per fratrem Petrum Gracilis Ord. ff. Eremit. St. Augustini conventus Remensis, anno millesimo octagesimo primo', composed around ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; Jean-Philippe Genet, dernière mise à jour 12/02/2021)..

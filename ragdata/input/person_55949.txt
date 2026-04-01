@@ -1,0 +1,11 @@
+PERSON: PETRUS Aguenin 3
+Also known as: Petrus AGUENIN.
+Description: Avocat au Châtelet de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1449-1450%.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son fils est Guillaume AGUENIN, licencié in utroque et maître ès arts en ;.
+Social origin: Bourgeoisie parisienne ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/06/2023..

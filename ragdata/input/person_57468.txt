@@ -1,0 +1,12 @@
+PERSON: PETRUS de Campis 4
+Also known as: Petrus de CAMPIS.
+Description: Médecin.
+Status: Incertain.
+Gender: male.
+Active during: %1498-1498%.
+Born in: Catalogne ;.
+Diocese of origin: Diocèse de Barcelone..
+Studied at: ?.
+Academic grades obtained: Étudiant; Maître en médecine ?.
+Authored work: 'Quaestio de viribus demonstrationum', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 10/02/2024..

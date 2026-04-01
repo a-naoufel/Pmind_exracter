@@ -1,0 +1,8 @@
+PERSON: ALBERTUS Nicolai 1
+Also known as: Albert NICOLAI.
+Description: Magister.
+Status: Incertain.
+Gender: male.
+Active during: %1422-1422%.
+Studied at: Rostock ;; ?Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/06/2020)..

@@ -1,0 +1,7 @@
+PERSON: DIONYSIUS Constantin
+Also known as: Dionysius CONSTANTIN.
+Description: Marchand chandelier de suif.
+Status: Extérieur.
+Gender: male.
+Active during: %1463-1463%.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,8 @@
+PERSON: X Lavis
+Also known as: X LAVIS.
+Description: Lombard exerçant illégalement la médecine à Paris..
+Status: Extérieur.
+Gender: male.
+Active during: %1322-1322%.
+Born in: Italie (Lombardie)..
+Studied at: ?.

@@ -1,0 +1,25 @@
+PERSON: GERARDUS Pesquerii
+Also known as: Geraldus PESQUERII; Gerhardus de PISCARIO; Geraldus PESQUERII; Géraud du PESCHER.
+Description: Franciscain.
+Status: Incertain.
+Gender: male.
+Active during: %1320-1335%.
+Born in: Aquitaine (Périgord : Périgueux)..
+Diocese of origin: Diocèse de Périgueux..
+Studied at: Toulouse %1332-1335% ;.
+Academic grades obtained: Bachelier en théologie (Toulouse) ;; Maître en théologie (Toulouse) ..
+Academic relationships: Son élève est Jean de Roquetaillade..
+Social origin: Bourgeoisie.
+Religious order: O.F.M. : frère franciscain..
+University functions: Toulouse (Studiumfranciscain : Lecteur principal), %1332-1335% ;; Professeur à Toulouse (Studiumfranciscain)..
+Authored work: 'Comment. Super I-IV Sent.', composed around ?.
+Authored work: 'Lectura in decretalem cum Marthae', composed around ?.
+Authored work: 'Expositio Decretalium', composed around ?.
+Authored work: 'Ars faciendi sermones', composed around ?.
+Authored work: 'Sermo', composed around ?.
+Authored work: 'Compendium super libros Dionysii Aeropagitae', composed around ?.
+Authored work: 'Digmaticum de anima separata a corpore', composed around ?, dedicated to Commentaire sur 33 positions du pape JEAN XXII..
+Authored work: 'Expositio super Quadripartitum Johannis papae XXII', composed around ?, dedicated to En réponse aux questions du pape JEAN XXII..
+Authored work: 'Impugnatio theorematum Aegidii', composed around ?.
+Authored work: '[Recueil de notes personnelles de Géraud du Pescher]', composed around ?.
+Source: Répertoire des auteurs franciscains préparé par Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress ("Gerardus de Piscario").

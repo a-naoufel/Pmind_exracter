@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS de Moncellis
+Also known as: Guillelmus de MONCELLIS.
+Description: Chanoine d'Évreux.
+Status: Incertain.
+Gender: male.
+Active during: %1268-1273%.
+Born in: Normandie (Mousseaux) ;.
+Diocese of origin: Diocèse d'Évreux ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son parent est Paganus de MONCELLIS, chevalier ?.
+Social origin: Noble ?.
+Ecclesiastical positions held: Chanoine de Rouen ;; Chanoine d'Évreux ;; Archidiacre de Deux en la cathédrale de Chartres ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 04/04/2022..

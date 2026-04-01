@@ -1,0 +1,12 @@
+PERSON: ANDREAS de Galles
+Also known as: Andreas de GALLES.
+Description: Abbé de Saint-Victor.
+Status: Incertain.
+Gender: male.
+Active during: %1289-1294%.
+Studied at: Paris %1289-1294%..
+Academic grades obtained: Ètudiant (Paris) avant ;.
+College affiliation: Saint-Victor ;.
+Religious order: Chanoine (O.S.A.) de Saint-Victor ;.
+Religious functions: Abbé (O.S.A.) de Saint-Victor %1289-1294%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 9/12/2020)..

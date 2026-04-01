@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Paul
+Also known as: William de PAUL.
+Description: Évêque de Meath.
+Status: Étudiant.
+Gender: male.
+Active during: %1327-1349%.
+Born in: Angleterre ;.
+Studied at: Oxford ;; Paris ..
+Academic grades obtained: Étudiant (Paris) ?; Docteur en Théologie (Oxford)..
+Religious order: O. Carm. : frère carme..
+Religious functions: Prieur du couvent (carme) de York en ..
+Ecclesiastical positions held: Évêque de Meath 1327-1349 ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/05/2018..

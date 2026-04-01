@@ -1,0 +1,11 @@
+PERSON: THOMAS Anglicus 2
+Also known as: Thomas ANGLICUS.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1314-1321%.
+Born in: Angleterre ?.
+Studied at: Maître en théologie (Paris) ..
+Academic grades obtained: Paris..
+College affiliation: Collège de Sorbonne %1314-1321% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 21/09/2021..

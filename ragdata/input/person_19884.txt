@@ -1,0 +1,11 @@
+PERSON: PETRUS de Corbirihaco
+Also known as: Petrus de CORBIRIHACO; Petrus de CORBUIHACO.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris)..
+Family relationships: Ses deux frères sont religieux ;.
+Ecclesiastical status: Clerc bénéficié ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 14-02-2024..

@@ -1,0 +1,9 @@
+PERSON: RADULPHUS de Trovilla
+Also known as: Radulphus de TROVILLA.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1434-1434%.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en décret (Paris) (9 mai) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 13/03/2024)..

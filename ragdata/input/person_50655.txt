@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Funici Loco
+Also known as: Guillelmus de FUNICILOCO.
+Description: Procureur.
+Status: Incertain.
+Gender: male.
+Active during: %1345-1345%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 17/03/2020..

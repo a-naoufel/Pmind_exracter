@@ -1,0 +1,10 @@
+PERSON: PETRUS Truchy
+Also known as: Petrus TRUCHY.
+Description: Chanoine d’Auxerre.
+Status: Maître.
+Gender: male.
+Active during: %1444-1465%.
+Studied at: Paris (Nation de France) avant ..
+Academic grades obtained: Maître ès arts (Paris) avant ;.
+Ecclesiastical positions held: Chanoine d’Auxerre en ;; Chanoine d’Auxerre en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/09/2023..

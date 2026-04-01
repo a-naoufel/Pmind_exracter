@@ -1,0 +1,11 @@
+PERSON: ALBERICUS de Opreno
+Also known as: Albericus de OPRENO.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1225-1233%.
+Born in: Italie (Lombardie : Opreno ?) ?.
+Diocese of origin: Diocèse de Bergame ?.
+Studied at: Paris vers %1225-1230%.
+Academic grades obtained: Bachelier en théologie (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 6/2/2015)..

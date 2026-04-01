@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Furno
+Also known as: Guillelmus de FURNO.
+Description: Docteur en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1465-1496%.
+Studied at: Paris %1465-1474%..
+Academic grades obtained: Licencié en théologie (Paris) (le 12 février) ;; Docteur en théologie (Paris) (le 27 avril) ..
+College affiliation: Couvent (augustin) de Paris (Grands-Augustins)..
+Religious order: O.E.S.A. : frère augustin..
+Religious functions: Suffragant de Châlons-en-Champagne en ..
+University functions: Paris (Faculté de Théologie : Lecteur de la Bible %1467-1468%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 25/03/2022..

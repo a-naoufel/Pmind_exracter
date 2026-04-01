@@ -1,0 +1,25 @@
+PERSON: CICHUS Ascolanus
+Also known as: Cecco d'ASCOLI; Francesco di SIMONE Stabili; Cecco di Simone degli STABILI da Ascoli; Francesco STABILI; Cichus ASCOLANUS.
+Status: Extérieur.
+Gender: male.
+Active during: %1280-1327%.
+Born in: Italie (Marche d'Ancône : Ascoli)..
+Studied at: Bologne..
+Academic grades obtained: ?.
+Family relationships: Son père est Simone STABILI..
+University functions: Bologne (enseigne l'astrologie %1322-1324%)..
+Authored work: 'Glosae in Carmina de mutatione consonantium magistri Syon', composed around ?.
+Authored work: 'L'acerba', composed around ?.
+Authored work: 'Commentaire latin', composed around ?.
+Authored work: 'Comm. super Sphera mundi Joannis de Sacro Bosco', composed around ?.
+Authored work: 'Scriptum super librum de principiis astrologie Alcabitii', composed around ?.
+Authored work: 'De eccentricis et epicyclis', composed around %1322-1324%..
+Authored work: 'Praedictiones astrologice bellorum, morborum et id similium', composed around ?.
+Authored work: 'Epistola cancellario Bononiensis civitatis', composed around ?.
+Authored work: 'Glosae Centiloquii', composed around ?.
+Authored work: 'De quodam modo physionomiae', composed around ?.
+Authored work: 'Liber de ascensione signorum', composed around ?.
+Authored work: 'Liber de ascensione', composed around ?.
+Authored work: 'Prophetia', composed around ?.
+Authored work: 'Modo di conoscere quali infermità siano mortali o no par via delle stelle', composed around ?.
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

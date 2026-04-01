@@ -1,0 +1,11 @@
+PERSON: GUICHARDUS de Laire
+Also known as: Guichardus de LAIRE; Guichardus de LEYRE.
+Description: Archidiacre de Cambrai..
+Status: Étudiant.
+Gender: male.
+Active during: %1404-1418%.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant ;.
+Ecclesiastical status: Clerc en ;.
+Ecclesiastical positions held: Archidiacre de Cambrai %1404-1418%; Chanoine de LePuy.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 31/12/2025..

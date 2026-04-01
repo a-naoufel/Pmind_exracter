@@ -1,0 +1,15 @@
+PERSON: HENRICUS de Marle 1
+Also known as: Henri de MARLE; Henri LECORGNE de Marle.
+Description: Chancelier de France.
+Status: Maître.
+Gender: male.
+Active during: %1370-1418%.
+Studied at: Orléans ;; Paris ;.
+Academic grades obtained: Maître..
+College affiliation: Collège de Laon ?.
+Family relationships: Sa femme est Mahaut LEBARBIER ; Son frère est Guillaume de MARLE, conseille-clerc au Parlement de Paris. Son fils est Jean de MARLE, maître des requêtes puis évêque de Coutances ; Son fils est Arnaud de MARLE, conseiller puis président au Parlement ; Son gendre est André MARCHAND, conseiller au Parlement puis prévôt de Paris. Son gendre est Pierre BAUDISSON dit BUFFIERE, conseiller au Parlement ; Son gendre est Jean ROMAIN ;.
+Social origin: Noble ;.
+Ecclesiastical status: Laïc ; marié..
+Ecclesiastical positions held: Chanoine de Paris (Notre-Dame) ..
+Other ecclesiastical functions: Bailli de l’évêque de Paris ..
+Source: LAMOP : Opération Charles VI :.

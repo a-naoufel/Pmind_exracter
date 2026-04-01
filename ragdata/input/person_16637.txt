@@ -1,0 +1,13 @@
+PERSON: ALEXANDER 1
+Also known as: ALEXANDER.
+Description: Sous-diacre de l'église romaine.
+Status: Étudiant.
+Gender: male.
+Active during: %1156-1159%.
+Born in: Italie (Rome)..
+Diocese of origin: Diocèse de Rome..
+Studied at: Paris : étudiant vers %1156-1159%..
+Family relationships: Son parent est Grégoire de SUBURRA, cardinal-évêque de Sabine qui parle de lui comme "consanguineus meus" ; Son parent est ANASTASE IV, oncle de Grégoire de SUBURRA, cardinal-évêque de Sabine et peut-être parent d'HONORIUS II..
+Social origin: Noble..
+Ecclesiastical positions held: Sous-diacre de l'église romaine..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 27/06/2020)..

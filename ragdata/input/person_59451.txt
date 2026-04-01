@@ -1,0 +1,10 @@
+PERSON: HUGO Rembaut
+Also known as: Hugues REMBAUT.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1422-1437%.
+Studied at: Paris..
+Academic grades obtained: Maître.
+College affiliation: Collège d’Autun : hôte en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

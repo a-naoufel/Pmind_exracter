@@ -1,0 +1,12 @@
+PERSON: BERTRANDUS de Clermont
+Also known as: Bertrand de CLERMONT.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1256-1312%.
+Born in: ?Auvergne..
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: Dominicain : Couvent (dominicain) de Bergerac..
+University functions: Bergerac (Couvent dominicain : Lecteur ) ;; Périgueux (Couvent dominicain : Lecteur )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 23/02/2021).

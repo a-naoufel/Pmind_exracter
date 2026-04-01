@@ -1,0 +1,12 @@
+PERSON: ANDREAS Guilloti
+Also known as: Andreas GUILLOTI.
+Description: Boursier du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1462-1462%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse de LePuy ;.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège d’Autun : boursier ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 04/06/2024..

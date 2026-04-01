@@ -1,0 +1,9 @@
+PERSON: NICASIUS Le Munier
+Also known as: Nicaise LEMUNIER; Nicaise LEHAYNNIER.
+Description: Notaire juré du roi au Châtelet de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1404-1418%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

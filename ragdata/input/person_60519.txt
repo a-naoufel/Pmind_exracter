@@ -1,0 +1,10 @@
+PERSON: PETRUS Bruin
+Also known as: Petrus BRUIN.
+Description: Maître au collège de Narbonne.
+Status: Maître.
+Gender: male.
+Active during: %1382-1382%.
+Studied at: Paris ;.
+Academic grades obtained: Maître (Paris) en ;.
+College affiliation: Collège de Narbonne : maître au collège en ..
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

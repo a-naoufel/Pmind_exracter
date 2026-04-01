@@ -1,0 +1,10 @@
+PERSON: THOMAS de Mas
+Also known as: Thomas de MAS.
+Description: Hôte du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1411-1412%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) %1411-1412% ?.
+College affiliation: Collège de Dormans-Beauvais : hôte %1411-1412% ;.
+Source: LAMOP : Opération Charles VI (n° 2496) :.

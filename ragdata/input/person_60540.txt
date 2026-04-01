@@ -1,0 +1,10 @@
+PERSON: ANTHONIUS Sylvestre
+Also known as: Antoine SYLVESTRE.
+Description: Membre du collège de Montaigu.
+Status: Maître.
+Gender: male.
+Active during: %1470-1529%.
+Studied at: Paris..
+Academic grades obtained: Gradué ès arts (Paris) en ;; Maître en théologie (Paris) ;.
+College affiliation: Collège de Montaigu : membre en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

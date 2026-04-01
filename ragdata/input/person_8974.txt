@@ -1,0 +1,10 @@
+PERSON: MICHAEL Blokiel
+Also known as: Michael BLOKIEL; Michel BLOCQUEL.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1338-1352%.
+Studied at: Paris %1338-1338%..
+Academic grades obtained: Étudiant (Paris) ..
+Religious order: Bénédictin : abbaye (bénédictine) de Saint-Vaast..
+Religious functions: Ordonné en ;; Assigné au prieuré (bénédictin) d'Haspres en ;; Maître des novices à l'abbaye (bénédictine) de Saint-Vaast en ..

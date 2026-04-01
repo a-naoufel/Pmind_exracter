@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Camera junior
+Also known as: Guillelmus de CAMERA; Guillaume de CAMERA; Guillaume de LA CHAMBRE; Guillaume de LA CHAMBRE, le Jeune.
+Description: Maître en médecine à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1416-1450%.
+Studied at: Paris (Faculté de Médecine %1416-1450%.
+Academic grades obtained: Étudiant en médecine (Paris) %1416-1417% puis %1427-1428% ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Family relationships: Son père est Guillaume de LA CHAMBRE ; Sa mère est Ysabel LA ROMAIN ; Son frère est Jean de LA CHAMBRE, écuyer..
+University functions: Paris (Faculté de Médecine Maîtrerégent jusqu'en %1458-1459% ;; L'université de Paris l'envoie siéger à Rouen au procès de Jeanne d'ARC : il s'associe au jugement de condamnation et assiste au supplice le 30 mai ;; Paris (Faculté de Médecine : Doyen %1448-1450%) ;; Paris (Université : représentant de l'université de Paris auprès du Roi en ) ;; Paris (Université : représentant de l'université de Paris au concile de Rouen en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 28/02/2020..

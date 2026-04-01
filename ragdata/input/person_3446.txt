@@ -1,0 +1,37 @@
+PERSON: GUILLELMUS de Alnwick
+Also known as: Guillelmus de ALNWICK; Guillelmus ALAUVICENUS; William of ALNWICK; Guillaume d'ALNWICK; Guillelmus ANGLICUS.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1290-1333%.
+Born in: Angleterre (Alnwick dans le Northumberland ?) ;.
+Diocese of origin: Diocèse de Durham ?.
+Studied at: Oxford %:1308-1317% ;; Paris %:1303-1318% ;; Montpellier %1318-1320%..
+Academic grades obtained: Bachelier en théologie (Paris) %1313-1314% ;; Maître en théologie (Oxford) ;.
+College affiliation: Couvent franciscain de Paris (Cordeliers) : étudiant puis lecteur..
+Academic relationships: Son maître est Johannes DUNSSCOTUS à Paris..
+Religious order: O.F.M. : frère du couvent (franciscain) de Newcastle ;.
+Religious functions: Il participe au chapitregénéral (franciscain) de Pérouse en et à la rédaction du décret De Paupertate Christi ;.
+Ecclesiastical positions held: Évêque de Giovinazzo %1330-1333% ;.
+University functions: Oxford (Maîtrerégent en théologie ) ;; Paris (Faculté de théologie : Lecteur des sentences %:1313-1314%) ;; Oxford (Couvent franciscain : 42e lecteur %:1316-1317:%) ;; Paris (Fculté de Théologie : Maître-régent %1317-1318% ?) ;; Montpellier (Studiumfranciscain : lecteur principal, %1318-1320%).; Bologne (Lecteur en ) ;; Naples (Lecteur après ) ;.
+Authored work: '(Commentaire sur les Sentences)', composed around ?.
+Authored work: 'Abbreviatio libri I reportatarum Parisiensium magistri Johannis Duns Scoti', composed around ?.
+Authored work: 'Additiones Magnae in primum librum Sententiarum ex reportatione IA Iohannis Duns Scoti a Guillelmo de Alnwick excerptae', composed around ?.
+Authored work: 'Additiones Magnae secondi libri Johannis Duns Scoti', composed around ?.
+Authored work: 'Quodlibet', composed around ?%1315-1316% à Oxford ;.
+Authored work: 'Quaestiones de tempore', composed around ?.
+Authored work: 'Quaestiones disputatae de scientia', composed around ?.
+Authored work: 'Quaestiones disputatae de esse intelligibili', composed around ? à Oxford (six questions) ;.
+Authored work: 'Quaestiones', composed around ?.
+Authored work: 'Quaestio utrum tempus sit quantitas continua vel discreta', composed around ?.
+Authored work: 'Quaestio utrum iste terminus Homo secundum unam rationem indifferens sit ad supposita eius existentia et non existentia', composed around ?.
+Authored work: 'Determinationes', composed around ?.
+Authored work: '(Commentaire sur la Révélation)', composed around ?.
+Authored work: 'Sermo de nativitate Domini', composed around ?.
+Authored work: 'Sermo', composed around à Avignon au couvent des Dominicains ;.
+Authored work: 'Quaestiones in Aristotelis De Anima', composed around ?.
+Authored work: 'In Sophismatum elenchos', composed around ?.
+Authored work: 'In Physica', composed around ?.
+Authored work: 'Postilla in Apocalypsim', composed around ?.
+Authored work: 'Quaestio in Aristotelis De anima', composed around ?.
+Source: Répertoire des auteurs franciscains préparé par Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress ("Guillelmus Alnwick").

@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Wic
+Also known as: Guillelmus de WIC; Guillelmus de WIIC; Guillelmus de WYC; Guillelmus de WICH.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1362-1362%.
+Studied at: Paris (Nation Anglo-allemande) ;.
+Academic grades obtained: Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Willelmus BUSER pour la maîtrise en ;.
+University functions: Paris (Nation Anglo-allemande : intègre en (30 septembre) la Nation en payant un florin (franc ?) pour son introitus) :.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/04/2022..

@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Torcularii 2
+Also known as: Guillelmus de TORCULARII; Guillelmus de TORCULARY.
+Description: Carme ?.
+Status: Maître.
+Gender: male.
+Active during: %1442-1442%.
+Studied at: Paris ..
+Academic grades obtained: Licencié en théologie (Paris) (le 22 février) ..
+College affiliation: Couvent (carme) de Paris..
+Religious order: O. Carm. : frère carme..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland : révision, Jean-Philippe Genet, dernière mise à jour 1/03/2021)..

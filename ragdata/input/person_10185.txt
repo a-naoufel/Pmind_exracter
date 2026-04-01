@@ -1,0 +1,9 @@
+PERSON: PETRUS de Sertega
+Also known as: Petrus de SERTEGA.
+Description: Licencié en médecine..
+Status: Gradué.
+Gender: male.
+Active during: %1340-1340%.
+Studied at: Paris %1340-1340%..
+Academic grades obtained: Licencié en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/03/2024)..

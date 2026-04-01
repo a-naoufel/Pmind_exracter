@@ -1,0 +1,10 @@
+PERSON: OGERUS Titot
+Also known as: Ogerius TITOT; Agier TITOT.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1439-1474%.
+Studied at: Paris ..
+Academic grades obtained: Maître (Paris ?) en ?.
+College affiliation: Collège de Dormans-Beauvais : procureur du collège au Parlement de Paris %1439-1474% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/08/2015..

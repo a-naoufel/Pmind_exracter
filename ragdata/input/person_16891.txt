@@ -1,0 +1,10 @@
+PERSON: RODULFUS Reginaldi Britoni
+Also known as: Rodulphus REGINALDI Britoni.
+Description: Chanoine de Saint-Quentin..
+Status: Maître.
+Gender: male.
+Active during: %1316-1316%.
+Studied at: Paris %1316-1316%..
+Academic grades obtained: Docteur en théologie (Paris) attesté en ..
+Ecclesiastical positions held: Chanoine de Saint-Quentin en ;; Canonicat, avec expectative de prébende ou de dignité, à LeMans obtenu en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 31/08/2024)..

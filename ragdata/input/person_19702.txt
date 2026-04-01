@@ -1,0 +1,9 @@
+PERSON: HERGALDUS
+Also known as: HERGALDUS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1170-1170%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 05-08-2022..

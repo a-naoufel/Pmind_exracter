@@ -1,0 +1,10 @@
+PERSON: BLASIUS Martini
+Also known as: Blasius MARTINI.
+Description: Bachelier ès arts..
+Status: Gradué.
+Gender: male.
+Active during: %1383-1383%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Academic relationships: Son maître est le Magister STENNISLAUS..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (dernière mise à jour, Jean-Philippe Genet, 23/03/2021)..

@@ -1,0 +1,38 @@
+PERSON: RICARDUS Fitzralph
+Also known as: Ricardus FITZRALPH; Ricardus filius RODOLFI.
+Description: Archevêque d’Armagh.
+Status: Étudiant.
+Gender: male.
+Active during: %1320-1360%.
+Born in: Irlande (Dundalk)..
+Diocese of origin: Diocèse de Dundalk ?.
+Studied at: Oxford (Balliol College) ;; Paris .; Oxford %1325-1331%..
+Academic grades obtained: Maître ès arts (Oxford) vers ;; Bachelier en théologie (Oxford) vers ;; Étudiant en théologie (Paris) %1329-1330%.; Docteur en théologie (Oxford) ..
+College affiliation: Oxford (Balliol College) : il est fellow du collège jusqu’en ..
+Academic relationships: Tuteur et curator de John NORTHWODE, neveu de John GRANDISSON, évêque d'Exeter, à Paris en %1329-1330%..
+Ecclesiastical positions held: Precentor de Crediton (Devon) %1331- % ;; Chanoine de Crediton (Devon) %1331-1336% et % -1343% ;; Chanoine d'Exeter %1331-1335% ;; Chanoine de Bosham (Sussex) %1334-1335% ;; Chancelier de Lincoln %1334- % ?; Chanoine de Lichfield %1335-1346% ;; Dean de Lichfield %1335-1346% ;; Archevêque d'Armagh %1346-1360%..
+University functions: Oxford (Balliol College : fellow, av. ) ;; Oxford (Université : chancelier %1332-1334%)..
+Representation roles: Envoyé d'EDWARD III à la Curia à Avignon en %1349-1351%..
+Authored work: '(Commentaire sur les Sentences de Pierre LOMBARD)', composed around ?.
+Authored work: 'Quaestiones disputatae', composed around ?.
+Authored work: 'Determinationes de caritate', composed around %1331-1332%..
+Authored work: 'Determinatio de imagine (Det. hibernicis)', composed around ?.
+Authored work: 'Quaestio Biblica', composed around ?.
+Authored work: '(Glose sur le De Trinitate de Saint Augustin)', composed around ?.
+Authored work: 'De peccato ignorantiae', composed around ?.
+Authored work: 'Summa de Questionibus Armenorum', composed around %1347-1352%., dedicated to Dédié à CLEMENT VI..
+Authored work: '(Sermons anglais du "Sermon diary")', composed around %1344-1357%..
+Authored work: '(Sermons d'Avignon du "Sermon Diary")', composed around %1335-1358%..
+Authored work: 'De audientia confessionum', composed around ..
+Authored work: '(Autobiographical Prayer)', composed around %1359-1360%..
+Authored work: 'Determinatio de futuris contingentibus (Det. hibernicis)', composed around ?.
+Authored work: 'Quaestiones in Aristotelis Libros Physicorum', composed around ?.
+Authored work: 'Proposicio I "Unusquisque"', composed around (5 Juillet)., dedicated to Prêché devant le pape CLEMENT VI à Avignon en plein consistoire..
+Authored work: 'De pauperie Salvatoris', composed around %1350-1358%..
+Authored work: '(London anti-mendicant sermons)', composed around %1356-1357%..
+Authored work: 'Proposicio (II) Nolite Judicare (i.e. "Defensio Curatorum")', composed around (8 Novembre)..
+Authored work: '(Petitio basée sur la "Proposicio Nolite Judicare" du 8 Novembre 1357)', composed around ..
+Authored work: 'Libellus "Coram vobis"', composed around ?.
+Authored work: 'Responsiones domini Armachani ad obiectus contra materiam de mendicitate et paupertate', composed around ?.
+Authored work: 'Distinctiones', composed around ?.
+Source: The Fitzralph Society : http://www.fitzralph.com/.

@@ -1,0 +1,12 @@
+PERSON: GUIDO Boileave
+Also known as: Guido BOILEAVE.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1415-1415%.
+Studied at: Paris %1415-1415%..
+Academic grades obtained: Bachelier en décret (Paris) attesté en ..
+Ecclesiastical positions held: Prêtre en ;.
+Other ecclesiastical functions: Vicaireperpétuel de Bourges en ;..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (4e année) en (29 novembre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 25/01/2022..

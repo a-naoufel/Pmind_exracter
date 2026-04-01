@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Champy
+Also known as: Guillaume CHAMPY.
+Description: Clerc de la chapelle du Collège de Dormans-Beauvais.
+Status: Maître.
+Gender: male.
+Active during: %1437-1443%.
+Studied at: Paris %1437-1443%..
+Academic grades obtained: Maître ès arts (Paris) ..
+College affiliation: Collège de Dormans-Beauvais : martinet en %1437-1439% ;; Collège de Dormans-Beauvais : clerc de la chapelle en %1439-1443% ;.
+Family relationships: Son parent est (peut-être) Pierre CHAMPY ;.
+Ecclesiastical positions held: Clerc de la chapelle de Paris (Collège de Dormans-Beauvais) %1385-1386% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 2/03/2022..

@@ -1,0 +1,11 @@
+PERSON: HILARIUS Le Boullenger
+Also known as: Hilarius LE BOULLENGER.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1501-1501%.
+Born in: Poitou ?.
+Diocese of origin: Diocèse de Poitiers..
+Studied at: Paris %1501-1501%..
+Academic grades obtained: Bachelier en décret (Paris) 19 mai ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 11-06-2015..

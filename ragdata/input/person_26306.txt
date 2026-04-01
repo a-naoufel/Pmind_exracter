@@ -1,0 +1,11 @@
+PERSON: SIMON de Valle Scolarium
+Also known as: Simon de VALLESCOLARIUM.
+Description: Étudiant en théologie.
+Status: Étudiant.
+Gender: male.
+Active during: %1330-1330%.
+Studied at: Paris vers ..
+Academic grades obtained: Étudiant en théologie (Paris) vers ?.
+College affiliation: Sainte-Catherine du ValdesÉcoliers vers ..
+Religious order: O.S.A. : chanoine (augustin) du ValdesÉcoliers (Prieuré Sainte-Catherine) vers ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 19/02/2024)..

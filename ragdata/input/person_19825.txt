@@ -1,0 +1,14 @@
+PERSON: FERNANDUS Roderici
+Also known as: Fernandus RODERICI.
+Description: O.F.M..
+Status: Étudiant.
+Gender: male.
+Active during: %1345-1345%.
+Born in: Portugal..
+Studied at: Paris .; Salamanque ..
+Academic grades obtained: Étudiant en théologie ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Family relationships: Son père est un prêtre..
+Religious order: O.F.M. : frère franciscain..
+University functions: Salamanque (Couvent San Francesco : Professeur de Théologie en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 2/08/2021)..

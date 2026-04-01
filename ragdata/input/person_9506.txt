@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de Stetin
+Also known as: Nicolaus de STETIN; Nicolaus de STETYNC.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1380-1380%.
+Born in: Poméranie (Stettin)..
+Studied at: ?Paris; Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Academic relationships: Son maître est Nicolaus de POLONIA.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 17/10/2023..

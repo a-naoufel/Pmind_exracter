@@ -1,0 +1,9 @@
+PERSON: ALBERTUS de Molendino
+Also known as: Albertus de MOLENDINO.
+Description: Fidéjusseur d'un étudiant..
+Status: Étudiant.
+Gender: male.
+Active during: %1357-1357%.
+Studied at: ?Paris (Nation Anglo-allemande) ..
+Academic grades obtained: ?Étudiant ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/06/2020)..

@@ -1,0 +1,11 @@
+PERSON: GUIDO de Templo
+Also known as: Guido de TEMPLO.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1272-1273%.
+Studied at: Paris.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) ?.
+Religious order: O.F.M. : frère franciscain du couvent (franciscain) de Paris ?.
+Authored work: '(Sermon pour la fête de Saint Jean)', composed around (27 décembre) auxChampeaux..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/03/2020..

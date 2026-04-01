@@ -1,0 +1,10 @@
+PERSON: BERMORDUS
+Also known as: BERMORDUS.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant ?.
+Family relationships: Son frère est HUGO, qui habite avec lui..
+Academic relationships: Son maître est le Magister HUGO..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 14/01/2021).

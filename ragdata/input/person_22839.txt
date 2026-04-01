@@ -1,0 +1,10 @@
+PERSON: MAURITIUS 3
+Also known as: MAURITIUS.
+Description: Bedeau de la faculté de médecine.
+Status: Suppôt.
+Gender: male.
+Active during: %1285-1285%.
+Studied at: Paris ..
+Academic grades obtained: ?.
+University functions: Paris (Faculté de Médecine : bedeau en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/09/2023..

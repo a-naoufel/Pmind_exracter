@@ -1,0 +1,10 @@
+PERSON: POTHON de Couhé
+Also known as: Pothon de COUHÉ.
+Description: Chanoine de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1471-1497%.
+Studied at: ?.
+Academic grades obtained: Maître ;; Bachelier en droit civil ;.
+Ecclesiastical positions held: Recteur de Jard-sur-Mer ;; Recteur de Vasles ;; Chanoine de Poitiers (Sainte-Radegonde) ;; Chanoine de Poitiers %1482-1497% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 20/11/2022..

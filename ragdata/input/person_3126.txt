@@ -1,0 +1,25 @@
+PERSON: AEGIDIUS de Lessinis
+Also known as: Gilles de LESSINES.
+Description: Dominicain.
+Status: Gradué.
+Gender: male.
+Active during: %1255-1304%.
+Born in: Hainaut (Lessines)..
+Studied at: Cologne ;; Paris (Couvent dominicain) ..
+Academic grades obtained: Bachelier en théologie (Paris)..
+College affiliation: Couvent (dominicain) de Paris..
+Academic relationships: Élève de ALBERT le Grand..
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Valenciennes ;.
+Authored work: 'Comm. in I et II Sententarium', composed around ?.
+Authored work: 'Quaestiones theologicae', composed around ?.
+Authored work: 'De immediata visione divinae essentiae', composed around ?.
+Authored work: '(Lettre à Albert le Grand)', composed around ., dedicated to Adressé à ALBERT le Grand..
+Authored work: 'De Unitate Formae tractatus', composed around (juillet).
+Authored work: 'De Unitate Formae tractatus (appendice)', composed around .
+Authored work: 'Tractatus de praeceptis', composed around ?.
+Authored work: 'Flores casuum', composed around ?.
+Authored work: 'Tractatus de essentia, motu et significatione cometarum', composed around Ap. (octobre)..
+Authored work: 'De geometria', composed around ?.
+Authored work: 'Tractatus de crepusculis', composed around ?.
+Authored work: 'Tractatus de usuris', composed around %1278-1284%..
+Source: MIRABILE : http://www.mirabileweb.it/author/aegidius-de-lessinia-n-1230-ca-m-post-1304-author/21474.

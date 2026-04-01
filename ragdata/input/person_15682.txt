@@ -1,0 +1,9 @@
+PERSON: ANTHONIUS Guignon
+Also known as: Anthonius GUIGNON.
+Description: Bachelier Décret.
+Status: Gradué.
+Gender: male.
+Active during: %1499-1499%.
+Born in: Picardie (Amiens)..
+Studied at: Paris %1499-1499%..
+Academic grades obtained: Bachelier Décret (Paris) (le 20 mars) ..

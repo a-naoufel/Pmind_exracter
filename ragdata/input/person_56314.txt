@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Colle
+Also known as: Guillelmus de COLLE.
+Description: Chanoine du Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1364-1419%.
+Born in: Anjou-Maine ?.
+Diocese of origin: Diocèse de LeMans ;.
+Studied at: ?.
+Academic grades obtained: ?Étudiant en théologie (?Paris) ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Curé de Tuffé (diocèse de LeMans) % -1364% ;; ?Curé de Bellafayaco (diocèse de LeMans) % -1364% ;; Chanoine de LeMans %1400-1416% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/07/2023)..

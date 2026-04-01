@@ -1,0 +1,13 @@
+PERSON: PETRUS Wastellarii de Encra
+Also known as: Petrus WASTELLARII de Encra; Petrus Wastellarii de ENCRA.
+Description: Maître en arts..
+Status: Maître.
+Gender: male.
+Active during: %1349-1349%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse d'Amiens..
+Studied at: Paris (Nation de Picardie) %1349-1349%..
+Academic grades obtained: Maître ès arts (Paris) ..
+Ecclesiastical status: Clerc du diocèse d'Amiens ;.
+Ecclesiastical positions held: Chanoine de Seclin (Saint-Piat) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 17/08/2015..

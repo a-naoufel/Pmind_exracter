@@ -1,0 +1,12 @@
+PERSON: REGINALDUS Regis
+Also known as: Reginaldus REGIS.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1452-1492%.
+Born in: Orléanais (Orléans) ;.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris (Nation de France) %1452-1486%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Étudiant en médecine (Paris) ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) vers ;.
+University functions: Paris (Faculté de médecine : maître-régent %1468-1486%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 15/11/2023..

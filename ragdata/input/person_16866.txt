@@ -1,0 +1,11 @@
+PERSON: SIMON 3
+Also known as: SIMON.
+Description: Évêque de Várad..
+Status: Étudiant.
+Gender: male.
+Active during: %1202-1218%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant ?.
+Social origin: Noble (lignage Mikcse)..
+Ecclesiastical positions held: Évêque de Várad, %1202-1218%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Gergely KISS, 26/07/2014..

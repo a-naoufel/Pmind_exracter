@@ -1,0 +1,11 @@
+PERSON: ROBERTUS de Sancto Nicolao
+Also known as: Robertus de SAINT-NICOLAS.
+Description: Chantre de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1198-1225%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Rouen %1198-1214% ;; Chantre de Rouen %1223-1225% ;.
+Other ecclesiastical functions: Clerc de l’archevêque de Rouen ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 5/11/2021..

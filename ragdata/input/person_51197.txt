@@ -1,0 +1,14 @@
+PERSON: RICARDUS Papelore
+Also known as: Ricardus PAPELORE.
+Description: Membre du Collège du Trésorier.
+Status: Maître.
+Gender: male.
+Active during: %1362-1371%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris (Nation de Normandie) %1362-1371%..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en théologie (Paris) %1364-1371% ;.
+College affiliation: Collège du Trésorier : socius ;.
+Ecclesiastical status: Clerc en ;; Prêtre en ;.
+Ecclesiastical positions held: Recteur de Baudribosc en %1364-1371% ;; Chapelain de Paris (Saint-Jean-Baptiste) en ;; Provision pour un bénéfice ecclésiastique à la collation de l’abbé et du couvent du monastère (bénédictin) de Saint-Denis en réponse au rotulus de l’Université de Paris en : mandat au chancelier de Paris ;; Provision pour une expectative de bénéfice ecclésiastique à la collation de l’archevêque de Rouen en réponse au rotulus du Collège du Trésor en (7 décembre) ;; Provision pour un bénéfice ecclésiastique à la collation de l’abbé et du couvent du monastère (bénédictin) de Saint-Wandrille en réponse au rotulus de l’Université de Paris en : mandat au chantre de Paris ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/09/2020)..

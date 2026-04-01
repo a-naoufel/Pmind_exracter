@@ -1,0 +1,12 @@
+PERSON: GERARDUS Turgis 1
+Also known as: Gerardus TURGIS; Gérard TURGIS.
+Description: Maître-régent de la Faculté de Médecine.
+Status: Maître.
+Gender: male.
+Active during: %1443-1448%.
+Born in: Île-de-France (Paris)..
+Diocese of origin: Diocèse de Paris..
+Studied at: Paris, %1443-1448%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ..
+University functions: Paris (Faculté de Médecine : Maîtrerégent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 12/01/2022..

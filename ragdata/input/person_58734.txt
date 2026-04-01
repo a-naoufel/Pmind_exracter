@@ -1,0 +1,10 @@
+PERSON: GUIDO Raoul
+Also known as: Guy RAOUL.
+Description: Procureur au Parlement de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1405-1416%.
+Born in: Bretagne ?.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 06/04/2025..

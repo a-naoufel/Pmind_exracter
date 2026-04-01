@@ -1,0 +1,10 @@
+PERSON: PETRUS Caronis 2
+Also known as: Petrus CARONIS.
+Description: Clerc du scribe de l'université.
+Status: Suppôt.
+Gender: male.
+Active during: %1445-1445%.
+Studied at: Paris..
+Academic grades obtained: ?.
+University functions: Paris (Université : clerc de Michael HEBERTI, scribe de l'Université en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 16/12/2020..

@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Pagani 1
+Also known as: Guillermus PAGANI.
+Description: Chanoine de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1298-1299%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Poitiers %1298- % ;; Chanoine de Clermont (Saint-Pierre) ;; Chanoine de Cébazat ;; Chanoine de Quézac ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 09/12/2022..

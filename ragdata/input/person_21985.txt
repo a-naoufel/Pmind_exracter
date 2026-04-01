@@ -1,0 +1,14 @@
+PERSON: REGINALDUS Luillier
+Also known as: Regnaut LUILLIER.
+Description: Hôte du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1452-1455%.
+Born in: Île-de-France (Paris) ;.
+Diocese of origin: Diocèse de Paris..
+Studied at: Paris %1452-1455%..
+Academic grades obtained: Étudiant (Paris) %1452-1455% ;.
+College affiliation: Hôte du Collège de Dormans-Beauvais %1452-1455% ;.
+Family relationships: Son père est Jean LUILLIER, changeur et clerc de la Ville ; Son frère est Imbert LUILLIER ;.
+Social origin: Bourgeoisie..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 06/06/2024..

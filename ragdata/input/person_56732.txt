@@ -1,0 +1,13 @@
+PERSON: PETRUS Forteti
+Also known as: Petrus FORTETI.
+Description: Chanoine de Clermont.
+Status: Maître.
+Gender: male.
+Active during: %1363-1394%.
+Born in: Auvergne (Aurillac) ;.
+Diocese of origin: Diocèse de Saint-Flour ;.
+Studied at: ?Paris ;.
+Academic grades obtained: Maître ès arts (Paris ?) ;; Licencié en droit canon ;.
+College affiliation: Fondateur du collège de Fortet ;.
+Ecclesiastical positions held: Chanoine de Paris (Notre-Dame) %1381-1394% ;; Chanoine de Clermont en ;; Archidiacre de Cusset en ;; Chanoine de Saint-Cloud %1391-1394% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/10/2023..

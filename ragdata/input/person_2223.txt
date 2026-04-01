@@ -1,0 +1,12 @@
+PERSON: EBRARDUS 7
+Also known as: EBERHARDUS.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1452-1452%.
+Born in: Alémanie ;.
+Diocese of origin: Diocèse de Constance..
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Ecclesiastical status: Clerc du diocèse de Constance..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 24/06/2021..

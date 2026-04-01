@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS de Voys
+Also known as: Guillermus de VOYS; Guillelmus de VOUS.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1292-1329%.
+Born in: Champagne (Voillecomte) ;.
+Diocese of origin: Diocèse de Sens ?.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Reims %1298-1329% ;.
+Other ecclesiastical functions: Official de Reims %1292-1297% ;; Sénéchal de Reims ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/04/2022..

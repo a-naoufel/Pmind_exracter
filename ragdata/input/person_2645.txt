@@ -1,0 +1,7 @@
+PERSON: GENOVEFA Lequokeleir
+Also known as: Genovefa LEQUOKELEIR.
+Description: Propriétaire d’une maison.
+Status: Extérieur.
+Gender: female.
+Active during: %1286-1286%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/11/2021..

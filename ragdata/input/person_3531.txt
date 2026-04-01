@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Sapientis 1
+Also known as: Guillelmus SAPIENTIS; Guillaume SAPIENTIS.
+Description: Étudiant en médecine..
+Status: Étudiant.
+Gender: male.
+Active during: %1413-1414%.
+Studied at: Paris %1413-1414%..
+Academic grades obtained: Étudiant en médecine (Paris) %1413-1414%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/04/2022..

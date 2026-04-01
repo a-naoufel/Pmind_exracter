@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Aubry
+Also known as: Guillelmus AUBRY.
+Description: Docteur en décret.
+Status: Maître.
+Gender: male.
+Active during: %1455-1455%.
+Studied at: Paris (Nation de France)..
+Academic grades obtained: Docteur en décret (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 16/10/2020..

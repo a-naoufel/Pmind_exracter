@@ -1,0 +1,12 @@
+PERSON: GERVASIUS 1
+Also known as: GERVASIUS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1156-1166%.
+Born in: Angleterre ?.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant de droit canon..
+Academic relationships: Son maître est Gérard PUCELLE à Paris..
+Ecclesiastical positions held: Moine (bénédictin) de Durham ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 27/04/2020)..

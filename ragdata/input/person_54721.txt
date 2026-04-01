@@ -1,0 +1,12 @@
+PERSON: MICHAEL Groleau
+Also known as: Michael GROLEAU.
+Description: Chanoine de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1440-1472%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;; Bachelier en droit canon ;; Licencié en droit civil ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Tours (Saint-Martin) ;; Prévôt de Tours (Saint-Martin) ;; Chanoine de Valence %1448-1450% ;; Chanoine d’Angers %1451-1472% ;; Aumônier de Mirebeau (diocèse de Poitiers) %1464-1472% ;; Écolâtre d’Angers %1466-1472% ;; Chanoine de Poitiers % -1472% ;.
+Other ecclesiastical functions: Vicaire de Fréjus ;; Vicairegénéral de Poitiers %1468-1472% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 27/11/2022..

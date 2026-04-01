@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Goteronis
+Also known as: Guillelmus GOTERONIS; Guillermus GOTERONIS.
+Description: Licencié en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1489-1489%.
+Studied at: Paris %1489-1489%..
+Academic grades obtained: Licencié en décret (Paris) 14 avril ..
+Academic relationships: Son maître est Nicolaus de CONTY en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet 02/05/2022..

@@ -1,0 +1,9 @@
+PERSON: ROGARIUS Carnifex
+Also known as: Rogerus dictus CARNIFEX.
+Description: Notaire..
+Status: Extérieur.
+Gender: male.
+Active during: %1281-1281%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 31/08/2024)..

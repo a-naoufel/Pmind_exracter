@@ -1,0 +1,16 @@
+PERSON: SIMON de Brion (Martin IV)
+Also known as: Simon de BRION; Simon de MEINPICIACO; MARTIN IV.
+Description: Pape.
+Status: Maître.
+Gender: male.
+Active during: %1240-1285%.
+Born in: Champagne ;.
+Diocese of origin: Diocèse de Sens..
+Studied at: Paris ;.
+Academic grades obtained: Maître ;.
+Family relationships: Son père est Jean de BRION, juge-maire de la seigneurie de Donnemarie ; Son frère est Gilles de BRION, gouverneur de Champagne ; Son parent est Guillaume de BRION, conseiller de Saint LOUIS ;.
+Social origin: Noble..
+Ecclesiastical positions held: Archidiacre du Vexinfrançais %1250-1252% ;; Archidiacre d’Eu %1252-1253% ;; Archidiacre de Rouen %1255-1259% ;; Chanoine de Tours ;; Trésorier de Tours (Saint-Martin) ;; Cardinal-prêtre de Sainte-Cécile %1261-1281% ;; Pape %1281-1285%..
+Representation roles: Légatpontifical en France %1264-1269% ;; Légatpontifical en France %1274-1279% ;.
+Authored work: 'Epistolae', composed around %1281-1285%.
+Source: DBI : https://www.treccani.it/enciclopedia/papa-martino-iv_(Dizionario-Biografico)/.

@@ -1,0 +1,10 @@
+PERSON: GERARDUS de Nova Villa
+Also known as: Gerardus NOVAVILLA.
+Description: Chantre de Tyarno.
+Status: Maître.
+Gender: male.
+Active during: %1300-1300%.
+Studied at: Paris ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Chantre de Tyarno en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 26/10/2019..

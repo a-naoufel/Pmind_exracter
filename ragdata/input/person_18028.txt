@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Porchet
+Also known as: Guillelmus PORCHET.
+Description: Licencié en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1474-1482%.
+Studied at: Paris %1474-1482%..
+Academic grades obtained: Licencié en décret (Paris) en avril ..
+Academic relationships: Son maître est Stephanus de VETERIVILLA en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 04/05/2015..

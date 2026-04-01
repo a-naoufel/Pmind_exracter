@@ -1,0 +1,9 @@
+PERSON: DIONYSIUS de Lens
+Also known as: Dionysius de LENS; Denis de LENS; Denis de LAON.
+Description: Chirurgien parisien..
+Status: Maître.
+Gender: male.
+Active during: %1423-1436%.
+Studied at: Paris..
+Academic grades obtained: Maître-chirurgien ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 27/05/2021)..

@@ -1,0 +1,9 @@
+PERSON: H. de Arena
+Also known as: H. de ARENA.
+Description: Secrétaire ou notaire pontifical.
+Status: Extérieur.
+Gender: male.
+Active during: %1379-1379%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 08/06/2022)..

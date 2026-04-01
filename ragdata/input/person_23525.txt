@@ -1,0 +1,12 @@
+PERSON: HENRICUS Chacerat
+Also known as: Henricus CHACERAT; Henricus CHANTESSART.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1447-1451%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris..
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+University functions: Paris (Nation de France : examinator baccalariorum pour la province de Paris, nommé en (31 décembre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 25/06/2022..

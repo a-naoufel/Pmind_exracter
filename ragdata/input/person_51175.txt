@@ -1,0 +1,14 @@
+PERSON: HENRICUS de Ecclesia
+Also known as: Henricus de ECCLESIA.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1352-1354%.
+Born in: Flandre ;.
+Diocese of origin: Diocèse de Tournai ;.
+Studied at: Paris (Nation de Picardie) %1352-1354%..
+Academic grades obtained: Maître ès arts (Paris) :; Bachelier en théologie (Paris) avant :; Maître en théologie (Paris) après ;.
+College affiliation: Collège de Sorbonne %1354-1359% ;; Il est l’un des procureurs de la Sorbonne désignés en (18 mai) par le cardinal Pierre de CROS en tant que procureur de la Sorbonne pour retirer les livres données au collège par Germain de NARBONNE, maître en théologie, et par Étienne SEGUIN, maître en médecine ; il est alors décrit comme bachelier.
+Ecclesiastical status: Diacre en ;.
+Ecclesiastical positions held: Demande le rectorat de Cormeilles en ;; Doyen de Courtrai (Notre-Dame) ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 3/04/2023 ;.

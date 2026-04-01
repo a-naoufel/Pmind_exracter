@@ -1,0 +1,16 @@
+PERSON: GILBERTUS Anglicus 2
+Also known as: Gilbertus ANGLICUS; Gilbert the ENGLISHMAN.
+Description: Médecin.
+Status: Maître.
+Gender: male.
+Active during: %1230-1260%.
+Born in: Angleterre..
+Studied at: Paris ;; Montpellier..
+Academic grades obtained: Maître ès arts (Paris) ?; Maître en médecine ?.
+University functions: Montpellier : professeur..
+Authored work: 'Compendium medicinae', composed around ?.
+Authored work: '(Commentaire sur le Carmen de urinis de Gilbert de Corbeil)', composed around ?.
+Authored work: 'Antidotarium', composed around ?.
+Authored work: 'De febribus', composed around ?.
+Authored work: 'Practica', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet 26/04/2020..

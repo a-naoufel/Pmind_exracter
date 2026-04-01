@@ -1,0 +1,10 @@
+PERSON: BERNARDUS Hugo de Cardalhaco
+Also known as: Bernardus Hugo de CARDALHACO.
+Description: Chanoine de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1349-1355%.
+Studied at: ?.
+Academic grades obtained: Docteur in utroque jure ;.
+Ecclesiastical positions held: Chanoine de Rodez %1349-1357% ;; Prieur de Vimenet ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 1/06/2022..

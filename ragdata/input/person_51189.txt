@@ -1,0 +1,11 @@
+PERSON: GALFREDUS Maisant
+Also known as: Geoffroy MAISANT.
+Description: Procureur du Collège du Trésorier.
+Status: Étudiant.
+Gender: male.
+Active during: %1437-1437%.
+Born in: Normandie ;.
+Studied at: Paris (Nation de Normandie).
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège du Trésorier : procureur ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Marion BERNARD-SCWEITZER, dernière mise à jour 25/09/2020)..

@@ -1,0 +1,9 @@
+PERSON: NICOLAUS Benedicti de Largo Campo
+Also known as: Nicolaus BENEDICTI de Largo Campo; Nicolaus de LARGO CAMPO.
+Description: Candidat au baccalauréat en médecine..
+Status: Étudiant.
+Gender: male.
+Active during: %1328-1329%.
+Studied at: Paris %:1328:-:1329:%..
+Academic grades obtained: Étudiant en médecine (Paris) %:1328:-:1329:%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 08/10/2023..

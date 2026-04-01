@@ -1,0 +1,23 @@
+PERSON: ALEXANDER de Ashby
+Also known as: Alexandre d'ASHBY; Alexandre de SOMERSET.
+Description: Augustin.
+Status: Extérieur.
+Gender: male.
+Active during: %1173-1214%.
+Born in: Angleterre(?Somerset ou ?Staffordshire)..
+Studied at: ?.
+Religious order: O.S.A. : chanoineaugustin de CanonsAshby..
+Religious functions: Prieur (augustin) de CanonsAshby ..
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Instructio ad novitios', composed around ?.
+Authored work: 'Meditationes', composed around ?.
+Authored work: 'De fastis seu sacris diebus', composed around ?.
+Authored work: 'De artificioso modo praedicandi', composed around ?.
+Authored work: 'Ad Lethardum argumenta bibliorum, seu Brevissima comprehensio historiarum V. et N.T.', composed around ?.
+Authored work: 'Passio Agnetis', composed around ?.
+Authored work: 'Vita S. Agnetis', composed around ?.
+Authored work: 'Vita Berellini eremitae', composed around ?.
+Authored work: 'Vita Cungari eremitae', composed around ?.
+Authored work: 'Libellus de sanctorum miraculis sive Liber festivalis', composed around ?.
+Authored work: 'Epitome historiae britannicae', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 29/10/2015)..

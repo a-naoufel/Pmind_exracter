@@ -1,0 +1,12 @@
+PERSON: ADRIANUS de Hungaria
+Also known as: Adrianus de HUNGARIA.
+Description: Évêque de Transylvanie.
+Status: Étudiant.
+Gender: male.
+Active during: %1174-1201%.
+Born in: Hongrie..
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: École de Sainte-Geneviève ..
+Ecclesiastical positions held: Grand-prévôt d’Esztergom ;; Prévôt de Buda %1185-1186% ;; Évêque de Erdélyi (Transylvanie) %1192-1201%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour, 13/11/2024..

@@ -1,0 +1,7 @@
+PERSON: LOGRINA
+Also known as: LOGRINA.
+Description: Locataire de la Sorbonne.
+Status: Extérieur.
+Gender: female.
+Active during: %1484-1484%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 14/06/2024.

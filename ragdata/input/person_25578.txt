@@ -1,0 +1,14 @@
+PERSON: SIMON de Charly
+Also known as: Simon de CHARLY.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1370-1394%.
+Born in: Île-de-France (Meaux) ;.
+Diocese of origin: Diocèse de Meaux ;.
+Studied at: Paris %1370-1375% et %1378-1381% ;; Orléans %1375-1378% ;.
+Academic grades obtained: Étudiant (Paris) %1370-1375% et %1378-1381% ;.
+College affiliation: Boursier au collège de Dormans-Beauvais %1370-1375% et %1378-1381%..
+Family relationships: Son père est Jean de CHARLY ; Son grand-oncle est Jean II de DORMANS ; Son parent est (peut-être) Aegidius de CHARLY ;.
+Ecclesiastical status: Clerc en ;; Sous-diacre en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 8/02/2019)..

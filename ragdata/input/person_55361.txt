@@ -1,0 +1,10 @@
+PERSON: GILBERTUS de Amfrevilla
+Also known as: Gilbertus de AMFREVILLA.
+Description: Chanoine d’Évreux.
+Status: Incertain.
+Gender: male.
+Active during: %1257-1268%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Lisieux ;; Chanoine d’Évreux ;; Archidiacre du Neubourg ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 23/02/2023)..

@@ -1,0 +1,11 @@
+PERSON: IVO de Curia
+Also known as: Yvo de CURIA.
+Description: Notaire du chapitre de Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1327-1330%.
+Born in: Bretagne ;.
+Diocese of origin: Diocèse de Léon ;.
+Studied at: Paris %1327-1330%..
+Academic grades obtained: Étudiant ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 20/09/2022..

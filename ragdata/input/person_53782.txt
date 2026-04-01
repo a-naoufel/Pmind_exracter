@@ -1,0 +1,20 @@
+PERSON: GALTERIUS de Constanciis
+Also known as: Galterius de CONSTANCIIS; Gauthier de COUTANCES; Walter de COUTANCES; GALTERIUS; Maître WALTER; Magister WALTHERUS.
+Description: Archevêque de Rouen.
+Status: Maître.
+Gender: male.
+Active during: %1165-1207%.
+Born in: Angleterre (Cornouaille)..
+Studied at: Paris..
+Academic grades obtained: Magister..
+Family relationships: Son père est REINFRID ; Sa mère est GUNILLA ; Son frère est Roger FITZ REINFRID, un officier royal..
+Ecclesiastical positions held: Chanoine de Rouen ;; Trésorier de Rouen ;; Archidiacre d’Oxford ;; Évêque de Lincoln %1183-1184% ;; Archevêque de Rouen %1184-1207/.
+University functions: Paris (Maître enseignant le droit canon vers %1165-1177%) ;.
+Authored work: 'Tractaturus de judiciis', composed around %1165-1166%.
+Authored work: 'Summa legum', composed around %1173-1176%.
+Authored work: '(Formulaire ‘De presumptionibus’)', composed around ?.
+Authored work: 'Perpendiculum', composed around ?.
+Authored work: '(Gloses sur le Décret de Gratien)', composed around ?.
+Authored work: 'Argumentum cum religiosi', composed around ?.
+Authored work: 'Distinctio ‘Delicto cum iudice’', composed around ?.
+Source: MIRABILE : Federico CONTINI :.

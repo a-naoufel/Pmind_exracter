@@ -1,0 +1,13 @@
+PERSON: ALARDUS de Montigny
+Also known as: Alardus de MONTIGNY.
+Description: Chanoine de Tournai.
+Status: Incertain.
+Gender: male.
+Active during: %1289-1301%.
+Born in: Flandre (Montigny)..
+Diocese of origin: Diocèse de Tournai..
+Studied at: ?.
+Academic grades obtained: Magister ..
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Tournai %1284-1301% ;; Écolâtre de Tournai %1284-1301% ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 14/05/2017..

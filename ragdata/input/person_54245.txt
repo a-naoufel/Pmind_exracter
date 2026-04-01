@@ -1,0 +1,10 @@
+PERSON: PETRUS Raynaudi
+Also known as: Petrus RAYNAUDI; Petrus REGINALDI; Petrus REGNAUT.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1326-1353%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Saint-Oustrille %1326-1337% ;; Chanoine de Sens (‘Saint-Pierre’) % -1337% ;; Chanoine de Sens (‘Saint-Jean-Baptiste’) %1337-1353% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 20/09/2022..

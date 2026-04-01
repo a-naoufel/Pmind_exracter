@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS de Flavacourt 1
+Also known as: Guillelmus de FLAVACOURT.
+Description: Archidiacre du Petit Caux.
+Status: Extérieur.
+Gender: male.
+Active during: %1320-1349%.
+Born in: Normandie (Vexinnormand) ;.
+Diocese of origin: Diocèse de Rouen ?.
+Studied at: ?.
+Academic grades obtained: Docteur in utroque ?.
+Family relationships: Son parent est Guillaume de FLAVACOURT, archevêque de Rouen ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Rouen %1320-1349% ;; Archidiacre du Petit-Caux %1320-1349% ;.
+University functions: Professeur in utroque ;.

@@ -1,0 +1,9 @@
+PERSON: LUDOVICUS Chopin
+Also known as: Ludovicus CHOPIN.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1445-1445%.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/01/2023..

@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Goaere
+Also known as: Guillelmus GOAERE.
+Description: Étudiant en décret.
+Status: Maître.
+Gender: male.
+Active during: %1387-1387%.
+Born in: Bretagne ;.
+Diocese of origin: Diocèse de Rennes ;.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en décret (Paris) en ;.
+Ecclesiastical status: Clerc du diocèse de Rennes..
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus de ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 28/11/2021..

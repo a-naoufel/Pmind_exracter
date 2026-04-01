@@ -1,0 +1,13 @@
+PERSON: GERARDUS de Reims
+Also known as: Girard de REIMS; Girardin de REIMS; Girart de REIMS.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1381-1384%.
+Born in: ?Champagne (Reims ?) ;.
+Diocese of origin: Diocèse de Reims ?.
+Studied at: Paris %1381-1384%..
+Academic grades obtained: Étudiant (Paris) %1381-1384% ?.
+College affiliation: Collège de Dormans-Beauvais : boursier %1381-1384% ;.
+Family relationships: Son parent est peut-être Hugues de REIMS, clerc de la chapelle puis boursier du Collège de Dormans-Beauvais à la même époque ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 18/11/2019..

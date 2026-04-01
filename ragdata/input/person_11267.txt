@@ -1,0 +1,9 @@
+PERSON: ROLANDUS Freron
+Also known as: Roland FRERON; Roland FERON.
+Description: Bachelier en médecine..
+Status: Gradué.
+Gender: male.
+Active during: %1414-1417%.
+Studied at: Paris %1414-1417%..
+Academic grades obtained: Étudiant en médecine (Paris) %1414-1415% ;; Bachelier en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 10/02/2019..

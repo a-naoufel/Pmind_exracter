@@ -1,0 +1,9 @@
+PERSON: BERTRANDUS 4
+Also known as: BERTRANDUS.
+Description: Valet du Collège de Dormans-Beauvais.
+Status: Suppôt.
+Gender: male.
+Active during: %1410-1410%.
+Studied at: Paris ..
+College affiliation: Collège de Dormans-Beauvais : valet ;.
+Source: LAMOP : Opération Charles VI :.

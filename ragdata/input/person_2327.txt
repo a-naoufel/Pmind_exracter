@@ -1,0 +1,11 @@
+PERSON: FRANCISCUS de Lovanio
+Also known as: Franciscus de LOVANIO.
+Description: Notaire.
+Status: Incertain.
+Gender: male.
+Active during: %1481-1481%.
+Born in: Brabant/Louvain ?.
+Diocese of origin: Diocèse de Liège ?.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/08/2021..

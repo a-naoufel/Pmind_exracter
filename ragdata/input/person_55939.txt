@@ -1,0 +1,15 @@
+PERSON: PETRUS de Caritate 1
+Also known as: Petrus de CARITATE.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1339-1346%.
+Born in: Berry ?.
+Diocese of origin: Diocèse de Bourges ?.
+Studied at: Paris %1339-1346% ;.
+Academic grades obtained: Bachelier en théologie (Paris) .; Maître en théologie (Paris) ?.
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère du couvent (dominicain) de Paris..
+University functions: Paris (Faculté de Théologie : lecteur des Sentences pour ) ;.
+Authored work: 'Chronica a principio mundi', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/05/2023..

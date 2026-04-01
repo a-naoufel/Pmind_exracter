@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Valle Edere
+Also known as: Guillelmus de VALLE EDERE.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1288-1288%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Sens ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Sens (‘Saint-Pierre’) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 24 octobre 2022..

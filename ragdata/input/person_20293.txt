@@ -1,0 +1,12 @@
+PERSON: PETRUS de Ruz
+Also known as: Perrin de RUZ.
+Description: Boursier du collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1378-1384%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Meaux..
+Studied at: Paris %1378-1384%..
+Academic grades obtained: Étudiant..
+College affiliation: Collège de Dormans-Beauvais : boursier en , entré en (septembre) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction, Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 21/09/2023..

@@ -1,0 +1,11 @@
+PERSON: ANSCULPHUS
+Also known as: ANSCULPHUS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1220-1227%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) vers ..
+Religious order: O. Praem..
+Religious functions: Abbé (O. Praem.) de Joyenval % -227%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/2/2022)..

@@ -1,0 +1,12 @@
+PERSON: BERTALDUS de Drispensted
+Also known as: Bertoldus de DRISPENSTED.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1352-1352%.
+Born in: Saxe (Drispenstedt ?) ?.
+Diocese of origin: Diocèse de Hildesheim ?.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Academic relationships: Son maître est Jacobus de OLANDIA pour le baccalauréat en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/02/2021)..

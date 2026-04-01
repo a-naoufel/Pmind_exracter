@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Barbier
+Also known as: Guillaume BARBIER.
+Description: Chapelain du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1385-1386%.
+Born in: Champagne (Châlons-sur-Marne) ;.
+Diocese of origin: Diocèse de Châlons-sur-Marne ;.
+Studied at: Paris %1385-1386%..
+Academic grades obtained: Étudiant (Paris) %1385-1386%..
+College affiliation: Collège de Dormans-Beauvais : chapelain en %1385-1386% ;.
+Ecclesiastical positions held: Prêtre ;; Chapelain de Paris (Collège de Dormans-Beauvais) %1385-1386% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 21/02/2022..

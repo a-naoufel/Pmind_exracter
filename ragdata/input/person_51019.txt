@@ -1,0 +1,13 @@
+PERSON: GALFREDUS Oliverii 1
+Also known as: Gaufridus OLIVERII.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1385-1403%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Saint-Malo ;.
+Studied at: Paris %1385-1389% ;.
+Academic grades obtained: Étudiant en décret (Paris) %1385-1389% ;; Bachelier en décret (Paris) en ;.
+Ecclesiastical status: Clerc du diocèse de Saint-Malo ;.
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiastique à la collation de l’évêque, du doyen, du chantre et du chapitre de Tréguier sur un rotulus de Gilles de LESCOURS, référendaire pontifical en ;; Candidat à un bénéfice sur le Rotulus licentiatorum et bacallariorum in decretis Parisius adressé à BENOÎT XIII en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 27/08/2020..

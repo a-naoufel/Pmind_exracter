@@ -1,0 +1,12 @@
+PERSON: RADULPHUS de Salione
+Also known as: Radulphus de SALIONE.
+Description: Archidiacre de Chalon.
+Status: Incertain.
+Gender: male.
+Active during: %1239-1242%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Langres ;.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Chanoine de Chalon ;; Archidiacre de Chalon ;; Chanoine de Langres %1239-1242% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/05/2025..

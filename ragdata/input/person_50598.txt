@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Campionis
+Also known as: Guillelmus CAMPIONIS.
+Description: Chanoine de Bayeux.
+Status: Maître.
+Gender: male.
+Active during: %1342-1349%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie) %1342-1349%..
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en théologie (Paris) ;; Maître en théologie (Paris) ;.
+Ecclesiastical positions held: Curé de Berville-la-Campagne (Saint-Martin) au diocèse d’Évreux ;; Provision pour un canonicat avec expectative de prébende de Coutances en réponse au rotulus des bacheliers et curseurs en théologie de l’Université de Paris en : mandat au Doyen d’Évreux, à Stephanus de NOVAVILLA, chanoine de Paris et à Nicolaus de DANVILLA, chanoine de Lisieux ;; Provision pour un canonicat avec expectative de prébende de Bayeux, vacante par suite de la mort de Simon de CAVALCANTIBUS en (7 janvier) ;.
+University functions: Paris (Faculté de Théologie : Nonce à Avignon en (Mai)).; Paris (Faculté de Théologie : Maître-régent ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 12/01/2020..

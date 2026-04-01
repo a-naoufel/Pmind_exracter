@@ -1,0 +1,18 @@
+PERSON: PETRUS de Sancto Dionysio 2
+Also known as: Petrus de SANCTO DIONYSIO; Pierre de SAINT-DENYS.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1290-1330%.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) ca...
+Religious order: O.S.B. : moine bénédictin ?.
+University functions: Paris (Maîtrerégent en Théologie vers )..
+Authored work: '(Sermon pour la fête de Saint André)', composed around (30 novembre) pour la fête de Saint ANDRE..
+Authored work: 'Sermon pour la Septuagésime', composed around ?%1313-1315%..
+Authored work: 'Quodlibet (1)', composed around ?.
+Authored work: 'Quodlibet (2)', composed around ?.
+Authored work: 'Quodlibet (3)', composed around ?.
+Authored work: 'Quaestiones theologicae (aux vespéries de Durand de SAINT-POURCAIN)', composed around ?.
+Authored work: 'Quaestiones theologicae (à l'aulique de Prosper de REGGIO)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 19-09-2024..

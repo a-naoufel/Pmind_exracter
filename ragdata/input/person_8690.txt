@@ -1,0 +1,10 @@
+PERSON: LEONIUS de Baest
+Also known as: Leonius de BAEST.
+Description: Étudiant en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1404-1417%.
+Studied at: Paris %1407-1408%.; Maître ès arts (Paris) ?.
+Academic grades obtained: Étudiant en médecine (Paris) %1407-1408%..
+College affiliation: Sorbonne : socius ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 26/08/2023)..

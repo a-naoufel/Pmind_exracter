@@ -1,0 +1,10 @@
+PERSON: PETRUS de Calvomonte
+Also known as: Petrus de CALVOMONTE.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1329-1349%.
+Studied at: Paris %1329-1349%..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Maître en médecine (Paris) attesté en juin ..
+Ecclesiastical positions held: Canonicat avec expectative de prébende dans le diocèse d'Autun reçu en juin ;; Candidat à des bénéfices sur le rotulus de la Faculté de médecine de Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 09/02/2024..

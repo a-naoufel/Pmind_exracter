@@ -1,0 +1,7 @@
+PERSON: AEGIDIUS de Drocis
+Also known as: Aegidius de DROCIS.
+Description: Commissaire au Châtelet.
+Status: Extérieur.
+Gender: male.
+Active during: %1381-1381%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 27/04/2020)..

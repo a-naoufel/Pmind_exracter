@@ -1,0 +1,12 @@
+PERSON: PETRUS Sarrazin
+Also known as: Petrus SARRAZIN.
+Description: Boursier du collège de Dainville.
+Status: Maître.
+Gender: male.
+Active during: %1494-1507%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Noyon ;.
+Studied at: Paris (Nation de Picardie) %1506-1507%..
+Academic grades obtained: Maître ès arts (Paris) ;.
+College affiliation: Collège de Dainville : Procureur %1494-1497% ;; Collège de Dainville : maître avant ?; Collège de Dainville : boursier jusqu’en ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

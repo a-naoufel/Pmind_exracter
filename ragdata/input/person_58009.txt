@@ -1,0 +1,10 @@
+PERSON: STEPHANUS Martini 2
+Also known as: Stephanus MARTINI.
+Description: Boursier du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1457-1457%.
+Studied at: Paris.
+Academic grades obtained: Étudiant (Paris) en ;.
+College affiliation: Collège d'Autun : boursier ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 05/09/2024..

@@ -1,0 +1,21 @@
+PERSON: GALFREDUS Cornubiensis
+Also known as: Galfredus CORNUBIENSIS; Godfrey of CORNWALL; Gottofredus ANGLICUS.
+Description: Carme.
+Status: Maître.
+Gender: male.
+Active during: %1310-1347%.
+Born in: Angleterre (Cornouailles).
+Studied at: Oxford ?; Paris ?.
+Academic grades obtained: Docteur en théologie (Oxford ?)..
+Religious order: O. Carm. : frère carme du couvent (carme) de Plymouth ;.
+University functions: Paris (enseigne la théologie ?) ;.
+Authored work: 'Commentaria in libros IV Sententiarum', composed around ?.
+Authored work: 'Quaestione super libros IV Sententiarum', composed around ?.
+Authored work: 'Contra Gerardum de Bononia, priorem generalem ordinis Carmelitarum', composed around ?.
+Authored work: 'In Analytica Posteriora librum', composed around ?.
+Authored work: 'In Metaphysicam', composed around ?.
+Authored work: 'In sex principia Gilberti Porretani', composed around ?.
+Authored work: 'Quodlibeta', composed around ?.
+Authored work: 'Super predicamenta', composed around ?.
+Authored work: 'In Physicam', composed around ?.
+Source: MIRABILE.

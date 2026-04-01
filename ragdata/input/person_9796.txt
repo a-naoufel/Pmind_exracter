@@ -1,0 +1,12 @@
+PERSON: RAIMUNDUS de Bona
+Also known as: Raymundus de BONA.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1371-1386%.
+Studied at: Paris %1372-1379%.
+Academic grades obtained: Licencié en théologie (Paris) ;; Docteur en théologie (Paris) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. ; frère dominicain.
+University functions: Paris (Faculté de Théologie : Lecteur des Sentences en ) ;; Paris (Faculté de Théologie : examinateur avec Johannes BLANCHART de Matthaeus de CREMA, O.F.M. étudiant la théologie à Paris en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 04/06/2024..

@@ -1,0 +1,15 @@
+PERSON: GUILLELMUS Le Tourneur
+Also known as: Guillelmus LE TOURNEUR.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1439-1472%.
+Born in: Normandie (Rouen) ;.
+Diocese of origin: Diocèse de Rouen ?.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Family relationships: Son père est Jean LE TOURNEUR, conseiller de Rouen ; Son frère est Jacques LE TOURNEUR, seigneur de Roys ; Son neveu est Johannes LE TOURNEUR, chantre de Rouen ; Son parent est Thomas LE TOURNEUR, chanoine de Rouen ;.
+Social origin: Bourgeoisie rouennaise ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Curé de Saint-Ouen-des-Champs %1446-1472% ;; Chanoine de Rouen %1439-1472% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 17/12/2021..

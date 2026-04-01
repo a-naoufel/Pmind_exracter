@@ -1,0 +1,12 @@
+PERSON: ANDREAS Barre
+Also known as: André BARRÉ.
+Description: Abbé de Saint-Victor.
+Status: Incertain.
+Gender: male.
+Active during: %1432-1448%.
+Studied at: Paris %1432-1448%..
+Academic grades obtained: Ètudiant (Paris) avant ;.
+College affiliation: Saint-Victor ;.
+Religious order: Chanoine (O.S.A.) de Saint-Victor ;.
+Religious functions: Abbé (O.S.A.) de Saint-Victor %1432-1448% ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 6/12/2020)..

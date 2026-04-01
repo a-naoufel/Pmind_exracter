@@ -1,0 +1,11 @@
+PERSON: ADEMARUS de Turribus
+Description: Chanoine de Sens.
+Status: Étudiant.
+Gender: male.
+Active during: %1378-1394%.
+Studied at: Paris (Nation de France) %1378-1385%..
+Academic grades obtained: Étudiant à Paris..
+Family relationships: Son frère est Galfredus de TURRIBUS, aussi étudiant à Paris ; Son oncle est Adémar ROBERT, archevêque de Sens ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Sens, avec la prébende de Sainte-MarieÉgyptienne en ;; Expectative de prébende à Auxerre (Saint-Germain) en .; Candidat à un canonicat avec expectative de prébende à Tours (Saint-Martin).; Candidat à un canonicat avec expectative de prébende à Aire-sur-la-Lys (Saint-Pierre) sur le rotulus du Cardinal Pierre de MONTERUC en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 12/04/2020..

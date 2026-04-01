@@ -1,0 +1,12 @@
+PERSON: SUTBERNUS Sunonis de Suecia
+Also known as: SUTBERNUS Sunonis de Suecia; Sutbernus SUNONIS de Suecia; Sutbernus Sunonis de SUECIA.
+Description: Étudiant.
+Status: Gradué.
+Gender: male.
+Active during: %1344-1344%.
+Born in: Suède.
+Studied at: Paris (Nationanglaise), ..
+Academic grades obtained: Bachelier ès arts (Paris), ..
+Academic relationships: Élève de maître SUNO Karoli de Suecia, (déterminance)..
+Social origin: Inconnue.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 44/11/2014..

@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Verduno 1
+Also known as: Guillermus de VERDUN.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1193-1210%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Chanoine de Rouen %1193-1210% ;; Archidiacre de Gloucester à la cathédrale de Worcester ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 23/04/2022..

@@ -1,0 +1,10 @@
+PERSON: GIRAUDUS 1
+Also known as: GIRAUDUS.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1198-1200%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Sens (‘Saint-Jean-Baptiste’) ;; Official de Sens ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 26 octobre 2022..

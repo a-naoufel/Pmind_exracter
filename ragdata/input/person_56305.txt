@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Buris
+Also known as: Guillelmus de BURIS.
+Description: Chanoine du Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1309-1318%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical status: Diacre en ;; Prêtre en ;.
+Ecclesiastical positions held: Chanoine de LeMans %1309-1318% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/07/2023)..

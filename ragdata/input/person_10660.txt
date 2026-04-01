@@ -1,0 +1,11 @@
+PERSON: REGINALDUS Raguier
+Also known as: Reginaldus RAGUIER; Renaud RAGUIER.
+Description: Boursier au collège de Navarre..
+Status: Étudiant.
+Gender: male.
+Active during: %1403-1404%.
+Studied at: Paris %1404-1404%..
+Academic grades obtained: Étudiant ès arts (Paris) ..
+College affiliation: Boursier artien au collège de Navarre à Paris en ..
+Ecclesiastical positions held: Candidat à une cure dans le diocèse de Rouen, dans une supplique de la reine de France adressée en sa faveur, en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 12/05/2019..

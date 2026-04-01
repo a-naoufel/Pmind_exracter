@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Valla
+Also known as: Guillelmus de VALLA; Guillelmus de VALLE.
+Description: Licencié en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1416-1416%.
+Studied at: Paris %1416-1416%..
+Academic grades obtained: Licencié en décret (Paris) ..
+Academic relationships: Son maître est Reginaldus CRASSY pour la licence en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 13/04/2015..

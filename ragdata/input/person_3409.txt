@@ -1,0 +1,12 @@
+PERSON: GUIDO de Nivella
+Also known as: Guido de NIVELLA; Guido de NUVELLA.
+Description: Cistercien.
+Status: Maître.
+Gender: male.
+Active during: %1362-1367%.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) ..
+College affiliation: Collège Saint-Bernard ?.
+Religious order: Cistercien : abbaye (cistercienne) de Gouffern (Saint-André)..
+Religious functions: Abbé de l'abbaye (cistercienne) de Gouffern (Saint-André) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 29/01/2022)..

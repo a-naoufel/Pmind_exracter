@@ -1,0 +1,10 @@
+PERSON: ANTHONIUS Chamalier
+Also known as: Anthonius CHAMALIER; Anthonius CHAMALDY.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1480-1480%.
+Studied at: Paris %1480-1480%.
+Academic grades obtained: Licencié en théologie (Paris) (le 28 mars) ;; Docteur en théologie (Paris) (le 18 décembre) ..
+Religious order: O. Carm. : frère carme de la province de Narbonne..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire PRIOL-HOOGLAND, révision, Jean-Philippe Genet 19/09/2020..

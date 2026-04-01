@@ -1,0 +1,12 @@
+PERSON: ARNERUS
+Also known as: ARNERUS.
+Description: Chanoine.
+Status: Maître.
+Gender: male.
+Active during: %1309-1343%.
+Born in: Suède.
+Studied at: Paris? (Collège d'Uppsala?),..
+Academic grades obtained: Magister (P)?, ..
+College affiliation: Collège d'Uppsala?.
+Ecclesiastical positions held: Chanoine d'Uppsala (cathédrale), %1330-1343:%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Élisabeth MORNET, 01/07/2016..

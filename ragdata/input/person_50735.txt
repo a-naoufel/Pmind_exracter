@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Dallyng
+Also known as: Guillelmus de DALLYNG.
+Description: Magister.
+Status: Extérieur.
+Gender: male.
+Active during: %1324-1324%.
+Studied at: Cambridge ?.
+Academic grades obtained: Magister..
+Authored work: 'Quaestiones s. Analytica posteriora', composed around ?.
+Authored work: 'Quaestiones s. Peri hermenias', composed around ?.
+Authored work: 'Quaestiones s. De generatione et corruptione', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 31/03/2020..

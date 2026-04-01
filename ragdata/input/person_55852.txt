@@ -1,0 +1,9 @@
+PERSON: STEPHANUS de Saint Hillier
+Also known as: Estienne de SAINT HILLIER.
+Description: Garde du scel du tabellionage de la prévôté de Saint-Mihiel.
+Status: Extérieur.
+Gender: male.
+Active during: %1502-1502%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

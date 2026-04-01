@@ -1,0 +1,9 @@
+PERSON: MICHAEL de Berka
+Also known as: Michel de BERKA.
+Description: Étudiant en médecine.
+Status: Étudiant.
+Gender: male.
+Active during: %1405-1405%.
+Studied at: Paris %1405-1405%..
+Academic grades obtained: Étudiant en médecine (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 25/09/2023..

@@ -1,0 +1,12 @@
+PERSON: ADRIANUS de Borsele
+Also known as: Adrianus de BORSELE.
+Description: Etudiant.
+Status: Incertain.
+Gender: male.
+Active during: %1439-1459%.
+Born in: Pays-Bas ;.
+Diocese of origin: Diocèse d'Utrecht ;.
+Studied at: Louvain .; Paris avant ?.
+Academic grades obtained: Etudiant (Paris) avant ..
+Social origin: Noble ;.
+Source: RAG ;.

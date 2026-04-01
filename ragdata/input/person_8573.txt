@@ -1,0 +1,15 @@
+PERSON: LAMBERTUS de Campo
+Also known as: Lambertus de CAMPO; Lambert du CAMP.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1421-1444%.
+Born in: Artois ?.
+Studied at: Paris %1421-1427%.
+Academic grades obtained: Étudiant en théologie (Paris) ;; Bachelier en théologie (Paris) ?; Licencié en théologie (Paris) (le 13 mars) ;; Docteur en théologie (Paris) (le 15 novembre) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère du couvent (dominicain) de Saint-Omer..
+Religious functions: Prieur du couvent (dominicain) de Saint-Omer ;; Vicaire général de l'inquisition..
+Other ecclesiastical functions: Vicaire de l'inquisiteur en ..
+University functions: Paris (Faculté de Théologie : lecteur des Sentences en %1421-1422%) ;; Paris (Faculté de Théologie : Maîtrerégent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 27/02/2021)..

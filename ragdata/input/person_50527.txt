@@ -1,0 +1,10 @@
+PERSON: THOMAS Vanin
+Also known as: Thomas VANIN.
+Description: Conseiller-lai au Parlement.
+Status: Extérieur.
+Gender: male.
+Active during: %1345-1381%.
+Studied at: ?.
+Academic grades obtained: ?.
+Social origin: ?.
+Source: Paris au Moyen Âge : les Parisiens :.

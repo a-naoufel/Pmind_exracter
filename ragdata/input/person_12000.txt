@@ -1,0 +1,138 @@
+PERSON: THOMAS de Aquino
+Also known as: Thomas de AQUINO.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1250-1274%.
+Born in: Italie (Roccasecca)..
+Diocese of origin: Diocèse de Frosinone ?.
+Studied at: Naples %1239-1245% ;; Paris au couvent (dominicain) de Paris (Saint-Jacques) %1246-1248% ;; Cologne %1248-1251%.; Paris au couvent (dominicain) de Paris (Saint-Jacques) %1252-.
+Academic grades obtained: Bachelierbiblique en théologie (Paris) %1252-1254%.; Maître en théologie (Paris) .1256% ;.
+Family relationships: Son père est Landolfo d’AQUINO, chevalier ; Sa mère est Theodora ROSSI, de la famille Caracciolo ; Son frère est Aimone d’AQUINO ; Son frère est Rinaldo d’AQUINO Son frère est Landolfo d’AQUINO ; Sa sœur est Marotta d’AQUINO, abbesse de Capoue (Sainte-Marie) (morte vers ) ; Sa sœur est Theodora de SAN SEVERINO ; Son beau-frère est Ruggiero de SAN SEVERINO, comte de San Severino ; Son neveu est Tomaso de SAN SEVERINO, O.P. ; Sa sœur est Maria de SAN SEVERINO ; Son beau-frère est Guglielmo de SAN SEVERINO ; Sa nièce est Catarina de MORRA ; Sa sœur est Adelasia d’AQUILA ; Son beau-frère est Ruggiero d’AQUILA, comte de Traiecto ;.
+Academic relationships: Son maître est ALBERT le Grand à Paris et à Cologne..
+Social origin: Noble..
+Religious order: Dominicain, au couvent (dominicain) de Naples en (avril) ;.
+Religious functions: Prédicateurgénéral (dominicain) désigné au chapitreprovincial (dominicain) de Naples en ;; Il participe au chapitregénéral (dominicain) de Valenciennes en ;; Il participe au chapitreprovincial (dominicain) de Naples en ;; Il participe au chapitreprovincial (dominicain) de Orvieto en (septembre) ;; Il participe au chapitregénéral (dominicain) de Pérouse ;; Il participe au chapitreprovincial (dominicain) de Rome en (septembre) ;; Il participe au chapitreprovincial (dominicain) de Viterbe en (septembre) ;; Il participe au chapitreprovincial (dominicain) de Anagni en (septembre) ;; Il participe au chapitre provincial (dominicain) de Todi en %1266 (septembre) ;; Il participe au chapitreprovincial (dominicain) de Lucques en (juillet) ;; Il participe au chapitreprovincial (dominicain) de Viterbe en (juin) ;; Il participe au chapitregénéral (dominicain) de Paris en ;; Il participe au chapitregénéral (dominicain) de Rome en comme définiteur..
+University functions: Paris (Faculté de téologie : bachelier sententiaire %1252-1253% et %1254-1255%.; Paris (Couvent dominicain : Maître-régent en théologie %1256-1259%) ;; Orvieto (Couvent dominicain : lecteur conventuel %1261-1265%) ;; Roma (Couvent dominicain (Santa Sabina) : fondateur du Studium et lecteur conventuel %1265-1268%) ;; Leonard BOYLE le qualifie de studium personale ;; Paris (Faculté de Théologie : maître-régent %1268-1272%) ;; Naples (Studium generale dominicain : maître-régent %1272-1273%) ;.
+Authored work: 'Principia', composed around (mars-juin) à Paris..
+Authored work: 'Scriptum super libros Sententiarum', composed around %1252-1256% à Paris, cet ouvrage correspondant aux année d’enseignement de Thomas d’AQUIN comme bachelier sententiaire ;.
+Authored work: 'Summa contra Gentiles', composed around %1258-1265% à Paris et en Italie, à Naples et à Orvieto ;.
+Authored work: 'Summa theologiae', composed around %1265-1273%, commencée à Rome, poursuivie à Paris (Secunda Pars en %1271-1272%) et à Naples (Tertia Pars en ) ; le Supplementum a été compilé par ses disciples à partir du Commentaire sur les Sentences) ;.
+Authored work: 'Quaestiones disputatae de veritate [29]', composed around %1256-1259% à Paris..
+Authored work: 'Quaestiones disput. X de potentia Dei', composed around %1265-1266% ;.
+Authored work: 'Quaestiones disputatae de malo', composed around %1269-1271% à Paris..
+Authored work: 'Quaestiones disputatae de spiritualibus creaturis', composed around %1267-1268% à Rome..
+Authored work: 'Quaestiones disputatae de Anima', composed around %1266-1267% à Rome..
+Authored work: 'Quaestiones disputatae de virtutibus in communi', composed around /Sous ce titre se retrouvent d’autres series de questions disputes à Paris : De correctione fraterna, De caritate, De spe et De virtutibus cardinalibus..
+Authored work: 'Quaestio disputata de unione Verbi incarnati', composed around ..
+Authored work: 'Quaestiones de quodlibet I-XII', composed around %1256-1259% (VII-XI) et %1269- (I-VI et XII) à Paris..
+Authored work: 'Exposicio in Job ad litteram', composed around %1261-1265% à Orvieto..
+Authored work: 'Postilla in Psalmos', composed around %1272-1273% à Naples..
+Authored work: 'Super Cantica Canticorum', composed around %1273-1274% dicté sur son lit de mort à Fossanova..
+Authored work: 'In Isaiam expositio ad litteram', composed around %1251-1252% à Paris, après le retour de Cologne..
+Authored work: 'In Jeremiam et Threnos expositio', composed around %1251-1253% à Paris..
+Authored work: 'Glossa continua super Evangelia', composed around %1262-1267% à Orvieto et à Rome., dedicated to Rédigé à la demande du pape URBAIN IV..
+Authored work: 'Lectura super Matthaeum', composed around %1269-1270% à Paris ;.
+Authored work: 'Lectura super Johannem (Reportatio)', composed around %1270-1272% à Paris ;.
+Authored work: 'Expositio et lectura super Epistolas Pauli Apostoli', composed around ?.
+Authored work: 'Quaestiones disputatae 3. de sensibus Sacrae Scripturae', composed around ;.
+Authored work: 'Quaestiones disputatae 2 de opere manuali', composed around ..
+Authored work: 'Sententia super librum Boethii de Trinitate', composed around %1257-1259%, pendant le premier enseignement à Paris, inachevé ;.
+Authored work: 'In librum Dionysii de divinis nominibus', composed around , à Rome ;.
+Authored work: 'De aeternitate mundi adversus murmurantes', composed around , à Paris : le texte se place essentiellement sur le terrain théologique ;.
+Authored work: 'Compendium theologiae ad fratrem Reginaldum socium suum', composed around %1261-1265% à Orvieto..
+Authored work: 'Contra errores Graecorum ad Urbanum IV Pontificem Maximum', composed around à Orvieto, après l’examen à la demande du Pape du Libellus de fide Trinitatis de Nicolas de DURAZZO ., dedicated to Adressé au Pape URBAIN IV..
+Authored work: 'Responsio ad fr. Joannem Vercellensem de articulis XLIII', composed around (2 avril) à Paris, en réponse à la demande de Jean de VERCEIL, maître de l’Ordre dominicain d’examiner 43 propositions portant principalement sur des questions de cosmologie., dedicated to Écrit à la demande de Jean de VERCEIL, maître de l’Ordre dominicain..
+Authored work: 'Responsio ad fr. Joannem Vercellensem de articulis CVIII ex opere Petri de Tarentasia', composed around %1265-1267% à Rome, en réponse à la demande de Jean de VERCEIL, maître de l’Ordre dominicain d’examiner 108 propositions extraites du commentaire des Sentences de Pierre de TARENTAISE, le futur INNOCENT V., dedicated to Écrit à la demande de Jean de VERCEIL, maître de l’Ordre dominicain..
+Authored work: 'Responsio de articulis XXX [XXXVI] ad lectorem Venetum', composed around à Paris ;, dedicated to Adressée à Baxianus de LODI, O.P., lecteur du couvent (dominicain) de Venise qui a posé plusieurs questions sur la cosmologie..
+Authored work: 'Responsio ad lectorem Bisuntinum de articulis sex', composed around à Paris ?, dedicated to Adressé à GERARDUS, lecteur du couvent (dominicain) de Besançon..
+Authored work: 'Responsio ad Bernardum Abbatem Casinensem', composed around , à Aquino ou au château de Maenza, pendant le voyage vers Lyon ?, dedicated to Adressé à Bernard AYGLIER, abbé (bénédictin) du Mont-Cassin..
+Authored work: 'De forma absolutionis paenitentiae sacramentalis ad generalem magistrum ordinis', composed around (22 février) à Paris., dedicated to Écrit à la demande de Jean de VERCEIL, maître de l’Ordre dominicain..
+Authored work: 'Quaestio de secreto', composed around à Paris : il s’agit en fait du rapport d’une commission dont Thomas était membre ;.
+Authored work: 'De articulis fidei et Ecclesiae sacramentis ad archiepiscopum Panormitanum', composed around %1261-1265:% à Orvieto ? L’ouvrage se décompose en deux courts traités : De articulis fidei (sur le Credo) et De ecclesiae sacramentis ;, dedicated to Adressé à Leonardo de COMITIBUS, archevêque de Palerme ?.
+Authored work: 'De ratione fidei contra Sarracenos, Graecos et Armenos ad Cantorem Antiochiae', composed around à Orvieto ;.
+Authored work: 'De emptione et venditione ad tempus', composed around ., dedicated to Adressée à Jacobus VITERBIENSIS, lecteur (dominicain) de Florence qui l’avait interrogé sur le problème du crédit..
+Authored work: 'Officium de festo Corporis Christi ad mandatum Urbani papae', composed around , à Orvieto..
+Authored work: 'Expositio super primam et secundam Decretalem ad Archidiaconum Tudertinum', composed around %1261-1265%, à Orvieto., dedicated to Dédié à Giffredus d’ANAGNI, archidiacre de Todi..
+Authored work: 'Liber de sortibus ad dominum Iacobum de Tonengo', composed around %1270-1271% à Paris., dedicated to Adressé à Jacobus de TONENGO, chapelain pontifical..
+Authored work: '(Hymne ‘Adoro te’)', composed around à Fossanuova selon R.A. GAUTHIER ; l’œuvre n’est pas retenue par James WEISHEIPL et n’est pas reconnue par la Commission léonine, mais Jean-Pierre TORRELL considère qu’il y a de bons arguments pour son authenticité, notamment l’utilisation de ce poème par Jacopone da TODI dans un de ses poèmes daté entre et ..
+Authored work: 'Collationes de decem preceptis', composed around %1261-1268% ou , prêchés en italien en Italie, recueillis par Pierre d’ANDRIA et mis en forme tardivement ;.
+Authored work: 'Collationes super Credo in Deum', composed around à Naples, prêchés en italien à SanDomenico de Naples, reportatio de Reginaldus de PIPERNO ?.
+Authored work: 'Collationes in orationem dominicam', composed around à Naples, prêchés en italien à SanDomenico de Naples pendant le Carême, reportatio de Reginaldus de PIPERNO ; dans les versions imprimées, l’un des sermons (celui de la première petitio) est dû à Aldobrandinus de TOSCANELLA ;.
+Authored work: 'Collationes de Ave Maria', composed around %1269-1272% à Paris..
+Authored work: 'Sermo ‘Veniet desideratus’', composed around %1261-1267% en Italie..
+Authored work: 'Sermo ‘Lauda et letare’', composed around %1261-1267% en Italie..
+Authored work: 'Sermo Abiciamus opera tenebrarum', composed around (30 novembre) à Bologne ;.
+Authored work: 'Osanna filio David', composed around (1er décembre) à Paris..
+Authored work: 'Sermo ‘Ecce rex tuus’', composed around (29 novembre) à Paris..
+Authored work: 'Sermo ‘Celum et terra’', composed around %1256-1258% à Paris (au couvent Saint-Jacques)..
+Authored work: 'Sermo ‘Ecce ego mitto’', composed around (14 décembre) à Milan (résumé)..
+Authored work: 'Sermo ‘Puer Iesus’', composed around (10 janvier) à Paris..
+Authored work: 'Sermo ‘Exiit qui seminat’', composed around (16 février) à Paris ;.
+Authored work: 'Sermo ‘Petite et accipietis’', composed around ?.
+Authored work: 'Sermo ‘Emitte Spiritum’ [pour la Pentecôte]', composed around (24 mai) ou peut-être (12 mai) ;.
+Authored work: 'Sermo ‘Seraphim stabant’', composed around %1256-1257% à Paris ;.
+Authored work: 'Sermo ‘Homo quidam facit cenam magnam’', composed around (8 juin), ou (12 juin), ou (14 juin) à Paris..
+Authored work: 'Sermo ‘Attendite a falsis prophetis’', composed around (14 juillet) à Paris..
+Authored work: 'Sermo ‘Homo quidam erat dives’', composed around (8 juin), ou (10 août), ou (2 août) à Paris..
+Authored work: 'Sermo ‘Inveni David’', composed around %1268-1271% à Paris..
+Authored work: 'Sermo ‘Lux orta est iusto’', composed around %1265-1280%.
+Authored work: 'Sermo ‘Germinet terra’', composed around (13 septembre) à Paris..
+Authored work: 'Sermo ‘Beati qui habitant’', composed around %1261-1264% à Orvieto.
+Authored work: 'Sermo ‘Beata gens’', composed around %1268-1271% (1er novembre) à Paris..
+Authored work: 'Sermo ‘Beatus vir’', composed around %1268-1271% (11 novembre) à Paris..
+Authored work: '(Fragment de sermon ‘Sapientia confortabit sapientem’', composed around ?.
+Authored work: '(Fragment de sermon ‘Surgere’', composed around ?.
+Authored work: 'De ingressu puerorum in religione quaest. disput.', composed around à Paris..
+Authored work: 'Sententia super De Anima', composed around %1267-1268%.
+Authored work: 'Comment. in Perihermeias', composed around %1270-1271% à Naples, après la traduction du commentaire d’AMMONIUS par Guillaume de MOERBEKE, inachevé., dedicated to Dédié à Guillaume BERTHOUT, prévôt de Louvain..
+Authored work: 'Sententia super posteriora analytica', composed around %1271-1272%, commence à Paris avec la traduction ancienne de Jacques de VENISE, poursuivi à Naples avec celle de Guillaume de MOERBEKE ;.
+Authored work: 'In XII libros Metaphysicorum Comment.', composed around %1270-1272%, commencé à Paris et probablement terminé à Naples..
+Authored work: 'Expositio in librum Boethii de hebdomadibus', composed around %1271-1272%, peut-être pendant le second enseignement à Paris ? « essentiellement métaphysique » ;.
+Authored work: 'In librum de Causis Comment.', composed around , à Paris ?.
+Authored work: 'De unitate intellectus contra Averroïstas', composed around , à Paris, avant la condamnation..
+Authored work: 'De ente et essentia', composed around %1252-1253%, à Paris..
+Authored work: 'De principiis naturae ad fratrem Sylvestrum', composed around %1252-1253%, à Paris..
+Authored work: 'De substantiis separatis ad fratrem Reginaldum socium suum', composed around , à Paris ou à Naples., dedicated to Adressé au Frater Reginaldus de PIPERNO..
+Authored work: 'In VIII libros Physicorum Commentarium', composed around %:1268-1270:%, au début du second enseignement parisien, à partir d’un texte antérieur à l’achèvement de la nouvelle traduction de Guillaume de MOERBEKE ;.
+Authored work: 'Comment. in libros I-III de Caelo et Mundo', composed around %1272-1273% à Naples..
+Authored work: 'Comment. in libros de Generatione et Corruptione', composed around %1272-1273% à Naples, inachevé, si bien que les éditions anciennes contiennent des parties inauthentiques ;.
+Authored work: 'In quatuor libros Meteororum Comment.', composed around %:1268-1270:%, au début du second enseignement parisien, à partir d’un texte antérieur à l’achèvement de la nouvelle traduction de Guillaume de MOERBEKE ; inachevé, le commentaire a été pourvu d’une continuation inauthentique qui se trouve dans toutes les éditions anciennes jusqu’à ce qu’elle disparaisse de la léonine mais celle-ci n’intègre pas les trois derniers chapitres redécouverts et publiés par Kevin WHITE ;.
+Authored work: 'In librum de Sensu et Sensato comment.', composed around %1268-1269%, commence à Rome et terminé à Paris, il est fondé sur la traduction de Guillaume de MOERBEKE et conçu pour être diffusé comme la première partie d’un livre dont la seconde est le commentaire sur le librum de Memoria et Reminiscentia ;.
+Authored work: 'In librum de Memoria et Reminiscentia commentarium', composed around ..
+Authored work: 'De motu cordis ad Magistrum Philippum de Castrocoeli', composed around à Naples ?, dedicated to Adressé à Philippus de CASTROCAELI, professeur de médecine à Naples..
+Authored work: 'De mixtione elementorum ad Magistrum Philippum de Castrocoeli', composed around %1269-1270% à Paris ?, dedicated to Adressé à Philippus de CASTROCAELI, professeur de médecine à Naples..
+Authored work: 'De operationibus occultis naturae ad quondam militem ultramontanum', composed around %1268-1272% à Paris ?.
+Authored work: 'De judiciis astrorum', composed around %1269-1272% à Paris ?.
+Authored work: 'Contra impugnantes Dei cultum et religionem', composed around à Paris, pour réfuter le Tractatus de periculis novissimorum temporum de Guillaume de SAINT-AMOUR..
+Authored work: 'De perfectione vitae spiritualis', composed around à Paris, pour réfuter le Contra adversarium perfectionis christianae de Gérard d’ABBEVILLE..
+Authored work: 'Contra pestiferam doctrinam retrahentium homines a religionis ingressu', composed around à Paris..
+Authored work: 'Sententia libri Ethicorum', composed around %1271-1272% à Paris, sur une version révisée de la traduction de Robert GROSSETESTE qui n’est cependant pas celle faite par Guillaume de MOERBEKE ;.
+Authored work: 'Tabula libri Ethicorum', composed around à Paris, “index des thèmes principaux de l’Éthique à Nicomaque de ARISTOTE et du Commentaire qu’en avait fait jadis ALBERT le Grand” sous forme de fiches faites par ses secrétaires dont la remise au net n’a pas été revue par lui ; la tabula contenue dans le MS. Darmstadt, Hess. HochschulB. 272, f. 154 et 161, du XIVe-XVe siècle, est une table apocryphe (Cf. GAUTHIER, 57-60) ;.
+Authored work: '(Reportatio du cours d'Albert le Grand sur l'Ethique à Nicomaque d'Aristote)', composed around %1248-1252%.
+Authored work: 'In quatuor primos libros Politicorum Commentarium', composed around Vers.
+Authored work: 'De regno ad regem Cypri', composed around %1266-1267%, pour Hugues II de LUSIGNAN, roi de Chypre, inachevé du fait de la mort du jeune prince en , écrit à Rome : l’œuvre a ensuite réunie avec un autre traité, le De regimine principum de Ptolémée de LUCQUES de la table de Stams, qui n’est donc pas vraiment une continuation et est rédigé dans un esprit assez différent., dedicated to Pour Hugues II de LUSIGNAN, roi de Chypre, inachevé du fait de la mort du jeune prince en à l’âge de 16 ans..
+Authored work: 'Epistola ad ducissam Brabantiae', composed around , pour Marguerite de CONSTANTINOPLE, comtesse de Flandre..
+Authored work: '(Prothemata sermonum)', composed around ?.
+Authored work: '(Sonnet italien)', composed around ..
+Authored work: 'Sermo de venerabili sacramento altaris', composed around ..
+Authored work: 'Sermo in festo S. Gregorii', composed around .
+Authored work: 'Articuli iterum remissi', composed around .
+Authored work: 'Sermo in Dom. XIX (?) post Pentecosten', composed around ..
+Authored work: 'Sermo in Dom. V post Pascha', composed around ?.
+Authored work: 'Lectura in quatuor primos nocturnos Psalterii', composed around %1272-1273%.
+Authored work: 'Quaestio disput. de natura beatitudinis', composed around ..
+Authored work: 'De beatitudine aeternitatis', composed around ?.
+Authored work: 'De divinis moribus', composed around ?.
+Authored work: 'De officio sacerdotis', composed around ?.
+Authored work: 'De fallaciis ad quosdam nobiles artistas', composed around : en fait, de la fin du XIIIe siècle ?.
+Authored work: 'De propositionibus modalibus', composed around ..
+Authored work: 'De demonstratione (opusc. 38)', composed around ?.
+Authored work: 'De instantibus', composed around ?.
+Authored work: 'De natura verbi intellectus', composed around ?.
+Authored work: 'De principio individuationis', composed around ?.
+Authored work: 'De natura generis', composed around ?.
+Authored work: 'De natura accidentium', composed around ?.
+Authored work: 'De natura materiae et dimensionibus interminatis (opusc. 32)', composed around ?.
+Authored work: 'De quatuor oppositis (opusc. 37)', composed around ?.
+Source: BONIN (Th.), Thomas Aquinas in English: A Bibliography, Pittsburgh, Duquesne University :.

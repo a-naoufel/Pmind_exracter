@@ -1,0 +1,20 @@
+PERSON: GUILLELMUS Episcopi 2
+Also known as: Guillelmus EPISCOPI; Guillelmus L'EVEQUE; Guillelmus L'EVESQUE.
+Description: Abbé de Saint-Germain des Prés.
+Status: Maître.
+Gender: male.
+Active during: %1383-1418%.
+Studied at: Paris %1383-1411%..
+Academic grades obtained: Bachelier en théologie (Paris) ;; Licencié en théologie (Paris) ;; Docteur en théologie (Paris) ..
+Family relationships: Sa mère est Johanna OSANNA ;.
+Academic relationships: Son maître est Richardus de ATRIO, abbé de Saint-GermaindesPrés..
+Religious order: O.S.B. : moine bénédictin de l’abbaye (bénédictine) de Saint-GermaindesPrés (diocèse de Paris)..
+Religious functions: Abbé granatarius de ?Saint-GermaindesPrés (diocèse de Paris) en ;; Prévôt (bénédictin) de Saint-GermaindesPrés en ;; Abbé de Saint-GermaindesPrés (diocèse de Paris) en %1387-1411% ;; Visiteur de monastères bénédictins dans les diocèses de Sens, Trêves et Meaux en ..
+University functions: Paris (Université : il participe à l'assemblée de la faculté de théologie de Paris concernant la condamnation des neuf propositions soutenue par Johannes GERSON dans la Justificatio de Johannes PETIT au début de l'année ) ;.
+Representation roles: Présent à la troisième session du Concilium fidei Parisiis en %1413-1414% ;.
+Authored work: '[Commentaire sur les 18 premiers chapitres de la Génèse]', composed around ?.
+Authored work: '[Coutumier de l'abbaye de Saint-Germain des Prés]', composed around Ecrit ..
+Authored work: '[Cartulaire]', composed around ?.
+Authored work: '[Statuts sur les défunts frères]', composed around ?.
+Authored work: '[Recueil à l'usage de l'abbaye de Saint-Germain des Prés]', composed around Ecrit en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol et Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 25/08/2025..

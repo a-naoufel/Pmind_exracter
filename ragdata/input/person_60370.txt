@@ -1,0 +1,12 @@
+PERSON: PETRUS Choacque
+Also known as: Petrus CHOACQUE.
+Description: Écolier du collège de Reims.
+Status: Étudiant.
+Gender: male.
+Active during: %1412-1412%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Reims..
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) en ..
+College affiliation: Collège de Reims : écolier en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

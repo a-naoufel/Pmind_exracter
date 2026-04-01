@@ -1,0 +1,10 @@
+PERSON: HENRICUS de Cumino
+Also known as: Henricus de CUMINO; Henri de CUMINO.
+Description: Maîtrerégent de la faculté de médecine..
+Status: Maître.
+Gender: male.
+Active during: %1236-1236%.
+Studied at: Paris %1236-1236%..
+Academic grades obtained: Maître en médecine (Paris) ;.
+University functions: Paris (Faculté de médecine : Maîtrerégent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 25/06/2022..

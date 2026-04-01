@@ -1,0 +1,9 @@
+PERSON: HENRICUS de Verdeliaco
+Also known as: Henricus de VERDELIACO.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1282-1282%.
+Studied at: Paris ?.
+Academic grades obtained: Magister ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 25/07/2022..

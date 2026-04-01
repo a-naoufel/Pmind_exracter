@@ -1,0 +1,11 @@
+PERSON: PHILIPPUS Thiefaine
+Also known as: Philippe THIEFAINE.
+Description: Hôte du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1410-1411%.
+Studied at: Paris %1410-1411%..
+Academic grades obtained: Étudiant (Paris) %1410-1411%..
+College affiliation: Collège de Dormans-Beauvais : hôte %1410-1411% ?.
+Family relationships: Son oncle est Thierry THIEFAINE, avocat au Châtelet de Paris ?.
+Source: LAMOP : Opération Charles VI (n° 2429) :.

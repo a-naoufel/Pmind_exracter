@@ -1,0 +1,9 @@
+PERSON: MICHAEL Quesnoy
+Also known as: Michael QUESNOY.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1424-1424%.
+Studied at: Paris..
+Academic grades obtained: Maître (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 7/01/2022..

@@ -1,0 +1,10 @@
+PERSON: PETRUS de Malhac
+Also known as: Petrus de MALHAC.
+Description: Boursier du collège de Narbonne.
+Status: Étudiant.
+Gender: male.
+Active during: %1343-1343%.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Narbonne : boursier en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

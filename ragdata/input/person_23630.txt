@@ -1,0 +1,11 @@
+PERSON: GISLEBERTUS de Clivis
+Also known as: Ghiselbertus de CLIVIS.
+Description: Étudiant ès arts.
+Status: Étudiant.
+Gender: male.
+Active during: %1379-1379%.
+Born in: Rhénanie (Clèves ?) ?.
+Diocese of origin: Diocèse de Cologne ?.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Étudiant ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 17/01/2022..

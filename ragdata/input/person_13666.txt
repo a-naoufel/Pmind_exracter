@@ -1,0 +1,11 @@
+PERSON: RICARDUS de Mesnillo 2
+Also known as: Richardus de MESNILLO; Richardus de MESNI; Richardus de MESNILIL.
+Description: Maître en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1416-1439%.
+Studied at: Paris %1425-1439%..
+Academic grades obtained: Licencié en théologie (Paris) (27 janvier) ;; Maître en théologie (Paris) (20 juin) ..
+College affiliation: Collège de Maître-Gervais : socius %1416-1433% ;.
+University functions: Paris (Faculté de Théologie : Lecteur de la Bible (1er cours) le 31 juillet ) ;; Paris (Faculté de Théologie : Lecteur des Sentences en septembre ;; Paris (Faculté de Théologie : Maîtrerégent en %1429-1430%) ;; Paris (Faculté de Théologie : Maîtrerégent en en %1431-1434%) ;; Paris (Faculté de Théologie : Maîtrerégent en en %1438-1439%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 22/06/2024..

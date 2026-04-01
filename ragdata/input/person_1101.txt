@@ -1,0 +1,65 @@
+PERSON: AUGUSTINUS de Ancona
+Also known as: Augustinus TRIUMPHUS de Ancona; Agostino de ANCONA; Augustinus TRIUMPHUS.
+Description: Augustin.
+Status: Maître.
+Gender: male.
+Active during: %1298-1328%.
+Born in: Italie (Marche : Ancône) ;.
+Diocese of origin: Diocèse d'Ancône..
+Studied at: Paris %1302-1315%..
+Academic grades obtained: Bachelier en théologie (Paris); Maître en théologie (Paris) %1313-1315%.
+College affiliation: Couvent (augustin) de Paris (Grands-Augustins) ;.
+Religious order: O.E.S.A. : frère augustin en.
+University functions: Padoue (Lecteur en Théologie et sans doute à partir de ) ;; Paris (Lecteur des Sentences en %1302-1304%)..
+Authored work: 'De laudibus perfecti et ecclesiastici viri', composed around ?, dedicated to Écrit à la demande de Biagio de TOLOMEIS, podestat de Padoue..
+Authored work: 'Lectura super I Sententiarum', composed around %1303-1304%.
+Authored work: 'De resurrectione mortuorum (theorem. 50)', composed around %1299-1303%., dedicated to Dédié au Cardinal Leonardo de QUERCINO, evêque d’Albano..
+Authored work: 'De amore Spiritus Sancti', composed around %1299-1303%., dedicated to Dédié au Cardinal Leonardo de QUERCINO, evêque d’Albano..
+Authored work: 'In Decretalem expositio', composed around ?, dedicated to Dédié à Johannes de HUNGARIA, évêque de Nagy-varad..
+Authored work: 'Tractatus de corpore Christi', composed around ?.
+Authored work: 'De consolatione animarum beatarum', composed around ?.
+Authored work: 'De libero arbitrio', composed around ?.
+Authored work: 'De praedestinatione et praescientia Dei', composed around ?.
+Authored work: 'De thesauro Ecclesiae', composed around ?.
+Authored work: 'Expositio super Matthaeum', composed around à Padoue, plutôt qu’à Venise..
+Authored work: 'Glossa ex glossis Sanctorum in Actus Apostolorum', composed around ?.
+Authored work: 'Glossa ex glossis Sanctorum in Apocalypsim', composed around ?.
+Authored work: 'Glossa ex glossis Sanctorum in Epistolas Canonicas', composed around ?.
+Authored work: 'Postilla in epistolas canonicas', composed around ?.
+Authored work: 'Postillae in epistolas Pauli', composed around ?.
+Authored work: 'Tractatus de Angelica Annuntiatione', composed around ?.
+Authored work: 'Tractatus super Magnificat', composed around ?.
+Authored work: 'Oratio ad laudem Virginis', composed around ?.
+Authored work: '(Commentaire sur Ezechiel)', composed around ?.
+Authored work: 'Expositio in Psalmos', composed around ?.
+Authored work: 'Expositio super Cantica Canticorum', composed around ?.
+Authored work: 'Postilla in Evangelium Johannis', composed around ?.
+Authored work: 'Milleloquium veritatis', composed around ?.
+Authored work: 'Sermones dominicales et de sanctis', composed around ?.
+Authored work: 'Sermones Quadragesimales I', composed around ?.
+Authored work: 'Sermones Quadragesimales II', composed around ?.
+Authored work: 'De introitu in terram promissionis', composed around ?.
+Authored work: 'Tabula seu index super moralia S. Gregorii', composed around ?.
+Authored work: 'Commentarius in Priora Analytica', composed around ?, dedicated to Dédié à Conrado de MONTEFELTRO, O.E.S.A., futur évêque de Urbino..
+Authored work: 'Commentarius in Metaphysicam', composed around ?.
+Authored work: 'Tractatus de cognitione et potentiarum animae', composed around ?.
+Authored work: 'Tractatus de praedicatione generis et speciei', composed around ?.
+Authored work: 'Quaestio de differentia generis et materiae', composed around ?.
+Authored work: 'Destructio sive eradicatio totius arboris Porphyrii', composed around ?.
+Authored work: 'Quaestiones quodlibetales', composed around %1314-1315% à Paris..
+Authored work: 'Tractatus contra articulos inventos ad diffamandum Bonifacium VIII', composed around %1307-1308%.
+Authored work: 'Brevis tractatus super facto Templariorum', composed around %1307-1308%.
+Authored work: 'Contra divinatores et somniatores', composed around ., dedicated to Adressé à CLÉMENT V..
+Authored work: 'De potestate Collegii mortuo papa', composed around %:1314:-:1315:% à Paris..
+Authored work: 'Quaestio brevis de potestate praelatorum', composed around ?.
+Authored work: 'Summa de ecclesiastica potestate', composed around %1324-1328%.
+Authored work: 'Tractatus confessionalis', composed around ?.
+Authored work: 'De antichristo et mundi fine tractatus', composed around ?.
+Authored work: 'Quaestiones theologicae', composed around ?.
+Authored work: 'In Evangelium Lucae', composed around ?.
+Authored work: 'In Evangelium Marci', composed around ?.
+Authored work: 'Catena in Epistolas Pauli', composed around ?.
+Authored work: 'Postilla in Actus Apostolorum', composed around ?.
+Authored work: 'Postilla in Apocalypsim', composed around ?.
+Authored work: 'De origine, de translatione ac statu romani imperii...', composed around ?.
+Source: http://www.treccani.it/enciclopedia/agostino-d-ancona_(Dizionario_Biografico)/.

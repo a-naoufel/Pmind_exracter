@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS 8
+Also known as: GUILLELMUS.
+Description: Proviseur du collège des Bernardins.
+Status: Étudiant.
+Gender: male.
+Active during: %1248-1248%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Proviseur du collège des Bernardins en ;.
+Religious order: O. Cist. au monastère (cistercien) de Clairvaux en ;.
+Other ecclesiastical functions: Procureur de l'abbé et du monastère (cistercien) de Clairvaux ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 7/3/2018..

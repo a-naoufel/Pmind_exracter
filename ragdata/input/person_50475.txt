@@ -1,0 +1,13 @@
+PERSON: PETRUS Perrinet
+Also known as: Perrin PERRINET.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1416-1416%.
+Born in: Champagne (Bisseuil) ;.
+Diocese of origin: Diocèse de Reims ;.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Dormans-Beauvais : boursier ;.
+Ecclesiastical status: Clerc ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 29/109/2019..

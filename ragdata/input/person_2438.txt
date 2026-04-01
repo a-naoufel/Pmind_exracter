@@ -1,0 +1,10 @@
+PERSON: GAILLARDUS de Acutis
+Also known as: Galhardus de ACUTIS.
+Description: Augustin.
+Status: Maître.
+Gender: male.
+Active during: %1332-1346%.
+Studied at: Paris ;; Toulouse..
+Academic grades obtained: Étudiant en théologie à Paris ;; Licencié en théologie (Paris ?); Maître en théologie (Toulouse ?)..
+Religious order: O.E.S.A..
+University functions: Toulouse (lecteur en théologie pendant 12 ans : %1332-1346% ?)..

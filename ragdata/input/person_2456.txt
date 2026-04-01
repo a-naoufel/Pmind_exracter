@@ -1,0 +1,11 @@
+PERSON: GALTERIUS Crassi
+Also known as: Galterus CRASSI; Galterus GRASSI; Gautier LEGRAS.
+Description: Hospitalier.
+Status: Maître.
+Gender: male.
+Active during: %1385-1391%.
+Studied at: Paris..
+Academic grades obtained: Docteur en Décret (Paris) ..
+Religious order: O.Hosp. : frère hospitalier..
+University functions: Paris (Faculté de Décret : Maître-régent en ) ;; Paris (Faculté de Décret : Doyen en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 6/11/2021..

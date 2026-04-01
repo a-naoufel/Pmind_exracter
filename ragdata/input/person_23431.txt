@@ -1,0 +1,10 @@
+PERSON: REGINALDUS de Longueil
+Also known as: Regnaud de LONGUEIL.
+Description: Hôte du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1434-1434%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Dormans-Beauvais : hôte ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 21/11/2018..

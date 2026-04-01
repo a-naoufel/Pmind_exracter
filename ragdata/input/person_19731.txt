@@ -1,0 +1,12 @@
+PERSON: EBRARDUS Alemanus
+Also known as: EVERARDUS Alemannus; Eberhardus ALEMANNUS; Evrard l'ALLEMAND.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1246-1250%.
+Born in: Rhénanie (Cologne ?)..
+Diocese of origin: Diocèse de Cologne ?.
+Studied at: Orléans ;; Paris (Nation Anglo-allemande ?)..
+Academic grades obtained: Maître ès arts (Paris) ?.
+Authored work: 'Laborinthus', composed around ?%1220-1250%..
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

@@ -1,0 +1,10 @@
+PERSON: LUDOVICUS de Guingan
+Also known as: Louis de GUINGAN.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1402-1406%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) %1402-1406%..
+College affiliation: Collège de Dormans-Beauvais : boursier %1402-1406% ;.
+Source: LAMOP : Opération Charles VI (n° 2570) :.

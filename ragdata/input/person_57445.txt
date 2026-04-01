@@ -1,0 +1,9 @@
+PERSON: VINCENTIUS Gallays
+Also known as: Vincentius GALLAYS.
+Description: Nonce pour le diocèse d’Angers.
+Status: Suppôt.
+Gender: male.
+Active during: %1443-1443%.
+Studied at: Paris (Nation de France) ..
+University functions: Paris (Nation de France : il reçoit l'office de nonce pour le diocèse d’Angers en (‘pro villa, civitate et diocesi et patibus circumvicinis’) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 24/01/2024..

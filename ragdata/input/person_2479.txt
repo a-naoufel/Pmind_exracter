@@ -1,0 +1,9 @@
+PERSON: GALTERIUS de Alneto
+Also known as: Galterus de ALNETO; Gautier d'AUNAY.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1274-1285%.
+Studied at: Paris ?.
+Academic grades obtained: Magister ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 14/05/2025..

@@ -1,0 +1,9 @@
+PERSON: ALDEBRANDINUS 1
+Also known as: ALDEBRANDINUS.
+Description: Chanoine de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1213-1213%.
+Studied at: ?.
+Ecclesiastical positions held: Chanoine de Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 26/06/2020)..

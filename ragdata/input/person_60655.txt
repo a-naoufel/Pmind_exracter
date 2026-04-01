@@ -1,0 +1,7 @@
+PERSON: GALTERIUS Sevesque
+Also known as: Gaultier SEVESQUE.
+Description: Sergent au Châtelet.
+Status: Extérieur.
+Gender: male.
+Active during: %1431-1431%.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

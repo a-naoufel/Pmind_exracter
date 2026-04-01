@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Rotarii
+Also known as: Guillelmus ROTARII.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1445-1445%.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) ;.
+University functions: Paris (Nation de France : il participe à l'élection du procureur en (23 septembre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/05/2018..

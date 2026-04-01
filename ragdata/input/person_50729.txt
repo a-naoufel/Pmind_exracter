@@ -1,0 +1,10 @@
+PERSON: M. Thesaurarius Andegavensis
+Also known as: M. Trésorier d’Angers.
+Description: Trésorier d’Angers.
+Status: Extérieur.
+Gender: male.
+Active during: %1261-1261%.
+Studied at: ?.
+Family relationships: Son frère est Michel de VILLOISEAU, évêque d'Angers ; Son frère est J. archidiacre d’Angers ; Son neveu est X. chantre d’Angers ;.
+Ecclesiastical positions held: Trésorier d’Angers ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 30/03/2020..

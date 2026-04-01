@@ -1,0 +1,10 @@
+PERSON: GEORGIUS de SanctoMelano
+Also known as: Georges de SANCTOMELANO.
+Description: Boursier artien au Collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1353-1353%.
+Studied at: Paris (Collège de Navarre) %1353-1353%..
+Academic grades obtained: Étudiant ès arts (Paris) ..
+College affiliation: Collège de Navarre ! Boursier artien en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 29/11/2021..

@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Boyaval
+Also known as: Guillermus de BOYAVAL.
+Description: Chanoine de Cambrai.
+Status: Maître.
+Gender: male.
+Active during: %1484-1513%.
+Diocese of origin: Diocèse de Thérouanne ;.
+Studied at: Paris ;.
+Academic grades obtained: Maître ;.
+College affiliation: Collège de Reims : résident ;.
+Ecclesiastical positions held: Chanoine de Cambrai (Saint-Géry); Chanoine de Cambrai %1492-1513%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 01/01/2026..

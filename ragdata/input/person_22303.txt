@@ -1,0 +1,11 @@
+PERSON: BERNARDUS Fleugrin
+Also known as: Bernard FLEUGRIN.
+Description: O. Cist..
+Status: Étudiant.
+Gender: male.
+Active during: %1411-1411%.
+Studied at: Paris..
+Academic grades obtained: Étudiant ?.
+College affiliation: Collège Saint-Bernard ?.
+Religious order: O. Cist..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 3/02/2021)..

@@ -1,0 +1,14 @@
+PERSON: PETRUS de Salinis 1
+Also known as: Petrus de SALINIS; Petrus de SALVIENSIS.
+Description: Docteur Décret.
+Status: Maître.
+Gender: male.
+Active during: %1240-1283%.
+Born in: ComtédeBourgogne (Salins ?) ;.
+Diocese of origin: Diocèse de Besançon..
+Studied at: Paris ;.
+Academic grades obtained: Docteur en Décret (Paris ?)..
+Ecclesiastical positions held: Doyen de Toul; Chanoine de Besançon %1254-1283% ;.
+University functions: Paris (Faculté de Décret : maître-régent) ;.
+Authored work: 'Lectura super decreto', composed around ?.
+Source: MIRABILE: Antonio PODOLAK :.

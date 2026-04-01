@@ -1,0 +1,14 @@
+PERSON: ARNALDUS Gaillard
+Also known as: Arnaud GAILLARD.
+Description: Franciscain.
+Status: Gradué.
+Gender: male.
+Active during: %1278-1282%.
+Studied at: Paris %1278-1281% ?.
+Academic grades obtained: Bachelier en théologie (Paris ?) vers ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Religious order: O.F.M. : frère franciscain..
+Authored work: '(Dénonciation des erreurs de Pierre de Jean Olivi)', composed around ..
+Authored work: 'Sermon 1', composed around ?.
+Authored work: 'Sermon 2', composed around ?.
+Source: http://oliviana.revues.org/56.

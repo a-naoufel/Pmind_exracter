@@ -1,0 +1,92 @@
+PERSON: ALEXANDER de Hales
+Also known as: Alexander de HALES; Alexander HALENSIS; Alexandre de HALES; Doctor Irrefragabilis.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1209-1245%.
+Born in: Angleterre (Worcestershire (Hales))..
+Diocese of origin: Diocèse de Worcester..
+Studied at: Paris %1209-1245%..
+Academic grades obtained: Maître ès arts (Paris) à partir de %1209-1210% ;; Maître en théologie (Paris) vers %1220-1245%..
+College affiliation: Couvent (franciscain) de Paris (Cordliers)..
+Family relationships: Issu d'une famille anglaise fortunée..
+Academic relationships: Son élève est Jean de LAROCHELLE ; Son élève est Saint BONAVENTURE..
+Religious order: O.F.M. : frère franciscain en ..
+Ecclesiastical positions held: Chanoine de Londres (St-Paul) en %1229-1236% ;; Chanoine de Lichfield, ?%1231-1236% ;; Archidiacre de Coventry, %1231-1236%..
+University functions: Paris (Maître-régent ès arts à partir de %1209-1210%) ;; Paris (Faculté de Théologie : Maîtrerégent en théologie de, %1220-1236%) ;; Paris (Faculté de Théologie : maître-régent du couvent (franciscain) de Paris, %1236-1245%) ;; Paris (Faculté de Théologie : Doyen de la Faculté de Théologie de Paris, %1241-1245%) ;.
+Representation roles: Mission diplomatique auprès du roi de France envoyé par HENRY III en .; Participation au concile de Lyon en où il joue un rôle important, à l'instigation du pape INNOCENT IV dans la préparation de la canonisation d'Edmund of ABINGDON..
+Authored work: 'Summa universae theologiae', composed around %1231-1245%.
+Authored work: 'Expositio [quatuor magistrorum] regulae FF.MM', composed around .
+Authored work: 'Commentarium in Sententias', composed around ?.
+Authored work: 'Quaestiones disputatae : De aeternitate, aevo et tempore (q.10)', composed around ?.
+Authored work: 'Quaestiones disputatae: De duratione mundi (q.3)', composed around ?.
+Authored work: 'Quaestiones disputatae: De triplici opinione ponentium plura principia ab aeterno', composed around ?.
+Authored work: 'Quaestiones disputatae: De malo et origine mali (q.6)', composed around ?.
+Authored work: 'Quaestiones disputatae: De oppositione mali (q.6)', composed around ?.
+Authored work: 'Quaestiones disputatae: De modo, specie et ordine (q.4)', composed around ?.
+Authored work: 'Quaestiones disputatae: (1) De peccati natura, diffinionibus et radicibus', composed around ?.
+Authored work: 'Quaestiones disputatae: (2) De peccato primi angeli (q.4)', composed around ?.
+Authored work: 'Quaestiones disputatae: (3) De peccato aliorum angelorum a Lucifero (q.6)', composed around ?.
+Authored work: 'Quaestiones disputatae: (4) De peccato primorum parentum (q.4)', composed around ?.
+Authored work: 'Quaestiones disputatae: (5) De tentatione diaboli (q.12)', composed around ?.
+Authored work: 'Quaestiones disputatae: (6) De tentatione facta per serpentem (q.5)', composed around ?.
+Authored work: 'Quaestiones disputatae: (7) De divisione tentationis a carne et ab hoste (q.4)', composed around ?.
+Authored work: 'Quaestiones disputatae: De peccato originali (q.7)', composed around ?.
+Authored work: 'Quaestiones disputatae: De corruptione humanae naturae passiva et activa', composed around ?.
+Authored work: 'Quaestiones disputatae: De quantite originalis peccati (q.2)', composed around ?.
+Authored work: 'Quaestiones disputatae : De poena originalis peccati (q.10)', composed around ?.
+Authored work: 'Quaestiones disputatae : De satisfactione', composed around ?.
+Authored work: 'Quaestiones disputatae : De jejunio', composed around ?.
+Authored work: 'Quaestiones disputatae : De orationis natura, speciebus et efficacia (q.15)', composed around ?.
+Authored work: 'Quaestiones disputatae : De eleemosyna', composed around ?.
+Authored work: 'Quaestiones disputatae : De fato (q.6)', composed around ?.
+Authored work: 'Quaestiones disputatae : De divinatione (q.8)', composed around ?.
+Authored work: 'Quaestiones disputatae : De sortibus (q.7)', composed around ?.
+Authored work: 'Quaestiones disputatae : De miraculis (q.10)', composed around ?.
+Authored work: 'Quaestiones disputatae : De carminibus, sive de miraculis magorum et prestigiis (q.3)', composed around ?.
+Authored work: 'Quaestiones disputatae : De pollutione (q.12)', composed around ?.
+Authored work: 'Quaestiones disputatae : De virginitate (q.13)', composed around ?.
+Authored work: 'Quaestiones disputatae : De aureola (q.10)', composed around ?.
+Authored work: 'Quaestiones disputatae : De passionibus (q.10)', composed around ?.
+Authored work: 'Quaestiones disputatae : De martyrio (q.9)', composed around ?.
+Authored work: 'Quaestiones disputatae : De patientia', composed around ?.
+Authored work: 'Quaestiones disputatae : De perseverantia', composed around ?.
+Authored work: 'Quaestiones disputatae : De ira per zelum', composed around ?.
+Authored work: 'Quaestiones disputatae : De peccato veniali', composed around ?.
+Authored work: 'Quaestiones disputatae : De pecatti venialis oppositione et effectu', composed around ?.
+Authored work: 'Quaestiones disputatae : De subjecto peccati', composed around ?.
+Authored work: 'Quaestiones disputatae : De mendacio (q.15)', composed around ?.
+Authored work: 'Quaestiones disputatae : De conscientia', composed around ?.
+Authored work: 'Quaestiones disputatae : De obedientia', composed around ?.
+Authored work: 'Quaestiones disputatae : De verme conscientiae', composed around ?.
+Authored work: 'Quaestiones disputatae : De angelo', composed around ?.
+Authored work: 'Quaestiones disputatae : De locutione angelorum', composed around ?.
+Authored work: 'Quaestiones disputatae : De beatitudine', composed around ?.
+Authored work: 'Quaestiones disputatae : De beatitudine viae', composed around ?.
+Authored work: 'Quaestiones disputatae : De sensu naturae spiritualis', composed around ?.
+Authored work: 'Quaestiones disputatae : De caractere', composed around ?.
+Authored work: 'Quaestiones disputatae : De poenis', composed around ?.
+Authored work: 'Quaestiones disputatae : De libro vitae (q.5)', composed around ?.
+Authored work: 'Sermones de sanctis et tempore', composed around ?.
+Authored work: '[Comment. Iob.]', composed around ?.
+Authored work: '[Postilla super Psalmos]', composed around ?.
+Authored work: '[Postillae Luc.]', composed around ?.
+Authored work: '[Postillae Joh.]', composed around ?.
+Authored work: '[Comm. super Revel.]', composed around ?.
+Authored work: '[Sermon sur Tren. 3 27]', composed around ?.
+Authored work: '[Sermon sur Hebr. 9 11]', composed around ?.
+Authored work: '[Sermon sur Gen. 22 6]', composed around ?.
+Authored work: '[15 Sermones super Evangelia Luc. et Math.]', composed around ?.
+Authored work: '[Sermo super Hebr. 1 1]', composed around ?.
+Authored work: '[Sermo super Cant. 3 1]', composed around ?.
+Authored work: 'Quodlibets : I (15 q.)', composed around ?.
+Authored work: 'Quodlibets : II (15 q.)', composed around ?.
+Authored work: 'Quodlibets : III', composed around ?.
+Authored work: 'Quodlibets : IV', composed around ?.
+Authored work: 'Quodlibets : V', composed around ?.
+Authored work: 'Exoticon', composed around ?.
+Authored work: 'Commentum super librum Metheororum', composed around ?.
+Authored work: 'Phisiognomia Aristotelis', composed around ?.
+Authored work: 'Concordia utriusque juris', composed around ?.
+Authored work: 'Mariale majus', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol et Jean-Philippe Genet, dernière mise à jour 7/02/2024)..

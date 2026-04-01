@@ -1,0 +1,13 @@
+PERSON: MATTHAEUS Ricoul
+Also known as: Mathieu RICOUL.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1349-1357%.
+Born in: Anjou-Maine ?.
+Diocese of origin: Diocèse d'Angers..
+Studied at: Paris (Nation de France) %1349-1357%..
+Academic grades obtained: Maître ès arts (Paris) ;; Maître en médecine (Paris) ;.
+Ecclesiastical status: Clerc du diocèse d'Angers..
+University functions: Paris (Faculté de médecine : Maître-régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 22/09/2023)..

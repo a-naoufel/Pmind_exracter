@@ -1,0 +1,16 @@
+PERSON: NICOLAUS de La Quesnaye
+Also known as: Nicolas de LAQUESNAYE.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1476-1504%.
+Born in: Normandie (Rouen) ;.
+Diocese of origin: Diocèse de Rouen ?.
+Studied at: ?.
+Academic grades obtained: Licencié en droit canon ;.
+Social origin: Bourgeoisie de Rouen ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Rouen %1482-1504% ;; Curé d’Angiens ;.
+Other ecclesiastical functions: Officier de la cour de l’archevêque de Rouen %1476-1500% ;; Vicaire de Paris (Saint-Martin-des-Champs) ;.
+Authored work: '(Inventaire général des archives du chapitrecathédral de Rouen)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 19/11/2021..

@@ -1,0 +1,10 @@
+PERSON: PETRUS Perroti
+Also known as: Pierre PERROT; Pierre PEROT; Petrus PEROTI.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1493-1527%.
+Studied at: Paris (Nation de France) %1493-1527%..
+Academic grades obtained: Étudiant en médecine (Paris) %1493-1495% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+University functions: Paris (Faculté de médecine : Maître régen jusqu'en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 19/02/2023)..

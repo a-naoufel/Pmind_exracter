@@ -1,0 +1,10 @@
+PERSON: GERARDUS de Brolio 2
+Also known as: Geraldus de BROLIO; Géraud du BREUIL.
+Description: Évêque d’Apt.
+Status: Extérieur.
+Gender: male.
+Active during: %1378-1390%.
+Studied at: ?.
+Academic grades obtained: Docteur en droit canon ;.
+Ecclesiastical positions held: Chanoine de Vich ;; Expectative de prébende pour un canonicat de Rodez en ;; Évêque d’Apt %1383-1390% ;; À ce titre, impliqué dans l’enquête pour la caonisation de Pierre de Luxembourg ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 21/07/2021..

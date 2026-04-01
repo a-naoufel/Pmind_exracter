@@ -1,0 +1,12 @@
+PERSON: ALEXANDER de Neuport
+Also known as: Alexandre de NEUPORT.
+Description: Recteur de Warfield.
+Status: Extérieur.
+Gender: male.
+Active during: %1305-1333%.
+Born in: Angleterre.
+Diocese of origin: Diocèse de Londres..
+Studied at: Oxford..
+Academic grades obtained: Magister (Oxford) ..
+Ecclesiastical positions held: Recteur de Warfield (Berkshire) %1305-1333%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 28/06/2020)..

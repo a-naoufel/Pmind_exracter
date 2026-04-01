@@ -1,0 +1,14 @@
+PERSON: PETRUS de Orgemont 3
+Also known as: Pierre III d'ORGEMONT.
+Description: Maître des requêtes de l’Hôtel du Roi.
+Status: Étudiant.
+Gender: male.
+Active during: %1392-1415%.
+Born in: Île-de-France (Paris) ;.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris (Nation de France) %1392-1394%..
+Academic grades obtained: Étudiant (Paris) %1392-1393%.; Étudiant ès arts (Paris) ..
+College affiliation: Collège de Dormans-Beauvais : boursier %1392-1393% ;.
+Family relationships: Son grand-père est Pierre d’ORGEMONT, chancelier de France ; Son grand-oncle est Guillaume de DORMANS, archevêque de Sens ; Son père est Amaury d’ORGEMONT, seigneur de Chantilly, maître des requêtes de l’Hôtel du Roi ; Sa mère est Marie PAILLART ; Son oncle est Pierre II d’ORGEMONT, évêque de Paris ; Son oncle est Guillaume d’ORGEMONT, trésorier des guerres ; Son oncle est Nicolas d’ORGEMONT, doyen de Tours (Saint-Martin) et conseiller-clerc au Parlement de Paris ; Son oncle est Denis PAILLART ; Son cousin est Philippe d’ORGEMONT ; Son cousin est Étienne d’ORGEMONT ; Son cousin est Pierre IV d’ORGEMONT ; Son fils est Pierre V d’ORGEMONT ;.
+Social origin: Noble ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 22/10/2019..

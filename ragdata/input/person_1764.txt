@@ -1,0 +1,12 @@
+PERSON: CONRADUS Schapel de Rotwil
+Also known as: Conradus SCHAPEL de Rotwil; Conradus de ROTWIL.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1356-1398%.
+Born in: Alémanie (Rottweil ?) ?.
+Studied at: Paris.
+Academic grades obtained: Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Hermannus de ROTWIL..
+Ecclesiastical positions held: Chanoine de Beromünster %1371-1398% ;; Chanoine de Zürich (Grossmünster) (provision)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 28/04/2021)..

@@ -1,0 +1,10 @@
+PERSON: PETRUS Coquel
+Also known as: Pierre COQUEL.
+Description: Maître en arts, en médecine et étudiant en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1379-1387%.
+Studied at: Paris %1379-1387%..
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ;; Étudiant en théologie (Paris) %1382-1387%..
+Ecclesiastical positions held: Sous-diacre du diocèse de Noyon ;; Candidat à un canonicat de Saint-Marcel-les-Paris en ..
+Representation roles: Délégué par l'Université de Paris à la cour d'Avignon en ..

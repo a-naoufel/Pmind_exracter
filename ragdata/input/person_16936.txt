@@ -1,0 +1,12 @@
+PERSON: AUFREDUS Le Bon
+Also known as: Aufredus LE BON.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1390-1390%.
+Born in: Ile-de-France ?.
+Diocese of origin: Diocèse de Paris..
+Studied at: Paris.
+Academic grades obtained: Étudiant.
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiastique à la collation de l'évêque, du doyen et du chapitre de Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 25/11/2020)..

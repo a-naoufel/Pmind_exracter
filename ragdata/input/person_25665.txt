@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Chourles
+Also known as: Guillermus CHOURLES.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1395-1395%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Dol ;.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en décret (Paris) ?.
+Ecclesiastical status: Clerc du diocèse de Dol en ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus quorumdam studentium Parisiis présenté à BENOÎT XIII en (9 février) à Avignon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 23/02/2019..

@@ -1,0 +1,11 @@
+PERSON: ULRICUS
+Also known as: ULRICUS.
+Description: Chanoine de Saint-Victor.
+Status: Incertain.
+Gender: male.
+Active during: %1163-1163%.
+Born in: Italie..
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.S.A. : chanoine de Saint-Victor ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/01/2025)..

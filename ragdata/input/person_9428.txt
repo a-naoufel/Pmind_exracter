@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de Dacia 4
+Also known as: Nicolaus de DACIA.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1398-1398%.
+Born in: Danemark..
+Studied at: Paris (Nation Anglo-allemande), ..
+Academic grades obtained: Bachelier ès arts (Paris), ;.
+Academic relationships: Son maître est Rutgherus de ZWESIA (déterminance) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Élisabeth Mornet, 24/05/2019..

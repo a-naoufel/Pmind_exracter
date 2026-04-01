@@ -1,0 +1,22 @@
+PERSON: GUILLELMUS Autissiodorensis 1
+Also known as: Guillelmus AUTISSIODORENSIS; Guilllelmus ALTISSODORENSIS; Guilllelmus AUTISSODORENSIS; Guillaume d'AUXERRE; Guilhelmus ALTISSIODORENSIS.
+Description: Archidiacre de Beauvais.
+Status: Maître.
+Gender: male.
+Active during: %1200-1231%.
+Born in: Bourgogne (?Auxerre)..
+Diocese of origin: Diocèse d'Auxerre..
+Studied at: Paris %:1200-1228%..
+Academic grades obtained: Magister (Paris) ;; Maître en théologie (Paris) ..
+Ecclesiastical positions held: Archidiacre de Beauvais..
+University functions: Maîtrerégent à la Faculté de Théologie de Paris, ..
+Representation roles: Chargé d'une mission par le conseil de régence de Blanche de CASTILLE, reine de France à Rome en ..
+Authored work: 'Summa Aurea super IV libr. Sententiarum', composed around %1215-1220%.
+Authored work: 'Summa de divinis officiis', composed around ?.
+Authored work: 'Postilla in Apocalypsim', composed around ?.
+Authored work: 'Quaestiones', composed around ?.
+Authored work: 'Super Psalterium', composed around ?.
+Authored work: '(Sermones)', composed around ?.
+Authored work: '[Gloses sur l'Anticlaudianus d'Alain de Lille]', composed around ?%1225-1231%.
+Authored work: '(Glose sur l'Isagoge de Poprhyre)', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

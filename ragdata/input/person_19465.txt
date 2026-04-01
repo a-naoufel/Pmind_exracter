@@ -1,0 +1,13 @@
+PERSON: FIRMINUS de Bellavalle
+Also known as: Firminus de BELLAVALLE; Firmin de BEAUVAL.
+Description: Astronome.
+Status: Incertain.
+Gender: male.
+Active during: %1338-1345%.
+Born in: Picardie selon Simon de PHARES..
+Diocese of origin: Diocèse d’Amiens..
+Studied at: Paris..
+Academic grades obtained: ?Maître ès arts (Paris)..
+Authored work: 'Ad correctionem calendarii', composed around ..
+Authored work: 'Canon super tabulam ostendens distanciam vere coniunctionis et oppositionis a media', composed around ?.
+Authored work: 'De mutatione aeris', composed around ;.

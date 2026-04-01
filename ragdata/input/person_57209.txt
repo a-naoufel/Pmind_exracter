@@ -1,0 +1,13 @@
+PERSON: AEGIDIUS de Burs
+Also known as: Gilet de BURS.
+Description: Boursier du Collège de Laon.
+Status: Étudiant.
+Gender: male.
+Active during: %1331-1331%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège de Laon : boursier en ;.
+Family relationships: Son frère est Jehannot de PARIS ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 13/01/2024)..

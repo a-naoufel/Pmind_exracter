@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Alvernia 2
+Also known as: Guillaume d'AUVERGNE.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1266-1267%.
+Born in: ?Auvergne..
+Studied at: Paris.
+Academic grades obtained: Maître en théologie.
+Ecclesiastical positions held: Clerc séculier, carrière inconnue..
+University functions: Paris (Faculté de Théologie : Maître-régent en %1266-1267%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 05/03/2020..

@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Chatillon
+Also known as: Nicolaus CHATILLON.
+Description: Étudiant ès arts.
+Status: Étudiant.
+Gender: male.
+Active during: %1403-1403%.
+Studied at: Paris (Nation ?) ;.
+Academic grades obtained: Étudiant ès arts (Paris) en ;.
+Ecclesiastical status: Clerc en ?.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Magnus Rotulus (rotulus scolarium Parisiensum) de l’Université de Paris daté de (23 octobre) et présenté à BENOÎT XIII..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 28/10/2018..

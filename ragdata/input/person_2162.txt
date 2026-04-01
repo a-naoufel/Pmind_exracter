@@ -1,0 +1,11 @@
+PERSON: ESCHILDUS de Suecia
+Also known as: Eschildus de SUECIA.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Born in: Suède.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Etudiant ?.
+College affiliation: Collège de Skara ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 10/07/2016..

@@ -1,0 +1,10 @@
+PERSON: GALTERIUS de Fontanis
+Also known as: Galterius de FONTANIS.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1285-1288%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Prévôt d’Ingré ;; Chanoine de Sens ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 27 octobre 2022..

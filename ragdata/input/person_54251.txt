@@ -1,0 +1,12 @@
+PERSON: PETRUS de Champigniaco
+Also known as: Petrus de CHAMPIGNIACO.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1265-1271%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Sens ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Sens %1265-1268% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 21/09/2022..

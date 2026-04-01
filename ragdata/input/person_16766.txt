@@ -1,0 +1,12 @@
+PERSON: MATTHAEUS Ad Latus
+Also known as: Matthaeus ad LATUS; Matheus ad LATUS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1360%.
+Born in: Picardie ;.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant (Paris)..
+Ecclesiastical positions held: Écolâtre d'Amiens %1349-1360% ;; Chanoineprébendé de Saint-Omer en janvier ..
+Representation roles: Procureur du pape CLEMENT VI au Parlement de Paris en janvier ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 22/12/2021..

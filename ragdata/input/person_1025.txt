@@ -1,0 +1,11 @@
+PERSON: ARNALDUS de Sutphania
+Also known as: Arnoldus de SUTPHANIA.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Born in: Pays-Bas (Gueldre : Zutphen) ?.
+Diocese of origin: Diocèse de Utrecht ?.
+Studied at: Paris en ..
+Academic grades obtained: Étudiant (Paris)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 5/11/2020..

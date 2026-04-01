@@ -1,0 +1,10 @@
+PERSON: BALDUINUS de Dieppe
+Also known as: Balduinus de DIEPPE; Balduinus dictus BIENFRUITIER.
+Description: Procureur de la Sorbonne.
+Status: Maître.
+Gender: male.
+Active during: %1325-1325%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) ?.
+College affiliation: Sorbonne : procureur mentionné en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/11/2020)..

@@ -1,0 +1,15 @@
+PERSON: PETRUS Martini 11
+Also known as: Petrus MARTINI; Pierre MARTIN.
+Description: Recteur de l'université.
+Status: Maître.
+Gender: male.
+Active during: %1459-1481%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse d'Évreux ;.
+Studied at: Paris (Nation de Normandie) %1459-1481%..
+Academic grades obtained: Maître ès arts (Paris).; Licencié en théologie (Paris) (23 janvier) ;; Maître en théologie (Paris) (2 mai) ..
+College affiliation: Collège de Sorbonne %1465-1481%.; Socius du collège de Sorbonne admis en même temps que Johannes HENNON et Henricus de QUESNEYO..
+Academic relationships: Son maître est Petrus CAROS en ; Son maître est Dionysius CITHAREDI en ..
+Ecclesiastical positions held: ?Chanoine de Sens (chapitre cathédral), %1480-1481% ;; ?Théologal de Sens (chapitre cathédral)..
+University functions: Paris (Faculté de Théologie : Lecteur de la Bible (1er cours) le 7 avril ) ;; Paris (Faculté de Théologie : Lecteur de la Bible (2e cours) le 9 septembre ) ;; Paris (Faculté de Théologie : Lecteur des Sentences en septembre ) ;; Paris (Université : recteur élu le 10 octobre jusqu'au 14 décembre ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 14/09/2020..

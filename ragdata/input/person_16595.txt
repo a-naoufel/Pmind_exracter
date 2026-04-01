@@ -1,0 +1,11 @@
+PERSON: BENIGNUS Stephani
+Also known as: Beninus STEPHANI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1444-1444%.
+Born in: Île-de-France (Paris)..
+Diocese of origin: Diocèse de Paris..
+Studied at: Paris ..
+Academic grades obtained: Licencié ès arts (Paris) .; Maître ès arts (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 13/01/2021).

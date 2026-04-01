@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Sainte-Aldegonde
+Also known as: Guillaume de SAINTE-ALDEGONDE.
+Description: Chanoine de Saint-Omer..
+Status: Incertain.
+Gender: male.
+Active during: %1389-1389%.
+Born in: Diocèse de Thérouanne ?.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son frère est Gilbert de SAINTE-ALDEGONDE ;.
+Ecclesiastical positions held: Chanoine de Saint-Omer ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

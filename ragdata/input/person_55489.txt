@@ -1,0 +1,12 @@
+PERSON: NICOLAUS Franchehomme
+Also known as: Nicolaus FRANCHEHOMME.
+Description: Doyen d’Évreux.
+Status: Maître.
+Gender: male.
+Active during: %1415-1450%.
+Studied at: Paris ?; Bologne..
+Academic grades obtained: Maître ;; Étudiant à Bologne en ;.
+Ecclesiastical status: Prêtre en %1432 ;.
+Ecclesiastical positions held: Doyen d’Évreux %1430-1450% ;.
+University functions: Paris (Université : il est présent dans une réunion en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/03/2023)..

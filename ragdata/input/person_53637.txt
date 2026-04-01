@@ -1,0 +1,10 @@
+PERSON: HUGO de Nuviaco
+Also known as: Hugo de NUVIACO; Hugues de NEVY.
+Description: Chanoine de Besançon.
+Status: Incertain.
+Gender: male.
+Active during: %1369-1404%.
+Studied at: ?.
+Academic grades obtained: Bachelier en droit canon ;; Licencié en droit civil ;.
+Ecclesiastical positions held: Chanoine de Besançon %1369-1404% ;; Archidiacre de Faverney %1369-1404% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 14/04/2022)..

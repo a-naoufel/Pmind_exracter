@@ -1,0 +1,12 @@
+PERSON: HERMANNUS prepositus Ymbrie
+Also known as: Hermannus prepositus YMBRIE.
+Description: Chanoine d'Århus.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1327%.
+Born in: Danemark.
+Studied at: Paris (Nation Anglo-allemande ?),.
+Academic grades obtained: Étudiant (Paris), ..
+Social origin: Inconnue.
+Ecclesiastical positions held: Prévôtrural d'Ymbria (diocèse d'Odense), %1313-:1327%;; Chanoine d'Århus, ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Élisabeth MORNET 02/06/2014; dernière révision 09/01/2016..

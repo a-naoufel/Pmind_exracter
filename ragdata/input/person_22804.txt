@@ -1,0 +1,8 @@
+PERSON: AMFREDUS de Sancto Remigio
+Also known as: Amfredus de SANCTO REMIGIO.
+Description: Propriétaire de maison.
+Status: Extérieur.
+Gender: male.
+Active during: %1275-1275%.
+Studied at: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 23/07/2020)..

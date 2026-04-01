@@ -1,0 +1,12 @@
+PERSON: ADAM Villard
+Also known as: Adenet VILLARD.
+Description: Boursier du Collège de Laon..
+Status: Étudiant.
+Gender: male.
+Active during: %1388-1390%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie) %1388-1390%..
+Academic grades obtained: Étudiant (Paris) %1388-1390% ?.
+College affiliation: Collège de Laon : boursier ès arts en %1388-1390% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/12/2020..

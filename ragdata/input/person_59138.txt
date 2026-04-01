@@ -1,0 +1,12 @@
+PERSON: REMIGIUS 2
+Also known as: REMIGIUS.
+Description: Chanoine de Châlons.
+Status: Incertain.
+Gender: male.
+Active during: %1253-1267%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son oncle est NICOLAS, chanoine de Châlons-en-Champagne (La Trinité) avant ;.
+Ecclesiastical status: Sous-diacre ;.
+Ecclesiastical positions held: Chanoine de Châlons-en-Champagne %1253-1267% ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/06/2025.

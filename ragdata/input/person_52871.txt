@@ -1,0 +1,11 @@
+PERSON: STEPHANUS Mauritii
+Also known as: Stephanus MAURITII; Stephanus ARMARII; Étienne LARMEURIER.
+Description: Chanoine de Rouen.
+Status: Maître.
+Gender: male.
+Active during: %1307-1350%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) ;; Docteur en théologie (Paris) ;.
+Ecclesiastical positions held: Curé de Foucartd’Escalles ;; Chanoine de Rouen ;.
+University functions: Paris (Faculté des Arts : Maître-régent depuis ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 3/11/2021..

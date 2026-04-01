@@ -1,0 +1,10 @@
+PERSON: EBRARDUS de Noientello
+Also known as: Everardus de NOIENTELLO; Evrard de NOINTEL.
+Description: Chanoine d'Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1289-1297%.
+Studied at: ?.
+Academic grades obtained: Maître..
+Ecclesiastical positions held: Chanoine de Beauvais ;; Chanoine d'Amiens %1289-1297% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 29/06/2021..

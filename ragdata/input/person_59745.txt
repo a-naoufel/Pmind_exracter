@@ -1,0 +1,11 @@
+PERSON: THEODERICUS Simonis
+Also known as: Thidericus SIMONIS.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1453-1453%.
+Born in: Pays-Bas ? ;.
+Diocese of origin: Diocèse de Utrecht ;.
+Studied at: Paris (Nation Anglo-allemande) %1453-1428% ;.
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Source: RAG ;.

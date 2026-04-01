@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS de Liveto
+Also known as: Guillelmus de LIVETO.
+Description: Chanoine de Rouen.
+Status: Maître.
+Gender: male.
+Active during: %1421-1464%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Lisieux ;.
+Studied at: Paris (Nation de Normandie ?) ?.
+Academic grades obtained: Maître ès arts (Paris ?) ;; Bachelier en décret (Paris) ;; Licencié en droit civil ;.
+Family relationships: Son parent est Robert de LIVET, vicaire-général de Rouen en ; Son neveu est Pierre de LIVET, chanoine de Beauvais en ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Lisieux ;; Chanoine de Rouen %1431-1464% ;; Chanoine d'Évreux %1461-1464% ;; Chanoine de Bayeux % -1464% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 29/10/2022..

@@ -1,0 +1,26 @@
+PERSON: SHARPE John
+Also known as: Johannes ACUTUS; John SHARPE.
+Description: Provost de Queen's College, Oxford.
+Status: Extérieur.
+Gender: male.
+Active during: %1379-1404%.
+Born in: Rhénanie ;.
+Diocese of origin: Diocèse de Münster..
+Studied at: Prague ;; Oxford..
+Academic grades obtained: Bachelier ès arts (Prague) ;; Maître ès arts (Oxford) ;; Bachelier en théologie (Oxford) ..
+Ecclesiastical positions held: Séculier ?.
+University functions: Oxford (Queen's College : Fellow %1391-1403%) ;; Oxford (Queen's College : Camerarius %1394-1395% et %1402-1403%) ;; Oxford (Queen's College : Treasurer %1400-1403%) ;; Oxford (Queen's College : Provost )..
+Authored work: 'De incarnacione verbi, ac nature assumpte unione cum Verbo', composed around ?.
+Authored work: 'De orationibus sanctorum, de suffragiis viatorum (Utrum virtus missae et aliorum spiritualium bonorum militantis ecclesiae vivis valeat ad collationem gratiae et defunctis mitigationem poenae', composed around ?.
+Authored work: 'De pluralitate beneficiorum', composed around ?.
+Authored work: 'Quodlibeta Abbreviata', composed around ?.
+Authored work: 'Quaestio de anima', composed around ?.
+Authored work: 'Quaestio super universalia', composed around ?.
+Authored work: 'Questiones de partionibus entis quaestionaliter', composed around ?.
+Authored work: 'Formalitates', composed around ?.
+Authored work: 'Quaestiones super VIII libros Phisicorum', composed around ?.
+Authored work: '?Abstractum a Burlaeo super Ethica lib. X', composed around ?.
+Authored work: 'De potestate sacerdotii', composed around ?.
+Authored work: 'De adoratione imaginum tractatulus', composed around ?.
+Authored work: 'De peregrinationibus', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/05/2024)..

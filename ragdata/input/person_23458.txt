@@ -1,0 +1,17 @@
+PERSON: GUILLELMUS de Carnoto 2
+Also known as: Guillelmus CARNOTENSIS; Guillelmus de CARNOTO; Guillaume de CHARTRES.
+Description: Chapelain de Saint Louis.
+Status: Incertain.
+Gender: male.
+Active during: %1248-1280%.
+Born in: Orléanais ?.
+Diocese of origin: Diocèse de Chartres ?.
+Studied at: ?.
+Academic grades obtained: Magister ?.
+Religious order: O.P. : frère dominicain vers ..
+Ecclesiastical positions held: Chanoine de Saint-Quentin en ;; Trésorier de Saint-Quentin (Saint-Frambald)..
+Authored work: 'Sermo ad S. Lefredum, eodem die Purificationis post prandium', composed around (2 février)..
+Authored work: 'Sermo ad Magdalenam (I)', composed around (12 février)..
+Authored work: 'Sermo ad Magdalenam (II)', composed around (19 février)..
+Authored work: 'De vita et actibus inclytae recordationis regis Francorum Ludovici et de miraculis quae ad eius sanctitatis declarationem contigerunt', composed around ?, dedicated to Il complète le texte de Geoffroy de BEAULIEU, écrit à la demande du pape GRÉGOIRE X, qui était resté inachevé..
+Source: MIRABILE (Andrea CENCINI) :.

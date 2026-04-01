@@ -1,0 +1,14 @@
+PERSON: BERNARDUS de Sanciza
+Also known as: Bernard de SANCIZA.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1260-1260%.
+Born in: Languedoc (Béziers)..
+Studied at: Paris..
+Academic grades obtained: Maître ès arts ?.
+Authored work: 'Comment. in Isagoge Porphyrii', composed around ?.
+Authored work: 'Comment. in lib. Praedicamentorum', composed around ?.
+Authored work: 'Comment. in lib. Perihermeneias', composed around ?.
+Authored work: 'Comment. in lib. sex principiorum', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/03/2015).

@@ -1,0 +1,21 @@
+PERSON: SERLO de Wilton
+Also known as: Serlo de WILTON; Serlo PARISIENSIS.
+Description: Abbé de L’Aumône.
+Status: Maître.
+Gender: male.
+Active during: %1125-1181%.
+Born in: Angleterre (Wiltshire : Wilton ?) ?.
+Studied at: Paris..
+Academic grades obtained: Maître (Paris ?) ;.
+Religious order: O.S.B. (Clun.) : moine clunisien à l’abbaye de LaCharitésurLoire vers ?; O.Cist. : moine cistercien à l’abbaye de L’Aumône..
+Religious functions: Abbé (O.Cist.) de l’abbaye de L’Aumône..
+University functions: Paris (Maître enseignant la grammaire avant ) ;; Oxford (Maître enseignant vers ) ;.
+Authored work: 'Expositio super orationem dominicam', composed around ?.
+Authored work: 'Sermo de iusto homine bene vivente', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Versus in conversione quando factus est monachus', composed around ?.
+Authored work: 'Dactile quod latitas …', composed around ?.
+Authored work: 'De primis syllabis', composed around ?.
+Authored work: 'Carmina', composed around ?.
+Authored work: 'Proverbia', composed around ?.
+Source: MIRABILE : Federico CONTINI :.

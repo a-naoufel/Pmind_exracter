@@ -1,0 +1,11 @@
+PERSON: LAURENTIUS Scolaris
+Also known as: LAURENTIUS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1426-1426%.
+Born in: ?Suède.
+Studied at: Paris (Nationanglaise-allemande), ..
+Academic grades obtained: É.A. (P), ..
+Academic relationships: ?Élève de maître Jacobus Petri RÖD, ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 03/05/2017..

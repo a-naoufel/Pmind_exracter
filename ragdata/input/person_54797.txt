@@ -1,0 +1,16 @@
+PERSON: HUGO de Kerolay
+Also known as: Hugo de KEROLAY.
+Description: Évêque de Tréguier.
+Status: Incertain.
+Gender: male.
+Active during: %1361-1385%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Léon ;.
+Studied at: Orléans.; Angers..
+Academic grades obtained: Docteur in utroque jure ;.
+Family relationships: Son parent est Hugues de KERANDRET, sénéchalduvicomte de Limoges ; Son parent est Jean de KEROULET, chanoine d’Angers ;.
+Social origin: Noble ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Saint-Pol-de-Léon %1361-1363% ;; Chanoine de Poitiers %1361-1364% ;; Chanoine d’Angers %1364-1378% ;; Trésorier de Quimper ;; Doyen de Saint-Malo ;; Évêque de Tréguier %1383-1385% ;.
+University functions: Angers (Maître-régent en ) ;; Orléans (Conservateur des privilèges en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 07/12/2022..

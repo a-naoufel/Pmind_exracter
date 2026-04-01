@@ -1,0 +1,13 @@
+PERSON: ROGARIUS de Laboulloye
+Also known as: Rogarius de LABOULLOYE.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1401-1403%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse d’Avranches ;.
+Academic grades obtained: Bachelier en décret ;.
+Ecclesiastical status: Clerc du diocèse d’Avranches en ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Rotulus licentiatorum et bacallariorum in decretis Parisius adressé à BENOÎT XIII en ;.
+University functions: Paris (Faculté de Décret : lecteur %1401-1403%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 29/04/2019..

@@ -1,0 +1,9 @@
+PERSON: BERNARDUS de Pleignes
+Also known as: Bernard de PLEIGNES; Bernard DESPLANES.
+Description: Chirurgien à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1425-1425%.
+Studied at: Paris, ..
+Academic grades obtained: Maître en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; Jean-Philippe Genet, dernière mise à jour 29/01/2021)..

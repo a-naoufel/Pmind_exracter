@@ -1,0 +1,11 @@
+PERSON: HECTOR de Salazar
+Also known as: Hector de SALAZAR; Hector de SALSART.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant.
+Family relationships: Son père est Jean de SALAZAR, capitaine de l'armée royale ; Son frère est Tristan de SALAZAR, archevêque de Sens..
+Social origin: Noble ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 2/05/2016..

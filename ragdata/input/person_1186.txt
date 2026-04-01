@@ -1,0 +1,13 @@
+PERSON: BARTHOLOMAEUS Beke
+Also known as: Barthélémy BEKE; Barthélémy BECA.
+Description: Cistercien.
+Status: Étudiant.
+Gender: male.
+Active during: %1428-1463%.
+Born in: Flandre..
+Studied at: Paris ;.
+Academic grades obtained: ?.
+College affiliation: Collège Saint-Bernard ;.
+Religious order: Cistercien : abbaye (cistercienne) des Dunes..
+Authored work: '(Continuation du Chronodromon 1414-1427)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 8/12/2020)..

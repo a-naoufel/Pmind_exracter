@@ -1,0 +1,11 @@
+PERSON: SIMON de Demoys
+Also known as: Simon de DEMOYS.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Born in: Champagne ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ..
+Religious order: O.S.B. : moine bénédictin du monastère de Montiéramey (diocèse de Troyes) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet 09-09-2024..

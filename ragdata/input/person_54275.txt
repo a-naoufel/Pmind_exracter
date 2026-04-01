@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Brieusy
+Also known as: Guillelmuss BRIEUSY.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1442-1442%.
+Studied at: Paris ..
+Academic grades obtained: Licencié en décret (Paris) (7 avril) ;.
+Academic relationships: Son maître est Johannes CHUFFART pour la licence en décret en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 23/09/2022..

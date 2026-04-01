@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Niger
+Also known as: Guillelmus NIGER.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1271-1271%.
+Studied at: Paris ..
+Academic grades obtained: Magister en ;.
+University functions: Paris (Il tient école en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 16/04/2020..

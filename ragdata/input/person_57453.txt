@@ -1,0 +1,8 @@
+PERSON: X de Voisme
+Also known as: Mademoiselle de VOISME.
+Description: "Pauvre femme".
+Status: Incertain.
+Gender: female.
+Active during: %1454-1454%.
+University functions: Paris (Nation de France : elle reçoit trois écus de la nation en (19 janvier)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/01/2024..

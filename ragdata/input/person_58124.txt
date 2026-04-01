@@ -1,0 +1,18 @@
+PERSON: MINUS de Colle Vallis Elsae
+Also known as: Mino da COLLE.
+Description: Maître de rhétorique.
+Status: Extérieur.
+Gender: male.
+Active during: %1266-1287%.
+Born in: Italie (Toscane : CollediVald'Elsa)..
+Studied at: Bologne..
+Academic grades obtained: Maître..
+University functions: Pise : maître de rhétorique et de grammaire ;; SanMiniato : : maître de rhétorique et de grammaire..
+Authored work: 'Epistolae', composed around ?.
+Authored work: 'Ars dictaminis', composed around ?.
+Authored work: 'Notulae', composed around ?.
+Authored work: 'Proverbia', composed around ?.
+Authored work: 'Flores', composed around ?.
+Authored work: 'Salutationes', composed around ?.
+Authored work: 'Sonneti', composed around ?.
+Source: DBI : Francasca LUZZATI-LUGANA ;.

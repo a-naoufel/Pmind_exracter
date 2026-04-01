@@ -1,0 +1,10 @@
+PERSON: GUIDO de Alneto 2
+Also known as: Guido de ALNETO; Guy de LAUNOY; Guy de LAUNAY.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1476-1484%.
+Studied at: ?.
+Academic grades obtained: Magister ;; Bachelier en droit civil ;.
+Ecclesiastical positions held: Chanoine de Reims %1476-1484% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 7/01/2019..

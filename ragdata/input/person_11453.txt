@@ -1,0 +1,25 @@
+PERSON: SIMON de Cremona
+Also known as: Simon de CREMONA; Simon de CRÉMONE.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1365-1390%?.
+Born in: Italie (Lombardie : Cremona ?) ?.
+Diocese of origin: Diocèse de Crémone ?.
+Studied at: Paris %1365-1387%..
+Academic grades obtained: Bachelier sententiaire (Paris) %1365-1366% ;; Licencié en théologie (Paris) ;; Docteur en théologie (Paris) vers ..
+College affiliation: Couvent (O.E.S.A.) de Paris (Grands-Augustins)..
+Family relationships: Sa soeur est X, abbesse de SanZeno à Crémone..
+Religious order: O.E.S.A. : frère augustin..
+Religious functions: Provincial (augustin) de Lombardie à partir de ;; Visiteur du couvent (augustinien) de Savone..
+University functions: Paris (Faculté de Théologie : Lecteur des Sentences %1365-1366%).; Maître-régent du couvent de Gênes en mai ;.
+Authored work: 'Lectura super quattuor libros Sententiarum', composed around Vers à Paris..
+Authored work: 'Postilla super epistolas dominicales', composed around ?.
+Authored work: 'Super epistolas Pauli', composed around ?.
+Authored work: 'Collationes mortuorum in Evangelia et Epistolas totius anni', composed around ?.
+Authored work: 'Harmonia in evangelia', composed around ?.
+Authored work: 'Quaestiones de sanguine Christi', composed around ?.
+Authored work: 'Questiones de Indulgentiis Portiunculae', composed around ?.
+Authored work: 'Postilla super evangelia dominicalia', composed around ?.
+Authored work: 'Quadragesimale', composed around ?.
+Source: MIRABILE :.

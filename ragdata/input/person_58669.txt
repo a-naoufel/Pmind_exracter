@@ -1,0 +1,13 @@
+PERSON: MARTINUS Molenfeld
+Also known as: Martinus MOLENFELD; Martinus MOLENFELT; Martin MÖLFELD.
+Description: Recteur de l’université de Freiburg ;.
+Status: Maître.
+Gender: male.
+Active during: %1488-1501%.
+Born in: Estonie (Tartu) ;.
+Diocese of origin: Diocèse de Tartu (Dorpat)..
+Studied at: Cologne %1488-1489% ;; Paris (Nation Anglo-germanique) %1489-1492% ;; Freiburg-im-Brisgau %1492-1501% ;..
+Academic grades obtained: Bachelier ès arts (Cologne) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Bachelier en théologie (Freiburg-im-Breisgau) ;; Licencié en théologie (Freiburg-im-Breisgau) ;; Docteur en théologie (Freiburg-im-Breisgau) ;.
+University functions: Freiburg-im-Breisgau (Faculté des Arts : doyen et %1497-1498%) ;; Freiburg-im-Breisgau (Université : Recteur %1498-1499%)..
+Authored work: 'Obligatotiorum', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 14/03/2025)..

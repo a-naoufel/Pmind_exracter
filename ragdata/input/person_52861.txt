@@ -1,0 +1,9 @@
+PERSON: THOMAS de Parisius
+Also known as: Thomas dictus de PARISIUS.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1260-1273%.
+Academic grades obtained: ?; Maître ;.
+Ecclesiastical positions held: Chanoine de Rouen %1269-1273% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 1/11/2021..

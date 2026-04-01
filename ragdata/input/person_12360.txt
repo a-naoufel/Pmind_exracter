@@ -1,0 +1,9 @@
+PERSON: WINANDUS de Auersteghe
+Also known as: Wynandus de AUERSTEGHE.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1380-1380%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Étudiant (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 24/08/2024..

@@ -1,0 +1,10 @@
+PERSON: G. de Bailivia
+Also known as: G. de BAILIVIA.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1349-1349%.
+Studied at: Paris ?.
+Academic grades obtained: Maître ?.
+College affiliation: Sorbonne ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 31/08/2020..

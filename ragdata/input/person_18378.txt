@@ -1,0 +1,13 @@
+PERSON: DUNCANUS de Edyllyston
+Also known as: Duncanus de EDYLLYSTON; Duncan de EDDLESTON.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1389-1394%.
+Born in: Écosse..
+Diocese of origin: Diocèse de Glasgow..
+Studied at: Paris..
+Academic grades obtained: Étudiant en décret en ..
+Ecclesiastical status: Prêtre du diocèse de Glasgow ;.
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiastique à la collation de l'abbé et du couvent du monastère de Kelso en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 21/06/2021..

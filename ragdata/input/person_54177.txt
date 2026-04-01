@@ -1,0 +1,10 @@
+PERSON: SEVINUS
+Also known as: SEVINUS.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1288-1288%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Sens (‘Saint-Jean-Baptiste’) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 10/09/2022..

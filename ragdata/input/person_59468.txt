@@ -1,0 +1,9 @@
+PERSON: GALFRIDUS de La Croix
+Also known as: Geoffroy de LACROIX.
+Description: Conseiller du roi et trésorier de France.
+Status: Extérieur.
+Gender: male.
+Active during: %1495-1514%.
+Family relationships: Son épouse est Charlotte de PONCHER ; Son fils est Claude de LACROIX. Sa fille est Françoise de LACROIX..
+Social origin: Noble ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

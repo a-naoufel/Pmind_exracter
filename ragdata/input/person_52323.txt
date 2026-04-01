@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de Hacqueville
+Also known as: Nicolas de HACQUEVILE.
+Description: Chanoine de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1475-1501%.
+Studied at: Paris ?.
+Academic grades obtained: Maître ès arts (Paris ?) ;; Licencié en décret (Paris ?) ;; Licencié in utroque..
+Ecclesiastical status: Prêtre ?.
+Ecclesiastical positions held: Chanoine de Reims avant ;; Chanoine de Paris (Notre-Dame) %1475-1499% ;; Chapelain de Paris (Sainte-Geneviève) en ;.
+Source: Paris au Moyen Âge : //http://www.parismoyenage.fr/.

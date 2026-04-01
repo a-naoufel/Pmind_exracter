@@ -1,0 +1,10 @@
+PERSON: STEPHANUS 3
+Also known as: STEPHANUS.
+Description: Doyen de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1207-1214%.
+Studied at: Paris ..
+Academic grades obtained: Maître (Paris).
+Ecclesiastical positions held: Doyen de Sens %1207-1214% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 09/09/2022..

@@ -1,0 +1,10 @@
+PERSON: OLIVERIUS de Solerio
+Also known as: Oliverius de SOLERIO.
+Description: Chanoine d’Angers.
+Status: Incertain.
+Gender: male.
+Active during: %1388-1388%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Other ecclesiastical functions: Chanoine d’Angers ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/06/2022)..

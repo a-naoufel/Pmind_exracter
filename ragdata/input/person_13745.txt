@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Longolio 3
+Also known as: Guillelmus de LONGOLIO; Guillaume de LONGOLIO; Guillaume de LANGOLIO.
+Description: Doyen de la Faculté de médecine..
+Status: Maître.
+Gender: male.
+Active during: %1429-1441%.
+Studied at: Paris %1429-1441%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+University functions: Paris (Nation de France : procureur %1429-1430%) ;; Paris (Faculté de médecine : Maître-régent %1432-1441%) ;; Paris (Faculté de médecine : Doyen élu en ) ;.
+Representation roles: Membre de l'ambassade envoyée au pape par l'Université de Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Torunieroux ; révision, Jean-Philippe Genet, 31/03/2022..

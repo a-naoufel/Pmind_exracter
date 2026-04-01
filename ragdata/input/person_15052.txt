@@ -1,0 +1,15 @@
+PERSON: OLIVERIUS Guernerii
+Also known as: Oliverius GUERNERII; Olivier GARNIER; Oliverius GRENERII; Olivier GREVET; Olivier GUEVET.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1420-1437%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse de Bayeux..
+Studied at: Paris (Nation de Normandie) %1420-1428% ;; Caen..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+College affiliation: Collège de Maître-Gervais : socius %1420-1423% ;.
+Ecclesiastical status: Prêtre ;; Clerc du diocèse de Bayeux ;.
+Ecclesiastical positions held: Recteur de la paroisse de Réville (diocèse de Coutances) en ;.
+Representation roles: Présent au concile de Bâle en %1433-1434%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 2/12/2023)..

@@ -1,0 +1,16 @@
+PERSON: HENRICUS de Alemania 3
+Also known as: Henri d'ALLEMAGNE; Henricus TEUTONICUS; Henricus de ALLEMANNIA.
+Description: Augustin.
+Status: Maître.
+Gender: male.
+Active during: %1300-1329%.
+Born in: Allemagne ?.
+Studied at: Paris %1304-1309%, mais peut-être aussi dés la fin du XIIIe siècle..
+Academic grades obtained: Maître en théologie (Paris) ..
+College affiliation: Couvent (augustin) de Paris (Grands-Augustins).
+Religious order: O.E.S.A. : frère augustin..
+University functions: Paris (régent) %1306-1309%.; Allemagne : il est nommé examinateur pour la promotion au lectorat dans tous les studia de la province (augustine) d'Allemagne..
+Authored work: 'Quaestio theologica', composed around ?.
+Authored work: 'Quodlibet I (20q.)', composed around .
+Authored work: 'Comment. in lib. Ethicorum', composed around , dedicated to Dédié à Hannibaldus de CECCANO..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 3/04/2021)..

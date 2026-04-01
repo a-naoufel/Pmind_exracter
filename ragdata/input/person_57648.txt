@@ -1,0 +1,8 @@
+PERSON: GUILLELMUS Fructuarius
+Also known as: Guillelmus dictus FRUCTUARIUS.
+Description: Bourgeois de Paris ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1268-1268%.
+Family relationships: Bourgoisie ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/03/2024..

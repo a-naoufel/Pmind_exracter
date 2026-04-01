@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Carnoto 1
+Also known as: Guillelmus de CARNOTO.
+Description: Chanoine de Saint-Quentin.
+Status: Incertain.
+Gender: male.
+Active during: %1254-1254%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chanoine de Saint-Quentin..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/03/2024..

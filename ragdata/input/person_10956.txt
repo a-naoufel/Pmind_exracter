@@ -1,0 +1,9 @@
+PERSON: ROBERTUS Picoti
+Also known as: Robert PICOT; Robertus PICOTI.
+Description: Bachelier en médecine..
+Status: Gradué.
+Gender: male.
+Active during: %1407-1410%.
+Studied at: Paris %1407-1410%..
+Academic grades obtained: Bachelier en médecine (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 27/08/2016..

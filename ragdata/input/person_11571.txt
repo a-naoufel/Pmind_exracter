@@ -1,0 +1,9 @@
+PERSON: STEPHANUS Compensatoris
+Also known as: Stephanus Compensatoris; Etienne COMPENSATORIS.
+Description: Étudiant.
+Status: Gradué.
+Gender: male.
+Active during: %1391-1391%.
+Studied at: Paris (Collège de Navarre) ;.
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Boursier grammairien au (Collège de Navarre) ..

@@ -1,0 +1,12 @@
+PERSON: HENRICUS de Southwark
+Also known as: Henry of SOUTHWARK.
+Description: ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1290-1290%.
+Born in: Angleterre ?.
+Studied at: ?.
+Academic grades obtained: Magister ?.
+Authored work: 'Tractatus de speculorum miraculis', composed around ?.
+Authored work: 'De opticis quaestionibus epistola', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 4/05/2022..

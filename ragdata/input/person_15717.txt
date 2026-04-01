@@ -1,0 +1,10 @@
+PERSON: GUDBRANDUS
+Also known as: GUDBRANDUS.
+Description: Clerc.
+Status: Étudiant.
+Gender: male.
+Active during: %1282-1282%.
+Born in: Norvège.
+Studied at: Paris, %1282-1282%..
+Ecclesiastical status: Statut douteux.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 24/04/2014..

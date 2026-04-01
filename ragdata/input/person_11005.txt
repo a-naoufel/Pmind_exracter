@@ -1,0 +1,9 @@
+PERSON: ROBERTUS de Nova Villa
+Also known as: Robertus de NOVAVILLA; Robert de NEUVILLE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1266-1266%.
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Maître ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 13/09/2023)..

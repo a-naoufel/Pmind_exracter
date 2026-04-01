@@ -1,0 +1,11 @@
+PERSON: P. de Northampton
+Also known as: P. de NORTHAMPTON.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1192-1192%.
+Born in: Angleterre ?.
+Studied at: Paris ?.
+Academic grades obtained: Magister.
+University functions: Paris (Maître enseignant le droit canon avant ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 27/04/2020..

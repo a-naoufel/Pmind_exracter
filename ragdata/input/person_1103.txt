@@ -1,0 +1,19 @@
+PERSON: AUSTENCIUS de Sancta Colomba
+Also known as: Austencius de SANCTACOLUMBA; Austence de SAINTE-COLOMBE; Ascensius AQUITANUS.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1352-1368%.
+Born in: Périgord (Sainte-Colombe)..
+Diocese of origin: Diocèse de Périgueux ?.
+Studied at: Paris %:1352-1352%..
+Academic grades obtained: Bachelier en théologie (Paris) attesté en ;; Maître en théologie (Paris) ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Religious order: O.F.M. : frère franciscain..
+Ecclesiastical positions held: Évêque de Sarlat, %1360-1368%..
+University functions: Lecteur des Sentences à Paris (Couventfranciscain), ..
+Authored work: 'De arte sermoncinandi', composed around ?.
+Authored work: 'Principium', composed around ?.
+Authored work: 'Commentarius in Apocalypsim', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Source: MIRABILE :.

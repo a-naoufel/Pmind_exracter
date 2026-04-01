@@ -1,0 +1,13 @@
+PERSON: GODEFRIDUS Parvi de Varennis
+Also known as: Godefridus de PARVI de VARENNIS; Godefridus PARVI; Godefridus de VARENNIS; Godefroi PARVI.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1387-1403%.
+Born in: Champagne (Varennes)..
+Diocese of origin: Diocèse de Reims ;.
+Studied at: Paris (Nation de France ?) %1387-1393:%..
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en médecine (Paris) ;; Maître en médecine (Paris) ..
+Ecclesiastical status: Clerc du diocèse de Reims en ;; Sous-diacre du diocèse dede Reims..
+University functions: Paris (Faculté de Médecine : doyen ) ;; Paris (Faculté de Médecine : Maîtrerégent %1393-1393:%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe GENET, 8/08/2021..

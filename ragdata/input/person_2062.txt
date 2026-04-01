@@ -1,0 +1,10 @@
+PERSON: EBRARDUS de Herrenberga
+Also known as: Eberhardus de HERRENBERGA.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1403-1403%.
+Born in: Alémanie (Herrenberg) ?.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 28/06/2021)..

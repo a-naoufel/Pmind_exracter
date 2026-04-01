@@ -1,0 +1,12 @@
+PERSON: GERARDUS de Linea
+Also known as: Gerardus de LINEA.
+Description: Chanoine de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1263-1270%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son oncle est Nicolaus de FONTANIS, évêque de Cambrai ;.
+Ecclesiastical status: Clerc en ; <r> FEG: 24, 335, n° 1976 (Cambrai, Monique MAILLART-LUYPAERT) ;.
+Ecclesiastical positions held: Chanoine de Cambrai %1263-1264% ;; Doyen de Cambrai %1263-1264% ;; Chanoine de Liège %1264- % ;; Prévôt de Lille (Saint-Pierre) % -1270% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 29/12/2025.

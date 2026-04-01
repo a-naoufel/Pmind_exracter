@@ -1,0 +1,9 @@
+PERSON: HELLUINUS de Fossico
+Also known as: Helluinus de FOSSICO; Hellinus de FOSSÉES.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1267-1267%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ..
+Ecclesiastical status: Clericus..

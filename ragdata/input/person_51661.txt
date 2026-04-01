@@ -1,0 +1,12 @@
+PERSON: CLAUDIUS de Grandrue
+Also known as: Claudius de GRANDRUE.
+Description: Chanoine de Saint-Victor.
+Status: Incertain.
+Gender: male.
+Active during: % -1520%.
+Studied at: Paris..
+Academic grades obtained: Ètudiant ?.
+College affiliation: Saint-Victor..
+Religious order: Chanoine de Paris (Saint-Victor) en %1400-1432%..
+Authored work: '(Catalogue de la bibliothèque de Saint-Victor)', composed around %1498-1520%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 8/12/2020)..

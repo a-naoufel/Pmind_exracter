@@ -1,0 +1,9 @@
+PERSON: VYNATUS
+Also known as: VYNATUS; VINOTUS.
+Description: Clerc du collège d’Harcourt.
+Status: Suppôt.
+Gender: male.
+Active during: %1372-1372%.
+Studied at: Paris..
+College affiliation: Collège d’Harcourt : clerc du collège en ..
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

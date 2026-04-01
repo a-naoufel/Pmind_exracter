@@ -1,0 +1,25 @@
+PERSON: CONRADUS Heingarter
+Also known as: Conradus HEINGARTER; Conradus HEYNGARTEN; Conradus HEYMGARDER; Conrad HEINGARTER d'APENZELL.
+Description: Médecin.
+Status: Maître.
+Gender: male.
+Active during: %1450-1504%.
+Born in: Appenzell (Horgen)..
+Diocese of origin: Diocèse de Constance..
+Studied at: Paris (Nation Anglo-allemande), %1454-1466%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Family relationships: Son fils est August HEINGARTER..
+Academic relationships: Maître de Simon de PHARES à la cour des ducs de Bourbon pendant trois ans..
+Representation roles: Mission politique pour CHARLES VIII, roi de France, auprès des confédérés suisses à Berne en ;.
+Authored work: 'Traitié sur le conjunction de Saturne et de Mars', composed around Rédigé en ., dedicated to Adressé à LOUIS XI, roi de France..
+Authored work: 'Johannis de la Gutta, ducis Borbonii generalis, thema genethliacum, subjectum Erhardi Vintimontani epigramma de Conrado Heingarter', composed around , dedicated to Pour Jean de LAGOUTTE, gouverneurgénéral des finances de JEAN II, duc de Bourbon..
+Authored work: 'Judicium anni 1476', composed around ?, dedicated to Adressé à LOUIS XI, roi de France..
+Authored work: 'Commentarius in Tetrapartitum Cl. Ptolomei', composed around Rédigé au château de Belleperche (deux rédactions)., dedicated to Pour JEAN II, duc de Bourbon..
+Authored work: 'Commentarius in Centiloquium Cl. Ptolomei', composed around ?.
+Authored work: 'Defensio astronomie', composed around , dedicated to Dédié à Louis MALLET de GRAVILLE, amiral de France..
+Authored work: 'Thuricensis phisici tractatus de cometis'.
+Authored work: 'Iudicum Astrologicum', composed around ?, dedicated to Pour JEAN II, duc de Bourbon..
+Authored work: 'Regimen sanitatis de podagra', composed around , dedicated to Dédié à JEAN II, duc de Bourbon, souffrant de la goutte..
+Authored work: 'Regimen sanitatis de utero', composed around au château de Belleperche., dedicated to Adressé à JEANNE, duchesse de Bourbon, souffrant d'une inflammation de la matrice..
+Authored work: 'Liber de nativitate', composed around ?, dedicated to Adressée à JEANNE, duchesse de Bourbon..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/04/2021..

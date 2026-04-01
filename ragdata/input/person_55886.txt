@@ -1,0 +1,12 @@
+PERSON: BARTHOLOMAEUS Archionis de Urbe
+Also known as: Bartholomaeus ARCHIONIS de Urbe.
+Description: Chanoine de Langres.
+Status: Incertain.
+Gender: male.
+Active during: %1300-1320%.
+Born in: Italie (Latium : Rome ?) ?.
+Diocese of origin: ?Diocèse de Rome..
+Studied at: ?.
+Academic grades obtained: Maître en ;.
+Ecclesiastical positions held: Chanoine de Langres %1300-1320% ;; Chanoine de Troyes %1308-1309% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 21/04/2023..

@@ -1,0 +1,10 @@
+PERSON: Magister scolarium Andegavens
+Also known as: X, Magister scolarium Andegavens..
+Description: Magister scolarium Andegavens..
+Status: Incertain.
+Gender: male.
+Active during: %1248-1248%.
+Studied at: ?Angers ?.
+Academic grades obtained: ?.
+Ecclesiastical status: Maîtredesécoliers d'Angers ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/09/2023)..

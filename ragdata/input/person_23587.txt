@@ -1,0 +1,10 @@
+PERSON: NICOLAUS La Grosse
+Also known as: Nicolas LAGROSSE.
+Description: Hôte du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1391-1395%.
+Studied at: Paris %1391-1395%..
+College affiliation: Collège de Dormans-Beauvais : hôte %1391-1395% ;.
+Family relationships: Son oncle est Gilles d'ASPREMONT ;.
+Source: LAMOP : Opération Charles VI (n° 2354) :.

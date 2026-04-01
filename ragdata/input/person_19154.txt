@@ -1,0 +1,10 @@
+PERSON: DIONYSIUS Verjus
+Also known as: Denis VERJUS; Denisot VERJUS.
+Description: Clerc de la chapelle du collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1435-1439%.
+Studied at: Paris (Nation de Picardie) %1435-1436%..
+Academic grades obtained: Étudiant ès arts (Paris) %1435-1436% ;.
+College affiliation: Collège de Dormans-Beauvais : clerc de la chapelle en %1436-1438% ;; Collège de Dormans-Beauvais : dépensier en %1438-1439% ;.
+Ecclesiastical positions held: Prêtre en .; Curé de Jouy-le-Chatel (diocèse de Meaux) en ..

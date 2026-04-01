@@ -1,0 +1,9 @@
+PERSON: X Verriere
+Also known as: VERRIERE.
+Description: Scribe de la chancellerie ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1346-1346%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/01/2022..

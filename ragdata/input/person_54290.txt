@@ -1,0 +1,12 @@
+PERSON: OLIVERIUS Guillochon
+Also known as: Oliverius GUILOCHON.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1477-1504%.
+Studied at: ?.
+Academic grades obtained: Licencié in utroque jure ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Sens %1477-1504% ;; Célerier de Sens %1490-1504% ;.
+Other ecclesiastical functions: Secrétaire de l’archevêque de Sens ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 24/09/2022..

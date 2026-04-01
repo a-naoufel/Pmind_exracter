@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Fulcosa
+Also known as: Guillelmus de FULCOSA; Guillelmus de FOLCOSA; Guillelmus HENRICI de Fulcosa; Guillelmus de FOULQUEUSA; Guillelmus de FOULQUEUSE; Guillelmus de FOLCOSSA.
+Description: Docteur en décret.
+Status: Maître.
+Gender: male.
+Active during: %1320-1342%.
+Studied at: Paris.
+Academic grades obtained: Maître en décret (Paris) ;.
+Ecclesiastical positions held: Archidacre de Beauce à la cathédrale d’Orléans ;; Supplique pour un canonicat avec expectative de prébende de Chartres à la demande de PHILIPPE VI, roi de France ;.
+University functions: Paris (Faculté de Décret : Maître-régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 25/03/2022..

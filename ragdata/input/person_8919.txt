@@ -1,0 +1,12 @@
+PERSON: MATTHAEUS Courtois
+Also known as: Matthaeus COURTOIS; Matthaeus CORTOIX; Matthaeus COURTOYS.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1500-1509%.
+Studied at: Paris %1500-1500% ;; Bourges ?.
+Academic grades obtained: Licencié en théologie (Paris) (le 13 janvier) ;; Docteur en théologie (Paris) (le 28 avril) ..
+Religious order: Carme : couvent (Carme) de Reims..
+Religious functions: Prieur de Bourges en ;; Provincial (Carme) de France, %1507-1509%..
+University functions: Lecteur à Bourges assigné par le chapitre général, %1478-1479%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 16/09/2023..

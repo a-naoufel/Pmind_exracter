@@ -1,0 +1,9 @@
+PERSON: BARTHOLOMAEUS Du Fossé
+Also known as: Bartholomaeus DUFOSSÉ.
+Description: Conseiller-clerc au Parlement de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1400-1401%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 14/12/2020..

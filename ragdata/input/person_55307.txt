@@ -1,0 +1,14 @@
+PERSON: STEPHANUS de Vergissone 1
+Also known as: Stephanus de VERGISSONE.
+Description: Chanoine de Mâcon.
+Status: Incertain.
+Gender: male.
+Active during: %1264-1294%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Mâcon ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son père est Simon de VERGISSON ; Son neveu est Petrus de VERGISSON, chanoine de Mâcon ; Son neveu est Stephanus de VERGISSON, chanoine de Mâcon ;.
+Ecclesiastical status: Diacre ;.
+Ecclesiastical positions held: Recteur de Cluny (Saint-Marcel) ;; Chanoine de Mâcon %1264-1294% ;; Recteur de Saint-Gengoux ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 20/02/2023)..

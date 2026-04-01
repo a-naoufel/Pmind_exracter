@@ -1,0 +1,12 @@
+PERSON: ROGARIUS 2
+Also known as: ROGERUS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1256-1256%.
+Born in: Italie..
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+Family relationships: Son oncle est le Pape ALEXANDRE IV..
+Social origin: Noble :.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/04/2021)..

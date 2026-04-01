@@ -1,0 +1,11 @@
+PERSON: FIRMINUS Caronis
+Also known as: Firminus CARONIS.
+Description: Hôte du collège de Dainville.
+Status: Maître.
+Gender: male.
+Active during: %1506-1506%.
+Diocese of origin: Picardie ?.
+Studied at: Paris en %1505-1506%..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en décret (Paris) ;.
+College affiliation: Collège de Maître-Gervais : étudiant pendant son cursus ès arts ;; Collège de Dainville : hôte en pendant sept semaines ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

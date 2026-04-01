@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Costa 1
+Also known as: Guillelmus de COSTA.
+Description: Dominicain.
+Status: Gradué.
+Gender: male.
+Active during: %1324-1325%.
+Studied at: Paris %1323-1324% ?.
+Academic grades obtained: Bachelier en théologie (Paris) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins) en %1324-1325% ?.
+Religious order: O.P. : frère de la province (dominicaine) de France ;.
+University functions: Paris (Faculté de Théologie : lecteur des Sentences au couvent dominicain en ?%1324-1325% ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe GENET 7/11/2020)..

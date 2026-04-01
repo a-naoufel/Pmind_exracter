@@ -1,0 +1,13 @@
+PERSON: ALANUS Floti
+Also known as: Alanus FLOTI.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1394-1394%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Tréguier ;.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Étudiant ès arts en ;.
+Ecclesiastical status: Clerc du diocèse de Tréguier..
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiastique à la collation de l'évêque et du chapitre de l'église de Tréguier dans un rotulus composé par l'abbé de Saint-Gilles en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 2/06/2020..

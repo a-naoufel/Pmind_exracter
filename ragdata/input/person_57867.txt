@@ -1,0 +1,9 @@
+PERSON: X La Mingauda
+Also known as: LAMINGAUDA.
+Description: Servante ?.
+Status: Suppôt.
+Gender: female.
+Active during: %1481-1481%.
+Studied at: Paris..
+College affiliation: Sorbonne : servante ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 13/06/2024.

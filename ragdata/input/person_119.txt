@@ -1,0 +1,20 @@
+PERSON: ADAM de Dryburgh
+Also known as: Adam l'ÉCOSSAIS; Adam le PREMONTRE; Adam de DRYBURGH; Adam CARTHUSIENSIS; Adamus SCOTUS.
+Description: Chanoine régulier de Prémontré.
+Status: Extérieur.
+Gender: male.
+Active during: %1158-1212%.
+Born in: Écosse..
+Studied at: ?.
+Religious order: Chanoinerégulier de Prémontré : monastère (prémontré) de Saint-Andrews (Ecosse) ;; Chartreux : entre à la Chartreuse de Witham ca...
+Religious functions: Abbé (prémontré) de Whithorn ?; Abbé (prémontré) de Dryburgh %1184-1187%..
+Authored work: '(Homélies)', composed around ?.
+Authored work: 'Liber de ordine, habitu et professionne canonicorum Praemonstratensis', composed around ?.
+Authored work: 'De tripartito tabernaculo', composed around ?.
+Authored work: 'De triplici genere contemplationis', composed around ?.
+Authored work: 'De instructione animae', composed around ?.
+Authored work: 'De dulcedine Dei', composed around ?.
+Authored work: 'Speculum disciplinae', composed around ?.
+Authored work: 'Super canonem missae', composed around ?.
+Authored work: 'Super dominicam orationem', composed around ?.
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

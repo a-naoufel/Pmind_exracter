@@ -1,0 +1,17 @@
+PERSON: GUILLELMUS de Castroforti
+Also known as: Guillelmus de CASTROFORTI; Guillelmus de CHÂTEAUFORT.
+Description: Recteur de l'Université de Paris..
+Status: Maître.
+Gender: male.
+Active during: %1437-1481%?.
+Born in: Berry ?.
+Diocese of origin: Diocèse de Bourges ;.
+Studied at: Paris (Nation de France) %:1439-1481% ;.
+Academic grades obtained: Licencié ès arts (Paris) (17 avril) ;; Licencié en théologie (Paris) (15 décembre) ;; Maître en théologie (Paris) (9 février) ;.
+College affiliation: Collège de Navarre %1443-1481% ;; Grand-maître du Collège de Navarre, %1454-1481% ;.
+Academic relationships: Son maître est Guillelmus BOUILLÉ pour la licennce ès arts en ; Son élève est Johannes NORMANI qu’il supervise pour le baccalauréat en théologie en %1456-1457% ; Son élève est Johannes CHENART qu’il supervise pour le baccalauréat en théologie en %1456-1457%) ; Son élève est Balduinus REGIS qu’il supervise pour le baccalauréat en théologie en %1459-1460%) ; Son élève est Quentinus JUSTOTI qu’il supervise pour le baccalauréat en théologie en %1462-1463%) ; Son élève est Claudius BAUDONIS qu’il supervise pour le baccalauréat en théologie en %1463-1464%) ; Son élève est Johannes ESCHART qu’il supervise pour le baccalauréat en théologie en %1463-1464%) ; Son élève est Johannes de RÉLY qu’il supervise pour le baccalauréat en théologie en %1463-1464%) ; Son élève est Aegidius NETELET qu’il supervise pour le baccalauréat en théologie en %1463-1464%) ; Son élève est Simon ROUSSIN qu’il supervise pour le baccalauréat en théologie en %1464-1465%)..
+Ecclesiastical status: Clerc du diocèse de Bourges..
+University functions: Paris (Nation de France : intrans pour l'élection du recteur de l'Université de Paris en (16 décembre) ;; Paris (Nation de France : receveur suppléant, proposé par Johannes SOLERII lors de l’audition de ses comptes en (20 avril) ;; Paris (Nation de France : il assiste aux assemblées de la Nation de France durant lesquelles les comptes du receveur Johannes LUILLIER ont été auditionnés, en (13 mai et 28 juin)) ;; Paris (Nation de France : il assiste à une assemblée de la Nation de France durant laquelle les comptes du receveur ont été auditionnés, en (8 janvier)) ;; Paris (Nation de France : il assiste à la assemblée de la Nation de France durant laquelle les comptes du receveur Petrus CAROS ont été auditionnés en (29 juin)) ;; Paris (Université : recteur élu par la Faculté des Arts en (10 octobre), en %1449-1450%) ;; Paris (Université : sa candidature au poste d'ambassadeur (à ses propres frais) est soumise lors d'une assemblée universitaire en (18 mai) ;; Paris (Faculté de Théologie : maître-régent en %1452-1453%, %1456-1462% et %1464-1465% et probablement des années après) ;.
+Representation roles: Guillelmus de CASTROFORTI, Petrus CAROS, Alanus OLIVERII et Guillelmus EVRARDI se réunissent pour examiner un vol au Collège de Navarre, qui a eu lieu quelques jours avant noël et pour lequel François VILLON serait impliqué, 9 mars ;; Lors d'une assemblée universitaire, Guillelmus de CASTROFORTI est choisi pour offrir des prières au Roi..
+Authored work: '[Commentaires des livres des Sentences]', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol et Anne Tournieroux ; révision : Jean-Philippe Genet, dernière mise à jour 29/1/2018..

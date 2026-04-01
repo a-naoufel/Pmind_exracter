@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS 6
+Also known as: GUILLELMUS.
+Description: Cistercien.
+Status: Incertain.
+Gender: male.
+Active during: %1233-1235%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O. Cist..
+Religious functions: Abbé (Cistercien) de LaFertésurGrosne %1233-1234%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 7/3/2018..

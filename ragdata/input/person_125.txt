@@ -1,0 +1,11 @@
+PERSON: ADAM de Ayaco
+Also known as: Adamus de AYACO; Adam d'AY.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1383-1385%.
+Studied at: Paris %1383-1385%.
+Academic grades obtained: Licencié en théologie (Paris) ;; Docteur en théologie (Paris) ..
+College affiliation: Couvent (franciscain) de Paris..
+Religious order: O.F.M. : frère franciscain.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019)..

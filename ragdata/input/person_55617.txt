@@ -1,0 +1,10 @@
+PERSON: STEPHANUS Clavelli
+Also known as: Stephanus CLAVELLI.
+Description: Archidiacre du Neubourg.
+Status: Incertain.
+Gender: male.
+Active during: %1327-1330%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Évreux %1327-1330% ;; Archidiacre du Neubourg en la cathédrale d’Évreux %1327-1330% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 29/02/2023)..

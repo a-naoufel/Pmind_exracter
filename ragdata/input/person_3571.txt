@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Barentonio
+Also known as: Guillaume de BARENTONIO.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1326-1330%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Magister (Paris ?) %1329-1330%..
+Ecclesiastical positions held: Recteur de Folengris, diocèse de Beauvais en ;; Provision pour un canonicat avec expectative de prébende de Dol en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 2/01/2019..

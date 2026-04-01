@@ -1,0 +1,11 @@
+PERSON: PETRUS Hospitis
+Also known as: Petrus HOSPITIS.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1442-1464%.
+Studied at: ?.
+Academic grades obtained: Bachelier en décret ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Langres ;; Chanoine de Reims %1442-1464% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 29/06/2021..

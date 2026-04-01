@@ -1,0 +1,9 @@
+PERSON: CLEMENS 6
+Also known as: CLEMENS; CLÉMENT.
+Description: Médecin empirique à Paris..
+Status: Extérieur.
+Gender: male.
+Active during: %1492-1495%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 15/04/2021..

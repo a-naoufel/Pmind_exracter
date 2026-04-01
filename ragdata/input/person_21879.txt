@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Marigniaco
+Also known as: Guillelmus de MARIGNIACO; Guillaume LEMAIRE.
+Description: Chanoine d'Autun.
+Status: Incertain.
+Gender: male.
+Active during: %1403-1405%.
+Studied at: ?.
+Academic grades obtained: Maître..
+Ecclesiastical positions held: Chanoine d'Autun %1403-1405% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 01/04/2022)..

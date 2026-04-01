@@ -1,0 +1,8 @@
+PERSON: AMADEUS Bornet
+Also known as: Amedeus BORNET.
+Description: Procureur.
+Status: Incertain.
+Gender: male.
+Active during: %1479-1480%.
+Studied at: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/07/2020)..

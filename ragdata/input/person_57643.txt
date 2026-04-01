@@ -1,0 +1,7 @@
+PERSON: HODIENNE
+Also known as: HODIENNE; HODIERNO.
+Description: Apothicaire.
+Status: Extérieur.
+Gender: female.
+Active during: %1258-1262%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/03/2024..

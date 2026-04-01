@@ -1,0 +1,15 @@
+PERSON: GUILLELMUS de Quilebec
+Also known as: Guillaume de QUILEBEC.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1266-1266%.
+Born in: Normandie (Gournay-en-Bray) ;.
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris (Nation de Normandie ?) ?.
+Academic grades obtained: ?Maître ès arts (Paris)..
+Ecclesiastical status: Prêtre du diocèse de Rouen en ?.
+University functions: Paris (Faculté des Arts : enseignant ?)..
+Authored work: 'Sententia super capitulum de Ventis', composed around ?.
+Authored work: 'Continuatio librorum Meteororum'.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 18/10/2018..

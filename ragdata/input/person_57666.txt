@@ -1,0 +1,10 @@
+PERSON: PETRUS Canonicus Sancti Benedicti
+Also known as: PETRUS Canonicus Sancti Benedicti.
+Description: Chanoine de Saint-Benoît-le-Bétourné.
+Status: Maître.
+Gender: male.
+Active during: %1255-1255%.
+Studied at: Paris ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Paris (Saint-Benoît-le-Bétourné) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 27/03/2024..

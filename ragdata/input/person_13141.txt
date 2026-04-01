@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS de Montibus
+Also known as: Aegidius de MONTIBUS.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1400-1400%.
+Studied at: Paris %1400-1400%..
+Academic grades obtained: Licencié en théologie (Paris) (le 2 mai) ;; Maître en théologie (Paris) (décembre) ..
+College affiliation: Couvent des Cordeliers..
+Religious order: O.F.M. : frère franciscain..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol et Anne Tournieroux ; révision, Jean-Philippe Genet, 30/04/2020)..

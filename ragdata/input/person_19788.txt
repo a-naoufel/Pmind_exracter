@@ -1,0 +1,10 @@
+PERSON: FRANCISCUS de Monte Acuto
+Also known as: Franciscus de MONTEACUTO; François de MONTAGU.
+Description: Chanoine de Soissons.
+Status: Maître.
+Gender: male.
+Active during: %1329-1386%.
+Studied at: Paris en %1329-1330%..
+Academic grades obtained: Étudiant à Paris ?; Maître ;.
+Ecclesiastical positions held: Chanoine de Soissons ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

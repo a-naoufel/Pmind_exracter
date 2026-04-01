@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Musce
+Also known as: Guillelmus MUSCE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1413-1413%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris).; Étudiant en décret (Paris) ;.
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiastique ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 12/11/2022..

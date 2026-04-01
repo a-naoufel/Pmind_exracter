@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Barra
+Also known as: Guillaume de BARRA.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1329-1329%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris en ..
+Academic grades obtained: Maître en médecine (Paris) en ;.
+Ecclesiastical positions held: Provision pour un bénéfice à la collation de l’abbé et du monastère de Saint-Évroult en ;.
+University functions: Paris (Faculté de Médecine : il figure parmi les magistri en médecine régents ou non régents qui assistent Reginaldus de CORNEMARE dans la nomination des procureurs de la Faculté de Médecine pour le procès qui s’ouvre contre le chancelier de l’Université de Paris en (9 janvier) ;; Paris (Faculté de Médecine : il figure parmi les magistri en médecine régents ou non régents qui adhèrent à l’appel de Reginaldus de CORNEMARE en (11 janvier)) ;; Paris (Faculté de Médecine : mandaté par la Faculté, il essaie en (15 avril) de présenter au pape l’instrument public de l’appelllation contre le chancelier de Paris mais le concierge ne le laisse pas entrer) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 18/12/2019..

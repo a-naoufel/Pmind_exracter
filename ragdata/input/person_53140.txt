@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de Camilla
+Also known as: Nicolinus de CAMILLA.
+Description: Chanoine d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1276-1295%.
+Born in: Italie ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d'Amiens ;; Chanoine d’Évreux ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/12/2021..

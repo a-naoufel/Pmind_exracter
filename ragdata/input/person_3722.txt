@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Bajuli
+Also known as: Guillelmus BAJULI; Guillaume BAYLE.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1372-1417%?.
+Studied at: Paris %1373-1385%.
+Academic grades obtained: Docteur en théologie (Paris) ..
+Religious order: O.S.B. : moine bénédictin du monastère d'Angers (Saint-Serge)..
+Religious functions: Abbé du monastère (bénédictin) d'Angers (Saint-Serge) %1372-1374%? ou %1372-1376%? ;; Abbé du monastère (clunisien) de Saint-Martin-des-Champs à Paris (Diocèse de Paris), %1376-1386% ;; Abbé du monastère de Déols (Diocèse de Bourges) en ;; Abbé in commendam du monastère de Saint-Sulpice à Bourges (Diocèse de Bourges) en ..
+University functions: Paris (Faculté de théologie : maître-régent en ) ;; Paris (Faculté de théologie : maître-régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 21/02/2022..

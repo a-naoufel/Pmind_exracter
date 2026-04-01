@@ -1,0 +1,11 @@
+PERSON: ANDREAS Hermanni
+Also known as: Andreas HERMANNI.
+Description: Procureur de la Nation Anglo-allemande.
+Status: Maître.
+Gender: male.
+Active during: %1392-1398%.
+Studied at: Prague ;; Heidelberg ;; Paris (Nation Anglo-allemande) %1394-1396%..
+Academic grades obtained: Bachelier ès arts (Prague) ;; Maître ès arts (Paris) avant ( ?) ;; Bachelier en théologie (Heidelberg) ;.
+Ecclesiastical positions held: Curé de Molsheim (diocèse de Strasbourg) ;.
+University functions: Paris (Nation Anglo-allemande : procureur (21 octobre) jusqu'au 18 novembre) ;.
+Source: RAG ;.

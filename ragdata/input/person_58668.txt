@@ -1,0 +1,17 @@
+PERSON: MANEGOLDUS Magister
+Also known as: MANEGOLDUS Magister; MAINGAUD.
+Description: Magister.
+Status: Extérieur.
+Gender: male.
+Active during: %1070-1100%.
+Studied at: ?.
+Academic grades obtained: Magister.
+Ecclesiastical status: Laïc : il est réputé avoir été marié et avoir eu deux filles (ou deux fils ?)..
+University functions: Maître de rhétorique..
+Authored work: '(Commentaire sur le Timée)', composed around ?.
+Authored work: '(Commentaire sur le De consolatione philosophiae de Boèce)', composed around ?.
+Authored work: '(Commentaire sur le De inventione de Cicéron)', composed around ?.
+Authored work: '(Commentarium in Rhetorica ad Herennium)', composed around ?.
+Authored work: '(Commentaire sur le De Institutione de Priscien)', composed around ?.
+Authored work: '(Commentaire sur les Métamorphoses d’Ovide)', composed around Attribution incertaine ?.
+Source: MIRABILE, Rino MODONUTTI :.

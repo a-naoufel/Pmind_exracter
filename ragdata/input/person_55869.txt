@@ -1,0 +1,11 @@
+PERSON: ADAM 3
+Also known as: ADAM.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1235-1235%.
+Studied at: Paris..
+Academic grades obtained: Magister (Paris)..
+Family relationships: Son frère est GALTHERUS, abbé de Troyes (Saint-Loup) ;.
+Ecclesiastical positions held: Chanoine de Troyes vers ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet 27/01/2022..

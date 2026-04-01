@@ -1,0 +1,9 @@
+PERSON: GILBERTUS de Pertria
+Also known as: Guilbertus de PERTRIA.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 06/02/2022..

@@ -1,0 +1,12 @@
+PERSON: HERVEUS de Brena
+Also known as: Herveus de BRENA.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1448-1448%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Langres..
+Studied at: Paris %1448-1448%..
+Academic grades obtained: Bachelier en décret (Paris) 6 mars ..
+Religious order: Frater..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 04-06-2015..

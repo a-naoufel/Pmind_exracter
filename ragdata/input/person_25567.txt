@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Mercatoris 2
+Also known as: Guillelmus MERCATORIS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1394-1394%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Bayeux ;.
+Studied at: Paris (Nation de Normandie ?) %1394-1394% ;.
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en théologie (Paris) %1394-1394% ;.
+Ecclesiastical status: Clerc du diocèse de Bayeux en ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus présenté par Elias de LESTRANGE, évêque de Saintes à BENOÎT XIII en (25-29 octobre) à Avignon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 2/02/2019..

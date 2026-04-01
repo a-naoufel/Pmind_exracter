@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Britigniaco
+Also known as: Guillelmus de BRITIGNIACO.
+Description: Magister.
+Status: Incertain.
+Gender: male.
+Active during: %1325-1325%.
+Studied at: ?.
+Academic grades obtained: Magister..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 10/03/2022..

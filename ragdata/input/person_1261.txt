@@ -1,0 +1,17 @@
+PERSON: BENE da Firenze
+Also known as: Bene de FIRENZE; Bene FLORENTINI; Bene de BOLOGNE.
+Description: Professeur bolonais.
+Status: Extérieur.
+Gender: male.
+Active during: %1210-1239%.
+Born in: Italie (Florence)..
+Studied at: ?Paris ;; Bologne..
+Academic grades obtained: Maître ès arts (Bologne) ?.
+University functions: Bologne: professeur de grammaire %1218-1226% au moins..
+Authored work: 'Candelabrum', composed around ..
+Authored work: 'Summa dictaminis', composed around %/1210% ?.
+Authored work: 'Summa Grammatica', composed around ?.
+Authored work: '(Traité sur l'usage des cas)', composed around ?.
+Authored work: 'De accentibus', composed around ?.
+Authored work: 'Regulae de metris', composed around ?.
+Source: http://www.treccani.it/enciclopedia/bene-da-firenze_(Dizionario-Biografico)/.

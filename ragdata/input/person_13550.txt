@@ -1,0 +1,14 @@
+PERSON: NICOLAUS Juvenis 5
+Also known as: Nicolaus JUVENIS.
+Description: Maître en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1439-1466%.
+Studied at: Paris (Nation Anglo-allemande) %1439-1466%..
+Academic grades obtained: Bachelier en théologie cursor (Paris) ;; Licencié en théologie (Paris) (le 20 janvier) ;; Maître en théologie (Paris) (le 9 juin) ..
+College affiliation: Sainte-Geneviève..
+Family relationships: ?Son parent est Johannes JUVENIS, auteur présumé d'une oeuvre qu'il édite en à Paris ;.
+Academic relationships: Son élève est Sigerius CLERICI, bachelier en théologie..
+Ecclesiastical positions held: Chapelain de Saint-Côme-et-Damien à Paris en %1459-1460%..
+University functions: Paris (Faculté de théologie : Lecteur de la Bible (2e cours) (9 juillet)) ;; Paris (Faculté de théologie : Maître-régent en ) ;; Paris (Faculté de théologie : Maître-régent en %1457-1466%) ;; Paris (Sainte-Geneviève : Chancelier ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 28/03/2025)..

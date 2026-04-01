@@ -1,0 +1,13 @@
+PERSON: GODEFRIDUS de Vierzon
+Also known as: Godefroy de VIERZON.
+Description: Maître en théologie franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1257-1263%.
+Born in: Berry (Vierzon ?) ?.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) vers ;.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Religious order: O.F.M. : frère franciscain..
+Authored work: '(Règle de Longchamps)', composed around et/ou ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 13/08/2021..

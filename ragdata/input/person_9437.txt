@@ -1,0 +1,13 @@
+PERSON: NICOLAUS de Gersonno
+Also known as: Nicolaus de GERSONNO; Nicolas GERSON.
+Description: Boursier au collège de Navarre..
+Status: Étudiant.
+Gender: male.
+Active during: %1391-1420%.
+Studied at: Paris (Collège de Navarre) %1391-1396%..
+Academic grades obtained: Étudiant en grammaire (Paris) %1391-1396% ;; Étudiant ès arts (Paris) ..
+College affiliation: Boursier grammairien au collège de Navarre à Paris en %1391-1396% ;; Boursier artien au collège de Navarre à Paris en ..
+Family relationships: Son père est Arnoul le CHARLIER ; Sa mère est Elisabeth la CHARDENIERE ; Son frère est Jean GERSON..
+Social origin: Commun..
+Religious order: Célestin: Sainte-Trinité de Villeneuve-les-Soissons le 11 novembre ..
+Religious functions: Célestin au couvent de la SainteTrinité à Villeneuve-les-Soissons, %1401-1417% ;; Célestin au couvent de Lyon, %1417-1420%..

@@ -1,0 +1,10 @@
+PERSON: PETRUS Roussel 2
+Also known as: Petrus ROUSSEL.
+Description: Martinet du collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1438-1438%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dormans-Beauvais : martinet ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 25/11/2020)..

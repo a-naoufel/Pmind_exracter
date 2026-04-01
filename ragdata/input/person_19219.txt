@@ -1,0 +1,8 @@
+PERSON: BERTRANDUS Coffin
+Also known as: Bertrandus COFFIN; Bertrandus dictus de LASTUERIE.
+Description: Serviteur de la reine de Sicile.
+Status: Extérieur.
+Gender: male.
+Active during: %1395-1402%.
+Studied at: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; Jean-Philippe Genet, dernière mise à jour 22/02/2021).

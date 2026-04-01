@@ -1,0 +1,12 @@
+PERSON: MARTINUS 1
+Also known as: Dom MARTINHO.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1170-1175%.
+Born in: Portugal..
+Studied at: Paris..
+Academic grades obtained: Étudiant ?.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: O.S.A. : chanoinerégulier de Coïmbre (Santa Cruz) %1170-1175% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 2/05/2024..

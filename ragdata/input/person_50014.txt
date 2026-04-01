@@ -1,0 +1,10 @@
+PERSON: CAROLUS Alanconii Comes
+Also known as: Charles de VALOIS, comte d’Alençon.
+Description: Comte d’Alençon.
+Status: Extérieur.
+Gender: male.
+Active during: %1297-1346%.
+Studied at: ?.
+Family relationships: Son père est Charles de VALOIS ; Sa mère est Marguerite d’ANJOU ; Sa femme (première) est Jeanne de JOIGNY ; Sa femme (seconde) est Marie de LACERDA ; Son frère est PHILIPPE VI de Valois, roi de France ;.
+Social origin: Noble ;.
+Source: WIKIPEDIA ;.

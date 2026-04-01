@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Le Mire 2
+Also known as: Nicolaus LE MIRE.
+Description: Martinet du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1436-1436%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Dormans-Beauvais : martinet ;.
+Family relationships: Son frère est Jacques II LEMIRE, martinet ; Son parent est peut-être Hutin LEMIRE, chanoine de Saint-Etienne de Grez ; Son parent est peut-être Jacques I LEMIRE, boursier ; Son parent est peut-être Jean LEMIRE, boursier du collège de Navarre ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 27/11/2018..

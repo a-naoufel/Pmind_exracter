@@ -1,0 +1,13 @@
+PERSON: IVO Lodour
+Also known as: Yvo LODOUR.
+Description: Étudiant en décret.
+Status: Maître.
+Gender: male.
+Active during: %1387-1387%.
+Born in: Bretagne ;.
+Diocese of origin: Diocèse de Saint-Brieuc ;.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en décret (Paris) en ;.
+Ecclesiastical status: Clerc du diocèse de Saint-Brieuc ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus de ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet 22/09/2022..

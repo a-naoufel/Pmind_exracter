@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS de Zotteghem
+Also known as: Gilles de ZOTTEGHEM.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1225-1230%.
+Born in: Flandre..
+Studied at: Paris vers %1225-1230%.
+Academic grades obtained: Étudiant (Paris)..
+Social origin: Noble..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/2/2022)..

@@ -1,0 +1,11 @@
+PERSON: GERARDUS de Tornamira
+Also known as: Gerardus de TORNAMIRA.
+Description: Cistercien.
+Status: Incertain.
+Gender: male.
+Active during: %1348-1349%.
+Born in: Limousin ?.
+Studied at: ?.
+Religious order: O. Cist. : moine (cistercien) d’Obazine..
+Religious functions: Prieurclaustral d’Obazine % -1348% ;; Abbé (cistercien) de LaGarde-Dieu %1348-1349%;; Abbé (cistercien) de Valle-Magna %1349- % ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 28/10/2019..

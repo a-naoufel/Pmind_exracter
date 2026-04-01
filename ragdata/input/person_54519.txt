@@ -1,0 +1,9 @@
+PERSON: PETRUS Nobilis
+Also known as: Petrus NOBILIS.
+Description: Notaire.
+Status: Incertain.
+Gender: male.
+Active during: %1430-1430%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 29/10/2022..

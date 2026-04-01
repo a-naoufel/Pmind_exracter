@@ -1,0 +1,13 @@
+PERSON: ANTHONIUS Picot
+Also known as: Anthonius PICOT.
+Description: Boursier du collège de Dainville.
+Status: Maître.
+Gender: male.
+Active during: %1505-1506%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Noyon ;.
+Studied at: Paris (Nation de Picardie ?) en %1505-1506%..
+Academic grades obtained: Maître (Paris) en ;.
+College affiliation: Collège de Dainville : boursier en %1505-1506% ;.
+Family relationships: Son parent est Lucas PICOT ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

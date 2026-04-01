@@ -1,0 +1,12 @@
+PERSON: PETRUS Brunel 1
+Also known as: Pierre BRUNEL.
+Description: Écolier au collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1372-1380%.
+Studied at: Paris %1372-1380%..
+Academic grades obtained: Étudiant (Paris) %1372-1380% ;.
+College affiliation: Collège de Dormans-Beauvais : boursier en %1372-1378% ;.
+Family relationships: Son frère est Decanus BRUNEL, boursier du collège de Dormans-Beauvais. Son frère est Johannes BRUNEL, boursier du collège de Dormans-Beauvais..
+Ecclesiastical positions held: Trésorier (non prébendé) de Gerberoy en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/01/2024..

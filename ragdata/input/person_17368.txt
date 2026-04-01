@@ -1,0 +1,12 @@
+PERSON: BARTHOLOMAEUS Carnotensis
+Also known as: Bartholomaeus CARNOTENSIS; BARTHÉLEMY; Barthélemy de CHARTRES.
+Description: Évêque de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1200-1227%.
+Studied at: Paris ..
+Academic grades obtained: Maître en décret ..
+Ecclesiastical positions held: Chanoine de Chartres % -1223% ;; Évêque de Paris %1223-1227%..
+Other ecclesiastical functions: Juge délégué du pape INNOCENT III en et ..
+University functions: Maître en décret enseignant le droit à Paris avant ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 9/12/2020)..

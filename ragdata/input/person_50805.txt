@@ -1,0 +1,15 @@
+PERSON: GUILLELMUS de Nangiaco
+Also known as: Guillelmus de NANGIACO; Guillaume de NANGIS.
+Description: Moine de Saint-Denis.
+Status: Extérieur.
+Gender: male.
+Active during: %1270-1300%.
+Born in: Nangis ?.
+Studied at: ?.
+Religious order: O.S.B. : moine bénédictin de Saint-Denis %1289-1300% ;.
+Religious functions: Archiviste de l’abbaye (bénédictine) de Saint-Denis %1289-1299%..
+Authored work: 'Chronicon', composed around ?.
+Authored work: 'Gesta Ludovici IX', composed around ?, dedicated to Dédié à PHILIPPE III, roi de France..
+Authored work: 'Gesta Philippi III', composed around ?.
+Authored work: '(Chronique abrégée des rois de France)', composed around %1285-1297% ?.
+Source: ARLIMA, Laurent BRUN :.

@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Porpinceio
+Also known as: Guillermus de PORPINCEIO; Guillaume de PORPINCHE.
+Description: Doyen d’Évreux.
+Status: Incertain.
+Gender: male.
+Active during: %1273-1288%.
+Born in: Normandie ? ;.
+Diocese of origin: Diocèse d’Évreux ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Social origin: Noble ?.
+Ecclesiastical positions held: Chanoine d’Évreux %1273- % ;; Doyen d’Évreux %1275-1288% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/03/2023)..

@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Dauphin
+Also known as: Nicolaus DAUPHIN.
+Description: Boursier du collège de La Marche.
+Status: Étudiant.
+Gender: male.
+Active during: %1502-1504%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) en %1502-1504% ;.
+College affiliation: Collège de LaMarche : boursier en %1502-1504% ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

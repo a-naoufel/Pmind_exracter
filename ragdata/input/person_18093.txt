@@ -1,0 +1,26 @@
+PERSON: DAVID Cranston
+Also known as: David CRANSTON.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1495-1512%.
+Born in: Écosse..
+Diocese of origin: Diocèse de Glasgow..
+Studied at: Paris (Nation Anglo-allemande) %1495-1512%..
+Academic grades obtained: Étudiant ès arts (Paris) ;; Maître ès arts (Paris) .; Licencié en théologie (Paris) (25 janvier) ;; Maître en théologie (Paris) (27 mai) ;.
+College affiliation: Collège de Montaigu : étudiant ès arts ;; Collège de Montaigu : régent ès arts ..
+Academic relationships: Son maître est John MAIR au collège de Montaigu..
+Ecclesiastical positions held: Candidat à des bénéfices à la collation de l’université de Paris à plusieurs reprises ;.
+University functions: Paris (Nation Anglo-allemande : visiteur ) ;; Paris (Nation Anglo-allemande : receveur ) ;.
+Authored work: 'Tractatus notitiarum', composed around ?.
+Authored work: '(Édition du Quartum Sententiarum de John Mair)', composed around ?.
+Authored work: '(Dialogue with Gavin Douglas)', composed around ?.
+Authored work: '(Additions aux Termini de John Mair)', composed around .
+Authored work: 'Questiones super posterium lectura per sedulum dialectices rimatorem magistrum Davidum Cranston dictate felix obeunt exordium', composed around ?, dedicated to Dédié à Robert BLACKADDER, archevêque de Glasgow..
+Authored work: 'Additiones David Cranston', composed around ?.
+Authored work: 'Questiones morales … de fortitudine novissime ab erratis mendisque limate adiecta tabula … per Davidum Cranston', composed around ?.
+Authored work: 'Questiones additae in librum de fortitudine magistri Martini de Magistri, per Davidem Cranston, Scotum in theologia baccalaurem', composed around ?.
+Authored work: 'Tractatus insolubilium', composed around ?.
+Authored work: 'Sequuuntur abbreviationes omnium parvorum logicalium collecte magistro Anthonio Ramirez de Villascusa cum aliquibus divisionibus terminorum eiusdem necnon cum tractatu terminorum magistri Davidis Cranston ab eodem correcto', composed around ?.
+Authored work: 'Positiones phisicales magistri David Cranston', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 17/12/2023..

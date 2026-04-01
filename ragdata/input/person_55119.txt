@@ -1,0 +1,11 @@
+PERSON: PETRUS de Montouls
+Also known as: Petrus de MONTOULS.
+Description: Chanoine d’Autun.
+Status: Incertain.
+Gender: male.
+Active during: %1362-1364%.
+Studied at: ?.
+Academic grades obtained: Bachelier en droit canon ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Montréal % -1362% ;; Chapelain d’Autun (chapelle épiscopale)l % -1362% ;; Chanoine d’Autun ;; Recteur d’Échevronnes (diocèse d’Autun) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/01/2023..

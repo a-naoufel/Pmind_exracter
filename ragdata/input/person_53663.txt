@@ -1,0 +1,12 @@
+PERSON: NICOLAUS Cordis
+Also known as: Nicolaus CORDIS.
+Description: Évêque de Luçon.
+Status: Maître.
+Gender: male.
+Active during: %1418-1451%.
+Studied at: Paris ..
+Academic grades obtained: Licencié en décret (Paris) en (10 février) ;.
+Family relationships: Son frère est Jacques CŒUR ;.
+Academic relationships: Son maître est Stephanus BAILLIVI, abbé de Saint-PèredeChartres pour la licence en décret en (10 février) ;.
+Ecclesiastical positions held: Prieur de Sainte-Outrille ;; Chanoine de Bourges (Sainte-Chapelle) ;; Évêque de Luçon %1441-1451% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 23/04/2022..

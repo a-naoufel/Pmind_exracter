@@ -1,0 +1,11 @@
+PERSON: PETRUS Sycardi
+Also known as: Petrus SYCARDI.
+Description: Cistercien.
+Status: Maître.
+Gender: male.
+Active during: %1328-1328%.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en théologie (Paris) avant ;; Maître en théologie (Paris) ;.
+Religious order: O.Cist. : moine cistercien..
+Religious functions: Abbé (Cistercien) de Vallisumbrosa au diocèse d'Agen en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 05/04/2024..

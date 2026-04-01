@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Vesne
+Also known as: Guillelmus de VESNE.
+Description: Bénédictin.
+Status: Gradué.
+Gender: male.
+Active during: %1492-1496%.
+Studied at: Paris %1492-1492%..
+Academic grades obtained: Bachelier en théologie formatus (Paris) ..
+Religious order: O.S.B. : moine bénédictin..
+Religious functions: Candidat, sur sa propre nomination, à des bénéfices entre %1492-1493% ;; Candidat, sur sa propre nomination, à des bénéfices entre %1495-1496%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Claire Priol-Hoogland ; Jean-Philippe Genet, 23/04/2022..

@@ -1,0 +1,10 @@
+PERSON: SICARDUS de Vauro
+Also known as: Sicardus DE VAURO; Cicardus de VAURO.
+Description: Docteur en décret.
+Status: Extérieur.
+Gender: male.
+Active during: %1294-1330%.
+Studied at: Toulouse..
+Academic grades obtained: Docteur en décret ;.
+University functions: Toulouse (Faculté de décret : maître-régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet 05/09/2024..

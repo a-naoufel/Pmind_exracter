@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Brochiis
+Also known as: Guillelmus de BROCHIIS; Guillaume de BROCHIIS.
+Description: Étudiant en médecine à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1396-1399%.
+Studied at: Paris %1396-1399%..
+Academic grades obtained: Étudiant en médecine (Paris) %1396-1399%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 10/03/2022..

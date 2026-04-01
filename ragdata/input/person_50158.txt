@@ -1,0 +1,10 @@
+PERSON: PETRUS de Seiravalle
+Also known as: Petrus de SEIRAVALLE.
+Description: Conseiller-lai au Parlement.
+Status: Extérieur.
+Gender: male.
+Active during: %1345-1345%.
+Studied at: ?.
+Academic grades obtained: ?.
+Social origin: Noble : chevalier ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 07/01/2020..

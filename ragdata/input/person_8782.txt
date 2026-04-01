@@ -1,0 +1,12 @@
+PERSON: MAHIEU le Vilain
+Also known as: MAHIEU; MAHIEU le Vilain.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1270-1296%.
+Born in: Normandie (Neufchâtel-en-Bray)..
+Diocese of origin: Diocèse de Rouen ?.
+Studied at: Paris (Nation de Normandie)..
+Academic grades obtained: Maître ès arts (Paris)..
+Authored work: '(Commentaire des Météorologiques d' Aristote, II 9 3)', composed around ?, dedicated to Dédié à Johan d’EU, fils de Jean de BRIENNE, comte d’Eu ;.
+Authored work: '(Traduction française des Météorologiques d' Aristote, I-III, 4)', composed around ?.

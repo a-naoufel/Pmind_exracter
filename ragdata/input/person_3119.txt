@@ -1,0 +1,19 @@
+PERSON: AEGIDIUS Corboliensis
+Also known as: Aegidius CORBOLIENSIS; Aegidius CORBEIENSIS; Aegidius de CORBOLIO; Gilles de CORBEIL.
+Description: Médecin.
+Status: Maître.
+Gender: male.
+Active during: %1165-1224%.
+Studied at: Paris ;; Salerne ;; Montpellier..
+Academic grades obtained: Étudiant ès arts (Paris) ;; Maître en médecine..
+Social origin: Commun : origine paysanne ?.
+Ecclesiastical positions held: ?Chanoine de Paris (Notre Dame)..
+University functions: Montpellier (Professeur de Médecine à Montpellier dont il a été chassé) ;; Paris (Maître en médecine à Paris sous le règne de PHILIPPE-AUGUSTE, roi de France) ;.
+Authored work: 'Carmen de pulsibus', composed around ?.
+Authored work: '[De urinis]', composed around ?.
+Authored work: 'De laudibus et virtutibus compositorum medicaminum', composed around ?.
+Authored work: '[Viaticus de signis et sintomatibus egritudinum]', composed around ?.
+Authored work: 'Carmina de electione specierum et de laudibus ac virtutibus confectionum earum', composed around ?.
+Authored work: 'Versus de simplicibus aromaticis', composed around ?.
+Authored work: 'Ierapigra ad purgandos praelatos', composed around %1219-1223%.
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/author/aegidius-corboliensis-n-1140-ca-m-1224-ca--author/22439 ;.

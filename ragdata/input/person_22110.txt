@@ -1,0 +1,12 @@
+PERSON: GALTERIUS de Valle Scolarium
+Also known as: Galterius de VALLESCOLARIUM; Gautier du VAL-DES-ÉCOLIERS.
+Description: Chanoine régulier.
+Status: Maître.
+Gender: male.
+Active during: %1272-1273%.
+Studied at: Paris %1272-1273%..
+Academic grades obtained: Maître en théologie ?.
+College affiliation: Paris (Sainte-Catherine) %1272-1273%..
+Religious order: Chanoinerégulier du Val-des-Écoliers..
+Authored work: 'Sermon pour la Pentecôte', composed around (28 mai)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 28/04/2017..

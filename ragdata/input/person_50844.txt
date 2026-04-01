@@ -1,0 +1,9 @@
+PERSON: HENRICUS Mestre d‘école
+Also known as: HENRICUS.
+Description: Maître d’école.
+Status: Suppôt.
+Gender: male.
+Active during: %1296-1296%.
+Studied at: Paris..
+Ecclesiastical status: Laïc ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 19/04/2020)..

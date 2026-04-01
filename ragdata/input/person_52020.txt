@@ -1,0 +1,12 @@
+PERSON: ROBERTUS de Barbery
+Also known as: Robertus de BARBERY.
+Description: Cistercien.
+Status: Gradué.
+Gender: male.
+Active during: %1434-1435%.
+Born in: Normandie ?.
+Academic grades obtained: Bachelier biblique %1434-1435%..
+College affiliation: Collège des Bernardins %1432-1435% ?.
+Religious order: O.Cist. : moine de l’abbaye (cistercienne) de Barbery..
+University functions: Paris (Faculté de Théologie : lecteur cursor en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/03/2021)..

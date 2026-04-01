@@ -1,0 +1,14 @@
+PERSON: STEPHANUS Remensis 1
+Also known as: Stephanus REMENSIS; Étienne de REIMS; STEPHANUS.
+Description: Chancelier de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1200-1218%.
+Born in: Champagne (Reims ?) ;.
+Diocese of origin: Diocèse de Reims ?.
+Studied at: Paris %1200-1218%..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Maître en théologie (Paris) dès ..
+Ecclesiastical positions held: Chanoine de Paris (Notre-Dame) ?; Chancelier de Paris %1215-1218% ;; Chanoine de Reims %1212-1216% ;; Doyen de Reims %1212-1215%..
+University functions: Paris (Faculté de Théologie, Maître-Régent ?%1210-1214%) ;; Paris (Université : Chancelier %1214-1218%) ;.
+Authored work: '(Fragments de sermons)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire PRIOL ; dernière révision, Jean-Philippe GENET 2/06/2021..

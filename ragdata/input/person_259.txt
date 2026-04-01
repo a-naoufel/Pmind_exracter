@@ -1,0 +1,29 @@
+PERSON: ALANUS de Rupe
+Also known as: Alain de la ROCHE; Alanus de RUPE; Alan VAN DEN KLIP.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1457-1475%.
+Born in: Bretagne..
+Studied at: Paris (Couvent (dominicain) de Paris (St-Jacques))..
+Academic grades obtained: Étudiant en théologie (Paris) ;; Bachelier en théologie (Rostock) .; Docteur en théologie (Rostock) ?.
+College affiliation: Couvent Saint-Jacues %1461-1462% au moins ;.
+Religious order: O.P. : frère dominicain : couvent (dominicain) de Dinan..
+University functions: Paris (Couvent St-Jacques : Lecteur des Sentences %1461-1462%) ;; Douai (Couvent dominicain : lector %1464-1462%) ;; Gand (Couvent dominicain : lector primarius %1468-1470%) ;; Rostock (Lecteur des Sentences %1470-1471%)..
+Authored work: 'Sermo sive principatio in III Sententiarum in promotione sui baccalareatus in alma universitate Rostochiensi, anno 1471, in octava S. Augustini conf. Qui sermo ostendit mirabilem salutationis angelicae dignitatem (De XV laudibus Psalterii B. Mariae V.)', composed around .
+Authored work: 'Sermo de Sancto Bernardo', composed around à Rostock..
+Authored work: 'Sermo in capitulo generali', composed around à Lille..
+Authored work: 'Apologeticus seu tractatus responsorius de Psalterio V. Mariae ad Ferricum de Cluniaco', composed around , dedicated to Dédié à Ferry de CLUGNI, Evêque de Tournai..
+Authored work: 'Psalterium sponsi et sponsae, videlicet Iesu Christi ac V. Mariae', composed around ?.
+Authored work: 'Epistola ad Iacobum Cartus. domus Legis Mariae prope Rostock de Psalterio gloriosae V. Mariae', composed around ?.
+Authored work: 'Sermo super salutatione angelica ad pertimescendum extremum dei iudicium', composed around ?.
+Authored work: 'Compendium Psalterii beatissimae Trinitatis ad laudem d.n. Iesu Christi et beatiss. V. Mariae', composed around ?.
+Authored work: 'Epilogus Compendii : Devotus modus meditanti... Psalterium gloriosissimae V. Mariae, qui fuit revelatus B. Dominico', composed around ?.
+Authored work: 'Speculum peccatricis animae', composed around ?.
+Authored work: 'Tractatus de dignitae sive excellentiis sacerdotum', composed around ?.
+Authored work: 'Scala religionis ad quemdam Cartusiensem domus Legis Mariae', composed around ?.
+Authored work: 'Triginta excellentiae et praerogativae religionis', composed around ?.
+Authored work: 'Expositio regulae B. Augustini', composed around ?.
+Authored work: 'Tractatus de laudibus B. Thomae de Aquino', composed around ?.
+Authored work: '?Psalterium Beatae Mariae Virginis', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

@@ -1,0 +1,9 @@
+PERSON: PETRUS de Vinacis
+Also known as: Pierre de VINACIS.
+Description: Étudiant en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1317-1317%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts; Étudiant en théologie; Décrit comme tel en (6 juin) par Henri de TAPEREL, garde de la prévôté dans les lettres d'aide du Châtelet de Paris qu'il a procuré à Maître Pierre de VINACIS, vrai escolier en la faculté de théologie selon le témoignage de Jean HELEGRINS, recteur de l'université de Paris, contre Dreues de VINACOURT et Lorens de VINACOURT du diocèse d'Amiens qui lui ont infligé des "injures et vilenies" et détiennent ses biens ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 08/03/2024..

@@ -1,0 +1,10 @@
+PERSON: ELIAS de Sorbona
+Also known as: Helias de SORBONA.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1288-1290%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) ?.
+College affiliation: Collège de Sorbonne : procureur en ;; Collège de Sorbonne : procureurmoyen en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 11/07/2021..

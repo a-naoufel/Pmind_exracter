@@ -1,0 +1,9 @@
+PERSON: MICHAEL 7
+Also known as: MICHAEL; MIQUALE; MIQUAELLE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1446-1446%.
+Academic grades obtained: Maître ès arts (Paris) ?.
+University functions: Paris (Université : scribe en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 09/02/2023..

@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Munerii 1
+Also known as: Guillelmus MUNERII.
+Description: Maître en théologie dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1344-1351%.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère (dominicain) du Couvent de Paris ;.
+University functions: Paris (Faculté de Théologie : Maître-Régent en %1349-1350%) ;; Paris (Faculté de Théologie : il représente la Faculté dans les délibérations qui concluent en (mars) que Petrus BERCHORIUS est bien un étudiant de l’université et que de ce fait la condamnation de l’official de Paris à son encontre doit être rapportée ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 09/04/2020..

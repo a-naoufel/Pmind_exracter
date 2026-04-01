@@ -1,0 +1,10 @@
+PERSON: SIMON Briffault
+Also known as: Simon BRIFFAULT.
+Description: Chanoine de Chalon.
+Status: Incertain.
+Gender: male.
+Active during: %1434-1434%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical positions held: Chanoine de Chalon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/05/2025..

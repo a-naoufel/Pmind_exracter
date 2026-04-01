@@ -1,0 +1,22 @@
+PERSON: GALTERIUS de Mauretania
+Also known as: Galterius de MAURETANIA; Galterius de MURETANIA; Galterius de MAURITANIA; Galterius LAUDUNENSIS; Gautier de MORTAGNE; Walter of MORTAGNE.
+Description: Évêque de Laon.
+Status: Maître.
+Gender: male.
+Active during: %1120-1174%.
+Born in: Hainaut (Mortagne)..
+Diocese of origin: Diocèse de Cambrai ?.
+Studied at: Laon ?; Paris..
+Academic grades obtained: Maître.
+Academic relationships: Son élève est Jean de SALISBURY à Paris entre et ..
+Ecclesiastical status: Prêtre..
+Religious order: O.Praem. : il s’est fait chanoine de Prémontré peu avant sa mort..
+Ecclesiastical positions held: Chanoine d’Anthouin.; Chanoine de Laon ;; Écolâtre de Laon ;; Doyen de Laon ;; Évêque de Laon %1153-1174 ;.
+University functions: Paris (Maître enseignant la rhétorique en %1136-1144% avant de se tourner vers l’enseignement des arts) ;.
+Representation roles: Il a participé en au concile de Tours présidé par le pape ALEXANDRE III..
+Authored work: 'Tractatus de Trinitate', composed around ?.
+Authored work: 'Tractatus de matrimonio', composed around ?.
+Authored work: 'Epistola ad Hugonem priorem Sancti Victoris', composed around ?, dedicated to Adressée à Hugues de SAINT-VICTOR..
+Authored work: '(Dix lettres adressées à des théologiens)', composed around ?, dedicated to Adressées à des théologiens, dont Pierre ABÉLARD..
+Authored work: 'Quoniam de generali', composed around ?.
+Source: ABAELARD.DE :.

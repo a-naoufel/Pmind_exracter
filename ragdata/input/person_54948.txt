@@ -1,0 +1,11 @@
+PERSON: GALTERIUS de Marigny
+Also known as: Galterius de MARIGNY.
+Description: Chanoine d’Autun.
+Status: Incertain.
+Gender: male.
+Active during: %1379-1379%.
+Born in: Bourgogne ;.
+Diocese of origin: Diocèse d’Autun ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 09/01/2023..

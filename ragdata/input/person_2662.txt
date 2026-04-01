@@ -1,0 +1,9 @@
+PERSON: GALFREDUS Serre
+Also known as: Geoffroi SERRE.
+Description: Maîtrechirugien parisien.
+Status: Maître.
+Gender: male.
+Active during: %1424-1436%.
+Studied at: ?Paris.
+Academic grades obtained: Maître chirurgien ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 30/11/2021..

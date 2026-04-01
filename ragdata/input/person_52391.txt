@@ -1,0 +1,10 @@
+PERSON: REGINALDUS Paynier
+Also known as: Reginaldus PAYNIER; Reginaldus PENNIER; Reginaldus PEINIER; Reginaldus PANIER.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1256-1316%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Reims %1295-1317% ;; Chanoine de Sens ('Notre-Dame') %1303-1316% ;; Archidiacre de Provins %1303-1316% ;; Chanoine de Saint-Quentin %1316- % ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 09/06/2021..

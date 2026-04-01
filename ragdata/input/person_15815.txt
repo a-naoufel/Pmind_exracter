@@ -1,0 +1,9 @@
+PERSON: CLAUDIUS Le Vavasseur
+Also known as: Claudius LE VAVASSEUR.
+Description: Papetier.
+Status: Suppôt.
+Gender: male.
+Active during: %1491-1491%.
+Studied at: Paris..
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 13/04/2021..

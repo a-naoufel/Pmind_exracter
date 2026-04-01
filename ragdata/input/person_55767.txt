@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Plebedyri
+Also known as: Guillelmus de PLEBEDYRI.
+Description: Prêtre.
+Status: Incertain.
+Gender: male.
+Active during: %1324-1324%.
+Studied at: ?.
+Academic grades obtained: ?.
+College affiliation: Collège des Dix-Huit : donateur en ;.
+Ecclesiastical status: Prêtre ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

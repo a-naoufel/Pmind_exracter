@@ -1,0 +1,10 @@
+PERSON: EUSTASIUS de Campis
+Also known as: Eustacius de CAMPIS; Eustache DESCHAMPS.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1464-1491%.
+Studied at: Paris ..
+Academic grades obtained: Magister ;; ?Licencié en droit canon ;.
+Ecclesiastical positions held: Chanoine de Sens %1473-1491% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/07/2021.

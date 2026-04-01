@@ -1,0 +1,7 @@
+PERSON: COLINUS Corrois
+Also known as: Colinus dictus CORROIS.
+Description: Serviteur.
+Status: Extérieur.
+Gender: male.
+Active during: %1371-1373%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/04/2021..

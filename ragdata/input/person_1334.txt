@@ -1,0 +1,11 @@
+PERSON: BERNARDUS de Levenquiere
+Also known as: Bernard de LEVENQUIERE; Bernard de LE VENQUIERE; Bernard de LA VENQUIERE; Bernard de LA VENQUIRE; Bernard de LA VAINQUIRE; Bernard de LA VANQUIERE.
+Description: Médecin à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1477-1502%.
+Studied at: Paris (Nation de Picardie), %1477-1502%..
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Ecclesiastical positions held: Candidat à un bénéfice à la collation de l'évêque, du doyen, des archidiacres et du chapitre de Paris ou de l'évêque, du doyen et du chapitre d'Amiens sur le rotulus de la Faculté des Arts en ;; Candidat à un bénéfice à la collation de l'évêque, du doyen et du chapitre de Tournai ou du doyen et du chapitre de l'églisecollégiale de Lille (Saint-Pierre) sur le rotulus de la Faculté des Arts en ;.
+University functions: Doyen de Faculté de Médecine à Paris, %1498-1500%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 1/02/2021)..

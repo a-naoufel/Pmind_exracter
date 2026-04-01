@@ -1,0 +1,10 @@
+PERSON: PETRUS de Brissay
+Also known as: Petrus de BRISSAY.
+Description: Chantre de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1282-1298%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Poitiers (Notre-Dame-la-Grande) ;; Chantre de Poitiers %1297-1298% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 22/11/2022..

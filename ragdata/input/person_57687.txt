@@ -1,0 +1,11 @@
+PERSON: PETRUS Sigillator
+Also known as: Petrus SIGILLATOR.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1278-1278%.
+Studied at: Paris..
+Academic grades obtained: Maître (Paris) en ?.
+Family relationships: Son fils JORDANUS, filius Petri sigillator ;.
+University functions: ?Paris (Université : sigillator ?) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet 1/04/2024..

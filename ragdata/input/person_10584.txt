@@ -1,0 +1,10 @@
+PERSON: RADULPHUS Moreau
+Also known as: Raoul MOREAU; Radulphus MORELLI.
+Description: Bachelier en médecine..
+Status: Gradué.
+Gender: male.
+Active during: %1414-1430%.
+Studied at: Paris %1414-1418%..
+Academic grades obtained: Étudiant en médecine (Paris) %1414-1415% ;; Bachelier en médecine (Paris) ;.
+Ecclesiastical positions held: Chanoine de Vannes ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 30/05/2024..

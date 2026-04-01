@@ -1,0 +1,7 @@
+PERSON: PHILIPPUS Buketyn
+Also known as: Philippus BUKETYN.
+Description: Détenteur d’une maison parisienne.
+Status: Extérieur.
+Gender: male.
+Active during: %1260-1260%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 28/03/2024)..

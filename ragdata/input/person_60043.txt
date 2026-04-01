@@ -1,0 +1,10 @@
+PERSON: QUINTINUS Priere
+Also known as: Quintinus PRIERE.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1407-1414%.
+Studied at: Paris..
+Academic grades obtained: Maître ?.
+College affiliation: Collège de Dainville : hôte en ;; Collège de Dainville : hôte en %1409-1414% ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

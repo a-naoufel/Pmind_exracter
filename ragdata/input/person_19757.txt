@@ -1,0 +1,11 @@
+PERSON: IVO Hervey-Moricii de Lanne Petri
+Also known as: Yvo HERVEY-MORICII de LANNE PETRI.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1321-1321%.
+Born in: Bretagne..
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris).
+College affiliation: Collège de Cornouailles : l'un des cinq "pauperes scholares" désignés en par les exécuteurs testamentaires du fondateur Galeranus NICOLAI pour bénéficier de l'une des cinq bourses, les étudiants étant d'abord hébergés au collège du Plessis ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet 22/09/2022..

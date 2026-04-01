@@ -1,0 +1,10 @@
+PERSON: VINCENTIUS de Freyaco
+Also known as: Vincentius de FREYACO.
+Description: Recteur de l'Université de Paris..
+Status: Maître.
+Gender: male.
+Active during: %1308-1309 %.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) ..
+University functions: Recteur de l'Université de Paris ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 21/11/2019..

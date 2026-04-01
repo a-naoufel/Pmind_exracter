@@ -1,0 +1,12 @@
+PERSON: ANDREAS de Moyenneville
+Also known as: Andreas de MOYENNEVILLE.
+Description: Licencié ès arts..
+Status: Gradué.
+Gender: male.
+Active during: %1479-1479%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse d'Amiens..
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Licencié ès arts (Paris) ..
+Academic relationships: Son maître est Petrus DEROUART..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/08/2020)..

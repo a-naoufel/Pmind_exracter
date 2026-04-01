@@ -1,0 +1,9 @@
+PERSON: THOMAS 8
+Also known as: THOMAS.
+Description: Bedeau de la Nation de Picardie.
+Status: Suppôt.
+Gender: male.
+Active during: %1321-1321%.
+Studied at: Paris (Nation de Picardie)..
+University functions: Paris (Nation de Picardie : bedeau)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 2/04/2021)..

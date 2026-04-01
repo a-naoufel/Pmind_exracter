@@ -1,0 +1,23 @@
+PERSON: EUSTASIUS de Lens
+Also known as: Eustachius de LENS; Eustache de LENS.
+Description: Abbé (Prémontré) du Val-Chrétien.
+Status: Étudiant.
+Gender: male.
+Active during: %1214-1226%.
+Born in: Artois (Lens) ?.
+Studied at: Paris..
+Academic grades obtained: Étudiant en théologie avant ;.
+Religious order: O. Praem. : chanoine régulier Prémontré à l’abbaye de Vicoigne (diocèse d’Arras) ;.
+Religious functions: Abbé (prémontré) du Val-Séry (diocèse de Soissons) %1214-1220% en même temps ;; Abbé (prémontré) du Val-Chrétien (diocèse de Soissons) %1220-1226 ;.
+Authored work: 'De canone missae', composed around ?.
+Authored work: 'De mysteriis Sanctae Scripturae', composed around ?.
+Authored work: 'De trinitate', composed around ?.
+Authored work: 'Epistolae', composed around ?, dedicated to Lettres adressées à Jacobus de LAUDEVIRGINIS chanoine (prémontré) de Mont-Saint-Martin..
+Authored work: 'In hymnos ab ordine Praemonstrasensi receptos', composed around ?.
+Authored work: 'In regulam Sancti Augustini ad Gervasum praemonstratensium primatem', composed around ?.
+Authored work: 'Libri tres de cosmographia Mosaica', composed around ?.
+Authored work: 'De significatione nominum et quantitate rerum iuxta sanctum Gregorium', composed around ?.
+Authored work: 'De tropis et schematibus Scripturae', composed around ?.
+Authored work: 'De causis', composed around ?.
+Authored work: 'De metris', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/02/2022)..

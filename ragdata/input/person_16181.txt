@@ -1,0 +1,11 @@
+PERSON: ALIARMUS Clientis
+Also known as: Aliarmus CLIENTIS.
+Description: Bachelier ès arts..
+Status: Maître.
+Gender: male.
+Active during: %1477-1477%.
+Diocese of origin: Diocèse de Thérouanne..
+Studied at: Paris (Nation de Picardie) en ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ..
+Academic relationships: Son maître est Petrus DONVILLE jusqu’à la licence, puis Johannes de CAMPIS pour la maîtrise..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/07/2020)..

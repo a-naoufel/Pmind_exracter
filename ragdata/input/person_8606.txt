@@ -1,0 +1,10 @@
+PERSON: LAURENTIUS de Monte Forti 2
+Also known as: Laurentius de MONTE FORTI; Laurent de MONTEFORTIS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1315-1330%.
+Studied at: Paris %1315-1330%..
+Academic grades obtained: Maître ès arts (Paris) en ;; Étudiant en théologie (Paris) ..
+College affiliation: Collège de Navarre %1315-1330%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 23/08/2023..

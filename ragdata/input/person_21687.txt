@@ -1,0 +1,12 @@
+PERSON: CUTHBERTUS Scotus
+Also known as: Cubertus SCOTUS.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1303-1303%.
+Born in: Écosse ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins) en %1302-1303%..
+Religious order: O.P. : frère dominicain au couvent (dominicain) de Paris (Saint-Jacques) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 02/05/2021..

@@ -1,0 +1,12 @@
+PERSON: STEPHANUS de Cortinis
+Also known as: Stephanus de CORTINIS; Stephanus de CORTINAS.
+Description: Chanoine de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1476-1494%.
+Studied at: ?.
+Academic grades obtained: Licencié in utroque jure ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Rodez %1482-1494% ;.
+Other ecclesiastical functions: Official de Rodez %1476-1482% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 20/05/2022..

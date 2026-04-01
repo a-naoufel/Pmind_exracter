@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Johannis 1
+Also known as: Nicolaus JOHANNIS.
+Description: Chanoine de Châlons.
+Status: Incertain.
+Gender: male.
+Active during: %1362-1374%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Châlons-en-Champagne %1362-1368% ;; Archidiacre d’Astenois %1368-1374% ;; Curé et prieur de Cabrières (diocèse de Nîmes) en ;; Expectative de canonicat de Noyon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 14/06/2025.

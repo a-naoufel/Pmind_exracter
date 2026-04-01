@@ -1,0 +1,10 @@
+PERSON: HENRICUS de Verzel
+Also known as: Henricus de VERZEL.
+Description: Archidiacre de Bayeux.
+Status: Incertain.
+Gender: male.
+Active during: %1270-1270%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Archidiacre de Bayeux ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/03/2024..

@@ -1,0 +1,12 @@
+PERSON: BONETUS Moteti de Interaquis
+Also known as: Bonetus MOTETI de Interaquis; Bonitus de INTERAQUIS.
+Description: Médecin..
+Status: Maître.
+Gender: male.
+Active during: %1342-1349%.
+Born in: Auvergne..
+Diocese of origin: Diocèse de Clermont..
+Studied at: Paris %:1349-1349%..
+Academic grades obtained: Maître en médecine (Paris) ..
+Ecclesiastical positions held: Provision pour un bénéfice à la collation de l'évêque d'Auxerre en : mandat à l'abbé d'Auxerre (Saint-Germain), à l'abbé de Corbigny (Saint-Léonard) et à Jacobo CLEMENTIS, chanoine d'Auxerre.; Recteur de l'égliseparoissiale de Chitry (diocèse d'Auxerre) .; Provision pour un bénéfice à la collation de l'évêque, du doyen et du chapitre d'Auxerre en : mandat à l'abbé d'Auxerre (Saint-Germain), à l'abbé de Paris (Sainte-Geneviève) et au doyen de Paris.; Provision pour un bénéfice à la collation du prévôt de Chablis dans l'église de Tours (Saint-Martin) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 26/03/2021)..

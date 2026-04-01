@@ -1,0 +1,7 @@
+PERSON: BENEDICTUS de Gaillon
+Also known as: Benoist de GAILLON.
+Description: Médicastre..
+Status: Extérieur.
+Gender: male.
+Active during: %1322-1322%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet 06/01/2021).

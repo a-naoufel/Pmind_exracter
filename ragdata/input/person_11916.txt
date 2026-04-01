@@ -1,0 +1,9 @@
+PERSON: THOMAS Gedini
+Also known as: Thomas GEDINI.
+Description: Bachelier en médecine..
+Status: Gradué.
+Gender: male.
+Active during: %1466-1466%.
+Studied at: Paris %1466-1466%..
+Academic grades obtained: Bachelier en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 09/10/2024..

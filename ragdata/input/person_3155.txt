@@ -1,0 +1,14 @@
+PERSON: GERARDUS Bituricensis
+Also known as: Girardus BITURICENCIS; Girardus PARISIENSIS; Girard BITURICENCIS; Girard PARISIENSIS; Gerardus de SOLO.
+Description: Médecin.
+Status: Maître.
+Gender: male.
+Active during: %1220-1237%.
+Born in: Berry ?.
+Diocese of origin: Diocèse de Bourges..
+Studied at: Paris..
+Academic grades obtained: Magister ?.
+University functions: Paris (Maître enseignant la médecine ?) ;.
+Authored work: 'Glosule super Viaticum Constantini', composed around %1220-1226% ?.
+Authored work: 'Summa de modo medendi', composed around ?.
+Source: MIRABILE :.

@@ -1,0 +1,10 @@
+PERSON: HENRICUS Bidau
+Also known as: Henricus BIDAU.
+Description: Bachelier en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1437-1439%.
+Studied at: Paris %1437-1439%..
+Academic grades obtained: Maître ès arts (Paris) attesté en ;; Bachelier en décret (Paris) attesté en ..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (1e année) en (10 octobre)) ;; Paris (Faculté de Décret : Lecteur des Décrétales (2e année) en (15 octobre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 04-06-2015..

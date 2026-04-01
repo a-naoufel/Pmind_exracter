@@ -1,0 +1,13 @@
+PERSON: ROLANDUS Hospitis 2
+Also known as: Rollandus HOSPITIS.
+Description: Recteur de Montauban.
+Status: Maître.
+Gender: male.
+Active during: %1461-1461%.
+Born in: Bretagne ?.
+Studied at: Paris %1461-1461%..
+Academic grades obtained: Maître (Paris) ?.
+College affiliation: Hôte du collège de Sorbonne reçu le 18 avril ..
+Family relationships: Son oncle est Rollandus HOSPITIS, prieur (O.S.B.) de Sainte-Croix ;.
+Ecclesiastical positions held: Recteur de Montauban (Saint-Éloi) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 04/07/2024..

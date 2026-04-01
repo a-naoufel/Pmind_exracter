@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Usagiis
+Also known as: Guillelmus de USAGIIS.
+Description: Chanoine du Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1260-1260%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son parent est peut-être Garinus de USAGIIS, chanoine de LeMans ; Son parent est peut-être Johannes de USAGIIS, chanoine de LeMans ;.
+Ecclesiastical positions held: Chanoine de LeMans ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/07/2023)..

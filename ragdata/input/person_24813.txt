@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de Azy
+Also known as: Nicolas d'AZY.
+Description: .
+Status: Incertain.
+Gender: male.
+Active during: %1404-1441%.
+Studied at: Paris ?.
+College affiliation: Collège de Dormans-Beauvais : patron %1405-1441% ;.
+Family relationships: Son parent est Nolin d'AZY, hôte du Collège de Dormans-Beauvais ;.
+Religious functions: O.S.A. : chanoinerégulier de Soissons (Saint-Jean des Vignes) ;; Abbé (augustin) de Soissons (Saint-Jean des Vignes) %1404-1441% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/03/2023..

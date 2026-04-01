@@ -1,0 +1,10 @@
+PERSON: NORBERTUS
+Also known as: NORBERT.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1215-1220%.
+Studied at: Paris..
+Academic grades obtained: Maître.
+University functions: Paris (Maître enseignant les arts libéraux vers %1215-1220%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/08/2023)..

@@ -1,0 +1,10 @@
+PERSON: PETRUS de Durelcka
+Also known as: Petrus de DURELCKA.
+Description: Procureur de la Sorbonne.
+Status: Étudiant.
+Gender: male.
+Active during: %1307-1307%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant ?.
+College affiliation: Sorbonne : procureur en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 5/01/2021..

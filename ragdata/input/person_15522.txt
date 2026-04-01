@@ -1,0 +1,11 @@
+PERSON: PETRUS 17
+Also known as: PETRUS.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1388-1411%?.
+Studied at: Paris..
+Academic grades obtained: Étudiant ?.
+Religious order: O.S.B. : moine bénédictin..
+Religious functions: Prieur de Saint-Thibault-les-Vignes (dépendance de Lagny-sur-Marne dans le diocèse de Paris) avant le 15 septembre ;; Abbé de Lagny-sur-Marne (diocèse de Paris) %1388-1411%?..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 04/04/2021)..

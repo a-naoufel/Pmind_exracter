@@ -1,0 +1,9 @@
+PERSON: CAROLUS de Beorteguy
+Also known as: Carolus de BEORTEGUY; Charles de BEORTEGUY.
+Description: Étudiant en médecine à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1499-1500%.
+Studied at: Paris %1499-1500%..
+Academic grades obtained: Étudiant en médecine (Paris) %1499-1500%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 1/04/2021)..

@@ -1,0 +1,9 @@
+PERSON: HENRICUS Petri
+Also known as: Maître ès arts (Paris) :.
+Description: Maître ès arts.
+Status: Incertain.
+Gender: male.
+Active during: %1454-1454%.
+Born in: Allemagne..
+Studied at: Paris (Nation Anglo-allemande) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 31/07/2022..

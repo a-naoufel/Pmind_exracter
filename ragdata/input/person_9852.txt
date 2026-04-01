@@ -1,0 +1,9 @@
+PERSON: PETRUS Froissardi de Kala
+Also known as: Petrus FROISSARDI de Kala.
+Description: Curé du diocèse de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1330-1330%.
+Studied at: ?.
+Ecclesiastical positions held: Curé d’une église de Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 06/02/2020..

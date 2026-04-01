@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Longuejoe
+Also known as: Guillelmus LONGUEJOE.
+Description: Bachelier en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1440-1440%.
+Born in: Île-de-France (Paris)..
+Diocese of origin: Diocèse de Paris..
+Studied at: Paris (Nation de France) %1440-1440%..
+Academic grades obtained: Maître ès arts (Paris) attesté en ;; Bachelier en décret (Paris) attesté en ..
+Ecclesiastical status: Clerc du diocèse de Paris..
+University functions: Paris (Faculté de Décret : lecteur des Décrétales (1e année) en (1 mars)) ;; Paris (Faculté de Décret : lecteur des Décrétales (2e année) en (11 octobre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 15/05/2022..

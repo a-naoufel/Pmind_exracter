@@ -1,0 +1,84 @@
+PERSON: AEGIDIUS Pulchermatris
+Also known as: Aegidius PULCHERMATRIS; Aegidius de BELLEMERE; Gilles BELLEMÈRE.
+Description: Évêque d'Avignon.
+Status: Étudiant.
+Gender: male.
+Active during: %1365-1407%.
+Born in: Anjou-Maine (Château-du-Loir)..
+Diocese of origin: Diocèse de LeMans..
+Studied at: ?Paris ;; Orléans ;; Avignon..
+Academic grades obtained: Maître ès arts ;; Licencié en droit canonique (Orléans) ;; Docteur in utroque jure (Avignon) ..
+Family relationships: Son frère est Michel BELLEMÈRE..
+Social origin: Noble..
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Auditeur des lettres contredites ;; Vice-régent de la chancellerie pontificale ..
+University functions: Orléans (Université : Maître-régent de Droit Canon).; Angers (Université : Maître-régent de Droit Canon).; Avignon (Université : Maître-régent de Droit Canon)..
+Representation roles: Ambassadeur du Pape CLÉMENTVII auprès du duc de Bretagne en ;; Ambassadeur du Pape CLÉMENTVII auprès du duc de Bourgogne et en Flandre pour le compte du Pape CLÉMENTVII en ;; Ambassadeur du Pape BENOÎTXIII auprès de CHARLES VI roi de France en pour annoncer l'élection du Pape ;; Ambassadeur du Pape BENOÎTXIII auprès de CHARLES VI roi de France en ..
+Authored work: '(Office propre de Saint Alain)', composed around ..
+Authored work: '(Recueil des privilèges de l'église d'Avignon)', composed around ..
+Authored work: 'Summa de Sacramentis', composed around ?.
+Authored work: '(Commentaire du Décret [Opus Remissorium super Decreto])', composed around %1390-1398%.
+Authored work: '(Commentaire des Décrétales : Praelectiones)', composed around %1381-1398%.
+Authored work: '(Commentaire du Sexte et des Regule juris)', composed around %1383-1398%.
+Authored work: '(Commentaire des Clémentines)', composed around %1390-1398%.
+Authored work: '(Commentaire des Extravagantes)', composed around %1403-1404%.
+Authored work: '(Decisiones Rotae)', composed around %1374-1378%.
+Authored work: '(Consilia)', composed around %1374-1378%.
+Authored work: 'De revendicatione', composed around ?.
+Authored work: 'De libello', composed around ?.
+Authored work: 'De expensis', composed around ?.
+Authored work: 'De confessione', composed around ?.
+Authored work: 'De servitutibus', composed around ?.
+Authored work: 'De fama', composed around ?.
+Authored work: 'De materia coadjutorum', composed around ?.
+Authored work: 'De in rem verso', composed around ?.
+Authored work: 'De questionibus seu tormentis', composed around ?.
+Authored work: 'De jure emphiteotico', composed around ?.
+Authored work: 'Tractatus permutationum', composed around ?.
+Authored work: 'De feudis', composed around ?.
+Authored work: 'De cessione bonorum', composed around ?.
+Authored work: 'Tractatus successionum ab intestate', composed around ?.
+Authored work: 'De annuis prestationibus', composed around ?.
+Authored work: 'Tractatus munerum et exactionum', composed around ?.
+Authored work: 'De sponsalibus', composed around ?.
+Authored work: 'De matrimonio', composed around ?.
+Authored work: 'De tractatus conditionum', composed around ?.
+Authored work: 'De accusationibus', composed around ?.
+Authored work: 'De denunciacione', composed around ?.
+Authored work: 'De notorietate et fama', composed around ?.
+Authored work: 'De alimentis', composed around ?.
+Authored work: 'De abolicione', composed around ?.
+Authored work: 'Tractatus parvus super quarto modo de crimine', composed around ?.
+Authored work: 'Tractatus inquisicionum', composed around ?.
+Authored work: 'De interesse', composed around ?.
+Authored work: 'Tractatus positionum', composed around ?.
+Authored work: 'De materia publiciane actionis', composed around ?.
+Authored work: 'De differencia actionum realium et personalium', composed around ?.
+Authored work: 'De tractatus substitutionum', composed around ?.
+Authored work: 'De tiranno', composed around ?.
+Authored work: 'De represaliis', composed around ?.
+Authored work: 'De tractatus excommunicacionis et absolucionis', composed around ?.
+Authored work: 'De absulacione ad cautelam', composed around ?.
+Authored work: 'De interdicto ecclesiastico', composed around ?.
+Authored work: 'Tractatus statutorum', composed around ?.
+Authored work: 'Tractatus protestacionis', composed around ?.
+Authored work: 'Tractatus culpe', composed around ?.
+Authored work: 'De contumacia', composed around ?.
+Authored work: 'De materia nullitatis', composed around ?.
+Authored work: 'De materia executionis', composed around ?.
+Authored work: 'De appellacione', composed around ?.
+Authored work: 'Tractatus indulgenciarum', composed around ?.
+Authored work: 'De irregularitate', composed around ?.
+Authored work: 'De degradatione', composed around ?.
+Authored work: 'De juramento', composed around ?.
+Authored work: 'De dispensatione', composed around ?.
+Authored work: 'Tractatus divinationum et sortium seu sortilegiorum juramento', composed around ?.
+Authored work: 'De penitentia', composed around ?.
+Authored work: 'De Ostensione Veritatis', composed around ?, dedicated to Ecrit pour CLÉMENTVII..
+Authored work: 'Novum Opus', composed around ..
+Authored work: '(Réponse aux "Rationes Anglicanae")', composed around ..
+Authored work: '(Traité sur le Schisme)', composed around ..
+Authored work: '(Discours sur la "déclaration de Flandre")', composed around ..
+Authored work: 'Consilium 99 (Mémoire justifiant l'attitude du Pape à l'égard des Princes)', composed around ..
+Authored work: 'Consilium 97 (Mémoire sur la nullité de l'élection d'Urbain VI)', composed around ..
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

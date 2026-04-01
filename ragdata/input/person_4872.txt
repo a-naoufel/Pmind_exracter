@@ -1,0 +1,12 @@
+PERSON: HENRICUS de Beza
+Also known as: Henri de BEZE; Henricus de BEZA.
+Description: Bénédictin.
+Status: Gradué.
+Gender: male.
+Active during: %1448-1448%.
+Studied at: Paris %1448-1448%.
+Academic grades obtained: Bachelier en décret (Paris) ..
+Religious order: O.S.B. : moine bénédictin..
+Religious functions: Prieur de Sancti-Becini (Diocèse de Langres) en ..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales en (1er avril)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 25/06/2022..

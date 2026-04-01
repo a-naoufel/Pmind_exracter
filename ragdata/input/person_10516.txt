@@ -1,0 +1,9 @@
+PERSON: RADULPHUS Ruote
+Also known as: Radulphus RUOTE; Radulphus RUATE.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris.
+Academic grades obtained: Étudiant (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 31/01/2024..

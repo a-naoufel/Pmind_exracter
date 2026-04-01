@@ -1,0 +1,10 @@
+PERSON: NICOLAUS de Villariis
+Also known as: Nicolaus de VILLARIIS; Nicolas de VILLARIIS.
+Description: Boursier grammairien au collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1365-1365%.
+Studied at: Paris %1365-1365%..
+Academic grades obtained: Étudiant en grammaire (Paris) ;.
+College affiliation: Boursier grammairien au collège de Navarre à Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 14/10/2023)..

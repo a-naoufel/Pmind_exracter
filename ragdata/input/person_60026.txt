@@ -1,0 +1,10 @@
+PERSON: PETRUS Magister
+Also known as: Petrus MAGISTER.
+Description: Chapelain.
+Status: Incertain.
+Gender: male.
+Active during: %1201-1201%.
+Born in: Norvège.
+Studied at: ?.
+Academic grades obtained: Magister?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 29/09/2025..

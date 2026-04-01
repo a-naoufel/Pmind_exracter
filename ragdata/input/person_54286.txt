@@ -1,0 +1,10 @@
+PERSON: PETRUS 5
+Also known as: PETRUS.
+Description: Official de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1248-1267%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Other ecclesiastical functions: Official de Sens %1248-1267% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 24/09/2022..

@@ -1,0 +1,10 @@
+PERSON: X de Genneres
+Also known as: X de GENNERES.
+Description: Hôte de la Sorbonne.
+Status: Maître.
+Gender: male.
+Active during: %1480-1480%.
+Studied at: Paris ?.
+Academic grades obtained: Maître ès arts (Paris) ?; Étudiant en théologie (Paris) ?.
+College affiliation: Hôte du Collège de Sorbonne en (novembre) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/05/2018)..

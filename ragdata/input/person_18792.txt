@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Rogerii 2
+Also known as: Guillelmus ROGERII.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+Family relationships: Il est peut-être le parent de Petrus ROGERII qui s'acquitte de sa contribution en même temps que lui mais n'est sans doute pas le Guillelmus ROGERII maître ès arts ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 22/08/2015..

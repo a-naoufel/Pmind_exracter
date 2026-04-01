@@ -1,0 +1,9 @@
+PERSON: X de La Combe
+Also known as: X de LACOMBE.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1413-1413%.
+Studied at: Paris ..
+Academic grades obtained: Maître (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/03/2021..

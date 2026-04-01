@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS Morsels
+Also known as: Aegidius MORSELS; Aegidius MORSEL; Aegidius de MORSELS.
+Description: Procureur de la Nation d'Allemagne.
+Status: Maître.
+Gender: male.
+Active during: %1444-1451%.
+Diocese of origin: Diocèse de Liège..
+Studied at: Paris (Nation Anglo-allemande)..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ..
+University functions: Procureur de la Nation Anglo-allemande en (octobre-décembre)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 9/05/2020..

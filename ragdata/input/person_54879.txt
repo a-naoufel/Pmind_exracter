@@ -1,0 +1,11 @@
+PERSON: BERALDUS de Serris
+Also known as: Beraldus de SERRIS.
+Description: Chanoine de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1313-1349%.
+Studied at: ?.
+Academic grades obtained: Étudiant en droit canon %1313-1321% ;.
+Family relationships: Son oncle est le cardinal Arnaud de PELLEGRUE ;.
+Ecclesiastical positions held: Chanoine de Bayeux %1313-1317% ;; Sous-doyen de Bayeux %1313-1317% ;; Chanoine de Tolède %1313-1317% ;; Chanoine de Poitiers %1314-1349% ;; Chevecier de Poitiers %1314-1349% ;; Chanoine d’Agen ;; Chanoine de Padoue %1317-1327% ;; Prieur d’Agen (Saint-Caprais) %1317-1341% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 19/12/2022..

@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Monte Rotundo
+Also known as: Guillelmus de MONTEROTUNDO.
+Description: Franciscain.
+Status: Extérieur.
+Gender: male.
+Active during: %1332-1333%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.F.M. : frère franciscain..
+Religious functions: Inquisiteur « heretice pravitatis » pour la province d’Arles, la province d’Aix, la province d’Embrun et la province de Vienne, ainsi que le comtat de Provence, le comtat Venaissin, le comté de Forcalquier et la ville d’Avignon en %1332-1333% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 11/04/2020..

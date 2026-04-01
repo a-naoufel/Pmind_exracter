@@ -1,0 +1,9 @@
+PERSON: PETRUS Faveti
+Also known as: Petrus FAVETI.
+Description: Bachelier en droit canon.
+Status: Gradué.
+Gender: male.
+Active during: %1406-1406%.
+Studied at: ?Paris.
+Academic grades obtained: Bachelier en décret (Paris ?) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 14/03/2024)..

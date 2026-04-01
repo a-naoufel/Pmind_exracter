@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Adam
+Also known as: Guillaume ADAM.
+Description: Hôte du collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1387-1390%.
+Studied at: Paris %1387-1390%..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dormans-Beauvais : hôte en %1387-1390% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 24/11/2020)..

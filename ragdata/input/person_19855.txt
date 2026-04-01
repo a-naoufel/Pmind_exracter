@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Sancto Habundo
+Also known as: Guillelmus de SANCTOHABUNDO.
+Description: Moine.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+Religious order: Régulier ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 16/04/2022..

@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Magistri
+Also known as: Guillelmus MAGISTRI.
+Description: Bachelier en théologie.
+Status: Incertain.
+Gender: male.
+Active during: %1431-1431%.
+Studied at: ?.
+Academic grades obtained: Bachelier en théologie ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 29/10/2022..

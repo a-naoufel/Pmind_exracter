@@ -1,0 +1,14 @@
+PERSON: HUGO Magistri
+Also known as: Hugo MAGISTRI.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1398-1406%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris %:1398-1403%.
+Academic grades obtained: Bachelier en décret (Paris) avant ;.
+Ecclesiastical status: Clerc du diocèse de Paris ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Rotulus licentiatorum et bacallariorum in decretis Parisius adressé à BENOÎT XIII en ;; Chanoine de Sens %1404-1406% ;.
+University functions: Paris (Faculté de Décret : lecteur %1398-1403%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 22/04/2019..

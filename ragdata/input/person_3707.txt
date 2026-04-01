@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Aliermi
+Also known as: Guillelmus ALIERMI; Guillaume AILLEUAUME.
+Description: Étudiant ès arts.
+Status: Étudiant.
+Gender: male.
+Active during: %1349-1355%.
+Studied at: Paris (Collège de Navarre) %1352-1355%..
+Academic grades obtained: Étudiant ès arts (Paris) ..
+College affiliation: Boursier artien du collège de Navarre à Paris, %1352-1355% ;; En , il est renvoyé par le grand maître du Collège de Navarre pour avoir frappé Jean de CHAVANGES, maître des artiens, mais le renvoi est annulé par l'aumônier du roi..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 08/02/2022)..

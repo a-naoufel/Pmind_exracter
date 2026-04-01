@@ -1,0 +1,9 @@
+PERSON: THEODERICUS de Angulo
+Also known as: Thierry de ANGULO.
+Description: Licencié en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1399-1427%.
+Studied at: Paris %1399-:1427% ;; Louvain %1427-1427%..
+Academic grades obtained: Étudiant en médecine (Paris) ;; ?Licencié en médecine (Paris) vers ;; Étudiant (Louvain) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 28/01/2022)..

@@ -1,0 +1,10 @@
+PERSON: ARNALDUS de Tiradosio
+Also known as: Arnaldus de TIRADOSIO.
+Description: Chanoine d'Angoulême.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1316%.
+Studied at: Paris..
+Academic grades obtained: Étudiant.
+Ecclesiastical positions held: Chanoine d'Angoulême avec expectative de prébende ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 5/11/2020..

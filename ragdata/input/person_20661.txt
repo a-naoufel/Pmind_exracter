@@ -1,0 +1,10 @@
+PERSON: NICOLAUS 4
+Also known as: NICHOLAUS.
+Description: Clerc d'Hugo de BRUEROLIIS.
+Status: Extérieur.
+Gender: male.
+Active during: %1226-1226%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical status: Clerc ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 7/10/2023)..

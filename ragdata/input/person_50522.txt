@@ -1,0 +1,12 @@
+PERSON: THEODERICUS Maquillon
+Also known as: Thierry MAQUILLON; Thierry MARQUILLON.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Gradué.
+Gender: male.
+Active during: %1452-1456%.
+Born in: Île-de-France (Soissons) ? ;.
+Diocese of origin: Diocèse de Soissons ?.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+College affiliation: Collège de Dormans-Beauvais : boursier %1452-1456% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 3/10/2019..

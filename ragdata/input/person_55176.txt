@@ -1,0 +1,12 @@
+PERSON: PETRUS de Corbigniaco
+Also known as: Petrus de CORBIGNIACO.
+Description: Docteur in utroque.
+Status: Incertain.
+Gender: male.
+Active during: %1336-1336%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse d’Autun ;.
+Studied at: ?.
+Academic grades obtained: Docteur in utroque jure ;.
+Ecclesiastical positions held: Chanoine d’Autun ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 31/01/2023..

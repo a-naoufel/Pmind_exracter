@@ -1,0 +1,9 @@
+PERSON: HERMANNUS de Northeym
+Also known as: Hermannus de NORTHEYM.
+Description: Licencié ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1363-1363%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Licencié ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 06-08-2022..

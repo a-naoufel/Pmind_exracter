@@ -1,0 +1,11 @@
+PERSON: GALFREDUS Pellegay 2
+Also known as: Galfredus PELLEGAY; Geoffroy PELLEGAY.
+Description: Abbé de Saint-Victor.
+Status: Maître.
+Gender: male.
+Active during: %1400-1432%.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) ?; Maître en théologie (Paris) en ;.
+College affiliation: Saint-Victor..
+Religious functions: Abbé de Paris (Saint-Victor) en %1400-1432%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 8/12/2020)..

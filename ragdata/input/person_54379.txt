@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Galtherii
+Also known as: Guillelmus GALTHERII.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1428-1428%.
+Studied at: Paris..
+Academic grades obtained: Licencié en décret (Paris) (30 mars) ;; Rang 35/53 sous Johannes de BRECONS, abbé de Latigny ;.
+Academic relationships: Son maître est Johannes de BRECONS, abbé de Latigny pour la licence en décret en (30 mars) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 15/10/2022..

@@ -1,0 +1,11 @@
+PERSON: GALTERIUS de Suffeld
+Also known as: Galterus de SUFFELD; Gautier de SUFFELD; Walter de SUFFELD.
+Description: Évêque de Norwich.
+Status: Maître.
+Gender: male.
+Active during: %1230-1257%.
+Born in: Angleterre..
+Studied at: Oxford ;; Paris ..
+Academic grades obtained: Maître Décret (Paris) ..
+Ecclesiastical positions held: Évêque de Norwich %1243-1257% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/11/2021..

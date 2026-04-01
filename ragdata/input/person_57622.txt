@@ -1,0 +1,9 @@
+PERSON: GILA de Houzel
+Also known as: Gila dicta de HOUZEL.
+Description: Bourgeoise parisienne.
+Status: Extérieur.
+Gender: female.
+Active during: %1252-1252%.
+Family relationships: Son beau-père était Petrus SARRACENI. Son mari était Johannes SARRACENI..
+Social origin: Bourgeoisie parisienne..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 24/03/2024..

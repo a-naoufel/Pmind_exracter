@@ -1,0 +1,11 @@
+PERSON: PETRUS de Balleul
+Also known as: Petrus de BALLEUL; Petrus de BAILLEUL.
+Description: Bachelier en droit canon.
+Status: Gradué.
+Gender: male.
+Active during: %1498-1515%.
+Studied at: Paris %1498-1498%.
+Academic grades obtained: Bachelier en décret (Paris) (le 26 avril) ..
+Religious order: O.S.B. : moine bénédictin du monastère du Bec-Hellouin (diocèse de Rouen)..
+Religious functions: Prieur claustral du Bec-Hellouin, %1501-1515%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 30/01/2024)..

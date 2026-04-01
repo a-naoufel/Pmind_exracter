@@ -1,0 +1,9 @@
+PERSON: BERNARDUS de Turribus
+Also known as: Bernardus de TURRIBUS.
+Description: Procureur de la Faculté de théologie.
+Status: Étudiant.
+Gender: male.
+Active during: %1361-1361%.
+Academic grades obtained: Paris ?; Étudiant (Paris) ?.
+University functions: Paris (Faculté de Théologie : en (10 novembre) la Faculté lui donne procuration pour être l’un de ses députés) ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

@@ -1,0 +1,9 @@
+PERSON: BENEDICTUS Philipi
+Also known as: Benedictus PHILIPI.
+Description: Etudiant.
+Status: Incertain.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 07/01/2021).

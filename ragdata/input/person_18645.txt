@@ -1,0 +1,10 @@
+PERSON: OLIVERIUS Yvonis
+Also known as: Oliverius YVONIS.
+Description: Frater.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+Religious order: "Frater" : religieux dont l'ordre n'est pas connu ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 19/08/2015..

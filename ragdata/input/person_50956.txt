@@ -1,0 +1,24 @@
+PERSON: GUILLELMUS Copus
+Also known as: Guillelmus COPUS; Guillaume LECOP; Guillaume LECOQ.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1478-1532%.
+Born in: Alémanie..
+Diocese of origin: Diocèse de Bâle..
+Studied at: Bâle ;; Paris (Nation Anglo-allemande ?) %1488-1512%..
+Academic grades obtained: Licencié ès arts (Bâle) ;; Maître ès arts (Bâle) ;; Ètudiant en médecine (Bâle) ;; Ètudiant en médecine (Paris) ;; Bachelier en médecine (Paris) (19 mars) ;; Licencié en médecine (Paris) (13 avril) ;; Docteur en médecine (Paris) (17 mai) ;.
+Family relationships: Sa femme est Étiennette TURGIS ; Son fils est Nicolas COP qui étudia la médecine ; Son fils est Michel COP ; Son fils est Jean COP ;.
+Academic relationships: Son maître est Johannes HEBERLING de Gmünd ; Son professeur de grec est Mithridate CELTIS à Bâle ; Son professeur de grec est Conradus CELTIS à Bâle ; Son professeur de grec est Janus LASCARIS à Paris ; Son professeur de grec est Jérôme ALÉANDRE à Paris après ;.
+University functions: Paris (Faculté de Médecine : maître-régent) %1496-1512% ;.
+Authored work: 'Tractatus astrologicus ex variis antiquis desumptus', composed around ?.
+Authored work: 'Praedictiones sive Prognostica', composed around ?.
+Authored work: 'Praesagiorum libri tres', composed around ?, dedicated to Dédié à Jean de GANAY, chancelier de France..
+Authored work: 'De affectorum locorum notitia libri sex', composed around ?, dedicated to Dédié à LOUIS XII, roi de France..
+Authored work: 'De morborum et symptomatum causis et differentiis', composed around ?.
+Authored work: 'De ratione victus in morbis acutis', composed around ?.
+Authored work: 'De ratione victus', composed around ?.
+Authored work: 'De re medica liber primus', composed around ?, dedicated to Dédié à Germain de GANAY..
+Authored work: 'Praecepta salutaria', composed around ?.
+Authored work: 'Epistolae', composed around ?.
+Source: MIRABILE, Andrea CENCINI :.

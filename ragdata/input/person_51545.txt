@@ -1,0 +1,12 @@
+PERSON: HENRICUS Filleures
+Also known as: Henricus FILLEURES.
+Description: Chapelain intérimaire du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1460-1460%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dormans-Beauvais : Chapelain intérimaire ;.
+Ecclesiastical status: Prêtre ?.
+Ecclesiastical positions held: Chapelain intérimaire du collège de Dormans-Beauvais ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 24/11/2020)..

@@ -1,0 +1,11 @@
+PERSON: THEOBALDUS Johannis de Leydis
+Also known as: Teobaldus JOHANNIS de Leydis.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1448-1448%.
+Born in: Pays-Bas (Hollande : Leyde ?) ?.
+Diocese of origin: Diocèse d'Utrecht..
+Studied at: Paris (Nation Anglo-allemande)..
+Academic grades obtained: Étudiant à la Faculté des Arts (Nation Anglo-allemande) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/09/2024)..

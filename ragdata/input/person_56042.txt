@@ -1,0 +1,11 @@
+PERSON: PETRUS Bergeri
+Also known as: Petrus BERGERI.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1455-1455%.
+Born in: Lyonnais ?.
+Diocese of origin: Diocèse de Lyon ;.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/05/2023..

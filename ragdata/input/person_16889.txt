@@ -1,0 +1,14 @@
+PERSON: VINCENTIUS de Essartis
+Also known as: Vincentius de ESSARTIS.
+Description: Étudiant..
+Status: Étudiant.
+Gender: male.
+Active during: %1323-1335%.
+Born in: Île-de-France ;.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Orléans ?; Paris %1329-1330%..
+Academic grades obtained: Étudiant en décret? (Paris) %1329-1330% ;; Licencié en droit civil (Orléans ?) attesté en mars ..
+Family relationships: Son père est Martinus de ESSARTIS, maître des comptes ; Sa mère est Nicole de ROUY ; Son oncle est Pierre des ESSARTS ; Son frère est Guillelmus de ESSARTIS, évêque d'Évreux ; Son frère est Johannes de ESSARTIS ; Son frère est Reginaldus de ESSARTIS..
+Social origin: Bourgeoisie ;.
+Ecclesiastical positions held: Sous diacre ;; Chanoine de Tournai en ;; Chanoine de Rouen, %1323-1335%.; Chanoine de Bayeux en et en ;; Prévôt d'Ingré (diocèse de Chartres) en et en ;; Canonicat, avec expectative de prébende, à Chartres (chapitre cathédral) en décembre ;; Évêque d'Évreux, %1334-1335%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/02/2023)..

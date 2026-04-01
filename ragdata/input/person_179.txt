@@ -1,0 +1,9 @@
+PERSON: AEGIDIUS Hardenge
+Also known as: Aegidius HARDENGE.
+Description: Nuntius de la Nation d'Allemagne.
+Status: Suppôt.
+Gender: male.
+Active during: %1489-1489%.
+Studied at: Paris (Nation Anglo-allemande) en ..
+University functions: Paris (Nation Anglo-allemande : nonce en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 05/05/2020)..

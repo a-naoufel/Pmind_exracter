@@ -1,0 +1,10 @@
+PERSON: MARTINUS de Sancto Egidio
+Also known as: Martinus de SANCTO EGIDIO; Martin de SAINT-GILLES.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1362-1362%.
+Studied at: Paris vers ..
+Academic grades obtained: Maître ès arts (Paris) ;; Maître en médecine (Paris) ;; Étudiant en théologie (Paris) ..
+Authored work: 'Le Livre des Amphorismes Ypocras en medecine, avecques les commens de Galien', composed around Entrepris à Avignon en : le manuscrit a été copié à partir de par Jean TROTIER, chirurgien du duc de Bedford., dedicated to Dédiée à Guy de CHAULIAC, la traduction a été faite à la demande de Roberto da SENIGALLIA, barbier du pape..
+Source: ARLIMA : https://arlima.net/no/64 (Caroline BOUCHER) ;.

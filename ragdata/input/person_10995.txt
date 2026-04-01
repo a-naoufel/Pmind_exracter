@@ -1,0 +1,11 @@
+PERSON: ROBERTUS de Duvellandia
+Also known as: Robert de DUVELLANDIA; Robertus de DUVELANDIA.
+Description: Bachelier en médecine..
+Status: Gradué.
+Gender: male.
+Active during: %1401-1406%.
+Born in: Pays-Bas : Duyvelland ?.
+Diocese of origin: Diocèse d'Utrecht ?.
+Studied at: Paris %1401-1406%..
+Academic grades obtained: Étudiant en médecine (Paris) %1401-1402% ;; Bachelier en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 21/08/2024..

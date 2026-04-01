@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS de Montebuxerio
+Also known as: Guillermus de MONTEBUXERIO; Guillaume de MONTBOISSIER.
+Description: Chanoine de Clermont.
+Status: Étudiant.
+Gender: male.
+Active during: %1448-1491%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse de Clermont ;.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) ;; Licencié en droit canon ;.
+Family relationships: Son père est Pierre de MONTBOISSIER ; Son frère est Marquesius de MONTEBUXERIO, doyen de Clermont ; Son neveu est Gilbertus de MONTEBUXERIO, chanoine de Clermont ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Clermont %1471-1490% ;; Chanoine de Lyon %1471-1485% ;; Chanoine de LePuy ;; Archidiacre de Saint-Flour %1488-1492% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 27/09/2023)..

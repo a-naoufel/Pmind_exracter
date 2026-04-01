@@ -1,0 +1,7 @@
+PERSON: LAURENTIUS Beaudehors
+Also known as: Laurentius BEAUDEHORS.
+Description: Pelletier de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1341-1345%.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

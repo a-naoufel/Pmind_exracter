@@ -1,0 +1,13 @@
+PERSON: BARTHOLOMAEUS de Mantua
+Also known as: Bartholomeus MANTUA.
+Description: Archidiacre de Hainaut.
+Status: Incertain.
+Gender: male.
+Active during: %1260-1287%.
+Born in: Italie (Lombardie : Mantoue ?) ?.
+Diocese of origin: Diocèse de Mantoue ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Archidiacre de Hainaut %1260-1287% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/12/2025)..

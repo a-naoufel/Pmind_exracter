@@ -1,0 +1,11 @@
+PERSON: ADAM Rigaud
+Also known as: Adam RIGAUD; Adam de VERNEAU.
+Description: Doyen de Rouen.
+Status: Maître.
+Gender: male.
+Active during: %1263-1306%.
+Studied at: Paris..
+Academic grades obtained: Magister.; Magister..
+Family relationships: Son oncle est Eudes RIGAUD, archevêque de Rouen..
+Ecclesiastical positions held: Chanoine de Rouen %1263-1302%.; Doyen de Rouen %1299-1302%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 14/04/2020)..

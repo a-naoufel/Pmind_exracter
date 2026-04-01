@@ -1,0 +1,10 @@
+PERSON: ODO Vicecomes
+Also known as: Odo VICECOMES.
+Description: Chapelain pontifical.
+Status: Extérieur.
+Gender: male.
+Active during: %1259-1259%.
+Born in: Italie ?.
+Studied at: ?.
+Ecclesiastical status: Clerc..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/03/2024)..

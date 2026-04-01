@@ -1,0 +1,14 @@
+PERSON: STEPHANUS de Cudot
+Also known as: Stephanus de CUDOT; Etienne de CUDOT.
+Description: Archidiacre d'Auxerre.
+Status: Maître.
+Gender: male.
+Active during: %:1220:-1250%.
+Born in: Bourgogne (Cudot))..
+Diocese of origin: Diocèse d'Auxerre..
+Studied at: Paris %:1220-1230%..
+Academic grades obtained: Maître ès arts (Paris) ;; Maître en théologie (Paris) dès ..
+Ecclesiastical positions held: Archidiacre d'Auxerre ;; Curé de Vermenton (Yonne) ;; Doyen de Paris (?Saint-Germain l'Auxerrois) ;; Chanoine de Paris..
+Authored work: '[Sermon pour le XIX dim. après la Pentecôte à St. Jacques]', composed around .
+Authored work: '[Quaest. in lib.Sent. (magistri Stephani Altissiod.)]', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/09/2023)..

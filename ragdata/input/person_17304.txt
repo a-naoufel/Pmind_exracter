@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS de Senonis
+Also known as: Aegidius SENONIS; Gilles de SENS.
+Description: Professeur de droit.
+Status: Incertain.
+Gender: male.
+Active during: %1326-1335%.
+Studied at: ?.
+Academic grades obtained: Maître en droit ?.
+Family relationships: Sa femme est Marie de SENS. Son oncle est Eudes de SENS, chanoine de Paris et avocat au Parlement ; Son fils est Guillaume de SENS, premier président du Parlement de Paris..
+Social origin: Noble ?.
+University functions: Professeur de droit ("Professor Legum") mais sans précisions sur l'endroit où il enseigne : ce n'est peut-être pas Paris puisqu'il est constitué comme l'un de ses procureurs par le chapitre de Paris (Notre-Dame) dans l'affaire qui l'oppose à l'Université de Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 03/05/2020)..

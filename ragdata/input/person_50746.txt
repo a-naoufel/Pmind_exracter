@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS de Ligniaco
+Also known as: Guillelmus de LIGNIACO; Guillelmus de LIGNY; Guillaume de LIGNAC; Guillelmus de LIGNUEL.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1273-1273%.
+Studied at: Paris..
+Academic grades obtained: Magister ;.
+College affiliation: Couvent (franciscain) de Paris ?.
+Religious order: O.F.M. : frère franciscain..
+Authored work: 'Sermo coram universitatis', composed around ?.
+Authored work: 'Sermo coram rege et familia in capella parisensi', composed around ?.
+Authored work: 'Sermo', composed around ?.
+Source: Franciscan authors (B. ROEST) :.

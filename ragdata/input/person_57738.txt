@@ -1,0 +1,7 @@
+PERSON: ROBERTUS 10
+Also known as: ROBERTUS.
+Description: Barbier amiénois.
+Status: Extérieur.
+Gender: male.
+Active during: %1271-1271%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 10/04/2024)..

@@ -1,0 +1,10 @@
+PERSON: BERNARDUS de Haermois
+Also known as: Bernardus de HAERMOIS; Bernardus de VILLA CAMPI.
+Description: Procureur de la Nation de France.
+Status: Maître.
+Gender: male.
+Active during: %1336-1336%.
+Studied at: Paris (Nation de France)..
+Academic grades obtained: Maître ès arts (Paris)..
+University functions: Paris (Nation de France : Procureur)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 1/02/2021)..

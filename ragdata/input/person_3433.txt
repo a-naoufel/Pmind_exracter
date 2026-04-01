@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Scotus 2
+Also known as: Guillelmus SCOTUS; William de LILLISCLEST.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1317-1345%.
+Born in: Écosse (Roxburghshire : Lilliesleaf ?) ?.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) ? ..
+University functions: Paris (Faculté des Arts : maître-régent ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 6/01/2025..

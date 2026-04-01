@@ -1,0 +1,13 @@
+PERSON: IVO de Scepeaux
+Also known as: Yves de SCÉPEAUX.
+Description: Premier président au Parlement de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1430-1461%.
+Born in: Bretagne..
+Studied at: Angers..
+Academic grades obtained: Docteur en droit ?.
+Family relationships: Son père est Guy de SCÉPEAUX ; Sa mère est Guillemette de FONTENAY Sa femme est Charlotte de BEAUVAU.
+Social origin: Noble..
+University functions: Angers (Université : recteur en ?)..
+Source: Paris au Moyen Âge :.

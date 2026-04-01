@@ -1,0 +1,11 @@
+PERSON: ROBERTUS de Clipston
+Also known as: Robert de CLIPSTON.
+Description: Maître.
+Status: Extérieur.
+Gender: male.
+Active during: %1197-1216%.
+Born in: Angleterre ?.
+Studied at: Oxford ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Recteur de Harvington (Worcestershire) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière révision, 19/10/2024..

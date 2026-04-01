@@ -1,0 +1,14 @@
+PERSON: BALDUINUS Multoris
+Also known as: Balduinus MULTORIS.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1441-1444%.
+Diocese of origin: Diocèse de Thérouanne..
+Studied at: Paris %1441-1444%..
+Academic grades obtained: Bachelier en décret (Paris) (29 novembre) ;; Licencié en décret (Paris) (le 8 avril) ..
+Family relationships: Son oncle est Livinus NEVELINE, doyen de la faculté de décret entre novembre %1441-1442%..
+Academic relationships: Son maître est Johannes de COURCELLIS en ..
+Ecclesiastical status: Clerc du diocèse de Thérouanne..
+University functions: Paris (Faculté de Décret : lecteur des Décrétales (1ere année) en (15 janvier) ;; Paris (Faculté de Décret : lecteur des Décrétales (2e année) en (11 octobre) ;; Paris (Faculté de Décret : lecteur des Décrétales en (12 novembre) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet 2/12/2020)..

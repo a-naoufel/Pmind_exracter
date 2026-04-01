@@ -1,0 +1,10 @@
+PERSON: ROBERTUS Lescurier
+Also known as: Robertus L’ESCURIER.
+Description: Libraire-juré de l’université de Paris.
+Status: Suppôt.
+Gender: male.
+Active during: %1371-1389%.
+Studied at: Paris..
+Academic grades obtained: ?.
+University functions: Paris (Université : libraire juré) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 25/09/2021..

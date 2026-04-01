@@ -1,0 +1,8 @@
+PERSON: FRANCISCUS Petri 1
+Also known as: Franciscus PETRI.
+Description: ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1354-1354%.
+Studied at: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 14/09/2021..

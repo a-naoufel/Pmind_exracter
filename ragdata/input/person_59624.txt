@@ -1,0 +1,7 @@
+PERSON: PHILIPPOTE La Tuilière
+Also known as: Philippote LA TUILIÈRE.
+Description: Bénéficiaire du testament de Stephanus VIDE de Boissiaco.
+Status: Extérieur.
+Gender: female.
+Active during: %1363-1363%.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

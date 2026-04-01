@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Brisset
+Also known as: Guillelmus BRISSET.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1456-1481%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Maître ès arts (Paris) en , sans doute avant ?; Étudiant en médecine (Paris) %1456-1462% ?.
+College affiliation: Collège de Laon %1456-1481% ;; Collège de Laon : boursier en médecine %1456-1462% ;; Collège de Laon : boursier en théologie %1477-1471% ;; Collège de Laon : procureur %1460-1463% ;; Collège de Laon : principal %1477-1481% ;.
+University functions: Paris (Faculté des Arts : Régent en arts ) ;; Paris (Université : visiteur des collèges ) ;; Paris (Nation de Picardie : receveur ) ;; Paris (Université : recteur ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 1/03/2022..

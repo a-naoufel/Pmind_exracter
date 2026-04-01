@@ -1,0 +1,10 @@
+PERSON: ALARDUS Machet
+Also known as: Alardus MACHET; Alard MACHET.
+Description: Boursien artien au Collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1380-1382%.
+Studied at: Paris (Collège de Navarre) %1380-1382%..
+Academic grades obtained: Étudiant en grammaire (Paris) ;; Étudiants ès arts (Paris) ..
+College affiliation: Boursier grammairien au Collège de Navarre à Paris en ;; Boursien artien au Collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 16/06/2020)..

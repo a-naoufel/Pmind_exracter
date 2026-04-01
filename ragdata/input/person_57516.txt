@@ -1,0 +1,12 @@
+PERSON: LUDOVICUS de Marcongnet
+Also known as: Ludovicus de MARCONGNET.
+Description: Bachelier en droit canon.
+Status: Gradué.
+Gender: male.
+Active during: %1415-1415%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris %1415-1415%..
+Academic grades obtained: Bachelier en décret (Paris) (16 août) ;.
+Social origin: Noble ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 27-02-2024..

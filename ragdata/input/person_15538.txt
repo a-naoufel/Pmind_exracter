@@ -1,0 +1,12 @@
+PERSON: PETRUS Robant
+Also known as: Petrus ROBANT.
+Description: Clunisien.
+Status: Étudiant.
+Gender: male.
+Active during: %1401-1448%.
+Studied at: Paris %1405-1407%..
+Academic grades obtained: Étudiant en décret (Paris) %1405-1407% ;..
+College affiliation: Collège de Cluny ?.
+Religious order: Clunisien.
+Religious functions: Prieur de Montdidier (diocèse d'Amiens) en %1401-1448% ;; Visiteur de la province de France en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 25/03/2021..

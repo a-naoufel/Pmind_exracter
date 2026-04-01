@@ -1,0 +1,9 @@
+PERSON: CLEMENS Mulati
+Description: Juriste ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1481-1482%.
+Studied at: ?.
+Academic grades obtained: ?.
+Authored work: 'Commentarium Bartholi'.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

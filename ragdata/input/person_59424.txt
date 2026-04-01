@@ -1,0 +1,11 @@
+PERSON: PETRUS Amoris
+Also known as: Petrus AMORIS.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1518-1518%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en théologie (Paris) en ..
+College affiliation: Collège d'Autun en ?.
+Religious order: O.F.M. : frère franciscain ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,9 @@
+PERSON: HUGO de Mimi
+Also known as: Hugo de MIMI; Hugues de MIMI.
+Description: Bachelier en médecine à Paris..
+Status: Gradué.
+Gender: male.
+Active during: %1326-1326%.
+Studied at: Paris %:1326-1326%..
+Academic grades obtained: Bachelier en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland; révision, Jean-Philippe Genet, dernière mise à jour 1/09/2022)..

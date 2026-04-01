@@ -1,0 +1,12 @@
+PERSON: HUGO Cochon
+Also known as: Hugo COCHON.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1349-1362%.
+Diocese of origin: Diocèse de Cambrai ;.
+Studied at: Paris (Nation de Picardie) %:1349-1362%.
+Academic grades obtained: Maître ès arts (Paris) ;.
+Ecclesiastical status: Clerc du diocèse de Cambrai en ;.
+University functions: Paris (Nation de Picardie : maître-régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 30/08/2022..

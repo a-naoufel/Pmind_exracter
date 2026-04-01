@@ -1,0 +1,9 @@
+PERSON: BARBARA de Glysi
+Also known as: Barbara de GLYSI.
+Description: Clerc du Prieur de Sorbonne.
+Status: Suppôt.
+Gender: male.
+Active during: %1475-1475%.
+Studied at: Paris ;.
+College affiliation: Sorbonne : clerc du Prieur en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 3/05/2018)..

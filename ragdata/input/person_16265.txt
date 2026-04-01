@@ -1,0 +1,12 @@
+PERSON: ANDREAS de Karipault
+Also known as: Andreas de KARIPAULT.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1452-1453%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Vannes..
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris); Maître ès arts (Paris) ..
+Academic relationships: Son maître est Johannes BEGUINUS..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 2/08/2020)..

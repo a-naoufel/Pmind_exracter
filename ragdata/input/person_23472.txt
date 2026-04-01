@@ -1,0 +1,11 @@
+PERSON: MAURITIUS de Orbaco
+Also known as: Maurice de ORBACO.
+Description: Hôte du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1402-1403%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) %1402-1403%..
+College affiliation: Collège de Dormans-Beauvais : hôte %1402-1403% ;.
+Family relationships: Il est peut-être parent de Rémi d'ORBAIS, abbé de Soissons (Saint-Jean des Vignes) ;.
+Source: LAMOP : Opération Charles VI (n° 2460) :.

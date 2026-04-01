@@ -1,0 +1,10 @@
+PERSON: ARNALDUS Bloc
+Also known as: Arnaldus BLOC; Arnold BLOC; Arnold BLOCQ; Arnoldus BOUCH.
+Description: Licencié en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1394-1406%.
+Diocese of origin: Diocèse de Liège ?.
+Studied at: ?Cologne ;; Paris %1394-1406%..
+Academic grades obtained: Étudiant en médecine (Paris) ;; Licencié en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet 21/10/2020)..

@@ -1,0 +1,10 @@
+PERSON: ALANUS Le Cauchonnier
+Also known as: Alanus LE CAUCHONNIER; Alain LE CAUSSONNIER; Alain LE CAUCONNIER.
+Description: Médecin.
+Status: Maître.
+Gender: male.
+Active during: %1481-1491%.
+Studied at: Paris %1481-1491%.
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+College affiliation: Collège de Maître-Gervais : socius ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 4/06/2020)..

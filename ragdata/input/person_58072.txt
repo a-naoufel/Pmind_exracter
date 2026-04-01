@@ -1,0 +1,7 @@
+PERSON: STEPHANUS Fraissant
+Also known as: Etienne FRAISSANT.
+Description: Chirurgien.
+Status: Incertain.
+Gender: male.
+Active during: %1450-1450%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 18/09/2024..

@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Folliau
+Also known as: Guillelmus FOLLIAU.
+Description: Maître d’école.
+Status: Suppôt.
+Gender: male.
+Active during: %1437-1437%.
+Studied at: Paris ..
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 1/09/2020..

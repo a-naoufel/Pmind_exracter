@@ -1,0 +1,13 @@
+PERSON: EUSTACIUS Saquespee
+Also known as: Eustacius SAQUESPÉE.
+Description: Moine de Saint-Vaast.
+Status: Étudiant.
+Gender: male.
+Active during: %1387-1387%.
+Born in: Artois ?.
+Diocese of origin: Diocèse d’Arras ?.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège de Dainville : boursier à partir de ;.
+Religious order: O.S.B. : moine (bénédictin) de l’abbaye d’Arras (Saint-Vaast) en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

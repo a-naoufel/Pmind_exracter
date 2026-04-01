@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS Kermaret
+Also known as: Guillelmus KERMARET.
+Description: Étudiant en théologie.
+Status: Étudiant.
+Gender: male.
+Active during: %1403-1403%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Dol ?.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant en théologie (Paris) en %1400-1403% ;.
+Ecclesiastical status: Prêtre du diocèse de Dol en ?.
+Religious order: O. Praem. à l’abbaye (prémontré) de Beauport (Notre-Dame) au diocèse de Saint-Brieux ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Magnus Rotulus (rotulus scolarium Parisiensum) de l’Université de Paris daté de (23 octobre) et présenté à BENOÎT XIII..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 28/10/2018..

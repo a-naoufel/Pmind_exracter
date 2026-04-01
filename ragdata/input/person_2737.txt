@@ -1,0 +1,12 @@
+PERSON: GEORGIUS de Chuos
+Also known as: Georgius de CHUOS.
+Description: Clunisien.
+Status: Étudiant.
+Gender: male.
+Active during: %1419-1419%.
+Studied at: Paris (Collège de Cluny) %1419-1419%..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Cluny ..
+Religious order: O.Clun. : moine clunisien du monastère (clunisien) de Romeinmôtier (Diocèse de Lausanne)..
+Religious functions: Prieur (clunisien) de Sainte-Marie-Madeleine à Salins (Diocèse de Besançon) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, 15/09/2020..

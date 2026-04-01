@@ -1,0 +1,10 @@
+PERSON: STEPHANUS de Noa
+Also known as: Stephanus de NOA.
+Description: Chanoine d'Auxerre.
+Status: Incertain.
+Gender: male.
+Active during: %1270-1270%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Auxerre % -1270% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 24/06/2025)..

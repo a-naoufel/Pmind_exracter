@@ -1,0 +1,8 @@
+PERSON: RADULPHUS Penitentiarius Papae
+Also known as: RADULPHUS Penitentiarius Papae.
+Description: Pénitentiaire pontifical.
+Status: Extérieur.
+Gender: male.
+Active during: %1218-1218%.
+Other ecclesiastical functions: Pénitentiaire pontifical en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 18/03/2024..

@@ -1,0 +1,11 @@
+PERSON: STEPHANUS de Vallibus
+Also known as: Stephanus de VALLIBUS.
+Description: Cistercien.
+Status: Gradué.
+Gender: male.
+Active during: %1401-1410%.
+Studied at: Paris %1401-1401%..
+Academic grades obtained: Licencié en théologie (Paris) ..
+Religious order: Cistercien.
+Religious functions: Prieur de LaCharité-sur-Loire en %1402-1410%..
+Representation roles: Participe au concile de Pise en ..

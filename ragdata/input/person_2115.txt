@@ -1,0 +1,10 @@
+PERSON: HAIMERICUS de Rochechouart
+Also known as: Emery de ROCHECHOUART.
+Description: Magister.
+Status: Extérieur.
+Gender: male.
+Active during: %1234-1266%.
+Born in: Limousin (Rochechouart)..
+Studied at: Oxford %1247-1249% au moins..
+Academic grades obtained: Magister ..
+Ecclesiastical positions held: Recteur de Willingham (Suffolk) %1352- % ;; Recteur de Skipwith (Yorkshire) %1366-1366%..

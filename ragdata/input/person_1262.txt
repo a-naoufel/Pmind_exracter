@@ -1,0 +1,20 @@
+PERSON: BONUS de Lucca
+Also known as: Bene de LUCCA.
+Description: Professeur de grammaire.
+Status: Extérieur.
+Gender: male.
+Active during: %1268-1279%.
+Born in: Italie (Toscane : Lucques)..
+Diocese of origin: Diocèse de Lucques ?.
+Studied at: ?Bologne..
+Academic grades obtained: Magister..
+Family relationships: Son père est Benito de LUCCA. Sa fille de son premier mariage est LUCHESIA ; Son épouse (deuxième) est LUCIA ; Son fils (de son deuxième mariage) est BARTOLOMEO ; Son fils (de son deuxième mariage) est PETRICINA ; Son fils (de son deuxième mariage) est GALLA..
+University functions: Bologne (Professeur de grammaire)..
+Authored work: 'Cedrus Libani', composed around ?.
+Authored work: 'Myrrhra correctionis', composed around ?.
+Authored work: 'Salutatorium', composed around ?.
+Authored work: 'Summa diffinitionum', composed around ?.
+Authored work: 'Epistolario', composed around ?.
+Authored work: 'Summa Grammaticae'.
+Authored work: 'Computus anni solaris et lunaris', composed around ?.
+Source: http://www.treccani.it/enciclopedia/bono-da-lucca_(Dizionario-Biografico)/.

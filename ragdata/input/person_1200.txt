@@ -1,0 +1,24 @@
+PERSON: BARTHOLOMAEUS de Urbino
+Also known as: Bartholomaeus de URBINO; Bartholomaeus HOMINIS de Taiuti; Bartholomaeus Hominis de TAIUTI; Bartolomeo CARUSI; Barthélemy d’ URBIN.
+Description: Évêque d'Urbino.
+Status: Maître.
+Gender: male.
+Active during: %1321-1350%.
+Born in: Italie (Marches : Urbino)..
+Diocese of origin: Diocèse d’Urbino ?.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) ..
+Religious order: O.E.S.A. : frère augustin de la province (augustine) d'Ancône..
+University functions: Paris (Faculté de Théologie : maître-régent en théologie au couvent augustin ?) ;; Bologne (lecteur en théologie) %1321-1343% au moins..
+Authored work: 'Milleloquium sancti Augustini', composed around ?, dedicated to Dédié au pape CLÉMENT VI..
+Authored work: 'Milleloquium sancti Ambrosii', composed around ?, dedicated to Commande de CLÉMENT VI..
+Authored work: 'Commentarii alii in Vetus et Novum Testamentum', composed around ?.
+Authored work: 'Evangeliorum Quadragesimae interpretatio', composed around ?.
+Authored work: 'Tractatus de quatuor novissimis', composed around ?.
+Authored work: 'Tractatus de re bellica spirituali per comparationem temporalis', composed around ?, dedicated to Dédié à Galasso di MONTEFELTRO..
+Authored work: 'Memoriale militiae spiritualis', composed around ?.
+Authored work: 'De pugna spirituali', composed around ?.
+Authored work: 'De romani pontificis, Christi vicarii, auctoritate contra errore quorumdam qui tempore Ludovici Bauariae ducis contra Ecclesiam Christique vicarium insurrexerunt', composed around ?.
+Authored work: '(Compendium du De regimine principum de Gilles de Rome)', composed around ?.
+Authored work: 'Commentarium tam in Vetus quam in Novum Testamentum ex omnibus sancti Augustini lucubrationibus', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

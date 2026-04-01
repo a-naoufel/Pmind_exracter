@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Le Membru
+Also known as: Nicole LE MEMBRU.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1468-1493%.
+Studied at: Paris avant ..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Maître en médecine (Paris) avant ..
+Family relationships: Sa femme est ISABIN ;.
+Representation roles: Chargé par la ville de Reims d'une mission importante auprès de LOUIS XI, roi de France, en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 29/04/2019..

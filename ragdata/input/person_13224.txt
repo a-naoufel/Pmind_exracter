@@ -1,0 +1,11 @@
+PERSON: GALTERIUS de Voto
+Also known as: Galterus de VOTO.
+Description: Cistercien.
+Status: Maître.
+Gender: male.
+Active during: %1374-1401%.
+Studied at: Paris %1374-:1398%..
+Academic grades obtained: Licencié en théologie (Paris) "post Pascha" ;; Docteur en théologie (Paris) ..
+Religious order: Cistercien : ?abbaye de LeValasse..
+Religious functions: ?Abbé de Cherlieu en %1374-1401%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 16/11/2021..

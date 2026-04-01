@@ -1,0 +1,15 @@
+PERSON: GUIDO de Orchellis
+Also known as: Guido de ORCHELLIS; Guy d'ORCHELLES.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1217-1233%.
+Born in: Orcheux ?.
+Studied at: Paris %:1217-1229%..
+Academic grades obtained: Maître en théologie (Paris)..
+Ecclesiastical positions held: Archidiacre de Thérouanne %1217-1224% ;; Chanoine de Meaux %1218-1233%..
+University functions: Paris (Faculté de Théologie : Maître-régent ?%1220-1229%?)..
+Authored work: 'Summa de sacramentis ecclesiae', composed around ap. (cite le concile de LatranIV et Stephen LANGTON)..
+Authored work: 'De officiis ecclesiae', composed around ap. : composé après la Summa de Sacramentis ;.
+Authored work: 'Quaestiones theologicae', composed around ?.
+Source: MIRABILE, Federico CONTINI :.

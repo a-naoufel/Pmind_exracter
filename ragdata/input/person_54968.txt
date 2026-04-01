@@ -1,0 +1,10 @@
+PERSON: HENRICUS de Salinis 2
+Also known as: Henricus de SALINIS.
+Description: Doyen de Beaune.
+Status: Incertain.
+Gender: male.
+Active during: %1439-1478%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Beaune %1439-1478% ;; Doyen de Beaune %1440-1478% ;; Chanoine d’Autun %1455-1475% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 12/01/2023..

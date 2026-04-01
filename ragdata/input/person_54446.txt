@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Sancto Petro
+Also known as: Guillelmus de SANCTO PETRO.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1336-1356%.
+Studied at: ?.
+Academic grades obtained: Licencié en droit canon ;.
+Ecclesiastical positions held: Chanoine de Sens ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 24 octobre 2022..

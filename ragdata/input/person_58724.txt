@@ -1,0 +1,18 @@
+PERSON: PETRUS Kermainguy
+Also known as: Pierre KERMAINGUY.
+Description: Frère carme.
+Status: Gradué.
+Gender: male.
+Active during: %1464-1471%.
+Born in: Bretagne (Saint-Pol-de-Léon)..
+Diocese of origin: Diocèse de Léon..
+Studied at: Paris ?.
+Academic grades obtained: Maître ès arts ?; Bachelier ne théologie (Paris) ?.
+Religious order: O. Carm. : frère carme..
+Religious functions: Provincial (carme) de Bretagne ?.
+University functions: Paris (Faculté de Théologie : maître-régent au ouvent carme en %1464-1465) ;.
+Authored work: 'Commentaires', composed around ?.
+Authored work: '(Histoire ecclésiastique)', composed around ?.
+Authored work: '(Histoire de l’ordre des Carmes)', composed around ?.
+Authored work: '(Critique des constitutions d’Aristote)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/10/2025).

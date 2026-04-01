@@ -1,0 +1,9 @@
+PERSON: SIMON de Vallibus
+Also known as: Simon DE VALLIBUS.
+Description: Maître ?.
+Status: Maître.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Maître (Paris) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 13/09/2024..

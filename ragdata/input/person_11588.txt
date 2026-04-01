@@ -1,0 +1,10 @@
+PERSON: STEPHANUS Husson
+Also known as: Stephanus HUSSON; Étienne HUSSON.
+Description: Étudiant ès arts.
+Status: Étudiant.
+Gender: male.
+Active during: %1384-1384%.
+Studied at: Paris (Collège de Navarre) ;.
+Academic grades obtained: Étudiant ès arts (Paris) ..
+College affiliation: Boursier en Arts au Collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 03/04/2023)..

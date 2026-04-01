@@ -1,0 +1,25 @@
+PERSON: PETRUS Thomae
+Also known as: Petrus THOMAE.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1300-1340%.
+Born in: Castille (Galice)..
+Studied at: Paris ;.
+Academic grades obtained: Maître en théologie (Paris) ?.
+Academic relationships: Son maître est Johannes DUNS Scotus..
+Religious order: O.F.M. : frère franciscain..
+University functions: Barcelone (Lecteur en théologie au couvent franciscain vers %1317-1332%)..
+Authored work: 'Commentarium in I Sententiarum', composed around ?.
+Authored work: 'De Divite Christiano', composed around ?.
+Authored work: 'Liber de Originali Virginis Conceptione', composed around ?.
+Authored work: 'Quodlibeta', composed around ?.
+Authored work: 'Quaestiones XV de ente', composed around ?.
+Authored work: 'De Esse intelligibili', composed around ?.
+Authored work: 'Quaestiones de modis distinctionis', composed around ?.
+Authored work: 'Quaestiones de unitate minori', composed around ?.
+Authored work: 'Retractatio supra Quaestiones de ente', composed around ?.
+Authored work: 'Brevissimus Tractatus Septemplicis Distinctionis', composed around ?.
+Authored work: 'Commentarium in VIII Libros physicorum', composed around ?.
+Authored work: 'Quaestiones in Metaphysicam Aristotelis', composed around ?.
+Source: Répertoire des auteurs franciscains préparé par Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress :.

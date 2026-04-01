@@ -1,0 +1,14 @@
+PERSON: NICOLAUS Durand
+Also known as: Nicolaus DURAND; Nicolaus DURANT.
+Description: Hôte du collège de Dainville.
+Status: Maître.
+Gender: male.
+Active during: %1508-1510%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Noyon ;.
+Studied at: Paris (Nation de Picardie) en ..
+Academic grades obtained: Maître ès arts (Paris) ;.
+College affiliation: Collège de Beauvais : étudiant pour son cursus de triennium et régent en grammaire ;; Collège de Dainville : hôte en %1508-1510% ;.
+Academic relationships: Son maître est Philippus de NOZIERES pendant son cursus ès arts au collège de Beauvais ;.
+University functions: Paris (Faculté des Arts : maître-régent in grammaticalibus au collège de Beauvais pendant deux ans) ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

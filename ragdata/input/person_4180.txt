@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Camera senior
+Also known as: Guillelmus de CAMERA; Guillaume de CAMERA; Guillaume de LA CHAMBRE; Guillaume de LA CHAMBRE l'ancien.
+Description: Doyen de la Faculté de médecine.
+Status: Maître.
+Gender: male.
+Active during: %1370-1426%.
+Studied at: Paris (Nation de France) %1370-1426%..
+Academic grades obtained: Étudiant ès arts (Paris) ;; Maître ès arts (Paris) avant ;; Étudiant en médecine (Paris) %1375-1379% ;; Maître en médecine (Paris) ..
+Family relationships: Sa femme est Ysabel LA ROMAINE ; Son fils est Jean de LA CHAMBRE, écuyer ; Son fils est Guillaume de LA CHAMBRE, médecin..
+Ecclesiastical status: Clerc du diocèse de Sens ;; Clericus uxoratus : il est marié ;.
+University functions: Paris (Faculté de Médecine : Maîtrerégent ) ;; Paris (Faculté de Médecine : Doyen élu en novembre ) ;.
+Authored work: 'Recepta contra fluxum dissintericum', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux, révision, Jean-Philippe Genet, 03/05/2020)..

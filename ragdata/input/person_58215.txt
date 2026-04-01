@@ -1,0 +1,11 @@
+PERSON: VALENTINUS de Nadasd
+Also known as: Valentinus de NADASD.
+Description: Franciscain observant.
+Status: Étudiant.
+Gender: male.
+Active during: %1500-1500%.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) ..
+Religious order: O.F.M. : frère franciscain observant..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour, 08/11/2024..

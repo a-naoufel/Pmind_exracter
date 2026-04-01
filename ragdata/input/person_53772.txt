@@ -1,0 +1,10 @@
+PERSON: P. de Baiona
+Also known as: P. de BAIONA.
+Description: Chanoine de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1256-1258%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Rodez %1256-1258% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 21/05/2022..

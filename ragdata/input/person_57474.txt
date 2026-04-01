@@ -1,0 +1,14 @@
+PERSON: PETRUS de Falco
+Also known as: Pierre de FALCO.
+Description: Maître en théologie franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1280-1300%..
+Academic grades obtained: Maître en théologie (Paris)..
+Religious order: O.F.M. : frère franciscain ;.
+Religious functions: Provincial (franciscain) d’Aquitaine..
+University functions: Paris (Faculté de Théologie : Maître-régent au couvent franciscain après ?) ?; Rome (Curie : lecteur) ;.
+Authored work: '(Commentaire sur les Sentences)', composed around ?.
+Authored work: 'Quaestiones disputatae ordinariae', composed around ?.
+Authored work: 'Quaestiones disputatae de Quodlibet', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 16/02/2024)..

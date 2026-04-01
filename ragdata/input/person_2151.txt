@@ -1,0 +1,41 @@
+PERSON: ERHARDUS Windsberger
+Also known as: Erhart WINDSBERGER; Erhart WINDSBERG; VENTIMONTANUS; AEOLIDES.
+Description: Médecin humaniste.
+Status: Maître.
+Gender: male.
+Active during: %1460-1504%.
+Born in: Alémanie (Bâle)..
+Diocese of origin: Diocèse de Bâle..
+Studied at: Paris (Nation Anglo-allemande) %1463-:1476% ;; Ingolstadt %1476-1480%..
+Academic grades obtained: Bachelier ès arts (Paris) %1463-1464% ;; Licencié ès arts (Paris) %1466-1467% ;; Bachelier en médecine (Paris) ;; Maître en médecine (Paris) ..
+Family relationships: Son père est Blasius WINDSBERGER, bourgeois de Bâle ; Sa mère est Margarita WINDSBERGER ; Sa femme est Agnès SCHALER ;.
+Academic relationships: Son maître pour le grec est Gregorius TIFERNAS à Paris ..
+Social origin: Bourgeoisie.
+University functions: Paris (Nation Anglo-allemande en ) ;; Ingolstadt : professeur de médecine et de poésie %1476-1477% ;; Ingolstadt (Faculté de Médecine : doyen en %1476-1477% et en %1479-1480%)..
+Authored work: 'Christi sancta parens alto que ex sanguine ducis', composed around %1467-1476% à Paris..
+Authored work: 'Criste Dei virtus summi genitura creantis', composed around %1467-1476% à Paris..
+Authored work: 'Regina excellens Christi dignissima mater', composed around %1467-1476% à Paris..
+Authored work: 'O decus aethereum virgo sanctissima mater', composed around %1467-1476% à Paris..
+Authored work: 'Rhetorica epistolaris', composed around ?.
+Authored work: '(Préface en vers pour l’édition des Tusculanae Disputationes de Cicéron)', composed around ..
+Authored work: '(Préface en vers pour l’édition des Epistulae de Phalaris, Brutus et Crates)', composed around ..
+Authored work: '(Préface en vers pour l’édition des Satires de Juvénal)', composed around ..
+Authored work: 'Epistola astrologica ad Hartmannum de Eptingen, canonicum Basileensem', composed around , dedicated to Adressé à Hartmann de EPTINGEN, chanoine de Bâle..
+Authored work: 'Ad laudem astrologie panegiricus', composed around ?.
+Authored work: 'Ars nimium dilecta Deo divina polorum', composed around ?.
+Authored work: 'Astra regunt mundum corpus vitamque necemque', composed around ?.
+Authored work: 'Consilium in tinnitu aurium cum diminutione auditus', composed around ?.
+Authored work: 'Consilium pro Wilhelmo [de Reichenau], presule Eystetensi', composed around ?.
+Authored work: 'Panegiricus ad medicine laudem', composed around ?.
+Authored work: 'Epistola ad Johannem Reuchlin', composed around (22 juillet)., dedicated to Adressé à Johannes REUCHLIN..
+Authored work: '[Épigramme contre Alexandre VI]', composed around ?.
+Authored work: 'Epigramma de Conrado Heingarter', composed around ?.
+Authored work: 'Epistola ad bonarum artium amatores', composed around ?.
+Authored work: 'Epitaphium Ventimontani', composed around ?.
+Authored work: 'Epistola ad Henricum Luppulum', composed around ?, dedicated to Adressée au poète Henricus LUPPULUS..
+Authored work: 'Epigramma ad Andream Helmut', composed around ?, dedicated to Adressé à Andreas HELMUT..
+Authored work: 'De fabulis poetarum', composed around ?.
+Authored work: 'Quom videam variis intentos artibus omnes', composed around ?.
+Authored work: 'Recepta in exhortacione et judicium contra venenum Turcorum', composed around ?, dedicated to Dédié au sénat et au peuple de Nuremberg en ..
+Authored work: 'Recepta concordie pro dominis doctoribus med. de Nuremberga', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 16/09/2015)..

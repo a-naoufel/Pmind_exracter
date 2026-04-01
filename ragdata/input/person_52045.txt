@@ -1,0 +1,12 @@
+PERSON: THOMAS de Linione
+Also known as: Thomas de LINIONE.
+Description: Cistercien.
+Status: Gradué.
+Gender: male.
+Active during: %1449-1450%.
+Studied at: Paris %1449-1450%..
+Academic grades obtained: Bachelier curseur (Paris) %1449-1450%.; Bachelier en théologie (Paris) %1449-1450%..
+College affiliation: Collège des Bernardins en %1449-1450% ?.
+Religious order: O.Cist. : moine cistercien..
+University functions: Paris (Faculté de Théologie : lecteur curseur en (6 juillet pour le second cours)) ;; Paris (Faculté de Théologie : lecteur des Sentences en )) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/03/2021)..

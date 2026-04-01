@@ -1,0 +1,9 @@
+PERSON: BARTHOLOMAEUS de Moncy
+Also known as: Barthélémy de MONCY.
+Description: Maître in utroque jure..
+Status: Maître.
+Gender: male.
+Active during: %1220-1230%.
+Studied at: Paris %:1220:-:1230:%..
+Academic grades obtained: Maître in utroque jure (Paris) %:1220:-:1230:%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 11/12/2020..

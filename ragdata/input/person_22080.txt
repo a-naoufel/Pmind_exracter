@@ -1,0 +1,10 @@
+PERSON: EUSTASIUS de Tourliaco
+Also known as: Eustasius de TOURLIACO; Eustasius de TOURNIACO.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1296-1305%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Chanoine de Rouen %1296-1305% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 27/07/2021)..

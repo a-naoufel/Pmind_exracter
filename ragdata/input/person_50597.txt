@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Campanso
+Also known as: Guillelmus de CAMPANSO.
+Description: Docteur en décret.
+Status: Maître.
+Gender: male.
+Active during: %1329-1329%.
+Studied at: Paris ..
+Academic grades obtained: Docteur en décret (Paris) ;.
+Ecclesiastical positions held: Curé de Magny au dicèse d’Autun ;; Chantre de l’églisecollégiale de Villemaur au dicèse de Troyes ;; Provision pour un canonicat avec expectative de prébende d’Auxerre en réponse au rotulus de (30 juin) : mandat à l’évêque de Paris, au chantre de Besançon et à l’abbé de Paris (Sainte-Geneviève) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 28/02/2020..

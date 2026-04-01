@@ -1,0 +1,11 @@
+PERSON: Decanus de Melduno
+Also known as: Decanus de Melduno.
+Description: Doyen de Melun ?.
+Status: Maître.
+Gender: male.
+Active during: %1290-1290%.
+Studied at: Paris (Faculté de Décret) en ..
+Academic grades obtained: Maître ?.
+Ecclesiastical positions held: ?Doyen de Melun (Melduno) en ..
+University functions: Paris (Faculté de Décret : maître-régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 08/05/2021..

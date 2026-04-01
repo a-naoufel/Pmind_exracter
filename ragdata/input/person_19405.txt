@@ -1,0 +1,10 @@
+PERSON: FIRMINUS de La Croix
+Also known as: Firminus de LACROIX.
+Description: Nonce.
+Status: Suppôt.
+Gender: male.
+Active during: %1482-1482%.
+Born in: Picardie..
+Studied at: Paris (Nation de Picardie) ..
+University functions: Paris (Nation de Picardie, "nuncius eques" ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 5/08/2021)..

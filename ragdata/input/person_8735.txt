@@ -1,0 +1,12 @@
+PERSON: LUDOLFUS de Ludis
+Also known as: Ludolfus de LUDE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1394-1402%.
+Born in: Saxe ?.
+Studied at: Vienne %1394-1398% ;; Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Vienne) ;; Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Conrardus de ESLINGHA pour la licence et la maîtrise en ;.
+University functions: Paris (Nation Anglo-allemande : il obtient en (8 juillet) en tant que maître des litera recommendatoria adressées à Johannes de DULMEN, évêque de Lübeck) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 31/08/2023..

@@ -1,0 +1,12 @@
+PERSON: RICARDUS de Narcy
+Also known as: Ricardus de NARCY.
+Description: Chanoine du Val-des-Écoliers.
+Status: Maître.
+Gender: male.
+Active during: %1201-1225%.
+Born in: Lorraine ?.
+Studied at: Paris..
+Academic grades obtained: ?Maître en théologie (Paris) ?.
+Religious order: O.S.A. : chanoineaugustin du Val-des-Écoliers ;.
+Religious functions: Prieur du Val-des-Écoliers ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 05/07/2023)..

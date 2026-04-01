@@ -1,0 +1,12 @@
+PERSON: HUGO de Gouy 2
+Also known as: Hugo de GOUY.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1449-1486%.
+Studied at: Paris %1452-1458%?..
+Academic grades obtained: Étudiant (Paris) %1452-1458%?.
+Ecclesiastical status: Prêtre en ;.
+Religious order: O.S.B. : moine bénédictin du monastère de Saint-Vaast (diocèse d'Arras) le 5 mai ..
+Religious functions: Socius au prieuré de Haspres (diocèse de Cambrai) en ;; Socius au prieuré de Saint-Michel (diocèse d'Arras) en ;; Quatrième prieur de Saint-Vaast en ;; Quatrième prieur de Saint-Vaast en ;; Troisième prieur de Saint-Vaast en ;; Vinitor de Saint-Vaast en ;; Official en charge du vin de Saint-Vaast en ;; Prieur de Gorre (diocèse de'Arras) en ;; Receptor des taxes et des revenus de Saint-Vaast en ;; Grand-prieur de Saint-Vaast en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 27/10/2021.2 (n°295)..

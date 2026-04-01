@@ -1,0 +1,37 @@
+PERSON: GUIARDUS Laudunensis
+Also known as: Guiardus LAUDUNENSIS; Guiardus de LAUDUNO; Guido LAUDUNENSIS; Guiard de LAON.
+Description: Évêque de Cambrai.
+Status: Maître.
+Gender: male.
+Active during: %1190-1248%.
+Born in: Picardie (Laon ?)..
+Diocese of origin: Diocèse de Laon..
+Studied at: Paris %:1210-1226:%..
+Academic grades obtained: Étudiant en théologie (Paris) à partir de ;; Licencié en théologie (Paris) ;; ?Maître en théologie (Paris) ..
+Social origin: Noble ?.
+Ecclesiastical positions held: Official de Troyes %1214-1221% ;; Archidiacre de Troyes %1215-1221% ;; Chanoine de Paris en ;; Chancelier de Paris %1236-1238% ;; Évêque de Cambrai %1238-1248% ;; Élu au siège de Laon..
+University functions: Paris (Faculté de Théologie : maître-régent ?%1222-1237%) ;; Paris (Université de Paris : chancelier, %1237-1238%)..
+Representation roles: Participe au concile de Lyon en ..
+Authored work: '(Quaestiones theologicae I [14]) De dotibus anime', composed around ?.
+Authored work: '(Quaestiones theologicae II [15]) De oculis', composed around ?.
+Authored work: '(Quaestiones theologicae III [14]) De timore', composed around ?.
+Authored work: '(Quaestiones theologicae IV [130]) De prophetia', composed around ?.
+Authored work: '(Quaestiones theologicae V [273] De inferno', composed around ?.
+Authored work: 'Quaestiones theologicae VI [290] De veto, de Trinitate', composed around ?.
+Authored work: 'Quaestiones theologicae VII [425] Cur Deus homo secundum quod dicit Anselmus', composed around ?.
+Authored work: 'Quaestiones theologicae VIII [458] De peccato veniali', composed around ?.
+Authored work: 'Quaestiones theologicae IX [466] De homicidio', composed around ?.
+Authored work: 'Quaestiones theologicae X [500] De fide.', composed around ?.
+Authored work: 'Quaestiones theologicae XI [511] De peccato omissionis', composed around ?.
+Authored work: 'Quaestiones theologicae XII [512] De peccato omissionis', composed around ?.
+Authored work: 'Rationes quod beata Virgo Maria assumpta est in corpore et anima', composed around ..
+Authored work: 'Summula sermonum quae dicitur duplex status', composed around ?.
+Authored work: 'De XII fructibus venerabilis sacramenti', composed around .
+Authored work: 'Des XII Preus que li sacrement fait', composed around .
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Sermo in Curia Romana', composed around %1227-1228%..
+Authored work: 'Sermones de passione domini', composed around ?.
+Authored work: 'Dialogus de creatione mundi ex dictis Platonis', composed around ..
+Authored work: 'De consolatione humanae naturae', composed around ..
+Authored work: 'Statuts synodaux', composed around ?%1238-1240%..
+Source: ARLIMA (Laurent BRUN) article « Robert le Chartreux » :.

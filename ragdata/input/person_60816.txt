@@ -1,0 +1,12 @@
+PERSON: HENRICUS Ghiselberti
+Also known as: Henricus GHISELBERTI.
+Description: Chanoine de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1479-1484%.
+Diocese of origin: Diocèse de Cambrai ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Sous-diacre en ;.
+Ecclesiastical positions held: Chanoine de Cambrai %1479-1484% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 03/01/2026..

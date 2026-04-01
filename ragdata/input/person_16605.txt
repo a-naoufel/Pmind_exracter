@@ -1,0 +1,11 @@
+PERSON: CONRADUS Roseian
+Also known as: Conradus ROSEIAN; Conrad de BRUNSVICK; Conrad de SAXONIA.
+Description: Maître ès arts..
+Status: Maître.
+Gender: male.
+Active during: %1483-1486%.
+Born in: Saxe..
+Studied at: Paris (Nation Anglo-germanique ?) ;; Montpellier %1486-1486%..
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en médecine (Montpellier) ..
+University functions: Montpellier (Faculté de Médecine : lecteur en (26 octobre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 28/04/2021)..

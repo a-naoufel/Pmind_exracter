@@ -1,0 +1,13 @@
+PERSON: PETRUS Corderii 1
+Also known as: Petrus CORDERII.
+Description: Doyen du Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1270-1280%.
+Born in: Lyonnais (Lyon) ?.
+Diocese of origin: Diocèse de Lyon ;.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical status: Sous-diacre ;.
+Ecclesiastical positions held: Chanoine de LeMans %1270-1280% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 08/08/2023)..

@@ -1,0 +1,11 @@
+PERSON: RAIMUNDUS 7
+Also known as: RAYMUNDUS.
+Description: Écolier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1376-1379%.
+Studied at: Paris %1376-1379%..
+Academic grades obtained: Étudiant (Paris) %1376-1379%..
+College affiliation: Collège de Dormans-Beauvais : écolier-boursier en %1376-1379% ;.
+Family relationships: Son cousin est Jean de COURCELLES ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 20/05/2022..

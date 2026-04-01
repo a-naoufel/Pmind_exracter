@@ -1,0 +1,9 @@
+PERSON: THEOBALDUS 4
+Also known as: THEOBALDUS; THIBAUD.
+Description: Chancelier du comte de Blois.
+Status: Extérieur.
+Gender: male.
+Active during: %1200-1200%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/09/2023)..

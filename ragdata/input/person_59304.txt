@@ -1,0 +1,10 @@
+PERSON: PETRUS de Castra
+Also known as: Petrus de CASTRA.
+Description: Chanoine d’Auxerre.
+Status: Incertain.
+Gender: male.
+Active during: %1256-1279%.
+Studied at: ?.
+Academic grades obtained: Maître ;; Etudiant en théologie ;.
+Ecclesiastical status: Chanoine d’Auxerre %1256-1279% ;; Chanoine de Bourges ;; Chanoine de Chartres ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 01/07/2025)..

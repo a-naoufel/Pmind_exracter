@@ -1,0 +1,13 @@
+PERSON: NICOLAUS de Trajecto
+Also known as: Nicolaus de TRAJECTO.
+Description: Évêque d'Argos.
+Status: Incertain.
+Gender: male.
+Active during: %1301-1324%.
+Born in: Italie (Latium : Traiecto ?) ;.
+Diocese of origin: Diocèse de Gaète ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Traiecto (Saint-Pierre) , ;; Chanoine de Fundi , ;; Chanoine de Scaulis ;; Chanoine d’Évreux %1303-1311% ;; Chanoine de Corinthe ;; Chanoine d’Athènes ;; Doyen d’Athènes ;; Doyen de Patras ;; Évêque d’Argos %1311-1324% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/03/2023)..

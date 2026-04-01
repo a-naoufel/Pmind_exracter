@@ -1,0 +1,11 @@
+PERSON: MAINERIUS
+Also known as: MAINERIUS.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1136-1173%.
+Studied at: Paris..
+Academic grades obtained: Maître..
+Academic relationships: Son maître est Pierre ABÉLARD ;.
+Ecclesiastical positions held: Chanoine de Paris ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/04/2024)..

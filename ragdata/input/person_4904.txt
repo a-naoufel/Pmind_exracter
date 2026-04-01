@@ -1,0 +1,35 @@
+PERSON: HENRICUS de Gandavo
+Also known as: Henricus de GANDAVO; Henrici de GANDAVO; Henricus GANDAVENSIS; Henri de GAND.
+Description: Archidiacre de Bruges et Tournai.
+Status: Maître.
+Gender: male.
+Active during: %1267-1293%.
+Born in: Flandres (Gand)..
+Diocese of origin: Diocèse de Tournai..
+Studied at: Paris (Nation de Picardie)..
+Academic grades obtained: Maître ès arts (Paris) ;; Maître en théologie (Paris) en ..
+Family relationships: Son père est Jean de SCEPPERE, tailleur..
+Social origin: Commun..
+Ecclesiastical positions held: Chanoine de Tournai en ;; Archidiacre de Bruges en ;; Archidiacre de Tournai en ..
+University functions: Paris (Faculté de Théologie ; maître-régent %1276-1292%)..
+Representation roles: Il prit part au Concile de Lyon en ;; Il prit part au Concile de Sens ;; Il prit part au Concile de Montpellier ;; Il prit part au Concile de Cologne ;; Il prit part au Concile de Compiègne..
+Authored work: 'Sermo in die festo Sanctae Catharinae', composed around (25 novembre) ;.
+Authored work: 'Sermo in Synodo, feria II post Misericordiam Domini', composed around ou.
+Authored work: 'Sermo', composed around ?.
+Authored work: 'De poenitentia', composed around ?.
+Authored work: 'De virginitate', composed around ?.
+Authored work: 'Lectura ordinaria super Sacram Scripturam', composed around ?.
+Authored work: 'Summa quaestionum ordiniarum', composed around ?.
+Authored work: 'Quodlibeta', composed around ‘in Adventu’ : Quodlibet I, 42 q..
+Authored work: 'Syncategorematum liber', composed around ?.
+Authored work: 'Quaestiones super Decretalibus', composed around ?.
+Authored work: 'Quaestio de correctione fraterna', composed around ?.
+Authored work: 'Questiones super libros Metaphysice', composed around ?.
+Authored work: 'Philosophia Aristotelis ad mentem Henrici de Gandavo explicata', composed around ?.
+Authored work: 'Quaest. De anima', composed around ?.
+Authored work: 'Quaestiones super VIII libros Physicorum', composed around .
+Authored work: 'Comment. De generatione et corruptione', composed around ?.
+Authored work: 'Quaestiones in librum De causis', composed around ?.
+Authored work: 'Quaestiones in librum De celo et mundo', composed around ?.
+Authored work: 'Quaestiones in librum Meteororum', composed around ?.
+Source: ARLIMA : Laurent BRUN :.

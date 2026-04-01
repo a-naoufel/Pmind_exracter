@@ -1,0 +1,7 @@
+PERSON: CLEMENTIA de Belvaco
+Also known as: Clementia de BELVACO.
+Description: "Poteria de stanno".
+Status: Extérieur.
+Gender: female.
+Active during: %1322-1322%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 20/04/2021..

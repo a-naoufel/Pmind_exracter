@@ -1,0 +1,11 @@
+PERSON: GILBERTUS de Sanaa
+Also known as: Gilbertus de SANAA.
+Description: Chanoine de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1286-1286%.
+Studied at: ?.
+Academic grades obtained: Magister.
+Social origin: Naissance illégitime ;.
+Ecclesiastical positions held: Chanoine de Tournai ;; Chanoine de Bayeux ;; Chanoine de Paris ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/05/2017..

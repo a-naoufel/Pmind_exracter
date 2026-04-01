@@ -1,0 +1,7 @@
+PERSON: GERARDUS 7
+Also known as: GERARDUS; GUERARDUS.
+Description: Tailleur de pierre.
+Status: Extérieur.
+Gender: male.
+Active during: %1469-1471%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 8/05/2018)..

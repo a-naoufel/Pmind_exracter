@@ -1,0 +1,12 @@
+PERSON: GALTERIUS de Villari
+Also known as: Galterus de VILLARI.
+Description: Cistercien.
+Status: Gradué.
+Gender: male.
+Active during: %1433-1433%.
+Studied at: Paris ..
+Academic grades obtained: Bachelier biblique ..
+College affiliation: Collège des Bernardins en ?.
+Religious order: O.Cist. : moine cistercien..
+University functions: Paris (Faculté de Théologie : lecteur de la Bible en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/03/2021)..

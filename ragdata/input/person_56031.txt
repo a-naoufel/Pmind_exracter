@@ -1,0 +1,11 @@
+PERSON: PETRUS Jaquoti
+Also known as: Petrus JAQUOTI.
+Description: Chanoine de Troyes.
+Status: Incertain.
+Gender: male.
+Active during: %1491-1527%.
+Studied at: ?.
+Academic grades obtained: Licencié en droit canon ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Troyes %1491-1527% ;; Curé de Villeloup (diocèse de Troyes) ;; Doyen de Troyes (Saint-Étienne) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 14/05/2023..

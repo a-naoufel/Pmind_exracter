@@ -1,0 +1,10 @@
+PERSON: ANDREAS Helmut
+Also known as: Andreas HELMUT.
+Description: Professeur de droit à Bâle.
+Status: Étudiant.
+Gender: male.
+Active during: %1465-1505%.
+Studied at: Paris ?; Bâle, à partir de ..
+Academic grades obtained: Étudiant (Paris) ?; Maître ès arts (Bâle) ;; Licencié en droit (Bâle) ..
+University functions: Bâle (Faculté des Arts : maître-régent à partir de ) ;; Bâle (Faculté des Arts : doyen %1472-1473%, , , ).; Bâle (Faculté de Droit : professeur) ;.
+Source: RAG ;.

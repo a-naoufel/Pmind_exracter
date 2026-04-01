@@ -1,0 +1,53 @@
+PERSON: GERARDUS Groot de Davantria
+Also known as: Gerardus MAGNUS; Gerardus GROOT de Davantria; Gerardus GROET de Davantria; Gerardus de DAVENTRIA; Gerardus GROTE; Gérard GROOTE; Gerard de DEVENTER; Gérard MAGNUS.
+Description: Maître ès arts..
+Status: Maître.
+Gender: male.
+Active during: %1355-1384%.
+Born in: Pays-Bas (Deventer)..
+Diocese of origin: Diocèse d'Utrecht..
+Studied at: Paris (Nation Anglo-allemande), %1355-1366% ;; Cologne ;; Prague..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Maître ès arts (Paris) ;; Étudiant en droit canon (Paris) ?; Étudiant en médecine (Paris) ?; Étudiant ès-lois..
+College affiliation: Collège de Sorbonne ?.
+Academic relationships: Son maître est Johannes de LOVANIO pour le baccalauréat en ;.
+Social origin: Bourgeoisie ;.
+Ecclesiastical status: Diacre en ..
+Ecclesiastical positions held: Chanoine d'Utrecht (Saint-Martin) %....-1374% ;; Chanoine d'Aix-la-Chapelle (Notre-Dame) %...-1374% ;; Recteur d'Oldekerken %...-1375%..
+University functions: Paris (Nation Anglo-allemande : en , il paie un écu à la Nation pour sa joyeuse entrée après avoir assisté la première fois à la réunion des M.A. de cette nation) ;; Cologne : il enseigne la philosophie et la théologie..
+Representation roles: Plusieurs ambassades pour le compte de la ville de Deventer, notamment une à Avignon en ..
+Authored work: 'Epistolae', composed around ?.
+Authored work: 'Conclusa et proposita, non vota', composed around .
+Authored work: '[Tractatus de Simonia ad beguttas, version nérlandaise]', composed around %1380-1383%, dedicated to A la demande des béguines de Zwolle ou des béguines de Kampen ?.
+Authored work: '[Tractatus de Simonia ad beguttas, version latine]', composed around %1380-1383%.
+Authored work: 'De ornatu spiritualis desponsationis', composed around ?.
+Authored work: 'Argumentatio suppletiva in defensionem secundi dicti', composed around ?.
+Authored work: 'De quattuor generibus meditabilium', composed around ?.
+Authored work: 'Sermo de focaristis ad clerum Traiectensem', composed around ?.
+Authored work: 'Quinque dicta seu puncta circa focaristas', composed around ?.
+Authored work: 'Articuli XXIV de notoriis focaristis', composed around ?.
+Authored work: 'Contra dictum meum tertium', composed around ?.
+Authored work: 'Contra turrim Traiectensem', composed around ?.
+Authored work: 'De cohabitatione et de exercitiis devotorum', composed around ?.
+Authored work: 'De communione', composed around ?.
+Authored work: 'De compunctione et de eruditione scolarium', composed around ?.
+Authored work: 'De contractibus et usuris', composed around ?.
+Authored work: 'De conversatione interna', composed around ?.
+Authored work: 'De cura pastorali', composed around ?.
+Authored work: 'De duodecim virtutibus', composed around ?.
+Authored work: 'Speculum salutis eterne', composed around ?.
+Authored work: 'De locatione ecclesiarum', composed around ?.
+Authored work: 'De matrimonio', composed around ?.
+Authored work: 'De recusatione status presbyteri', composed around ?.
+Authored work: 'De sacramento', composed around ?.
+Authored work: 'De septem clausuris', composed around ?.
+Authored work: 'De septem gradibus divini amoris', composed around ?.
+Authored work: 'De vita activa', composed around ?.
+Authored work: 'De vita in communi degentium', composed around ?.
+Authored work: 'Observationes quattuor de presbyteris fornicatoriis notoriis', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Statuta domus a magistro Gerardo feminis devotis destinatae', composed around ?.
+Authored work: 'Leeringhe ende onderscheit van der sonden der symonien', composed around ?.
+Authored work: 'Tractatus de astrologia', composed around ?.
+Authored work: 'Epistola de schismate', composed around ?.
+Authored work: 'Tractatus de paupertate', composed around ?.
+Source: MIRABILE, Andrea CENCINI :.

@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS Aux Cousteaux
+Also known as: Guillaume AUXCOUSTEAUX.
+Description: Chanoine d'Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1452-1511%.
+Born in: Picardie ;.
+Diocese of origin: Diocèse de Amiens ;.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;; Bachelier en théologie ;.
+Family relationships: Son parent est Jacques AUXCOUSTEAUX, curé de Amiens (Saint-Rémi) ;.
+Social origin: Bourgeoisie d'Amiens ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d'Amiens %1469-1511% ;; Curé d'Amiens (Saint-Rémi) %1499-1511% ;.

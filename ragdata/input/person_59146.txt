@@ -1,0 +1,10 @@
+PERSON: SIMON Cousin
+Also known as: Simon COUSIN.
+Description: Chanoine de Châlons.
+Status: Incertain.
+Gender: male.
+Active during: %1450-1450%.
+Studied at: ?.
+Academic grades obtained: Bachelier in utroque jure ;.
+Ecclesiastical positions held: Chanoine de Châlons-en-Champagne ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/06/2025.

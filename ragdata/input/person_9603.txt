@@ -1,0 +1,7 @@
+PERSON: ODELINA 2
+Also known as: ODELINA.
+Description: Propriétaire d'une maison.
+Status: Extérieur.
+Gender: female.
+Active during: %1287-1287%.
+Family relationships: Sa mère est ALANA l'ancienne..

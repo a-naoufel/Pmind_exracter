@@ -1,0 +1,14 @@
+PERSON: ALANUS de Rupibus
+Also known as: Alanus de RUPIBUS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1403-1403%.
+Born in: Normandie..
+Diocese of origin: Diocèse de Bayeux..
+Studied at: Paris (Nation de Normandie) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+College affiliation: Collège de Maître-Gervais : socius ;; Boursier artien au collège de Maître-Gervais en ,.
+Ecclesiastical status: Prêtre du diocèse de Bayeux,.
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus de ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/05/2020)..

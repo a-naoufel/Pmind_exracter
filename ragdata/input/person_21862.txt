@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Baudry
+Also known as: Guillelmus BAUDRY.
+Description: Archidiacre du Vexin français.
+Status: Incertain.
+Gender: male.
+Active during: %1440-1471%.
+Studied at: ?.
+Academic grades obtained: Bachelier en droit canon ;; Licencié en droit civil ;.
+Ecclesiastical positions held: Chanoine de Gracay %1440- % ;; Chanoine de Chartres %1447-1471% ;; Archidiacre du Vexinfrançais %1455-1471% ;.
+Other ecclesiastical functions: Chambrier de Chartres %1447-1471% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 21/02/2022..

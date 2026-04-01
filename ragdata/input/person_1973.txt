@@ -1,0 +1,27 @@
+PERSON: DIONYSIUS de Burgo Sancti Sepulcri
+Also known as: Dionysius de BURGOSANCTISEPULCRI; Dionysius de ROBERTIS; Dionigio da BORGOSANSEPOLCRO; Denis de BOURC.
+Description: Augustin.
+Status: Maître.
+Gender: male.
+Active during: %1300-1342%.
+Born in: Toscane (Borgo-San-Sepolcro)..
+Studied at: Paris %:1317-1328%..
+Academic grades obtained: Bachelier sententiaire (Paris) %1317-1318%.; Maître en théologie (Paris) %1323-1324%..
+College affiliation: Couvent des Grands-Augustins à Paris ;.
+Religious order: O.E.S.A : frère du couvent (augustin) de Borgo-San-Sepolcro..
+Religious functions: Chapitregénéral (augustin) de Paris : définiteur ;; Chapitregénéral (augustin) de Venise : définiteur général ;; Chapitregénéral (augustin) de Grasse en ;; Provincial (Vallis Spoletane) des Augustins..
+Ecclesiastical positions held: Evêque de Monopoli %1340-1342%..
+University functions: Paris (Faculté de Théologie : maître-régent %1323-1328%) ;; ?Naples (Couvent Augustin : maître-régent de théologie %1338-1340% ? )..
+Authored work: '(Comment. super Sentent.)', composed around ?.
+Authored work: '(Comm. super Rom.)', composed around ?.
+Authored work: '(Comm. super Epp. Pauli)', composed around ?.
+Authored work: 'Compendium logicae iuxta doctrinam em. ac fund. Aegidii Columnae', composed around ?.
+Authored work: '(Commentaire sur la Poètique)', composed around ?.
+Authored work: '(Commentaire sur la Rhétorique)', composed around ?.
+Authored work: '(Commentaire sur Valère Maxime)', composed around ?, dedicated to Dédié au Cardinal Giovanni COLONNA..
+Authored work: '(Commentaire sur les Métamorphoses d’Ovide)', composed around ?.
+Authored work: '(Commentaire sur les Tragédies de Sénèque)', composed around ?.
+Authored work: '(Commentaire sur Virgile)', composed around ?.
+Authored work: '(Commentaire sur la Politique)', composed around ?.
+Authored work: 'Expositio libri Oeconmice', composed around ?.
+Source: http://www.treccani.it/enciclopedia/dionigi-da-borgo-sansepolcro_(Dizionario-Biografico)/.

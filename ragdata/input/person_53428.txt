@@ -1,0 +1,10 @@
+PERSON: OLAVUS 1
+Also known as: OLAVUS; OLAWUS.
+Description: Chanoine.
+Status: Étudiant.
+Gender: male.
+Active during: %1284-1284%.
+Born in: Norvège.
+Studied at: Paris, ..
+Ecclesiastical positions held: Chanoine de Hamar?, ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 10/02/2022..

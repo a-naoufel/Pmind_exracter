@@ -1,0 +1,7 @@
+PERSON: AEGIDIUS Duval
+Also known as: Aegidius DUVAL.
+Description: ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1511-1511%.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

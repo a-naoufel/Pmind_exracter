@@ -1,0 +1,11 @@
+PERSON: ZACHARIAS de Bureto
+Also known as: Zacharias de BURETO.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1335-1349%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Reims en %1341-1349% ;; Chanoine de Saint-Pol ;; Chanoine de Reims (Saint-Symphorien) ;.
+Other ecclesiastical functions: Vicaire-général de Jean de VIENNE, archevêque de Reims ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/05/2021..

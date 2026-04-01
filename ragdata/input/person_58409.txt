@@ -1,0 +1,13 @@
+PERSON: ANCELLUS de Garlandia 2
+Also known as: Ancellus de GARLANDIA; Anselme de GARLANDE.
+Description: Évêque de Meaux.
+Status: Maître.
+Gender: male.
+Active during: %1180-1207%.
+Born in: Île-de-France ?.
+Studied at: Paris ;.
+Academic grades obtained: Maître..
+Social origin: Noble..
+Ecclesiastical positions held: Doyen de Tours (Saint-Martin) %1192-1197% ;; Évêque de Meaux %1197-1207%..
+Representation roles: Représentant du roi de France à la conférence du Vaudreuil en et auprès de l’archevêque de Rouen en pour des négociations sur le Vexin ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 14/01/2025..

@@ -1,0 +1,12 @@
+PERSON: MATTHAEUS Tahon
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1427-1429%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en décret (Paris) en (27 mars) ;.
+Ecclesiastical status: Prêtre en ;.
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (livre III) en (15 avril) pour la 1ère année et le 1er volume) ;; Paris (Faculté de Décret : Lecteur des Décrétales (livre IV) en (14 mars) pour la 2e année et le 2e volume) ;; Paris (Faculté de Décret : Lecteur des Décrétales (livre VI) en (12 octobre) pour la 3e année et le 3e volume) ;; Paris (Faculté de Décret : Lecteur des Décrétales (livre III) en (novembre) pour la 4e année et le 4e volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 28/08/2025..

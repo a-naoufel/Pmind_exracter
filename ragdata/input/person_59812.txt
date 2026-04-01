@@ -1,0 +1,12 @@
+PERSON: ARNULPHUS 4
+Also known as: ALNULPHUS.
+Description: Chanoine de Senlis.
+Status: Incertain.
+Gender: male.
+Active during: %1339-1339% ;.
+Born in: Île-de-France (Mont-L’Évêque) ;.
+Diocese of origin: Diocèse de Senlis..
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chanoine de Senlis en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

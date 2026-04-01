@@ -1,0 +1,9 @@
+PERSON: MARTINUS de Landis
+Also known as: Martinus de LANDIS.
+Description: Procureur au Parlement de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1363-1363%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,12 @@
+PERSON: STEPHANUS de Orgemont
+Also known as: Étienne d'ORGEMONT; Thévenin d’ORGEMONT; Stephanus de ORDINOMONTE.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1413-1461%.
+Studied at: Paris %1399-1401%..
+Academic grades obtained: Étudiant (Paris) %1399-1401%..
+College affiliation: Collège de Dormans-Beauvais : boursier ;.
+Family relationships: Son père est Guillaume d’ORGEMONT, seigneur de Méry, trésorier des guerres ; Son grand-père est Pierre d’ORGEMONT, chancelier de France ; Son frère est Pierre IV d’ORGEMONT ; Son frère est Philippus d’ORGEMONT ; Son oncle est Pierre II d’ORGEMONT, évêque de Paris ; Son cousin est Pierre III d’ORGEMONT ;.
+Social origin: Noble ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 22/10/2019..

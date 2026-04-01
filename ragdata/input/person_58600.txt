@@ -1,0 +1,13 @@
+PERSON: GERARDUS de Holstein
+Also known as: Gerardus de HOLSTEIN.
+Description: Comte de Holstein-Itzenhoe.
+Status: Étudiant.
+Gender: male.
+Active during: %1244-1290%.
+Born in: AllemagneduNord (Holstein) ?.
+Studied at: Paris %1246-1248%..
+Academic grades obtained: Étudiant (Paris)..
+Family relationships: Son père est Adolphe IV de HOLSTEIN, comte de Holstein ; Sa mère est Helwige de LIPPE..
+Academic relationships: Son maître est Hermannus de SANCTO PORTU..
+Social origin: Noble : il est comte de Holstein-Itzenhoe..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 18-02-2025..

@@ -1,0 +1,9 @@
+PERSON: PETRUS Pelisson
+Also known as: Petrus PELISSON.
+Description: Nonce pour le diocèse de Lausanne.
+Status: Suppôt.
+Gender: male.
+Active during: %1447-1447%.
+Studied at: Paris (Nation de France) ..
+University functions: Paris (Nation de France : il reçoit l'office de nonce pour le diocèse de Lausanne en (8 octobre) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 07/09/2022..

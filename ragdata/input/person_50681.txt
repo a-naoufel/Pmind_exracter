@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Essey
+Also known as: Guillaume d’ESSEY.
+Description: Chanoine de Chartres ?.
+Status: Incertain.
+Gender: male.
+Active during: %1310-1310%.
+Studied at: ?.
+College affiliation: Sorbonne ?.
+Ecclesiastical positions held: Chanoine de Chartres ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 23/03/2020..

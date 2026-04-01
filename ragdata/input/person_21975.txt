@@ -1,0 +1,12 @@
+PERSON: CAROLUS Col
+Also known as: Charles COL.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1410-1410%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège de Dormans-Beauvais : boursier ;.
+Family relationships: Son père est Gontier COL ; Son oncle est Pierre COL, chanoine de Paris..
+Social origin: Bourgeoisie ;.
+Source: LAMOP : Opération Charles VI :.

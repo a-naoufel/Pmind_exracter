@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Grenet
+Also known as: Guillelmus GRENET.
+Description: Boursier du collège de Dainville.
+Status: Étudiant.
+Gender: male.
+Active during: %1404-1408%.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Dainville : visiteur, maître et écolier du collège de Dainville ;; Collège de Dainville : boursier jusqu’en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

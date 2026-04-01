@@ -1,0 +1,13 @@
+PERSON: GALFREDUS de Sancto Germano
+Also known as: Galfredus de SANCTO GERMANO.
+Description: Chancelier de Sainte-Geneviève.
+Status: Maître.
+Gender: male.
+Active during: %1362-1362%.
+Studied at: Paris.
+Academic grades obtained: Magister ?.
+Family relationships: Son père est Johannes de SANCTO GERMANO, docteur ès lois..
+Religious order: O.S.A. : Chanoinerégulier de Paris (Sainte-Geneviève) ?.
+Religious functions: Chancelier (O.S.A.) de Paris (Sainte-Geneviève) en ;.
+University functions: Paris (Université : Chancelier de Sainte-Geneviève en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 17/01/2021)..

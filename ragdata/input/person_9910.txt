@@ -1,0 +1,10 @@
+PERSON: PETRUS Maillardi
+Also known as: Petrus MAILLARDI.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1313-1333%.
+Studied at: Paris en ..
+Academic grades obtained: Magister en ;.
+Ecclesiastical positions held: Chanoineprébendé de Sens ;; Provision pour un canonicat avec expectative de prébende à la cathédrale de Bourges en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 28/03/2024)..

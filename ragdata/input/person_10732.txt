@@ -1,0 +1,15 @@
+PERSON: RENERIUS de Colonia
+Also known as: Raginarius de COLONIA; Renerus ALAMANNUS; Renier de COLOGNE.
+Description: Chanoine d'Utrecht.
+Status: Maître.
+Gender: male.
+Active during: %1300-1338%.
+Born in: Rhénanie (Cologne ?) ?.
+Diocese of origin: Diocèse de Cologne..
+Studied at: Paris %1300-1319%..
+Academic grades obtained: Maître en théologie (Paris) ?..
+Academic relationships: Son maître est peut-être Godefroid de FONTAINES..
+Ecclesiastical positions held: Chanoine d’Utrecht ;.
+University functions: Paris (Faculté de théologie : Maîtrerégent en %1318-1319%) ;.
+Authored work: 'Compendium theologiae', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 29-11-2024..

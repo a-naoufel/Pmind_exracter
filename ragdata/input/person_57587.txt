@@ -1,0 +1,10 @@
+PERSON: NICOLAUS de Roye
+Also known as: Nicolaus de ROYE.
+Description: Évêque de Noyon.
+Status: Incertain.
+Gender: male.
+Active during: %1228-1240%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Évêque de Noyon %1228-1240% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/03/2024)..

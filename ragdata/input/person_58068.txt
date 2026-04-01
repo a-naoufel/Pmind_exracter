@@ -1,0 +1,9 @@
+PERSON: INGERANNUS Desloges
+Also known as: Enguerrand DESLOGES.
+Description: Chirurgien.
+Status: Incertain.
+Gender: male.
+Active during: %1325-1325%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 18/09/2024..

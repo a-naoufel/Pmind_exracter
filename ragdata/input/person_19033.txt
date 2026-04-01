@@ -1,0 +1,10 @@
+PERSON: NICOLAUS 14
+Also known as: NICOLAUS.
+Description: Bedeau de la Faculté de Théologie.
+Status: Suppôt.
+Gender: male.
+Active during: %1385-1385%.
+Studied at: Paris ..
+Academic grades obtained: ?.
+University functions: Paris (Faculté de Théologie : bedeau en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 05/02/2021)..

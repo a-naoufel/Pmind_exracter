@@ -1,0 +1,19 @@
+PERSON: PETRUS de Hibernia
+Also known as: Petrus de HIBERNIA; Pierre d'IRLANDE.
+Description: Maître-régent à l’université de Naples.
+Status: Extérieur.
+Gender: male.
+Active during: %1232-1260%.
+Born in: Irlande ?.
+Studied at: Naples..
+Academic grades obtained: Maître ès arts.
+Academic relationships: Son élève est THOMAS d’Aquin..
+University functions: Naples (Université : maître-régent vers %1232-1240%) ;.
+Authored work: 'Comm. in librum Perihermenias', composed around ?.
+Authored work: 'Determinatio magistralis coram Manfredo rege', composed around .
+Authored work: 'Comm. in libros De longitudine et brevitate vitae', composed around ?.
+Authored work: 'Glossae circa Isagogen Johannitii', composed around ?.
+Authored work: 'Super lib. Elenchorum', composed around ?.
+Authored work: 'Quaest. in lib. Posteriorum Analyticorum', composed around ?.
+Authored work: 'Comm. In Isagore Porphyrii', composed around ?.
+Source: MIRABILE ; Federico CONTINI :.

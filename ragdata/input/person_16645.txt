@@ -1,0 +1,9 @@
+PERSON: BURELLUS Bouchier
+Also known as: Burellus BOUCHIER.
+Description: Maître de l'Hôtel du roi de France.
+Status: Extérieur.
+Gender: male.
+Active during: %1415-1453%.
+Family relationships: Sa femme est Gillette RAGUIER ; Sa fille est Martine BOUCHIER ; Son gendre est Arnaud de MARLE, garde des sceaux de France et président du Parlement, époux de Martine ; Sa fille est Jeanne BOUCHIER ; Son gendre est Pierre de MORVILLIERS, époux de Jeanne ; Son fils est Jean BOUCHIER, Maître de l'Hôtel du roi de France ; Sa soeur est Marie BOUCHIER ; Son beau-frère est Philippe d'ORGEMONT..
+Social origin: Noble..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 27/03/2021)..

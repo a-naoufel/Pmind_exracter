@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Dufresne
+Also known as: Guillelmus DUFRESNE; Guillaume DUFRESNE; Guillaume de FRAXINO; Guillaume de FRAXINIS; Guillaume FRAXIN.
+Description: Maître en médecine à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1479-1499%.
+Studied at: Paris %1479-1480% ;; Montpellier %1485-1487%..
+Academic grades obtained: Étudiant en médecine (Paris) %1479-1480% ;; Maître en médecine (Montpellier) ..
+University functions: Montpellier (Faculté de Médecine : maître-régent %1487-1489% au moins) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 26/04/2022)..

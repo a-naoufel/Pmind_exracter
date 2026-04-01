@@ -1,0 +1,9 @@
+PERSON: ROBERTUS de Besencourt
+Also known as: Robertus de BESENCOURT.
+Description: Locataire du collège de Dainville.
+Status: Extérieur.
+Gender: male.
+Active during: %1394-1408%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,15 @@
+PERSON: RICARDUS de Aduard
+Also known as: Ricardus de ADUARD.
+Description: Moine cistercien d'Aduard.
+Status: Maître.
+Gender: male.
+Active during: %1266-1266%.
+Born in: Angleterre ?.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris ?); Maître en théologie Paris ?.
+College affiliation: Collège Saint-Bernard : maître-régent %1295-1301% ;.
+Religious order: O. Cist. : Moine (cistercien) du monastère (cistercien) d'Aduard dans la région de Groningue) ;.
+Authored work: 'Liber de harmonia', composed around ?.
+Authored work: 'Liber meditationum', composed around ?.
+Authored work: '(Epistola)', composed around ?, dedicated to Adressée à un moine de Eberbach ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 12/06/2024.

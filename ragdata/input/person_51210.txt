@@ -1,0 +1,11 @@
+PERSON: RICARDUS Dare
+Also known as: Richard DARE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1407-1413%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse d’Évreux ;.
+Studied at: Paris (Nation de Normandie) %1407-1413%..
+Academic grades obtained: Maître ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/09/2020)..

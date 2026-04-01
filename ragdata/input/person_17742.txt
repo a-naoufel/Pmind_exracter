@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Bougard
+Also known as: Guillelmus BOUGARD.
+Description: Licencié en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1474-1474%.
+Studied at: Paris %1474-1474%..
+Academic grades obtained: Licencié en décret (Paris) en avril ..
+Academic relationships: Élève de Andreas WASSELIN en avril ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 28/02/2022.

@@ -1,0 +1,12 @@
+PERSON: PETRUS Feydelli
+Also known as: Pierre FEYDEAU.
+Description: Boursier au Collège de Chanac.
+Status: Incertain.
+Gender: male.
+Active during: %1495-1495%.
+Born in: Limousin ?.
+Diocese of origin: Diocèse de Limoges ;.
+Studied at: Paris ;.
+Academic grades obtained: Etudiant (Paris) ?.
+College affiliation: Collège de Chanac : boursier du collège en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

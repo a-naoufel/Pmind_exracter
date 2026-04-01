@@ -1,0 +1,12 @@
+PERSON: FRANCISCUS de Carnillione
+Also known as: Franciscus de CARNILLIONE.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1477-1477%.
+Born in: Savoie ?.
+Diocese of origin: Diocèse de Genève..
+Studied at: Paris %1477-1477%..
+Academic grades obtained: Bachelier en décret (Paris) 12 septembre ;.
+Social origin: Noble..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 26/08/2021..

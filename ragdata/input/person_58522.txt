@@ -1,0 +1,14 @@
+PERSON: PETRUS de Montmirail
+Also known as: Petrus de MONTMIRAIL.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1496-1496%.
+Born in: Champagne (Montmirail ?) ?.
+Diocese of origin: Diocèse de Soissons ?.
+Studied at: Paris (Nation de France)..
+Academic grades obtained: Maître ès arts (Paris) avant ..
+College affiliation: Collège des BonsEnfants : maître-régent avant ;.
+Academic relationships: Son élève est Ludovicus DAURON pour son cursus d’arts au Collège des BonsEnfants avant ; Son élève est Nicolaus LEBRET pour son cursus d’arts au Collège des BonsEnfants ;.
+University functions: Paris (Faculté des Arts : maître-régent avant ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/02/2025)..

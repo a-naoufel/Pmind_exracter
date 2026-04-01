@@ -1,0 +1,12 @@
+PERSON: PETRUS Bonis 1
+Also known as: Petrus BONIS.
+Description: Étudiant en médecine.
+Status: Incertain.
+Gender: male.
+Active during: %1378-1378%.
+Born in: Auvergne ;.
+Diocese of origin: Diocèse de Clermont ;.
+Studied at: Montpellier en.
+Academic grades obtained: Bachelier ès arts avant ;; Étudiant en médecine (Montpellier) ..
+Ecclesiastical status: Clerc du diocèse de Clermont en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 23/06/2021..

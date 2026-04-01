@@ -1,0 +1,10 @@
+PERSON: PETRUS de Laniis
+Also known as: Petrus de LANIIS; Petrus de LAIGNES; Petrus de LAIGNIIS.
+Description: Recteur de l'Université ?.
+Status: Maître.
+Gender: male.
+Active during: %1302-1330%.
+Studied at: Paris %1302-1330%..
+Academic grades obtained: Maître ès arts (Paris) avant ?.
+University functions: Paris (Université : recteur en août-septembre ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/02/2024..

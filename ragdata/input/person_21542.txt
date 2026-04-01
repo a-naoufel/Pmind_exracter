@@ -1,0 +1,11 @@
+PERSON: GERARDUS de Perfontibus
+Also known as: Gerardus de PERFONTIBUS; Gerardus de PREFONTIBUS; Gerardus de PARFONTIBUS; Gérard de PREFONTAINES.
+Description: Bachelier en théologie ?.
+Status: Gradué.
+Gender: male.
+Active during: %1409-1427%.
+Diocese of origin: Diocèse de Cambrai..
+Studied at: Paris..
+Academic grades obtained: Bachelier en théologie (Paris) ?.
+College affiliation: Collège de Montaigu ;; Sorbonne : "socius" ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 29/11/2020)..

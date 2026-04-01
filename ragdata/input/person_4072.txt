@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Salles
+Also known as: Guillelmus SALLES; Guillaume SALLES.
+Description: Clerc du diocèse de Bayeux..
+Status: Étudiant.
+Gender: male.
+Active during: %1379-1379%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Bayeux..
+Studied at: Paris (Nation de Normandie ?) %:1379-1379%..
+Academic grades obtained: Maître ès arts (?Paris) ;; Étudiant en médecine (Paris) ..
+Ecclesiastical status: Clerc du diocèse de Bayeux..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 30/05/2022..

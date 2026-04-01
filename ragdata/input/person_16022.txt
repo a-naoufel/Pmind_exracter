@@ -1,0 +1,9 @@
+PERSON: NICOLAUS de MonteCornuti
+Also known as: Nicolaus de MONTECORNUTI.
+Description: Maître d'école.
+Status: Suppôt.
+Gender: male.
+Active during: %1380-1380%.
+Studied at: Paris ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 29/08/2020..

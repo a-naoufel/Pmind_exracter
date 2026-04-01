@@ -1,0 +1,9 @@
+PERSON: RADULPHUS Dijon
+Also known as: Raoul DIJON.
+Description: Écolier de la Faculté de médecine..
+Status: Étudiant.
+Gender: male.
+Active during: %1473-1473%.
+Studied at: Paris %1473-1473%..
+Academic grades obtained: Étudiant en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 21/02/2024)..

@@ -1,0 +1,25 @@
+PERSON: PROSPER de ReggioEmilia
+Also known as: Prosper de REGGIOEMILIA.
+Description: Maître en théologie augustin.
+Status: Maître.
+Gender: male.
+Active during: %1290-1332%.
+Born in: Italie (Émilie-Romagne : ReggioEmilia).
+Diocese of origin: Diocèse de Reggio ?.
+Studied at: Paris vers et %1311-1318%..
+Academic grades obtained: Bachelier en théologie (Paris) %1311-1313% ou %1312-1314%.; Maître en théologie (Paris) ..
+College affiliation: Couvent (augustin) de Paris (Grands-Augustins) %1311-1318%..
+Religious order: O.E.S.A. : frère augustin..
+Religious functions: Vicairegénéral des Augustins en , lors de la vacance du généralat après la mort de Jacques de ORTE.; Examinateur des Studia en Italie, nommé par le Chapitre de l' Ordre en ..
+University functions: Paris (Faculté de Théologie : maître-régent) ?%1317-1318%?.; Bologne (Faculté de Théologie : maître-régent au couvent augustin en %1321-1332%) ;.
+Authored work: 'Commentaire sur les Sentences)', composed around %1318-1323%..
+Authored work: 'Quaestiones scholasticae : 1.Responsio in Sorbona', composed around ?.
+Authored work: 'Maitrise : 2.Questio in aula', composed around ?.
+Authored work: 'Questio magistrorum', composed around .
+Authored work: 'Quaestiones scholasticae : 2.Responsio in vesperis', composed around ?.
+Authored work: 'Quaestiones scholasticae : 3.Responsio in aula', composed around ?.
+Authored work: 'Quaestiones disputatae : 1.Quaestiones diversae', composed around %1317-1318%.
+Authored work: 'Annotationes', composed around ?.
+Authored work: 'Quodlibet I', composed around %1317-1318%.
+Authored work: 'Quaestiones disputatae : 2.Utrum judex debeat judicare vel comdempnare secundum allegata', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 10/10/2020..

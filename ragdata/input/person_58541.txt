@@ -1,0 +1,12 @@
+PERSON: STEPHANUS Levis
+Also known as: Stephanus LEVIS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1492-1496%.
+Studied at: Paris %1492-1496%.
+Academic grades obtained: Maître ès arts (Paris) avant ;.
+College affiliation: Collège de Coqueret en %1492-1496% ;.
+Academic relationships: Son élève est Stephanus LEVIS pour son cursus en arts au collège de Coqueret avant ;.
+University functions: Paris (Faculté des Arts : maître-régent au collège de Coqueret) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 07/02/2025)..

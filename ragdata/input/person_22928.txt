@@ -1,0 +1,10 @@
+PERSON: RICARDUS archidiaconus Ebroicensis
+Also known as: RICARDUS.
+Description: Archidiacre d'Évreux.
+Status: Maître.
+Gender: male.
+Active during: %1218-1230%.
+Studied at: Paris %1218-1223%..
+Academic grades obtained: Étudiant (Paris) %1218-1223%.; Maître..
+Ecclesiastical positions held: Archidiacre d'Évreux ..
+University functions: Paris (Université : procureur et nonce à la Curie ) ;.

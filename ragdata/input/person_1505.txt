@@ -1,0 +1,10 @@
+PERSON: BERTRANDUS de Sancto-Guillelmo
+Also known as: Bertrandus de SANCTO-GUILLELMO.
+Description: Franciscain.
+Status: Extérieur.
+Gender: male.
+Active during: %1364-1364%.
+Studied at: ?Montpellier..
+Academic grades obtained: Maître en théologie ?.
+Religious order: O.F.M. : frère franciscain..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/02/2021..

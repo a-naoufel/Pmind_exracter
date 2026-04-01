@@ -1,0 +1,13 @@
+PERSON: CONRADUS Sartoris
+Also known as: Conradus SARTORIS; Conradus SARTORIS de Salwandinghen; Conrad SCHNIDER.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1441-1490%.
+Born in: Alémanie (Salmendingen, Hohenzollern)..
+Diocese of origin: Diocèse de Constance..
+Studied at: Heidelberg ;; Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Heidelberg) .; Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) .; Maître ès arts (Paris) ..
+Family relationships: Son frère est Johannes SCHNIDER, chanoine de Rottenburg..
+University functions: Paris (Nation Anglo-allemande : maître-régent )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 28/04/2021)..

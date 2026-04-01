@@ -1,0 +1,9 @@
+PERSON: RADULPHUS 9
+Also known as: RADULFUS.
+Description: Serviteur.
+Status: Suppôt.
+Gender: male.
+Active during: %1394-1400%.
+Studied at: ?.
+College affiliation: Collège de Dainville : serviteur ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,8 @@
+PERSON: NICOLAUS Le Maire
+Also known as: Nicolaus LEMAIRE.
+Description: Parcheminier.
+Status: Suppôt.
+Gender: male.
+Active during: %1514-1514%.
+Studied at: Paris ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/10/2023..

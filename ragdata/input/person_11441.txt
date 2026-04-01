@@ -1,0 +1,11 @@
+PERSON: SIMON de Calceya
+Also known as: Simon de CALCEYA.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1482-1483%.
+Studied at: Paris %1482-1483%.
+Academic grades obtained: Licencié en théologie (Paris) (le 4 mars) ;; Docteur en théologie (Paris) (le 26 avril) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère dominicain.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 08/09/2024..

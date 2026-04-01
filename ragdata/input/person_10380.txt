@@ -1,0 +1,11 @@
+PERSON: PETRUS de Cerileio
+Also known as: Petrus de CERILEIO; Pierre de CERILEIO.
+Description: Maître des grammariens au collège de Navarre..
+Status: Maître.
+Gender: male.
+Active during: %1356-1356%.
+Studied at: Paris (Collège de Navarre) %1356-1356%..
+Academic grades obtained: Maître ès arts (Paris) ?.
+College affiliation: Boursier grammairien au collège de Navarre à Paris en ..
+University functions: Maître des grammairiens au collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 10-02-2024..

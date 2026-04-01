@@ -1,0 +1,9 @@
+PERSON: EBRARDUS Bummel
+Also known as: Everhardus BUMMEL.
+Description: Bachelier ès arts ?.
+Status: Gradué.
+Gender: male.
+Active during: %1378-1378%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 24/06/2021..

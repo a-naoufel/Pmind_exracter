@@ -1,0 +1,12 @@
+PERSON: HENRICUS de Boemia
+Also known as: Henricus de BOEMIA.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1341-1341%.
+Born in: Bohême ;.
+Diocese of origin: Diocèse de Prague ?.
+Studied at: Paris (Nation Anglo-allemande)..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Academic relationships: Son maître est probablement Ulricus de AUGUSTA ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/12/2024)..

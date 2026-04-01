@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Malliaco
+Also known as: Guillelmus de MALLIACO; Guillaume de MAILLY; Guillelmus AUTISSIODORENSIS.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1401-1466%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: Frère (dominicain) du couvent d’Auxerre..
+Authored work: 'Tabulare Sancti Thomae', composed around ?.
+Authored work: 'Elenchus 58 fratrum praedicatorum Autissiodorensium suo tempore professorum', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

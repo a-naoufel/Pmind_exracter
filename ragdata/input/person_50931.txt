@@ -1,0 +1,15 @@
+PERSON: GUILLELMUS de Collingham
+Also known as: Guillelmus de COLLINGHAM.
+Description: Maître ès arts.
+Status: Extérieur.
+Gender: male.
+Active during: %1331-1348%.
+Born in: Angleterre ;.
+Diocese of origin: Diocèse d’York..
+Studied at: Oxford ;.
+Academic grades obtained: Maître ès arts (Oxford ?)..
+University functions: Oxford (Merton College ; fellow ;; Oxford (Queen’s College ; fellow %1341-1348% ;.
+Authored work: 'Quaestiones in Metaphysica', composed around ?.
+Authored work: 'Quaestiones in Physica', composed around ?.
+Authored work: 'Tractatus de infinito tam logicae quam philosophiae naturali utilis', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 22/6/2020..

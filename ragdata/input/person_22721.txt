@@ -1,0 +1,11 @@
+PERSON: GILBERTUS de Marliaco
+Also known as: GILEBERTUS; Gilbertus de MARLIACO.
+Description: Prêtre de Marly.
+Status: Maître.
+Gender: male.
+Active during: %1202-1202%.
+Studied at: Paris ?.
+Academic grades obtained: Magister.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Prêtre de Marly (Sainte-Marie) :.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 14/01/2022..

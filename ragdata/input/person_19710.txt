@@ -1,0 +1,11 @@
+PERSON: EBRARDUS 3
+Also known as: EVERARDUS.
+Description: Abbé de Clairvaux.
+Status: Extérieur.
+Gender: male.
+Active during: %1235-1238%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.Cist. : moine cistercien..
+Religious functions: Abbé (cistercien) de Larrivour % -1235% ;; Abbé (cistercien) de Clairvaux %1235-1238%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 24/06/2021..

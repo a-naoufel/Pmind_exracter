@@ -1,0 +1,11 @@
+PERSON: STEPHANUS Securis
+Also known as: Stephanus SECURIS.
+Description: Maître en théologie franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1496-1510%.
+Studied at: Paris %1486-1510%..
+Academic grades obtained: Licencié en théologie (Paris) (5 février) ;; Maître en théologie (Paris) (15 novembre) ;.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Religious order: O.F.M. : frère franciscain ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/01/2024)..

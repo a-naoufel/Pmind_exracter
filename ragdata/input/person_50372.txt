@@ -1,0 +1,11 @@
+PERSON: LAURENTIUS Des Friches
+Also known as: Laurent DES FRICHES.
+Description: Écolier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1487-1487%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Dormans-Beauvais : boursier ;.
+Family relationships: Son frère est Pierre II DES FRICHES ; Son parent est Pierre I DES FRICHES, procureur au Parlement de Paris ; Son parent est Jean DES FRICHES ; Son parent est Simon DES FRICHES ; Son parent est Étienne DES FRICHES ; Son parent est Arnauld I DES FRICHES ; Son parent est Arnauld II DES FRICHES ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 04/09/2019..

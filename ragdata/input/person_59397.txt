@@ -1,0 +1,7 @@
+PERSON: MARION la Charretonne
+Also known as: Marion la CHARRETONNE.
+Description: ?.
+Status: Extérieur.
+Gender: female.
+Active during: %1398-1398%.
+Source: FRAN/M//80/B/80 ;.

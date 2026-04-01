@@ -1,0 +1,10 @@
+PERSON: ALBERTUS Pagani
+Also known as: Albertus PAGANI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1399-1399%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) .; Licencié ès arts (Paris) .; Maître ès arts (Paris) ..
+Academic relationships: Son maître est Johannes BOUTBOUR..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/06/2020)..

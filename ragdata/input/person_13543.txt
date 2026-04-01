@@ -1,0 +1,13 @@
+PERSON: NICOLAUS de Lingonis
+Also known as: Nicolaus de LINGONIS.
+Description: Docteur en théologie dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1380-1395%.
+Studied at: Paris %1380-1392%..
+Academic grades obtained: Licencié en théologie (Paris) ;; Docteur en théologie (Paris) (avant février) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère dominicain.
+Other ecclesiastical functions: Auxiliaire de l'évêque de Beauvais %1392-1395%..
+University functions: Orléans (Lecteur en philosophie au couvent dominicain avant ) ;; Orléans (Lecteur des Sentences au couvent dominicain avant ) ;; Paris (Faculté de Théologie : Lecteur des Sentences en ? ?) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 6/01/2019..

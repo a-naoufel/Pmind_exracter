@@ -1,0 +1,12 @@
+PERSON: RADULPHUS de Cornaco
+Also known as: Radulphus de CORNACO; Raoul de CORNAC.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1346-1346%.
+Studied at: Paris %1346-1346%..
+Academic grades obtained: Maître en théologie (Paris) ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) ?.
+Religious order: O.F.M. : frère franciscain..
+Religious functions: Provincial (franciscain) d'Aquitaine, après ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/05/2021)..

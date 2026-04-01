@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Lisiart
+Also known as: Guillelmus LISIART.
+Description: Procureur au Parlement de Paris.
+Status: Étudiant.
+Gender: male.
+Active during: %1437-1495%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Quimper..
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège de Cornouaille ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 06/04/2025..

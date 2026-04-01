@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS 11
+Also known as: GUILLELMUS.
+Description: Scribe.
+Status: Suppôt.
+Gender: male.
+Active during: %1270-1270%.
+Studied at: Paris ..
+Academic grades obtained: ?.
+University functions: Paris (Université : scribe) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 7/3/2018..

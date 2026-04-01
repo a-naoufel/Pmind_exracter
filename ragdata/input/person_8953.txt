@@ -1,0 +1,10 @@
+PERSON: MAURITIUS de Monstrereato
+Also known as: Mauritius de MONSTREREATO; Maurice de MONSTREREATO.
+Description: Boursier artien au collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1364-1364%.
+Studied at: Paris %1364-1364%..
+Academic grades obtained: Étudiant ès arts (Paris) ;.
+College affiliation: Boursier artien au collège de Navarre à Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/09/2023..

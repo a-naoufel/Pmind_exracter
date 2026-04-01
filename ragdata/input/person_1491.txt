@@ -1,0 +1,12 @@
+PERSON: BERTRANDUS Vincentii de Montepessulano
+Also known as: Bertrandus VINCENTII; Bertrandus de MONTEPESSULANO.
+Description: Augustin.
+Status: Étudiant.
+Gender: male.
+Active during: %1343-1345%.
+Studied at: Paris ;; Montpellier..
+Academic grades obtained: Étudiant en théologie (Paris) ?; Maître en théologie (Montpellier) ?.
+College affiliation: Couvent (augustin) de Paris (Grands-Augustins) ?.
+Religious order: O.E.S.A. : frère augustin..
+University functions: Paris (Faculté de Théologie : lecteur au couvent augustin en ?) ;; Avignon (Couvent augustin : Lecteur en Théologie )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/03/2021..

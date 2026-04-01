@@ -1,0 +1,11 @@
+PERSON: GEORGIUS 2
+Also known as: GEORGIUS.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1430-1430%.
+Studied at: Paris, ..
+Academic grades obtained: ?M.A. (P), ;; L.Cn.L. (P), ..
+College affiliation: Locataire du collège de Linköping (domus cornu cervi)..
+University functions: Procureur du collège de Linköping, %1428-1430%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 08/02/2019..

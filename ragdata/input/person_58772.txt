@@ -1,0 +1,16 @@
+PERSON: GUILLELMUS de Bourges
+Also known as: Saint GUILLAUME de Bourges; Guillelmus BITURICENSIS; Guillelmus de CORBOLIO; Guillaume du DONJON.
+Description: Archevêque de Bourges.
+Status: Étudiant.
+Gender: male.
+Active during: %1140-1209%.
+Born in: Bourgogne (Arthel-en-Nivernais ?) ?.
+Diocese of origin: Diocèse de Nevers ?.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) à l’école de Saint-GermaindesPrés vers %1135-1140% ;.
+Family relationships: Son père est Ferry V de CORBEIL, ou Ferry du DONJON..
+Social origin: Noble..
+Religious order: O.Gr. : moine de l’abbaye de Grandmont ;; O.Cist. : moine (cistercien) de Pontigny ;.
+Religious functions: Prieur (O.Gr.) de Pétilloux ;; Prieur de l’abbaye (O.Cist.) de Pontigny ;; Abbé de l’abbaye (O.Cist.) de Fontaine-Jean ;; Abbé de l’abbaye (O.Cist.) de Chaalis %1187-1199% ;.
+Ecclesiastical positions held: Chanoine de Soissons ;; Chanoine de Paris (Notre-Dame) ;; Archevêque de Bourges %1199-1209% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/03/2025)..

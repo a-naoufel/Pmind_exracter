@@ -1,0 +1,9 @@
+PERSON: G. Martini
+Also known as: G. MARTINI.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1434-1434%.
+Studied at: Paris %1434-1434%..
+Academic grades obtained: Bachelier en décret (Paris) 21 janvier ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 27/09/2021..

@@ -1,0 +1,10 @@
+PERSON: FULCO de Calesio
+Also known as: Fulco de CALESIO.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1350-1350%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant en théologie ?.
+College affiliation: Sorbonne ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/09/2021..

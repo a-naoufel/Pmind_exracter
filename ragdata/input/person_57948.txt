@@ -1,0 +1,19 @@
+PERSON: ROBERTUS Angles
+Also known as: Robertus ANGLICUS; Robert ANGLÈS.
+Description: Maître-régent à Montpellier.
+Status: Extérieur.
+Gender: male.
+Active during: %1240-1271%.
+Born in: ?Angleterre..
+Studied at: Montpellier..
+Academic grades obtained: Maître ès arts (Montpellier)..
+University functions: Montpellier (Maître-régent)..
+Authored work: 'Commentarium in Summulae logicales Petri Hispani (1)', composed around ?.
+Authored work: 'Commentarium in Summulae logicales Petri Hispani (1)', composed around ?.
+Authored work: '(Comm. super Sophisti elenchi)', composed around ?.
+Authored work: 'Sophistria', composed around ?.
+Authored work: 'Glossa in trac. De Sphera Joannis de Sacrobosco', composed around ..
+Authored work: 'Tractatus quadrantis', composed around Vers à Montpellier..
+Authored work: 'Translatio Alkindi, de judiciis', composed around ?.
+Authored work: 'De Astrolabio canones', composed around ?.
+Source: MIRABILE : Federico CONTINI :.

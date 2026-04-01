@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Viderne 2
+Also known as: Guillelmus VIDERNE.
+Description: Etudiant ?.
+Status: Incertain.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?en.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 15/01/2020..

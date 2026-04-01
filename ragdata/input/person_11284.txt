@@ -1,0 +1,11 @@
+PERSON: ROLANDUS de Norvegia
+Also known as: Rolandus de NORVEGIA; ROLANDUS de Norwegia.
+Description: Étudiant.
+Status: Gradué.
+Gender: male.
+Active during: %1343-1344%.
+Born in: Norvège.
+Studied at: Paris (Nation anglaise-allemande), %1343-1344%..
+Academic grades obtained: Bachelier ès arts (Paris), ;; Licencié ès arts (Paris), ..
+Academic relationships: Son maître est Nicolaus DRUKKEN de Dacia (déterminance), ; Son maître est Johannes de SARBURGO (licence), ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 09/06/2014, révision 22/02/2022..

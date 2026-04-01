@@ -1,0 +1,10 @@
+PERSON: VIVIANUS de Bosco
+Also known as: Vivianus de BOSCO.
+Description: Chanoine de Reims.
+Status: Étudiant.
+Gender: male.
+Active during: %1290-1295%.
+Studied at: Paris vers ..
+Academic grades obtained: Étudiant en théologie (Paris) vers ;.
+Ecclesiastical positions held: Chanoine de Reims %1290-1295% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/05/2021..

@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Chelsham
+Also known as: Guillelmus de CHELSHAM; William de CHELSHAM.
+Description: Fellow de Merton.
+Status: Extérieur.
+Gender: male.
+Active during: %1284-1303%.
+Born in: Angleterre..
+Studied at: Oxford..
+Academic grades obtained: M.A. (Oxford ?) ;.
+Ecclesiastical status: Sous-diacre en ;; Prêtre en ;.
+Ecclesiastical positions held: Recteur de Stockbuey (Kent) en ;.
+University functions: Oxford (Merton College : fellow %1284-1301% au moins) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 21/11/2019..

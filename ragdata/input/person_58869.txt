@@ -1,0 +1,10 @@
+PERSON: BARTHOLOMAEUS de Bosco
+Also known as: Bartholomeus de BOSCO.
+Description: Archidiacre de Bresse.
+Status: Incertain.
+Gender: male.
+Active during: %1266-1290%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical positions held: Chanoine de Chalon-sur-Saône %1266-1290% ;; Archidiacre de Bresse %1266-1290% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/05/2025..

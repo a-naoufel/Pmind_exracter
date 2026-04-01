@@ -1,0 +1,13 @@
+PERSON: DROCO Hugueti de Parellis
+Also known as: Droco HUGUETI DE PARELLIS; Dreux HUGUETI DE PARELLIS.
+Description: Étudiant en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1403-1403%.
+Born in: Lorraine..
+Diocese of origin: Diocèse de Toul..
+Studied at: Paris (Nation de France) %1403-1403%..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en médecine (Paris) ..
+Ecclesiastical status: Clerc du diocèse de Toul..
+Ecclesiastical positions held: Candidat à un bénéfice ecclésiastique sur le rotulus de la Faculté des Arts de l'Université de Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 17/06/2021..

@@ -1,0 +1,11 @@
+PERSON: LANCELOTUS Munier
+Also known as: Lancelot MUNIER.
+Description: Hôte du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1391-1392%.
+Studied at: Paris %1391-1392%..
+Academic grades obtained: Étudiant (Paris) %1391-1392% ;.
+College affiliation: Collège de Dormans-Beauvais : hôte %1391-1392% ;.
+Family relationships: Son oncle est Jean MUNIER, curé d’Argenteuil et clerc du roi à la Chambre des Comptes ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 14/10/2019..

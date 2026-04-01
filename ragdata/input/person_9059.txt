@@ -1,0 +1,10 @@
+PERSON: MICHAEL de Credulio
+Also known as: Michel DE CREIL; Michel DE CRAIL; Michel DE CREEL; Michael DE CREDULIO; Michael DE CREDELIO.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1469-1528%.
+Studied at: Montpellier ;; Paris (Nation de France) %1469-1486%..
+Academic grades obtained: Étudiant (Montpellier) avant ;; Étudiant en médecine (Paris) %1469-1470% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris).
+University functions: Paris (Faculté de médecine : Maître-régent, %1487-1528%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 26/09/2023)..

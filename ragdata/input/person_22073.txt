@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Hurballe
+Also known as: Guillelmus HURBALLE.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1405-1422%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical positions held: Chanoine d'Angers % -1405% ;; Chanoine de Reims %1405-1422% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 24/07/2022..

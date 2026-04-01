@@ -1,0 +1,15 @@
+PERSON: ELIAS 2
+Also known as: ELIAS; ÉLIE.
+Description: Maître ès arts ?.
+Status: Maître.
+Gender: male.
+Active during: %1275-1280%.
+Studied at: ?Paris..
+Academic grades obtained: Maître ès arts ?.
+Authored work: 'Summa libri Topicorum Aristotelis', composed around %1275-1280% ?.
+Authored work: 'In libros Posteriorum Analyticorum', composed around ?.
+Authored work: 'Vade mecum', composed around ?.
+Authored work: 'De primo motore, utrum immediate primum mobile moveat', composed around ?.
+Authored work: 'Comm. in librum Averrois De substantia orbis', composed around ?.
+Authored work: 'Transl. Averrois in Meteorologica Aristotelis', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/09/2015)..

@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS de Croqueto
+Also known as: Aegidius de CROQUETO.
+Description: Étudiant en droit canon.
+Status: Maître.
+Gender: male.
+Active during: %1377-1379%.
+Diocese of origin: Diocèse de Cambrai..
+Studied at: Paris (Nation de Picardie) %1379-1379%..
+Academic grades obtained: Maître ès arts ;; Bachelier en droit civil ;; Étudiant en droit canon (Paris) ..
+Ecclesiastical status: Clerc du diocèse de Cambrai ;.
+Ecclesiastical positions held: Candidat à des bénéfices sur le rotulus de l'Université de ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 26/04/2020)..

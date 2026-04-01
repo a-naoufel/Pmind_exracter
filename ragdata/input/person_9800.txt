@@ -1,0 +1,9 @@
+PERSON: PETRUS Burgundus
+Also known as: Petrus BURGUNDUS.
+Description: Maître ès arts.
+Status: Incertain.
+Gender: male.
+Active during: %1310-1310%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/01/2024..

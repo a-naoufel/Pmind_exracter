@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Celles
+Also known as: Guillaume CELLES.
+Description: Écolier du collège du Plessis.
+Status: Étudiant.
+Gender: male.
+Active during: %1396-1396%.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) en ;.
+College affiliation: Collège du Plessis : écolier ou maître ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

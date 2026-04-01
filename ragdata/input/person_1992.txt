@@ -1,0 +1,11 @@
+PERSON: DOMICIUS
+Also known as: DOMICIUS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1480-1480%.
+Born in: Italie ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant ?.
+College affiliation: Paris (Collège des Lombards)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ rédaction, Jean-Philippe Genet, dernière mise à jour 9/06/2021..

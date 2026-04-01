@@ -1,0 +1,11 @@
+PERSON: GILBERTUS de Mets
+Also known as: Gilbert de METS.
+Description: Libraire des ducs de Bourgogne.
+Status: Extérieur.
+Gender: male.
+Active during: %1425-1434%.
+Born in: Flandre orientale (Grammont)..
+Studied at: ?.
+Academic grades obtained: ?.
+Authored work: 'Description de la ville de Paris et de l'excellence du royaume de France', composed around .
+Source: ARLIMA (Laurent BRUN) :.

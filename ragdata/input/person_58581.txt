@@ -1,0 +1,10 @@
+PERSON: OLIVERIUS de Grimoville
+Also known as: Oliverius de GRIMOVILLE.
+Description: Bachelier en décret.
+Status: Maître.
+Gender: male.
+Active during: %1431-1431%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris ?) ?; Bachelier en décret (Paris) en ;.
+University functions: Paris (Lecteur des Décrétales (livre IV) en (17 décembre) pour la 2e année et le 2e volume ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 14/02/2025..

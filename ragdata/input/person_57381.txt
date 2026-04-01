@@ -1,0 +1,9 @@
+PERSON: THOMAS Petit
+Also known as: Thomas PETIT; Thomas PARVI.
+Description: Procureur de la nation de France à la Cour des Requêtes.
+Status: Suppôt.
+Gender: male.
+Active during: %1445-1446%.
+Studied at: Paris (Nation de France)..
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/01/2024..

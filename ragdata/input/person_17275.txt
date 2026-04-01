@@ -1,0 +1,11 @@
+PERSON: BARTHOLOMAEUS de Gantis
+Also known as: Bartholomaeus de GANTIS; Bartholomaeus de GAUTERIS.
+Description: Docteur ès lois.
+Status: Étudiant.
+Gender: male.
+Active during: %1353-1353%.
+Diocese of origin: Diocèse de Lyon..
+Studied at: ?; Paris ..
+Academic grades obtained: Étudiant à la faculté de décret.; Docteur ès lois ("legum doctor")..
+Ecclesiastical positions held: Candidat à un canonicat avec prébende à la cathédrale d'Autun en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 11/12/2020..

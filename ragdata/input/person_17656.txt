@@ -1,0 +1,10 @@
+PERSON: GUIDO Brachet
+Also known as: Guido BRACHET.
+Description: Étudiant en droit canon..
+Status: Étudiant.
+Gender: male.
+Active during: %1486-1486%.
+Studied at: Paris %1486-1486%..
+Academic grades obtained: Étudiant en décret (Paris) ;.
+Ecclesiastical positions held: Candidat à des bénéfices, sur proposition de la faculté de décret , le 5 mai ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 25/01/2022..

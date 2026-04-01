@@ -1,0 +1,10 @@
+PERSON: PETRUS de Papa
+Also known as: Petrus de PAPA.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1230-1256%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Sens %1230-1256% ;; Chanoine de Paris (Notre-Dame) en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 20/09/2022..

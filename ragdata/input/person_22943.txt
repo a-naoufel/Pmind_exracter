@@ -1,0 +1,9 @@
+PERSON: X Maillart
+Also known as: MAILLART.
+Description: Clerc du Maître Thomas.
+Status: Suppôt.
+Gender: male.
+Active during: %1431-1433%.
+Studied at: Paris ;.
+College affiliation: Sorbonne : clerc du Magister Thomas (Thomas de KESSEL) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 3/05/2018)..

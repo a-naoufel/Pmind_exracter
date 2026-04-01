@@ -1,0 +1,14 @@
+PERSON: GUNDISSALVUS Fernandi
+Also known as: Gundissalvus FERNANDI; Gonzalo FERNANDEZ.
+Description: Évêque de Sagunto.
+Status: Étudiant.
+Gender: male.
+Active during: %1477-1483%.
+Born in: Castille (Andalousie : Gibraleon) ;.
+Diocese of origin: Diocèse de Séville ;.
+Studied at: Paris %1477-1483%..
+Academic grades obtained: Étudiant en théologie (Paris) %1477-1483% ;.
+College affiliation: Sorbonne : Socius ;; Sorbonne : Conscriptor ;; Sorbonne : Prieur %1482-1483% ;.
+Ecclesiastical positions held: Évêque de Sagonte ;.
+Authored work: '(Traité)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/01/2019..

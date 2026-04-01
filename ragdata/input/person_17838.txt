@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Jacobi 2
+Also known as: Guillelmus JACOBI.
+Description: Docteur en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1416-1418%.
+Studied at: Toulouse ;; Paris %1416-1418%..
+Academic grades obtained: Bachelier en décret (Paris) 2 avril ;; Licencié en lois attesté en ;; Licencié en décret (Paris) 10 mars ;; Docteur en décret (Paris) 10 mars ..
+Academic relationships: Son maître Stephanus BAILLIVI, abbé (bénédictin) de Saint-Père-en-Vallée, en pour la licence en décret en (10 février) ;.
+Social origin: Noble..
+University functions: Paris (Lecteur des Décrétales (2e année) en (juillet)) ;; Paris Lecteur des Décrétales (3e année) en (10 novembre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 21/04/2022..

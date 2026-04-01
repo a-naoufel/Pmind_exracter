@@ -1,0 +1,10 @@
+PERSON: PHILIPPUS Roger
+Also known as: Philippus ROGER.
+Description: Boursier du collège de Dainville.
+Status: Étudiant.
+Gender: male.
+Active during: %1510-1510%.
+Studied at: Paris en ..
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Dainville : boursier à partir de décembre ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

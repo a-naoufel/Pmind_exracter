@@ -1,0 +1,10 @@
+PERSON: STEPHANUS de Robolino
+Also known as: Stephanus de ROBOLINO.
+Description: Chanoine d'Auxerre.
+Status: Incertain.
+Gender: male.
+Active during: %1317-1322%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Auxerre %1317-1322% ;; Sacriste d’Auxerre en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 24/06/2025)..

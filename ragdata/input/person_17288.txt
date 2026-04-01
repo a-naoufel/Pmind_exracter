@@ -1,0 +1,13 @@
+PERSON: AMALRICUS de Credonio
+Also known as: Almaricus de CREDONIO; Amaury de CRAON.
+Description: Chanoine de Paris.
+Status: Étudiant.
+Gender: male.
+Active during: %1371-1380%.
+Born in: Anjou-Maine.
+Studied at: Paris ;; Bologne ..
+Academic grades obtained: Étudiant à Paris ;; Étudiant à Bologne..
+Family relationships: Son père est Guillaume de CRAON, vicomte de Chateaudun ; Son oncle est Jean de CRAON, archevêque de Reims ; Son cousin est le cardinal Guy de BOULOGNE..
+Social origin: Noble..
+Ecclesiastical positions held: Trésorier de Reims %1371-1380% ;; Chanoine de Paris %1368-1380% ;; Chanoine de Reims %1378-1379% ;; Chanoine de Sens %1374-1380% ;; Archidiacre de Sens %1374-1380%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/12/2015)..

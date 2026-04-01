@@ -1,0 +1,15 @@
+PERSON: PETRUS Beuve
+Also known as: Petrus BEUVE.
+Description: Chanoine de Sens.
+Status: Étudiant.
+Gender: male.
+Active during: %1482-1525%.
+Born in: Bourgogne (Sens ?) ;.
+Diocese of origin: Son père est Louis BEUVE ;.
+Studied at: ?.
+Academic grades obtained: Étudiant (Paris) en ; ;; Maître ;.
+Family relationships: Sa mère est Marie de VIEILCHASTEL ; Son oncle est Louis de VIEILCHASTEL, chanoine de Sens ;.
+Social origin: Bourgeoisie de Sens ;.
+Ecclesiastical status: Clerc en ;.
+Ecclesiastical positions held: Chanoine de Sens %1482-1525% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 22/09/2022..

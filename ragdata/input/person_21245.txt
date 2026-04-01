@@ -1,0 +1,11 @@
+PERSON: ROBERTUS de Montmirail
+Also known as: Robertus de MONTMIRAIL.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Born in: Champagne (Montmirail ?) ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+Family relationships: Son parent est (peut-être) Ludovicus de MONTMIRAIL qui s’acquitte de sa contribution à la collecte de en même temps que lui ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 7/08/2016..

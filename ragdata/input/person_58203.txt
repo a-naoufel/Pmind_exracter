@@ -1,0 +1,10 @@
+PERSON: HAIMERICUS Dalatha
+Also known as: Emericus DALATHA.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1509-1521%.
+Born in: Hongrie ;.
+Studied at: Cracovie ;; Paris ..
+Academic grades obtained: Bachelier ès arts (Cracovie) ;; Étudiant (Paris) %1513-1514% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour, 08/11/2024..

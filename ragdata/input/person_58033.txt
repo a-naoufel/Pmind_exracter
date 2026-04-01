@@ -1,0 +1,11 @@
+PERSON: SIMON de Dacia 1
+Also known as: Simon de DACIA.
+Description: Maître ?.
+Status: Incertain.
+Gender: male.
+Active during: %1260-1280%.
+Born in: ?.
+Academic grades obtained: Maître ès arts ?.
+Authored work: 'Domus grammatice', composed around ?.
+Authored work: 'Glose doctrinalis', composed around ?.
+Source: MIRABILE :.

@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Riflardi
+Also known as: Nicolaus RIFLARDI.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1435-1435%.
+Studied at: Paris %1435-1435%..
+Academic grades obtained: Bachelier en théologie (Paris) vers ..
+Religious order: O.S.B. : moine bénédictin de l'abbaye de Paris (Saint-Germain-des-Prés) ;.
+University functions: Paris (Faculté de Théologie : lecteur de la Bible (1er cours) le 21 août ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 25/11/2023..

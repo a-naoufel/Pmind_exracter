@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Symonis 1
+Also known as: Wilhelmus SYMONIS.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1395-1395%.
+Studied at: ?Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Academic relationships: Son maître est Nicolaus de MONIKENDAM pour le baccalauréat en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 1/06/2022..

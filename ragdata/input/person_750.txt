@@ -1,0 +1,10 @@
+PERSON: ANZELERIUS de Madelbertis de Cremona
+Also known as: Anzelerius de MADELBERTIS.
+Description: Notaire.
+Status: Extérieur.
+Gender: male.
+Active during: %1265-1265%.
+Born in: Italie (Lombardie : Crémone)..
+Diocese of origin: Diocèse de Crémone ?.
+Studied at: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 15/10/2020)..

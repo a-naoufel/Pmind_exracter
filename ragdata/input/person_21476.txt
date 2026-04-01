@@ -1,0 +1,10 @@
+PERSON: Curatus Sancti Cosmas et Damiani
+Also known as: Curatus SanctiCosmasetDamiani.
+Description: Curé de Saint-Cosme et Saint Damien.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant ?.
+Ecclesiastical positions held: Curé de Paris (Saint-Cosme et Saint Damien)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 01/05/2021..

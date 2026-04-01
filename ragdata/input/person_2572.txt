@@ -1,0 +1,9 @@
+PERSON: GALFREDUS Lotharingus
+Also known as: Gaufridus LOTHARINGUS; Geoffroy LELORRAIN.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1316-1323%.
+Studied at: Paris %1316-1323%..
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 16/11/2019..

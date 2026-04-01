@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Auffay
+Also known as: Guillaume d'AUFFAY; Guillelmus de AUFFAY.
+Description: Augustin.
+Status: Étudiant.
+Gender: male.
+Active during: %1303-1303%.
+Born in: Normandie (Auffay) ?.
+Diocese of origin: Diocèse de Rouen ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ..
+Religious order: O.E.S.A. au couvent (augustin) de Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 05/03/2022..

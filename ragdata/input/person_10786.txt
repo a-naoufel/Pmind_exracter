@@ -1,0 +1,12 @@
+PERSON: ROBERTUS Le Bourgoingnon
+Also known as: Robinet LEBOURGOINGNON.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1383-1384%.
+Born in: Champagne (Port-à-Binson) ;.
+Diocese of origin: Diocèse de Soissons ;.
+Studied at: Paris %1383-1384%..
+Academic grades obtained: Étudiant (Paris) %1383-1384% ;.
+College affiliation: Collège de Dormans-Beauvais : boursier %1383-1384% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 24/09/2019..

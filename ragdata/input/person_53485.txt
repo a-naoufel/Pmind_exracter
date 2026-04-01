@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Parisiensis 1
+Also known as: Guillaume de PARIS; Guillelmus PARISIENSIS.
+Description: Clerc de l’Official de Paris.
+Status: Étudiant.
+Gender: male.
+Active during: %1290-1290%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) ?.
+Other ecclesiastical functions: Clerc de la cour de l’official de Paris ;.
+Authored work: '(Formulaire de l’officialité de Paris)', composed around ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 10/03/2022..

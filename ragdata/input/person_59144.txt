@@ -1,0 +1,11 @@
+PERSON: SIMON 6
+Also known as: SIMON.
+Description: Chanoine de Châlons.
+Status: Incertain.
+Gender: male.
+Active during: %1243-1261%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Châlons-en-Champagne %1243-1261% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/06/2025.

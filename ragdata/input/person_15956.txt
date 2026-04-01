@@ -1,0 +1,11 @@
+PERSON: DIONYSIUS Huet
+Also known as: Dyonisius HUET.
+Description: Bachelier en décret..
+Status: Gradué.
+Gender: male.
+Active during: %1487-1487%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris..
+Studied at: Paris %1487-1487%..
+Academic grades obtained: Bachelier en décret (Paris) (le 22 janvier) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 31/05/2021..

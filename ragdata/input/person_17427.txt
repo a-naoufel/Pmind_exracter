@@ -1,0 +1,11 @@
+PERSON: FRANCISCUS Huguet
+Also known as: Franciscus HUGUET.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1487-1487%.
+Born in: Berry ?.
+Diocese of origin: Diocèse de Bourges..
+Studied at: Paris %1487-1487%..
+Academic grades obtained: Bachelier en décret (Paris) 17 mars ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 07-09-2021..

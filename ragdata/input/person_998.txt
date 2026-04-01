@@ -1,0 +1,8 @@
+PERSON: ARNALDUS de Chaustiavilla
+Also known as: Arnoldus de CHAUSTIAVILLA.
+Description: Chevalier.
+Status: Extérieur.
+Gender: male.
+Active during: %1365-1365%.
+Social origin: Chevalier..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 3/11/2020..

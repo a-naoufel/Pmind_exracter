@@ -1,0 +1,9 @@
+PERSON: HUETUS
+Also known as: HUET.
+Description: Valet du Collège de Dormans-Beauvais.
+Status: Suppôt.
+Gender: male.
+Active during: %1402-1405%.
+Studied at: Paris %1402-1405%..
+College affiliation: Collège de Dormans-Beauvais : valet %1402-1405% ;.
+Source: LAMOP : Opération Charles VI :.

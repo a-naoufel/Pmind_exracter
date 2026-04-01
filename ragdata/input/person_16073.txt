@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS de Secotoiz
+Also known as: Aegidius de SECOTOIZ.
+Description: Bachelier en décret.
+Status: Maître.
+Gender: male.
+Active during: %1495-1495%.
+Born in: Anjou/Maine ?.
+Diocese of origin: Diocèse LeMans..
+Studied at: Paris (Nation de France ?) %1495-1495%..
+Academic grades obtained: Maître ès arts (?Paris) ;; Bachelier en décret (Paris) (le 29 mai) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 03/05/2020)..

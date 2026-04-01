@@ -1,0 +1,12 @@
+PERSON: LAURENTIUS de Filgeriis
+Also known as: Laurentius de FILGERIIS; Laurentius de FOUGÈRES; Laurent de FOUGÈRES; Laurent de FOUGERES.
+Description: Maître en théologie à Paris..
+Status: Maître.
+Gender: male.
+Active during: %:1230-1243%.
+Born in: Bretagne..
+Studied at: Paris %:1231-1234% ;; Toulouse %1235-1235:%..
+Academic grades obtained: Maître ès arts (Paris) ;; Maître en médecine (Paris) ;; Bachelier en théologie (Paris) ..
+Religious order: Dominicain.
+University functions: Toulouse (Studium franciscain : lecteur en ) ;; Paris (Studium franciscain : lecteur %1231-1234%) ;; Toulouse (Université : lecteur, %1235-1241%) ;; Lecteur des Sentences à Paris, %1241-1243% ;; Paris (Faculté de théologie : Maîtrerégent %1243-1244%) ;.
+Authored work: 'Quaest disp. De veritate humane nature', composed around ?.

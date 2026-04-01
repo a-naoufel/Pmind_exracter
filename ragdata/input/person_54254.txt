@@ -1,0 +1,9 @@
+PERSON: PHILIPPUS Arnoul
+Also known as: Philippe ARNOUL.
+Description: Huissier royal.
+Status: Extérieur.
+Gender: male.
+Active during: %1444-1445%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 21/08/2022..

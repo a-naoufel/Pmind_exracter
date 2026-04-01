@@ -1,0 +1,12 @@
+PERSON: THEOBALDUS de Barris
+Also known as: Theobaldus de BARRIS.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1389-1394%.
+Studied at: Paris %1389-1394%.
+Academic grades obtained: Licencié en théologie (Paris) ;; Docteur en théologie (Paris) ..
+College affiliation: Prieur du collège de Saint-Bernard à Paris en ..
+Religious order: O.Cist. : moine cistercien du monastère de LaFerté..
+Religious functions: Abbé de Val-Benoîte en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 25/09/2024..

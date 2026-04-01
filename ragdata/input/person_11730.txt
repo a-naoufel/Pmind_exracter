@@ -1,0 +1,10 @@
+PERSON: THEOBALDUS de Hannogne
+Also known as: Theobaldus de HANNOGNE; Thibaud d'HANNOGNE.
+Description: Maître en médecine..
+Status: Incertain.
+Gender: male.
+Active during: %1290-1290%.
+Studied at: ?.
+Academic grades obtained: Maître en médecine ;.
+Ecclesiastical status: Clerc ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 26/06/2024..

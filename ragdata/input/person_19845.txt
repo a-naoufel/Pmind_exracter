@@ -1,0 +1,7 @@
+PERSON: CLARISSE
+Also known as: CLARISSE.
+Description: Pratiquante de médecine illicite.
+Status: Extérieur.
+Gender: female.
+Active during: %1331-1331%.
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, dernière mise à jour 25/02/2021..

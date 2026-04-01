@@ -1,0 +1,12 @@
+PERSON: ALARDUS Palenc
+Also known as: Alardus PALENC; Alardus PALENT.
+Description: Recteur de l'Université.
+Status: Maître.
+Gender: male.
+Active during: %1428-1433%.
+Diocese of origin: Diocèse de Tournai..
+Studied at: Paris (Nation de Picardie ?)..
+Academic grades obtained: Maître ès arts (Paris) ;; Licencié en droit canon (Paris) ;; Étudiant en théologie (Paris).; Bachelier en théologie cursor (Paris) ..
+College affiliation: Collège de Sorbonne : socius.; Collège de Sorbonne : Prieur ) ;; Collège de Sorbonne : Bibliothécaire ;.
+University functions: Paris (Université : Recteur ) ;; Paris (Faculté de Théologie : Cursor %1432-1433%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 16/06/2020)..

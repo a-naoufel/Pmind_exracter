@@ -1,0 +1,12 @@
+PERSON: PETRUS Croquet 2
+Also known as: Petrus CROQUET.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1484-1523%.
+Studied at: Paris.
+Academic grades obtained: Licencié en théologie (Paris) (le 13 janvier) ;; Docteur en théologie (Paris) (le 5 mai) ..
+College affiliation: Mathurins..
+Religious order: O.Ss.T..
+Religious functions: Ministre du couvent (trinitaire) de Troyes en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 19/12/2023..

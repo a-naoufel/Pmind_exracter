@@ -1,0 +1,14 @@
+PERSON: DURANDUS Barrerii
+Also known as: Durandus BARRERII.
+Description: Bachelier en décret..
+Status: Gradué.
+Gender: male.
+Active during: %1414-1430%.
+Born in: Auvergne ;.
+Diocese of origin: Diocèse de Clermont ;.
+Studied at: Paris (Nation de France) %1415-1416%..
+Academic grades obtained: Bachelier Décret (Paris) ..
+College affiliation: Collège de Montaigu : boursier %1414-1430% ;.
+Ecclesiastical status: Prêtre..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales en (23 mai)) ;; Paris (Faculté de Décret : Lecteur des Décrétales en (12 octobre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 23/04/2021..

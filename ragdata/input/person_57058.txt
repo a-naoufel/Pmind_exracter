@@ -1,0 +1,11 @@
+PERSON: GERARDUS Epinay
+Also known as: Gerardus EPINAY.
+Description: Maître en théologie franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1498-1515% ?.
+Studied at: Paris..
+Academic grades obtained: Licencié en théologie (Paris) (26 janvier) ;; Maître en théologie (Paris) (12 février) ;.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Religious order: O.F.M. : frère franciscain ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 27/12/2023..

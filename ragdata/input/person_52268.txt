@@ -1,0 +1,10 @@
+PERSON: NICOLAUS de Castro 1
+Also known as: Nicolaus de CASTRO.
+Description: Maître du Collège de Montaigu.
+Status: Maître.
+Gender: male.
+Active during: %1401-1416%.
+Studied at: Paris (Nation de France) %1401-1416%..
+Academic grades obtained: Magister (Paris) ?.
+College affiliation: Collège de Montaigu : maître %1401-1416% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/04/2021..

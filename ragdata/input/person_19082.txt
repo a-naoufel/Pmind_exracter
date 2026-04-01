@@ -1,0 +1,10 @@
+PERSON: HAIMERICUS de Lor
+Also known as: Hemericus de LOR; Hemericus DELOR; Emeris DELOR; Emericus DOLOR.
+Description: Hôte de la Sorbonne.
+Status: Étudiant.
+Gender: male.
+Active during: %1432-1464%.
+Studied at: Paris 1464..
+Academic grades obtained: Étudiant en théologie ?.
+College affiliation: Sorbonne : hôte en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 12/05/2018)..

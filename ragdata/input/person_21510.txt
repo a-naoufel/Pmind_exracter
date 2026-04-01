@@ -1,0 +1,14 @@
+PERSON: NICOLAUS de Virtuto
+Also known as: Nicolaus de VIRTUTO; Nicolaus de VIRTUTE; Nicolas de VERTUS.
+Description: Chanoine de Reims et de Châlons-en-Champagne.
+Status: Maître.
+Gender: male.
+Active during: %1328-1362%.
+Born in: Champagne (Vertus) ;.
+Diocese of origin: Diocèse de Châlons-en-Champagne..
+Studied at: Paris (Nation de France ?) %1328-1341%..
+Academic grades obtained: Maître ès arts (Paris) ;; Maître en théologie (Paris) ;.
+Ecclesiastical status: Clerc du diocèse de Châlons en ;.
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiastique à la collation de l’archevêque de Reims en réponse au rotulus de l’université de Paris en : mandat à l’abbé (O.S.A.) de Paris (Sainte-Geneviève), à Oliverius SALHADIN, chanoine de Léon et à Johannes de SINEMURO, chanoine d’Autun ;; Chanoine de Reims (Saint-Symphorien) %:1341-1346% ;; Chanoine de Châlons %1341-1362% ;; Chanoine de Châlons (Notre-Dame-en-Vaux) %1341-1364% ;; Provision pour une prébende vacante en l’église de Châlons en réponse au rotulus des nonces de l’université de Paris en (16 mai) : mandat à l’évêque de Marseille, à l’abbé (O.S.A.) de Châlons (Toussaints) et à l’abbé (O.S.A.) de Châlons (Saint-Memmie) ;; Provision pour un canonicat avec expectative de prébende de Reims en réponse au rotulus de l’université de Paris en (17 juin) : mandat à l’abbé (O.S.B.) de Reims (Saint-Nicaise) et à l’abbé (O.S.B.) de Reims (Saint-Denis) et à l’archidiacre de l’Atenois en l’église de Châlons ;; Provision pour un canonicat avec expectative de prébende de Paris en (24 juillet) : mandat à l’abbé (O.S.B.) de Reims (Saint-Nicaise) et à l’abbé (O.S.B.) de Reims (Saint-Denis) et à l’archidiacre de l’Atenois en l’église de Châlons ;; Chanoine de Reims (cathédrale Notre-Dame) %1344 -1362% ;; Chapelain de Bayerne (Maison forte) % -1362% ;.
+University functions: Paris (Faculté de Théologie : nonce pour le rotulus de ) ;; Paris (Faculté de théologie : maître-régent) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 29/08/2020..

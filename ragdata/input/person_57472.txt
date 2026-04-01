@@ -1,0 +1,9 @@
+PERSON: MARTINUS Hammelin
+Also known as: Martinus HAMMELIN; Martinus HAMELINUS.
+Description: Bachelier en droit canon.
+Status: Maître.
+Gender: male.
+Active during: %1415-1415%.
+Studied at: Paris %1415-1415%..
+Academic grades obtained: Maître ès arts avant ;; Bachelier en décret (Paris) (21 juin) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 9-02-2024..

@@ -1,0 +1,11 @@
+PERSON: COLINUS Lasnier
+Also known as: Colin LASNIER.
+Description: Membre du Collège de Maître-Gervais.
+Status: Étudiant.
+Gender: male.
+Active during: %1371-1371%..
+Born in: Normandie..
+Studied at: Paris (Nation de Normandie ?)..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège de Maître-Gervais : socius ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Marion Bernard-Schweitzer 15/09/2020..

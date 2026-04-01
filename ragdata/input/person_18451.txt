@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Rousselli 5
+Also known as: Guillelmus ROUSSELLI.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 10/08/2015..

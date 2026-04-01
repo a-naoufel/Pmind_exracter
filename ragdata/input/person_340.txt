@@ -1,0 +1,8 @@
+PERSON: ALBERICUS 1
+Also known as: ALBERICUS.
+Description: Clerc du Comte de Dreux.
+Status: Extérieur.
+Gender: male.
+Active during: %1198-1198%.
+Studied at: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 16/06/2020)..

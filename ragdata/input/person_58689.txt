@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Kurremann
+Also known as: Whilhelmus KURREMANN.
+Description: Maître en décret.
+Status: Incertain.
+Gender: male.
+Active during: %1464-1464%.
+Born in: Saxe (Verden) ;.
+Diocese of origin: Diocèse de Verden ;.
+Studied at: Paris ;; Heidelberg ?.
+Academic grades obtained: Maître en décret (Paris) ?.
+Source: Repertorium academicum germanicum ;.

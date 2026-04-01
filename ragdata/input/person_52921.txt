@@ -1,0 +1,17 @@
+PERSON: RICARDUS Piel
+Also known as: Ricardus PIEL.
+Description: Chantre d’Évreux.
+Status: Maître.
+Gender: male.
+Active during: %1345-1387%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris.
+Academic grades obtained: Étudiant ès arts (Paris) ;; Maître en théologie (Paris) ;.
+Family relationships: Son frère est Robert PIEL, chevalier de Saint-Jean-de-Jérusalem ;.
+Social origin: Noble ?.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d’Évreux ;; Chantre d’Évreux ;; Chanoine de Lisieux jusqu’en ;; Chanoine de Rouen %1371-1387% ;; Chanoine de Laon %1372-1374% ;.
+Other ecclesiastical functions: Pénitencier de l’archevêque de Rouen %1377-1378% ;.
+University functions: Paris (Faculté de Théologie : maître-régent ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 8/11/2021..

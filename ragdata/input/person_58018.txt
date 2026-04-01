@@ -1,0 +1,9 @@
+PERSON: GARNERIUS 1
+Also known as: GARNERIUS.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1150-1150%.
+Studied at: Paris vers ..
+Academic grades obtained: Maître ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/09/2024)..

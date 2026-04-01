@@ -1,0 +1,10 @@
+PERSON: BICHE Lombardus
+Also known as: Biche le LOMBARD.
+Description: ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1281-1281%.
+Born in: Italie (Lombardie ?)..
+Studied at: ?Paris..
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/03/2021..

@@ -1,0 +1,10 @@
+PERSON: ROBERTUS de Bours
+Also known as: Robertus de BOURS.
+Description: Procureur de la Sorbonne.
+Status: Étudiant.
+Gender: male.
+Active during: %1312-1315%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant ?.
+College affiliation: Sorbonne : procureur vers %1312-1315% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 5/01/2021..

@@ -1,0 +1,10 @@
+PERSON: PETRUS Renauldy
+Also known as: Petrus ERNAULDY.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1429-1430%.
+Studied at: Paris..
+Academic grades obtained: Licencié en décret (Paris) (14 mars) ;; Rang : 47/54 ;.
+Academic relationships: Son maître est Hervaeus POUCHARDI pour la licence en décret en :.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 09/03/2022..

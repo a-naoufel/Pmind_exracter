@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Mestronis
+Also known as: Guillelmus MESTRONIS; Guillelmus MASSONIS.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1416-1422%.
+Studied at: Paris..
+Academic grades obtained: Bachelier en théologie (Paris) en ;.
+College affiliation: Collège d'Autun : responsable des comptes %1417-1422% ;.
+University functions: Paris (Faculté de Théologie : il est l'un des membres de la Faculté figurant sur le rotulus des signataires en du document par lequel la Faculté de théologie condamne les neuf propositions de Johannes PARVI à la demande du roi entre le 29 août et le 16 octobre ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 06/06/2022..

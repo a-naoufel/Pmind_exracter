@@ -1,0 +1,9 @@
+PERSON: ROBERTUS de Chanincourt
+Also known as: Robertus de CHANINCOURT.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1424-1424%.
+Studied at: Paris ..
+Academic grades obtained: Licencié en décret (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour, 14/01/2026..

@@ -1,0 +1,9 @@
+PERSON: RICARDUS Foret
+Also known as: Richard FORET.
+Description: Relieur de livres.
+Status: Suppôt.
+Gender: male.
+Active during: %1434-1434%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

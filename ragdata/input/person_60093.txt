@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS de Baquencourt
+Also known as: Aegidius de BAQUENCOURT.
+Description: Écolier du collège de Dainville.
+Status: Étudiant.
+Gender: male.
+Active during: %1394-1400%.
+Born in: Picardie (Bacquencourt ?) ?.
+Diocese of origin: Diocèse d'Amiens ?.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège de Dainville : écolier ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

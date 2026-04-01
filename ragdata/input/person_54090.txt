@@ -1,0 +1,12 @@
+PERSON: HUGO de Abbatisvilla
+Also known as: Hugues d'ABBEVILLE.
+Description: Maître.
+Status: Incertain.
+Gender: male.
+Active during: %1300-1300%.
+Born in: ?Picardie (Abbeville)..
+Studied at: ?Paris..
+Academic grades obtained: ?Maître ès arts (Paris)..
+Authored work: 'Quaestiones super I-II De Anima', composed around ?.
+Authored work: 'Quaestiones in Minus Volumen Prisciani', composed around ?.
+Source: MIRABILE, Andrea CENCINI :.

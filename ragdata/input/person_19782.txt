@@ -1,0 +1,10 @@
+PERSON: FE
+Also known as: FE.
+Description: Maître ès arts ?.
+Status: Maître.
+Gender: male.
+Active during: %1470-1470%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie ?) ..
+Academic grades obtained: Maître ès arts (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 1/08/2021..

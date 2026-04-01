@@ -1,0 +1,58 @@
+PERSON: GUILLELMUS de Ockham 2
+Also known as: Guillelmus de OCKHAM; William of OCKHAM.
+Description: O.F.M..
+Status: Incertain.
+Gender: male.
+Active during: %1305-1347%.
+Born in: Angleterre ;.
+Studied at: Oxford (Couvent Franciscain) ?%1308-1321% ;.
+Academic grades obtained: Bachelier en théologie (Oxford) ..
+Ecclesiastical status: Sous-diacre ;.
+Religious order: O.F.M. : frère du couvent (franciscain) de Londres ;.
+Religious functions: Détenteur du sceau de l’ordre franciscain à partir de la mort de Michael de CESENA en ;.
+University functions: Londres (Couvent franciscain : lecteur en logique et philosophie naturelle, %1321-1324%) ;.
+Authored work: 'Quaestio super Bibliam', composed around ?.
+Authored work: 'Commentarii in quatuor Sententiarum libros (Ordinatio et Reportatio)', composed around ..
+Authored work: 'Quodlibeta Septem', composed around %1322-1324%..
+Authored work: 'De Sacramento altaris (De quantitate et de Corpore Christi)', composed around %1322-1324%..
+Authored work: 'Propositio an sit concedenda : essentia divina est quaternitas', composed around ?.
+Authored work: '?Tractatus de principiis theologiae', composed around ?.
+Authored work: 'Centiloquium Theologicum', composed around ?.
+Authored work: 'Quaestiones Variae', composed around ?.
+Authored work: '(Expositio aurea super artem veterem I-III) Notabilia)', composed around %1321-1324% à Londres ?.
+Authored work: '(Expositio Aurea super Artem veterem IV) Tractatus de praedestinatione et praesentia Dei respectu futurorum et contingentium)', composed around %1321-1324% à Londres ?.
+Authored work: 'Tractatus super libros Elenchorum', composed around ?%1321-1324% à Londres.
+Authored work: 'De indivisibilibus', composed around ?.
+Authored work: 'Summa totius logice', composed around %1324-1327% à Avignon..
+Authored work: 'De quantitate in se', composed around ?.
+Authored work: 'De relatione', composed around ?.
+Authored work: '?(Tractatus de Successivis, ou De motu, loco, tempore, relatione... avec De Praedestinatione et Praescientia Dei)', composed around ?.
+Authored work: 'De puncto, de negatione', composed around ?.
+Authored work: 'Tractatus logicae medius (Elementarium logicae)', composed around ?%1342-1347%..
+Authored work: 'Tractatus Minor Logicae', composed around ?%1342-1345%..
+Authored work: 'Circa universalia (incomplet)', composed around ?.
+Authored work: '?Quaestio de Universali', composed around ?.
+Authored work: 'Expositio super Physicam Aristotelis', composed around %1321-1324% à Londres ?.
+Authored work: 'Philosophia Naturalis (sive Summulae) in libros physicorum', composed around ?.
+Authored work: 'Questiones in libros Physicorum', composed around ?.
+Authored work: 'Brevis summa libri Physicorum', composed around ?.
+Authored work: 'Impugnatio constitutionum papae Johannis', composed around ;.
+Authored work: 'Allegationes religiosorum virorum', composed around ..
+Authored work: 'Opus nonaginta dierum', composed around ..
+Authored work: 'Dialogus I', composed around ..
+Authored work: 'Epistola ad fratres minores in capitulo apud Assisium congregatos', composed around ..
+Authored work: 'De dogmatibus Johannis XXII papae (II Dialogus)', composed around ?.
+Authored work: '(Tractatus) Defensorium contra Johannem XXII', composed around ?.
+Authored work: 'Tractatus contra Benedictum XII', composed around ..
+Authored work: 'Compendium errorum papae Johannis XXII', composed around ?.
+Authored work: 'An princeps (i.e. Rex Anglie pro suo succursu, scilicet guerrae, possit recipere bona ecclesiarum etiam invite papa...', composed around ?.
+Authored work: 'Dialogus III - Tractatus I', composed around ?%1339-1341%..
+Authored work: 'Dialogus III - Tractatus II : De potestate et juribus romani imperii', composed around ?%1339-1341%..
+Authored work: 'Breviloquium de principatu tyrannico...', composed around ?.
+Authored work: 'Octo quaestiones', composed around ?..
+Authored work: '(Consultatio) Tractatus de iurisdictione imperatoris in causis matrimonialibus', composed around ..
+Authored work: 'De imperatorum et pontificum potestate', composed around ..
+Authored work: 'Disputatio super potestate praelatis ecclesiae atque principibus terrarum commissa', composed around ?.
+Authored work: 'Allegationes de potestate imperiali', composed around ?.
+Authored work: 'De electione Caroli Quarti', composed around %1347-1348%..
+Source: MIRABILE :.

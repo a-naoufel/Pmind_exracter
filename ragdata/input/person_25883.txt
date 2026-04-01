@@ -1,0 +1,13 @@
+PERSON: ANTHONIUS Cioni
+Also known as: Antone di Messer Bartholomeo CIONI.
+Description: Frère d'un ordre non spécifié.
+Status: Étudiant.
+Gender: male.
+Active during: %1376-1376%.
+Born in: Italie (Pistoia ?) ;.
+Diocese of origin: Diocèse de Pistoia..
+Studied at: Paris %1376-1376%..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège des Lombards ??.
+Religious order: Frère d'un ordre non spécifié en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet 19/09/2020..

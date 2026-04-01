@@ -1,0 +1,12 @@
+PERSON: ADAM de Sancto Edmundo
+Also known as: Adam de SAINTEDMUND.
+Description: Chanoine de Lincoln.
+Status: Extérieur.
+Gender: male.
+Active during: %1203-1237%.
+Born in: Angleterre..
+Studied at: Oxford..
+Academic grades obtained: Magister (Oxford) ..
+Family relationships: Son frère est Walter de SAINT-EDMUND..
+Ecclesiastical positions held: Chanoine de Lincoln en ;; ?Recteur de Shepton-Mallet (Somerset) en ;; Archdeacon of Oxford %1222-1237%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet ; dernière mise à jour : 16/11/2016)..

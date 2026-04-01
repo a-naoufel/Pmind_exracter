@@ -1,0 +1,7 @@
+PERSON: AGNES Vaqueline
+Also known as: Agnès VAQUELINE; Agnès BAQUELINE.
+Description: ?‘Rentière de l’hôtel’ ?.
+Status: Extérieur.
+Gender: female.
+Active during: %1398-1398%.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

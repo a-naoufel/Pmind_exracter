@@ -1,0 +1,9 @@
+PERSON: AMALRICUS Tesson
+Also known as: Almericus TESSON.
+Description: Bachelier en droit canon.
+Status: Maître.
+Gender: male.
+Active during: %1417-1417%.
+Studied at: Paris %1417-1417%..
+Academic grades obtained: Maître ès arts (?Paris) ;; Bachelier en décret (Paris) en (24 mars) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournierox ; Jean-Philippe Genet, dernière mise à jour 17/07/2020)..

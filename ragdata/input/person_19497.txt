@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Monasterio 1
+Also known as: Guillelmus de MONASTERIO; Guillaume du MOUSTIER.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1461-1480%.
+Born in: Normandie ?.
+Studied at: Paris ..
+Academic grades obtained: Licencié en théologie avant ;.
+College affiliation: BERNARD-SCHWEITZER: 666-667..
+Family relationships: Son parent est peut-être Johannes de MONASTERIO présent au Collège d'Harcourt en même temps que lui ;.
+University functions: Chanoine de Bayeux ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet 16/12/2020..

@@ -1,0 +1,18 @@
+PERSON: ROGARIUS de Hereford
+Also known as: Roger de HEREFORD; Gogerius HEREFORDENSIS.
+Description: Astrologue.
+Status: Incertain.
+Gender: male.
+Active during: %1176-1178%.
+Born in: Angleterre (Hereford)..
+Diocese of origin: Diocèse de Hereford ?.
+Studied at: ?.
+Academic grades obtained: Magister..
+Authored work: 'Theorica planetarum', composed around ?.
+Authored work: 'Compotus', composed around , dedicated to Dédié à Gilbert FOLIOT..
+Authored work: 'Liber de divisione astronomiae atque de ejus quatuor partibus', composed around ?.
+Authored work: 'Liber de quatuor partibus astronomiae judiciorum', composed around ?.
+Authored work: 'Liber de tribus generalibus judiciis astronomiae', composed around ?.
+Authored work: 'De altitudine solis... apud Toletum et Herefordiam', composed around ..
+Authored work: 'Tractatus de ortu et occasione signorum', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

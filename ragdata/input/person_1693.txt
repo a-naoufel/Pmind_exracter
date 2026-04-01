@@ -1,0 +1,11 @@
+PERSON: CLEMENS de Sancto-Germano
+Also known as: Clément de SAINT-GERMAIN.
+Description: Chanoine de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1263-1271%.
+Studied at: Paris ..
+Academic grades obtained: Maître en théologie.
+Ecclesiastical positions held: Chanoine de Paris ca.%1265-1271% ;; Archidiacre de Laon en ..
+University functions: Paris (Maître-Régent ); Paris (Université : conservateur des privilèges, adjoint à Gérard d'ABBEVILLE en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 19/04/2021..

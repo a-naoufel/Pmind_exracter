@@ -1,0 +1,10 @@
+PERSON: ANTHONIUS de Vorda
+Also known as: Anthonius de VORDA.
+Description: Licencié en théologie ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1490-1512%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant en théologie ?.
+College affiliation: Sorbonne ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 21/11/2023)..

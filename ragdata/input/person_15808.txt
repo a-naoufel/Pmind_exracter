@@ -1,0 +1,11 @@
+PERSON: CLAUDIUS Burserii
+Also known as: Claudius BURSERII.
+Description: Bachelier Décret.
+Status: Gradué.
+Gender: male.
+Active during: %1448-1448%.
+Born in: Comté de Bourgogne ?.
+Diocese of origin: Diocèse de Besançon..
+Studied at: Paris %1448-1448%..
+Academic grades obtained: Bachelier en décret (Paris) (le 19 septembre) ..
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 11/04/2021..

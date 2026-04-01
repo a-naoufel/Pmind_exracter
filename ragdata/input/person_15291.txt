@@ -1,0 +1,33 @@
+PERSON: EDMUNDUS de Abingdon
+Also known as: Edmund of ABINGDON; Saint Edmund of ABINGDON; Edmund of PONTIGNY; Edmundus ABINGDONENSIS; Edmundus RICH.
+Description: Archevêque de Canterbury.
+Status: Maître.
+Gender: male.
+Active during: %:1190-1240%.
+Born in: Angleterre (Abingdon, comté de Berkshire)..
+Studied at: Paris ;.
+Academic grades obtained: Magister ès arts (Paris) ;; Étudiant en théologie à Paris en %1208-1213% ;; ?Bachelier en théologie (Paris) .; Maître en théologie (Oxford) ?; L’inception de Edmund of ABINGDON a probablement eu lieu après la reprise des cours à Oxford en , qu’il a dû attendre au prieuré de Merton en %1213-1214%..
+Family relationships: Son père est Reginald of ABINGDON dit "le Rich", propriétaire d’au moins deux maisons et de biens fonciers à Abingdon ; Sa mère est Mabel of ABINGDON. Son frère est Robert of ABINGDON, lui aussi étudiant à Paris ; Son frère est Nicholas of ABINGDON, O. Cist., devenu moine à l’abbaye de (cistercienne) de Boxley ; Sa sœur est Margery of ABINGDON, nonne au prieuré (gilbertin) de Catesby ; Sa sœur est Alice of ABINGDON, nonne au prieuré (gilbertin) de Catesby ;.
+Academic relationships: Son élève est Walter de GRAY, archevêque d’York ; Son élève est Stephen of LEXINTON, abbé (Cistercien) de Stanley ; Son élève est Roger BACON, OFM ; Son élève est RICHARD, évêque de Bangor..
+Social origin: Commun (« mediocris »)..
+Ecclesiastical positions held: Chanoine de Salisbury %1222-1233% avec la prébende de Calne ;; Trésorier de Salisbury %1222-1233% ;; Archevêque de Canterbury %1233-1240%..
+University functions: Paris (Maîtrerégent ès arts %:1194-1196% ?) ;; Oxford (Maîtrerégent ès arts %1196-1202% ?) ;; Paris (Maîtrerégent ès arts à %1208-1213%) ;; Oxford (Maître-régent en Théologie %1214-1222%)..
+Authored work: 'Speculum religiosorum', composed around %1213-1214%..
+Authored work: 'In XII Prophetas comment.', composed around ?.
+Authored work: 'Moralitates in Psalmos', composed around ?.
+Authored work: 'Oratio ad beatissimam Mariam virginem et sanctum Iohannem evangelistam', composed around ?.
+Authored work: 'Oratio ad Iesum Christum', composed around ?.
+Authored work: 'Oratio ad Iohannem evangelistam', composed around ?.
+Authored work: 'Oratio qualibet nocte et summo mane dicenda', composed around ?.
+Authored work: 'Orationes ad beatam Mariam', composed around ?.
+Authored work: 'Psalterium Beatae Mariae', composed around ?.
+Authored work: 'Versus', composed around ?.
+Authored work: 'Sermo in capitulo Pontiniacensi', composed around ?.
+Authored work: 'Sermo in Lucam 15.1', composed around ?.
+Authored work: 'Sermo in Psalmum 1.3', composed around ?.
+Authored work: 'In argumenta sophistica Aristotelis', composed around Oxford..
+Authored work: 'Quodlibeta', composed around ?.
+Authored work: '(Constitutiones)', composed around ?.
+Authored work: 'Epistolae', composed around ?.
+Authored work: 'Summa Abendonensis', composed around ?%1215-1233%.
+Source: IRHT, JONAS : http://jonas.irht.cnrs.fr/oeuvre/5118..

@@ -1,0 +1,10 @@
+PERSON: THOMAS Le Vannier
+Also known as: Thomas LEVANNIER.
+Description: Procureur au Châtelet de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1438-1460%.
+Studied at: ?.
+Academic grades obtained: Maître ?.
+College affiliation: Collège de Dormans-Beauvais : procureur %1438-1460%..
+Source: LAMOP : Opération Charles VI :.

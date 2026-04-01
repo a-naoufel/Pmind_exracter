@@ -1,0 +1,14 @@
+PERSON: BERTRANDUS Du Boisgelin
+Also known as: Bertrandus du BOISGELIN.
+Description: Chanoine de Tréguier.
+Status: Maître.
+Gender: male.
+Active during: %1444-1471%.
+Born in: Bretagne..
+Diocese of origin: Diocèse de Dol..
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) .; Maître ès arts (Paris) ..
+Academic relationships: Son maître est Gaufridus CALVI..
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine de Tréguier..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 2/03/2021)..

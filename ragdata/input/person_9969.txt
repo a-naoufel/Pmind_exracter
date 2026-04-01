@@ -1,0 +1,12 @@
+PERSON: PETRUS Sagarii
+Also known as: Petrus SAGARII; Pierre SAGARII.
+Description: Boursier au collège de Navarre..
+Status: Maître.
+Gender: male.
+Active during: %1362-1372%.
+Born in: Île-de-France (Paris)..
+Diocese of origin: Diocèse de Paris..
+Studied at: Paris (Nation de France), %1362-1372%..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en médecine (Paris) %1362-1363% ;; Étudiant en théologie (Paris) ..
+College affiliation: Boursier artien au collège de Navarre à Paris en ;; Boursier théologien au collège de Navarre à Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 07/04/2024..

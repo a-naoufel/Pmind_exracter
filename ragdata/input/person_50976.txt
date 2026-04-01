@@ -1,0 +1,10 @@
+PERSON: GUIDO 4
+Also known as: GUIDO.
+Description: Chanoine d’Auxerre.
+Status: Extérieur.
+Gender: male.
+Active during: %1281-1281%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Auxerre ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 23/07/2020)..

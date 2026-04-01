@@ -1,0 +1,12 @@
+PERSON: GUNNER
+Also known as: GUNNER.
+Description: Évêque de Viborg.
+Status: Étudiant.
+Gender: male.
+Active during: %1200-1200%.
+Born in: Danemark ;.
+Studied at: Paris vers ..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant (Paris) vers ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Évêque de Viborg ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/04/2022)..

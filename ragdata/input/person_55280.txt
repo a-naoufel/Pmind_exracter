@@ -1,0 +1,11 @@
+PERSON: MICHAEL de Craon
+Also known as: Michael de CRAON.
+Description: Licencié ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1452-1453%.
+Born in: Bretagne ;.
+Diocese of origin: Diocèse de Saint-Malo ;.
+Studied at: Paris (Nation de France) %1452-1453%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 17/02/2023..

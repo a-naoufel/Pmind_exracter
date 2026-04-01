@@ -1,0 +1,10 @@
+PERSON: GOBERTUS de Macello
+Also known as: Gobertus de MACELLO.
+Description: Official de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1233-1263%.
+Studied at: Maître ;.
+Ecclesiastical status: Clerc en ;.
+Ecclesiastical positions held: Chanoine de Cambrai (Sainte-Croix) ;; Official de Cambrai %1233-1237% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 30 décembre 2025..

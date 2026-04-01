@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS Albisupercilii
+Also known as: Aegidius ALBISUPERCILII; Egidius ALBISUPERCILII.
+Description: Maître ès arts à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1362-1362%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris..
+Studied at: Paris (Nation de France) %:1362-1362%..
+Academic grades obtained: Maître ès arts attesté en ..
+Ecclesiastical positions held: Candidat à un canonicat de la collègiale de Paris (Saint-Honoré) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 19/04/2020)..

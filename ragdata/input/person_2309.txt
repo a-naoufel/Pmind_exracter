@@ -1,0 +1,11 @@
+PERSON: FRANCISCUS Rafardi
+Also known as: Franciscus RAFARDI.
+Description: Franciscain.
+Status: Extérieur.
+Gender: male.
+Active during: %1379-1380%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.F.M. : frère franciscain..
+Ecclesiastical positions held: Evêque de Famagouste %1379-1380% ;; Evêque de Segorbe ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 14/09/2021..

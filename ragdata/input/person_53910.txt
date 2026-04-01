@@ -1,0 +1,13 @@
+PERSON: PETRUS Mercerii 1
+Also known as: Petrus MERCERII.
+Description: Chanoine d’Angers.
+Status: Incertain.
+Gender: male.
+Active during: %1371-1391%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Rennes ;.
+Studied at: Angers..
+Academic grades obtained: Bachelier en droit civil en ;; Bachelier in utroque jure (Angers) en ;.
+Ecclesiastical status: Clerc ;; Diacre ;.
+Ecclesiastical positions held: Chanoine de LeMans ;; Chapelain de la cathédrale d’Angers ;; Chanoine d’Angers %1380-1391% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 10/06/2022)..

@@ -1,0 +1,23 @@
+PERSON: HERBERTUS de Bosham
+Also known as: Herbert de BOSHAM.
+Description: Notaire de Thomas Becket.
+Status: Incertain.
+Gender: male.
+Active during: %1140-1194%.
+Born in: Angleterre (Bosham, Sussex) ?.
+Studied at: Paris avant ..
+Academic grades obtained: Magister ;.
+Academic relationships: Son maître est Pierre LOMBARD. Son élève est Thomas BECKET pour l'étude des textes bibliques ;.
+Ecclesiastical positions held: Prêtre.; Chapelain dans la chapelleitinérante de HENRI II avant.
+Other ecclesiastical functions: Notaire de Thomas BECKET, archevêque de Canterbury et chef de sa chancellerie durant son exil en France ;.
+Representation roles: Envoyé dès à Würzbourg auprès de l’Empereur FRÉDÉRIC Ier Barberousse pour expliquer que son maître ne pouvait lui rendre d’importantes reliques parce qu’elles avaient été données par ses prédécesseurs à l’abbaye (bénédictine) de Reading : il semble avoir été le rédacteur de la lettre qui relatait l’affaire ;; Il participe avec Thomas BECKET au concile de Tours assemblé par ALEXANDRE III en ..
+Authored work: 'Commentarium in Psalterium hebraicum Hieronymi', composed around ?.
+Authored work: 'Commentarium in Psalterium', composed around ca.%1168-1176%., dedicated to Dédié à GUILLAUME, archevêque de Sens..
+Authored work: 'Comm. in Epist. Pauli', composed around ca.%1168-1176%., dedicated to Dédié à GUILLAUME, archevêque de Sens..
+Authored work: 'Defensorium Annae', composed around ?.
+Authored work: '(Epistolae)', composed around ?.
+Authored work: '(Vie de Thomas BECKET, archevêque de Canterbury)', composed around %1184-1186%..
+Authored work: '(Liber Melorum en l'honneur de Thomas BECKET, archevêque de Canterbury)', composed around %1184-1186%..
+Authored work: '(Hymne en l'honneur de Thomas BECKET, archevêque de Canterbury)', composed around %1184-1186%..
+Authored work: 'De Peregrinationibus eius', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

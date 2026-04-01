@@ -1,0 +1,8 @@
+PERSON: NICOLA La Michele
+Also known as: Nicola LA MICHELE.
+Description: Maîtresse d’école.
+Status: Suppôt.
+Gender: female.
+Active during: %1437-1437%.
+Religious order: Religieue..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 31/08/2020..

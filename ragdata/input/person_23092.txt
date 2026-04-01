@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Archidiaconus Parisiensis
+Also known as: GUILLELMUS, archidaconus Parisiensis.
+Description: Archidiacre de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1276-1290%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Archidiacre de Paris en et en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 30/11/2019..

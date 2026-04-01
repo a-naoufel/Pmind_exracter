@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Adae
+Also known as: Guillelmus ADAE; Guillaume ADAE.
+Description: Boursier grammairien au Collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1396-1396%.
+Studied at: Paris (Collège de Navarre) %1396-1396%..
+Academic grades obtained: Étudiant en grammaire (Paris) ..
+College affiliation: Boursier grammairien au Collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 3/10/2021..

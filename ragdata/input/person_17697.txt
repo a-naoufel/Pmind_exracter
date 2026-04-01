@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Bane
+Also known as: Guillelmus BANE.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1447-1447%.
+Born in: Écosse..
+Diocese of origin: Diocèse de Brechin..
+Studied at: Paris %1447-1447%..
+Academic grades obtained: Bachelier en décret (Paris) 13 septembre ..
+Ecclesiastical positions held: Prêtre du diocèse de Brechin..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 21/02/2022..

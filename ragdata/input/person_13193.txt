@@ -1,0 +1,11 @@
+PERSON: CAROLUS Guerin 2
+Also known as: Carolus GUERIN.
+Description: Maître en théologie à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1487-1507%.
+Studied at: Paris %:1496-1507%..
+Academic grades obtained: Bachelier en théologie (Paris) attesté en ;; Licencié en théologie (Paris) (27 janvier) ;; Maître en théologie (Paris) (29 octobre) ..
+College affiliation: "Socius" du Collège de Sorbonne..
+Representation roles: Assiste à une assemblée du Collège de Sorbonne durant laquelle l'imprimeur Ulrich GERING est autorisé à vivre au Collège de Sorbonne comme invité, 21 mai ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 20/11/2023)..

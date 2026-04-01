@@ -1,0 +1,9 @@
+PERSON: MACÉ Le Vavasseur
+Also known as: Macé LEVAVASSEUR.
+Description: Bachelier en droit civil.
+Status: Étudiant.
+Gender: male.
+Active during: %1388-1402%.
+Studied at: Angers ;; Paris %1388-1396%..
+Academic grades obtained: Étudiant en décret (Paris) en ?%1388-1396% ?; Bachelier en droit civil (Angers)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/03/2021..

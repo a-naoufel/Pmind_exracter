@@ -1,0 +1,10 @@
+PERSON: ADAM 4
+Also known as: Magister ADAM.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1240-1240%.
+Studied at: Paris..
+Academic grades obtained: Magister (Paris)..
+Authored work: '(Commentaire sur les Sentences)', composed around Vers ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet 27/01/2022..

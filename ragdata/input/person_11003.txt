@@ -1,0 +1,10 @@
+PERSON: ROBERTUS de Montmorillon
+Also known as: Robert de MONTMORILLON; Robert de MORILLON; Robert de MORILHON.
+Description: Maître en chirurgie..
+Status: Suppôt.
+Gender: male.
+Active during: %1471-1511%.
+Studied at: Paris %1499-1499%..
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chanoine de Paris (Notre-Dame) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe GENET, 4/10/2019..

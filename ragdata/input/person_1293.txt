@@ -1,0 +1,45 @@
+PERSON: BERENGARIUS de Landora
+Also known as: BERENGARIUS; Berengarius de LANDORA; Béranger de LANDORE.
+Description: Archevêque de Compostelle.
+Status: Maître.
+Gender: male.
+Active during: %1289-1330%.
+Born in: Rouergue (Rodez)..
+Diocese of origin: Diocèse de Rodez ?.
+Studied at: Montpellier %1292-1293% ;; Paris %1305-1310%..
+Academic grades obtained: Bachelier en théologie (Paris) ;; Licencié en théologie (Paris) ;; Maître en théologie (Paris) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins) %1305-1310%..
+Family relationships: Son père est Arnauld de LANDORE, seigneur de Solmiez..
+Social origin: Noble ;.
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Toulouse en ..
+Religious functions: Prédicateurgénéral des Dominicains .; Définiteur au chapitreprovincial (dominicain) de Carcassonne ;; Sociusdudéfiniteur au chapitregénéral (dominicain) de Gênes en .; Provincial (dominicain) de Toulouse %1306-1308% et %1310-1311% ;; Vicairegénéral des Dominicains %1311-1312% ;; Maîtregénéral des Dominicains %1312-1317% ;; Assiste au chapitregénéral (dominicain) de Zaragoza en ;; Assiste au chapitreprovincial (dominicain) de Périgueux en ;; Préside le chapitregénéral (dominicain) de Metz en ;; Préside le chapitregénéral (dominicain) de Londres en ;; Préside le chapitregénéral (dominicain) de Bologne en ;; Préside le chapitregénéral (dominicain) de Montpellier en ..
+Ecclesiastical positions held: ?Chanoine de Rodez : il en porte le titre en ;; Archevêque de Compostelle %1317-1330%..
+University functions: Limoges (Couvent dominicain : Lecteur Natural. %1289-1290%) ;; Brives (Couvent dominicain : Lecteur Natural. %1290-1291%) ;; Bergerac (Couvent dominicain : Lecteur Natural. %1291-1292%) ;; Rodez (Couvent dominicain : Lecteur de Théologie %1294-1295%) ;; Albi (Couvent dominicain : Lecteur de Théologie %1297-1298%) ;; Montpellier (Couvent dominicain : Lecteur de Théologie %1298-1299%) ;; Limoges (Couvent dominicain : Lecteur de Théologie %1301-1302%) ;; Toulouse (Couvent dominicain : Lecteur de Théologie ) ;; Paris (Couvent dominicain : Lecteur des Sentences %1305-1306% et ) ;; Paris (Couvent dominicain : Maître-Régent %1308-1310%)..
+Representation roles: Il participe au concile de Vienne en .; Légat de JEAN XXII auprès de PHILIPPE V en ..
+Authored work: '(Sermon pour le Ve Dimanche après Pâques) Sermo (et Collatio in festa translationis s. Dominici)', composed around (24 mai) à Paris..
+Authored work: 'Lumen animae', composed around : commencé à cette date ; achevé vers %1323-1330%..
+Authored work: 'Quaestiones disputatae', composed around ?.
+Authored work: '(Intervention à l'aulique de Thomas de WYLTON)', composed around ?, dedicated to Intervention à l'aulique de Thomas de WYLTON..
+Authored work: '(Consultation des 13 Maîtres sur les articles des Franciscains spirutels)', composed around (Avignon)..
+Authored work: '(Lettre encyclique I)', composed around (22 mai) à Carcassone..
+Authored work: '(Lettre encyclique II)', composed around (10 juin) à Metz..
+Authored work: '(Lettre encyclique III)', composed around (2 juin) à Londres..
+Authored work: '(Lettre encyclique IV)', composed around (18 mai) à Bologne..
+Authored work: '(Lettre encyclique V)', composed around (6 juin) à Montpellier..
+Authored work: '(Lettre encyclique VI : lettre d'excuse)', composed around à Pampelune..
+Authored work: 'Ordinationes de societate fratrum peregrinantium', composed around à Montpellier..
+Authored work: 'Relatio facta ab auditoribus et examinatoribus a concilio Vienensi deputatis (quibus Berengarius annumeratus est) super negotio regulae fratrum Minorumé ad decretalem "Exivi de paradiso" praeparandam', composed around %1311-1312%..
+Authored work: 'Epist. ad priorem sororum monasterii Prulliani', composed around .
+Authored work: 'Litterae ad Ioh. de S. Lifardo, decanum eccl. Cicestriae (s.a.)', composed around ?, dedicated to Adressé à John de SAINT LIPHARD, dean de Chichester..
+Authored work: 'Ordinationes pro conventu Montipessulani', composed around (16 février)..
+Authored work: 'Sororibus monasterii S.Matthaei, juxta Rothomagum', composed around (4 mars) à Paris..
+Authored work: 'Ordinationes pro fratribus provinciae Aragonie', composed around (20 octobre) à Valence..
+Authored work: 'Litterae ad capitulum gen. Ord. Praed. Lugduni celebratum', composed around (5 juin) à Avignon..
+Authored work: 'Litterae ad capitulum gen. Pampilonae a. 1317 celebratum', composed around ..
+Authored work: 'Litterae quibus Rainaldus de Porta archiep. Bituricensis et fr. Berengarius mag. Ord. Praed. legationem ad curiam ducis Burgundiae Summo Pontifici renuntiant', composed around (23 mai)..
+Authored work: '(Vota quorumdam magistrorum in theologia (quibus Berengarius electus Compostellan. annumeratus est) contra tres articulos partis Ordinis Minorum)', composed around (14 février-3 mai)..
+Authored work: 'Constitutiones super vicariis et receptoribus creandis in ecclesia Compostellana sede vacante', composed around %1319-1327%.
+Authored work: 'Statuta Capitularia', composed around %1319-1327%.
+Authored work: 'Constitutiones synodales', composed around %1319-1327%.
+Authored work: 'Ordinationes de societate fratrum Peregrinantium propter Christum', composed around (20 octobre)..
+Source: MIRABILE :.

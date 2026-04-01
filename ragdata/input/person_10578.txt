@@ -1,0 +1,9 @@
+PERSON: RADULPHUS Aoustin
+Also known as: Radulphus AOUSTIN; Raoul AOUSTIN; Radulphus BARBITONSOR.
+Description: Bedeau de la nation picarde..
+Status: Suppôt.
+Gender: male.
+Active during: %1275-1285%.
+Studied at: Paris (Nation de Picardie) %1275-1285%..
+University functions: Bedeau de la nation picarde à l'Université de Paris, %1275-1285%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/02/2024)..

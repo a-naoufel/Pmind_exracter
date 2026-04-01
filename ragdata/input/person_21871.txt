@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Magnien
+Also known as: Guillelmus MAGNIEN.
+Description: Chanoine d'Autun.
+Status: Incertain.
+Gender: male.
+Active during: %1485-1496%.
+Studied at: ?.
+Academic grades obtained: Maître..
+Ecclesiastical positions held: Chanoine d'Autun %1485-1496% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 16/05/2022)..

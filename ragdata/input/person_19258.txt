@@ -1,0 +1,8 @@
+PERSON: GUILLEBERTUS de Rous
+Also known as: Guillebert de ROUS.
+Description: Bedeau de la Nation de France.
+Status: Suppôt.
+Gender: male.
+Active during: %1418-1418%.
+University functions: Paris (Nation de France : bedeau en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 06/02/2022..

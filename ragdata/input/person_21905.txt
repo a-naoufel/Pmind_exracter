@@ -1,0 +1,11 @@
+PERSON: HENRICUS 4
+Also known as: HENRICUS.
+Description: Évêque.
+Status: Incertain.
+Gender: male.
+Active during: %1246-1283%.
+Born in: Suède.
+Studied at: Paris, ..
+Academic grades obtained: Magister (P), ..
+Ecclesiastical positions held: Chanoine de Linköping, ;; Évêque de Linköping, %1258-1283%..
+Source: Svenskt biografiskt lexikon (SBL), 18, 1969-1971 (SCHÜCK (H.): Henrik), https://sok.riksarkivet.se/sbl/Presentation.aspx?id12879. Consulté le 28.1.2017..

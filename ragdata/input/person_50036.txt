@@ -1,0 +1,12 @@
+PERSON: GERARDUS de Lemovicis
+Also known as: Geraldus de LEMOVICIS.
+Description: Procureur de la Nation de France.
+Status: Maître.
+Gender: male.
+Active during: %1306-1306%.
+Born in: Limousin ?.
+Diocese of origin: Diocèse de Limoges ?.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) ;.
+Ecclesiastical positions held: Paris (Nation de France : Procureur en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 24/10/2019..

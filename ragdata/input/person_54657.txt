@@ -1,0 +1,11 @@
+PERSON: SIMON Reveillaudi
+Also known as: Simon REVEILLAUDI.
+Description: Chanoine de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1430-1452%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Archiprêtre de la Sie %1430- % ;; Doyen de Chatellerault %1431- % ;; Chanoine de Poitiers (Saint-Pierre-le-Puellier) % -1452% ;; Chanoine de Poitiers % -1452% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 19/11/2022..

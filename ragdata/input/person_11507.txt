@@ -1,0 +1,10 @@
+PERSON: SIMON de Valauregui
+Also known as: Simon de VALAUREGNI; Simon de VALAUREGNI.
+Description: Chanoine de Laon (St-Pierre)..
+Status: Maître.
+Gender: male.
+Active during: %1275-1275%.
+Studied at: Paris avant ..
+Academic grades obtained: Maître en décret ;.
+Ecclesiastical positions held: Chanoine de Laon (St-Pierre)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 13/09/2024..

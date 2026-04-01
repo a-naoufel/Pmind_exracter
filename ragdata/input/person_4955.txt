@@ -1,0 +1,9 @@
+PERSON: HENRICUS de Porteghael
+Also known as: Henricus de PORTEGHEAL.
+Description: Étudiant ès arts.
+Status: Étudiant.
+Gender: male.
+Active during: %1348-1349%.
+Studied at: Paris (Nation Anglo-allemande) %1348-1349%.
+Academic grades obtained: Étudiant ès arts (Paris) %1348-1349% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/07/2022)..

@@ -1,0 +1,12 @@
+PERSON: VINCENTIUS Le Fourbeur
+Also known as: Vincentius LE FOURBEUR.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1431-1433%.
+Born in: Île-de-France ;.
+Diocese of origin: Diocèse de Meaux..
+Studied at: Paris %1431-1433%..
+Academic grades obtained: Bachelier en décret (?Paris) attesté en ;.
+Ecclesiastical positions held: Clerc du diocèse de Meaux ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 03/10/2024..

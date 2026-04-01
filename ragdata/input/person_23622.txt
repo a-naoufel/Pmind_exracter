@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Charlot
+Also known as: Guillelmus CHARLOT.
+Description: Official de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1351-1351%.
+Studied at: ?.
+Academic grades obtained: ?.
+Other ecclesiastical functions: Official de Paris ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 4/10/2021..

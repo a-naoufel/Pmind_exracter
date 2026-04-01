@@ -1,0 +1,12 @@
+PERSON: RODERICUS Eanes
+Also known as: Rodrigo EANES.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1245-1245%.
+Born in: Portugal..
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+Religious order: O.S.A. : chanoinerégulier de Coïmbre (Santa Cruz) ;.
+Religious functions: O.S.A. : prévôt de Coïmbre (Santa Cruz) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 2/05/2024..

@@ -1,0 +1,11 @@
+PERSON: PETRUS de Nidroso
+Also known as: Petrus de NIDROSO; Petrus SIGVARDI; Petr SIGURÐARSON?; PETR; Petre FRANSEIS.
+Description: Chanoine.
+Status: Étudiant.
+Gender: male.
+Active during: %1299-1310%.
+Born in: Norvège (Trondheim?)..
+Studied at: Paris, %1299-1300%..
+Academic grades obtained: Étudiant (Paris), %1299-1300..
+Ecclesiastical positions held: Chanoine de Nidaros (Trondheim), %1303-1310%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 25/02/2022..

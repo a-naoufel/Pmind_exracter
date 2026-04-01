@@ -1,0 +1,10 @@
+PERSON: ANSELMUS Lohier
+Also known as: Anselmus LOHIER.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1389-1393%.
+Studied at: Paris ;; Avignon..
+Academic grades obtained: Étudiant en décret pendant trois ans à Paris d'après un rotulus de l'Université d'Avignon daté de ;; Étudiant en droit canon à Avignon d'après un rotulus de l'Université d'Avignon daté de ..
+Ecclesiastical positions held: Chapelain de la léproserie de Neuville-Vitasse ;; Chapelain de Lille (Saint-Pierre) ;; Provision pour l'égliseparoissiale de Mercatel (diocèse d'Arras) en , vavante par suite du décès de Johannes BURGUETUS : mandat au doyen d'Avignon (Saint-Agricol), au doyen d'Avignon (Saint-Pierre) et à l'official d'Arras.; Chapelain d'Arras (cathédrale) d'après un rotulus de l'Université d'Avignon daté de .; Expectative de bénéfice ecclésiastique à la collation de l'évêque, du doyen et du chapitre d'Arras obtenue plus tôt reprise et étendue à un canonicat avec expectative de prébende dans la cathédrale d'Arras dans un rotulus de l'Université d'Avignon daté de ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 6/08/2020)..

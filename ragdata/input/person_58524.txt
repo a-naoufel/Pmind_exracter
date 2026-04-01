@@ -1,0 +1,13 @@
+PERSON: NICOLAUS de Fontanis
+Also known as: Nicolaus de FONTANIS.
+Description: Procureur du collège des Cholets.
+Status: Maître.
+Gender: male.
+Active during: %1470-1513%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Beauvais.
+Studied at: Paris (Nation de Picardie) %1470-1513%..
+Academic grades obtained: Maître ès arts (Paris) ?.
+College affiliation: Collège Sainte-Barbe : étudiant %1470-1474% ;; Collège des Cholets : Procureur en ;.
+Academic relationships: Son maître est Johannes MOURET pour son cursus ès arts au collège Sainte-Barbe en %1470-1474% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/02/2025)..

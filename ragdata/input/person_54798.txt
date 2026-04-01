@@ -1,0 +1,10 @@
+PERSON: HUGO de Lavis
+Also known as: Hugo de LAVIS.
+Description: Vicaire général de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1486-1486%.
+Studied at: ?.
+Academic grades obtained: Docteur in utroque jure ;.
+Other ecclesiastical functions: Vicairegénéral de Poitiers ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 07/12/2022..

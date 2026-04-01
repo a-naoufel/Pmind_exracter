@@ -1,0 +1,12 @@
+PERSON: PHILIPPUS de Mergeyo
+Also known as: Philippus de MERGEYO.
+Description: Chanoine de Troyes.
+Status: Maître.
+Gender: male.
+Active during: %1485-1491%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) en ;.
+Family relationships: Son frère est Nicolas de MERGEY, procureur du roi à Troyes ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Troyes %1485-1491% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 18/05/2023..

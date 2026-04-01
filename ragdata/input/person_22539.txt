@@ -1,0 +1,13 @@
+PERSON: STEPHANUS de Lorriaco 1
+Also known as: Stephanus de LORRIACO; Stephanus de LORRIZ; Etienne de LORRIS.
+Description: Maître en décret.
+Status: Maître.
+Gender: male.
+Active during: %1248-1280%.
+Studied at: Paris avant ..
+Academic grades obtained: Maître en décret en ;.
+Family relationships: Son frère est Robertus de LORRIACO, chanoine de Reims ;.
+Ecclesiastical positions held: Chanoine de Reims %1249-1266% ;; Ecolâtre de Reims vers %1270-1280% ;; Chanoine de Rouen %1252-1253% ;.
+Other ecclesiastical functions: Official de Rouen ;; Clercdel’archevêque de Rouen %1249-1252% ;; Official de Reims ;.
+University functions: Paris (Faculté de Décret : maître-régent vers ?)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 06/05/2025..

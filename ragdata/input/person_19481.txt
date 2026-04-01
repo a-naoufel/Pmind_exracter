@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Facier
+Also known as: Guillelmus FACIER.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Maître (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe Genet, 30/04/2022.

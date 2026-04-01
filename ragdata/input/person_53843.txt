@@ -1,0 +1,11 @@
+PERSON: BERENGARIUS Mercerii
+Also known as: Berengarius MERCERII.
+Description: Chanoine de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1321-1336%.
+Studied at: ?.
+Academic grades obtained: Docteur en droit canon ;.
+Ecclesiastical positions held: Chanoine de Rodez %1327-1336% ;.
+Other ecclesiastical functions: Vicaire-administrateur de Rodez ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 1/06/2022..

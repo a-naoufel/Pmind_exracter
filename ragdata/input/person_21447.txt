@@ -1,0 +1,12 @@
+PERSON: STEPHANUS Luilier 1
+Also known as: Stephanus LUILIER.
+Description: Bourgeois de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1464-1464%.
+Born in: Paris..
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son neveu est Johannes LUILIER, receveur de la nation de France ;.
+Social origin: Bourgeois de Paris.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/01/2024..

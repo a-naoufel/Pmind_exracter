@@ -1,0 +1,14 @@
+PERSON: ARNALDUS de Courtrai
+Also known as: Arnaud de COURTRAI.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1225-1230%.
+Born in: Flandre (Courtrai ?)..
+Diocese of origin: Diocèse de Tournai ?.
+Studied at: Paris vers %1225-1230%.
+Academic grades obtained: Étudiant (Paris)..
+Family relationships: Son père est DANIEL, chevalier ; Son oncle est Roger de WARCOING, châtelain de Courtrai ;.
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine de Harebeke..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/2/2022)..

@@ -1,0 +1,13 @@
+PERSON: BARTHOLOMAEUS de Calamandrana
+Also known as: Bartholomaeus de CALAMANDRANA; Bartholomaeus de CALAMADRAVE.
+Description: Chanoine d'Évreux.
+Status: Étudiant.
+Gender: male.
+Active during: %1304-1348%.
+Born in: Italie (Piémont : Calamandrana, dans le Montferrat)..
+Studied at: Paris en ..
+Academic grades obtained: Étudiant ?.
+Family relationships: Son père est Francesco, seigneur de CALAMANDRANA..
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine de Beauvais %1313-1318% ;; Chanoine d'Évreux %1304-1327% ;; Chanoine de Verdun avec expectative de prébende ;; Chanoine de Verdun %1318-1329% ;; Expectative de bénéfice à Liège en ;; Archidiacre de Brabant en la cathédrale de Liège en %1329-1343% ;; Chanoine de Liège %1340-1348% ;; Chanoine de Chartres avant ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Anne Tournieroux ; dernière mise à jour Jean-Philippe Genet, 24/12/2025..

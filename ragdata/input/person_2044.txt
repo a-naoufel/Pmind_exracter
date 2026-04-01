@@ -1,0 +1,18 @@
+PERSON: DURANDUS Hispanus
+Also known as: Durandus HISPANUS; Durand d'ESPAGNE; Durand PAES..
+Description: Évêque de Coïmbra.
+Status: Maître.
+Gender: male.
+Active during: %1265-1283%.
+Born in: Espagne..
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) ca...
+Ecclesiastical positions held: Évêque de Coimbra % -1267% ;; Évêque d'Evora %1267-1283% ;.
+University functions: Paris (Université : Procureur à la Curieromaine, ) ?.
+Authored work: 'Comment. in lib. Topicorum', composed around ?.
+Authored work: 'Comment. in logica veterem', composed around ?.
+Authored work: 'Comment. in metaphysicam Aristotelis', composed around ?.
+Authored work: 'Summa de grammmatica', composed around ?.
+Authored work: 'Expositio et quaestiones in libros Averrois de substantia orbis', composed around ?.
+Authored work: 'Comm. in Oeconomica Aristotelis', composed around .
+Source: ALCUIN : http://www-app.uni-regensburg.de/Fakultaeten/PKGG/Philosophie/Gesch_Phil/alcuin/philosopher.php?id2408.

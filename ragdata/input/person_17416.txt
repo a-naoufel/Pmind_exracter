@@ -1,0 +1,9 @@
+PERSON: FRANCISCUS Josserandi
+Also known as: Franciscus JOSSERANDI.
+Description: Licencié en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1474-1474%.
+Academic grades obtained: Licencié en décret (Paris) avril ..
+Academic relationships: Son maître est Nicholaus de CONTY..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 08-09-2021..

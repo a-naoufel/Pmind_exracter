@@ -1,0 +1,41 @@
+PERSON: GREGORIUS Tiphernatis
+Also known as: Gregorius TIPHERNAS; Grégoire TIFFERN; Gergorio TIFERNATE; Gregorio DACITTÀDICASTELLO.
+Description: Humaniste.
+Status: Incertain.
+Gender: male.
+Active during: %1430-1464%.
+Born in: Italie (CittadaCastello)..
+Studied at: Pérouse ?; Florence ;.
+Academic grades obtained: Maître ?.
+Family relationships: Son fils est Lelio TIFERNATE..
+Academic relationships: Son maître est Gemistius PLETHON à Florence ; Son élève est Giovanni PONTANO à Naples en ; Son élève est Robert GAGUIN à Paris en %1458-1459%..
+University functions: Paris %1458-1459%.; Paris (Université : professeur de grec et de réthorique latine %1458-1459%) ;.
+Authored work: 'De patientia Iob', composed around ..
+Authored work: 'Homiliae X de penitentia', composed around ..
+Authored work: 'Hymnus in Virginem Dei matrem', composed around ?.
+Authored work: 'Hymnus ad Trinitatem'.
+Authored work: 'De fabrica mundi', composed around ..
+Authored work: 'Magna Moralia', composed around ?.
+Authored work: 'Metaphysica', composed around %1453-1455%., dedicated to Dédié à NICOLAS V..
+Authored work: 'De igne', composed around %1453-1455% ?, dedicated to Dédié à NICOLAS V ?.
+Authored work: 'De piscibus in sicco degentibus', composed around %1453-1455% ?, dedicated to Dédié à NICOLAS V ?.
+Authored work: 'De vertigine', composed around %1453-1455% ?.
+Authored work: 'Elegia ad Iohannem Tortellium Aretinum', composed around ?.
+Authored work: 'Elegia ad Pium pontificem maximum', composed around ..
+Authored work: 'Elegia ad Joan. Tortelium', composed around ?.
+Authored work: 'Elegia de vitae fragilitate', composed around ?.
+Authored work: 'Carmen ad illustrissimum Franciscum Sfortiam ducem Mediolani', composed around ?.
+Authored work: 'Carmen ad Ludovicum Mantuae principem', composed around ?.
+Authored work: 'Carmen in mortem Nicholai V papae', composed around ?.
+Authored work: 'Epistola ad Laurentium Vallam', composed around ., dedicated to Adressée à Lorenzo VALLA..
+Authored work: 'Epistola pro Nicholao V papa', composed around ., dedicated to Adressée au Pape NICOLAS V..
+Authored work: 'Epitaphium Pallae de Strozzis', composed around ..
+Authored work: 'Epitaphium Pauli Barbi', composed around ..
+Authored work: 'Opuscula', composed around ?.
+Authored work: 'Orationes', composed around ?.
+Authored work: 'Vaticinium cladis Italiae', composed around ?.
+Authored work: 'Geographia', composed around ?.
+Authored work: 'De regno', composed around %1453-1455% ?, dedicated to Dédié à NICOLAS V ?.
+Authored work: 'Ethica Eudemia', composed around ?, dedicated to Dédié à NICOLAS V ?.
+Authored work: 'Ethica Nicomachea', composed around ?, dedicated to Dédié à NICOLAS V ?.
+Source: DBI: Stefano PAGLIAROLI :.

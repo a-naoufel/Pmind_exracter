@@ -1,0 +1,9 @@
+PERSON: LAURENTIUS Rale
+Also known as: Laurent RALE.
+Description: Huissier.
+Status: Extérieur.
+Gender: male.
+Active during: %1461-1461%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

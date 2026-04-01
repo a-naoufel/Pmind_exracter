@@ -1,0 +1,12 @@
+PERSON: MARTINUS Malingre
+Also known as: Martinus MALINGRE.
+Description: Chanoine d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1451-1472%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;; Licencié en droit canon ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d’Amiens %1451-1472% ;.
+Other ecclesiastical functions: Official d’Amiens %1452-1454% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 22/12/2021..

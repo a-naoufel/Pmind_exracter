@@ -1,0 +1,10 @@
+PERSON: GERARDUS Guliart
+Also known as: Gerardus GULIART.
+Description: Étudiant en droit de Louvain.
+Status: Étudiant.
+Gender: male.
+Active during: %1457-1457%.
+Diocese of origin: Diocèse de Cambrai ;.
+Studied at: Paris (Nation de Picardie ?) avant .; Louvain ;.
+Academic grades obtained: Étudiant ès arts (Paris) ;; Étudiant en droit (Louvain) ;.
+Source: RAG ;.

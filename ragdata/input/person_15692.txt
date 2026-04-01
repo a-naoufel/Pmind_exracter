@@ -1,0 +1,11 @@
+PERSON: ANTHONIUS Noblement
+Also known as: Anthonius NOBLEMENT.
+Description: Bachelier Décret.
+Status: Gradué.
+Gender: male.
+Active during: %1501-1501%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Chalon-sur-Saône..
+Studied at: Paris %1501-1501%..
+Academic grades obtained: Bachelier en décret (Paris) (le 20 avril) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision : Jean-Philippe Genet, dernière mise à jour 1/10/2020)..

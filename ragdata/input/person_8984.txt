@@ -1,0 +1,11 @@
+PERSON: MICHAEL Car
+Also known as: Michael CAR; Michael KER; Michael KERR.
+Description: Maître en arts..
+Status: Maître.
+Gender: male.
+Active during: %1470-1486%.
+Born in: Écosse ;.
+Diocese of origin: Diocèse de Glasgow..
+Studied at: Paris %1470-1472% ;; ?Louvain %1480-1483%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; ?Étudiant en médecine (Louvain) %1480-1481%..
+Source: STUDIUM : http:;//lamop-vs3.univ-paris1.fr/studium/ Rédaction Anne Tournieroux ; révision, Jean-Philippe Genet, 25/09/2023..

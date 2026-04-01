@@ -1,0 +1,12 @@
+PERSON: HUGO Mercatoris 1
+Also known as: Hugo MERCATORIS; Hugo MERCHADERII.
+Description: Chanoine de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1396-1413%.
+Diocese of origin: Auvergne (Clermont) ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Bourgeoisie de Clermont ;.
+Ecclesiastical positions held: Chanoine de Clermont %1396-1413% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 28/09/2023)..

@@ -1,0 +1,11 @@
+PERSON: BARTHOLOMAEUS de Pilleio
+Also known as: Bartholomaeus de PILLEIO; Tholomeus PYLIO; THOLOMEUS.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1250-1269%.
+Born in: Italie ;.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Chanoine de Rouen %1250-1269% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 12/12/2020..

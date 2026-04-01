@@ -1,0 +1,15 @@
+PERSON: HENRICUS Bosch de Wil
+Also known as: Henricus BOSCH de Wil.
+Description: Maître de l’école de Saint-Gall.
+Status: Maître.
+Gender: male.
+Active during: %1424-1439%.
+Born in: Alémanie (Wil, canton de Saint-Gall) ;.
+Diocese of origin: Diocèse de Constance ;.
+Studied at: Paris (Nation Anglo-allemande) %1430-1432%.
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licence ès arts (Paris) ;; Maîtrise ès art (Paris) ;.
+Academic relationships: Son maître est Albertus VORDEN pour le baccalauréat en ; Son maître est Conradus WILD pour la licence en ; Son maître est Conradus WILD pour la maîtrise en ;.
+Ecclesiastical status: Clerc en ;.
+Authored work: 'Lectura super Aristotelem', composed around %1424-1425% à Ulm..
+Authored work: 'Sammelband', composed around %1424-1425% à Ulm..
+Source: RAG ;.

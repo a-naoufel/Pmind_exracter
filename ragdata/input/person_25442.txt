@@ -1,0 +1,12 @@
+PERSON: GISLEBERTUS Bot de Nova-Ecclesia
+Also known as: Ghiselbertus BOT de Nova-Ecclesia.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1365-1365%.
+Born in: Pays-Bas ?.
+Diocese of origin: Diocèse d'Utrecht ;.
+Studied at: Paris (Nation Anglo-allemande) %1365-1365%..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Academic relationships: Son maître est Guillelmus BUZER de Hoesden pour le baccalauréat en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 17/01/2022..

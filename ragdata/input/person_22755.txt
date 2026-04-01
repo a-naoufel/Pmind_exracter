@@ -1,0 +1,11 @@
+PERSON: GILO 1
+Also known as: GILO.
+Description: Abbé de Saint-Père de Chartres.
+Status: Extérieur.
+Gender: male.
+Active during: %1231-1254%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.S.B..
+Religious functions: Abbé (bénédictin) de Saint-Père de Chartres %1231-1254% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 16/01/2022..

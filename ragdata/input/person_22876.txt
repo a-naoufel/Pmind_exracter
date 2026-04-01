@@ -1,0 +1,12 @@
+PERSON: GUIDO Vigier 2
+Also known as: Guy III VIGIER le jeune.
+Description: Abbé de Marmoutier.
+Status: Incertain.
+Gender: male.
+Active during: %1458-1498%.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son oncle est Guy II VIGIER l'ancien..
+Religious order: O.S.B..
+Religious functions: Abbé (bénédictin) de Marmoutier %1458-1498% ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

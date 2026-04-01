@@ -1,0 +1,8 @@
+PERSON: ARNULPHUS de Fiennes
+Also known as: Arnulphus de FIENNES dit le Bastart; Arnulphus le BASTART.
+Description: Homme d'armes.
+Status: Extérieur.
+Gender: male.
+Active during: %1371-1373%.
+Studied at: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet 17/11/2020..

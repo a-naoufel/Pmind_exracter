@@ -1,0 +1,12 @@
+PERSON: HAIMERICUS Segaudi
+Also known as: Aymericus SEGAUDI.
+Description: Maître en décret.
+Status: Maître.
+Gender: male.
+Active during: %1429-1429%.
+Studied at: Paris..
+Academic grades obtained: Docteur en décret (Paris)..
+College affiliation: Commanderie Saint-Antoine..
+Religious order: Chanoinerégulier (O.S.A.) de Saint-Antoine-en-Viennois..
+University functions: Paris (Université : peut-être membre de l’ambassade auprès de l’Université de Vienne en (mars)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 2/02/2021)..

@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS Imperatoris
+Also known as: Aegidius IMPERATORIS; Gilles LEMPEREUR.
+Description: Maître ès arts..
+Status: Maître.
+Gender: male.
+Active during: %1379-1387%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en théologie (Paris)..
+College affiliation: Sorbonne ?.
+Ecclesiastical positions held: Candidat sur le rotulus de à un matricularia en l'église de Reims ou dans une quelconque léproserie à la collation de l'évêque de Paris ou encore à la concession d'une "absolution a pena et culpa"..
+University functions: Paris (Faculté de Théologie : subbedellus en %1379-1387% au moins, puis bedellus)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 05/05/2020)..

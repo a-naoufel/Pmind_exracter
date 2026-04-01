@@ -1,0 +1,14 @@
+PERSON: PETRUS Figuli
+Also known as: Petrus FIGULI; Pierre FIGULI.
+Description: Proviseur du collège de Navarre..
+Status: Maître.
+Gender: male.
+Active during: %1384-1394%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Langres..
+Studied at: Paris (Collège de Navarre) %1384-1394%..
+Academic grades obtained: Maître ès arts (Paris) ?; Étudiant décret. (Paris) %1384-1388% ;; Étudiant en théologie (Paris) ..
+College affiliation: Collège de Navarre %1384-1394%; Proviseur du collège de Navarre à Paris en ..
+Ecclesiastical status: Clerc du diocèse de Langres ;.
+Ecclesiastical positions held: Chanoine d'Avenay au diocèse de Reims %1388-1394% ;; Chanoine de Mussy-sur-Seine (collégiale Saint Pierre) au diocèse de Langres en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/03/2024)..

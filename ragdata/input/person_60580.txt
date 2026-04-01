@@ -1,0 +1,25 @@
+PERSON: PETRUS Aureoli
+Also known as: Pierre AURIOL; Petrus AURIOLI.
+Description: Archevêque d’Aix-en-Provence.
+Status: Maître.
+Gender: male.
+Active during: %1295-1322%.
+Born in: Aquitaine (Quercy : Gourdon) ;.
+Diocese of origin: Diocèse de Cahors.
+Studied at: Paris ;; Bologne ;; Toulouse..
+Academic grades obtained: Maître en théologie (Paris)..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Religious order: O.F.M. : frère franciscain..
+Ecclesiastical positions held: Archevêque de Aix..
+Authored work: 'Tractatus de principiis naturae', composed around (Bologne)..
+Authored work: 'Tractatus de conceptione B. Mariae Virginis', composed around (20 décembre)..
+Authored work: 'Recommendatio S. Scripturae', composed around ..
+Authored work: 'Comment. in libros I-IV Sententiarum', composed around , première rédaction dans deux manuscrits et %1318-1319%, deuxième rédaction sans tous les autres..
+Authored work: 'Reportationes', composed around ?.
+Authored work: 'Quaestiones disputatae', composed around ?.
+Authored work: 'Compendium litteralis sensus totius Scripturae', composed around .
+Authored work: 'Divisio Sacrae Scripturae (extraits du Compendium)', composed around ?.
+Authored work: 'Postilla super Isaiam', composed around ?.
+Authored work: 'Quodlibet I, 16 quaestiones', composed around .
+Authored work: 'Librorum 4 Sent. compendium', composed around ?.
+Authored work: '(Abrégés de ses Comm. in Sent.)', composed around ?.

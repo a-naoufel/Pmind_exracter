@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS de Brye
+Also known as: Aegidius de BRYE.
+Description: Bachelier ès arts..
+Status: Gradué.
+Gender: male.
+Active during: %1484-1484%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Beauvais..
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Academic relationships: Son maître est Jean STANDONCK..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 23/04/2020)..

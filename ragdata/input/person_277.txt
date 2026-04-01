@@ -1,0 +1,14 @@
+PERSON: ALANUS Guilloti 2
+Also known as: Alanus GUILLOTI.
+Description: Docteur en décret.
+Status: Maître.
+Gender: male.
+Active during: %1379-1403%.
+Born in: Bretagne..
+Diocese of origin: Diocèse de Tréguier..
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier en décret (Paris) en ;; Docteur en décret (Paris) ..
+Ecclesiastical status: Prêtre du diocèse de Tréguier ;.
+Ecclesiastical positions held: Curé de Trebreden (Diocèse de Tréguier) en .; Candidat à un bénéfice ecclésiastique à la collation de l'évêque de Tréguier en dans le rotulus des bacheliers et licenciés en droit canon et en droit civil de l'Université de Paris ;; Provision pour un bénéfice dans le diocèse de Tréguier en (26 novembre) avec mandat au doyen, au chancelier et au chantre de la cathédrale de Paris ;; Candidat à un canonicat avec expectative de prébende à la cathédrale de Tréguier en (24 novembre) dans un rotulus de gradués ;; Provision pour un bénéfice dans le diocèse de Tréguier avec mandat à l'évêque de Tréguier mais les ravages de l'eau rendent ce bénéfice inutile.; Candidat à l'égliseparoissiale de Plouguin (diocèse de Tréguier) pour laquelle il est déjà en litige dans un rotulus compilé par Gilles de LESCOURS en (26 juillet) ;; Curé de Plouguin (Diocèse de Tréguier) en .; Candidat à un bénéfice sur le Rotulus nuntiorum UniversitatisParisiensis adressé à BENOÎT XIII en ;; Candidat à un un canonicat de Paris sur le Magnus Rotulus de l’Université de Paris daté de (21 octobre) et présenté à BENOÎT XIII parmi les maîtres en décret ;.
+University functions: Paris (Faculté de Décret : Maître-régent en ) ;; Paris (Faculté de Décret : Nuntius en pour porter le rotulus)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 9/01/2019..

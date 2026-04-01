@@ -1,0 +1,10 @@
+PERSON: ROBERTUS Commentator Elenchorum
+Also known as: ROBERTUS commentator Elenchorum.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1270-1270%.
+Studied at: Paris ?.
+Academic grades obtained: Maître ès arts (Paris)..
+Authored work: 'Notitie supra librum Topicorum Aristotelis', composed around %1270-1270%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 13/03/2024)..

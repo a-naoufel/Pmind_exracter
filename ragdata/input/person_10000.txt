@@ -1,0 +1,9 @@
+PERSON: PETRUS Ad Parisius
+Also known as: Petrus ad PARISIUS; Petrus de PARISIUS.
+Description: Auditeur des causes au Châtelet de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1308-1308%.
+Studied at: ?.
+Academic grades obtained: Magister ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 21/11/2019..

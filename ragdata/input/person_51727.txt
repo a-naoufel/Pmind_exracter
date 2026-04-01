@@ -1,0 +1,12 @@
+PERSON: GOBERTUS de Poilly
+Also known as: Gobert de POILLY.
+Description: Étudiant au Collège de Laon..
+Status: Étudiant.
+Gender: male.
+Active during: %1386-1387%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie) %1386-1387%..
+Academic grades obtained: Étudiant en médecine (Paris) %1386-1387% ;.
+College affiliation: Collège de Laon : boursier en médecine %1386-1387% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 13/12/2020..

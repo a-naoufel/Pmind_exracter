@@ -1,0 +1,12 @@
+PERSON: PETRUS Amalvini
+Also known as: Petrus AMALVINI.
+Description: Chanoine de Bordeaux.
+Status: Incertain.
+Gender: male.
+Active during: %1305-1310%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Bordeaux %1305-1309% ;.
+Other ecclesiastical functions: Vicairegénéral de Poitiers ;.
+Representation roles: Nonce apostolique en Angleterre %1307-1309% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 26/11/2022..

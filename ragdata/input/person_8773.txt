@@ -1,0 +1,10 @@
+PERSON: LUPOLDUS de Robenburch
+Also known as: Lupoldus de ROBENBURCH.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris en ..
+Academic grades obtained: Étudiant (Paris) ?.
+Family relationships: Son parent est (peut-être) Rudolphus de ROBENBURCH qui signe en même temps que lui ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 06/09/2023..

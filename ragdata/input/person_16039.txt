@@ -1,0 +1,9 @@
+PERSON: ROBERTUS Estat
+Also known as: Robertus ESTAT.
+Description: Maître d'école.
+Status: Suppôt.
+Gender: female.
+Active during: %1380-1380%.
+Studied at: Paris ;.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 24/08/2024..

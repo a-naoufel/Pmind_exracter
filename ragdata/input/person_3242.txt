@@ -1,0 +1,9 @@
+PERSON: GODESCALCUS 3
+Also known as: GODESCALLUS.
+Description: Médecin.
+Status: Maître.
+Gender: male.
+Active during: %1275-1275%.
+Studied at: Paris..
+Academic grades obtained: Magister (Paris) avant ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 19/01/2022..

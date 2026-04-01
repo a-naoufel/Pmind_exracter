@@ -1,0 +1,9 @@
+PERSON: GERMANUS Felicis
+Also known as: Germanus FELICIS.
+Description: Notaire.
+Status: Incertain.
+Gender: male.
+Active during: %1384-1384%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 31/07/2021..

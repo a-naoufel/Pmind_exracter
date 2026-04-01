@@ -1,0 +1,9 @@
+PERSON: RICARDUS Varrot
+Also known as: Ricardus VARROT.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Maître (Paris) en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 19/08/2015..

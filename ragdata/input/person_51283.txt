@@ -1,0 +1,11 @@
+PERSON: VINCENTIUS Vion
+Also known as: Vincentius VION.
+Description: Boursier du Collège de Justice.
+Status: Étudiant.
+Gender: male.
+Active during: %1448-1450%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie ?) %1448-1450%..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Justice : boursier en %1448-1450% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Marion BERNARD-SCHWEITZER, 13/10/2020)..

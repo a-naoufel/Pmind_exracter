@@ -1,0 +1,7 @@
+PERSON: THOMAS Hyrebec
+Also known as: Thomas HYREBEC.
+Description: Détenteur d'une maison.
+Status: Extérieur.
+Gender: male.
+Active during: %1280-1280%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 02/10/2024..

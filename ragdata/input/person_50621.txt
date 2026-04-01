@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Dertona
+Also known as: Guillelmus de DERTONA.
+Description: Avocat.
+Status: Extérieur.
+Gender: male.
+Active during: %1331-1332%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 06/03/2020..

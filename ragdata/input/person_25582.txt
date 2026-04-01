@@ -1,0 +1,10 @@
+PERSON: PETRUS Cochet
+Also known as: Pierre COCHET.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1394-1395%.
+Studied at: Paris %1394-1395%..
+Academic grades obtained: Étudiant (Paris) %1394-1395%..
+College affiliation: Collège de Dormans-Beauvais : écolier-boursier en %1394-1395% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 16/01/2024)..

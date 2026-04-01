@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Wisseyo
+Also known as: Guillelmus de WISSEYO.
+Description: Maîtrerégent de la Faculté des Arts.
+Status: Maître.
+Gender: male.
+Active during: %1319-1319%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+University functions: Paris (Faculté des Arts : Maîtrerégent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 25/03/2020..

@@ -1,0 +1,13 @@
+PERSON: GALFREDUS de Bellomonte
+Also known as: Gauffridus de BELLOMONTE; Geoffroy de BEAUMONT.
+Description: Évêque de Laon.
+Status: Incertain.
+Gender: male.
+Active during: %1245-1278%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Bayeux ?.
+Studied at: Orléans ;; ?Bologne %1265-1268% ;.
+Academic grades obtained: Etudiant en droit (Orléans) en .; Maître ;.
+Social origin: Noble ?.
+Ecclesiastical positions held: Chanoine d'Orléans (Saint-Aignan) ;; Chanoine de Sens ;; Chanoine de Beauvais ;; Chancelier de Bayeux ;; Évêque de Laon %1271-1278% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/03/2025)..

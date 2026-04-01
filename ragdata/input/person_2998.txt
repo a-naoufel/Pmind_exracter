@@ -1,0 +1,9 @@
+PERSON: GERVASIUS Hastet
+Also known as: Gervasius HASTET; Gervais HASTET; Gervais HASTETUS; Gervais HASTEL.
+Description: Licencié en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1493-1500%.
+Studied at: Paris, %1493-1500%..
+Academic grades obtained: Étudiant en médecine (Paris) à partir de %1493-1494% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 14/01/2022..

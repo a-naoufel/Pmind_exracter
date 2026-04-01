@@ -1,0 +1,12 @@
+PERSON: RICARDUS de Sancta Fide
+Also known as: Ricardus de SANCTA FIDE.
+Description: Chanoine d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1233-1247%.
+Born in: Picardie ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Amiens %1233-1236% ;; Archidiacre d’Amiens %1244-1247% ;.
+Other ecclesiastical functions: Official d’Amiens %1233-1236% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 1/12/2021..

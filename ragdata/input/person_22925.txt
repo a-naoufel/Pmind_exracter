@@ -1,0 +1,10 @@
+PERSON: PETRUS de Columpna
+Also known as: Petrus de COLUMPNA.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1230-1230%.
+Studied at: Paris vers ..
+Academic grades obtained: Maître (Paris)..
+University functions: Paris (Université : procureur et nonce à la Curie vers ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 13-02-2024..

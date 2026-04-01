@@ -1,0 +1,11 @@
+PERSON: STEPHANUS de Lymoges
+Also known as: Stephanus de LYMOGES; Etienne de LIMOGES.
+Description: Chanoine de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1282-1288%.
+Studied at: Paris, ..
+Academic grades obtained: Magister (Paris) ..
+Ecclesiastical status: Clerc en ..
+Ecclesiastical positions held: Chanoine de Paris (Notre-Dame ?)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 31/01/2024)..

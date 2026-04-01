@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS Burserii
+Also known as: Guillelmus BURSERII; Guillelmus BOURSIER.
+Description: Bénédictin.
+Status: Maître.
+Gender: male.
+Active during: %1415-1416%.
+Studied at: Paris %1415-1416%..
+Academic grades obtained: Bachelier en décret (Paris) ;; Licencié en décret (Paris) le 25 avril ..
+Family relationships: ?Parent de Nicolaus BOURCIER, bachelier en décret ..
+Academic relationships: Son maître est Stephanus BAILLIVI, abbé de Saint-Père-de-Chartres pour la licence en décret en (16 février) ;.
+Religious order: O.S.B. : moine bénédictin de l'abbaye de Saint-Denis-en-France (Diocèse de Paris)..
+Religious functions: ?Prieur d'Argenteuil (Diocèse de Paris) en %1421-1422%..
+University functions: Paris (Faculté de Décret : lecteur (6ème cours)en (23 octobre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 01/03/2022)..

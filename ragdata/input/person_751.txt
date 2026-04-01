@@ -1,0 +1,26 @@
+PERSON: ANGELUS Cato
+Also known as: Angelo CATO; Angelo CATONE; Angelo CATHO.
+Description: Archevêque de Vienne.
+Status: Extérieur.
+Gender: male.
+Active during: %1461-1496%.
+Born in: Italie (Campanie, Benevento)..
+Studied at: ?Paris..
+Academic grades obtained: Docteur en médecine ;.
+Family relationships: Son fils est Lucrezio CATONE ; Son fils est Lorenzo CATONE ;.
+Social origin: Noble ?.
+Ecclesiastical positions held: Archevêque de Vienne %1482-1496%..
+University functions: Naples : lecteur de médecine en ..
+Representation roles: Ambassadeur de CHARLES VIII, roi de France auprès du pape à Rome en ;.
+Authored work: 'De animae intellectivae immortalitate', composed around .
+Authored work: 'Breviarium Viennense', composed around ..
+Authored work: '(Almanach astrologique sous forme de lettre à Matteo dell Aquila)', composed around ., dedicated to Adressé à Mattéo dell AQUILA, abbé des Célestins..
+Authored work: 'De Cometa qui anno 1472 mense Ianuario apparuit', composed around ., dedicated to Dédié au prince GIOVANNI d'Aragon, fils de FERRANTE, roi de Naples..
+Authored work: 'De epidemia ad consules Beneventanos', composed around ..
+Authored work: 'Pandectae Medicinae', dedicated to Dédié à FERRANTE, roi de Naples..
+Authored work: 'De febribus'.
+Authored work: 'Pandectae Medicinae'.
+Authored work: '(Commentaires sur les affaires de France)', composed around ?.
+Authored work: 'Lettera sulla congiura dei baroni', composed around ., dedicated to Adressée au Vicomte LANGEAC de la Mothe..
+Authored work: '(Commentaire sur les dix livres moraux d'Aristote)', composed around %1487-1493%..
+Source: http://www.treccani.it/enciclopedia/angelo-catone_(Dizionario-Biografico)/ ;.

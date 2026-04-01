@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Duffeld 2
+Also known as: Guillelmus de DUFFELD.
+Description: O.F.M..
+Status: Extérieur.
+Gender: male.
+Active during: %1311-1314%.
+Studied at: Cambridge ..
+Academic grades obtained: Docteur en théologie.
+Religious order: O.F.M..
+University functions: Cambridge : couvent franciscain, 35e lecteur, ;.
+Authored work: 'Quaestiones s. Analytica posteriora', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 31/03/2020..

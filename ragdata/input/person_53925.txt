@@ -1,0 +1,12 @@
+PERSON: PETRUS Cenomanis
+Also known as: Petrus CENOMANIS.
+Description: Chanoine d’Angers.
+Status: Incertain.
+Gender: male.
+Active during: %1218-1236%.
+Born in: Anjou-Maine ?.
+Diocese of origin: Diocèse de LeMans ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Angers %1218-1236% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/06/2022)..

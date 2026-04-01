@@ -1,0 +1,24 @@
+PERSON: PHILIPPUS de Rathsamhausen
+Also known as: Philippus de RATHSAMHAUSEN; Philip von RATZENHUSEN; Philippus EICHSTÄTTENSIS.
+Description: Évêque de Eichstätt.
+Status: Maître.
+Gender: male.
+Active during: %1265-1322%.
+Born in: Alémanie (Alsace : château de Kintzheim)..
+Diocese of origin: Diocèse de Strasbourg ?.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris ?)..
+College affiliation: Collège Saint-Bernard..
+Family relationships: Son père est Philip von RATZENHUSEN..
+Social origin: Noble..
+Religious order: O.Cist. : moine cistercien de l’abbaye de Pairis ;; Abbé de l’abbaye (O.Cist.) de Pairis %1301-1306% ;.
+Ecclesiastical positions held: Évêque de Eichstätt %1306-1322%..
+Representation roles: Chargé par ALBERT de Habsbourg, roi des Romains d’une mission auprès du pape CLÉMENT V en : le siège d’Eichstätt étant devenu vacant, le pape le lui attribue..
+Authored work: 'Expositio super Magnificat', composed around ?.
+Authored work: 'Omelia super Evangelium Intravit Jesus in quoddam castello .., (Luc. 10 38-42)', composed around %1313-1316%.
+Authored work: 'Expositio super psalmum quartum ‘Cum invocarem’', composed around %1316-1317%..
+Authored work: 'Tractatus de postulando Deum', composed around %1316-1317%..
+Authored work: 'Bibertate dominicae orationis expositio', composed around %1319-1320%..
+Authored work: 'Vita Sancti Willibaldi', composed around ..
+Authored work: 'Vita Sancte Walpurge', composed around ., dedicated to Sédié à AGNES, reine de Hongrie..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/03/2025)..

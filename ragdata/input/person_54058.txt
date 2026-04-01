@@ -1,0 +1,11 @@
+PERSON: GERARDUS Dulcis
+Also known as: Gerardus DULCIS.
+Description: Cistercien.
+Status: Étudiant.
+Gender: male.
+Active during: %1443-1444%.
+Born in: Flandre ?.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant en théologie (Paris) ?.
+Religious order: O. Cist. : moine (cistercien) de l'abbaye des Dunes :.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : 15/08/2022..

@@ -1,0 +1,11 @@
+PERSON: ARNULPHUS de Malignis de Brabantia
+Also known as: Arnulphus de MALIGNIS de Barbantia.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1315-1315% ?.
+Born in: Brabant (Malines) ?.
+Diocese of origin: Diocèse de Cambrai ?.
+Studied at: Paris ..
+Academic grades obtained: Magister ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet 17/11/2020..

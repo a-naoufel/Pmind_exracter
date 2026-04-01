@@ -1,0 +1,11 @@
+PERSON: GERARDUS de Courtonne
+Also known as: Gerardus de COURTONNE.
+Description: Évêque de Soissons.
+Status: Extérieur.
+Gender: male.
+Active during: %1307-1331 %.
+Born in: Picardie ;.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chanoine de Laon %1307-1313% ;; Chanoine de Paris %1311-1320% ;; Chanoine de Soissons ;; Évêque de Soissons %1313-1331%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 22/10/2019..

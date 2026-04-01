@@ -1,0 +1,12 @@
+PERSON: PETRUS Croix de Laon
+Also known as: Pierre CROIX de Laon.
+Description: Boursier du Collège de Laon.
+Status: Étudiant.
+Gender: male.
+Active during: %1378-1379%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie ?) %1378-1379% ;.
+Academic grades obtained: Étudiant (Paris) en %1377-1383% ;.
+College affiliation: Collège de Laon : boursier en %1378-1379% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 16/01/2024)..

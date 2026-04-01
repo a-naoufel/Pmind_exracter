@@ -1,0 +1,11 @@
+PERSON: MICHAEL de Lovanio
+Also known as: Michael de LOVANIO; Michael de LOUAN.
+Description: Nonce pour le diocèse de Metz.
+Status: Suppôt.
+Gender: male.
+Active during: %1450-1450%.
+Born in: Lorraine ;.
+Diocese of origin: Diocèse de Metz ;.
+Studied at: Paris (Nation de France) ..
+University functions: Paris (Nation de France : nonce pour le diocèse de Metz désigné en (28 février et 3 mars)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 17/02/2023..

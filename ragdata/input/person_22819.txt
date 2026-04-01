@@ -1,0 +1,12 @@
+PERSON: OVICIUS Petri Leonis
+Also known as: OBICIONE; OVICIUS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1164-1164%.
+Born in: Italie (Rome)..
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ..
+Family relationships: Son père est peut-être Petrus PETRI LEONIS, i.e. Pietro di LEONE di Pietro, Consul de Rome vers ? Il appartient en tous cas à la famille Pierleoni ;.
+Social origin: Noble ?.
+Source: DBI (Marco VENDITELLI) :.

@@ -1,0 +1,13 @@
+PERSON: MATTHAEUS Vavassoris 2
+Also known as: Matthaeus VAVASSORIS.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1395-1403%.
+Born in: Anjou-Maine ;.
+Diocese of origin: Diocèse de LeMans..
+Studied at: Angers ;; Paris (Nation de France) %1395-1403% ;.
+Academic grades obtained: Bachelier ès lois (Angers) avant ;; Étudiant en décret (Paris) en ..
+Ecclesiastical status: Clerc du diocèse de LeMans en ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Magnus Rotulus (rotulus scolarium Parisiensum) de l’Université de Paris daté de (23 octobre) et présenté à BENOÎT XIII : il est le premier à être mentionné sur le rotulus ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 11/11/2018..

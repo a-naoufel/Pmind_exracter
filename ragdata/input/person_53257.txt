@@ -1,0 +1,11 @@
+PERSON: HUGO de Curtillis
+Also known as: Hugo de CURTILLIS; Hugues DES COURTILS; Hugues de COURCHELLES; Hugues de COURCELLES.
+Description: Chanoine d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1225-1253%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d'Amiens %1225-1253% ;; Écolâtre d'Amiens %1252-1253% ;.
+Other ecclesiastical functions: Official d'Amiens %1225-1228% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 2/1/2022..

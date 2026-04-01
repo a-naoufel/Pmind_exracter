@@ -1,0 +1,11 @@
+PERSON: ANDREAS Ferrandi
+Also known as: Andreas FERRANDI.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1335-1339%.
+Studied at: Paris %1335-1339%..
+Academic grades obtained: Étudiant en décret (Paris) %1335-1339%..
+Religious order: O.S.B. : moine du monastère (bénédictin) de Saint-Jean-d'Angély (diocèse de Saintes)..
+Religious functions: Moine de Saint-Jean-d'Angély (diocèse de Saintes) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire PRIOL ; Jean-Philippe Genet, dernière mise à jour 21/08/2020)..

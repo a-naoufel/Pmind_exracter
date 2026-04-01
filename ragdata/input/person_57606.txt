@@ -1,0 +1,9 @@
+PERSON: RADULPHUS Lasach
+Also known as: Radulphus LASACH.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1271-1271%.
+Studied at: Paris ?.
+Academic grades obtained: Maître..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 18/03/2024..

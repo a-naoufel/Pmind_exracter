@@ -1,0 +1,12 @@
+PERSON: THOMAS de Aunou
+Also known as: Thomas de AUNOU.
+Description: Évêque de Sées.
+Status: Incertain.
+Gender: male.
+Active during: %1258-1278%.
+Born in: Normandie ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Noble ;.
+Ecclesiastical positions held: Évêque de Sées %1258-1278% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 14/11/2022..

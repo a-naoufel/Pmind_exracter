@@ -1,0 +1,10 @@
+PERSON: Curatus Sancti Illarii
+Also known as: Curatus SanctiIllarii.
+Description: Curé de Paris (Saint-Hilaire).
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant en décret ?.
+Ecclesiastical positions held: Curé de Paris (Saint-Hilaire)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 01/05/2021..

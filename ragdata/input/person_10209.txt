@@ -1,0 +1,11 @@
+PERSON: PETRUS de Vico
+Also known as: Petrus de VICO; Pierre de VICQ.
+Description: Chanoine de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1324-1331%.
+Born in: Auvergne ;.
+Diocese of origin: Diocèse de Saint-Flour ?.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Maître ès arts ?.
+Ecclesiastical positions held: Chanoine de Saint-Cloud ;; Provision pour un canonicat avec expectative de prébende de Rouen en ;; Provision pour la cure de Paris (Saint-Jacques de la Boucherie) en ;; Chanoine de Paris %1329-1331% ;.

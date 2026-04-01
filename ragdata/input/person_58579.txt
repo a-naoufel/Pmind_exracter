@@ -1,0 +1,14 @@
+PERSON: CONRADUS de Babenberg
+Also known as: CONRADUS; Conrad II de BABENBERG.
+Description: Évêque de Freising.
+Status: Étudiant.
+Gender: male.
+Active during: %1128-1168%.
+Born in: Autriche ?.
+Studied at: Paris vers ..
+Academic grades obtained: Étudiant (Paris)..
+Family relationships: Son père est LEOPOLD, Margrave d’Autriche ; Son frère est Otho de FREISING.
+Social origin: Noble..
+Religious order: O. Cist. : moine cistercien après ..
+Religious functions: Abbé (O.Cist.) de Heilingkreuz..
+Ecclesiastical positions held: Évêque de Passau %1148-1164% ;; Archevêque de Salzburg %1164-1168%..

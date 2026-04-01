@@ -1,0 +1,11 @@
+PERSON: HENRICUS de Carnin
+Also known as: Henricus de CARNIN.
+Description: Chanoine de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1252-1273%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Cambrai %1252-1273% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 03/01/2026..

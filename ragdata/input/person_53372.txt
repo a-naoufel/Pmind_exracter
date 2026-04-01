@@ -1,0 +1,13 @@
+PERSON: ADDO
+Also known as: ADDO.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1209-1211%.
+Born in: Pays-Bas (Frise : Westeremden)..
+Studied at: Paris ;; Orléans ;; Oxford ;.
+Academic grades obtained: Étudiant ès arts à Paris ..
+Family relationships: Son frère est EMON le Prémontré..
+Social origin: Noble..
+Religious order: O. Praem. : abbaye (prémontré) de Bloemhof, .; Après être rentré de son voyage d'étude..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 6/2/2015)..

@@ -1,0 +1,9 @@
+PERSON: CHRISTIANUS 4
+Also known as: CHRISTIANUS.
+Description: Magister..
+Status: Maître.
+Gender: male.
+Active during: %1485-1485%.
+Studied at: Paris (Nation Anglo-allemande) %1485-1485%..
+Academic grades obtained: Magister (Paris) attesté en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 06/04/2021..

@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Cantelupe
+Also known as: William de CANTILUPE.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1282-1282%.
+Born in: Angleterre..
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ..
+Family relationships: Son parent est Thomas de CANTELUPE, évêque de Hereford ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 12/03/2022..

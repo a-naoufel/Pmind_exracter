@@ -1,0 +1,25 @@
+PERSON: GUILLELMUS Iordanus de Heersele
+Also known as: Guillelmsu IORDANUS de Heersele; Guillaume JORDAENS; Guillelmus JORDANI de Heersele; Willem JORDAENS de Heersele.
+Description: Chanoine de Groenendaal.
+Status: Maître.
+Gender: male.
+Active during: %1340-1372%.
+Born in: Brabant (Bruxelles)..
+Studied at: Paris %1340-1350% ?.
+Academic grades obtained: Maître en théologie (Paris) (22 janvier)..
+Social origin: Son père est JOURDAIN, bouteiller de la comtesse de Brabant ;.
+Religious order: O.S.A. : chanoinerégulier du prieuré de Groenendaal ;.
+Authored work: 'Interpretationes nominum in Evangelia', composed around ?.
+Authored work: 'Sermones quadragesimales', composed around ?.
+Authored work: 'De oris osculo', composed around ?.
+Authored work: 'Centum meditationes passionis nostri domini Iesu Christi', composed around ?.
+Authored work: 'Conflictus virtutum et viciorum', composed around ?.
+Authored work: 'De calculo sive de pefectione filiorum Dei', composed around ?.
+Authored work: 'De ornatu spiritualium nuptiarum', composed around ?.
+Authored work: 'De septem gradibus spiritualis amoris', composed around ?.
+Authored work: 'De septem gradibus spiritualis amoris', composed around ?.
+Authored work: 'De spirituali tabernaculo', composed around ?.
+Authored work: 'Epistola super generibus exercitantium', composed around ?.
+Authored work: 'Planctus super obitu fratris Iohannis de Speculo', composed around Après ..
+Authored work: 'Flores beati Augustini De civitate Dei et moralisationes', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

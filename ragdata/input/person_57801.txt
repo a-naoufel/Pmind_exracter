@@ -1,0 +1,9 @@
+PERSON: BENEDICTUS Bochieti
+Also known as: Benedictus BOCHIETI.
+Description: Boursier du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Studied at: Paris %1472-1473%..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège d’Autun : boursier en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 06/06/2024..

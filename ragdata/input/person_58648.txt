@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Malinis
+Also known as: Guillelmus de MALINIS.
+Description: Évêque de Liège.
+Status: Incertain.
+Gender: male.
+Active during: %1250-1297%.
+Born in: Namur ?.
+Diocese of origin: Diocèse de Liège ?.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+Religious order: O.S.B. : moine bénédictin d’Affligem ;.
+Religious functions: Abbé (O.S.B.) de Saint-Trond %1277-1297%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol ; révision Jean-Philippe Genet, dernière mise à jour 27/02/2025..

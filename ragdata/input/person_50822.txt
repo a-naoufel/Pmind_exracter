@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Sancto Bernardo
+Also known as: Guillelmus de SANCTO BERNARDO; Guillaume de SAINT BERNARD.
+Description: Religieux.
+Status: Incertain.
+Gender: male.
+Active during: %1272-1273%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: Religieux : ordre inconnu ;.
+Authored work: '(Sermon pour la Saint André)', composed around (30 novembre) prêché à Saint-Antoine..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 18/04/2020..

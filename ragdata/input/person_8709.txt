@@ -1,0 +1,10 @@
+PERSON: LUDOVICUS Toupin
+Also known as: Ludovicus TOUPIN; Louis TOUPIN.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1441-1449%.
+Studied at: Paris %1441-1449%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+University functions: Paris (Faculté de médecine : maître-régent en %1448-1449%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 06/09/2023)..

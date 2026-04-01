@@ -1,0 +1,13 @@
+PERSON: NICOLAUS de Flavigny de Laon
+Also known as: Nicolas de FLAVIGNY de Laon.
+Description: Boursier du Collège de Laon.
+Status: Étudiant.
+Gender: male.
+Active during: %1457-1458%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon (Guise ?) ?.
+Studied at: Paris (Nation de Picardie) %1457-1458% ;.
+Academic grades obtained: Étudiant ès arts (Paris) %1457-1458% ;.
+College affiliation: Collège de Laon : boursier ès arts %1457-1458% ;.
+Family relationships: Son parent est peut-être Gérard de FLAVIGNY, lieutenantgénéraldubailli de Vermandois ; Son parent est peut-être Nicolas de FLAVIGNY de Guise ; Son parent est peut-être Jean de FLAVIGNY ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 26/01/2024..

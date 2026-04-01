@@ -1,0 +1,13 @@
+PERSON: THOMAS Le Gras
+Also known as: Thomas LEGRAS.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1403-1403%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Saint-Malo ;.
+Studied at: Paris %1403-1403%..
+Academic grades obtained: Bachelier en décret (Paris) ;.
+Ecclesiastical status: Clerc ? du diocèse de Saint-Malo en ?.
+Ecclesiastical positions held: Chapelain dans l’église d’Angers (Saint-Leu) en ;; Curé de Borvigneux (Saint-Pierre) en ;; Candidat à un bénéfice sur le Rotulus licentiatorum et bacallariorum in decretis Parisius adressé à BENOÎT XIII en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 24/05/2019..

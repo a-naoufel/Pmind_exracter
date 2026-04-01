@@ -1,0 +1,11 @@
+PERSON: BALDUINUS de Beirleur
+Also known as: Balduinus de BEIRLEUR.
+Description: Étudiant en droit de Cologne.
+Status: Étudiant.
+Gender: male.
+Active during: %1406-1406%.
+Born in: Berleur, près de Liège ?.
+Diocese of origin: Diocèse de Liège ?.
+Studied at: Paris ?; Cologne ;.
+Academic grades obtained: Étudiant (Paris) avant ?; Étudiant en droit canon (Cologne) ;.
+Source: RAG ;.

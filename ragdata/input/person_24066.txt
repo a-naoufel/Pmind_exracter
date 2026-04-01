@@ -1,0 +1,10 @@
+PERSON: PETRUS Novi
+Also known as: Petrus NOVI.
+Description: Maître ès arts ?.
+Status: Maître.
+Gender: male.
+Active during: %1451-1451%.
+Studied at: Paris (Nation de France) ?.
+Academic grades obtained: Maître ès arts (Paris) ;.
+College affiliation: Collège du Plessis en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 31/03/2024..

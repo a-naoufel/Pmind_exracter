@@ -1,0 +1,10 @@
+PERSON: ANTOLINO
+Also known as: ANTOLINO.
+Description: Grammairien.
+Status: Extérieur.
+Gender: male.
+Active during: %1287-1287%.
+Born in: ?Italie..
+Studied at: Bologne..
+Academic grades obtained: Magister..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 15/10/2020)..

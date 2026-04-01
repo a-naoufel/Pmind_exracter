@@ -1,0 +1,8 @@
+PERSON: HUGO Sirurgicus
+Also known as: Hugo SIRURGICUS.
+Description: ?Étudiant..
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11-09-2022..

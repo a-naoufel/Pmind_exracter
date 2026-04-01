@@ -1,0 +1,12 @@
+PERSON: BARTHOLOMAEUS de Novaterra
+Also known as: Bartholomaeus de NOVATERRA.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1362-1362%.
+Born in: Pays-Bas.
+Diocese of origin: Diocèse d'Utrecht..
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+Ecclesiastical positions held: Provision pour un canonicat et une prébende de Liège (St-Pierre)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 12/12/2020..

@@ -1,0 +1,20 @@
+PERSON: HENRICUS Bruxellensis
+Also known as: Henricus BRUXELLENSIS; Henricus de BRUSELLIS; Henri de BRUXELLES.
+Description: Recteur de l'Université de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1289-1316%.
+Born in: Brabant (Bruxelles) ?.
+Diocese of origin: Diocèse de Cambrai ?.
+Studied at: Paris (Nation de Picardie ?)..
+Academic grades obtained: Maître ès arts (Paris)..
+University functions: Paris (Université : l'un des maîtres témoins de la fondation d'une chapellenie en expiation des exactions à l'égard des étudiants commises par les gens du Cardinal Jean CHOLET en (30 août) ;; Paris (Faculté des Arts : Maîtrerégent pendant 21 ans au moins? %1289-1310%) ;; Paris (Université : Recteur vers ) ;.
+Authored work: 'Comment. super librum Topicorum', composed around ?.
+Authored work: 'Quaestiones super libros Posteriorum', composed around ?.
+Authored work: 'Questiones de quolibet', composed around ?.
+Authored work: 'Questiones in Metaphisicam', composed around ?.
+Authored work: 'Scriptum super Topica', composed around ?.
+Authored work: 'Quaestiones naturales', composed around ?.
+Authored work: 'Questiones super librum Elenchorum', composed around ?.
+Authored work: 'Sophismata', composed around ?.
+Source: MIRABILE, Andrea CENCINI :.

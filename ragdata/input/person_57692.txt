@@ -1,0 +1,11 @@
+PERSON: Filius 2 LUDOVICUS Lantgravius
+Also known as: Fils 2 du Lantgravius LUDOVICUS.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1162-1162%.
+Born in: Allemagne ?.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant ?.
+Social origin: Noble..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/04/2024)..

@@ -1,0 +1,11 @@
+PERSON: SILVESTER Cornubiensis
+Also known as: Silvester of CORNWALL.
+Description: Recteur d'Oxford.
+Status: Extérieur.
+Gender: male.
+Active during: %1223-1228%.
+Born in: Angleterre (Cornwall ?)..
+Studied at: Oxford..
+Academic grades obtained: Magister.
+Ecclesiastical positions held: Recteur d'Oxford (St-Michael'sSouthgate) %1223-1228%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet 05/09/2024..

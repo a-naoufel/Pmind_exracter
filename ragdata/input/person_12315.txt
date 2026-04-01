@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Trecis
+Also known as: Wilhelmus de TRECIS.
+Description: Recteur de l'Université de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1373-1373%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Troyes ?.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+University functions: Paris (Université : recteur élu en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 21/04/2022..

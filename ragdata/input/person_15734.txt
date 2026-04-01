@@ -1,0 +1,12 @@
+PERSON: BALDUINUS Fortis
+Also known as: Balduinus FORTIS.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1443-1444%.
+Born in: Artois ?.
+Diocese of origin: Diocèse d'Arras..
+Studied at: Paris %1443-1444%..
+Academic grades obtained: Bachelier en décret (Paris) (19 septembre) ;.
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (1ere année) en (26 septembre)) ;; Paris (Faculté de Décret : Lecteur des Décrétales (2e année) en (11 octobre)) ;; Paris (Faculté de Décret : Lecteur des Décrétales (3e année) en (27 novembre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet 3/12/2020)..

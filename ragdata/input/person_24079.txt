@@ -1,0 +1,17 @@
+PERSON: GUILLELMUS Rose
+Also known as: Guillaume ROSE.
+Description: Avocat au Parlement de Paris.
+Status: Étudiant.
+Gender: male.
+Active during: %1397-1426%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Meaux ;.
+Studied at: Paris %1397-1398%..
+Academic grades obtained: Étudiant (Paris) %1397-1398%..
+College affiliation: Collège de Dormans-Beauvais : écolier %1397-1398% ;.
+Family relationships: Son père est Pierre ROSE ; Son frère est Michel ROSE ; Son parent est Simon ROSE ; Son parent est Jacques ROSE ;.
+Social origin: Noble ;.
+Ecclesiastical status: Clerc du diocèse de Meaux en ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur les deux rotuli de CHARLES VI, roi de France en ;.
+Representation roles: Membre de l'ambassade du Parlement de Paris auprès d'HENRI V, roi d'Angleterre en (février) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 30/05/2022..

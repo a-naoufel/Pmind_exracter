@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Gobillon
+Also known as: Guillelmus GOBILLON.
+Description: Maître en théologie dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1492-1512% ?.
+Studied at: Paris..
+Academic grades obtained: Licencié en théologie (Paris) (26 janvier) ;; Maître en théologie (Paris) (5 novembre) ;.
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère dominicain ;.
+University functions: Paris (Faculté de Théologie : lecteur de la Bible ?)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/12/2023..

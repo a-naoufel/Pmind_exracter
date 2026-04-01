@@ -1,0 +1,11 @@
+PERSON: GARMUNDUS
+Also known as: GARMUNDE.
+Description: Chanoine de Tournai.
+Status: Incertain.
+Gender: male.
+Active during: %1101-1102%.
+Studied at: ?.
+Academic grades obtained: Magister %1101-1102%..
+Ecclesiastical positions held: Chanoine de Tournai %1101-1102% ;; Écolâtre de Tournai %1101-1102% ;.
+Authored work: '(Opus de « sum » verbus substantivo)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/09/2022)..

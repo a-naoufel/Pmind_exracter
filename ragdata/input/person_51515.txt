@@ -1,0 +1,30 @@
+PERSON: STEPHANUS de Bisontio
+Also known as: Stephanus de BISONTIO; Stephanus de BISANTIO; Etienne de BESANCON.
+Description: Maitre général de l'ordre dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1273-1294%.
+Born in: ComtédeBourgogne (Besançon ?) ;.
+Diocese of origin: Diocèse de Besançon..
+Studied at: Paris , %1282-1288%..
+Academic grades obtained: Bachelier en théologie (Paris) ;; Maître en théologie (Paris) (janvier) ;.
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère dominicain..
+Religious functions: Ministreprovincial de France %1291-1294% ;; Maîtregénéral des Dominicains, ..
+University functions: Paris (faculté de Théologie : lecteur de la Bible au couvent dominicain %1282-1284%).; Paris (faculté de Théologie : lecteur des Sentences au couvent dominicain %1284-1286%).; Paris (faculté de Théologie : Maître-régent des Dominicains %1286-1288%)..
+Authored work: 'Principium biblicum', composed around ?.
+Authored work: 'Divisio librorum Biblie', composed around ?.
+Authored work: '(Sermon pour l'Épiphanie)', composed around (6 janvier) à Saint-Antoine..
+Authored work: '(Sermon pour le IIIe dimanche après Saint-Denys)', composed around (25 octobre)..
+Authored work: '(Sermon pour la Saint-Nicolas)', composed around (6 décembre)..
+Authored work: '(Sermon pour Saint-Jean l'Evangéliste)', composed around (27 décembre)..
+Authored work: '(Sermon, collation pour le Ve dimanche de l'Epiphanie)', composed around (7 février)..
+Authored work: '(Sermon pour la Sexagésime)', composed around (21 février)..
+Authored work: '(Sermon pour le IVe dimanche de Carême)', composed around (28 mars)..
+Authored work: 'Postilla in Ecclesia', composed around .
+Authored work: 'Postilla in Apocalypsim', composed around .
+Authored work: 'Litterae encyclicae', composed around Rome.
+Authored work: 'Litterae encyclicae', composed around Lille.
+Authored work: 'Litterae encyclicae', composed around Montpellier.
+Authored work: '(Approbation d'un accord conclu par les dominicains d'Ypres)', composed around (11 juin).
+Source: MIRABILE :.

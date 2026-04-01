@@ -1,0 +1,10 @@
+PERSON: HUGO Austrini
+Also known as: Ugo AUSTRINI.
+Description: Chanoine de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1225-1225%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Rodez ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 21/05/2022..

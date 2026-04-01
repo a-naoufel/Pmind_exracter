@@ -1,0 +1,11 @@
+PERSON: PETRUS Salemon
+Also known as: Pierre SALEMON.
+Description: Écolier-boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1436-1436%.
+Studied at: Paris.
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège de Dormans-Beauvais : martinet ;.
+Family relationships: Son frère est Guy SALEMON ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 07/04/2024..

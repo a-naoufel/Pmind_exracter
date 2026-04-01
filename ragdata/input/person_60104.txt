@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Lourmoi
+Also known as: Guillelmus LOURMOI.
+Description: Procureur du collège de Dainville.
+Status: Incertain.
+Gender: male.
+Active during: %1394-1408%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+College affiliation: Collège de Dainville : procureur ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

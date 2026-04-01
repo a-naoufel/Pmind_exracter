@@ -1,0 +1,10 @@
+PERSON: EDUARDUS de Sancto-Martino
+Also known as: Eduardus de SANCTO-MARTINO.
+Description: Étudiant en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1370-1378%.
+Studied at: Paris (Nation de Normandie) ;; Orléans..
+Academic grades obtained: Maître ès arts (Paris) ;; Sch.in utroque jure ;; Étudiant en théologie.
+Social origin: Noble..
+Ecclesiastical positions held: Prêtre du diocèse de Rouen.; Recteur de l'égliseparoissiale de Gamaches-en-Vexin en ;; Candidat à un canonicat avec expectative de prébende dans la cathédrale de Rouen en ;.

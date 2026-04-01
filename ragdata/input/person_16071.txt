@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS Rolant
+Also known as: Aegidius ROLANT.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1499-1499%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Soissons..
+Studied at: Paris %1499-1499%..
+Academic grades obtained: Bachelier en décret (Paris) en (28 mai) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; dernière révision, Jean-Philippe Genet 12/05/2020)..

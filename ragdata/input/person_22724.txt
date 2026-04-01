@@ -1,0 +1,7 @@
+PERSON: GUILLELMUS Mantel
+Also known as: Guillellmus dictus MANTEL.
+Description: Bourgeois de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1259-1259%.
+Social origin: Bourgeois de Paris..

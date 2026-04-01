@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Ockham 1
+Also known as: Guillelmus de OCKAM; William de OCKHAM.
+Description: Archidiacre de Stowe.
+Status: Extérieur.
+Gender: male.
+Active during: %1276-1328 %.
+Born in: Angleterre..
+Studied at: Oxford ?.
+Academic grades obtained: Maître ès arts (Oxford ?) ;; Maître en théologie (Oxford ?) ;.
+Ecclesiastical positions held: Recteur de York (Saint-Sampson) ;; Recteur de Langton (EastRiding, Yorkshire) %1281-1311% au moins ;; Archidiacre de Stowe en %1303-1316% au moins ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 28/11/2019..

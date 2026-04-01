@@ -1,0 +1,8 @@
+PERSON: X Guedon
+Also known as: X GUEDON.
+Description: Maîtresse d’école.
+Status: Suppôt.
+Gender: female.
+Active during: %1443-1443%.
+Family relationships: Son mari est Robert GUEDON.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 31/08/2020..

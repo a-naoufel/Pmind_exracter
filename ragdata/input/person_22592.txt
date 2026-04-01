@@ -1,0 +1,13 @@
+PERSON: GUIDO de Mello
+Also known as: Guido de MELLO.
+Description: Évêque d'Auxerre.
+Status: Extérieur.
+Gender: male.
+Active during: %1232-1270%.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son père est Guillaume de MELLO, seigneur de Saint-Brice ; Sa mère est Elisabeth de MONT-SAINT-JEAN..
+Social origin: Noble..
+Ecclesiastical positions held: Doyen d'Auxerre % -1245% ;; Évêque de Verdun %1245-1247% ;; Évêque d'Auxerre %1247-1270% ;.
+Representation roles: Il participe au concile de Lyon en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/01/2022)..

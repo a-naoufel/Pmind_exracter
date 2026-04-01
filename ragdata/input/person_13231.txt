@@ -1,0 +1,12 @@
+PERSON: GEORGIUS Taxilli
+Also known as: Georgius TAXILLI.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1429-1430%.
+Studied at: Paris %1429-1430%..
+Academic grades obtained: Licencié en théologie (Paris) (le 31 décembre) ;; Docteur en théologie (Paris) (le 27 juin) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère dominicain..
+University functions: Lecteur des Sentences à Paris en septembre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, 8/12/2021..

@@ -1,0 +1,14 @@
+PERSON: NICOLAUS Le Blanc
+Also known as: Nicolaus LEBLANC.
+Description: Docteur en décret.
+Status: Maître.
+Gender: male.
+Active during: %1505-1512%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris (Nation de France) ;.
+Academic grades obtained: Maître ès arts (Paris) ;; Docteur en décret (Paris) en ;.
+College affiliation: Collège de Navarre : étudiant ;; Collège des BonsEnfants : régent ;.
+Academic relationships: Son maître est Johannes de RELY au collège de Navarre ; Son maître est Johannes de BLOSIS au collège de Navarre ; Son maître est Johannes RAULIN au collège de Navarre ;.
+University functions: Paris (Faculté des Arts : maître-régent au collège des BonsEnfants pendant deux ans) ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,15 @@
+PERSON: GALDERICUS
+Also known as: GALDERICUS; GAUDRINUS; GADALRICUS; GAUDRITUS; GAUDRY.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1259-1272%.
+Studied at: Paris %1259-1272%..
+Academic grades obtained: Docteur en théologie (Paris) vers ;.
+College affiliation: Collège de Cluny ;.
+Religious order: O.Clun. : moine clunisien du prieuré de Coincy (diocèse de Soissons)..
+Religious functions: ?Prieur de Coincy (diocèse de Soisssons)..
+University functions: Paris (Faculté de théologie : maître-régent vers ) ;.
+Authored work: 'Homilia [Sermon pour le 23e dimanche après la Pentecôte]', composed around Le 20 novembre ;.
+Authored work: 'Principium biblicum', composed around ?.
+Source: MIRABILE : http://www.mirabileweb.it/author/galdericus-magister-v-1259-1272-author/2314 ;.

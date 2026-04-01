@@ -1,0 +1,10 @@
+PERSON: GILBERTUS de Saana
+Also known as: Guilbert de SAANA; Guilbert de SUASSIA.
+Description: Chanoine de Bayeux.
+Status: Incertain.
+Gender: male.
+Active during: %1279-1286%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chanoine de Bayeux ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 15/01/2022..

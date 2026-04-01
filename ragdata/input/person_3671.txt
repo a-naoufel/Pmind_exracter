@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Ynerfiando
+Also known as: Guillaume de YNERFIANDO.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1342-1344%.
+Studied at: Paris ..
+Academic grades obtained: Magister (Paris) ..
+College affiliation: Collège de Sorbonne : procureur en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/04/2022..

@@ -1,0 +1,10 @@
+PERSON: ROBERTUS de Handle
+Also known as: Robert de HANDLE.
+Description: Musicien.
+Status: Incertain.
+Gender: male.
+Active during: %1326-1326%.
+Born in: ?Angleterre..
+Studied at: ?.
+Authored work: 'Regulae (musicae) cum maximis mag. Franconis', composed around (9 mai).
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 19/01/2022..

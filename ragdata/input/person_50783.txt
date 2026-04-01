@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Moreto
+Also known as: Guillelmus de MORETO.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1337-1337%.
+Diocese of origin: Diocèse de Cambrai ;.
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+Ecclesiastical status: Clerc du diocèse de Cambrai en ;.
+Ecclesiastical positions held: Provision pour un canonicat avec expectative de prébende à l’églisecollégiale d’Antoing (Sainte-Marie) en réponse au rotulus de l’Université de Paris en : mandat à l’abbé (O.S.A.) de Paris (Sainte-Geneviève), au doyen de Tournai et à l’écolâtre de Coutances ;; Chanoine de Sens %1327-1345% ;.
+University functions: Paris (Nation de Picardie : maître-régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 09/04/2020..

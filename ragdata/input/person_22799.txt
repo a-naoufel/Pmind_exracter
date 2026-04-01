@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Coleshull
+Also known as: Guillelmus de COLESHULL.
+Description: Fellow de Merton.
+Status: Extérieur.
+Gender: male.
+Active during: %1277-1316%.
+Born in: Angleterre..
+Studied at: Oxford..
+Academic grades obtained: M.aître ès arts (Oxford)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/03/2022)..

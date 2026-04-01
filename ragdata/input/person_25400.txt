@@ -1,0 +1,13 @@
+PERSON: GUIDO de Noallis
+Also known as: GUIDO de Noallis; Guido de NOALHES; Guy de NOUAILLES; Guy de NOAILLES.
+Description: Chanoine de Saintes.
+Status: Incertain.
+Gender: male.
+Active during: %1284-1296%.
+Born in: Limousin ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son père est Hugues de NOAILLES, seigneur de Noailles et chevalier ; Sa mère est Luce de COMBORN ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Poitiers %1284-1291% ;; Chevecier de Poitiers ;; Chanoine de Limoges ;; Chanoine de Cahors ;; Prieur d'Agen (Saint-Front) ;; Chanoine de Reims %1290-1291% ;; Chanoine de Saintes %1290-1295% ;; Archidiacre d'Aunis en la cathédrale de Saintes %1292-1295% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 8/01/2019..

@@ -1,0 +1,10 @@
+PERSON: REVINUS Scotus
+Also known as: Revinus SCOTUS.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1396-1396%.
+Born in: Écosse ?.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 09/10/2024..

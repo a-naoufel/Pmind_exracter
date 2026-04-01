@@ -1,0 +1,15 @@
+PERSON: HIERONYMUS Zscheckerbürlin
+Also known as: Hieronymus ZSCHECKERBÜRLIN.
+Description: Prieur de la Chartreuse de Bâle.
+Status: Étudiant.
+Gender: male.
+Active during: %1478-1536%.
+Born in: Alémanie (Bâle) ;.
+Diocese of origin: Diocèse de Bâle..
+Studied at: Paris ;; Orléans %1479-1482%..
+Academic grades obtained: Étudiant (Paris) ;; Licencié en droit (Orléans) ..
+Family relationships: Son père est Hans ZSCHECKERBÜRLIN, marchand..
+Social origin: Bourgeoisie ;.
+Religious order: O.Carth. : Chartreux à la Chartreuse de Bâle ;.
+Religious functions: Prieur de la Chartreuse de Bâle ;.
+Source: RAG : Repertorium Academicum Germanicum : https://rag-online.org/datenbank ;.

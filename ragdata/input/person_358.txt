@@ -1,0 +1,17 @@
+PERSON: ALBERTUS de Bologna
+Also known as: Albertus de BOLOGNA; Albert de BOLOGNE.
+Description: Professeur de Bologne.
+Status: Extérieur.
+Gender: male.
+Active during: %1312-1314%.
+Born in: Italie, Émilie-Romagne, Bologne ?.
+Diocese of origin: Diocèse de Bologna ?.
+Studied at: Bologne..
+University functions: Bologne (Université: Professeur en )..
+Authored work: 'Quodlibet', composed around ?.
+Authored work: 'Quaestiones', composed around ?.
+Authored work: 'Comm. in Avicenne Canon.', composed around ?.
+Authored work: 'Comm. de Farmaciis', composed around ?.
+Authored work: 'Consilium ad paralisim', composed around ?.
+Authored work: 'Utrum sit reperire malam complexionem humidam', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

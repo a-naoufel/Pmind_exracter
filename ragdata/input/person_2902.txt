@@ -1,0 +1,12 @@
+PERSON: GERARDUS de Gauche
+Also known as: Gerardus de GAUCHE.
+Description: Templier.
+Status: Extérieur.
+Gender: male.
+Active during: %1307-1307%.
+Born in: Languedoc ?.
+Diocese of origin: Diocèse de Rodez ?.
+Studied at: ?.
+Social origin: Noble : chevalier..
+Religious order: O. du Temple ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 22/09/2019..

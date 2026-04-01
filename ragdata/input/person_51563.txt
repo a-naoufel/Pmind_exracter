@@ -1,0 +1,12 @@
+PERSON: CHRISTOPHORUS Abbatis
+Also known as: Chritophorus ABBATIS; Christophe LABBÉ.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1458-1459%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Reims ?.
+Studied at: Paris %1458-1459%..
+Academic grades obtained: Maître ès arts (Paris)..
+College affiliation: Collège de Lisieux ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 25/11/2020)..

@@ -1,0 +1,11 @@
+PERSON: ANGELUS Petri
+Also known as: Angelus PETRI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1342-1342%.
+Born in: Italie ?.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) ..
+Ecclesiastical positions held: Provision pour un canonicat avec expectative de prébende dans l'église de Sienne en réponse au rotulus de ; mandat à l'évêque de Grosseto, au doyen de Paris et à Franciscus de CASTELLO, chanoine de Noyon..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 3/09/2020)..

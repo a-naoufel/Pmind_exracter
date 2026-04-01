@@ -1,0 +1,9 @@
+PERSON: TERRICUS de Corteneto
+Also known as: Terricus de CORTENETO.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1252-1252%.
+Academic grades obtained: ?; Maître ;.
+Ecclesiastical positions held: Chanoine de Rouen ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 2/11/2021..

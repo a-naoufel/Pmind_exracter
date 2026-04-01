@@ -1,0 +1,10 @@
+PERSON: HUGO de Diciis
+Also known as: Hugo de DICIIS.
+Description: Magister.
+Status: Incertain.
+Gender: male.
+Active during: %1341-1341%.
+Studied at: Paris..
+Academic grades obtained: Magister (?Paris)..
+College affiliation: Sorbonne : procureur en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 22/9/2020..

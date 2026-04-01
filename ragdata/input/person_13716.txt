@@ -1,0 +1,28 @@
+PERSON: THOMAS de Courcellis
+Also known as: Thomas de COURCELLIS; Thomas de CORCELLIS; Thomas de COURCELLES; Thomas de COURCILLIS; Thomas de COURCHELLIS; Thomas de CURCELLIS.
+Description: Maître en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1415-1469%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse d’Amiens ;.
+Studied at: Paris (Nation de Picardie) %1415:-1465% ;.
+Academic grades obtained: Bachelier en théologie (Paris) ;; Licencié en théologie (Paris) (8 mars) ;; Maître en théologie (Paris) (5 avril) ..
+College affiliation: Collège de Dainville ;; Collège des Cholets.; Proviseur du collège de Sorbonne, %1433-1460% ;; Collège du Plessis : réformateur du collège en ;; "Custos" du collège des Cholets ;.
+Family relationships: Son frère est Jean de COURCELLIS, chanoine de Paris et archidiacre de Josas ; Son frère est Hue de COURCELLIS, lieutenant du bailli d'Amiens..
+Academic relationships: Son maître est Johannes DARQUES ; Son élève est Simon de FOUQUERUELLES ; Son élève est Reginaldus de BRULE ; Son élève est Johannes PARMENTARII ; Son élève est Nicolaus de FORO ; Son élève est Johannes de EECOUTE ; Son élève est Jean MAUPOINT, chanoine de l'Ordre de Val-des-Écoliers et prieur de la maison parisienne de l'Ordre, Sainte-Catherine-de-la-Couture ; Son élève est Arnoul GREBAN, bachelier en théologie durant l'année académique %1456-1457% ;.
+Ecclesiastical positions held: Archidiacre de Metz ;; Archiprêtre de Melle ;; Nommé cardinal par le pape FÉLIX V le 6 avril ;; Chanoine de Paris (chapitre cathédral) reçu le 11 septembre ;; Chanoine de Laon (chapitre cathédral) ;; Chanoine de Thérouanne (chapitre cathédral) ;; Chanoine de Reims (chapitre cathédral), %1448-1450% ;; Archidiacre de Gand, ;; Sous-chantre de Paris (Notre-Dame), ;; Chanoine de Langres (chapitre cathédral), %1450-1452% ;; Chanoine d'Amiens (chapitre cathédral), %1450-1469% ;; Pénitencier de Paris (chapitre cathédral), mai ;; Curé de Paris (Saint-André-des-Arts), 27 janvier ;; Chanoine de Toul (chapitre cathédral), ;; Archidiacre de Toul (chapitre cathédral) ;; Chanoine de Sens (chapitre cathédral), %1457-1469% ;; Archidiacre de Provins, %1457-1469% ;; Doyen de Paris (chapitre cathédral), %1459-1465%..
+Other ecclesiastical functions: Confesseur des religieuses de l'Hôtel-Dieu ;.
+University functions: Paris (Faculté de théologie : lecteur de la Bible (1er cours) le 26 avril ) ;; Paris (Faculté de théologie : lecteur de la Bible (2e cours), 14 juillet ) ;; Paris (Faculté de théologie : lecteur des Sentences en septembre ) ;; Paris (Université : Recteur de l'Université de Paris élu en (22 mars )) ;; Paris (Université : Recteur de l'Université de Paris élu en (13 novembre)) ;; Paris (Faculté de théologie : Maîtrerégent %1435-1453%) ;; Paris (Université : il est chargé de prêcher en présence du roi, l'exhortant à défendre les privilèges de l'Université, le 30 novembre ;; Paris (Université : il est chargé de prêcher en présence du roi, l'exhortant à défendre les privilèges de l'Université, le 18 février ;; Paris (Université : il est chargé d'exhorter le roi de France à défendre les privilèges de l'Université et de plaider pour la destruction du "studiolo" à Caen, 8-14 novembre ) ;; Paris (Faculté de théologie : Maîtrerégent %1456-1465%) ;.
+Representation roles: Ambasssadeur nommé par l'Université de Paris pour porter le rotulus de l'Université au pape EUGÈNE IV en ;; Représentant de l'Université de Paris au Concile de Bâle, %1434-1447% ;; Représentant de la Faculté de théologie de Paris dans les négociations de paix entre l'Angleterre et la France, tenues à Arras en ;; Représentant des Pères du Concile à l'assemblée de Bourges, où la "Pragmatique Sanction" a été débattue, en ;; Ambassadeur envoyé auprès de la Diète de Nuremberg, octobre ;; Ambassadeur envoyé au Concile de Mayence, février-avril ;; Ambassadeur envoyé au Concile de Bavière, novembre ;; Ambassadeur envoyé au Concile de Mayence, février-avril ;; Ambassadeur envoyé auprès de la Diète de Francfort, juin-août ;; Ambassadeur envoyé auprès de la Diète de Nuremberg, novembre - janvier ;; Représentant de CHARLES VII, roi de France, dans les négociations menant à la résignation du pape FÉLIX, ;; Ambassadeur du roi de France envoyé auprès du pape NICOLAS V, juin ;; Un des 11 "nuntii" assignés à représenter l'Université de Paris auprès du comte de Dunes, 11-19 décembre ;; Chargé par l'abbé de Marmoutier de superviser la réforme des statuts du collège du Plessis, 10 septembre ;; Chargé par le pape PIE II de superviser la révision des statuts de l'Ordre des Prémontrés, ;; Ambasssadeur au nom du roi de France, ;; Délégué de la ville de Paris traitant avec le duc de Berry concernant le bien être du royaume, fin août ..
+Authored work: '[Commentaire sur les deux premiers livres des Sentences]', composed around ?.
+Authored work: '[Commentaires sur différents livres de la Bible]', composed around ?.
+Authored work: 'Lectura super epistolas Pauli et evangelium Johannis', composed around ?.
+Authored work: '[Commentaire sur la première lettre de Saint Paul Apôtre aux Corinthiens]', composed around ?.
+Authored work: '[Questions et réponses]', composed around ?.
+Authored work: 'Officium visitationis beatissimae virginis Mariae', composed around ?.
+Authored work: '[Bulle du Concile "Grande Periculum"]', composed around 8 novembre ..
+Authored work: '[Sermon au Concile de Constance]', composed around 28 août à Constance..
+Authored work: '[Sermon au Concile de Constance]', composed around 14 février à Constance..
+Authored work: 'Quaedam propositio facta Biturigis ex parte sacri concilii Basiliensis... per magistrum Thomam de Courcellis', composed around ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,10 @@
+PERSON: MICHAEL de Pratis
+Also known as: Michael de PRATIS.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1378-1378%.
+Studied at: Paris (Nation Anglo-allemande) ;.
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Academic relationships: Son maître est Philippus PINGH pour le baccalauréat en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 19/10/2018..

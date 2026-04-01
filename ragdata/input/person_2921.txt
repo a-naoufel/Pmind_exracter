@@ -1,0 +1,9 @@
+PERSON: GERARDUS de Marla 2
+Also known as: Gerardus de MARLA.
+Description: Juriste.
+Status: Incertain.
+Gender: male.
+Active during: %1331-1331%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 7/01/2021.

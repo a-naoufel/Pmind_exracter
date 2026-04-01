@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Humbervilla
+Also known as: Guillelmus de HUMBERVILLA; Guillaume de HUMBERVILLA.
+Description: Licencié en médecine.
+Status: Gradué.
+Gender: male.
+Active during: %1340-1340%.
+Studied at: Paris (Faculté de Médecine) ..
+Academic grades obtained: Licencié en médecine (Paris) (20 mai) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 25/03/2020..

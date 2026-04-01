@@ -1,0 +1,10 @@
+PERSON: CLAUDIUS Rapine
+Also known as: Claudius RAPINE.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1437-1437%.
+Studied at: Paris %1437-1437%..
+Academic grades obtained: Étudiant en décret (Paris) ..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales en (19 décembre) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux : révision, Jean-Philippe Genet, 14/04/2021..

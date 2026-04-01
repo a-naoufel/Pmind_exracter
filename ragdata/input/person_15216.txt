@@ -1,0 +1,7 @@
+PERSON: THOMAS Aubert
+Also known as: Thomas AUBERT.
+Description: Barbier parisien..
+Status: Extérieur.
+Gender: male.
+Active during: %1425-1425%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 4/09/2016..

@@ -1,0 +1,9 @@
+PERSON: DOMINICUS Perin
+Also known as: Dominique PERIN.
+Description: Docteur en théologie.
+Status: Incertain.
+Gender: male.
+Active during: %1389-1389%.
+Studied at: ?.
+Academic grades obtained: Docteur en théologie ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

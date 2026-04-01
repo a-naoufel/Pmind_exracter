@@ -1,0 +1,12 @@
+PERSON: MARTINUS de Filigeriis
+Also known as: MARTINUS; MARTIN; MARTINUS magister; Martin de FOUGERES; Martinus de FILIGERIIS; Martinus MAGISTER; Martin of WINCHESTER; Martin de WINTON.
+Description: Maître en théologie ?.
+Status: Maître.
+Gender: male.
+Active during: %1195-1205%?.
+Born in: Bretagne ?.
+Studied at: Paris %1195-1205% ?.
+Academic grades obtained: Maître en théologie ? (Paris?)..
+Ecclesiastical positions held: Carrière inconnue..
+Authored work: '(Somme théologique)', composed around ?.
+Source: MIRABILE : Beatrice BARAGUTTI :.

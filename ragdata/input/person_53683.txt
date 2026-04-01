@@ -1,0 +1,20 @@
+PERSON: GUILLELMUS de Wheatley
+Also known as: William of WHEATLEY; William of WHETLEY.
+Description: Maître ès arts.
+Status: Étudiant.
+Gender: male.
+Active during: %1305-1331%.
+Born in: ?Yorkshire.
+Diocese of origin: Diocèse de York..
+Studied at: Paris av. ;; Oxford ?.
+Academic grades obtained: Étudiant (Paris) ?; Maître ès arts (Oxford) ..
+Ecclesiastical status: Sous-diacre, autorisé à devenir diacre;.
+Ecclesiastical positions held: Recteur de Sulham (Berkshire) %1305-1309% ;; Recteurde Yatesbury (Wiltshire) %1317-1331%?.
+Authored work: '(Pièce écrite pour Noël)', composed around ..
+Authored work: 'Exposicio in Hymnos duos Hugonis episcopi Licoln. sanctitatem commendantes', composed around ?.
+Authored work: '(Commentaire sur De Consolatione Philosophiae)', composed around ?.
+Authored work: '(Commentaire sur De Disciplina Scholasticorum)', composed around ?.
+Authored work: '(Commentaire sur les Quaestiones Cratoni)', composed around ?.
+Authored work: 'De signis prognosticis futurae sterilitatis', composed around ?, dedicated to Adressé à Elias de WHEATLEY, son ami et sans doute son parent..
+Authored work: 'Lettre', composed around ?, dedicated to Adressée à Roger MARTIVAL, évêque de Salisbury..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 04/05/2022..

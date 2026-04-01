@@ -1,0 +1,11 @@
+PERSON: FRANCISCUS Brinon
+Also known as: Franciscus BRINON.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1500-1500%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris..
+Studied at: Paris %1500-1500%..
+Academic grades obtained: Bachelier en décret (Paris) 13 novembre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 20/08/2021..

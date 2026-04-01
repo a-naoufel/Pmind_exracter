@@ -1,0 +1,13 @@
+PERSON: ROBERTUS Auclou
+Also known as: Robertus AUCLOU; Robertus de SALIONE.
+Description: Chanoine de Besançon.
+Status: Étudiant.
+Gender: male.
+Active during: %1420-1452%.
+Studied at: Paris.; Bologne ;.
+Academic grades obtained: Étudiant (Paris) ;; Licencié en droit canon ;.
+Ecclesiastical status: Prêtre en ;.
+Ecclesiastical positions held: Chanoine de Besançon %1420-1446% ;; Curé de Paris (Saint-Jacques) %1425-1427% ;; Chanoine de Troyes %1426-1431% ;; Chanoine de Paris (Notre-Dame) %1426-1434% ;; Chanoine de Beaune %1429-1446% ;; Chanoine de Lille ;; Chanoine de Pise ;; Chanoine de Chartres %1431-1433% ;; Chanoine d’Amiens %1431-1446% ;; Chanoine de Bayeux ;; Chanoine de Cambrai %1433-1436% ;; Archidiacre de Cambrai ;; Écolâtre de Cambrai ;; Chanoine de Bruges (Saint-Donatien) %1437-1448% ;; Chanoine de Dijon (Sainte Chapelle) ;.
+Other ecclesiastical functions: Vicairegénéral de Cambrai ;.
+Representation roles: Ambassadeur de PHILIPPE le Bon, duc de Bourgogne au concile de Bâle %1433-1438% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/03/2022)..

@@ -1,0 +1,22 @@
+PERSON: BRUNETTO Latini
+Also known as: Brunetto LATINI.
+Description: Notaire.
+Status: Extérieur.
+Gender: male.
+Active during: %1245-1293%.
+Born in: Toscane (Florence)..
+Diocese of origin: Diocèse de Florence ?.
+Studied at: Bologne ?.
+Family relationships: Son père est Bonaccursus LATINI della Lastra, notaire ; Son frère est Latino LATINI ; Sa fille est Biancia LATINI ; Son gendre est Guido di Filippo da CASTIGLIONCHIO ; Son fils est Bonaccorso LATINI ; Son fils est Cresta LATINI, notaire..
+Social origin: Bourgeoisie..
+Representation roles: Envoyé en mission en Castille en auprès d'ALPHONSE X, roi de Castille..
+Authored work: 'La "Rettorica" italiana', composed around %1260-1265%.
+Authored work: '(Traduction italienne du Pro Ligario)', composed around ?.
+Authored work: '(Traduction italienne du Pro Marcello)', composed around ?.
+Authored work: '(Traduction italienne du Pro rege Deiotaro)', composed around ?.
+Authored work: 'Il Tesoretto', composed around %1260-1265%, composé en France., dedicated to Dédié à un “Valente segnor”, peut-être ALPHONSE X, roi de Castille..
+Authored work: 'Il Favolello', composed around %1260-1265%, composé en France., dedicated to Dédié à Rustico di FILIPPO..
+Authored work: 'Canzonetta "S'eo son distretto inamoratamente"', composed around ?.
+Authored work: 'Epistola ad Papienses', composed around (octobre)..
+Authored work: 'Li livres dou trésor', composed around %1260-1266% ; additions après ..
+Source: http://www.florin.ms/BrunLatbibl.html (BOLTON HOLLOWAY (J.), Brunetto Latino, Maestro di Dante Alighieri: An Analytic and Interactive Bibliography) ;.

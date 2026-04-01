@@ -1,0 +1,9 @@
+PERSON: BERTRANDUS Juvenis
+Also known as: Bertrandus JUVENIS.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1273-1286%.
+Studied at: ?.
+Religious order: Dominicain.
+University functions: Orange (Couvent dominicain : Lecteur )..

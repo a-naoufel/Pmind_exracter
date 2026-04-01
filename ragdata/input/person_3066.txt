@@ -1,0 +1,10 @@
+PERSON: GILBERTUS de Hollendia
+Also known as: Gilbert de HOLLENDIA.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1342-1342%.
+Born in: ?.
+Studied at: Paris ..
+Ecclesiastical status: Clerc ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 15/11/2019..

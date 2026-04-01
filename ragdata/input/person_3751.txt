@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Bosquier
+Also known as: Guillelmus BOSQUIER.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1365-1365%.
+Born in: Normandie.
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris (Nation de Normandie ?)..
+Academic grades obtained: Magister (Paris) ;.
+Ecclesiastical status: Clerc (?) du diocèse de Rouen en ;.
+Ecclesiastical positions held: Candidat à un bénéfice dans les Beformationes rotuli Universitatis Parisiensis en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/02/2022.

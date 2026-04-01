@@ -1,0 +1,11 @@
+PERSON: CORNELIUS Wilgeri
+Also known as: Cornelius WILGER.
+Description: Étudiant de Greifswald.
+Status: Étudiant.
+Gender: male.
+Active during: %1504-1505%.
+Born in: Pays-Bas ?.
+Diocese of origin: Diocèse d’Utrecht..
+Studied at: Paris avant ?; Greifswald %1504-1505% ;.
+Academic grades obtained: Étudiant (Greifswald) %1504-1505%..
+Source: RAG ;.

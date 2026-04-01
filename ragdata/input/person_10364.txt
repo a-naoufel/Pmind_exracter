@@ -1,0 +1,12 @@
+PERSON: PETRUS de Orgeriis
+Also known as: Petrus de ORGERIIS; Pierre d'ORGERES.
+Description: Boursier théologien au collège de Navarre..
+Status: Étudiant.
+Gender: male.
+Active during: %1315-1330%.
+Born in: Orléanais (Orgères-en-Beauce) ?.
+Diocese of origin: Diocèse de Chartres ?.
+Studied at: Paris (Collège de Navarre) %1315-1330%..
+Academic grades obtained: Étudiant en théologie (Paris) ..
+College affiliation: Boursier théologien au collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 26/02/2024)..

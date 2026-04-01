@@ -1,0 +1,9 @@
+PERSON: ADAM 5
+Also known as: ADAM.
+Description: Scribe.
+Status: Suppôt.
+Gender: male.
+Active during: %1270-1270%.
+Studied at: Paris ..
+University functions: Paris (Université : scribe) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 6/11/2016..

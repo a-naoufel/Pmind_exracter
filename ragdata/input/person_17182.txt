@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS de Barzy
+Also known as: Gilles de BARZY; Gilet de BERSY.
+Description: Chanoine régulier.
+Status: Étudiant.
+Gender: male.
+Active during: %1395-1405%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Boursier au collège de Dormans-Beauvais ;.
+Family relationships: Son parent serait Pierre de BARZY, dépensier au collège de Dormans-Beauvais..
+Religious order: O.S.A. : Chanoinerégulier de Soissons (Saint-Jean des Vignes) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 23/04/2020)..

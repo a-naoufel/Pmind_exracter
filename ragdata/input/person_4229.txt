@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS de Assartis
+Also known as: Guillelmus de ASSARTIS.
+Description: Évêque d'Évreux.
+Status: Étudiant.
+Gender: male.
+Active during: %1317-1334%.
+Born in: Normandie(Rouen) ;.
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant en décret? (Paris) %1329-1330% ;; Licencié en droit civil attesté en ..
+Family relationships: Son père est Martinus de ASSARTIS ; Son oncle est Pierre des ESSARTIS ; Son frère est Johannes de ESSARTIS ; Son frère est Reginaldus de ESSARTIS ; Son frère est Vincentius de ESSARTIS..
+Social origin: Bourgeoisie ;.
+Ecclesiastical positions held: Archidiacre d'Ouches (église d'Évreux) en ;; Chanoine de Tournai en ;; Chanoine de Chartres en ;; Chanoine d'Avranches en ;; Chanoine de Tournai en ;; Chanoine de Paris en (Notre-Dame) ;; Chantre d'Amiens en ;; Évêque d'Évreux, %1333-1334% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 23/11/2019..

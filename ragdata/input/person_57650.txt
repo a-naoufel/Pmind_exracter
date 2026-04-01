@@ -1,0 +1,8 @@
+PERSON: LUDOVICUS Apothicarius
+Also known as: LUDOVICUS Apothicarius.
+Description: Apothicaire.
+Status: Extérieur.
+Gender: male.
+Active during: %1250-1250%.
+Family relationships: Bourgeoisie ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/03/2024..

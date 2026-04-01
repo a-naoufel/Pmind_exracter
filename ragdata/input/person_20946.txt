@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Conty
+Also known as: Nicolaus CONTY.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Maître (Paris) en ?; Docteur en décret ?.
+University functions: Paris (Faculté de Décret : représentant de la Faculté pour la certification du compte de la collecte de ) ;; Paris (Université : il est l'un des huit ambassadeurs choisis pour se rendre auprès du roi au printemps )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 7/08/2016..

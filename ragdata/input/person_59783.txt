@@ -1,0 +1,9 @@
+PERSON: GEORGIUS Kalo
+Also known as: Georgius KALO.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1481-1481%.
+Studied at: Paris (Nation Anglo-allemande) ;.
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Source: RAG ;.

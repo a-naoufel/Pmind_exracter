@@ -1,0 +1,12 @@
+PERSON: COLINUS Guyon
+Also known as: Colinus GUYON.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1385-1387%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Sées..
+Studied at: Paris (Nation de Normandie ?) ..
+Academic grades obtained: Étudiant (Paris) en.
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiastique à la cathédrale de Lisieux à la la collation de l'évêque, du doyen et du chapitre de Lisieux en ; mandat à l'official de Sées..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/04/2021..

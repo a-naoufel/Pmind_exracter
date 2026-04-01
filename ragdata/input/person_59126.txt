@@ -1,0 +1,10 @@
+PERSON: PHILIPPUS de Milliaco 1
+Also known as: Philippus de MILLIACO; Philippus de MELLIACO; Philippe de MILLY.
+Description: Chanoine de Châlons.
+Status: Incertain.
+Gender: male.
+Active during: %1238-1248%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Châlons-en-Champagne %1238-1241% ;; Chantre de Châlons-en-Champagne %1243-1248% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 17/06/2025.

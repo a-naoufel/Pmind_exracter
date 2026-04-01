@@ -1,0 +1,12 @@
+PERSON: VASSALDUS Quintini
+Also known as: Vassaldus QUINTINI.
+Description: Chanoine de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1464-1497%.
+Studied at: ?.
+Academic grades obtained: Bachelier en droit canon ;; Licencié en droit canon ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Curé d’Abrest ;; Chanoine de Clermont %1478-1497% ;; Abbécommendataire de Chantouin %1483-1492% ;; Archiprêtre de Souvigny % -1497% ;.
+Other ecclesiastical functions: Vicairegénéral de Clermont %1482-1483% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/10/2023..

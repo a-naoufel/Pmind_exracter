@@ -1,0 +1,13 @@
+PERSON: HENRICUS de Haccuria
+Also known as: Henricus de HACCURIA; Henri de HARCOURT.
+Description: Bénédictin.
+Status: Gradué.
+Gender: male.
+Active during: %1239-1258%.
+Studied at: Paris avant ..
+Academic grades obtained: Bachelier en théologie (Paris) ;; Licencié en décret (Paris) ..
+Family relationships: Son père est Guillaume ROCHIN, seigneur de Harcourt..
+Social origin: Noble..
+Religious order: O.S.B. : moine bénédictin : monastère de Saint-Laurent de Liège (diocèse de Liège)..
+Religious functions: Abbé de Liège (Saint-Laurent) en %1239-1258%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 28/04/2022)..

@@ -1,0 +1,9 @@
+PERSON: GALTERIUS de Lusarches
+Also known as: Gautier de LUSARCHES.
+Description: Détenteur de dîmes.
+Status: Extérieur.
+Gender: male.
+Active during: %1253-1253%.
+Family relationships: Sa femme est Maria ROLLANT ;.
+Social origin: Noble ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

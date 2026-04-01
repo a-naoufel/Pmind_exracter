@@ -1,0 +1,10 @@
+PERSON: PETRUS de Massengiaco
+Also known as: Petrus de MASSENGIACO.
+Description: Chantre de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1275-1299%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Sens (‘Notre-Dame’) %1275-1299% ;; Chantre de Sens ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 16/09/2022..

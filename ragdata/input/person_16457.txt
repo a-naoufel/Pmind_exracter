@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS de Caullier
+Also known as: Aegidius de CAULLIER.
+Description: Étudiant ès arts..
+Status: Étudiant.
+Gender: male.
+Active during: %1393-1393%.
+Born in: Artois ?.
+Diocese of origin: Diocèse d'Arras..
+Studied at: Paris (Nation de Picardie) %1393-1393%..
+Academic grades obtained: Étudiant en arts (Paris) ..
+Ecclesiastical positions held: Candidat à un bénéfice ecclésiastique dans la cathédrale, la cité ou le diocèse d'Arras d'après la supplique introduite en sa faveur par JEAN Ier, comte de Nevers en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 23/04/2020)..

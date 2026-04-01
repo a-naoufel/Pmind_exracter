@@ -1,0 +1,9 @@
+PERSON: WICARDUS Dierins
+Also known as: Wicardus dit DIERINS.
+Description: Chanoine de Tournai.
+Status: Incertain.
+Gender: male.
+Active during: %1262-1268%.
+Academic grades obtained: Magister attesté en ;.
+Ecclesiastical positions held: Chanoine de Tournai %1262-1268% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/05/2017..

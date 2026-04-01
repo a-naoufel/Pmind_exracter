@@ -1,0 +1,17 @@
+PERSON: GERARDUS Leodiensis
+Also known as: Gerardus LEODIENSIS; Gérard de LIEGE.
+Description: Cistercien.
+Status: Extérieur.
+Gender: male.
+Active during: %1200-1250%.
+Diocese of origin: Liège ?.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O. Cist. ?; Mgr. GLORIEUX attribue – tout comme le CUP: II, 81 – le Liber de doctrina et preparatione cordis au lecteur dominicain de ce nom, mais Christine RENARDY en s’appuyant sur André WILMART (Gérard de Liège, 349-430) estime que le traité est de Gérard de LIEGE, O. Cist. [ca. 1200] ainsi peut-être que les sermons contenus dans BnF 16483. La confusion est née d’une erreur de Henri de GAND..
+Authored work: 'Liber de doctrina et preparatione cordis', composed around ?.
+Authored work: 'Tractatus super septem verba dicta a Domino Iesu Christo pendente in cruce', composed around ?.
+Authored work: 'Tractatus de utilitate tribulationum', composed around ?.
+Authored work: 'De septem remediis contra amorem illicitum', composed around ?.
+Authored work: 'Quinque incitamenta ad Deum amandum ardenter', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Source: MIRABILE, Andrea CENCINI :.

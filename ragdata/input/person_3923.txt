@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Herberti
+Also known as: Guillelmus HERBERTI.
+Description: Libraire et stationarius.
+Status: Suppôt.
+Gender: male.
+Active during: %1342-1342%.
+Studied at: Paris ..
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 15/11/2019..

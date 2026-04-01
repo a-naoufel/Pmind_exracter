@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Templo
+Also known as: Guillelmus de TEMPLO.
+Description: Chanoine du Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1234-1246%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical positions held: Chanoine de LeMans %1234-1241% ;; Archidiacre de Sablé %1234-1238% ;; Écolâtre de LeMans ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/07/2023)..

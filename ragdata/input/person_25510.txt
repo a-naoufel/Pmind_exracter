@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Maceneti
+Also known as: Guillelmus MACENETI; Guillaume MACENAT.
+Description: Chanoine de Besançon.
+Status: Étudiant.
+Gender: male.
+Active during: %1407-1429%.
+Born in: ComtédeBourgogne (Oiseley) ;.
+Diocese of origin: Diocèse de Besançon ;.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ;.
+Ecclesiastical positions held: Chanoine de Besançon %1407-1429% ;; Chanoine de Vienne %1426- % ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/04/2022)..

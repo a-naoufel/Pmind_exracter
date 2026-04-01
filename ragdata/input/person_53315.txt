@@ -1,0 +1,9 @@
+PERSON: MICHAUD Piau
+Also known as: Michaud PIAU.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1416-1416%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 7/01/2022..

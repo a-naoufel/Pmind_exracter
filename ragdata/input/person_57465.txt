@@ -1,0 +1,9 @@
+PERSON: NICOLAUS de Franquelance
+Also known as: Nicolaus de FRANQUELANCE.
+Description: Licencié ès lois.
+Status: Gradué.
+Gender: male.
+Active during: %1415-1415%.
+Studied at: Paris %1415-1415%..
+Academic grades obtained: Licencié ès lois ;; Bachelier en décret (Paris) (14 mars) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 9-02-2024..

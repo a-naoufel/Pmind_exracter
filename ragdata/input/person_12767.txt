@@ -1,0 +1,12 @@
+PERSON: PETRUS Martini 12
+Also known as: Petrus MARTINI.
+Description: Bachelier en droit canon.
+Status: Gradué.
+Gender: male.
+Active during: %1496-1496%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Meaux..
+Studied at: Paris %1496-1496%..
+Academic grades obtained: Bachelier en décret (Paris) (le 16 mars) ..
+Religious order: O.S.B. : moine bénédictin..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/03/2022)..

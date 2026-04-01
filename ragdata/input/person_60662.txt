@@ -1,0 +1,11 @@
+PERSON: HENRICUS Schonbrunner
+Also known as: Henricus SCHÖNBRUNNER.
+Description: Garde suisse à Rome.
+Status: Maître.
+Gender: male.
+Active during: %1503-1515%.
+Born in: Alémanie ;.
+Diocese of origin: Diocèse de Constance ;.
+Studied at: Paris (Nation Anglo-allemande) %1408-1410%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licence ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/12/2025..

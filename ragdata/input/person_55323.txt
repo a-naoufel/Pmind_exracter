@@ -1,0 +1,10 @@
+PERSON: MICHAEL Heberti
+Also known as: Michael HEBERTI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1449-1449%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris)..
+University functions: Paris (Université : scribe de l'université) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 20/02/2023..

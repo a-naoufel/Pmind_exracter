@@ -1,0 +1,10 @@
+PERSON: FULCO 1
+Also known as: FULCO.
+Description: Doyen de Reims.
+Status: Extérieur.
+Gender: male.
+Active during: %1170-1172%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Doyen de Reims ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 22/09/2021..

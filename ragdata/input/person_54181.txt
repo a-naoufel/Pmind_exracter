@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS de Lissiaco
+Also known as: Aegidus de LISSIACO; Gilles de LIXY.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1270-1277%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son parent est Gilles de LIXIACO, chanoine de Paris (Sainte-Chapelle) ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Sens ('Saint-Jean-Baptiste') %1270-1277% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 10/09/2022..

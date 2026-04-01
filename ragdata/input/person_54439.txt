@@ -1,0 +1,11 @@
+PERSON: HUGO de Arceiis
+Also known as: Hugo de ARCEIIS.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1290-1290%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Sens (‘Notre-Dame’) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 24 octobre 2022..

@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Rochini
+Also known as: Guillalmus ROCHINI.
+Description: Inquisiteur.
+Status: Extérieur.
+Gender: male.
+Active during: %1364-1364%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.P. : frère dominicain..
+Religious functions: Inquisiteur du diocèse de Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 19/12/2021..

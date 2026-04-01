@@ -1,0 +1,18 @@
+PERSON: PETRUS Richardi 3
+Also known as: Petrus RICHARDI.
+Description: Maître en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1480-1525%.
+Born in: Normandie (Coutances)..
+Diocese of origin: Diocèse de Coutances..
+Studied at: Paris (Nation de Normandie) %1496-1512%..
+Academic grades obtained: Licencié en théologie (Paris) (27 janvier) ;; Maître en théologie (Paris) (22 septembre) ..
+College affiliation: Collège de Justice : étudiant durant trois ans et demi.; Collège d’Harcourt : prieur en ;; Collège d’Harcourt : régent en arts ;.
+Academic relationships: Son maître est Stephanus HARONau collège de Justice..
+Ecclesiastical positions held: Chanoine théologal de Troyes (chapitre cathédral) le 22 mars ..
+University functions: Paris (Faculté des Arts : maître-régent en arts au collège d'Harcourt) ;; Paris (Faculté de théologie : maître-régent en ) ;.
+Authored work: 'Petri Richardi artium et sacrae Theologiae professoris optime meriti, Sermonum opus, super epistolas et Evangelia totius anni', composed around ?.
+Authored work: '(Auree Duodecim Orationes egregijs passim referte hystorijs de Marco Antonio Coccio Sabellicus)', composed around ?.
+Authored work: '(Édition des Epithoma de Valère Maxime)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 12/12/2020..

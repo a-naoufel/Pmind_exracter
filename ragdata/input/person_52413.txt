@@ -1,0 +1,11 @@
+PERSON: RADULPHUS Hertrud
+Also known as: Radulphus HERTRUD.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1480-1516%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Reims (Saint-Symphorien) % -1480% ;; Chanoine de Reims vers %1480-1516% ;; Chanoine de Reims (Sainte-Nourrice) %1483-1485% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/06/2021..

@@ -1,0 +1,12 @@
+PERSON: ALBERTUS de Vezilisia
+Also known as: Albertus de VEZILISIA.
+Description: Étudiant ès arts.
+Status: Étudiant.
+Gender: male.
+Active during: %1378-1378%.
+Born in: Lorraine ?.
+Diocese of origin: Diocèse de Toul..
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Étudiant ès arts (Paris) en ..
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiastique à la collation de l'abbesse et du monastère d'Épinal (Saint-Goëric) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/06/2020)..

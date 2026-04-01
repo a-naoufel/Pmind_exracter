@@ -1,0 +1,13 @@
+PERSON: CAROLUS de Salazar
+Also known as: Carolus de SALAZAR.
+Description: Chanoine de Sens.
+Status: Étudiant.
+Gender: male.
+Active during: %1485-1492%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Sens..
+Studied at: Paris ..
+Family relationships: Son demi-frère est Tristan de SALAZAR, archevêque de Sens..
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine de Sens %1490-1492%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/03/2021)..

@@ -1,0 +1,8 @@
+PERSON: DENESITA de Nerel
+Also known as: Denesita de NEREL.
+Description: Maîtresse d'école.
+Status: Suppôt.
+Gender: female.
+Active during: %1380-1380%.
+Studied at: Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 08/05/2021..

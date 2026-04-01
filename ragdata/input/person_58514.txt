@@ -1,0 +1,11 @@
+PERSON: PETRUS de Ruelle
+Also known as: Pierre de RUELLE.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1399-.
+Studied at: ?.
+Academic grades obtained: Maître..
+College affiliation: Collège des Cholets ?.
+Ecclesiastical status: Prêtre ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/02/2025)..

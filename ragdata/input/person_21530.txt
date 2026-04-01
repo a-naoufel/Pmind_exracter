@@ -1,0 +1,10 @@
+PERSON: HENNINGUS Rocstede
+Also known as: HENNINGHUS Rocstede; Henninghus ROCSTEDE;.
+Description: Étudiant.
+Status: Incertain.
+Gender: male.
+Active during: %1407-1407%.
+Born in: Allemagne (Saxe (Rastede?))..
+Studied at: Paris (?collège de Skara), ..
+College affiliation: Collège de Skara ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 11/11/2016, révision 08/02/2019..

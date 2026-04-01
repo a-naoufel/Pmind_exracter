@@ -1,0 +1,9 @@
+PERSON: STEPHANUS de Fontanis
+Also known as: Stephanus de FONTANIS; Étienne de FONTAINES.
+Description: Écrivain et libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1368-1375%.
+Studied at: Paris %1368-1375%..
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 16/09/2024..

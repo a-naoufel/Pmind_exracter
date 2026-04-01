@@ -1,0 +1,10 @@
+PERSON: GASPERUS Dalus
+Also known as: Caspar DALUS; Caspar DALOS.
+Description: Docteur en théologie ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1489-1524%.
+Born in: Hongrie (Szombathely) ;.
+Studied at: Vienne ;; Padoue ;; Paris (Nation Anglo-allemande) %1522-1524% ?.
+Academic grades obtained: Docteur en théologie ?; Étudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, denière mise à jour, 18/10/2024..

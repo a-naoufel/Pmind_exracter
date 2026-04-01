@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Bellovisu
+Also known as: Guillelmus de BELLOVISU.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1428-1428%.
+Studied at: Paris %1428-1428%..
+Academic grades obtained: Licencié en décret (Paris) 30 mars ;.
+Academic relationships: Son maître est Anthonius de LAUCO pour la licence en décret en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 08/03/2022..

@@ -1,0 +1,10 @@
+PERSON: GUIDO 4
+Also known as: GUIDO.
+Description: Prêtre de Sains-Morainvillers.
+Status: Maître.
+Gender: male.
+Active during: %1272-1275%.
+Studied at: ?Paris ;.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Prêtre de Sains-Morainvillers dans le diocèse de Beauvais ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 26/09/2023)..

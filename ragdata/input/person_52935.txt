@@ -1,0 +1,10 @@
+PERSON: RADULPHUS de Estrohen
+Also known as: Radulphus de ESTROHEN; Radulphus de CATREHAN.
+Description: Archidiacre du Petit-Caux et du Grand-Caux.
+Status: Incertain.
+Gender: male.
+Active during: %1222-1226%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Archidiacre du Grand-Caux ;; Archidiacre du Petit-Caux ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/11/2021..

@@ -1,0 +1,15 @@
+PERSON: PETRUS Ducis
+Also known as: Petrus DUCIS; Petrus LE DUC.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1383-1400%.
+Born in: Île-de-France (Roissy-en-France)..
+Studied at: Paris %1383-1390%.
+Academic grades obtained: Bachelier en théologie (Paris) ;; Bachelier en théologie formatus in theologia (Paris) ;; Licencié en théologie (Paris) ;; Docteur en théologie (Paris) ..
+Religious order: Chanoine (O.S.A.) de Saint-Victor..
+Religious functions: Abbé de Saint-Victor à Paris, %1383-1400%..
+University functions: Paris (Faculté de Théologie : Maître-régent en ) ;.
+Authored work: 'Questiones lecture abbatis Petri Ducis super primum et secundum Sententiarum', composed around ?.
+Authored work: 'Questiones super quartum: utrum curati vel priores parrochiales possint excommunicare suos parrochianos', composed around ?.
+Authored work: 'Sermones fratris Petri Ducis, quondam abbatis Sancti Victoris, tam de tempore et de sanctis', composed around ?.

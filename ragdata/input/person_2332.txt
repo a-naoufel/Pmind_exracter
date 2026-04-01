@@ -1,0 +1,13 @@
+PERSON: FRANCISCUS de Nyons
+Also known as: Franciscus de NYONS; Franciscus de NOYON.
+Description: Abbé de Sainte-Geneviève.
+Status: Étudiant.
+Gender: male.
+Active during: %1406-1414%.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant ?.
+College affiliation: Sainte-Geneviève..
+Religious order: O.S.A : Chanoinerégulier de Paris (Sainte-Geneviève)..
+Religious functions: Abbé de Paris (Sainte-Geneviève) %1406-1414%..
+Representation roles: Il participe au concile de Pise en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : révision, Jean-Philippe Genet, dernière mise à jour 16/01/2021)..

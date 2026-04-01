@@ -1,0 +1,7 @@
+PERSON: ANDREAS Emery
+Also known as: Andry EMERY.
+Description: Marchand de bétail.
+Status: Extérieur.
+Gender: male.
+Active during: %1448-1448%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 6/08/2020)..

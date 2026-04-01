@@ -1,0 +1,12 @@
+PERSON: ROGARIUS de Montibus
+Also known as: Rogerius de MONTIBUS.
+Description: Recteur de Montfort-sur-Risle.
+Status: Maître.
+Gender: male.
+Active during: %1342-1363%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen :.
+Studied at: Paris (Nation de Normandie) ..
+Academic grades obtained: Maître ès arts (Paris) en ;; Étudiant en théologie (Paris) en ;.
+Ecclesiastical positions held: Recteur de Montfort-sur-Risle en ;; Détenteur d’une provision avec expectative de prébende de Laon (église collégiale Saint-Jean-du-Bourg) en ;; Provision pour un bénéfice à la collation de l’archevêque, du doyen et du chapitre de Lyon en réponse au rotulus de l’université de Paris en : mandat à l’abbé (O.S.B.) de Saint-Martind’Ainay, au sacriste d’Avignon et à Ricardus de COLEMONTE, chanoine de Rouen ;; Provision pour un bénéfice à la collation du doyen et du chapitre de Tours (Saint-Martin) en réponse au rotulus de l’université de Paris en : mandat à l’abbé (O.S.B.) de Marmoutier, au sacriste d’Avignon et à Dionysius de DUCLARO, chanoine de Paris ;; Provision pour un canoincat avec expectative de prébende de Caen (Saint-Sépulcre) en (11 décembre) ;; Mandat à l’évêque de Paris en réponse au rotulus de l’université de paris en pour qu’il soit pourvu de son canonicat avec expectative de prébende de Tours nonobstant son égliseparoissiale de Montfort-sur-Risle ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 07/06/2022)..

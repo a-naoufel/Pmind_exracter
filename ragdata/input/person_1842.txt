@@ -1,0 +1,11 @@
+PERSON: COSTIN Mikaert
+Also known as: Costin MIKAERT; Costin MICART.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1415-1419%.
+Studied at: Paris (Nation de Picardie), %1415-1419%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Family relationships: Marié..
+Ecclesiastical status: Clericus uxoratus..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 01/05/2021..

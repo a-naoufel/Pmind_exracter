@@ -1,0 +1,8 @@
+PERSON: PETRUS Morelli 2
+Also known as: Petrus MORELLI.
+Description: Habitant de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1282-1282%.
+Studied at: ?.
+Social origin: Bourgeois de Paris ?.

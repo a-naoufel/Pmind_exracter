@@ -1,0 +1,12 @@
+PERSON: GERARDUS de Conchy
+Also known as: Gerardus de CONCHY.
+Description: Évêque d'Amiens.
+Status: Extérieur.
+Gender: male.
+Active during: %1220-1257%.
+Born in: Picardie ?.
+Studied at: ?.
+Academic grades obtained: ?.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine d'Amiens %1220-1247% ;; Pénitencier d'Amiens %1232-1237% ;; Doyen d'Amiens %1238-1247% ;; Évêque d'Amiens %1247-1257%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 06/01/2022..

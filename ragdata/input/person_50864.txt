@@ -1,0 +1,12 @@
+PERSON: GILBERTUS Anglicus 1
+Also known as: Gilbertus ANGLICUS.
+Description: Canoniste.
+Status: Extérieur.
+Gender: male.
+Active during: %1202-1203%.
+Born in: Angleterre..
+Studied at: Bologne..
+University functions: Bologne (Professeur)..
+Authored work: 'Collectio Gilberti', composed around %1202-1203%..
+Authored work: 'Glossae in Collectionem Gilberti'.
+Source: MIRABILE : Federico CONTINI :.

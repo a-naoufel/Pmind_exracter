@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Delmeto
+Also known as: Guillelmus DELMETO.
+Description: Licencié in utroque jure.
+Status: Maître.
+Gender: male.
+Active during: %1379-1379%.
+Studied at: Paris ()..
+Academic grades obtained: Maître ès arts (Paris) .; Licencié in utroque jure ,.
+Ecclesiastical status: Prêtre en ;.
+Ecclesiastical positions held: Candidat à un canonicat de Coutances sur le rotulus plurium magistrorum, doctorum, licentiatorum, baccal. et scolar. de Universitate Parisiens. en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/04/2022..

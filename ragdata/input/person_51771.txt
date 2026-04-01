@@ -1,0 +1,16 @@
+PERSON: HERBERTUS Autissodoriensis
+Also known as: Herbert d'AUXERRE.
+Description: Doyen d'Auxerre.
+Status: Maître.
+Gender: male.
+Active during: %1234-1259%.
+Born in: Bourgogne (Auxerre)..
+Diocese of origin: Diocèse d'Auxerre ?.
+Studied at: Paris.
+Academic grades obtained: Maître en théologie (Paris) av..
+Academic relationships: Son maître est peut-être Guillaume d'AUXERRE..
+Ecclesiastical positions held: Archidiacre d'Auxerre ;; Doyen d'Auxerre %1247-1259%..
+University functions: Paris (Maître-régent en théologie)..
+Authored work: 'Summa abbreviata magistri G. Altissiodorensis', composed around .
+Authored work: 'Quaestiones de sacramentis', composed around ?.
+Source: MIRABILE: Andrea CENCINI :.

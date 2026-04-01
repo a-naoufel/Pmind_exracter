@@ -1,0 +1,14 @@
+PERSON: NICOLAUS de Oliviis
+Also known as: Nicolaus de OLIVIIS; Nicolaus de OLIVIS; Nicolaus de OLIVERIIS; Nicole des OLIVIERS.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1371-1409%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Reims ;.
+Studied at: Paris (Nation de France) %:1378-1379%..
+Academic grades obtained: Maître ès arts (Paris) ;; Maître en médecine (Paris) ..
+Ecclesiastical status: Clerc du diocèse de Reims ;; Prêtre ;.
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiastique à la collation de l'abbé et du couvent du monastère (O.S.B.) de Mouzon sur le rotulus de l'université de Paris en : mandat au doyen de Reims, à Johannes ESTACIS, chanoine de Langres et à l'official de Paris ;; Recteur de Mohon ;; Provision pour un canonicat avec expectative de prébende de Noyon sur le rotulus de la Nation de France de l'université de Paris en ;; Provision motu proprio pour un canonicat avec expectative de prébende de Reims sur le rotulus des nonces de l'université de Paris en ;; Provision pour un canonicat avec expectative de prébende de Châlons sur le rotulus de la Faculté de Médecine de l'université de Paris en ;; Candidat à un bénéfice ecclésiastique à la collation du doyen et du chapitre de Rozoy (église collégiale Saint-Laurent) en (3 décembre) ;; Curé de Lavanne (diocèse de Reims), %1398-1405% ;; Chanoineprébendé de Reims, %1380-1409% ;; Chanoine de Braux (Saint-Pierre) en ;; Chanoine de Braux (Saint-Pierre) en ;.
+University functions: Paris (Faculté de Médecine : Maîtrerégent en %1378-1379%) ;; Paris (Faculté de Médecine : Nonce pour le rotulus de la Faculté en %1378-1379%) :.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, révision, Jean-Philippe Genet, 26/08/2021..

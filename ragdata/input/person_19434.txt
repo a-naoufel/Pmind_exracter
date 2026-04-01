@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Eschart
+Also known as: Guillelmus ESCHART.
+Description: Chanoine de Saint-Martin de Tours.
+Status: Maître.
+Gender: male.
+Active during: %1455-1469%.
+Studied at: Paris (Nation de France) %1455-1469%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Maître (Paris) ?.
+College affiliation: Collège de Tours %1367-1469% ;.
+Ecclesiastical positions held: Chanoine de Tours (Saint-Martin) en ;.

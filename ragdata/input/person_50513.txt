@@ -1,0 +1,8 @@
+PERSON: STEPHANUS Basileau
+Also known as: Stephanus BASILEAU.
+Description: Clerc parisien.
+Status: Extérieur.
+Gender: male.
+Active during: %1416-1416%.
+Ecclesiastical status: Clerc parisien ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 4/12/2019..

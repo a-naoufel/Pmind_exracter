@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Valpie
+Also known as: Guillelmus VALPIE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1379-1379%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) ;.
+Ecclesiastical status: Clerc..
+Ecclesiastical positions held: Candidat à un bénéfice sur le Rotulus plurium magistrorum, doctorum, licentiatorum , baccal. et scolar. de Universitate Parisiens. en ;.
+University functions: Paris (Faculté des Arts : Maître-Régent en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 05/06/2022)..

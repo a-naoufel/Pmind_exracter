@@ -1,0 +1,11 @@
+PERSON: ALBERTUS Noschel
+Also known as: Albertus NOSCHEL; Albertus MOESSEL; Albertus MUSSEL.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1502-1503%.
+Born in: Alémanie ;.
+Diocese of origin: Diocèse de Constance ;.
+Studied at: Paris (Nation Anglo-allemande) %1502-1503%..
+Academic grades obtained: Bachelier ès art (Paris) ;; Licencié ès art (Paris) ;; Maître ès art (Paris) ;.
+Source: RAG ;.

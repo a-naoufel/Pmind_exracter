@@ -1,0 +1,9 @@
+PERSON: LUCAS Thudyau
+Also known as: Lucas THUDYAU.
+Description: Nonce pour le diocèse de Luçon.
+Status: Suppôt.
+Gender: male.
+Active during: %1448-1448%.
+Born in: Paris (Nation de France)..
+University functions: Paris (Université : Nonce pour le diocèse de Luçon ) ;.
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 25/01/2023.

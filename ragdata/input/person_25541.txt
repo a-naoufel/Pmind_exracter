@@ -1,0 +1,12 @@
+PERSON: PETRUS Chalantre
+Also known as: Perrin CHALANTRE.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1416-1416%.
+Born in: Île-de-France (Meaux) ;.
+Diocese of origin: Diocèse de Meaux ;.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ;.
+College affiliation: Collège de Dormans-Beauvais : écolier-boursier ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 31/01/2019..

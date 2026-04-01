@@ -1,0 +1,11 @@
+PERSON: ROBERTUS de Padavilla
+Also known as: Robertus de PADAVILLA.
+Description: Ermite de Saint Augustin.
+Status: Étudiant.
+Gender: male.
+Active during: %1303-1303%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ..
+College affiliation: Couvent des Augustins à Paris (Grands-Augustins) ;.
+Religious order: O.E.S.A. : frère augustin..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 3/11/2020..

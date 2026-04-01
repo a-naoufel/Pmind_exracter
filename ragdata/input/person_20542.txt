@@ -1,0 +1,11 @@
+PERSON: LAURENTIUS Nicolay
+Also known as: Laurentius NICOLAY.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1448-1448%.
+Born in: Pays-Bas ?.
+Diocese of origin: Diocèse d'Utrecht..
+Studied at: Paris (Nation Anglo-allemande) en ;.
+Academic grades obtained: Étudiant ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/08/2023)..

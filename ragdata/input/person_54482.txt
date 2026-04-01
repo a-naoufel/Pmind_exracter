@@ -1,0 +1,10 @@
+PERSON: GALFREDUS de Cornolio
+Also known as: Gauffridus de CORNOLIO.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1323-1328%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Sens %1323-1328% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 27 octobre 2022..

@@ -1,0 +1,10 @@
+PERSON: MAGNUS
+Also known as: MAGNUS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1278-1278%.
+Born in: Suède.
+Studied at: Paris, ..
+Family relationships: Son parent (cognatus) est BERO, prévôt d'Uppsala (cathédrale)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 24/04/2014..

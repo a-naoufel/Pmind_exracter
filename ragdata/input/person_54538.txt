@@ -1,0 +1,14 @@
+PERSON: GALFREDUS de Mayet
+Also known as: Geoffroy de MAYET.
+Description: Évêque de Sées.
+Status: Incertain.
+Gender: male.
+Active during: %1241-1258%.
+Born in: Normandie ?.
+Studied at: ?..
+Academic grades obtained: Magister ?.
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine de Rouen en ;; Évêque de Sées %1241-1258% ;.
+Other ecclesiastical functions: Official de Rouen en ;.
+Representation roles: Il participe au concile du Vienne en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 08/11/2022..

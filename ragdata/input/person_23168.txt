@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Le Brun
+Also known as: Guillelmus LEBRUN.
+Description: Nonce pour le diocèse de Besançon.
+Status: Suppôt.
+Gender: male.
+Active during: %1444-1445%.
+Academic grades obtained: Paris (Nation de France) ..
+University functions: Paris (Nation de France : nonce pour le diocèse de Besançon jusqu'en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/05/2018..

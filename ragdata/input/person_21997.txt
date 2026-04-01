@@ -1,0 +1,12 @@
+PERSON: ADAM de Carnoto
+Also known as: Adam de CARNOTO.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1240-1258%.
+Born in: Orléanais ?.
+Diocese of origin: Diocèse de Chartres ;.
+Studied at: ?.
+Academic grades obtained: Magister..
+Ecclesiastical positions held: Chanoine de Reims %1240-1258% ;; Official de Reims %1240-1258% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

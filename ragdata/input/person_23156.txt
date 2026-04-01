@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Martini 6
+Also known as: Guillelmus MARTINI.
+Description: Nonce pour le diocèse d'Autun.
+Status: Suppôt.
+Gender: male.
+Active during: %1447-1447%.
+Academic grades obtained: Paris (Nation de France) ..
+University functions: Paris (Nation de France : désigné comme nonce pour le diocèse de Autun en à la demande de Adam TEGULARII, M.A., prieur (bénédictin) de Paris (Saint Denis la Châtre) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/05/2018..

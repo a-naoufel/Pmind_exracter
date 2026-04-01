@@ -1,0 +1,10 @@
+PERSON: PETRUS Du Gonon
+Also known as: Petrus DUGONON; Petrus DUGONO.
+Description: Boursier du collège de Fortet.
+Status: Étudiant.
+Gender: male.
+Active during: %1462-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en %1462-1464% ?.
+College affiliation: Collège de Fortet, boursier ;; Témoin de la vente en (22 février) à Jean LE MENU, maçon de Paris, d'une maison appartenant au collège de Fortet située devant la Croix Neuve près de Saint-Eustache, contre une rente annuelle de 14 sous ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

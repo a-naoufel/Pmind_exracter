@@ -1,0 +1,15 @@
+PERSON: HUGO Clerici 3
+Also known as: Hugo CLERICI; Hugues LECLERC.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1421-1470%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Reims ;.
+Studied at: ?.
+Academic grades obtained: Maître ;; Licencié en droit canon ;.
+Family relationships: Son père est Jean LECLERC, seigneur de LaMotteLuzarche et chevalier ;.
+Social origin: Noble ;.
+Ecclesiastical status: Sous-diacre ;.
+Ecclesiastical positions held: Diacre en ;; Chanoine de Paris (Notre-Dame) %1421-1435% ;; Chanoine de Tournai ;; Chanoine de Paris (Saint-Germainl'Auxerrois) %1425-1448% ;; Chanoine de Saint-Quentin ;; Chanoine de Reims %1432-1470% ;; Chanoine de Nevers ?; Sénéchal de Reims %1432-1470% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 27/10/2021..

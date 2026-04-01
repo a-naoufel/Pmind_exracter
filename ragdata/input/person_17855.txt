@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Huberti 2
+Also known as: Guillelmus HUBERTI.
+Description: Bachelier en décret.
+Status: Maître.
+Gender: male.
+Active during: %1436-1436.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Coutances..
+Studied at: Paris (Nation de Normandie) %1436-1436%..
+Academic grades obtained: Maître ès arts (Paris) attesté en ;; Bachelier en décret (Paris) en ..
+Ecclesiastical positions held: Prêtre..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (1e année) en (5 janvier)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 25/03/2022..

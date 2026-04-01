@@ -1,0 +1,11 @@
+PERSON: THEODERICUS 3
+Also known as: THEODERICUS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1446-1450%.
+Studied at: Paris (Nation de France) %1446-1450%..
+Academic grades obtained: Maître ès arts (Paris) en ;.
+Academic relationships: Son élève est Nicolaus BRIGOU, du diocèse de Toul, pour la maîtrise en ;.
+University functions: Paris (Nation de France : Maître régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 19/01/2024..

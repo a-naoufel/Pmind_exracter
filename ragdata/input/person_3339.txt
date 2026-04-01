@@ -1,0 +1,11 @@
+PERSON: GUIDO de Bona Curia
+Also known as: Guido de BONA CURIA; Guy de BONNECOURT.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1270-1270%.
+Studied at: Paris..
+Academic grades obtained: Licencié en théologie (Paris) avant.
+College affiliation: Sorbonne : socius ?.
+Ecclesiastical positions held: Chanoine de Laon (Saint-Martin) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 26/01/2022..

@@ -1,0 +1,9 @@
+PERSON: SIMON Le Chagre
+Also known as: Symon LE CHAGRE.
+Description: Boucher.
+Status: Extérieur.
+Gender: male.
+Active during: %1366-1366%.
+Social origin: Bourgeois parisien..
+Ecclesiastical status: Laïc..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 26/09/2021..

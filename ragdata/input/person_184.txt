@@ -1,0 +1,10 @@
+PERSON: AEGIDIUS Kaudeles
+Also known as: Aegidius KAUDELES.
+Description: Recteur de l'Université..
+Status: Maître.
+Gender: male.
+Active during: %1356-1356%.
+Studied at: ?Paris (Faculté des Arts)..
+Academic grades obtained: Maitre es arts ..
+University functions: Paris (Recteur) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 05/05/2020)..

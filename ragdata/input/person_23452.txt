@@ -1,0 +1,10 @@
+PERSON: PETRUS Boucher 1
+Also known as: Pierre BOUCHER; Le Grand BOUCHER.
+Description: Hôte du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1400-1405%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) %1400-1405%..
+College affiliation: Collège de Dormans-Beauvais : hôte %1400-1405% ;.
+Source: LAMOP : Opération Charles VI (n° 2519) :.

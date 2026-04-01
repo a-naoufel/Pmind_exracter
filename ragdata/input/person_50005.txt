@@ -1,0 +1,11 @@
+PERSON: ANDREAS Le Riche
+Also known as: Andreas LERICHE; Andrieu LERICHE.
+Description: Martinet du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1414-1415%.
+Studied at: Paris %1432-1436%..
+Academic grades obtained: Étudiant (Paris) %1432-1436% ;.
+College affiliation: Collège de Dormans-Beauvais : martinet %1432-1436% ;.
+Family relationships: Il est peut-être parent de Petrus LERICHE, boursier du Collège de Dormans-Beauvais en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 3/10/2019..

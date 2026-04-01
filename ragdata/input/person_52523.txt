@@ -1,0 +1,10 @@
+PERSON: GALTERIUS de Lingonis
+Also known as: Galterius de LINGONIS.
+Description: Promoteur de la cour épiscopale de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1389-1389%.
+Studied at: ?.
+Academic grades obtained: ?.
+Other ecclesiastical functions: Promoteur de la courépiscopale de Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 24/07/2021..

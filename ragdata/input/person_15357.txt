@@ -1,0 +1,11 @@
+PERSON: ROBERTUS du Coin-Du-Mur
+Also known as: Robert du COIN-DU-MUR.
+Description: Chanoine de Chartres.
+Status: Maître.
+Gender: male.
+Active during: %1220-1230%.
+Studied at: Paris %:1230-1230%..
+Academic grades obtained: Maître en décret (Paris) ..
+Ecclesiastical positions held: Chanoine de Chartres ;.
+University functions: Paris (Maître en décret vers ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 10/08/2023)..

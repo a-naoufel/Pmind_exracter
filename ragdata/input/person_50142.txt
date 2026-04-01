@@ -1,0 +1,10 @@
+PERSON: HUGO de Tornodoro
+Also known as: Hugo de TORNODORO.
+Description: Procureur de la Nation de France.
+Status: Maître.
+Gender: male.
+Active during: %1341-1341%.
+Studied at: Paris (Nation de France)..
+Academic grades obtained: Maître ès arts (Paris) ..
+University functions: Paris (Nation de France : Procureur en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 17/09/2019..

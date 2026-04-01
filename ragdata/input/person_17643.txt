@@ -1,0 +1,9 @@
+PERSON: GUIDO Basin
+Also known as: Guido BASIN.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1444-1444%.
+Studied at: Paris %1444-1444%..
+Academic grades obtained: Bachelier en décret (Paris) 2 avril ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 22/01/20ZZ..

@@ -1,0 +1,12 @@
+PERSON: RADULPHUS de Sancto Nicasio
+Also known as: Radulphus de SANCTO NICASIO.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1232-1236%.
+Born in: Champagne (Reims) ;.
+Diocese of origin: Diocèse de Reims ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Reims %1232-1236% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 09/06/2021..

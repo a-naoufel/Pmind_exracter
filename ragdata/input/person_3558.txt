@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Atemvilla
+Also known as: Guillaume de ALTEMVILLA; Guillelmus de ATEMVILLA; Guillaume de ALTEMVILLA.
+Description: Procureur de la Sorbonne.
+Status: Maître.
+Gender: male.
+Active during: %1315-1316%.
+Born in: Ile-de-France (Attainville ?) ?.
+Studied at: Paris..
+Academic grades obtained: Magister (Paris) en ..
+College affiliation: Paris (Collège de Sorbonne : procureur en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne TOURNIEROUX ; révision, Jean-Philippe GENET, 02/09/2020..

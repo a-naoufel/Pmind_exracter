@@ -1,0 +1,11 @@
+PERSON: GREGORIUS 2
+Also known as: GREGOIRE; Master GREGORY; GREGORIUS.
+Description: Chancelier du légat Othon ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1238-1238%.
+Born in: Angleterre..
+Studied at: ?.
+Academic grades obtained: Magister..
+Authored work: 'De mirabilibus urbis Romee', composed around ?.
+Source: MIRABILE :.

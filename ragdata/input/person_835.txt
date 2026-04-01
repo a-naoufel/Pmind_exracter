@@ -1,0 +1,6 @@
+PERSON: ANTHONIUS Sicti de Vercellis
+Also known as: Antonius SICTI de Vercellis; Antonius de VERCELLI.
+Description: Notaire.
+Status: Extérieur.
+Gender: male.
+Active during: %1313-1313%.

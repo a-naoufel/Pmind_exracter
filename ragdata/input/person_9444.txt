@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de Grecz
+Also known as: Nicolaus de GRECZ.
+Description: Recteur de l'Université de Vienne.
+Status: Extérieur.
+Gender: male.
+Active during: %1429-1437%.
+Studied at: Vienne..
+Academic grades obtained: Maître ès arts (Vienne) ;; Bachelier en théologie (Vienne)..
+Ecclesiastical positions held: Chanoine de Vienne (Saint Étienne)..
+University functions: Vienne (Université : Recteur en ).; Vienne (Faculté des Arts : Maître-régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 12/10/2023)..

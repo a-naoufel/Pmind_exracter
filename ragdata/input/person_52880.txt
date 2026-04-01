@@ -1,0 +1,10 @@
+PERSON: SIMON Faverot
+Also known as: Simon FAVEROT.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1409-1421%.
+Studied at: Orléans ;.
+Academic grades obtained: Maître ès arts avant ;; Étudiant à Orléans en ;.
+Ecclesiastical positions held: Chanoine de Rouen %1409-1421% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 3/11/2021..

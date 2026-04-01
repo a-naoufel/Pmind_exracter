@@ -1,0 +1,10 @@
+PERSON: THEOBALDUS de Fontanella
+Also known as: Theobaldus de FONTANELLA.
+Description: Chanoine d'Auxerre.
+Status: Incertain.
+Gender: male.
+Active during: %1326-1343%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Curé de Prunoy (diocèse de Sens) ;; Chanoine d’Avranches %1326-1327% ;; Chanoine d’Auxerre ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 24/06/2025)..

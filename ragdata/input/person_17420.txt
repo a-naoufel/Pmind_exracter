@@ -1,0 +1,12 @@
+PERSON: BALDUINUS Vassoris
+Also known as: Balduinus VASSORIS.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1479-1479%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse d'Amiens..
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Academic relationships: Son maître est Petrus RUIMONT ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 5/12/2020..

@@ -1,0 +1,9 @@
+PERSON: NICOLAUS de Lorme
+Also known as: Nicolaus de LORME.
+Description: Nonce pour le diocèse de Nimes.
+Status: Suppôt.
+Gender: male.
+Active during: %1446-1446%.
+Studied at: Paris (Nation de France).
+University functions: Paris (Nation de France : reçu à l'office de nonce pour le diocèse de Nîmes en (15 ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/03/2023..

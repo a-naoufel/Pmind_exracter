@@ -1,0 +1,10 @@
+PERSON: EGBERTUS de Embrica
+Also known as: Eggbertus de EMBRICA; Eggelbertus de EMBRICA; Enghelbertus de EMBRICA.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1378-1378%.
+Studied at: Paris (Nation Anglo-allemande) ;.
+Academic grades obtained: Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Hugo de HERVOST pour la licence et pour la maîtrise en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet 6/07/2021..

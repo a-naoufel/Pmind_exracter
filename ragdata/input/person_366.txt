@@ -1,0 +1,15 @@
+PERSON: ALBERTUS Remensis
+Also known as: Albertus REMENSIS; Albert de REIMS.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1269-1271%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Reims ?.
+Studied at: Paris (Couvent dominicain)..
+Academic grades obtained: Étudiant ?.
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère dominicain.
+Authored work: 'Sermo et collatio in dom. II post Epiphaniam', composed around %1269-1271% à Paris..
+Authored work: 'Sermo in dom. (XVI post Trin.)', composed around %1269-1271% à Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

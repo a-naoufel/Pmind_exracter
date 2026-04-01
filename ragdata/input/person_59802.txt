@@ -1,0 +1,10 @@
+PERSON: STEPHANUS de Villaribus 1
+Also known as: Stephanus de VILLARIBUS.
+Description: Évêque de Senlis.
+Status: Incertain.
+Gender: male.
+Active during: %1337-1339% ;.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Évêque de Senlis %1337-1339% ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

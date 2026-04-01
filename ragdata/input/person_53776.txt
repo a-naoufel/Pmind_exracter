@@ -1,0 +1,11 @@
+PERSON: PETRUS de Cenareto
+Also known as: Petrus de CENARETO.
+Description: Archidiacre de Conques.
+Status: Étudiant.
+Gender: male.
+Active during: %1487-1487%.
+Studied at: Paris en ..
+Academic grades obtained: Étudiant (Paris) ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Archidiacre de Conques ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 21/05/2022..

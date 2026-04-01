@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Cochart
+Also known as: Nicolas COCHART.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1397-1397%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège de Dormans-Beauvais : boursier ;.
+Ecclesiastical status: Clerc en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 9/10/2023)..

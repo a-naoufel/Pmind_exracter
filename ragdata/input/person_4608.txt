@@ -1,0 +1,13 @@
+PERSON: HENRICUS de Mondeville
+Also known as: Henricus de MONDEVILLE; Henri de MONDEVILLE; Henri de AMONDAVILLA; Henri de HERMONDAVILLA.
+Description: Chirurgien ?.
+Status: Maître.
+Gender: male.
+Active during: %1298-1316%.
+Born in: Normandie (?Emondeville)..
+Studied at: Montpellier %1304-1304%..
+Academic grades obtained: Paris en tant qu’enseignant.; ?Étudiant en médecine (Montpellier)..
+Academic relationships: Son maître est Jean PITARD, chirurgien au service des rois de France à partir de ?.
+University functions: Enseigne "publice in scolis" à Paris ;; Enseigne la chirurgie à Montpellier en ..
+Authored work: 'Chirurgica', composed around ..
+Source: IRHT : base JONAS, Marie-Laure SAVOYE ;.

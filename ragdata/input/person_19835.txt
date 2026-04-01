@@ -1,0 +1,12 @@
+PERSON: FRANCISCUS de Monte Rubiano
+Also known as: Franciscus de MONTERUBIANO.
+Description: Prieur général des Augustins.
+Status: Extérieur.
+Gender: male.
+Active during: %1300-1307%.
+Born in: Italie (Marches : Monterubbiano ?) ;.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.E.S.A. : frère augustin..
+Religious functions: Prieurgénéral des Augustins %1300-1307% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 29/08/2021..

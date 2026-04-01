@@ -1,0 +1,13 @@
+PERSON: ROBERTUS Bonsere
+Also known as: Robert BONSERE.
+Description: Boursier au Collège de Laon.
+Status: Maître.
+Gender: male.
+Active during: %1472-1481%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie) %1472-1481% ;.
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en décret (Paris) %1480-1481% ;.
+College affiliation: Collège de Laon : boursier ès arts %1472-1476% ;; Collège de Laon : boursier en décret %1480-1481% ;.
+University functions: Paris (Nation de Picardie : examinateur à Sainte-Geneviève en ) ;; Paris (Nation de Picardie : procureur en (octobre-décembre)) ;; Paris (Nation de Picardie : intrans pour l’élection du procureur en (juin)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 28/01/2024..

@@ -1,0 +1,10 @@
+PERSON: BOUCHEDOR
+Also known as: BOUCHEDOR.
+Description: Clerc du Maître Mathieu.
+Status: Suppôt.
+Gender: male.
+Active during: %1432-1432%.
+Studied at: Paris ;.
+Academic grades obtained: ?.
+College affiliation: Sorbonne : clerc du Magister Mathei (le Magister Mathaeus ANDREAE, futur Prieur, ou Johannes MATHEI, clerc du collège ?) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 3/05/2018)..

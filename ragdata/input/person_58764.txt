@@ -1,0 +1,11 @@
+PERSON: ROBERTUS Fisher
+Also known as: Robert FISHER.
+Description: Chanoine de Windsor.
+Status: Étudiant.
+Gender: male.
+Active during: %1490-1510%.
+Born in: Angleterre..
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) ?.
+Academic relationships: Son maître est ERASME..
+Ecclesiastical positions held: Vicaire de Warkworth ;; Recteur de Chedzoy ;; Chanoine de Windsor %1509-1510%..

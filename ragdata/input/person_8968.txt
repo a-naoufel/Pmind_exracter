@@ -1,0 +1,9 @@
+PERSON: MICHAEL 5
+Also known as: MICHAEL.
+Description: Licencié ès lois.
+Status: Maître.
+Gender: male.
+Active during: %1343-1343%.
+Studied at: Paris..
+Academic grades obtained: Licencié ès lois..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 26/09/2022..

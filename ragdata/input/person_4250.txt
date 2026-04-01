@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Gandavo 3
+Also known as: Guillelmus de GANDAVO; Guillaume de GANDAVO.
+Description: Bachelier en médecine à Paris..
+Status: Gradué.
+Gender: male.
+Active during: %1331-1332%.
+Born in: Flandre (Gand) ?.
+Diocese of origin: Diocèse de Tournai ?.
+Studied at: Paris (Faculté de Médecine) %1331-1332%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Étudiant en médecine (Paris) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe GENET, 25/03/2022..

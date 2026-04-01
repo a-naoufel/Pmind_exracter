@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Calebri
+Also known as: Guillelmus CALEBRI; Guillaume CALEBRI.
+Description: Étudiant en médecine à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1492-1493%.
+Studied at: Paris (Faculté de Médecine) %1492-1493%..
+Academic grades obtained: Étudiant en médecine (Paris) %1492-1493%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 01/03/2022)..

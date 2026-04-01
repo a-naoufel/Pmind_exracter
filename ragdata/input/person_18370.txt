@@ -1,0 +1,10 @@
+PERSON: ARNULPHUS 3
+Also known as: ARNULPHUS.
+Description: Prieur de la Sorbonne.
+Status: Étudiant.
+Gender: male.
+Active during: %1326-1326%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en théologie en ?.
+College affiliation: Prieur de la Sorbonne et procureur de la Sorbonne en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet 16/11/2020..

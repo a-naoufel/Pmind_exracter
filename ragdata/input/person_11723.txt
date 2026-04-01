@@ -1,0 +1,14 @@
+PERSON: THEOBALDUS Magistri
+Also known as: Theobaldus MAGISTRI; Thibaut LE MAITRE.
+Description: Boursier au collège de Navarre..
+Status: Maître.
+Gender: male.
+Active during: %1378-1403%.
+Born in: Île-de-France (Paris) ;.
+Diocese of origin: Diocèse de Paris..
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Étudiant ès arts (Paris) ;; Maître ès arts (Paris) ;; Étudiant en théologie (Paris) ..
+College affiliation: Paris (Collège de Navarre), %1378-1387%.; Boursier artien au collège de Navarre à Paris en ;; Boursier théologien au collège de Navarre à Paris en ..
+Ecclesiastical status: Clerc du diocèse de Paris en ;.
+Ecclesiastical positions held: Candidat à un bénéfice à la collation de l'évêque de Paris en .; Candidat à un bénéfice sur le Magnus Rotulus de l’Université de Paris daté de (21 octobre) et présenté à BENOÎT XIII..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 26/09/2024)..

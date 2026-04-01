@@ -1,0 +1,11 @@
+PERSON: CORNELIUS de Bursalia
+Also known as: Cornelius de BURSALIA.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1478-1480%.
+Born in: Pays-Bas ?.
+Diocese of origin: Diocèse d'Utrecht..
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 28/04/2021)..

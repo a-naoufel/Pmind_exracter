@@ -1,0 +1,10 @@
+PERSON: STEPHANUS de Montyon
+Also known as: Stephanus de MONTYON.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1418-1418%.
+Studied at: Paris..
+Academic grades obtained: Licence en décret (Paris) en (3 février) ;.
+Academic relationships: Son maître est Herveus POUCHARDI pour la licence en décret en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/03/2022)..

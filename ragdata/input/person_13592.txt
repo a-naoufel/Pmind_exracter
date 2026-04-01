@@ -1,0 +1,15 @@
+PERSON: PETRUS Falconis
+Also known as: Petrus FALCONIS; Petrus FAUCON.
+Description: Principal du collège d'Autun..
+Status: Maître.
+Gender: male.
+Active during: %1462-1498%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse de Saint-Flour..
+Studied at: Paris (Nation de France) %1462-1492%..
+Academic grades obtained: Maître ès arts (Paris) ? ;; Bachelier en théologie (Paris) ;; Licencié en théologie (Paris) (5 février) ;; Maître en théologie (Paris) (22 septembre) ..
+College affiliation: Boursier au collège d'Autun, commençant en .; "Provisor" du collège d'Autun, %1473-1475% ;; Principal du collège d'Autun, %1475-1485% ;; Inspecte les comptes du collège d'Autun au moins jusqu'en ;.
+Ecclesiastical status: Clerc du diocèse de Saint-Flour..
+Ecclesiastical positions held: Candidat à un bénéfice ecclésiastique en ) ;.
+University functions: Paris (Faculté de Théologie : professeur en ) ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

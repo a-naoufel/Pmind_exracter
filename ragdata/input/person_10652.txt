@@ -1,0 +1,10 @@
+PERSON: REGINALDUS Bureti
+Also known as: Reginaldus BURETI.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1329%.
+Studied at: Paris %1313-1313%..
+Academic grades obtained: Étudiant (Paris) .; Bachelier en droit en ?.
+Ecclesiastical positions held: Chanoineprébendé dans le diocèse de Bourges en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 02/06/2024..

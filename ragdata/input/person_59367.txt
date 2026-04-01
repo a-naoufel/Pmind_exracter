@@ -1,0 +1,12 @@
+PERSON: DALMATIUS Ramoroscle
+Also known as: Dalmas RAMOROSCLE dit Thomas; Dalmas REMOROUFFLE.
+Description: Conseiller au Parlement de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1440-1474%.
+Studied at: Paris ;.
+Academic grades obtained: Maître ?.
+College affiliation: Collège d’Autun, ;.
+Family relationships: Son gendre est Robert de GUETTEVILLE, conseiller-lai au Parlement de Paris..
+Ecclesiastical status: Laïc, marié..
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

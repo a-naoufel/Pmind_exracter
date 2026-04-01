@@ -1,0 +1,10 @@
+PERSON: RICARDUS de Campis 1
+Also known as: Ricardus de CAMPIS.
+Description: Chanoine de Beauvais.
+Status: Maître.
+Gender: male.
+Active during: %1323-1335%.
+Studied at: Paris %1323-1330%..
+Academic grades obtained: Magister..
+Ecclesiastical positions held: Chanoine de Beauvais, %1320-1335%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 19/06/2024..

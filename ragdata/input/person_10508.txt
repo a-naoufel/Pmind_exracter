@@ -1,0 +1,9 @@
+PERSON: RADULPHUS Meuganti
+Also known as: Radulphus MEUGANTI.
+Description: Juriste.
+Status: Incertain.
+Gender: male.
+Active during: %1327-1327%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 3/12/2020..

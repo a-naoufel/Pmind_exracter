@@ -1,0 +1,9 @@
+PERSON: REGINALDUS Pourcel
+Also known as: Regnaud POURCEL.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1405-1418%.
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Dormans-Beauvais : boursier ;; Collège de Dormans-Beauvais : procureur %1414-1418% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 07/09/2019..

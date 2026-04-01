@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Chapiansec
+Also known as: Guillelmus CHAPIANSEC.
+Description: Clerc du prévôt de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1308-1308%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 21/11/2019..

@@ -1,0 +1,11 @@
+PERSON: GALVANUS di Maestro Ranieri
+Also known as: Galvano di MAESTRORANIERI.
+Description: Maître ès arts.
+Status: Extérieur.
+Gender: male.
+Active during: %1307-1307%.
+Born in: Italie..
+Studied at: Bologne..
+Academic grades obtained: Maître ès arts (Bologne)..
+University functions: Bologne (enseigne la grammaire en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/11/2021..

@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de Esteyo
+Also known as: Nicolaus de ESTEYO.
+Description: Bachelier en droit canon.
+Status: Gradué.
+Gender: male.
+Active during: %1448-1448%.
+Born in: Lorraine ?.
+Studied at: Paris %1448-1448%.
+Academic grades obtained: Bachelier en décret (Paris) en (19 septembre) ;.
+Religious order: O.S.B. : moine bénédictin du monastère de Saint-Mihiel (diocèse de Verdun)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 15/05/2019..

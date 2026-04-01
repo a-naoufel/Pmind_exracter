@@ -1,0 +1,11 @@
+PERSON: ADEMARUS Jorii
+Also known as: Ademarus JORII; Ademarus de SANCTO JORIO.
+Description: Chanoine de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1299-1347%.
+Studied at: ?.
+Academic grades obtained: Maître.
+Ecclesiastical positions held: Archiprêtre de Clermont ;; Chanoine de Clermont %1299-1347% ;.
+Other ecclesiastical functions: Juge du chapitre de Clermont %1313-1332% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 13/09/2023)..

@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Praepositi
+Also known as: Nicolaus PRAEPOSITI; Nicole PREVOST; Nicolaus PREPOSITI.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1464-1492%.
+Studied at: Paris %1464-1472% ;; Avignon %1478-1478%..
+Academic grades obtained: Étudiant en ?; Étudiant en médecine (Paris) ;; Maître en médecine avant ..
+Authored work: 'Dispensarium ad aromatorios', composed around ?.
+Authored work: 'Chirurgie', composed around ?.
+Source: ARLIMA : Laurent BRUN :.

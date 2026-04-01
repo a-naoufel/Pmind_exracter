@@ -1,0 +1,11 @@
+PERSON: ROBERTUS Le Jars
+Also known as: Robert LEJARS.
+Description: Chapelain du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1469-1496%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dormans-Beauvais : chapelain %1469-1496% ;.
+Ecclesiastical positions held: Prêtre ;; Chapelain de Paris (Collège de Dormans-Beauvais) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 25/11/2020)..

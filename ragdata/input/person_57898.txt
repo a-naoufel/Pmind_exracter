@@ -1,0 +1,10 @@
+PERSON: TANGUIDUS Brevis
+Also known as: Tanguidus BREVIS.
+Description: Maître d’école.
+Status: Maître.
+Gender: male.
+Active during: %1412-1413%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) ;.
+College affiliation: Collège des Dix-Huit..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/06/2024..

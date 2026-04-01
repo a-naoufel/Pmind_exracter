@@ -1,0 +1,11 @@
+PERSON: ACELINUS de Sancto Victore
+Also known as: Ascelin de SAINT-VICTOR.
+Description: Abbé de Saint-Victor.
+Status: Maître.
+Gender: male.
+Active during: %1241-1255%.
+Studied at: ?Paris..
+Academic grades obtained: Magister ?.
+Religious order: Chanoinerégulier de Saint-Victor (Paris)..
+Religious functions: Abbé de Saint-Victor %1241-1255%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 6/8/2017..

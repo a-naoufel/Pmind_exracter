@@ -1,0 +1,12 @@
+PERSON: PETRUS de Joigny
+Also known as: Pierre de JOIGNY.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1270-1296%.
+Born in: Bourgogne (Joigny) ;.
+Diocese of origin: Diocèse d'Auxerre ;.
+Studied at: Paris.
+Academic grades obtained: Maître en théologie en.
+Ecclesiastical positions held: Chanoine de Rouen en ?; Chanoine de Paris (Notre-Dame) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET 15-11-2020..

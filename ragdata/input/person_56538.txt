@@ -1,0 +1,36 @@
+PERSON: MATTHAEUS Vindocinensis
+Also known as: Matthieu de VENDOME.
+Description: Maître de grammaire.
+Status: Maître.
+Gender: male.
+Active during: %1135-1185%.
+Born in: Orléanais (Vendôme) ?.
+Diocese of origin: Diocèse de Chartres ?.
+Studied at: Tours, étudiant vers %1130-1140% ;; Orléans, étudiant du temps de Hugues LE PRIMAT.; Paris, enseignant..
+Academic grades obtained: Maître ?.
+Academic relationships: Son maître est Bernard SILVESTRE à Tours vers %1130-1140%..
+University functions: Orléans (Maître de grammaire avant de se brouiller avec Arnoul d’ORLÉANS vers ) ;; Paris (Maître de grammaire pendant une dizaine d’années%1175-1185% avant de repartir à Tours) ;.
+Authored work: 'Tobias', composed around à Tours ?.
+Authored work: 'Ars versificatoria (seu Summula metrica?)', composed around .
+Authored work: 'Epistolae (Summa dictandi?)', composed around ?.
+Authored work: 'Tract. de synonymis ac homonymis', composed around ?.
+Authored work: 'Tract. de aequivocis', composed around ?.
+Authored work: 'Milo', composed around Av..
+Authored work: 'Lenticula et Suetrio', composed around ?.
+Authored work: 'Epigramma patris auctorum', composed around ?.
+Authored work: 'Metra rhetorici conflictus', composed around ?.
+Authored work: 'Commendatio cervisiae', composed around ?.
+Authored work: 'Phedra et Hippolytus', composed around ?.
+Authored work: 'Jupiter et Europa', composed around ?.
+Authored work: 'Hermaphroditus et Amalcis', composed around ?.
+Authored work: 'Cadmus', composed around ?.
+Authored work: 'Callisto', composed around ?.
+Authored work: 'Baucis', composed around ?.
+Authored work: 'Byblis', composed around ?.
+Authored work: 'Proserpinae raptus', composed around ?.
+Authored work: 'Pyramus et Tisbe', composed around ?.
+Authored work: 'De Ajaca et Ulysse', composed around ?.
+Authored work: 'Miles gloriosus', composed around ?.
+Authored work: 'Lydia', composed around ?.
+Authored work: 'Altercatio aranee et musce', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

@@ -1,0 +1,15 @@
+PERSON: NICOLAUS Fabri 1
+Also known as: Nicolas FABRI; Nicolaus de FABRI.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1349-1354%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse de Bayeux..
+Studied at: Paris (Nation de Normandie) %1349-1354%..
+Academic grades obtained: Maître ès arts (Paris) en ;; Maître en médecine (Paris) ;; Étudiant en théologie (Paris) ..
+College affiliation: Collège d'Harcourt : boursier en théologie en ;.
+Ecclesiastical status: Clericus saecularis en ;; Diacre du diocèse de Bayeux en ..
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiastique pour un clerc séculier à la collation de l'abbé et du couvent du monastère (bénédictin) de Caen (Saint-Étienne) en réponse au rotulus "pro baccalariis" de : mandat à l'abbé (bénédictin) de Paris (Saint-Germain), à l'abbé (O.S.A.) de Paris (Saint-Victor), et au doyen de Paris ;; Chapelain de la léproserie de Caen (Burgo-Abbatis) en ;; Provision pour un bénéfice ecclésiastique à la collation de l'évêque, du doyen et du chapitre de Lisieux en réponse au rotulus de l'Université de Paris en : mandat à l'abbé (O.S.A.) de Paris (Sainte-Geneviève), à l'abbé (cistercien) de Aunay-sur-Odon et à Jordanus de CAPEVILLA, chanoine de Tours ;; Chapelainperpétuel de la léproserie de Caen en ;; Provision pour un bénéfice ecclésiastique à la collation de l'abbé et du couvent du monastère (bénédictin) du Bec-Hellouin en réponse au rotulus de l'Université de Paris en (février) : mandat à l'abbé (O.S.A.) de Paris (Sainte-Geneviève), à l'abbé (bénédictin) de Rouen (Saint-Ouen) et à Jordanus de CAPEVILLA, chanoine de Tours ;; Candidat à la cure de Saint-Martin de Chiveriis (diocèse de Rouen) en ..
+University functions: Paris (Faculté de Médecine : Maître régent %1349-1354%) ;; Paris (Université : il est témoin d'une délibération concernant Pierre BERSUIRE, O.S.B. en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 16/12/2020..

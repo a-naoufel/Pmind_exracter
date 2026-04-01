@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Dehures
+Also known as: Guillaume DEHURES.
+Description: Receveur des amendes et exploits au Parlement.
+Status: Extérieur.
+Gender: male.
+Active during: %1487-1487%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

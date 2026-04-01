@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Grignon
+Also known as: Guillermus GRIGNON.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1365-1365%.
+Studied at: Paris ..
+Academic grades obtained: Licencié ès Lois ;; Bachelier en décret (Paris ?) ;.
+Ecclesiastical positions held: Candidat à un canonicat de Cambrai sur le rotulus de ;.
+University functions: Paris (Faculté de Décret : Lecteur en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 6/12/2021..

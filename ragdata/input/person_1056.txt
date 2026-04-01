@@ -1,0 +1,11 @@
+PERSON: ARNULPHUS de Yristun
+Also known as: ARNULFUS de Yristun; Arnulfus de YRISTUN.
+Description: Chanoine.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1320%.
+Born in: Suède.
+Studied at: Paris, ..
+Academic grades obtained: É. (P), ..
+Ecclesiastical positions held: Prêtre;; Curé d’Yrsta, diocèse de Västerås, ;; Chanoine de Västerås, ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Élisabeth MORNET; dernière mise à jour, 24/04/2015..

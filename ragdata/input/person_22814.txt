@@ -1,0 +1,12 @@
+PERSON: MATTHIAS
+Also known as: MATHIAS.
+Description: Chanoine.
+Status: Incertain.
+Gender: male.
+Active during: %1247-1266%.
+Born in: Suède.
+Studied at: ?Paris ..
+Academic grades obtained: Mag. ?(P), ..
+Social origin: ?Noblesse.
+Ecclesiastical positions held: Chanoine de Linköping (cathédrale), , ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 13/10/2017..

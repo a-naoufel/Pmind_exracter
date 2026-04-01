@@ -1,0 +1,12 @@
+PERSON: SASSO
+Also known as: SASSO.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1154-1174%.
+Born in: Italie..
+Diocese of origin: Noble ?.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ;.
+Family relationships: Son oncle est le pape ANASTASE IV.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/04/2024)..

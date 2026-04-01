@@ -1,0 +1,9 @@
+PERSON: NICOLAUS 6
+Also known as: NICOLAUS.
+Description: Bourgeois de Paris.
+Status: Suppôt.
+Gender: male.
+Active during: %1254-1254%.
+Family relationships: Sa femme est ODELINA, déjà veuve en ; Sa fille est EMELINA ; Sa fille est EMELOTA..
+Social origin: Commun..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 09/05/2023..

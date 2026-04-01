@@ -1,0 +1,10 @@
+PERSON: LUDOVICUS de Landellis
+Also known as: Ludovicus de LANDELLIS.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1432-1434%.
+Studied at: ?.
+Academic grades obtained: Bachelier en théologie ;.
+Ecclesiastical positions held: Chanoine de Paris (Saint-Étienne-des-Grès) jusqu’en ;; Chanoine de Rouen %1432-1434% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/11/2021..

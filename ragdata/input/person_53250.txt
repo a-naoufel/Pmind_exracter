@@ -1,0 +1,11 @@
+PERSON: HUGO de Thisiaco
+Also known as: Hugo de THISIACO.
+Description: Chanoine d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1350-1350%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Diacre ;.
+Ecclesiastical positions held: Chanoine d'Amiens ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 2/1/2022..

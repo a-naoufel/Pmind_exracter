@@ -1,0 +1,11 @@
+PERSON: BARTHOLOMAEUS de Burgundia
+Also known as: Bartholomaeus de BURGUNDIA.
+Description: Chanoine d'Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1252-1276%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d'Amiens %1252-1258% ;; Chanoine de Langres ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 11/12/2020..

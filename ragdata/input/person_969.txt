@@ -1,0 +1,10 @@
+PERSON: ARNALDUS Michaelis
+Also known as: Arnoldus MICHAELIS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1435-1463%.
+Born in: Pays-Bas (Arnheim)..
+Studied at: Cologne ;; Paris (Nation Anglo-allemande) avant ..
+Academic grades obtained: Bachelier ès arts (Paris) .; Bachelier ès arts (Paris) .; Licencié ès arts (Paris) .; Maître ès arts (Paris) ..
+Source: RAG ;.

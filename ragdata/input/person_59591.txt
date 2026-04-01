@@ -1,0 +1,11 @@
+PERSON: ROBERTUS de Sancto Nicolas
+Also known as: Robertus de SANCTO NICOLAS.
+Description: Procureur de la Nation de Normandie.
+Status: Maître.
+Gender: male.
+Active during: %1358-1363%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie) ..
+Academic grades obtained: Maître ès art (Paris) ..
+University functions: Paris (Nation de Normandie : procureur en ..
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

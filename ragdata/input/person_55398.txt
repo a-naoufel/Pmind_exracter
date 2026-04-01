@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Valle Rodolii
+Also known as: Guillermus de VALLERODOLII; Guillaume du VALDERUEL.
+Description: Chanoine d’Évreux.
+Status: Incertain.
+Gender: male.
+Active during: %1212-1225%.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d’Évreux %1212-1225% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 07/03/2023)..

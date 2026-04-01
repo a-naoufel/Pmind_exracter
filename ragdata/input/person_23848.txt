@@ -1,0 +1,10 @@
+PERSON: HENRICUS Roussel
+Also known as: Henricus ROUSSEL; Henricus ROUSSEAU.
+Description: Avocat au Parlement de Paris.
+Status: Suppôt.
+Gender: male.
+Active during: %1417-1445%.
+Studied at: ?.
+Academic grades obtained: ?.
+University functions: Paris (Université : Avocat de l'université en ) ;.
+Source: Paris au Moyen Âge :.

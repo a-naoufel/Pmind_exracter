@@ -1,0 +1,7 @@
+PERSON: AGNESSOT Danessy
+Also known as: Aguessot DANESSY.
+Description: "Mulier".
+Status: Extérieur.
+Gender: female.
+Active during: %1406-1406%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Dernière mise à jour, Jean-Philippe Genet, 19/05/2020)..

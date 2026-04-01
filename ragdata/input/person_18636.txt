@@ -1,0 +1,11 @@
+PERSON: ROBERTUS Caynet
+Also known as: Robertus CAYNET.
+Description: Maître ?.
+Status: Maître.
+Gender: male.
+Active during: %1456-1464%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Reims ;.
+Studied at: Paris %1456-1464% au moins ;.
+Academic grades obtained: Bachelier ès arts (Paris) ;; Maître ès arts (Paris) en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 19/08/2015..

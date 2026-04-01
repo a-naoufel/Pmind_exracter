@@ -1,0 +1,12 @@
+PERSON: ARCHIDIACONUS Scocie
+Also known as: Archidiaconus SCOCIE.
+Description: Archidiacre d'Écosse.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Born in: Écosse ?.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant en théologie ?.
+Family relationships: Son frère est sans doute étudiant à Paris avec lui..
+Ecclesiastical positions held: Archidiacre de l'une des églises écossaises ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 09/06/2020)..

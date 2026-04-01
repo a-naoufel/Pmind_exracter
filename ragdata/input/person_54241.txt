@@ -1,0 +1,12 @@
+PERSON: PETRUS de Mossa
+Also known as: Petrus de MOSSA.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1299-1317%.
+Born in: Berry ?.
+Diocese of origin: Diocèse de Bourges ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Sens %1299-1317% ;; Chanoine de Meaux % -1317% ;; Archidiacre d’Étampes % -1317% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 16/09/2022..

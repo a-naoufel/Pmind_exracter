@@ -1,0 +1,12 @@
+PERSON: PETRUS de Maslacq
+Also known as: Pierre de MASLACQ.
+Description: O.P..
+Status: Étudiant.
+Gender: male.
+Active during: %1280-1316%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant ?.
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère dominicain.
+University functions: Paris (Lecteur au couvent (dominicain) de Paris en ).
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 26/02/2024)..

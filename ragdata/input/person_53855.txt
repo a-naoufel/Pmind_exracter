@@ -1,0 +1,12 @@
+PERSON: VITALIS de Mauléon
+Also known as: Vital de MAULÉON.
+Description: Évêque de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1417-1434%.
+Born in: Aquitaine (Comminges) ?.
+Studied at: ?.
+Academic grades obtained: Licencié en droit canon ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Évêque de Rodez %1417-1428% ;; Évêque de Saint-Pons-de-Thomières %1428-1434% ;; Patriarche d’Alexandrie %1428-1434% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 2/06/2022..

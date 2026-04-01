@@ -1,0 +1,10 @@
+PERSON: BERTRANDUS de Brunimonte
+Also known as: Bertrandus de BRUNIMONTE.
+Description: Étudiant en théologie ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1310-1310%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant en théologie ?.
+College affiliation: Sorbonne ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 22/02/2021).

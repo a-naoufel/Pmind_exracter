@@ -1,0 +1,131 @@
+PERSON: HUGO de Sancto Victore
+Also known as: Hugo de SANCTO VICTORE; Hugues de SAINT-VICTOR.
+Description: Chanoine de Saint-Victor.
+Status: Maître.
+Gender: male.
+Active during: %1115-1141%.
+Born in: Saxe ?.
+Studied at: Paris..
+Academic grades obtained: Maître.
+Academic relationships: Son maître est Guillaume de CHAMPEAUX ?.
+Religious order: O.S.A. : chanoineaugustin (Saint-Victor)..
+Authored work: 'Adnotationes in Pentateuchum', composed around ?.
+Authored work: 'Adnotationes elucidotariae in libros Iudicum et Ruth', composed around ?.
+Authored work: 'Adnotationes elucidotariae in libros Regum', composed around ?.
+Authored work: 'Adnotatiunculae elucidatoriae in Threnos Ieremiae', composed around ?.
+Authored work: 'De amore sponsi ad sponsam', composed around ?.
+Authored work: 'De archa Noe', composed around ?.
+Authored work: 'De arrha anime', composed around ?.
+Authored work: 'Pro Assumptione beatae Mariae virginis', composed around ?, dedicated to Écrit à la demande de GERLANDUS Bisuntinus, O.S.A..
+Authored work: 'De beatae Mariae virginitate', composed around ?.
+Authored work: 'De institutione novitiorum', composed around ?.
+Authored work: 'De laude caritatis', composed around ?.
+Authored work: 'De meditatione', composed around ?.
+Authored work: 'De potestate et voluntate Dei', composed around ?.
+Authored work: 'De quatuor voluntatibus Christi', composed around ?.
+Authored work: 'De quinque septenis', composed around ?.
+Authored work: 'De sacramentis christianae fidei', composed around ?.
+Authored work: 'De sapientia animae Christi', composed around /Inclut la lettre d’envoi à Galterus de MAURITANIA (Ad Gualterum de Mauritania Flaua) ;, dedicated to Adressé à Galterus de MAURITANIA..
+Authored work: 'De Scripturis et scriptoribus sacris', composed around ?.
+Authored work: 'De septem donis Spiritus sancti'.
+Authored work: 'De substantia dilectionis', composed around ?.
+Authored work: 'De tribus diebus', composed around ?.
+Authored work: 'De tribus rerum subsistenciis', composed around ?.
+Authored work: 'De unione spiritus et corporis', composed around ?.
+Authored work: 'De vanitate rerum mundanarum', composed around ?.
+Authored work: 'De Verbo Dei', composed around ?.
+Authored work: 'Omnia per sapientiam Dei facta sunt', composed around ?.
+Authored work: 'Verbum caro factum est. Quod Verbum ? Dei', composed around ?.
+Authored work: 'De virtute orandi', composed around ?.
+Authored work: 'De virtutis et vitiis', composed around ?.
+Authored work: 'Dialogus de creatione mundi', composed around ?.
+Authored work: 'Epistola ad canonicos Lucenses', composed around ?.
+Authored work: 'Epistola ad Iohannem Hispalensem', composed around ?.
+Authored work: 'Epistola I ad Ranulphum de Mauriaco', composed around ?.
+Authored work: 'Epistola II ad Ranulphum de Mauriaco', composed around ?.
+Authored work: 'In Canticum beatae Mariae'.
+Authored work: 'In Ecclesiasten', composed around ?.
+Authored work: 'In orationem dominicam', composed around ?.
+Authored work: 'In Psalmos', composed around ?.
+Authored work: 'Institutiones in Decalogum', composed around ?.
+Authored work: 'Libellus de formatione archae', composed around ?.
+Authored work: 'Praesens saeculum', composed around ?.
+Authored work: 'Sententiae de divinitate', composed around ?.
+Authored work: 'Sermo ad Milites Templi', composed around ?.
+Authored work: 'Super Ierarchiam Dionisii', composed around ?.
+Authored work: 'Recueil de Sentences', composed around ?.
+Authored work: 'Multi sunt sermones hominis', composed around ?.
+Authored work: 'De peccato vitium et culpa', composed around ?.
+Authored work: 'De tribus Maris', composed around ?.
+Authored work: '"Difficile immo impossibile"', composed around ?.
+Authored work: 'Egredietur virga', composed around ?.
+Authored work: 'Ignis in Fomite', composed around ?.
+Authored work: 'In Pater corroboramur ad spem', composed around ?.
+Authored work: 'Maria Porta', composed around ?.
+Authored work: 'Minor est labor', composed around ?.
+Authored work: 'Necessitas mater est artium', composed around ?.
+Authored work: 'Potestatem remittendi peccata', composed around ?.
+Authored work: 'Quatuor sunt modi retributionis', composed around ?.
+Authored work: 'Septem sunt vitia', composed around ?.
+Authored work: 'Sicut verbum Dei excellentius', composed around ?.
+Authored work: 'Tres sunt operationes sapientiae', composed around ?.
+Authored work: 'De tribus silentiis', composed around ?.
+Authored work: 'Conscientia bona et tranquilla in perfectis', composed around ?.
+Authored work: 'Differentia est inter carnales', composed around ?.
+Authored work: 'Duobus modis bene dormit anima', composed around ?.
+Authored work: 'Duo sunt ubera', composed around ?.
+Authored work: '"Equitatus eius salvatio" … Duo sunt equites', composed around ?.
+Authored work: 'Exiens per fenestram', composed around ?.
+Authored work: '"Fecit rex Salomon thronum". Non fuit tale …', composed around ?.
+Authored work: 'Habet oleum Deus', composed around ?.
+Authored work: 'In omni actione considera temetipsum', composed around ?.
+Authored work: 'In sacramento corporis Christi tria sunt', composed around ?.
+Authored work: 'Liberum arbitrium est habilitas rationalis voluntatis', composed around ?.
+Authored work: 'Memoria est atrium', composed around ?.
+Authored work: '"Mirabilis Deus in sanctis suis" Quid mirabis foris', composed around ?.
+Authored work: 'Mors animae est oblivio', composed around ?.
+Authored work: 'Motus voluntatis primum per se', composed around ?.
+Authored work: 'Obedientia est clavis David', composed around ?.
+Authored work: 'Quatuor sunt iudicia', composed around ?.
+Authored work: 'Quatuor sunt loca', composed around ?.
+Authored work: 'Quatuor sunt maneriae hominum', composed around ?.
+Authored work: 'Quatuor sunt quae impedunt confessionem : pudor', composed around ?.
+Authored work: 'Quatuor sunt quae impedunt confessionem : Timor ne perdat', composed around ?.
+Authored work: '"Querite primum regnum Dei". Regnum Dei quaerere est', composed around ?.
+Authored work: 'Quisque igitur ad divinae paginae intelligentiam', composed around ?.
+Authored work: '"Revertere, revertere Sunamitis …". Quattuor sunt aversiones', composed around ?.
+Authored work: 'Sacerdotes multos in Ecclesia ligant', composed around ?.
+Authored work: 'Salomon ait : Tempus scindendi', composed around ?.
+Authored work: 'Septem modis redimitur', composed around ?.
+Authored work: 'Sex tibi consideranda propono', composed around ?.
+Authored work: '"Sine intermissione orate". Quidam sunt qui ab occupationibus', composed around ?.
+Authored work: 'Solis radius aliquando latet', composed around ?.
+Authored work: 'Sunt duo mala', composed around ?.
+Authored work: 'Sunt qui ex quibusdam scripturarum locis', composed around ?.
+Authored work: 'Super sceleribus Hierusalem. Septem haec scelera', composed around ?.
+Authored work: 'Tanta benignitas humanae condicionis', composed around ?.
+Authored work: 'Tres sunt animae rationalis visiones', composed around ?.
+Authored work: 'Tres sunt qui bellum suscitant contra nos', composed around ?.
+Authored work: 'Tres sunt testes approbationis', composed around ?.
+Authored work: 'Tria sunt oscula', composed around ?.
+Authored work: 'Tria sunt per quae humilitas', composed around ?.
+Authored work: 'Tria sunt tempora', composed around ?.
+Authored work: 'Virtus et praesentia', composed around ?.
+Authored work: 'Volentibus Deum invenire', composed around ?.
+Authored work: 'Sapientia aedificat sibi domum. Sapientia Dei quae Deus est', composed around ?.
+Authored work: 'Epitome Dindimi in philosophiam', composed around ?.
+Authored work: 'De grammatica', composed around ?.
+Authored work: 'De ponderibus et mensuris', composed around ?.
+Authored work: 'Didascalicon de studio legendi', composed around ?.
+Authored work: 'Practica geometrie', composed around ?.
+Authored work: 'Chronicon', composed around ?.
+Authored work: 'Descriptio mappae mundi', composed around ?.
+Authored work: 'Adnotationes in Joelem', composed around ?.
+Authored work: 'Adnotationes in Hieronymi prologum', composed around ?.
+Authored work: 'De anima', composed around ?.
+Authored work: 'Compendium philosophiae', composed around ?.
+Authored work: 'De modo dicendi et meditandi', composed around ?.
+Authored work: 'Diffinitiones', composed around ?.
+Authored work: 'Rhetorica', composed around ?.
+Authored work: 'Historiae', composed around ?.
+Source: ARLIMA : Laurent BRUN :.

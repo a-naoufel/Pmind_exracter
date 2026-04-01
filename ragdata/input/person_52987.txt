@@ -1,0 +1,12 @@
+PERSON: THOMAS de Sabaudia
+Also known as: Thomas de SABAUDIA.
+Description: Élu de Turin.
+Status: Incertain.
+Gender: male.
+Active during: %1298-1335%.
+Born in: Piémont ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Social origin: Noble ;.
+Other ecclesiastical functions: Chanoine de Poitiers (Saint-Hilaire) ;; Trésorier de Poitiers (Saint-Hilaire) ;; Élu de Turin ;; Chanoine d’Amiens %1301-1334% ;; Chanoine de Paris %1301-1334% ;; Chanoine de Liège %1301-1309% ;; Chanoine de Cambrai ;; Archidiacre de Brabant en la cathédrale de Cambrai ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 19/11/2021..

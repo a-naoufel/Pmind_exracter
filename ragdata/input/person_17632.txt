@@ -1,0 +1,11 @@
+PERSON: GUIDO Belli
+Also known as: Guido BELLI.
+Description: Bachelier en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1418-1418%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris (Nation de Normandie) %1418-1418%..
+Academic grades obtained: Maître ès arts (Paris) attesté en ;; Bachelier en décret (Paris) 17 novembre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 22/01/20ZZ..

@@ -1,0 +1,12 @@
+PERSON: CONRADUS de Berlin
+Also known as: Conradus de BERLIN.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1344-1345%.
+Born in: Brandebourg (Berlin ?)..
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Walter de WARDLAW : Son élève est Theodericus de DELFT pour le baccalauréat en ..
+University functions: Paris (Nation Anglo-allemande : maître-régent %1344-1345%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 29/12/2024)..

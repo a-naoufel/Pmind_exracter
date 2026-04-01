@@ -1,0 +1,12 @@
+PERSON: HUGO de Warknethby
+Also known as: Hugh de WARKNETHBY.
+Description: Trésorier de Chichester.
+Status: Extérieur.
+Gender: male.
+Active during: %1295-1330%.
+Born in: Angleterre..
+Studied at: Oxford (Balliol College)..
+Academic grades obtained: Maître ès arts (Oxford) av. ;; Docteur en théologie (Oxford) av...
+Ecclesiastical positions held: Chanoine de Chichester %1313-1330% ;; Trésorier de Chichester %1320-1330% ..
+University functions: Oxford (Balliol College : magister extrinsecus %1295-1307%?) ;; Oxford (University College : fellow %1307-1310%) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 05/09/2019..

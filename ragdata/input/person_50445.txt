@@ -1,0 +1,10 @@
+PERSON: PETRUS Derloit
+Also known as: Pierre DERLOIT.
+Description: Procureur du Collège de Dormans-Beauvais.
+Status: Incertain.
+Gender: male.
+Active during: %1412-1414%.
+Studied at: ?.
+College affiliation: Collège de Dormans-Beauvais : procureur %1412-1414% ;.
+Ecclesiastical status: Prêtre ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 04/09/2019..

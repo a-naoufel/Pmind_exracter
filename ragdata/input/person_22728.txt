@@ -1,0 +1,12 @@
+PERSON: GILBERTUS Portelance
+Also known as: Gilebertus PORTELANCE.
+Description: Étudiant du collège Saint-Thomas du Louvre.
+Status: Maître.
+Gender: male.
+Active during: %1284-1284%.
+Studied at: Paris,.
+Academic grades obtained: Maître (Paris) ;.
+College affiliation: Collège du Louvre (Saint-Thomas) ;.
+Family relationships: Son parent est (peut-être) Radulphus PORTELANCE ;.
+Ecclesiastical status: Clerc ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 16/01/2022..

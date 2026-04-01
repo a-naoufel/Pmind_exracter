@@ -1,0 +1,9 @@
+PERSON: MICHAEL de Combisvilla
+Also known as: Michael de COMBISVILLA.
+Description: Notaire à la cour épiscopale de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1330-1330%.
+Studied at: ?.
+Other ecclesiastical functions: Appartient à la cour épiscopale de Paris ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 20/01/2020..

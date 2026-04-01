@@ -1,0 +1,29 @@
+PERSON: GALFREDUS de Aspall
+Also known as: Geoffroy d'ASPALL.
+Description: Chanoine de Londres.
+Status: Incertain.
+Gender: male.
+Active during: %1264-1287%.
+Born in: Angleterre..
+Studied at: Oxford ;.
+Academic grades obtained: Maître ès arts (Oxford)..
+Academic relationships: Son maître est peut-être Adam de BUCKFELD..
+Ecclesiastical positions held: Recteur de Tong (Kent) %1264-1283% ;; Recteur de Staunton (Huntingdonshire) %1264-1287% ;; Recteur de Culmington (Salop) %1277-1287% ;; Archdeacon de Dublin %1278-1286% au moins ;; Chanoine de Londres (St-Paul) %1278- % ;; Chanoine de Lichfield %1280- % ;; Prebendary de Wolverhampton (King's Free Chapel) %1281- % ;; Master de York (St-Leonard's Hospital) %1281-1287% ;; Recteur de Findon (Sussex) %1282-1284% au moins ;; Chanoine de Wells %1282-1284% au moins ;; Chanoine de Crediton (Devon) % -1287% ;; Recteur de GreatMarlow (Buckinghamshire) % -1287% ;; Recteur de GreatOakley (Essex) ;; Recteur de Hadlow (Kent) ;; Recteur de Redenhall (Norfolk) ;; Recteur de Forncett (Norfolk) ;; Recteur de Starston (Norfolk) ;; Recteur de Beeston (Norfolk) ;; Recteur de Tunstall (Suffolk) ;; Recteur de Cowlinge (Suffolk) ;; Recteur de Willesham (Suffolk) ;; Recteur de Culmington (Salop) ;; Recteur de Worthen (Salop) ;; Recteur de Donnington (Berkshire)..
+University functions: ?Oxford (maître-régent av. )..
+Authored work: 'Comment. in lib. De caelo et mundo', composed around ?.
+Authored work: 'Quaestiones in lib. De caelo et mundo', composed around ?.
+Authored work: 'Quaestiones in lib. De anima', composed around ?.
+Authored work: 'Quaestiones in lib. de Generatione et Corruptione', composed around ?.
+Authored work: 'Quaestiones in lib. De memoria et reminiscentia', composed around ?.
+Authored work: 'Quaestiones in lib. De sensu et sensato', composed around ?.
+Authored work: 'Quaestiones in De somno et vigilia', composed around ?.
+Authored work: 'Quaestiones in De meteora', composed around ?.
+Authored work: 'Quaest. in libros Metaphysicae', composed around ?.
+Authored work: 'Questiones in libros Physicorum', composed around ?.
+Authored work: 'Summa in libros Physicorum', composed around ?.
+Authored work: 'Sententia in lib. de Generatione et Corruptione', composed around ?.
+Authored work: 'Dissertationes breves I', composed around ?.
+Authored work: 'Dissertationes breves III', composed around ?.
+Authored work: 'Dissertationes breves III', composed around ?.
+Authored work: '(Commentaire sur le De plantis)', composed around ?.
+Source: ODNB : http://www.oxforddnb.com/view/article/52667 ;.

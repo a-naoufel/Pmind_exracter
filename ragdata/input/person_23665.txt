@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Montfordia
+Also known as: Willelmus de MONTFORDIA.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1395-1395%.
+Studied at: Paris (Nation Anglo-allemande) ;.
+Academic grades obtained: Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Aegidius JUTFAES pour la licence et la maîtrise en ;.
+University functions: Paris (Nation Anglo-allemande : garant pour le Magister Johannes de ZUTPHANIA en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 04/04/2022..

@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Ulmo 1
+Also known as: Guillelmus de ULMO.
+Description: Écuyer.
+Status: Extérieur.
+Gender: male.
+Active during: %1301-1301%.
+Studied at: ?.
+Social origin: Noble : écuyer..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 05/06/2020..

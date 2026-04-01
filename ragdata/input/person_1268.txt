@@ -1,0 +1,11 @@
+PERSON: BENEDICTUS Benedicti de Swecia
+Also known as: Benedictus BENEDICTI;; Benedictus Benedicti de SWECIA..
+Description: Clerc écolier.
+Status: Gradué.
+Gender: male.
+Active during: %1341-1343%.
+Born in: Suède..
+Studied at: Paris (Nation Anglo-allemande), %1341-1343%..
+Academic grades obtained: Bachelier ès arts (Paris), ;; Licencié ès arts (Paris), ;.
+Academic relationships: Élève de maître SUNO Karoli de Suecia, ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, dernière révision 23/12/2016..

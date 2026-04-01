@@ -1,0 +1,7 @@
+PERSON: AEGIDIUS Eygret
+Also known as: Gilet EYGRET.
+Description: Fermier du quart à Péronne.
+Status: Extérieur.
+Gender: male.
+Active during: %1399-1399%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/01/2022..

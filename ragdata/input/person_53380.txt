@@ -1,0 +1,13 @@
+PERSON: BERTRANDUS Mettensis
+Also known as: Bertramnus METTENSIS; BERTRAM; Berthold de SAINT-GÉRÉON.
+Description: Évêque de Metz.
+Status: Maître.
+Gender: male.
+Active during: %1179-1212%.
+Studied at: Bologne ;; Paris ;.
+Academic grades obtained: Étudiant en théologie (Paris) ;; Magister (Paris) ;; Étudiant en droit canon (Bologne) ;.
+Ecclesiastical positions held: Chanoine de Cologne ;; Élu archevêque de Brême en ;; Évêque de Metz %1180-1212% ;.
+Authored work: 'Summa elegantius in jure canonico', composed around ?.
+Authored work: 'Tractatus super de regulis juris', composed around ?.
+Authored work: 'Supernumero in iudiciis examinandis'.
+Source: MIRABILE : Federico CONTINI :.

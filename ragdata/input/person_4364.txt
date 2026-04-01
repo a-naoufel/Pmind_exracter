@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Richel
+Also known as: Guillelmus de RICHEL.
+Description: Procureur au Châtelet.
+Status: Extérieur.
+Gender: male.
+Active during: %1426-1426%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/04/2022..

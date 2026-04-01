@@ -1,0 +1,10 @@
+PERSON: ODO de Barris
+Also known as: Odo de BARRIS; Oudart LEVRIER.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1304-1304%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Reims ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 14/07/2021..

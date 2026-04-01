@@ -1,0 +1,12 @@
+PERSON: PETRUS de Diesbach
+Also known as: Petrus de DIESBACH.
+Description: Recteur de Diessbach.
+Status: Maître.
+Gender: male.
+Active during: %1462-1479%.
+Born in: Alémanie (Berne) ?.
+Diocese of origin: Diocèse de Lausanne..
+Studied at: Paris (Nation Anglo-allemande) %1462-1463%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Ecclesiastical positions held: Recteur de Diessbach ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 27/11/2023)..

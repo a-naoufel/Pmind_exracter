@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Benoit
+Also known as: Guillaume BENOÎT.
+Description: Chanoine de Laon.
+Status: Incertain.
+Gender: male.
+Active during: %1403-1411%.
+Studied at: ?.
+Academic grades obtained: Docteur en droit canon..
+Ecclesiastical positions held: Chanoine de Laon %1403-1405% ;; Chanoine de Reims ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 03/05/2021..

@@ -1,0 +1,10 @@
+PERSON: BALDUINUS 6
+Also known as: BALDEWINUS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1394-1394%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Maître ès arts en ..
+Academic relationships: Son élève est Gerhardus YSEBRANDI pour le baccalauréat en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 25/11/2020)..

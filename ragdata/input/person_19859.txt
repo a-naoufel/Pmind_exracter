@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de Suessia
+Also known as: Nicolaus de SUESSIA;; NICOLAUS Johannis..
+Description: Chanoine.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1351%.
+Born in: Suède..
+Studied at: Paris (?Nationanglaise), ..
+Academic grades obtained: ?Étudiant (P), ..
+Ecclesiastical positions held: Clerc du diocèse d'Uppsala, ;; ?Chanoine d'Uppsala (cathédrale), %1324-1346%;; ?Chanoine de Strängnäs (cathédrale), ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 30/07/2016..

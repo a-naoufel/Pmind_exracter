@@ -1,0 +1,13 @@
+PERSON: HENRICUS de Gondricuria
+Also known as: Henricus de GONDRICURIA.
+Description: Prieur de Neufchâteau.
+Status: Extérieur.
+Gender: male.
+Active during: %1418-1418%.
+Born in: Lorraine ?.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son parent est peut-être Nicolaus de GONDRICURIA ?.
+Religious order: O.S.B. : moine bénédictin en ;.
+Religious functions: Prieur (bénédictin) de Neufchâteau en ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

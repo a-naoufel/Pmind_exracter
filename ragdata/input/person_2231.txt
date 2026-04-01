@@ -1,0 +1,21 @@
+PERSON: EBRARDUS de Tremaugon
+Also known as: Evrardus de TREMAGON; Evrart de TREMAUGON.
+Description: Professeur de Décret.
+Status: Maître.
+Gender: male.
+Active during: %1374-1386%.
+Born in: Bretagne..
+Diocese of origin: Diocèse de Léon..
+Studied at: Bologne.; Paris ?.
+Academic grades obtained: Docteur in utroque jure..
+Family relationships: Son frère est un capitaine, compagnon de Bertrand du GUESCLIN..
+Social origin: Noblesse..
+Ecclesiastical positions held: Provision pour un canonicat avec l'office de doyen de la cathédrale de Laon du fait de la vacance de ces bénéfices par la promotion de Jean FLANDRIN à l'archevêché d'Arles en : mandat à l'archidiacre de Reims, au chancelier de Paris et à l'official de Paris ; mais la vacance ne s'est pas produite ;; Doyen de Chartres ;; Provision pour un canonicat avec expectative de prébende à la cathédrale de Beauvais en ;; Provision pour l'office de chantre à la cathédrale de Saint-PauldeLéon en ;; Évêque de Dol %1382-1386%..
+University functions: Paris (Faculté de Décret : Professeur de droit % -1374%)..
+Authored work: '(Leçon de droit I)', composed around ?.
+Authored work: '(Leçon de droit II)', composed around ?.
+Authored work: '(Leçon de droit III [sur les testaments])', composed around ?..
+Authored work: 'Somnium Viridarii', composed around %1374-1376%., dedicated to À la demande de CHARLES V..
+Authored work: 'Songe du Verger', composed around ..
+Authored work: 'Oratio', composed around ..
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

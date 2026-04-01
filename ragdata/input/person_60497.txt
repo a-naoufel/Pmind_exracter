@@ -1,0 +1,10 @@
+PERSON: REGINALDUS Lamoureux
+Also known as: Reginaldus LAMOUREUX; Regnault LAMOUREUX.
+Description: Boursier du collège de Navarre.
+Status: Maître.
+Gender: male.
+Active during: %1488-1515%.
+Studied at: Paris ;.
+Academic grades obtained: Maître ;.
+College affiliation: Collège de Navarre : boursier en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

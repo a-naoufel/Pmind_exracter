@@ -1,0 +1,9 @@
+PERSON: PETRUS Faverel
+Also known as: Petrus FAVEREL; Pierre FAVEREL.
+Description: Empirique..
+Status: Extérieur.
+Gender: male.
+Active during: %1312-1312%.
+Family relationships: Sa femme est Claricia de ROTOMAGO..
+Social origin: Commun : habitant de Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 14/03/2024)..

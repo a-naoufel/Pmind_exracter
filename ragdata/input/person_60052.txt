@@ -1,0 +1,12 @@
+PERSON: SIMON de Boves 1
+Also known as: Simon de BOVES; Symo de BOVER; Symo BOBUS.
+Description: Boursier du collège de Dainville.
+Status: Étudiant.
+Gender: male.
+Active during: %1408-1418%.
+Born in: Picardie (Boves ?) ?.
+Diocese of origin: Diocèse d'Amiens ?.
+Studied at: Paris..
+Academic grades obtained: Étudiant ?.
+College affiliation: Collège de Dainville : hôte ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

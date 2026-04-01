@@ -1,0 +1,13 @@
+PERSON: HAIMERICUS de Veyre
+Also known as: Aymeric de VEYRE.
+Description: Chancelier de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1232-1263%.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris).
+Ecclesiastical positions held: Archidiacre de Paris ;; Chanoine de Paris ;; Chancelier de Paris %1250-1263%..
+University functions: Paris (Faculté de Théologie : Maître-Régent ) ;; Paris (Université : Chancelier )..
+Authored work: '(Sermones)', composed around ca...
+Authored work: '(Consultation sur les pouvoirs des confesseurs)', composed around ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 10/11/2016..

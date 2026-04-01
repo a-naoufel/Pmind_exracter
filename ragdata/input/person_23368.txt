@@ -1,0 +1,19 @@
+PERSON: GUILLELMUS de Nottingham 2
+Also known as: Guillelmus de NOTINGHAM.
+Description: O.F.M..
+Status: Incertain.
+Gender: male.
+Active during: %1310-1336%.
+Born in: Angleterre.
+Studied at: Oxford..
+Academic grades obtained: Docteur en théologie (Oxford).
+Religious order: O.F.M..
+Religious functions: Ministreprovincial (franciscain) d’Angleterre. %1316-1330%..
+University functions: Oxford (Couvent franciscain : 39e lecteur en théologie, %1312-1314%)..
+Authored work: '(Commentaire sur Unus ex quattuor)', composed around ?.
+Authored work: '(Commentaire sur les Sentences)', composed around ?.
+Authored work: '(Commentaire sur les Épîtres de Saint Paul)', composed around ?.
+Authored work: 'Determinatio pro lege Christianorum', composed around ?.
+Authored work: '(Commentaire sur les Évangiles de Saint Mathieu et Saint Luc)', composed around ?.
+Authored work: '(Quaestiones in Evangelia)', composed around ?.
+Source: Franciscan authors (B. ROEST) :.

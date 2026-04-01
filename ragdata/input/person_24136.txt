@@ -1,0 +1,10 @@
+PERSON: HERVEUS Evein
+Also known as: Herveus EVEIN.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1452-1453%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Léon..
+Studied at: Paris (Nation de France) %1452-1453%.
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.

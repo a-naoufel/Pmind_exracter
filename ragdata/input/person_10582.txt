@@ -1,0 +1,13 @@
+PERSON: RADULPHUS de Vemars
+Also known as: Raoul de VEMARS.
+Description: Etudiant en théologie..
+Status: Étudiant.
+Gender: male.
+Active during: %1290-1306%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris..
+Studied at: Paris %1290-1304%..
+Academic grades obtained: Étudiant en théologie (Paris) %1290-1304%..
+Ecclesiastical status: Clerc du diocèse de Paris ;.
+Ecclesiastical positions held: Bénéfice de Saint-Leu-Taverny %1304-1306%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 05/04/2024..

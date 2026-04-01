@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Canapvilla
+Also known as: Guillelmus de CANAPVILLA; Guillelmus de CANAPELLO.
+Description: Chancelier de Rouen.
+Status: Maître.
+Gender: male.
+Active during: %1220-1230%.
+Studied at: Paris..
+Academic grades obtained: Maître..
+Ecclesiastical positions held: Chantre de Rouen ;; Chancelier de Rouen %1220-1230% ;.
+University functions: Paris (Université : procureur et nonce à la Curie vers ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 12/03/2022..

@@ -1,0 +1,12 @@
+PERSON: DROCO Gramaticus
+Also known as: DROGO Grammaticus.
+Description: Maître de l'école de Notre-Dame.
+Status: Maître.
+Gender: male.
+Active during: %1090-1095%.
+Studied at: Paris..
+Academic grades obtained: Magister ?.
+Academic relationships: Son maître est BÉRENGER de Tours ?.
+Ecclesiastical positions held: Chanoine de Paris ?.
+University functions: Paris (École de Notre-Dame vers %1090-1095%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux, révision, Jean-Philippe Genet, 31/08/2022)..

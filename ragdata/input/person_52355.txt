@@ -1,0 +1,13 @@
+PERSON: THEOBALDUS Artault
+Also known as: Theobaldus ARTAULT.
+Description: Chanoine de Reims.
+Status: Maître.
+Gender: male.
+Active during: %1438-1492%.
+Studied at: ?Paris..
+Academic grades obtained: Maître ;.
+College affiliation: Collège d'Autun : hôte ?.
+Family relationships: Son neveu est Reginaldus ARTAUD ;.
+Ecclesiastical status: Clerc ;.
+Ecclesiastical positions held: Prieur de "Orderia" ?; Chanoine de Reims %1462-1483% ;.
+Source: Paris au Moyen Âge : http://www.parismoyenage.fr/parisiens/nom_p.php?searchARTAnomArtaultprenomThibaut.

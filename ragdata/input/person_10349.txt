@@ -1,0 +1,13 @@
+PERSON: PETRUS Rufus
+Also known as: Petrus RUFUS; Pierre ROUSSEL; Pierre ROSSEL.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1255-1264%.
+Born in: Ile-de-France ;.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris %1255-1260%..
+Academic grades obtained: Maître en théologie (Paris)..
+Ecclesiastical positions held: Chanoine d'Évreux %1256-1260% ;; Chanoine de Corbeil (Saint-Exupère) %1258-1264%; Chanoine de Paris (Notre-Dame) avant.
+University functions: Paris (Faculté de Théologie : Maître-régent vers )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019).

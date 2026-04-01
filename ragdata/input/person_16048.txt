@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS Fabri 2
+Also known as: Aegidius FABRI.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1499-1499%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Soissons..
+Studied at: Paris %1499-1499%..
+Academic grades obtained: Bachelier en décret (Paris) (11 ou 16 février)..
+Religious order: O.S.A. : chanoine régulier..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision : Jean-Philippe Genet 05/05/2020)..

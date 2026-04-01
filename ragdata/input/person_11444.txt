@@ -1,0 +1,15 @@
+PERSON: SIMON de Chesnel
+Also known as: Simon de CHESNEL; Simon de CHENEL.
+Description: Bénédictin.
+Status: Maître.
+Gender: male.
+Active during: %1415-1429%.
+Born in: Bretagne ?.
+Studied at: Paris (Faculté de décret) %1415-1420%..
+Academic grades obtained: Bachelier en décret (Paris) ;; Licencié en décret (Paris) le 3 avril ..
+College affiliation: Collège de Cornouailles ?.
+Academic relationships: Son maître est Johannes GUARINI pour la licence en décret en (16 février) ;.
+Religious order: O.S.B. : moine bénédictin du monastère de Landévennec (diocèse de Quimper)..
+Religious functions: Prieur de Batz (diocèse de Nantes) en ;; Sacristain de Redon (Saint-Sauveur) au diocèse de Nantes en ;; Abbé de Landévennec en ;.
+University functions: Paris (Faculté de Décret : Lecteur en (25 septembre)) ;; Paris (Faculté de Décret : Lecteur en (13 octobre)) ;; Paris (Faculté de Décret : Lecteur en (16 mai)) ;; Paris (Faculté de Décret : Lecteur en (10 octobre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 03/05/2022)..

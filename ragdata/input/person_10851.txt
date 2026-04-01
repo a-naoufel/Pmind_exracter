@@ -1,0 +1,11 @@
+PERSON: RICARDUS Yateley
+Also known as: Richard YATELEY.
+Description: Maître ès arts.
+Status: Extérieur.
+Gender: male.
+Active during: %1312-1319%.
+Born in: Angleterre..
+Studied at: Oxford (Merton College)..
+Academic grades obtained: Maître ès arts (Oxford)..
+University functions: Oxford (Merton College : fellow %1312-1318%) ;; Oxford (Merton College : 1st bursar %1318-1319%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 08/07/2024..

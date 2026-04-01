@@ -1,0 +1,12 @@
+PERSON: GERARDUS Bagent
+Also known as: Girard BAGENT.
+Description: Écolier du Collège de Dormans-Beauvais.
+Status: Maître.
+Gender: male.
+Active during: %1393-1439%.
+Studied at: Paris %1393-1397%..
+Academic grades obtained: Étudiant (Paris) %1393-1397%.; Maître (Paris ?) ;; Licencié en droit civil ;.
+College affiliation: Collège de Dormans-Beauvais : écolier-boursier %1393-1422% ;.
+Ecclesiastical positions held: Chanoine de Reims ;; Chanoine de Châlons-sur-Marne (Notre-Dame en-Vaux) % -1430% ;; Chanoine de Châlons-sur-Marne %1430-1438% ;.
+Other ecclesiastical functions: Official de Châlons-sur-Marne %1430-1438% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/12/2018..

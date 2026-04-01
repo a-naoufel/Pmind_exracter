@@ -1,0 +1,10 @@
+PERSON: AMANEVUS de Pulcrorivo
+Also known as: Amaneus de PULCRORIVO.
+Description: Docteur en Décret.
+Status: Maître.
+Gender: male.
+Active during: %1322-1342%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts ;; Bachelier en théologie ;; Docteur en décret..
+University functions: Paris (Faculté de théologie : Lecteur des Sentences ca )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 23/07/2020)..

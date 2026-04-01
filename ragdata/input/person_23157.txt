@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Ramyslande
+Also known as: Willelmus de RAMYSLANDE.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1333-1333%.
+Born in: Angleterre..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Academic relationships: Son maître est Johannes de WALTERSTONA pour le baccalauréat en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/05/2018..

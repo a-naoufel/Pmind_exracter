@@ -1,0 +1,9 @@
+PERSON: CAROLUS Aloup
+Also known as: Charles ALOUP; Charles ALO; Charles ALLO; Charles HALO; Charles HALLO.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1479-1486%.
+Studied at: Paris, %1479-1486%..
+Academic grades obtained: Étudiant en médecine (Paris) %1479-1480% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 31/03/2021)..

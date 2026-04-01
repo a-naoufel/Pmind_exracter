@@ -1,0 +1,9 @@
+PERSON: ZUNTA
+Also known as: ZUNTA.
+Description: Maître de grammaire..
+Status: Extérieur.
+Gender: male.
+Active during: %1294-1294%.
+Studied at: Bologne en ..
+Academic grades obtained: Magister grammaire..
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, dernière mise à jour 23/02/2021..

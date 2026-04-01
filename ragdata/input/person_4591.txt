@@ -1,0 +1,10 @@
+PERSON: HENRICUS Villain
+Also known as: Henricus VILLAIN; Henri VILLAIN.
+Description: Boursier artien au Collège de Navarre..
+Status: Étudiant.
+Gender: male.
+Active during: %1344-1344%.
+Studied at: Paris (Collège de Navarre) %1344-1344%..
+Academic grades obtained: Étudiant ès arts (Paris) ..
+College affiliation: Boursier artien au Collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 2/08/2022..

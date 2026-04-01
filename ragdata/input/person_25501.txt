@@ -1,0 +1,12 @@
+PERSON: THOMAS Caude
+Also known as: Thomas CAUDE.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1374-1378%.
+Born in: Paris..
+Studied at: Paris %1374-1378%..
+Academic grades obtained: Étudiant (Paris) %1374-1378% ;.
+College affiliation: Collège de Dormans-Beauvais : écolier-boursier %1374-1378% ;.
+Family relationships: Son parent est peut-être Pierre CAUDE, chapelain de Jean de DORMANS ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/01/2019..

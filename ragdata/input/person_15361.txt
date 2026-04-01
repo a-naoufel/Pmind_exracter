@@ -1,0 +1,9 @@
+PERSON: RODOICUS Modicipassus
+Also known as: Rodoicus MODICIPASSUS.
+Description: Maître en décret à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1204-1207%.
+Studied at: Paris %1204-1207%..
+Academic grades obtained: Maître Décret (Paris) %1204-1207%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 13/01/2024)..

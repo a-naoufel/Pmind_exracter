@@ -1,0 +1,12 @@
+PERSON: HUGO Clerici 1
+Also known as: Hugo CLERICI.
+Description: Licencié en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1423-1424%.
+Studied at: Paris %1423-1424%..
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en décret (Paris) ;; Licencié en décret (Paris) 18 avril ..
+Academic relationships: Son maître est Johannes de SERVAVILLA en ..
+Ecclesiastical positions held: Chanoine de Paris (Notre-Dame ?) ;; Chanoine de Tournai, ..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (L. VI) en (22 octobre), pour la 3e année et le 3e volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, révision Jean-Philippe Genet, dernière mise à jour 07/01/2026.

@@ -1,0 +1,12 @@
+PERSON: ALANUS de Alneto
+Also known as: Alanus de ALNETO.
+Description: Candidat sur le "rotulus presentatus per nuntios"..
+Status: Étudiant.
+Gender: male.
+Active during: %1388-1388%.
+Born in: Bretagne..
+Diocese of origin: Diocèse de Léon..
+Studied at: Paris ?.
+Academic grades obtained: Étudiant ?.
+Ecclesiastical positions held: Provision pour un bénéfice à la collation de l'évêque, du doyen et du chapitre de Léon en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 28/05/2020..

@@ -1,0 +1,14 @@
+PERSON: MARTINUS de Savigniaco
+Also known as: Martinus de SAVIGNIACO.
+Description: Chanoine de Sens.
+Status: Maître.
+Gender: male.
+Active during: %1445-1455%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Sens ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Social origin: Bourgeoisie de Sens ;.
+Ecclesiastical status: Diacre en ;.
+Ecclesiastical positions held: Chanoine de Sens ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 26/09/2022..

@@ -1,0 +1,10 @@
+PERSON: HENRICUS de Ruppaleto
+Also known as: Henricus de RUPPALETO.
+Description: Maître en Décret.
+Status: Maître.
+Gender: male.
+Active during: %1358-1358%.
+Studied at: Paris ..
+Academic grades obtained: Maître en décret (Paris)..
+University functions: Paris (Faculté des Arts : l'un des maîtres présents lors de l'arbitrage sur le tracé de la frontière entre la Nation Picarde et la Nation Anglo-allemande tel qu'il est consigné dans l'acte de (12 juillet) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/07/2022..

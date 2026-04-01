@@ -1,0 +1,12 @@
+PERSON: GALTERIUS de Maidstone 2
+Also known as: Walter of MAIDSTONE.
+Description: Sub-dean de Lincoln.
+Status: Extérieur.
+Gender: male.
+Active during: %1294-1337%.
+Born in: Angleterre (Kent)..
+Studied at: Oxford (Merton College)..
+Academic grades obtained: Magister (Oxford) ?.
+Ecclesiastical positions held: Recteur de Newenton? (?Kent) en ;; Chanoine de Lincoln % -1329% ;; Archdeacon de Stow %1328-1330% ;; Sub-dean de Lincoln %1329-1337%..
+University functions: Oxford (Merton College : fellow %1294-1300%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/11/2021..

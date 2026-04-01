@@ -1,0 +1,10 @@
+PERSON: ARCHAUDUS Arodi
+Also known as: Archaudus ARODI.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1463-1464%.
+Studied at: Paris..
+Academic grades obtained: Étudiant.
+Ecclesiastical positions held: Séculier, probablement bénéficié..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 16/10/2020)..

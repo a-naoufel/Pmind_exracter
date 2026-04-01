@@ -1,0 +1,12 @@
+PERSON: ROBERTUS de Cambrin
+Also known as: Robertus de CAMBRIN.
+Description: Écolâtre d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1458-1504%.
+Studied at: ?.
+Academic grades obtained: Docteur en droit canon ;.
+Social origin: Noble ?.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d’Amiens %1458-1504% ;; Écolâtre d’Amiens %1485-1504% ;; Chanoine de Cambrai ;; Doyen de Furnes ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 29/11/2021..

@@ -1,0 +1,13 @@
+PERSON: FRANCISCUS Lombert
+Also known as: François LOMBERT.
+Description: Écolier du collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1379-1380%.
+Born in: Ile-de-France ?.
+Diocese of origin: Diocèse de Meaux..
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dormans-Beauvais : boursier en %1379-1380% ;.
+Academic relationships: Son père est Guillaume LOMBERT..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 08-09-2021..

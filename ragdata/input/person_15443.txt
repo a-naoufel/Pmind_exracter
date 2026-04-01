@@ -1,0 +1,14 @@
+PERSON: ADRIANUS Galteri
+Also known as: Adrianus GALTERI.
+Description: Bénédictin.
+Status: Maître.
+Gender: male.
+Active during: %1492-1537%.
+Studied at: Paris (Collège de Sorbonne) %1492-1492%..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Paris (Collège de Marmoutier) en ;; Hôte au collège de Sorbonne en ..
+Family relationships: ?Son parent est Adrien GAUTIER, D.T., O.S.B. de Marmoutier et hôte du collège de Sorbonne entre %1522-1528% ; ?Son parent est Matthieu GAUTIER, D.T., abbé de Marmoutier en ..
+Academic relationships: Son maître est Juan de CELAYA..
+Religious order: O.S.B. : moine bénédictin de l'abbaye de Marmoutier (diocèse de Tours)..
+Religious functions: Prieur (bénédictin) de Beaurain (Saint-Martin) %1522-1531% ;; Prieur (bénédictin) de Gisors (Saint-Ouen) %1531- % ;; Prieur (bénédictin) de Notre-Damedel'Absie % -1537% ;; Prieur (bénédictin) de Couldres %1537- % ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019)..

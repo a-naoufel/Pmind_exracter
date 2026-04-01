@@ -1,0 +1,10 @@
+PERSON: CANTIANUS de Solavilla
+Also known as: Cantien de SOLAVILLA.
+Description: Boursier grammairien au Collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1380-1380%.
+Studied at: Paris (Collège de Navarre) %1380-1380%..
+Academic grades obtained: Étudiant en grammaire (Paris) ..
+College affiliation: Boursier grammairien au Collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 30/03/2021..

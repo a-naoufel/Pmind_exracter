@@ -1,0 +1,9 @@
+PERSON: FRANCISCUS de Borsele
+Also known as: Franciscus de BORSELE.
+Description: Bourgeois de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1465-1466%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/08/2021..

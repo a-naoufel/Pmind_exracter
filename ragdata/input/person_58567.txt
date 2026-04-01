@@ -1,0 +1,9 @@
+PERSON: SIMON de Bucheriis
+Also known as: Simon de BUCHERIIS.
+Description: Dominus.
+Status: Incertain.
+Gender: male.
+Active during: %1343-1343%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 01/01/2025)..

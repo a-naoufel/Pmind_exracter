@@ -1,0 +1,9 @@
+PERSON: CONSTANCE la Parcheminière
+Also known as: Coustance la PARCHEMINIÈRE.
+Description: Parcheminière.
+Status: Suppôt.
+Gender: female.
+Active during: %1292-1292%.
+Studied at: Paris..
+Social origin: Commun..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 07/06/2024..

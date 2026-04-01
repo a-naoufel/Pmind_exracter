@@ -1,0 +1,9 @@
+PERSON: P. Succentor parisiensis
+Also known as: P., succentor parisiensis.
+Description: Chanoine de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1213-1213%.
+Studied at: ?.
+Ecclesiastical positions held: Chanoine de Paris (Notre-Dame)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 26/06/2020)..

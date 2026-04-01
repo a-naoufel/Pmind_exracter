@@ -1,0 +1,13 @@
+PERSON: BERTRANDUS Le Gros
+Also known as: Bertrandus LE GROS.
+Description: Bachelier Décret.
+Status: Gradué.
+Gender: male.
+Active during: %1491-1492%.
+Born in: Touraine ?.
+Diocese of origin: Diocèse de Tours..
+Studied at: Paris %1491-1492%..
+Academic grades obtained: Bachelier en décret (Paris) (20 octobre) ;.
+Ecclesiastical status: Clerc..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (1ere année) en (22 octobre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; dernière mise à jour, Jean-Philippe Genet, 20/03/2021)..

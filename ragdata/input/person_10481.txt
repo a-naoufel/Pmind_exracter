@@ -1,0 +1,10 @@
+PERSON: RADULPHUS 8
+Also known as: RADULFUS.
+Description: Boursier.
+Status: Étudiant.
+Gender: male.
+Active during: %1351-1351%.
+Studied at: Paris (Collège de Navarre) %1351-1351%..
+Academic grades obtained: Étudiant en théologie (Paris) ..
+College affiliation: Boursier théologien au collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 21/11/2021..

@@ -1,0 +1,12 @@
+PERSON: MATTHAEUS de Apulia
+Also known as: Matthaeus de APULIA.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1303-1303%.
+Born in: Italie (Pouilles ?)..
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère dominicain au couvent (dominicain) de Paris (Saint-Jacques) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 26/01/2019..

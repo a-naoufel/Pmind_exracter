@@ -1,0 +1,10 @@
+PERSON: ROBERTUS Balbus
+Also known as: Robertus BALBUS.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1201-1224%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Rouen ;; Archidiacre d’Eu %1210-1223% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 6/11/2021..

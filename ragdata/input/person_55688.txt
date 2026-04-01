@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Bechin
+Also known as: Guillelmus BECHIN.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1492-1492%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie ?) ..
+Academic grades obtained: Maître ès arts (Paris ?) ;.
+College affiliation: Collège de Lisieux : boursier du collège de Torcy ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

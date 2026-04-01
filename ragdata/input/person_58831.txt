@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de Boemia
+Also known as: Nicolaus de BOEMIA.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1374-1374%.
+Born in: Bohême ;.
+Diocese of origin: Diocèse de Prague ?.
+Studied at: Paris jusqu’en ;; Prague à partir de ..
+Academic grades obtained: Maître ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 11/05/2025..

@@ -1,0 +1,10 @@
+PERSON: FELICIUS 2
+Also known as: FELIX.
+Description: Scribe du conservateur des privilèges de l'Université de Paris.
+Status: Suppôt.
+Gender: male.
+Active during: %1444-1444%.
+Studied at: Paris ..
+Academic grades obtained: ?.
+University functions: Paris (Université : Scribe du conservateur des privilèges de l'Université de Paris ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 1/08/2021..

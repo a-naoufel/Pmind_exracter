@@ -1,0 +1,10 @@
+PERSON: GENESIUS
+Also known as: GENTIUS; GENETIUS; GENESIUS.
+Description: Maître franciscain ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1297-1297%.
+Studied at: ?.
+Academic grades obtained: Maître en théologie ?.
+Religious order: O.F.M. : frère franciscain..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 15/09/2019..

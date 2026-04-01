@@ -1,0 +1,10 @@
+PERSON: AEGIDIUS de Aula
+Also known as: Aegidius de AULA; Gilles de AULA.
+Description: Boursier grammairien au collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1373-1373%.
+Studied at: Paris (Collège de Navarre) %1373-1373%..
+Academic grades obtained: Étudiant en grammaire (Paris) ..
+College affiliation: Boursier grammairien au Collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 22/04/2020)..

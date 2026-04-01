@@ -1,0 +1,11 @@
+PERSON: DOMINICUS Leschaloigne
+Also known as: Dominicus LESCHALOIGNE.
+Description: Chanoine de Châlons-en-Champagne.
+Status: Incertain.
+Gender: male.
+Active during: %1452-1465%.
+Studied at: ?.
+Academic grades obtained: Maître ;; Licencié en droit canon ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Châlons-en-Champagne %1452-1465% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 05/06/2025.

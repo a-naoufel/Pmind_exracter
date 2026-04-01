@@ -1,0 +1,10 @@
+PERSON: RENERIUS Marié
+Also known as: Régnier MARIÉ.
+Description: Chirurgien parisien.
+Status: Incertain.
+Gender: male.
+Active during: %1360-1360%.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son père est Stephanus MARIÉ, chirurgien ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 18/09/2024..

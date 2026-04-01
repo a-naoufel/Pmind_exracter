@@ -1,0 +1,10 @@
+PERSON: OSNABORIENSIS
+Also known as: OSNABORENSIS.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant (Paris) ?.
+Ecclesiastical positions held: Scholasticus d'Osnabrück ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction: Élisabeth Jean-Philippe Genet, dernière mise à jour 02/12/2023..

@@ -1,0 +1,13 @@
+PERSON: BRICIUS Monachi
+Also known as: Bricius MONACHI.
+Description: Sous-bedeau de la Faculté de Décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1378-1403%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Léon..
+Studied at: Paris ..
+Academic grades obtained: Étudiant en décret (Paris) ..
+Ecclesiastical positions held: Recteur de l'égliseparoissiale de Servaville (diocèse de Rouen) ?; Provision en pour un bénéfice ecclésiastique à la collation de l'évêque, du doyen et du chapitre de Paris : mandat à l'abbé de Paris (Sainte-Geneviève).; Supplique en sur le rotulus des bacheliers et licenciés de la Faculté de Décret pour un bénéfice ecclésiastique à la collation de l'évêque de Léon.; Candidat à un bénéfice sur le Magnus Rotulus de l’Université de Paris daté de (21 octobre) et présenté à BENOÎT XIII parmi les maîtres en décret ;.
+University functions: Paris (Faculté de décret : subbedellus %1379-1403% au moins)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 10/01/2019..

@@ -1,0 +1,12 @@
+PERSON: BARTHOLOMAEUS Scutiferi
+Also known as: Bartholomeus SCUTIFERI.
+Description: Cistercien.
+Status: Maître.
+Gender: male.
+Active during: %1403-1405%.
+Born in: Catalogne ?.
+Studied at: Paris %1403-:1405%..
+Academic grades obtained: Licencié en théologie (Paris) ;; Docteur en théologie (Paris) ..
+College affiliation: Collège des Bernardins ?.
+Religious order: O. Cist. : moine cistercien du monastère (cistercien) de Poblet en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 16/12/2020..

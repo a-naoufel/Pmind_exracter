@@ -1,0 +1,11 @@
+PERSON: X Gouvion
+Also known as: X GOUVION.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1373-1377%.
+Studied at: Paris %1373-1377%..
+Academic grades obtained: Étudiant (Paris) %1373-1377% ;.
+College affiliation: Collège de Dormans-Beauvais : boursier %1373-1377% ;.
+Family relationships: Son oncle est Jean GOUVION, abbé (OSA) de Soissons (Saint-Jean-des-Vignes) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 16/09/2019..

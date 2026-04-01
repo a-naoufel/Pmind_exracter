@@ -1,0 +1,10 @@
+PERSON: GUIDOMARUS 1
+Also known as: GUIDOMARUS.
+Description: Maître en médecine à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1296-1296%.
+Studied at: Paris %1296-1296%..
+Academic grades obtained: Maître en médecine (Paris) ?..
+Ecclesiastical positions held: Chapelain ?..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe GENET, 04/02/2025..

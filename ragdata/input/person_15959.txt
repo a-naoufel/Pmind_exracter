@@ -1,0 +1,13 @@
+PERSON: DIONYSIUS Le Camus
+Also known as: Dionysius LECAMUS; Dionisius LECAMUS.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1492-1492%.
+Born in: Ile-de-France ?.
+Diocese of origin: Diocèse de Paris..
+Studied at: Paris %1492-1492%..
+Academic grades obtained: Bachelier en décret (Paris) en (11 novembre) ;.
+Ecclesiastical status: Prêtre..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales en (12 novembre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 31/05/2021..

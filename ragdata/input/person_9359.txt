@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Sunescheyn de Offenburg
+Also known as: Nycolaus SUNESCHEYN de Offenburga; Nicolaus de OFFENBURG; Nicolaus de OFFENBURKCH; Nicolaus OFFENPURCH.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1396-1403%.
+Born in: Alémanie (Offenburg) ?.
+Studied at: Vienne %1396-1398% ;; Paris (Nation Franco-allemande) %:1402-.
+Academic grades obtained: Bachelier ès arts (Vienne) ;; Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Arnoldus WTWIIC pour la licence et la maîtrise en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 26/11/2023)..

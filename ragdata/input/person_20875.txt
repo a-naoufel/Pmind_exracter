@@ -1,0 +1,12 @@
+PERSON: VINCENTIUS de Chalon
+Also known as: Vincent de CHALON.
+Description: Cistercien.
+Status: Étudiant.
+Gender: male.
+Active during: %1462-1486%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en ?.
+College affiliation: Collège des Bernardins ;; Cellérier du collège Saint-Bernard en ;.
+Religious order: O. Cist. : abbaye (cistercienne) de Preuilly (diocèse de Meaux) ;.
+Religious functions: Abbé (cistercien) de Preuilly (diocèse de Meaux) %1462-1486% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 30/08/2016..

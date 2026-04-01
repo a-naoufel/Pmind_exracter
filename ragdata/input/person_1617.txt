@@ -1,0 +1,14 @@
+PERSON: CHRISTIANUS Bellovacensis
+Also known as: Christianus BELLOVACENSIS; Christianus de BELVACO; Chrétien de VERDUN; Chrétien de BEAUVAIS.
+Description: Chanoine de Beauvais.
+Status: Maître.
+Gender: male.
+Active during: %1247-1264%.
+Born in: Lorraine (Verdun)..
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) vers %1247-1248% ;; Maître en théologie (Paris) après ..
+Ecclesiastical positions held: Chanoine de Beauvais..
+University functions: Paris (Faculté des Arts : Maître-régent) ;; Paris (Faculté de Théologie : lecteur)..
+Authored work: 'Articuli', composed around ?.
+Authored work: 'Declaratio', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 28/03/2024..

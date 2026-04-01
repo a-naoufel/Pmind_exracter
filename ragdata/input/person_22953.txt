@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Scorpis
+Also known as: Guillelmus de SCORPIS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1447-1447%.
+Born in: Berry ?.
+Diocese of origin: Diocèse de Bourges..
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 07/06/2018..

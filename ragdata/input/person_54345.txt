@@ -1,0 +1,11 @@
+PERSON: IVO Belabelli
+Also known as: Yvo BELABELLI.
+Description: Nonce pour le diocèse d'Angoulême.
+Status: Maître.
+Gender: male.
+Active during: %1456-1456%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Léon.
+Studied at: Paris (Nation de France) ..
+University functions: Paris (Nation de France : Nonce pour le diocèse d'Angoulême ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 06/10/2022..

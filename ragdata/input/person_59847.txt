@@ -1,0 +1,13 @@
+PERSON: LUCAS Picot
+Also known as: Lucas PICOT; Luc PICOT.
+Description: Boursier du collège de Dainville.
+Status: Maître.
+Gender: male.
+Active during: %1506-1513%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Noyon ;.
+Studied at: Paris (Nation de Picardie ?) en %1506-1513%..
+Academic grades obtained: Maître ès arts (Paris) en ;.
+College affiliation: Collège de Dainville : boursier en %1505-1510%, alors qu’il n’est pas encore dit maître ;.
+Family relationships: Son parent est Anthonius PICOT ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

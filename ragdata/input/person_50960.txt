@@ -1,0 +1,13 @@
+PERSON: EBLO de Sancta Maria
+Also known as: Eblo de SANCTAMARIA.
+Description: Trésorier d’Auxerre.
+Status: Extérieur.
+Gender: male.
+Active during: %1342-1363%.
+Born in: Orléanais ?.
+Diocese of origin: Diocèse de Chartres ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Chartres %1342-1363% ;; Chanoine d’Auxerre %1362-1363% ;; Trésorier d’Auxerre %1350-1363% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2020)..

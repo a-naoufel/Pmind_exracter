@@ -1,0 +1,12 @@
+PERSON: HUGO Calle
+Also known as: Hugo CALLE.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1390-1396%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son neveu est Guillelmus BERTHERII, chanoine de Nevers ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Sens %1390-1396% ;; Chanoine de Nevers ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 21 octobre 2022..

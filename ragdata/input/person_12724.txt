@@ -1,0 +1,12 @@
+PERSON: LUDOVICUS de Paris
+Also known as: Ludovicus de PARIS.
+Description: Moine de Saint-Denis.
+Status: Gradué.
+Gender: male.
+Active during: %1479-1493%.
+Studied at: Paris %1480-1480%..
+Academic grades obtained: Bachelier en décret (Paris) (le 10 avril) ..
+Religious order: O.S.B. : moine bénédictin de l' abbaye de Saint-Denis-en-France (diocèse de Paris) ;.
+Religious functions: Trésorier de Saint-Denis-en-France (diocèse de Paris) en ;; Infirmarius de Saint-Denis-en-France (diocèse de Paris) en mars et en ;; Bénéfice sur nomination de la faculté de Décret à la collation de l'abbaye de Déols (diocèse de Bourges) en ;; Bénéfice sur nomination de la faculté de Décret à la collation de l'abbaye de Molesme (diocèse de Langres) en ;; Bénéfice sur nomination de la faculté de Décret à la collation de l'abbaye de Saint-Germer-de-Flay (diocèse de Beauvais) en ;; Bénéfice sur nomination de la faculté de Décret à la collation de l'abbaye de Bonneval (diocèse de Chartres) en ..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (1er cours) le 12 avril ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 04/09/2023)..

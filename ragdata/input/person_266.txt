@@ -1,0 +1,10 @@
+PERSON: ALANUS Brito 3
+Also known as: Alanus BRITO; Alain LEBRETON.
+Description: Serviteur de la Faculté de Décret.
+Status: Suppôt.
+Gender: male.
+Active during: %1342-1342%.
+Born in: Bretagne ?.
+Studied at: Paris ..
+University functions: Paris (Faculté de Décret : serviteur)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 15/11/2019..

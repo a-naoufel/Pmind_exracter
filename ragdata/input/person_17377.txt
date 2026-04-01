@@ -1,0 +1,13 @@
+PERSON: BERTRANDUS Custurarii
+Also known as: Bertrandus CUSTURARII.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1403-1403%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris (Nation de Normandie) ;.
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en théologie en ..
+Ecclesiastical status: Prêtre du diocèse de Rouen..
+Ecclesiastical positions held: Chapelain de la Chapelle du PalaisRoyal en ;; Candidat à un bénéfice ecclésiastique sur le rotulus de ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 22/02/2021).

@@ -1,0 +1,12 @@
+PERSON: GEORGIUS de Ast
+Also known as: Georgius de AST.
+Description: Procureur.
+Status: Incertain.
+Gender: male.
+Active during: %1336-1336%.
+Born in: Italie (Piémont : Asti) ?.
+Diocese of origin: Diocèse d'Asti ?.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son frère est Henricus de AST qui deviendra patriarche de Constantinople en ; Son parent est Rolandus de AST ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 15/09/2019..

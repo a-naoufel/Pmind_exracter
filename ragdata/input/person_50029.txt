@@ -1,0 +1,10 @@
+PERSON: GERARDUS 5
+Also known as: GIRADUS.
+Description: Chanoine de Saint-Benoît.
+Status: Maître.
+Gender: male.
+Active during: %1286-1286%.
+Studied at: Paris..
+Academic grades obtained: Magister ?.
+Ecclesiastical positions held: Chanoine de Paris (Saint Benoît-le-Bétourné ?) :.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 22/09/2019..

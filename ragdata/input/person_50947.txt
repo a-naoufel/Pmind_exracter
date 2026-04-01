@@ -1,0 +1,13 @@
+PERSON: ANSELMUS de Mailliaco
+Also known as: Anselmus de MAILLIACO.
+Description: Chanoine d'Auxerre.
+Status: Extérieur.
+Gender: male.
+Active during: %1265-1281%.
+Born in: Bourgogne (Mailly-le-Château ?) ?.
+Diocese of origin: Diocèse d'Auxerre ?.
+Studied at: ?.
+Academic grades obtained: Magister..
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d'Auxerre %1265-1281% ;; Archiprêtre d'Auxerre ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 6/07/2020)..

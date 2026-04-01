@@ -1,0 +1,7 @@
+PERSON: GUILLELMUS Filius Pagani
+Also known as: GUILLELMUS, filius Pagani.
+Description: Marchand ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1164-1164%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 28/02/2018..

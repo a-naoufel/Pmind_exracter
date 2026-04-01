@@ -1,0 +1,11 @@
+PERSON: PETRUS Martini 6
+Also known as: Petrus MARTINI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1453-1454%.
+Born in: Savoie ?.
+Diocese of origin: Diocèse de Genève ;.
+Studied at: Paris (Nation de France) %1453-1454%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 07/07/2023..

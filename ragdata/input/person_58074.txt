@@ -1,0 +1,11 @@
+PERSON: STEPHANUS Majoris
+Also known as: Stephanus MAJORIS.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1424-1431%.
+Studied at: Paris (Nation de France) %1424-1431% ;.
+Academic grades obtained: Bachelier en médecine (Paris) en ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ;.
+Ecclesiastical status: Prêtre..
+University functions: Paris (Faculté de Médecine : maître-régent %1439-1430%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 18/09/2024..

@@ -1,0 +1,8 @@
+PERSON: IVO 1
+Also known as: YVES.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1150-1150%.
+Studied at: Paris ?.
+Academic grades obtained: Magister.

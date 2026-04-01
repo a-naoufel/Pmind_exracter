@@ -1,0 +1,15 @@
+PERSON: PETRUS de Villaribus 1
+Also known as: Petrus de VILARIBUS.
+Description: Évêque de Troyes.
+Status: Incertain.
+Gender: male.
+Active during: %1343-1377%.
+Born in: Champagne (Villiers-Herbisse) ;.
+Diocese of origin: Diocèse de Troyes ;.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant en théologie (Paris) ?.
+College affiliation: Couvent (dominicain) de Paris ?; Saint-Victor ?.
+Family relationships: Son frère est Nicolas CHAMPAIGNE ;.
+Religious order: O.P. : frère du couvent (dominicain) de Troyes ;.
+Ecclesiastical positions held: Évêque de Nevers %1372-1375% ;; Évêque de Troyes %1375-1377% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 17/05/2023..

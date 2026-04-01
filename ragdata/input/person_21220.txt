@@ -1,0 +1,11 @@
+PERSON: RADULPHUS Du Vivier
+Also known as: Radulphus du VIVIER; Raoul du VIVIER.
+Description: Maître général de l’Ordre des Trinitaires.
+Status: Étudiant.
+Gender: male.
+Active during: %1460-1472%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en ?.
+Religious order: O.Ss.T..
+Religious functions: Maître-général de l’Ordre des Trinitaires %1460-1472% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/08/2016..

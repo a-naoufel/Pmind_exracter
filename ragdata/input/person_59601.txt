@@ -1,0 +1,10 @@
+PERSON: THEVENINUS Quatre Deniers
+Also known as: Theveninus QUATRE DENIERS.
+Description: Boursier au collège de Boissy.
+Status: Étudiant.
+Gender: male.
+Active during: %1358-1358%.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) ;.
+Family relationships: Son parrain est Stephanus VIDÉ de Boissiaco ; Son parent est Johannes QUATRE DENIERS, exécuteur testamentaire de Godefridus de BOISSIACO ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

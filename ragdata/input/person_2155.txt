@@ -1,0 +1,12 @@
+PERSON: ERKENFRIDUS
+Also known as: ERKENFRIDUS.
+Description: Dominicain.
+Status: Incertain.
+Gender: male.
+Active during: %1257-1263%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.P..
+University functions: Erfurt (couvent dominicain : lecteur %1261-1263% )..
+Authored work: 'Compendium fratris Erkenfridis', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 3/09/2015)..

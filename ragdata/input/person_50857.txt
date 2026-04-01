@@ -1,0 +1,9 @@
+PERSON: ROSA Mestresse
+Also known as: ROSA.
+Description: Maîtresse d’école.
+Status: Suppôt.
+Gender: female.
+Active during: %1297-1298%.
+Studied at: Paris..
+Ecclesiastical status: Laïque ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 22/04/2020)..

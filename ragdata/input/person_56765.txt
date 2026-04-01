@@ -1,0 +1,11 @@
+PERSON: SIMON Vyge
+Also known as: Simon VYGE.
+Description: Chanoine de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1363-1363%.
+Studied at: ?.
+Academic grades obtained: Licencié en droit canon ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Clermont ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/10/2023..

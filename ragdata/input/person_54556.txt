@@ -1,0 +1,12 @@
+PERSON: NICOLAUS de Laigle
+Also known as: Nicolaus de LAIGLE.
+Description: Chanoine de Sées.
+Status: Incertain.
+Gender: male.
+Active during: %1250-1250%.
+Born in: Normandie ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Religious order: O.S.A. : chanoine (augustin) ?.
+Ecclesiastical positions held: Chanoine de Sées ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 09/11/2022..

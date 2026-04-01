@@ -1,0 +1,10 @@
+PERSON: SIMON de Jotro
+Also known as: Simon de JOTRO.
+Description: Archidiacre d’Étampes.
+Status: Incertain.
+Gender: male.
+Active during: %1268-1281%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Sens (Sainte-Marie Égyptienne) ;; Archidiacre d’Étampes %1280-1281% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 10/09/2022..

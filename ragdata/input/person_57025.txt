@@ -1,0 +1,12 @@
+PERSON: PETRUS Des Groux
+Also known as: Petrus DES GROUX.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1494-1520.
+Studied at: Paris..
+Academic grades obtained: Maître arts (Paris) ?; Licencié en théologie (Paris) (5 février) ;; Maître en théologie (Paris) (17 juin) ;.
+College affiliation: Collège de Harcourt : régent ès arts ;.
+Ecclesiastical positions held: Candidat à des bénéfices à la collation de l’université de Paris ;.
+University functions: Paris (Faculté des Arts : maître-régent au collège de Harcourt)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/12/2023..

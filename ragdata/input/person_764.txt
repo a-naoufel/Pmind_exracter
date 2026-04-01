@@ -1,0 +1,10 @@
+PERSON: ANSELMUS de Montefalconis
+Also known as: Anselmus de MONTEFALCONIS; Anselme de MONTEFALCONIS.
+Description: Boursier artien au Collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1391-1391%.
+Studied at: Paris (Collège de Navarre) %1391-1391%..
+Academic grades obtained: Étudiant ès arts (Paris) ..
+College affiliation: Boursier artien au Collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/09/2020)..

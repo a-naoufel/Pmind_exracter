@@ -1,0 +1,12 @@
+PERSON: PETRUS de Tewkesburia
+Also known as: Peter of TEWKESBURY.
+Description: Franciscain.
+Status: Extérieur.
+Gender: male.
+Active during: %1234-1257%.
+Born in: Angleterre..
+Studied at: Oxford ?.
+Academic grades obtained: Maître ?.
+Religious order: O.F.M. : frère franciscain ;.
+Religious functions: Gardien du ccouvent (franciscain) de Londres ;; Ministre de Cologne .; Provincial (franciscain) d’Angleterre %1254-1257%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 09/04/2024..

@@ -1,0 +1,13 @@
+PERSON: PETRUS de Viterbio
+Also known as: Petrus de VITERBIO.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1306-1306%.
+Born in: Italie (Latium : Viterbe) ?.
+Diocese of origin: Diocèse de Viterbe ?.
+Studied at: Cologne ?; Paris ?.
+Academic grades obtained: Étudiant (Cologne) ?; Étudiant (Paris) ?.
+College affiliation: Couvent (dominicain) de Paris (Jacobins) ?.
+Religious order: O.P. : frère de la province (dominicaine) de Rome en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe GENET 7/11/2020)..

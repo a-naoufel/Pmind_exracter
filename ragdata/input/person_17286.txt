@@ -1,0 +1,12 @@
+PERSON: AUGERIUS de Bria
+Also known as: Augerius de BRIA.
+Description: Archidiacre du Houlme.
+Status: Maître.
+Gender: male.
+Active during: %1415-1431%.
+Studied at: Paris ..
+Academic grades obtained: Licencié en décret (Paris) ..
+Social origin: Noble..
+Religious order: O.S.A. : Chanoine de Saint-Augustin ;; Sacriste du Prieuré (augustin) de Saint-Georges-sur-Loire en ;; Archidiacre du Houlme à la cathédrale de Sées %1429- % ;; Chanoine d'Angers (abbaye de Toussaint) ..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 26/11/2020)..

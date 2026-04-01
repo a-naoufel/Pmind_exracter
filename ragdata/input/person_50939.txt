@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Vienna
+Also known as: Guillermus de VIENNA.
+Description: Chanoine d'Auxerre.
+Status: Extérieur.
+Gender: male.
+Active during: %1209 -1223%.
+Studied at: ?.
+Academic grades obtained: Magister..
+Social origin: Noble ?.
+Ecclesiastical positions held: Chanoine d'Auxerre %1209-1223% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 29/06/2020)..

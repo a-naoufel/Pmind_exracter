@@ -1,0 +1,9 @@
+PERSON: THOMAS Picardus
+Also known as: Thomas PICARDUS.
+Description: Bedeau de la Nation de Picardie.
+Status: Suppôt.
+Gender: male.
+Active during: %1297-1297%.
+Studied at: Paris (Nation de Picardie) en ..
+University functions: Paris (Nation de Picardie : bedeau en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 20/03/2020..

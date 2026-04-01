@@ -1,0 +1,13 @@
+PERSON: HUGO de Arciaco
+Also known as: Hugo de ARCIACO.
+Description: Évêque d’Autun.
+Status: Incertain.
+Gender: male.
+Active during: %1273-1297%.
+Born in: Bourgogne :.
+Diocese of origin: Diocèse d’Autun ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son frère est Guido de ARCIACO, chanoine d’Autun ? Son frère est Petrus de ARCIACO, archidiacre de Beaune ? Son parent est Guillelmus de ARCIACO, chanoine d’Autun ?.
+Ecclesiastical positions held: Chanoine d’Autun %1273-1285% ;; Chanoine d’Auxerre ;; Évêque d’Autun %1285-1297% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 14/01/2023..

@@ -1,0 +1,11 @@
+PERSON: DAVID de Vado
+Also known as: Davidus de VADO; David DUGUÉ.
+Description: Chanoine d’Auxerre.
+Status: Extérieur.
+Gender: male.
+Active during: %1465-1497%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d’Auxerre %1465-1497% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/07/2020)..

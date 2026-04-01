@@ -1,0 +1,13 @@
+PERSON: GERARDUS de Douai
+Also known as: Girardus de DOUAI.
+Description: Évêque de Châlons-en-Champagne.
+Status: Incertain.
+Gender: male.
+Active during: %1202-1215%.
+Born in: Flandre (Douai) ?.
+Diocese of origin: Diocèse de Arras ?.
+Studied at: ?.
+Academic grades obtained: Maître ?.
+Social origin: Noble ?.
+Ecclesiastical positions held: Évêque de Châlons-en-Champagne %1202-1215% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 05/06/2025.

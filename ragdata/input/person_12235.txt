@@ -1,0 +1,22 @@
+PERSON: GALTERIUS de Odington
+Also known as: Walter ODINGTON; Walter de OTYNGTON; Walter de EVESHAM..
+Description: O.S.B..
+Status: Extérieur.
+Gender: male.
+Active during: %1280-1328%.
+Born in: Angleterre (Oxfordshire : Odington)..
+Studied at: Oxford ?.
+Academic grades obtained: Maître ?.
+Religious order: O.S.B. : moine bénédictin de l’abbaye (bénédictine) d'Evesham..
+Authored work: 'Arithmetica', composed around ?.
+Authored work: 'Liber quintus geometrie (Euclidis) per numeros loco quantitatum', composed around ?.
+Authored work: 'Ycocedron', composed around ?.
+Authored work: 'Declaratio motus octavae spherae', composed around ?.
+Authored work: 'De multiplicatione specierum in visu', composed around ?.
+Authored work: 'Kalendarium', composed around ., dedicated to Pour l’abbaye (bénédictine) de Evesham..
+Authored work: 'Kalendarium Odyngton cum equatione planetarum', composed around ?.
+Authored work: 'De mutatione aeris', composed around ?.
+Authored work: 'Tabula de motibus planetarum et almanak reversionis eorum', composed around ?.
+Authored work: 'Summa de speculatione musicae', composed around ..
+Authored work: 'Summa de aetate mundi', composed around ?.
+Source: ODNB :.

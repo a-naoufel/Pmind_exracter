@@ -1,0 +1,13 @@
+PERSON: ALANUS Minous
+Also known as: Alanus MINOUS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1392-1392%.
+Born in: Bretagne..
+Diocese of origin: Diocèse de Tréguier..
+Studied at: Paris ..
+Academic grades obtained: Étudiant en décret en ..
+Ecclesiastical status: Clerc du diocèse de Tréguier..
+Ecclesiastical positions held: Candidat à un bénéfice ecclésiastique à la collation de l'archevêque, du doyen, du chantre et du chapitre de l'église de Sens (cathédrale Saint-Étienne) dans un rotulus composé par Francesco GALLI, évêque d'Asti avec provision à l'official de Paris datée de ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 08/06/2020)..

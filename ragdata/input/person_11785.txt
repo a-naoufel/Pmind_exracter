@@ -1,0 +1,10 @@
+PERSON: THEODERICUS Scolasticus Sonsotensis
+Also known as: THEODORICUS, scolasticus Sonsotensis.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris..
+Academic grades obtained: Étudiant ?.
+Ecclesiastical positions held: Scolasticus Sonsotensis (?) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 19/12/2023..

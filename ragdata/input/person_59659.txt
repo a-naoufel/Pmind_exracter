@@ -1,0 +1,10 @@
+PERSON: PETRUS Falconnerii
+Also known as: Petrus FALCONNERII.
+Description: Chanoine de Noyon.
+Status: Incertain.
+Gender: male.
+Active during: %1389-1404%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chanoine de Noyon en ;; Chantre de Noyon vers ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

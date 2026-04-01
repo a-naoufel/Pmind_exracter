@@ -1,0 +1,12 @@
+PERSON: X Molinet
+Also known as: MOLINET.
+Description: Écolier-boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1457-1458%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Soissons ;.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) %1457-1458% ;.
+College affiliation: Collège de Dormans-Beauvais : écolier-boursier %1457-1458% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 21/10/2021..

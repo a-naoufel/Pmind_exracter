@@ -1,0 +1,9 @@
+PERSON: PHILIPPUS Boulier
+Also known as: Philippe BOULIER; Philippe BOULLIER; Philippe BOUILLIER; Philippe BULLIER; Philippe BONNELEZ.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1467-1483%.
+Studied at: Paris %1467-1475%..
+Academic grades obtained: Étudiant en médecine (Paris) à partir %1467-1468% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) mars ;; Maître en médecine (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 15/08/2016..

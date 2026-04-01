@@ -1,0 +1,10 @@
+PERSON: ROBERTUS Praepositus scolae Magistri Yvonis
+Also known as: ROBERTUS, prévôt de l’école du maître Yvon.
+Description: Étudiant.
+Status: Maître.
+Gender: male.
+Active during: %1150-1150%.
+Studied at: Paris..
+Academic grades obtained: Maître (Paris) ?.
+University functions: Paris : prévôt (des études ?) de l’école du magister YVONIS, mentionné dans une lettre sans doute écrite en de Herbert de BOSHAM à Pierre LOMBARD ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/04/2024..

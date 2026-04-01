@@ -1,0 +1,12 @@
+PERSON: AUBELLETUS Roatini
+Also known as: Aubelletus ROATINI.
+Description: Étudiant en arts.
+Status: Étudiant.
+Gender: male.
+Active during: %1384-1388%.
+Born in: Ile-de-France ?.
+Diocese of origin: Diocèse de Meaux..
+Studied at: Paris (Nation de France ?) %1384-1388%..
+Academic grades obtained: Étudiant en arts (Paris)..
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiastique à la collation de l'abbesse et du monastère (bénédictin) de Jouarre en ; mandat à l'official de Meaux..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 23/10/2020)..

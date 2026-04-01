@@ -1,0 +1,12 @@
+PERSON: HENRICUS Cornutus
+Also known as: Henricus CORNUTUS.
+Description: Archevêque de Sens.
+Status: Extérieur.
+Gender: male.
+Active during: %1254-1258%.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son oncle est Galterius CORNUTUS, archevêque de Sens..
+Social origin: Noble ;.
+Ecclesiastical positions held: Archevêque de Sens %1254-1258%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 26/06/2020)..

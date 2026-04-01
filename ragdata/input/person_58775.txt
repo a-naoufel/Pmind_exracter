@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Flavacuria
+Also known as: Guillelmus de FLAVACURIA; Guillaume de FLAVACOURT.
+Description: Archevêque de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1261-1306%.
+Born in: Normandie (Vexin) ;.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: ?.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Rouen ;; Chanoine de Paris (Notre-Dame) ?; Archidiacre du Petit-Caux %1266-1278% ;; Archevêque de Rouen %1278-1306% ;.
+Other ecclesiastical functions: Official de Rouen %1263-1265% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/03/2025)..

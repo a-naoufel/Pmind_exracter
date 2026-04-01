@@ -1,0 +1,10 @@
+PERSON: HAIMERICUS Gerardi
+Also known as: Aymericus GERARDI.
+Description: Archidiacre d’Autun.
+Status: Incertain.
+Gender: male.
+Active during: %1337-1337%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical positions held: Archidiacre d’Autun ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 07/01/2023..

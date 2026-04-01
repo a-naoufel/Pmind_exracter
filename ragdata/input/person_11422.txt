@@ -1,0 +1,11 @@
+PERSON: SIMON Walton
+Also known as: Simon WALTON.
+Description: Évêque de Norwich.
+Status: Extérieur.
+Gender: male.
+Active during: %1228-1266%.
+Born in: Angleterre ?.
+Studied at: ?Oxford..
+Academic grades obtained: Magister (Oxford ?) av. ?.
+Ecclesiastical positions held: Recteur de StokePrior (Worcestershire) %1253- % ;; Recteur de Whittingham (Northumberland) % -1257% ;; Evêque de Norwich %1257-1266%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/02/2024)..

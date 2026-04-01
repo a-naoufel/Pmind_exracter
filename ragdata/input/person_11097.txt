@@ -1,0 +1,10 @@
+PERSON: ROBERTUS Liber
+Also known as: Robertus LIBERI; Robertus LIBERTI.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1334-1345%.
+Studied at: Paris (Nation de Normandie) ..
+Academic grades obtained: Maître ès arts (Paris) .; Bachelier en théologie (Paris) ;; Maître en théologie (Paris) ;.
+University functions: Paris (Université : recteur élu en ) ;; Paris (Université : nonce chargé de porter le rotulus des bacheliers en théologie à CLÉMENT VI en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 5/11/2021..

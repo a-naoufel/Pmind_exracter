@@ -1,0 +1,13 @@
+PERSON: OLIVERIUS Du Donjon
+Also known as: Oliverius DU DONJON; Olivier DONIOU.
+Description: Maître en décret.
+Status: Maître.
+Gender: male.
+Active during: %1384-1412%.
+Born in: Bretagne ;.
+Diocese of origin: Diocèse de Tréguier ;.
+Studied at: Paris..
+Academic grades obtained: Maître en décret (Paris) ;.
+College affiliation: Collège de Tréguier : boursier en ;.
+Family relationships: Son frère est Thomas DONJON ; Sa soeur est Plautée DONJON ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Dernière mise à jour Jean-Philippe Genet, 21/O4/2023..

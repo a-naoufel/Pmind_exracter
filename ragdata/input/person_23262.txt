@@ -1,0 +1,11 @@
+PERSON: DURANDUS Pais
+Also known as: Durão PAIS.
+Description: Évêque d'Evora.
+Status: Étudiant.
+Gender: male.
+Active during: %1250-1284%?.
+Born in: Portugal..
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+Ecclesiastical positions held: Chanoine de Braga ;; Évêque d'Evora..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/12/2017)..

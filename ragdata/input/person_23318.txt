@@ -1,0 +1,7 @@
+PERSON: DIONYSIUS de Sancto Martino
+Also known as: Dionysius de SANCTO-MARTINO.
+Description: Tailleur.
+Status: Extérieur.
+Gender: male.
+Active during: %1434-1434%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 8/05/2018)..

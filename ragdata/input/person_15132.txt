@@ -1,0 +1,9 @@
+PERSON: PETRUS Mollet
+Also known as: Pierre MOLLET; Petrus MOLLET.
+Description: Écolier de la Faculté de médecine..
+Status: Étudiant.
+Gender: male.
+Active during: %1496-1498%.
+Studied at: Paris %1496-1498%..
+Academic grades obtained: Étudiant en médecine (Paris) %1496-1498%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 15/08/2016..

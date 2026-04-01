@@ -1,0 +1,12 @@
+PERSON: SIMON Carré
+Also known as: Simon CARRÉ.
+Description: Notaire.
+Status: Maître.
+Gender: male.
+Active during: %1503-1512%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Sens ;.
+Studied at: Paris ?.
+Academic grades obtained: Maître ès arts (Paris) ?; Licencié en décret (Paris) ;.
+College affiliation: Collège de Navarre ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

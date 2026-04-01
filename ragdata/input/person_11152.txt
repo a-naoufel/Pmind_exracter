@@ -1,0 +1,12 @@
+PERSON: ROBERTUS de Bellomonte 2
+Also known as: Robertus de BELLOMONTE.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1416-1435%.
+Studied at: Paris %1416-1416%.
+Academic grades obtained: Bachelier en théologie (Paris).
+Religious order: O.S.B. : moine (bénédictin) du monastère (bénédictin) de Marmoutier (Diocèse de Tours)..
+Religious functions: ?Prieur de Marmoutier (Diocèse de Tours) en ..
+Representation roles: ?Membre du concile de Bâle en %1433-1435% agissant comme procureur de son abbé..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 13/09/2023)..

@@ -1,0 +1,10 @@
+PERSON: PETRUS Cadouet
+Also known as: Petrus CADOUET.
+Description: Archevêque de de Bourges.
+Status: Extérieur.
+Gender: male.
+Active during: %1482-1492%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Prieur de Bourges (Collégiale Notre-Dame de Sales) % -1482% ;; Archevêque de Bourges %1482-1492% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 26/05/2023..

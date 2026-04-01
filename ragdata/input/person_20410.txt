@@ -1,0 +1,10 @@
+PERSON: GEORGIUS de Coelogon
+Also known as: Georgius de COELOGON.
+Description: Étudiant.
+Status: Gradué.
+Gender: male.
+Active during: %1452-1452%.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Family relationships: Son frère est Johannes de COELOGON..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 28/11/2021..

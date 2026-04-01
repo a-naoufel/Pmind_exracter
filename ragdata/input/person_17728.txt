@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Boucherii 1
+Also known as: Guillelmus BOUCHERII.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1420-1420%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Bayeux..
+Studied at: Paris %1420-1420%..
+Academic grades obtained: Bachelier en décret (Paris) 2 mai ;.
+Ecclesiastical positions held: Prêtre du diocèse de Bayeux..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 28/02/2022.

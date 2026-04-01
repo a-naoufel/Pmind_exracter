@@ -1,0 +1,10 @@
+PERSON: THOMAS 2
+Also known as: THOMAS, proviseur du collège des Dix-Huit.
+Description: Proviseur du collège des Dix-Huit.
+Status: Étudiant.
+Gender: male.
+Active during: %1210-1210%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant ?.
+College affiliation: Collège des Dix-Huit : proviseur en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/09/2023)..

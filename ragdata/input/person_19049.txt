@@ -1,0 +1,15 @@
+PERSON: DURANDUS de Campania
+Also known as: Durandus de CAMPANIA; Durand de CHAMPAGNE.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1303-1314%.
+Born in: Champagne ?.
+Studied at: ?Paris..
+Academic grades obtained: Étudiant ?.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) ;.
+Religious order: O.F.M. : frère franciscain..
+Authored work: 'Summa Confessionum', composed around %1311-1314% ?.
+Authored work: 'Speculum dominarum', composed around ..
+Authored work: 'Liber de informatione principum', composed around ?, dedicated to Dédié à LOUIS X, roi de France..
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

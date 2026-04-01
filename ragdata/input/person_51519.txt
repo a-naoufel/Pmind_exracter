@@ -1,0 +1,12 @@
+PERSON: STEPHANUS de Castris
+Also known as: Stephanus de CASTRIS; Stephanus de CASTRO.
+Description: Frater.
+Status: Étudiant.
+Gender: male.
+Active during: %1272-1273%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant ?.
+Religious order: Frère d’un ordre religieux nonidentifié..
+Authored work: '(Sermon pour la fête des Saints Simon et Jude)', composed around (28 octobre) aux Champeaux..
+Authored work: 'Sermon', composed around %1272-1273% ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 16/11/2020..

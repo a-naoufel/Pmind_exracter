@@ -1,0 +1,11 @@
+PERSON: PETRUS 1
+Also known as: PETRUS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1160-1160%.
+Born in: Italie (Latium : Rome ?) ;.
+Diocese of origin: Diocèse de Rome ?.
+Studied at: Paris avant ..
+Academic grades obtained: Étudiant (Paris, école de Saint-Victor) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 02/02/2022)..

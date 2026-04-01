@@ -1,0 +1,10 @@
+PERSON: ARNULPHUS de Bizancio
+Also known as: Arnulphus de BIZANCIO.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1240-1240%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Chanoine de Rouen ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet 16/11/2020..

@@ -1,0 +1,10 @@
+PERSON: NICOLAUS de Bestissiaco
+Also known as: Nicholaus de BESTISSIACO; Nicholaus de BETHESIACO.
+Description: Archidiacre du Petit Caux.
+Status: Incertain.
+Gender: male.
+Active during: %1272-1287%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Archidiacre du PetitCaux %1272-1287% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/11/2021..

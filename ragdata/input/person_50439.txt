@@ -1,0 +1,9 @@
+PERSON: PETRUS Cantor 2
+Also known as: Petrus CANTOR ;.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1475-1475%.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 28/11/2019..

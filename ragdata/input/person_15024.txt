@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Cornu
+Also known as: Nicolas CORNU.
+Description: Étudiant en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1485-1490%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie) %1485-1490%..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en médecine (Paris) %1485-1486%..
+University functions: Paris (Faculté des arts : examinateur en 1490%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 24/02/2019..

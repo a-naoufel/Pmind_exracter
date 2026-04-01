@@ -1,0 +1,14 @@
+PERSON: ADAM de Sancto Victore
+Also known as: Adam de SAINT-VICTOR; Adam de SANCTO VICTORE; Adam de NOTRE-DAME.
+Description: Chanoine de Saint-Victor.
+Status: Maître.
+Gender: male.
+Active during: %1107-1145%.
+Studied at: Paris..
+Academic grades obtained: Magister ?.
+Religious order: O.S.A. : chanoine de Saint-Victor %1134- %..
+Ecclesiastical positions held: Préchantre de Paris (Notre-Dame) %1107-1133%..
+Authored work: 'Proses', composed around ?.
+Authored work: 'Séquences', composed around ?.
+Authored work: '(Sermon Ave Maris Stella)', composed around ?.
+Source: hymnary.org.

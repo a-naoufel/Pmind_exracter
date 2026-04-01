@@ -1,0 +1,12 @@
+PERSON: CLEMENS Parmentarii
+Also known as: Clemens PARMENTARII; Clemens PARMENTIER; Clemens PERMENTER.
+Description: Recteur de l'Université de Paris..
+Status: Maître.
+Gender: male.
+Active during: %1444-1466%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie) %1444-1466%..
+Academic grades obtained: Maître ès arts (Paris) attesté dès ;; Licencié en théologie (Paris) (22 mars) ..
+Academic relationships: Superviseur de plusieurs bacheliers en théologie en ; Son maître est Petrus RICHERI en ..
+University functions: Paris (Faculté des Arts : Maîtrerégent en ) ;; Paris (Université : Recteur élu en (11 octobre)) ;; Paris (Faculté de Théologie : lecteur de la Bible en (3 avril)) ;; Paris (Faculté de Théologie : lecteur de la Bible en (8 août)) ;; Paris (Université : candidat au poste de lector Ethicorum le 22 avril ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, 28/11/2018..

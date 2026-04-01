@@ -1,0 +1,12 @@
+PERSON: PETRUS Joly
+Also known as: Petrus JOLY.
+Description: Bénédictin.
+Status: Gradué.
+Gender: male.
+Active during: %1500-1500%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Beauvais..
+Studied at: Paris %1500-1500%..
+Academic grades obtained: Bachelier en décret (Paris) (le 20 mai) ..
+Religious order: O.S.B. : moine bénédictin ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 20/03/2024).

@@ -1,0 +1,11 @@
+PERSON: THEODERICUS Sapiens de Olandia
+Also known as: Thierry SAPIENS de OLANDIA; Theodoricus SAPIENS de OLANDIA.
+Description: Maître en arts.
+Status: Maître.
+Gender: male.
+Active during: %1415-1416%.
+Born in: Pays-Bas (Hollande ?) ?.
+Diocese of origin: Diocèse d'Utrecht..
+Studied at: Paris avant ;; Pavie %1415-1416%..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Étudiant en médecine (Pavie) %1415-1416% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 19/12/2023..

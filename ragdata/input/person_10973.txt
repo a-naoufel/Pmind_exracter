@@ -1,0 +1,11 @@
+PERSON: ROBERTUS d'Abingdon
+Also known as: Robert d'ABINGDON.
+Description: Maître ès arts à Oxford..
+Status: Étudiant.
+Gender: male.
+Active during: %1200-1248%.
+Born in: Angleterre ;.
+Studied at: Oxford ;; Paris..
+Academic grades obtained: Étudiant à Paris, ne serait-ce que parce qu'il a sans doute suivi les cours de son frère Edmond d'ABINGDON.; Maître ès arts (Oxford)..
+Family relationships: Son frère est Edmond d'ABINGDON..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 19/04/2025..

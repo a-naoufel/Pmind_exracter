@@ -1,0 +1,10 @@
+PERSON: STEPHANUS Marié
+Also known as: Étienne MARIÉ.
+Description: Chirurgien parisien.
+Status: Incertain.
+Gender: male.
+Active during: %1340-1340%.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son fils est Régnier MARIÉ, chirurgien ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 18/09/2024..

@@ -1,0 +1,11 @@
+PERSON: BARTHOLOMAEUS Probihominis
+Also known as: Bartholomeus PROBIHOMINIS; Bartholomeus PROHIBOMINIS.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1431-1431%.
+Studied at: Paris %1431-1431%..
+Academic grades obtained: Bachelier en décret (Paris) en (22 novembre) ;.
+Religious order: O.S.B. : moine bénédictin de l'abbaye de Saint-Maur-des-Fossés (diocèse de Paris)..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (L. I) en (4 décembre) pour la 1ere année et le 1er volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 16/12/2020..

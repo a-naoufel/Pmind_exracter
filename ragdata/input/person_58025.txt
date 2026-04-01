@@ -1,0 +1,12 @@
+PERSON: ERUCUS de Maugny
+Also known as: Erucus de MAUGNY.
+Description: Étudiant du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1479-1479%.
+Born in: Bourgogne ;.
+Diocese of origin: Diocèse de Sens ;.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège d'Autun : logé au collège en tant qu’ancien étudiant en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 06/09/2024..

@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Maleti
+Also known as: Guillelmus MALETI.
+Description: Noble.
+Status: Incertain.
+Gender: male.
+Active during: %1365-1366%.
+Studied at: ?.
+Academic grades obtained: ?.
+Social origin: Noble ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 7/12/2021..

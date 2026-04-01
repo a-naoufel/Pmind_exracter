@@ -1,0 +1,18 @@
+PERSON: GUILLELMUS de Plesiano
+Also known as: Guillelmus de PLESIANO; Guillelmus de PLAISIANO; Guillaume de PLAISIANS.
+Description: Conseiller de PHLIPPE le Bel, roi de France.
+Status: Extérieur.
+Gender: male.
+Active during: %1292-1313%.
+Born in: Provence (Plaisians) ;.
+Diocese of origin: Diocèse de Vaison..
+Studied at: Montpellier ;.
+Academic grades obtained: Docteur en droit ;.
+Social origin: Noble ;.
+Representation roles: Ambassade à Rome auprès du pape BENOÎT XI en %1303-1304% avec Guillaume de NOGARET, Pierre de BELLEPERCHE et; Mission en Flandre en pour faire ratifier le Traité d’Athies par les villes de Flandre ;.
+Authored work: '(Procès-verbaux des séances des 13-14 juin au Louvre)', composed around %1303 (13-14 juin)..
+Authored work: 'Mémoire Cum in presentia pour le début du procès de Boniface', composed around (16-20 mars) à Avignon..
+Authored work: 'Articles présentés à Clément V par Guillaume de Nogaret et de Guillaume de Plaisians', composed around (22 mai)..
+Authored work: 'Articles présentés à Clément V par Guillaume de Nogaret et de Guillaume de Plaisians ; deuxième rédaction', composed around (mi-juin)..
+Authored work: 'Mémoire Cum iuxta doctrinam présenté par Guillaume de Nogaret et de Guillaume de Plaisians et inséré dans les actes du procès', composed around (3 août)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/04/2020)..

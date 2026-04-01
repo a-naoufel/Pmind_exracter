@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS Rothomagensis
+Also known as: Guillelmus ROTHOMAGENSIS; Guillaume de ROUEN.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1280-1300% ;.
+Born in: Normandie (Rouen) ?.
+Diocese of origin: Diocèse de Rouen ?.
+Studied at: Paris ?; Angers..
+Academic grades obtained: Licencié en décret (Paris ?) en ;.
+University functions: Angers (Professeur de droit %1280-1300%)..
+Authored work: 'Questio disputata', composed around ?.
+Authored work: 'Questio disputata', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/03/2025)..

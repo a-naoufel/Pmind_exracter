@@ -1,0 +1,11 @@
+PERSON: STEPHANUS de Palma
+Also known as: Stephanus de PALMA; Estienne de PALMA.
+Description: Clerc de la chapelle du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1422-1423%.
+Studied at: Paris %1422-1423%..
+Academic grades obtained: Étudiant (Paris) %1422-1423% ;.
+College affiliation: Collège de Dormans-Beauvais : clerc de la chapelle %1422-1423% ;.
+Ecclesiastical status: Clerc ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 25/10/2019..

@@ -1,0 +1,37 @@
+PERSON: LAURENTIUS Burelli
+Also known as: Laurentius BURELLI; Laurent BUREAU; Laurentius BURELLY; Laurentius BURELLUS; Laurentius BURRELLY; Laurentius ROSSELLI.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1468-1504%.
+Born in: Bourgogne (Liernais) ;.
+Diocese of origin: Diocèse d’Autun ?.
+Studied at: Montpellier ;; Paris %1471-1480%..
+Academic grades obtained: Licencié en théologie (Paris) (le 28 mars) ;; Docteur en théologie (Paris) (le 19 juin) ..
+Family relationships: Son neveu est Laurentius BURELLY (mort à 15 ans)..
+Religious order: O.Carm. : frère carme du couvent (carme) de Dijon (province de Narbonne) vers ..
+Religious functions: Prieur du couvent (carme) de Dijon en ;; Primus socius du provincial de Narbonne au chapitre général de ;; Définiteur du chapitre général de ;; Provincial de Narbonne en %1493-1494% ;; Vicaire général pour le prieurgénéral en ;; Préside le chapitreprovincial tenu à Snittersley en ;; ?Prieur général des Carmes en ;; Provincial (Carme) de Narbonne au chapitre général de ;; Inquisiteur dans le Dauphiné..
+University functions: Paris (Faculté de Théologei : lecteur de la Bible en ) ;.
+Representation roles: Diplomate entre le pape et l'empereur Maximilien..
+Authored work: 'Resolutorium difficultatum theologie ex diversis passibus sacre scripture', composed around ?.
+Authored work: 'Quodlibeta', composed around ?.
+Authored work: 'Super summas', composed around ?.
+Authored work: 'Quadrigesimale', composed around ?.
+Authored work: 'Lecture in scripturam plures', composed around ?.
+Authored work: 'Oraciones ad clerum', composed around ?.
+Authored work: 'Sermones notabiles', composed around ?.
+Authored work: 'Epigrammata diversi generis', composed around ?.
+Authored work: 'Epistolas varias ad diversos', composed around ?.
+Authored work: 'De ordinibus antiquitate', composed around ?.
+Authored work: 'Heliade, sive de Laudibus magni Vatis Eliae', composed around ?.
+Authored work: 'Catalogus de illustribus Carmeli patribus', composed around ?.
+Authored work: 'De xii. peculiaribus laudibus ordinis sui Carmeli', composed around ?.
+Authored work: '[Poème en mémoire de Tussanus de Villanova O.Carm.]', composed around ?.
+Authored work: 'Carmen in vitam Baconis', composed around ?.
+Authored work: 'De laudibus Joannis Charlerii de Gerson, Theologie Parisiensis, Navarrici, Academiae parisiensis Cancellarii, doctissimi et piissimi', composed around ?.
+Authored work: 'In laudes Poncii Reynaudi', composed around ?.
+Authored work: 'Defensiorum quoddam, pro regina Naverre, Blancha nomine', composed around ?.
+Authored work: 'Livre vert', composed around ?.
+Authored work: 'Carmina in laudem insigniorum invictissimi regis Anglie Henrici vii', composed around ?.
+Authored work: 'Carmina in insignia Christianissimi regis Francie Ludovici xii', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 22/08/2023)..

@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS de Trajecto
+Also known as: Aegidius de TRAJECTO; Aegidius de TRAJECTOSUPERIORI.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1357-1357%.
+Born in: Pays-Bas (Maastricht)..
+Diocese of origin: ?Diocèse de Liège..
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux, révision, Jean-Philippe Genet, 03/05/2020)..

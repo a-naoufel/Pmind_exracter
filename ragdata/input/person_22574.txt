@@ -1,0 +1,9 @@
+PERSON: FIRMINUS de Hotopa
+Also known as: Firminus de HOTOPA.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1278-1278%.
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Étudiant ès arts (Paris) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 5/08/2021)..

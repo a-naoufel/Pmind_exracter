@@ -1,0 +1,34 @@
+PERSON: BARTHOLOMAEUS de Pisa
+Also known as: Bartholomaeus de PISE; Barthélemy de PISE; Bartolomeo da SANTO CONCORDIO; Bartolomeo GRANCI.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1282-1346%.
+Born in: Italie (Toscane : SantoConcordio) ;.
+Diocese of origin: Diocèse de Pise ?.
+Studied at: Bologne.; Paris ..
+Academic grades obtained: Maître en décret (Paris) ?.
+College affiliation: Couvent (dominicain) de Paris (Jacobins) en ?.
+Social origin: Noble ?.
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Pise (Sainte-Catherine) en ..
+University functions: Anagni (Couvent dominicain : Lecteur en Logique %1291-1292%) ;; Todi (Couvent dominicain : Lecteur en Logique %1292-1293%) ;; Florence (Couvent dominicain : Lecteur %1297-1304%) ;; Arezzo (Couvent dominicain : Lecteur en %1305-1306%) ;; Pistoia (Couvent dominicain : Lecteur en %1310-1311%) ;; SanGemignano (Couvent dominicain : Lecteur en %1331-1333%) ;; Lucca (Couvent dominicain : Lecteur) ;; Pise (Couvent dominicain : principal %1335-1346%)..
+Authored work: 'De virtutibus et vitiis', composed around ?.
+Authored work: 'Sermones quadragesimales : De contemptu mundi', composed around ?.
+Authored work: 'Sermones quadragesimales dubiorum et casuum conscientiae', composed around ?.
+Authored work: 'Summa de casibus conscientiae', composed around ..
+Authored work: 'Expositio super Poetriam novam Gualfredi Anglici', composed around ?.
+Authored work: 'Commentarium in partem III Artis metricae Doctrinalis Alexandri de Villa Dei et de glosis ejusdem', composed around ?.
+Authored work: 'Tract. de dictionibus proferendis sive de accentu', composed around ?.
+Authored work: 'Tract. de dictionibus scribendis sive de orthographia', composed around ?.
+Authored work: 'De documentis antiquorum', composed around ?.
+Authored work: 'De memoria', composed around ?.
+Authored work: 'L'arte della memoria artificiali (Ad. Herenn. lib. 3)', composed around ?.
+Authored work: 'In Virgilium et in Senecam Tragicum', composed around ?.
+Authored work: 'Extractio in libro Nasonis vel Ovidii... de remedio amoris', composed around ?.
+Authored work: '(Tabula super Ovidio Metamorphoseos)', composed around ?.
+Authored work: 'Libellus de brevibus sententiis editus a fr. Bartholomaeo de Sancto Concordio de Pisis Ordo Praed.', composed around ?.
+Authored work: 'Tabula ad inveniendum Pascha', composed around ?.
+Authored work: '(Chronica antiqua conv. S. Catharinae de Pisis "primo a fr. Bartholomaeo de S. Concordio breviter eius manu scripta")', composed around ?.
+Authored work: 'Sallusti Catilina et Iugurtha interprete Barth. de S. Concordio', composed around ..
+Authored work: 'Compendium moralis philosophiae ex libro Aegidii De Regimine Principum', composed around ..
+Source: http://www.treccani.it/enciclopedia/bartolomeo-da-san-concordio_(Dizionario-Biografico)/.

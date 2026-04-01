@@ -1,0 +1,10 @@
+PERSON: PETRUS de Troyes
+Also known as: Pierre de TROYES.
+Description: Hôte du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1410-1410%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège de Dormans-Beauvais : hôte ?.
+Source: LAMOP : Opération Charles VI (n° 2473) :.

@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS de Salmuro
+Also known as: Aegidius de SALMURO; Gilles de SAUMUR; E. de SALMURO.
+Description: Étudiant en théologie ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1290-1290%.
+Born in: Saumur ?.
+Diocese of origin: Diocèse d'Angers ?.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant en théologie ?.
+College affiliation: Collège de Sorbonne ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 29/04/2020)..

@@ -1,0 +1,10 @@
+PERSON: BERNARDUS de Sirri
+Also known as: Bernardus de SIRRI; Bernardus de CIRRI.
+Description: Chanoine d’Agen.
+Status: Incertain.
+Gender: male.
+Active during: %1491-1498%.
+Studied at: ?.
+Academic grades obtained: Bachelier in utroque ;.
+Ecclesiastical positions held: Chanoine d’Agen %1491-1498% ;; Chanoine de Saint-Caprais %1491-1494% ;; Recteur de Foulayronnes ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/05/2022)..

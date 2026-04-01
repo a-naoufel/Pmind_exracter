@@ -1,0 +1,9 @@
+PERSON: STEPHANUS Lavalon
+Also known as: Stephanus LAVALON.
+Description: Nonce pour le diocèse de Chalon.
+Status: Suppôt.
+Gender: male.
+Active during: %1446-1446%.
+Studied at: Paris (Nation de France) ..
+University functions: Paris (Nation de France : il reçoit l'office de nonce pour le diocèse de Chalon en (31 décembre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 09/01/2024..

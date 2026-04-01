@@ -1,0 +1,9 @@
+PERSON: IVO de Kaerlogen
+Also known as: Yves de KAERLOGEN.
+Description: Maître ?.
+Status: Maître.
+Gender: male.
+Active during: %1391-1391%.
+Studied at: Paris ..
+Academic grades obtained: Maître (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/03/2021..

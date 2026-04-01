@@ -1,0 +1,15 @@
+PERSON: THOMAS Tarterii
+Also known as: Thomas TARTERII; Thomas TARTIER; Thomas TARTRIER.
+Description: Chanoine de Saint-Symphorien de Reims.
+Status: Étudiant.
+Gender: male.
+Active during: %1381-1403%.
+Born in: Champagne ;.
+Diocese of origin: Diocèse de Reims ;.
+Studied at: Paris %1381-1385% ;.
+Academic grades obtained: Étudiant (Paris) %1381-1385% ;.
+College affiliation: Collège de Dormans-Beauvais : boursier %1381-1385% ?.
+Family relationships: Son parent est Pierre TARTIER ; Son parent est Geoffroy TARTIER ? Son parent est Aimery de DORMANS ? Son parent est Geoffroy de DORMANS ; Son parent est Pierre II de DORMANS ;.
+Ecclesiastical status: Diacre en ;; Prêtre en ;.
+Ecclesiastical positions held: Chanoine de Reims (Saint-Symphorien) en %1394-1403% ;; Curé de Reims (Saint-Thierry) en ;; Chapelain de la cathédrale de Reims ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 13/10/2024..

@@ -1,0 +1,18 @@
+PERSON: GUILLELMUS de Lauduno 2
+Also known as: Guillelmus de LAUDUNO; Guillaume de LAUDUN.
+Description: Archevêque de Toulouse.
+Status: Maître.
+Gender: male.
+Active during: %1300-1352%.
+Studied at: Paris ..
+Academic grades obtained: Licencié en théologie (Paris) ;.
+College affiliation: Couvent (dominicain) de Paris ..
+Family relationships: Son père est Guillaume de LAUDUN ;.
+Social origin: Noble ;.
+Religious order: O.P. : frère (dominicain) au couvent (dominicain) d'Avignon %1345-1352% ;.
+Ecclesiastical positions held: Archevêque de Vienne %1321-1327% ;; Archevêque de Toulouse %1327-1345%..
+University functions: Paris (Université : Lecteur des Sentences en %1313-1314% ;; Avignon (Lecteur du SacréPalais % -1320%) ;.
+Representation roles: Envoyé de JEAN XXII en Angleterre en ;; Envoyé de JEAN XXII au roi de France en avec Dominicus GRIMA, son successeur comme lecteur à la Curie ;.
+Authored work: '(Consultation des 13 Maîtres sur les quatres articles)', composed around ..
+Authored work: 'Vota quorundam magistrorum in theologia de Postilla super Apocalipsim fratris Petri Johannis Olivi', composed around %1318-1320%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 27/03/2020..

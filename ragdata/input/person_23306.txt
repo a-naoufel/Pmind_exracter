@@ -1,0 +1,11 @@
+PERSON: X Cordier parvus
+Also known as: CORDIER Parvus.
+Description: Clerc de Pierre Voleau.
+Status: Suppôt.
+Gender: male.
+Active during: %1484-1484%.
+Studied at: ?.
+Academic grades obtained: ?.
+College affiliation: Suppôt de la Sorbonne : clerc du Magister Petrus VOLEAU, de la Sorbonne ;.
+Family relationships: Son frère est le Magister Johannes CORDIER, de la Sorbonne ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 8/05/2018)..

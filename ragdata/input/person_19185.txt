@@ -1,0 +1,12 @@
+PERSON: GARINUS 1
+Also known as: GARINUS.
+Description: Amauricien.
+Status: Maître.
+Gender: male.
+Active during: %1210-1210%.
+Studied at: Paris avant %1210-1210%..
+Academic grades obtained: Maître ès arts (Paris) ?; Étudiant en théologie ;.
+Academic relationships: Son maître est Amaury de BENE. Son maître est Stephen LANGTON selon le témoignage de César de HEISTERBACH dans son Dialogus miraculorum : "et hic sacerdos audierat theologiam a magistro Stephano Archiepiscopo Cantuariensi" ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Prêtre de Corbeil ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/12/2015)..

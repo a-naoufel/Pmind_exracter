@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Gervaise
+Also known as: Guillemin GERVAISE.
+Description: Hôte du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1398-1405%.
+Born in: Champagne (Jouarre) ;.
+Diocese of origin: Diocèse de Meaux ;.
+Studied at: Paris %1398-1399%..
+Academic grades obtained: Étudiant (Paris) %1398-1399% ;.
+College affiliation: Collège de Dormans-Beauvais : hôte %1398-1399% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet 02/0/2022..

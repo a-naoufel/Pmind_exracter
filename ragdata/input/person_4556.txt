@@ -1,0 +1,10 @@
+PERSON: HAIMERICUS Marthes
+Also known as: Hemericus MARTHES.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris.
+Academic grades obtained: Étudiant (Paris) ?.
+Family relationships: Son frère est Petrus MARTHES ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 12/06/2022)..

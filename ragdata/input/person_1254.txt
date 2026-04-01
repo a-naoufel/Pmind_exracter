@@ -1,0 +1,10 @@
+PERSON: BELINUS de Champlico
+Also known as: Belin de CHAMPLICO; Belinus de CHANLIPTO; Belin de CHAMLICO; Belin de CHANLITO; Belin de CHANLICO; Belin de CHANLIPCO; Belin de CHAMPLIACO; Belin de CHAULICO; Belin de CHALITO; Belin de CHANILIPTO; Belin de CANTILPTO.
+Description: Médecin à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1325-1348%.
+Studied at: Paris, %1325-1326%..
+Academic grades obtained: Maître en médecine (Paris) %1325-1326%..
+Ecclesiastical positions held: Curé de Cliponville (Diocèse de Rouen) ;; Chanoine de Provins (Sainte-Marie-en-Val) %1336-1338% ;; Chanoine de Novare.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

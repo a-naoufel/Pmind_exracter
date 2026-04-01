@@ -1,0 +1,11 @@
+PERSON: PETRUS de Grogue
+Also known as: Petrus de GROGUE; Petrus de GROUGUES; Petrus de GRIGUET.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1494-1498%.
+Studied at: Paris %1494-1498%..
+Academic grades obtained: Bachelier en théologie (Paris) (le 27 janvier) ;; Docteur en théologie (Paris) (le 28 mars) ..
+Religious order: O.Clun. : moine clunisien.
+Religious functions: Candidat à des bénéfices à la collation de l'abbaye de Soissons (Saint-Médard de) ;; Candidat à des bénéfices à la collation des abbayes de Sainte-Colombe-lès-Sens (diocèse de Sens)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 19/02/2024)..

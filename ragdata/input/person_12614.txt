@@ -1,0 +1,11 @@
+PERSON: GUICHARDUS de SanctoRomano
+Also known as: Guischardus de SANCTOROMANO; Guischardus de SAINT-ROMAIN.
+Description: Licencié en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1427-1429%.
+Studied at: Paris (Collège de Cluny) %1427-1429%..
+Academic grades obtained: Licencié en théologie (Paris) ou ..
+College affiliation: Prior scolarium du collège de Cluny à Paris en ..
+Religious order: O.Clun. : moine clunisien..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 08/06/2022)..

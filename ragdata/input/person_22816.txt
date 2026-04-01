@@ -1,0 +1,9 @@
+PERSON: GRATIANUS Omnipotentis
+Also known as: Gratianus OMNIPOTENTIS.
+Description: Consul de Rome.
+Status: Extérieur.
+Gender: male.
+Active during: %1164-1164%.
+Born in: Italie (Latium : Rome ?)..
+Diocese of origin: Diocèse de Rome ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 20/01/2022..

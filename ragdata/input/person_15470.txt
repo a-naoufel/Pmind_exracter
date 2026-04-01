@@ -1,0 +1,11 @@
+PERSON: PETRUS La Sec
+Also known as: Petrus LA SEC.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1499-1499%.
+Born in: Normandie ?.
+Studied at: Paris %1499-1499%..
+Academic grades obtained: Étudiant en théologie (Paris) ..
+Religious order: 0.S.B. : moine bénédictin de l'abbaye de Jumièges (diocèse de Rouen)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 22/03/2024..

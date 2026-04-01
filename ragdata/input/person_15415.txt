@@ -1,0 +1,13 @@
+PERSON: CLAUDIUS Baudonis
+Also known as: Claudius BAUDONIS; Claudius BADONIS; Glaudius BOUDONIS.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1463-1471%.
+Born in: Berry ?.
+Diocese of origin: Diocèse de Bourges..
+Studied at: Paris %:1463-1471%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Bachelier en théologie (Paris) ? ;; Licencié en théologie (Paris) (6 février) ;; Maître en théologie (Paris) (16 septembre) ..
+Academic relationships: Son maître est Guillelmus de CASTROFORTI en ..
+University functions: Paris (Faculté de Théologie : Lecteur de la Bible en %1463) ;; Paris (Faculté de Théologie : Lecteur de la Bible en %1465 (31 août)) ;.
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 11/04/2021..

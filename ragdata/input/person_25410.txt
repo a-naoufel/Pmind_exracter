@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Boulengier
+Also known as: Guillermus BOULENGIER.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1492-1510%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;; Bachelier en droit canon ;.
+Ecclesiastical positions held: Chanoine de Reims %1492-1510% ;; Chanoine de Reims (Saint-Timothée) ;; Chanoine de Reims (Sainte-Nourrice) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 8/01/2019..

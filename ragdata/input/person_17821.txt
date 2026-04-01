@@ -1,0 +1,9 @@
+PERSON: CAROLUS Edouard
+Also known as: Carolus EDOUARD.
+Description: Nuntius pour la villa de Montreuil sur Mer.
+Status: Suppôt.
+Gender: male.
+Active during: %1481-1481%.
+Studied at: Paris (Nation de Picardie) ..
+University functions: Paris (Nation de Picardie : Nuntius pour la ville de MontreuilsurMer) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/03/2021)..

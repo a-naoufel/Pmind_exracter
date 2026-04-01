@@ -1,0 +1,12 @@
+PERSON: ODO Durden
+Also known as: Eudes DURDEN.
+Description: Boursier du Collège de Laon.
+Status: Étudiant.
+Gender: male.
+Active during: %1413-1413%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie) ;.
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Laon : boursier jusqu’en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 24/01/2024..

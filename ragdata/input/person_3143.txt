@@ -1,0 +1,28 @@
+PERSON: AEGIDIUS de Valle Scholarum
+Also known as: Gilles de MONTMIRAIL; Gilles du VALDESÉCOLIERS.
+Description: Maître en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1271-1288%.
+Born in: ?Champagne (Montmirail)..
+Diocese of origin: Diocèse de Soissons ?.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) ..
+College affiliation: Paris (Collège SainteCatherine)..
+Academic relationships: Son maître est Grégoire de BOURGOGNE..
+Religious order: Chanoineaugustin (Ordre du Val)..
+University functions: Paris (régent de SainteCatherine %1275-1276%)..
+Authored work: 'Sermons', composed around %1269-1270%.
+Authored work: 'Sermones 7 de Sanctis, ad Praedicatores', composed around ?.
+Authored work: 'Pour le dimanche des Rameaux', composed around à Saint-Paul..
+Authored work: 'Pour Pâques', composed around au Temple..
+Authored work: 'Pour le Vendredi Saint', composed around au Collèges Saint-Bernard..
+Authored work: 'Pour la fête de SaintJean', composed around .
+Authored work: 'Pour St. Philippe et St. Jacques', composed around .
+Authored work: 'Pour le 2e dimanche de l'Avent', composed around .
+Authored work: 'Pour le 25e dimanche après la Pentecôte', composed around .
+Authored work: 'Pour le jour de l'Épiphanie', composed around .
+Authored work: '(Sermon ?)', composed around ?.
+Authored work: '(Sermon ?)', composed around ?.
+Authored work: 'Principium ?', composed around ?.
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

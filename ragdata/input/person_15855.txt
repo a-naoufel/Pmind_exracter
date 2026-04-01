@@ -1,0 +1,9 @@
+PERSON: THOMAS de Bray
+Also known as: Thomas de BRAY.
+Description: Maître ès arts..
+Status: Maître.
+Gender: male.
+Active during: %1329-1333%.
+Born in: Angleterre..
+Studied at: Oxford avant ;; Paris (Nation Anglo-allemande) %1329-1333%..
+Academic grades obtained: Bachelier ès arts (Oxford) ;; Licencié ès arts (Paris) en mars ;; Maître ès arts (Paris) ..

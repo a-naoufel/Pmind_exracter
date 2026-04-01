@@ -1,0 +1,17 @@
+PERSON: PETRUS de Dacia 1
+Also known as: PETRUS de Dacia; Petrus de DACIA; Petrus GOTHENSIS; Petrus GOTLANDUS; Petrus de GOTLANDIA.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1261-1289%.
+Born in: Suède (Gotland)..
+Studied at: Paris (Studium generale dominicain), %1269-1270%..
+Academic grades obtained: É. (P), %1269-1270%..
+Religious order: O.P. (province de Dacie, couvent de Visby, île de Gotland)..
+Religious functions: Lecteur du couventdeSkänninge, ;; Prieur du couventdeVästerås, %1277-1279%;; Lecteur du couventdeVisby (Gotland), ;; Prieur du couventdeVisby (Gotland), %1286-1289%..
+Representation roles: Membre du Chapitregénéraldominicain de Bordeaux, ;; Membre du Chapitreprovincial de Dacie: à Århus, , Oslo, , Skänninge, ..
+Authored work: '[De gratia naturam ditante sive De virtutibus Christinae Stumbelensis]', composed around %1272-1281%.
+Authored work: '[Vita Christinae Stumbelensis]', composed around %1278-1288%.
+Authored work: '[Epistulae]: 32 lettres de PETRUS de Dacia, dont 15 adressées à CHRISTINE de Stommeln, 5 à elle-même et son entourage, 12 à divers correspondants; 12 on été publiées par Petrus de Dacia lui-même, qui les a insérées dans la [Vita Christinae Stumbelensis].', composed around %1269-1288%.
+Authored work: 'Sermo in dominica decima'.
+Source: ASZTALOS (M.), "Petrus de Dacia", dans Medieval Nordic Literature in Latin, BORGEHAMMAR (S.), FRIIS-JENSEN (K.), MORTENSEN (L.B.), OMMUNDSEN (A.), (MNLL); en ligne: https://wikihost.uib.no/medieval/index.php/Petrus_de_Dacia.

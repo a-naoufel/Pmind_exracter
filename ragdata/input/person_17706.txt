@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Berruier
+Also known as: Guillelmus BERRUIER; Guillermus BERRUIER.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1480-1480%.
+Born in: Touraine ?.
+Diocese of origin: Diocèse de Tours..
+Studied at: Paris %1480-1480%..
+Academic grades obtained: Bachelier en décret (Paris) 13 décembre ..
+Ecclesiastical status: Clerc du diocèse de Tours..
+University functions: Lecteur des Décrétales (1e année) à Paris le 13 décembre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 21/02/2022..

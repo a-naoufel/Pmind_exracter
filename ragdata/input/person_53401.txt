@@ -1,0 +1,15 @@
+PERSON: GERVASIUS Cicestrensis
+Also known as: Gervase of CHICHESTER.
+Description: Chanoine de Chichester.
+Status: Incertain.
+Gender: male.
+Active during: %1158-1197%.
+Born in: Angleterre..
+Studied at: ?.
+Academic grades obtained: Magister ?.
+Ecclesiastical status: Prêtre ordonné en ..
+Ecclesiastical positions held: Recteur de Basing (Berkshire) en ;; Recteur de Shelbourne (Berkshire) en %1158-1197% ;; Chanoine de Chichester %1165-1169% au moins ;.
+Authored work: 'Editio super Malachiam de ordinis sacerdotalis instructione', composed around ?.
+Authored work: 'Homiliae', composed around ?.
+Authored work: 'Versus de penitentia', composed around ?.
+Source: ODNB (A.M. DUGGAN) ;.

@@ -1,0 +1,36 @@
+PERSON: AEGIDIUS de Aurelianis 2
+Also known as: Aegidius de AURELIANIS; Gilles d'ORLEANS II.
+Description: Dominicain.
+Status: Incertain.
+Gender: male.
+Active during: %1272-1273%.
+Born in: Orléanais ?.
+Diocese of origin: Orléans ?.
+Studied at: ?.
+Academic relationships: Élève de Thomas ANGLICUS..
+Religious order: O.P. frère dominicain.
+Authored work: 'Sermon pour le dimanche avant la Toussaint', composed around (30 octobre) à Saint-Paul..
+Authored work: 'Sermon pour la Saint-Martin', composed around (11 novembre), au Béguinage..
+Authored work: 'Sermon pour le deuxième dimanche de l'octave de la Saint-Martin', composed around (20 novembre), à Saint-Leufroy..
+Authored work: 'Sermon pour la Sainte-Catherine', composed around (25 novembre), à Saint-Antoine..
+Authored work: 'Sermon pour le troisième dimanche de l'Avent', composed around (11 décembre), au Béguinage..
+Authored work: 'Sermon pour l'Épiphanie', composed around (6 janvier), à la Sainte-Chapelle..
+Authored work: 'Sermon pour la conversion de Saint Paul', composed around (25 janvier), à Saint-Antoine..
+Authored work: 'Sermon pour le dimanche avant la Purification', composed around (9 février), à Saint-Gervais..
+Authored work: 'Sermon pour le dimanche du Sexagésime', composed around (12 février), à Saint-Germainl'Auxerrois..
+Authored work: 'Sermon pour le dimanche du Quinquagésime', composed around (19 février), à Saint-Gervais..
+Authored work: 'Sermon pour le troisième dimanche du Carême', composed around (12 mars), à Saint-Gervais..
+Authored work: 'Sermon pour l'Annonciation', composed around (25 mars), à Saint-Antoine..
+Authored work: 'Sermon pour le dimanche de la Passion', composed around (26 mars), au Béguinage..
+Authored work: 'Sermon pour le jeudi saint', composed around (6 avril), à Saint-Gervais..
+Authored work: 'Sermon pour le vendredi saint', composed around (7 avril), à Saint-Gervais..
+Authored work: 'Sermon pour le samedi saint', composed around (8 avril), à Saint-Antoine..
+Authored work: 'Sermon pour le dimanche de Pâques', composed around (9 avril), à Saint-Gervais..
+Authored work: 'Sermon pour le deuxième dimanche après Pâques', composed around (23 avril), à Saint-Antoine..
+Authored work: 'Sermon pour l'Ascension', composed around (18 mai), à Saint-Antoine..
+Authored work: 'Sermon pour le sixième dimanche après Pâques', composed around (21 mai), à Saint-Gervais..
+Authored work: 'Sermon pour le sixième dimanche après Pâques', composed around (21 mai), à Saint-Gervais..
+Authored work: 'Sermon pour le troisième dimanche après la Pentecôte', composed around (18 juin), à Saint-Paul..
+Authored work: 'Sermon pour la Saint-Jean-Baptiste', composed around (24 juin), à Saint-Antoine..
+Authored work: '(Sermon perdu)', composed around ..
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

@@ -1,0 +1,10 @@
+PERSON: EBRARDUS de Saxonia
+Also known as: Everardus de SAXONIA; Everardus de SACSONIA; Everardus de SACZONIA.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1370-1371%.
+Born in: Saxe ?.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 29/06/2021..

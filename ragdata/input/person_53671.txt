@@ -1,0 +1,24 @@
+PERSON: HELINANDUS Frigidis Montis
+Also known as: Helinandus FRIGIDIS MONTIS; Hélinand de FROIDMONT.
+Description: Cistercien.
+Status: Maître.
+Gender: male.
+Active during: %1180-1229%.
+Born in: ?Picardie.
+Diocese of origin: Diocèse de Beauvais ?.
+Studied at: Paris ;; Toulouse..
+Academic grades obtained: Magister (Paris) ;.
+Social origin: Noble..
+Religious order: O.Cist. : moine cistercien de l’abbaye (cistercienne) de Froidmont..
+University functions: Paris (Maître enseignant les arts libéraux vers ?) ?; Toulouse (Maître en ?) ?.
+Authored work: 'Epistola ad Galterum clericum, de reparatione lapsi', composed around ?.
+Authored work: 'Sermons', composed around ?.
+Authored work: 'Commentarius in Apocalypsim', composed around ?.
+Authored work: 'Glossae in Exodum', composed around ?.
+Authored work: 'Liber de commendatione Sancti Bernardi', composed around ?.
+Authored work: 'Vers de la mort', composed around %1194-1197%.
+Authored work: 'Passio sanctorum Gereonis, Victoris, Cassii et Florentii Thebaeorum martyrum', composed around ?.
+Authored work: 'De cognitione sui', composed around ?.
+Authored work: 'Chronicon Universale', composed around %1211-1223% ?.
+Authored work: 'De bono regimine principis', composed around ?.
+Source: A bibliography of Helinand of Froidmont, par Hans VOORBIJ et Mauritius WOESTHUIS :.

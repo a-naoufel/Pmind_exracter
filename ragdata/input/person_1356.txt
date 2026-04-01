@@ -1,0 +1,8 @@
+PERSON: BERNARDUS Blondelli
+Also known as: Bernardus BLONDELLI.
+Description: Chevalier du guet.
+Status: Extérieur.
+Gender: male.
+Active during: %1367-1367%.
+Studied at: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/03/2024..

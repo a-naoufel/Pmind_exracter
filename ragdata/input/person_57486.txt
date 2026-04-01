@@ -1,0 +1,10 @@
+PERSON: STEPHANUS de Alvernia
+Also known as: Stephanus de ALVERNIA.
+Description: Chanoine de Gournay-en-Bray.
+Status: Maître.
+Gender: male.
+Active during: %1267-1267%.
+Studied at: Paris ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Gournay-en-Bray en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/02/2024)..

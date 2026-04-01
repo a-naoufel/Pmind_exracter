@@ -1,0 +1,9 @@
+PERSON: GARCILIUS Mercatoris
+Also known as: Garcilius MERCATORIS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1416-1416%.
+Academic grades obtained: Maître ès arts (Paris) en ;.
+University functions: Paris (Faculté de Théologie : il est l'un des maîtres ès arts témoins de l'enregistrement du rotulus des signataires en du document dans lequel la Faculté de théologie condamne les neuf propositions de Johannes PARVI à la demande du roi entre le 29 août et le 16 octobre ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 06/06/2022..

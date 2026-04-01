@@ -1,0 +1,12 @@
+PERSON: RASSO de Merlieun
+Also known as: Rasset de MERLIEUN.
+Description: Boursier du Collège de Laon.
+Status: Étudiant.
+Gender: male.
+Active during: %1407-1407%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie) ;.
+Academic grades obtained: Étudiant ès arts (Paris) ;.
+College affiliation: Collège de Laon : boursier ès arts ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 24/01/2024..

@@ -1,0 +1,13 @@
+PERSON: BALDUINUS de Eine
+Also known as: Balduinus de EINE.
+Description: Chanoine de Tournai.
+Status: Incertain.
+Gender: male.
+Active during: %1266-1285%.
+Born in: Flandre (Eine) ;.
+Diocese of origin: Diocèse de Tournai..
+Studied at: ?.
+Academic grades obtained: Magister attesté en ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Parsona de Eine ;; Chanoine de Tournai %1266-1285% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/05/2017..

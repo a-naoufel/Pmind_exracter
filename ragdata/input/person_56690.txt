@@ -1,0 +1,24 @@
+PERSON: PETRUS Cantor
+Also known as: Petrus CANTOR; Pierre le CHANTRE; Pierre de HODENC.
+Description: Chantre de Notre-Dame de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1140-1197%.
+Born in: Picardie (Hodenc-en-Bray ?) ;.
+Diocese of origin: Diocèse de Beauvais ?.
+Studied at: Reims, école cathédrale ;; Paris..
+Academic grades obtained: Maître en théologie (Paris) après ..
+Family relationships: Son parent est peut-être Raoul de HODENC..
+Academic relationships: Son maître est Albéric de REIMS ? Son élève est Robert de COURSON ; Son élève est Stephen LANGTON..
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Reims avant ;; Chanoine de Paris (Notre-Dame) ;; Chantre de Paris (Notre-Dame) ;; Doyen de Reims ..
+University functions: Paris (Maître enseignant la théologie)..
+Authored work: 'Glossa in totum Vetus ac Novum Testamentum', composed around ?.
+Authored work: 'Glossae in cantica canticorum', composed around ?.
+Authored work: 'Summa Abel', composed around Vers 1187-1197 ?.
+Authored work: 'Summa de sacramentis et animae consiliis', composed around ?.
+Authored work: 'Verbum abbreviatum', composed around ?.
+Authored work: 'De tropis loquendi', composed around ?.
+Authored work: 'De penitentia', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Source: ARLIMA, Laurent BRUN :.

@@ -1,0 +1,8 @@
+PERSON: NICOLAUS Le Libraire
+Also known as: Nicolaus LELIBRAIRE.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1299-1299%.
+Studied at: Paris %1292-1300%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/10/2023..

@@ -1,0 +1,10 @@
+PERSON: AEGIDIUS Le Dent
+Also known as: Gilles LE DENT; Aegidius DANTIS.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1393-1396%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant ?.
+College affiliation: Boursier au collège de Dormans-Beauvais %1393-1396%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 05/05/2020)..

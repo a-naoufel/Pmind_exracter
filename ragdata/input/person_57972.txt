@@ -1,0 +1,11 @@
+PERSON: PETRUS Juglerii
+Also known as: Petrus JUGLERII; Petrus JULHERII; Pierre JUGLER.
+Description: Procureur du collège d’Autin.
+Status: Maître.
+Gender: male.
+Active during: %1398-1450%.
+Studied at: Paris %1449-1450%..
+Academic grades obtained: Maître (Paris) en ;.
+College affiliation: Collège d'Autun : écolier en ;; Collège d'Autun : procureur %1449-1450% ;.
+Ecclesiastical status: Prêtre ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

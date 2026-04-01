@@ -1,0 +1,17 @@
+PERSON: ANSELMUS Turmeda
+Also known as: Anselme TURMEDA; ABDALLAH ibn ´Abd Allāh al-Mayūrqī al-Tarǧumān.
+Description: Franciscain.
+Status: Extérieur.
+Gender: male.
+Active during: %1376-1432%.
+Born in: Baléares (PalmadeMajorque)..
+Studied at: Lérida (Faculté des Arts) à partir de .; Bologne %1376-1386% ;; ?Paris..
+Social origin: Commun : il appartient à une famille bourgeoise..
+Religious order: Franciscain au couvent (franciscain) de Montblanch (province de Tarragone)..
+Authored work: 'Libre de bons estaments', composed around ..
+Authored work: 'Cobles de la divisio', composed around ..
+Authored work: 'Prophéties', composed around ?.
+Authored work: '(Disputa de l'ase contra frare Encelm Turmeda sobre la natura e nobleza dels animals', composed around ..
+Authored work: 'Tuhfat al arab fi-l-radd ala ahl absalib', composed around ?.
+Authored work: 'Libre de Tres', composed around ?.
+Source: http://data.bnf.fr/12015224/_abd_allah_ibn__abd_allah_al-mayurqi_al-_targuman/.

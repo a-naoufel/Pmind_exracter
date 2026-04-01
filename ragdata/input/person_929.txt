@@ -1,0 +1,13 @@
+PERSON: ARNALDUS de Tricht 2
+Also known as: Arnold de TRICHT.
+Description: Professeur de médecine à Erfurt.
+Status: Maître.
+Gender: male.
+Active during: %1417-1430%.
+Born in: Pays-Bas..
+Diocese of origin: Diocèse d'Utrecht..
+Studied at: Paris (Nation Anglo-allemande) %1417-1418% ;; Heidelberg %1418-1419% ;; Rostock %1422-1430%.; Erfurt ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Heidelberg) ;; Docteur en médecine (Rostock) ;.
+Ecclesiastical positions held: Prévôt d'Utrecht (St.Jean-Baptiste) ;; Trésorier d'Utrecht (St.Jean-Baptiste) ;; Chanoine d'Utrecht (Notre-Dame) ;; Trésorier d'Utrecht (Notre-Dame) ;.
+University functions: Rostock (Faculté des Arts ; doyen %1425-1426%) ;; Rostock (Université de Rostock : recteur %1429-1430%) ;; Erfurt (Professeur de médecine en )..
+Source: RAG ;.

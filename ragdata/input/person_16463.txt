@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS de Monteguy
+Also known as: Aegidius de MONTEGUY.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1380-1380%.
+Born in: Picardie..
+Diocese of origin: Diocèse de Laon..
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris), sans qu'il précise la faculté en ..
+Ecclesiastical positions held: Candidat à un bénéfice à la collation de l'évêque, du doyen et du chapitre de l'église de Laon en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 29/04/2020)..

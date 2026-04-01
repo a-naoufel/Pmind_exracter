@@ -1,0 +1,13 @@
+PERSON: BALTHASAR de Cordes
+Also known as: Balthasar de CORDES.
+Description: Archidiacre de Valenciennes.
+Status: Étudiant.
+Gender: male.
+Active during: %1492-1528%.
+Studied at: Paris ;.
+Academic grades obtained: Padoue.; Étudiant (Paris) ;; Étudiant (Padoue) ;; Maître ;.
+Family relationships: Son père est Jean de CORDES ; Sa mère est Marguerite TESTELIN ; Sa fille est Charlotte de CORDES ?.
+Ecclesiastical status: Clerc en ;; Sous-diacre en ;.
+Ecclesiastical positions held: Archidiacre de Valenciennes %1492-1528% ;; Chanoine de Cambrai %1495-1502% ;; Chanoine de Tournai %1510- % ;; Archidiacre de Gand %1510- % ;.
+Other ecclesiastical functions: Official de Cambrai %1513-1514% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/12/2025)..

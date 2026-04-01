@@ -1,0 +1,12 @@
+PERSON: NICOLAUS Peyer
+Also known as: Nicolaus PEYER; Nicolaus PEIR; Nicolaus PAYGER; Nicolaus de ULMA.
+Description: ?Docteur en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1471-1472%.
+Born in: Ulm..
+Diocese of origin: Diocèse de Constance..
+Studied at: Paris %1471-1472%..
+Academic grades obtained: ?Maître ès arts (Paris) %1471-1472% ;; ?Docteur en médecine ..
+University functions: Procureur de la nation allemande de l'université de Paris en %1471-1472%..
+Authored work: 'De modo regendi in tempore pestilentie', composed around ?.

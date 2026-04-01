@@ -1,0 +1,12 @@
+PERSON: STEPHANUS Hugoneti
+Also known as: Stephanus HUGONETI.
+Description: Chanoine de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1315-1318%.
+Studied at: ?.
+Academic grades obtained: Docteur en droit canon ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Rodez ;; Chanoine de Mende %1315-1316% ;.
+Other ecclesiastical functions: Vicaire de Rodez ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 20/05/2022..

@@ -1,0 +1,11 @@
+PERSON: DAVID Tournebus
+Also known as: David TOURNEBUS.
+Description: Bénédictin.
+Status: Gradué.
+Gender: male.
+Active during: %1499-1499%.
+Born in: Normandie ?.
+Studied at: Paris %1499-1499%..
+Academic grades obtained: Bachelier en théologie (Paris) ..
+Religious order: O.S.B. : moine bénédictin de l'abbaye de Jumièges (diocèse de Rouen)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 8/04/2021)..

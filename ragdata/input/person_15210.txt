@@ -1,0 +1,11 @@
+PERSON: THEODERICUS Jacobi
+Also known as: Thierry JACOBI.
+Description: Etudiant en médecine..
+Status: Étudiant.
+Gender: male.
+Active during: %1394-1398%.
+Born in: Pays-Bas (Hollande : Delft) ;.
+Diocese of origin: Diocèse d'Utrecht ?.
+Studied at: Paris (Nation Anglo-allemande) %1394-1398%..
+Academic grades obtained: Étudiant en médecine (Paris) %1397-1398% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux : Jean-Philippe Genet, dernière mise à jour 30/09/2024)..

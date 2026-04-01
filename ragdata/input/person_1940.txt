@@ -1,0 +1,10 @@
+PERSON: DINUS de Radicofani
+Also known as: DINUS; Dino di RADICOFANI.
+Description: Patriarche de Grado.
+Status: Extérieur.
+Gender: male.
+Active during: %1332-1336%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Patriarche de Grado %1332-1336%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/05/2021)..

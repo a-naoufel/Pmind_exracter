@@ -1,0 +1,11 @@
+PERSON: BLASIUS Grantjehan
+Also known as: Blasius GRANTJEHAN.
+Description: Bachelier Décret.
+Status: Gradué.
+Gender: male.
+Active during: %1490-1490%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Nevers..
+Studied at: Paris %1490-1490%..
+Academic grades obtained: Bachelier en décret (Paris) (le 21 mai) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (dernière mise à jour, Jean-Philippe Genet, 23/03/2021)..

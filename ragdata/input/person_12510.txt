@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Cristiani
+Also known as: Guillelmus CRISTIANI; Guillelmus CHRISTIANUS.
+Description: Bénédictin.
+Status: Gradué.
+Gender: male.
+Active during: %1385-1412%.
+Studied at: Paris %1387-1389%?..
+Academic grades obtained: Bachelier en théologie (Paris) ;; ?Docteur en théologie (Paris) ..
+Religious order: O.S.B. : moine bénédictin du monastère de Tournai (Saint-Martin)..
+Religious functions: Prévôt de Tournai (Saint-Martin) vers ;; Abbé (bénédictin) de Marchiennes entre %1389-1412% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 04/03/2022..

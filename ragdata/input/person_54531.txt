@@ -1,0 +1,12 @@
+PERSON: HENRICUS de Crisseio
+Also known as: Henricus de CRISSEIO; Henri de CRISSEY.
+Description: Maître.
+Status: Incertain.
+Gender: male.
+Active during: %1400-1400%.
+Studied at: ?.
+Academic grades obtained: Maître ?.
+Authored work: 'Principia grammaticae', composed around ?.
+Authored work: '‘Glossae in Iohannis Ioscii de Marvilla ‘Carmen de modis significandi’', composed around ?.
+Authored work: 'Obiectiones grammaticae', composed around ?.
+Source: MIRABILE, Andrea CENCINI :.

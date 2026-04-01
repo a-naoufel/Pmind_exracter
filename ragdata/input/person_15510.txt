@@ -1,0 +1,13 @@
+PERSON: PETRUS de Morcort
+Also known as: Petrus de MORCORT.
+Description: Clunisien.
+Status: Étudiant.
+Gender: male.
+Active during: %1373-1376%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse d'Amiens ?.
+Studied at: Paris (Collège de Cluny) %1373-1386%..
+Academic grades obtained: Étudiant en logique (Paris) %1373-1386%..
+College affiliation: Etudiant au collège de Cluny à Paris en ..
+Religious order: O.S.B. : moine clunisien du prieuré de Lihons-en-Santerre (diocèse d'Amiens) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 26/02/2024)..

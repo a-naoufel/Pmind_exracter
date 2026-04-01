@@ -1,0 +1,10 @@
+PERSON: SIMON Walengeler
+Also known as: Simon WALENGELER; Simon VALENGELER.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant ?.
+Family relationships: Son parent est (peut-être) Johannes WALENGELER qui s’est acquitté de la taxe en même temps que lui ; Son parent est (peut-être) X. WALENGELER qui s’est acquitté de la taxe en même temps que lui ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 2/09/2016..

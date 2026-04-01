@@ -1,0 +1,11 @@
+PERSON: PETRUS Vasselon
+Also known as: Petrus VASSELON.
+Description: Écolier du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1398-1398%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) en ;.
+College affiliation: Collège d’Autun : écolier ;.
+Ecclesiastical status: Prêtre ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

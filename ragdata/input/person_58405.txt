@@ -1,0 +1,9 @@
+PERSON: ANCELLUS de Garlandia 1
+Also known as: Ancellus de GARLANDIA; Anselmus de GARLANDIA; Anseau de GARLANDE.
+Description: Sénéchal de France.
+Status: Extérieur.
+Gender: male.
+Active during: %1090-1118%.
+Born in: Île-de-France..
+Social origin: Noble :.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 14/01/2025..

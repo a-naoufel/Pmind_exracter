@@ -1,0 +1,41 @@
+PERSON: ALANUS Chartier
+Also known as: Alanus CHARTIER; Alain CHARTIER.
+Description: Secrétaire royal.
+Status: Maître.
+Gender: male.
+Active during: %1414-1429%.
+Born in: Normandie (Bayeux)..
+Studied at: Paris (Nation de Normandie)..
+Academic grades obtained: Maître ès arts (Paris)..
+Family relationships: Son père est Jean CHARTIER, bourgeois de Bayeux ; Son frère est Guillaume CHARTIER, Evêque de Paris ; Son frère est Thomas CHARTIER, historiographeroyal..
+Social origin: Commun (bourgeoisie)..
+Ecclesiastical positions held: Curé de Saint-Lambert-des-Levées (Diocèse d'Auxerre) ;; Chanoine de Tours ..
+Representation roles: Fonctions diplomatiques :; Il est envoyé en Allemagne vers l'Empereur SIGISMOND, pour obtenir un secours ou une intervention en faveur de la paix en : il semble qu'il l'a rejoint en Hongrie, et c'est à Buda qu'il aurait prononcé sa harangue aux Hussites ; son ambassade se continue en Italie par Roma vers le pape MARTIN V et par Venise, avec peut-être un prolongement vers Milan ;; Il est envoyé vers PHILIPPE le Bon, duc de Bourgogne, toujours à la recherche de la paix en ;; Il est envoyé en Écosse pour renouveler les alliances et négocier le mariage du jeune dauphin LOUIS, futur LOUIS XI avec Marguerite d'ÉCOSSE en (Traité de Perth) ;; Mission à Avignon en au cours de laquelle il meurt..
+Authored work: '(Lettre à son frère)', composed around ?.
+Authored work: 'Débat des deux fortunés d'amour (Débat du gras et du maigre)', composed around ?%1412-1413%., dedicated to ?Adressé à Jean de GRAILLI, Comte de Foix qui est censé être l'arbitre..
+Authored work: 'Le lai de plaisance', composed around ?%1413-1414%.
+Authored work: '(23 Rondeaux)', composed around ?%1413-1414%..
+Authored work: '(5 Ballades)', composed around ?%1413-1414%..
+Authored work: 'Le livre des quatre dames', composed around %1415-1416%..
+Authored work: 'Complainte contre la mort de sa dame', composed around ?..
+Authored work: 'La belle dame sans merci', composed around ..
+Authored work: 'L'excusacion envers les Dames', composed around ..
+Authored work: 'Le Bréviaire des Nobles', composed around ..
+Authored work: 'Débat de réveille-matin', composed around ..
+Authored work: 'Invectiva ad invidum et detractorem', composed around ?..
+Authored work: 'Invectiva ad ingratum amicum', composed around ?..
+Authored work: '(Discours à Charles VI sur les libertés de l'Eglise)', composed around ?, dedicated to Adressé à CHARLES VI..
+Authored work: '(Lettre à l'Université de Paris)', composed around ca.%1418-1419% ?, dedicated to Adressé à l’Université de Paris..
+Authored work: 'Le quadrilogue invectif', composed around .
+Authored work: 'Ad detestacionem belli gallici et suasionem pacis', composed around (janvier)..
+Authored work: '(Le Débat patriotique) Le Debat du Herault, du Vassault et du Villain', composed around ?..
+Authored work: '(Premier discours de la mission d'Allemagne)', composed around ., dedicated to Adressé à SIGISMOND, roi des Romains..
+Authored work: '(Second discours de la mission d'Allemagne)', composed around ., dedicated to Adressé à SIGISMOND, roi des Romains..
+Authored work: 'Persuasio ad Pragenses in fide deviantes (Harangue aux Hussites)', composed around ., dedicated to /Adressé aux Hussites..
+Authored work: 'Le lay de paix', composed around .
+Authored work: 'Dialogus familiaris amici et sodalis super deploracione Gallice Calamitatis', composed around %1426-1427%?.
+Authored work: 'De Vita curiali', composed around ?., dedicated to ?Dédié à Guillaume CHARTIER selon certains manuscrits, mais Pascale BOURGAIN-HEMERYCK pense que l'oeuvre n'est dédiée à personne en particulier..
+Authored work: '(Discours au roi d'Écosse)', composed around ..
+Authored work: 'Le livre de l'Espérance ou consolation des trois vertus', composed around ?%1428-1429%.
+Authored work: '(Lettre sur Jeanne d'Arc)', composed around , dedicated to Adressé peut-être à Philippe-Marie VISCONTI, et non à l'Empereur SIGISMOND..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

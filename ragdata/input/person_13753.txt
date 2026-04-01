@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Nourry
+Also known as: Guillelmus de NOURRY; Guillaume de NOURRY; Guillaume de NOUROY.
+Description: Chirurgienjuré du Roi au Châtelet..
+Status: Suppôt.
+Gender: male.
+Active during: %1491-1515%.
+Studied at: Paris %1507-1515%..
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 07/04/2022..

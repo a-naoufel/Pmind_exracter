@@ -1,0 +1,10 @@
+PERSON: PETRUS de Cabanis
+Also known as: Petrus de CABANIS.
+Description: Archidiacre de Millau.
+Status: Incertain.
+Gender: male.
+Active during: %1279-1310%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical positions held: Archidiacre de Millau %1279-1310% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 21/05/2022..

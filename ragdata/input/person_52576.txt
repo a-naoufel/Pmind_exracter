@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Clementi
+Also known as: Nicolaus CLEMENTI; Nicolas CLÉMENT.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1375-1407%.
+Studied at: ?.
+Academic grades obtained: Maître ;; Bachelier en droit civil ;.
+Ecclesiastical positions held: Chanoine de Reims %1377-1407% ;; Chanoine de Laon %1381-1391% ;; Chanoine de Troyes %1389-1391% ;; Archidiacre de Troyes ;; Prévôt de Troyes ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/08/2021..

@@ -1,0 +1,10 @@
+PERSON: ELIAS Faber
+Also known as: Elias FABER.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Etudiant (Paris) ?.
+Family relationships: Son frère est Gerardus FABER ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 11/07/2021..

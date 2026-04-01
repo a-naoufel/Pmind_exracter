@@ -1,0 +1,10 @@
+PERSON: ROBERTUS Amiclas
+Also known as: Robert AMICLAS.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1140-1175%.
+Born in: Angleterre ?.
+Studied at: Paris ..
+Academic grades obtained: Magister (Paris) %1140-1165% au moins..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 06/04/2024..

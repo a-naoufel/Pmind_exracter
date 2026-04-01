@@ -1,0 +1,10 @@
+PERSON: PHILIPPUS de Vitry 1
+Also known as: Philippe de VITRY; Philippus de VITRIACO.
+Description: Maître parisien ?.
+Status: Maître.
+Gender: male.
+Active during: %1240-1240%.
+Studied at: ?Paris..
+Academic grades obtained: Maître ès arts ?.
+Authored work: 'Compendium librorum Aristotelis in naturali et morali philosophia et metaphysica sive compilatio', composed around ?.
+Source: MIRABILE :.

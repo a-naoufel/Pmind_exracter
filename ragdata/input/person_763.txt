@@ -1,0 +1,18 @@
+PERSON: ANSELMUS de Cumis
+Also known as: Anselmus de CUMIS; Anselme de CÔME; Anselmus de GUITTIS..
+Description: Maître bolonais.
+Status: Extérieur.
+Gender: male.
+Active during: %1335-1344%.
+Born in: Italie (Lombardie : Côme ?)..
+Studied at: Bologne..
+Academic grades obtained: Maître ès arts (Bologne ?)..
+University functions: Bologne (?Professeur)..
+Authored work: 'Quodlibetum', composed around (Bologne).
+Authored work: '(Glose sur Jean de Jandun : Utrum aeternis repugnet habere causam efficientem)', composed around ?.
+Authored work: 'Glossa in Guilhelmi de Anglia Utrum potentie anime sint eedem cum essentia anime realiter quaest. disp.)', composed around ?.
+Authored work: 'De intentione et remissione formarum', composed around ?.
+Authored work: 'Quaestio disputata. Probatur quod intellectus possibile possit simul intelligere plura ut plura', composed around à Bologne (Couvent des Dominicains)..
+Authored work: 'Quaest. disputata an elementa maneant in mixto', composed around à Bologne..
+Authored work: 'Quaestio de habitu', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet et Claire Priol, dernière mise à jour 17/07/2015)..

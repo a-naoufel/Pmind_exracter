@@ -1,0 +1,23 @@
+PERSON: ROFREDO Epifanio
+Also known as: Rofredo EPIFANIO.
+Description: Professeur à Naples.
+Status: Extérieur.
+Gender: male.
+Active during: %1200-1243%.
+Born in: Italie (Campanie : Benevento)..
+Diocese of origin: Diocèse de Bénévent ?.
+Studied at: Bologne ;; Arezzo ;; Naples ;.
+Academic grades obtained: Maître (Bologne)..
+Social origin: Noble ?.
+Other ecclesiastical functions: Conseiller juridique de la papauté à partir de ..
+University functions: Bologne (professeur jusqu’en ) ;; Arezzo (professeur de droit à partir de ).; Naples (professeur)..
+Authored work: 'Quaestiones sabbatinae', composed around %1215-1219%.
+Authored work: 'De libellis et ordine judiciorum', composed around Vers %1220-1230% ?.
+Authored work: 'Libelli iuris canonici', composed around Vers ?.
+Authored work: 'Summula de pugna', composed around ?.
+Authored work: 'Quaestiones de facto emergente', composed around ?.
+Authored work: 'De actionibus', composed around ?.
+Authored work: '[Glossae sur le Corpus iuris civilis]', composed around ?.
+Authored work: 'Summa artis notariae', composed around ?.
+Authored work: 'Tractatus de positionibus', composed around ?.
+Source: DBI: Massimo GIANSANTE, 2017 ;.

@@ -1,0 +1,14 @@
+PERSON: STEPHANUS de Ulmonte
+Also known as: Éstienne d'ULMONT; Éstienne d'EULEMENT; Éstienne de URLEMONT; Étienne de VILLEMONT; Étienne de ULMONT.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1376-1378%.
+Born in: Champagne (Omont) ;.
+Diocese of origin: Diocèse de Reims ;.
+Studied at: Paris %1375-1378%..
+Academic grades obtained: Étudiant (Paris) %1376-1378%..
+College affiliation: Collège de Dormans-Beauvais : hôte ;; Collège de Dormans-Beauvais : boursier %1377-1378% ;.
+Family relationships: Son frère est Poncelet de VILLEMONT ; Son oncle est Jean d’ULMONT, chanoine de Rouen ; Son oncle est Raoul d’ULMONT, avocat au Parlement de Paris ;.
+Social origin: Noble ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 06/12/2019..

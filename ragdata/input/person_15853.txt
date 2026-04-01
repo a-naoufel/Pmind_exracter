@@ -1,0 +1,10 @@
+PERSON: ADAM Pluyette
+Also known as: Adam PLUYETTE.
+Description: Procureur de la Nation de France..
+Status: Maître.
+Gender: male.
+Active during: %1486-1489%.
+Studied at: Paris (Nation de France)..
+Academic grades obtained: Maître ès arts (Paris)..
+University functions: Paris (Nation de France : procureur en et en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 12/04/2020..

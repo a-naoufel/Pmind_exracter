@@ -1,0 +1,11 @@
+PERSON: PETRUS Quibleti
+Also known as: Petrus QUIBLETI.
+Description: Chanoine de Chalon.
+Status: Incertain.
+Gender: male.
+Active during: %1415-1415%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical positions held: Chanoine de Chalon ;; Archidiacre de Chalon ;.
+Representation roles: Présent au concile de Constance en comme procureur du chapitre de Chalon et procureur du comte de Savoie ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/05/2025..

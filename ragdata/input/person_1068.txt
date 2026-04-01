@@ -1,0 +1,10 @@
+PERSON: ARNULPHUS de Rivo
+Also known as: Arnulphus de RIVO.
+Description: Abbé de St-Germer-de-Fly.
+Status: Extérieur.
+Gender: male.
+Active during: %1351-1366%.
+Studied at: ?.
+Religious order: Bénédictin.
+Religious functions: Prieur 'bénédictin) de Saint-JeanduVivier % -1351% ;; Abbé (bénédictin) de St-Germer-de-Fly %1351- %..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet 17/11/2020..

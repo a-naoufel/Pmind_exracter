@@ -1,0 +1,20 @@
+PERSON: AMANDUS de Sancto Quintino
+Also known as: Amand de SAINT-QUENTIN.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1273-1301%.
+Born in: ?Picardie (Saint-Quentin)..
+Diocese of origin: Diocèse de Soissons ?.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris)..
+College affiliation: Couvent des Jacobins..
+Religious order: O.P. : frère dominicain..
+University functions: Paris (Couvent dominicain : lit les Sentences ?%1295-1298%) ;; Paris (Couvent dominicain : Régent %1299-1301%)..
+Authored work: '(Sermon pour le IVe dimanche de Carême)', composed around (19 mars) à la Madeleine..
+Authored work: '(Sermon pour le IVe dimanche après l'Épiphanie)', composed around (31 janvier)..
+Authored work: '(Sermon pour la Pentecôte)', composed around (10 juin)..
+Authored work: '(Sermo ante adventum domini)', composed around ?.
+Authored work: '(Sermo ad S. Gervasium post prandium)', composed around ? à Paris (Saint-Gervais)..
+Authored work: '(Sermo dominica VII, ad S. Gervasium post prandium)', composed around ? à Paris (Saint-Gervais)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

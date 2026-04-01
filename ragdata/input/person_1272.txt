@@ -1,0 +1,21 @@
+PERSON: BENEDICTUS Tancredi Perusinus
+Also known as: Benedictus TANCREDI Perusinus.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1318-1360%.
+Born in: Italie (Ombrie : Pérouse) ?.
+Diocese of origin: Diocèse de Pérouse ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Couvent (domincain) de Paris (Jacobins) vers ?.
+Religious order: O.P. : frère dominicain..
+Religious functions: Prédicateurgénéral des Dominicains ..
+Ecclesiastical positions held: Evêque de Prischtina %1338-1344% ;; Evêque de Sorrente %1344-1348% ;; Evêque de Chioggia %1348-1353% ;; Evêque de Pola %1353-1360% ;.
+University functions: Gubbio (Couvent dominicain : lecteur %1330-1331%) ;; Sienne (Couvent dominicain : lecteur %1331-1332%)..
+Authored work: 'Compendium Biblie ad sensum litteralem fr. Benedicti ord. pred., episcopi Sorrensis', composed around %1344-1348%..
+Authored work: 'De penitentia', composed around ?.
+Authored work: 'Lectura super Sentencias', composed around ?.
+Authored work: 'Sermones recitabiles et predicabiles', composed around ?.
+Authored work: 'Collationes solemnes', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/03/2015).

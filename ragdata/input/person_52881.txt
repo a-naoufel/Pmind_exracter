@@ -1,0 +1,10 @@
+PERSON: SIMON 2
+Also known as: SIMON.
+Description: Chancelier de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1190-1208%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chancelier de Rouen %1190-1208% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 4/11/2021..

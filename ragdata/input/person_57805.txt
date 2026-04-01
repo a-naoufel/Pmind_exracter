@@ -1,0 +1,10 @@
+PERSON: CLAUDIUS Cadet
+Also known as: Claudius CADET.
+Description: Boursier du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1516-1516%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en décret (Paris) en ..
+College affiliation: Collège d’Autun : boursier en décret ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 06/06/2024..

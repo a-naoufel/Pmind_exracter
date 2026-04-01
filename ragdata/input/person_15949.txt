@@ -1,0 +1,11 @@
+PERSON: DESIDERIUS LeGueulx
+Also known as: Desiderius LEGUEULX.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1495-1495%.
+Born in: Lorraine.
+Diocese of origin: Diocèse de Verdun..
+Studied at: Paris %1495-1495%..
+Academic grades obtained: Bachelier en décret (Paris) (le 16 mars) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 15/05/2021..

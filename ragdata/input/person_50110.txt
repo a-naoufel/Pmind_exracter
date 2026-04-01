@@ -1,0 +1,11 @@
+PERSON: HENRICUS de Burmonte
+Also known as: Henricus de BURMONTE; Henri de BOURMONT.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1417-1420%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son parent est peut-être Simon de BOURMONT, bailli de Troyes ?.
+Ecclesiastical positions held: Chanoine de Reims %1417-1420% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 4/12/2019..

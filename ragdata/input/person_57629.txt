@@ -1,0 +1,11 @@
+PERSON: HUGO de Issiaco
+Also known as: Hugo de ISSIACO.
+Description: Abbé de Saint-Germain des Prés.
+Status: Extérieur.
+Gender: male.
+Active during: %1244-1247%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.S.B. : moine bénédictin ;.
+Religious functions: Abbé (O.S.B.) de Paris (Saint-Germain-des-Prés) %1244-1247%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/03/2024..

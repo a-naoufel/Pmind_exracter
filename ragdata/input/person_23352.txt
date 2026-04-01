@@ -1,0 +1,7 @@
+PERSON: GUILLELMUS Viguer
+Also known as: Guillermus VIGUER.
+Description: Tailleur de pierre.
+Status: Extérieur.
+Gender: male.
+Active during: %1481-1481%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/05/2018)..

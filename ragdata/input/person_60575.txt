@@ -1,0 +1,12 @@
+PERSON: NICOLAUS de Orbellis
+Also known as: Nicolaus de ORBELLIS.
+Description: O.F.M. observant.
+Status: Maître.
+Gender: male.
+Active during: %1420-1475%.
+Born in: Anjou-Maine (Angers ?).
+Diocese of origin: Diocèse d’Angers..
+Studied at: Angers ;; Paris, comme maître-régent à la Faculté de Théologie ;; Poitiers..
+Academic grades obtained: Maître en théologie (Angers ?) vers ;.
+Religious order: O.F.M. : frère franciscain de la province de Tours..
+University functions: Angers (lecteur de théologie au couvent franciscain) ;; Paris (Faculté de Théologie : lecteur de théologie au couvent franciscain observant) ;; Poitiers (Professeur de Théologie)..

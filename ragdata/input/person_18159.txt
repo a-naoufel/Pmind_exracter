@@ -1,0 +1,9 @@
+PERSON: HENRICUS Leonardi
+Also known as: Henricus LEONARDI.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1444-1444%.
+Studied at: Paris %1444-1444%..
+Academic grades obtained: Bachelier en décret (Paris) 24 janvier ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 04-06-2015..

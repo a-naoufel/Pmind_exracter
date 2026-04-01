@@ -1,0 +1,12 @@
+PERSON: FRANCISCUS de Cione Castelli
+Also known as: Franciscus de CIONE Castelli.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1308-1308%.
+Born in: Italie ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant ès arts (Paris).
+Authored work: 'Reportatio sur les Quaestiones supra librum Physicorum de Bartholomaeus de Brugis', composed around ..
+Authored work: 'Reportatio sur les Quaestiones supra De Anima de Bartholomaeus de Brugis', composed around ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 29/03/2020..

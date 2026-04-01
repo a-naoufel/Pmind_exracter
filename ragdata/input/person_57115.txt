@@ -1,0 +1,11 @@
+PERSON: HIERONYMUS Parentis
+Also known as: Jérôme PARENTIS.
+Description: Maître en théologie augustin.
+Status: Maître.
+Gender: male.
+Active during: %1488-1505%..
+Studied at: Paris..
+Academic grades obtained: Licencié en théologie (Paris) (19 février) ;; Maître en théologie (Paris) (26 novembre) ;.
+College affiliation: Couvent (augustin) de Paris (Grands-Augustins)..
+Religious order: O.E.S.A. : frère augustin..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 05/01/2023..

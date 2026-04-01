@@ -1,0 +1,9 @@
+PERSON: BENEDICTUS Fardelle
+Also known as: Benoit FARDELLE.
+Description: Chirurgien à Paris..
+Status: Incertain.
+Gender: male.
+Active during: %1301-1400%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 7/01/2021..

@@ -1,0 +1,11 @@
+PERSON: ARNALDUS Caprarii
+Also known as: Arnaldus CAPRARII; Arnaldus MIGLIORE.
+Description: Archevêque de Palerme.
+Status: Extérieur.
+Gender: male.
+Active during: %1361-1362%.
+Studied at: ?.
+Academic grades obtained: Maître en théologie ?.
+Religious order: O.F.M. : frère franciscain.
+Ecclesiastical positions held: Archevêque de Palerme %1361-1362%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 21/10/2020)..

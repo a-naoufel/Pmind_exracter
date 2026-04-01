@@ -1,0 +1,9 @@
+PERSON: MATTHAEUS Guidonis
+Also known as: Matthaeus GUIDONIS.
+Description: Bachelier ès arts ?.
+Status: Gradué.
+Gender: male.
+Active during: %1310-1310%.
+Studied at: Paris ?.
+Academic grades obtained: Bachelier ès arts ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 1/09/2021..

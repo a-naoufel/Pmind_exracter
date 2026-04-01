@@ -1,0 +1,12 @@
+PERSON: ARNALDUS de Trajecto
+Also known as: Arnoldus de TRAJECTO.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1385-1385%.
+Born in: Pays-Bas 'Utrecht) ?.
+Diocese of origin: Diocèse d'Utrecht ?.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+University functions: Paris (Nation Anglo-allemande : examinator ?)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe GENET 7/11/2020)..

@@ -1,0 +1,9 @@
+PERSON: ALELMUS de Cuisy
+Also known as: Alermus de CUISY.
+Description: Evêque de Meaux.
+Status: Extérieur.
+Gender: male.
+Active during: %1255-1267%.
+Studied at: ?.
+Ecclesiastical positions held: Evêque de Meaux %1255-1267%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 26/06/2020)..

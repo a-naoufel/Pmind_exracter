@@ -1,0 +1,9 @@
+PERSON: LAURENTIUS Ingemundi
+Also known as: LAURENTIUS Ingemundi; Laurentius INGEMUNDI.
+Description: Étudiant.
+Status: Incertain.
+Gender: male.
+Active during: %:1323:-1325%.
+Born in: Suède.
+Studied at: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Élisabeth MORNET 16/07/2018..

@@ -1,0 +1,13 @@
+PERSON: ROBERTUS Waguet 2
+Also known as: Robert WAGUET.
+Description: Boursier au collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1374-1410%.
+Born in: Ile-de-France ? ;.
+Diocese of origin: Diocèse de Soissons ;.
+Studied at: Orléans %1371-1374% ;; Paris %1377-1379% ;.
+Academic grades obtained: Bachelier en droit civil <5c> Étudiant (Paris) en %1377-1379% ;.
+College affiliation: Collège de Dormans-Beauvais : hôte ;; Collège de Dormans-Beauvais : boursier %1374-1378% ;.
+Family relationships: Son frère est Guillaume LEMOINE, boursier du Collège de Dormans-Beauvais en %1378-1381% ; Son frère est Pierre LEMOINE, boursier du Collège de Dormans-Beauvais en %1378-1381% ; Son oncle est Adam WAGUET de Villemntoir ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 06/12/2019..

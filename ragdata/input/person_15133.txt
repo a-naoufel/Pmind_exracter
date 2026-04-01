@@ -1,0 +1,9 @@
+PERSON: PETRUS Muri
+Also known as: Pierre MURI; Petrus MURI.
+Description: Écolier de la Faculté de médecine..
+Status: Étudiant.
+Gender: male.
+Active during: %1396-1397%.
+Studied at: Paris %1396-1397%..
+Academic grades obtained: Étudiant en médecine (Paris) %1396-1397%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 15/08/2016..

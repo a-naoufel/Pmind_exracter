@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Gersent
+Also known as: Guillelmus GERSENT.
+Description: Maître ?.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Maître (Paris) en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 17/08/2015..

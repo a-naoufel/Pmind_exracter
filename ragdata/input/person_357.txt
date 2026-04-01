@@ -1,0 +1,12 @@
+PERSON: ALBERTUS de Bohemia 2
+Also known as: Albert de BOHÊME; Albertus de ALTOCASTRO; Albertus de BOHEMIA; Albertus BOEMUS de Praga.
+Description: Recteur de l'Université de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1348-1355%.
+Born in: Bohême (Wischgrad)..
+Studied at: Paris (Nation Anglo-allemande) %1346-1355%..
+Academic grades obtained: Bachelier ès arts (Paris) .; Licencié ès arts (Paris) .; Maître ès arts (Paris)..
+Academic relationships: Son maître est Gautier de WARDLAW..
+University functions: Paris (Nation Anglo-allemande : Procureur en ) ;; Paris (Université : Recteur élu en (10 décembre)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/06/2020)..

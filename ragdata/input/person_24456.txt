@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Andreuin
+Also known as: Guillelmus ANDREUIN.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1403-1403%.
+Born in: Poitou ?.
+Diocese of origin: Diocèse de Poitiers ;.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant en décret (Paris) en ;.
+Ecclesiastical status: Prêtre du diocèse de Poitiers ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Magnus Rotulus (rotulus scolarium Parisiensum) de l’Université de Paris daté de (23 octobre) et présenté à BENOÎT XIII ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 20/02/2022..

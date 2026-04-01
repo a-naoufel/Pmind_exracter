@@ -1,0 +1,11 @@
+PERSON: INGERANNUS Le Maire
+Also known as: Enguerrand LE MAIRE.
+Description: Clerc de la chapelle du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1421-1422%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dormans-Beauvais : Clerc de la chapelle en %1421-1422% ;.
+Ecclesiastical positions held: Clerc de la chapelle du Collège de Dormans-Beauvais en %1421-1422% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 15/09/2022).

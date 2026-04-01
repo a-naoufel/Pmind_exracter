@@ -1,0 +1,9 @@
+PERSON: HENRICUS 7
+Also known as: HENRICUS.
+Description: Bedeau de la Nation de Normandie.
+Status: Suppôt.
+Gender: male.
+Active during: %1340-1340%.
+Studied at: Paris (Nation de Norrmandie) .; Paris (Nation de Normandie : bedeau) ;.
+University functions: Paris (Université : il est présent en (28 août) lors de la reddition du compte de la Sorbonne par Pierre de CROS ;; Inc. : ‘Primo venerabilis vir magister Petrus de Croso in theologia , provisor tunc domus magistrorum de Sorbona, red[d]idit compotum pro se et pro predecessoribus suis quasi de quinque annis de expensis et omnibus bonis factis et receptis pro predicta domo. Recipientes compotum ab eodem magistro Petro predicto fuerunt magistri Symo de Lombardia, substitutus domini rectoris Johannis de Bononya, venerabilis vir magister Johannes Idergen, magister theo[logie], quidam medicus 2 , Alanus de Villacollis, Johannes Moredas, Grimerus Bonifacii, Ulricus de Augusta, procuratores quatuor nacionum, Nicolaus de Chesin pedellus Gallicorum , Heinricus pedellus Normannorum, Chunradus et Giliginus Anglicorum bedelli etc.’ ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 02/01/2025)..

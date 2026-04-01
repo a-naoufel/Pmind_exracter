@@ -1,0 +1,10 @@
+PERSON: ROBERTUS Fabri 2
+Also known as: Robertus FABRI.
+Description: Chanoine de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1360-1363%.
+Studied at: ?.
+Academic grades obtained: Bachelier ès arts ;; Étudiant en droit canon depuis 3 ans en ;.
+Ecclesiastical positions held: Recteur d’Ingerville en ;; Chanoine de Cambrai (Saint-Géry) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 05/09/2024)..

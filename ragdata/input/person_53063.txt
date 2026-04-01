@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Mare
+Also known as: Guillelmus MARE.
+Description: Procureur de la Nation Anglo-allemande.
+Status: Maître.
+Gender: male.
+Active during: %1390-1390%.
+Studied at: Paris (Nation Anglo-allemande)..
+Academic grades obtained: Maître ès arts (Paris) ;.
+University functions: Paris (Nation Anglo-allemande : procureur en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 7/12/2021..

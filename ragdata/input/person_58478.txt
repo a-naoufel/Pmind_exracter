@@ -1,0 +1,11 @@
+PERSON: FRANCISCUS de Sancto Michaele
+Also known as: Franciscus de SANCTO MICHAELE; Franciscus de SANCTO MYCHAELE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1371-1373%.
+Studied at: Paris (Nation de France) %1371-1373%..
+Academic grades obtained: Maître ès arts (Paris) en ..
+Academic relationships: Son élève est Johannes de BERKA pour la licence en ;.
+University functions: Paris (Nation de France : il participe en (6 mai) à une réunion sur la rémunération du curé de Paris (Saint-Nicolas-du-Chardonet) pour des messes dites en l’absence du chapelain, alors à Rome) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 29/12/2024)..

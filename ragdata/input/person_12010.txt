@@ -1,0 +1,8 @@
+PERSON: THOMAS de Breban
+Also known as: Thomas de BREBAN.
+Description: Époux d’une propriétaire de maison.
+Status: Extérieur.
+Gender: male.
+Active during: %1286-1300%.
+Studied at: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 15/11/2019..

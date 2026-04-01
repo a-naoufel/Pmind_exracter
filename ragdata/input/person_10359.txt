@@ -1,0 +1,55 @@
+PERSON: PETRUS de Alvernia 2
+Also known as: Petrus de ALVERNIA; Pierre d'AUVERGNE; Pierre de CROC; Petrus de CROSO.
+Description: Évêque de Clermont.
+Status: Maître.
+Gender: male.
+Active during: %1270-1304%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse de Clermont ?.
+Studied at: Paris %1270-1304%..
+Academic grades obtained: Maître ès arts (Paris) avant ?; Licencié en théologie (Paris) ?; Maître en théologie (Paris) ?.
+Ecclesiastical positions held: Chanoine de Clermont %1296-1304% ;; Expectative pour un canonicat de Paris (Notre-Dame) ;; Chanoine de Paris (Notre-Dame) %1298-1302% ;; Évêque de Clermont %1302-1304%..
+University functions: Paris (Université : recteur ) ;; Paris (Faculté de Théologie : Maître-régent %1296-1302%)..
+Representation roles: Il participe à l’assemblée de Paris en (13-14 juin) au cours de laquelle les prélats français accusèrent BONIFACE VIII d’hérésie et de simonie, en appelant au concile général ;.
+Authored work: 'Quodlibeta I-VI', composed around (Quodlibet I : 20 questions).
+Authored work: 'Quaestiones super logicam veterem Aristotelis. Quaestiones super librum Porphyrii', composed around ?.
+Authored work: 'Quaestiones super logicam veterem Aristotelis. Quaestiones super librum praedicamentorum', composed around ?.
+Authored work: 'Quaestiones super logicam veterem Aristotelis (3. Questiones super librum Perihermenias)', composed around ?.
+Authored work: 'Sophismata (XI)', composed around ?.
+Authored work: 'Quaestiones super Metaphysicam', composed around ?.
+Authored work: 'Quaest. grammaticae supra modos significandi', composed around ?.
+Authored work: 'Glossa cum quaestionibus in Doctrinale Alexandri de Villa Dei', composed around ?.
+Authored work: 'Quaestiones super libros Physicorum', composed around ?.
+Authored work: 'Expositio in libros III-IV De caelo et mundo', composed around ?.
+Authored work: 'Quaestiones supra librum De caelo et mundo', composed around ?.
+Authored work: '?Quaestiones super librum de generatione et corruptione', composed around ?.
+Authored work: 'Sententia super libros Meteororum', composed around ?.
+Authored work: 'Quaestiones super librum De sensu et sensato', composed around ?.
+Authored work: 'Quaestiones super librum de memoria et reminiscentia', composed around ?.
+Authored work: 'Quaestiones disputatae de Somno et Vigilia', composed around ?.
+Authored work: 'Sententia in librum de Somno et Vigilia', composed around ?.
+Authored work: 'Sententia super librum de longitudine et brevitate vitae', composed around ?.
+Authored work: 'Sententia super librum de juventute et senectute', composed around ?.
+Authored work: 'Sententia super librum De respiratione et inspiratione', composed around ?.
+Authored work: 'Sententia super librum De morte et vita', composed around ?.
+Authored work: 'Quaestiones super librum De motu animalium', composed around ?.
+Authored work: 'Sententia super librum De motu animalium', composed around ?.
+Authored work: 'Sententia super librum De vegetalibus et plantis', composed around ?.
+Authored work: 'Quaestiones supra librum Ethicorum', composed around ?.
+Authored work: 'Quastiones super libros Politicorum', composed around ?.
+Authored work: 'Scriptum super libros II-VIII Politicorum', composed around ?.
+Authored work: 'Quaestiones super librum Sex Principorium', composed around ?.
+Authored work: 'Quaestiones de universalibus', composed around ?.
+Authored work: 'Quaest. super Priora Analytica', composed around ?.
+Authored work: 'Quaest. super Posteriorum Analyticorum', composed around ?.
+Authored work: 'Tractatus de generatione syllogismorum', composed around ?.
+Authored work: 'Quaestiones super Sophisticos Elenchos', composed around ?.
+Authored work: 'Quaestiones in lib. De Causis', composed around ?.
+Authored work: 'Quaestiones super librum Meteororum', composed around ?.
+Authored work: 'Quaestiones super III de Anima', composed around ?.
+Authored work: 'Quaestiones super liber de Anima', composed around ?.
+Authored work: 'Quaestiones super librum De iuventute et senectute', composed around ?.
+Authored work: 'Quaestiones super libros De animalibus', composed around ?.
+Authored work: 'Scriptum super libro De inundatione Nili', composed around ?.
+Authored work: 'Super Physionomiam Aristotelis', composed around ?.
+Source: MIRABILE :.

@@ -1,0 +1,9 @@
+PERSON: PETRUS Ysero
+Also known as: Petrus YSERO.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1328-1329%.
+Studied at: Paris %1328-1329%..
+Academic grades obtained: Maître en médecine (Paris) %1328-1329% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 05/04/2024..

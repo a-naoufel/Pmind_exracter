@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Bauvyn
+Also known as: Guillermus de BAUVYN; Guillermus de BAUVIN.
+Description: Chanoine de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1481-1511%.
+Diocese of origin: Diocèse de Tournai ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son parent est Petrus de BAUVIN, clerc ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Cambrai %1481-1511%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 01/01/2026..

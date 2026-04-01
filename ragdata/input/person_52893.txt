@@ -1,0 +1,12 @@
+PERSON: ROBERTUS Rouel
+Also known as: Robertus ROUEL.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1472-1496%.
+Studied at: ?.
+Academic grades obtained: Licencié in utroque jure ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Rouen %1472-1475% ;; Curé du Pont-Authou depuis ;.
+Other ecclesiastical functions: Avocat à la cour de l’archevêque de Rouen ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 5/11/2021..

@@ -1,0 +1,12 @@
+PERSON: RICARDUS de Sappo
+Also known as: Ricardus de SAPPO.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1254-1269%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Curé de Berneville ;; Chanoine de Rouen %1254-1269% ;; Chanoine de Rouen (Saint-Candé) %1255- % ;; Chancelier de Rouen %1263-1267% ;; Archidiacre du Vexin-français %1269- % ;.
+Other ecclesiastical functions: Clerc de l’archevêque ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 8/11/2021..

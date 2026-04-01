@@ -1,0 +1,10 @@
+PERSON: ROBERTUS Duchapti
+Also known as: Robertus DUCHAPTI.
+Description: Boursier du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1463-1466%.
+Studied at: Paris %1463-1466%.
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège d'Autun : boursier en %1463-1466% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 04/09/2024..

@@ -1,0 +1,17 @@
+PERSON: PETRUS Lombardus
+Also known as: Petrus LOMBARDUS; Petrus LONGOBARDUS; Petro LOMBARDO.
+Description: Évêque de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1130-1160%.
+Born in: Italie (Lombardie : Lumellogno, près de Novare) ;.
+Diocese of origin: Diocèse de Novare ?.
+Studied at: Reims ;; Paris..
+Academic grades obtained: Maître en théologie (Paris) en ..
+Ecclesiastical status: Sous-diacre en .; Prêtre avant ?.
+Ecclesiastical positions held: Chanoine de Paris (Notre-Dame) avant ;; Archidiacre de Paris en ;; Évêque de Paris %1159-1160%..
+Authored work: 'Glossa in Psalmos', composed around %1130-1143% ?.
+Authored work: 'Glossa in Epistolas beati Pauli', composed around ?%1148-1159%.
+Authored work: 'Sententiae', composed around %1155-1158%..
+Authored work: 'Sermones', composed around ?.
+Source: http://magistersententiarum.com/home (les Sentences en ligne) ;.

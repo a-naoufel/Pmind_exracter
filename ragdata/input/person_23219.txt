@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Cournet
+Also known as: Guillelmus de COURNET; Guillelmus de TOURNET.
+Description: Nonce pour le diocèse de Béziers.
+Status: Suppôt.
+Gender: male.
+Active during: %1448-1448%.
+Born in: Lyonnais ;.
+Diocese of origin: Diocèse de Lyon..
+Studied at: Paris ..
+University functions: Paris (Nation de France : Nonce pour le diocèse de Béziers en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 21/03/2022..

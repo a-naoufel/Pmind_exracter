@@ -1,0 +1,11 @@
+PERSON: GALTERIUS Flandrensis
+Also known as: Galterius FLANDRENSIS.
+Description: Chanoine de Le Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1194-1200%.
+Born in: Flandre ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de LeMans %1194-1200% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 23/06/2023)..

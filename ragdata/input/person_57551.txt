@@ -1,0 +1,13 @@
+PERSON: ROBERTUS Anglicus 3
+Also known as: Robertus ANGLICUS; ROBERTUS grammaticus.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1275-1275%.
+Born in: Angleterre ?.
+Studied at: Paris ?.
+Academic grades obtained: Maître ès arts (Paris)..
+Authored work: 'Sententia de accentibus Prisciani', composed around XIIIe siècle ;.
+Authored work: 'Sophistria grammaticalis', composed around Seconde moitié du XIIIe siècle ;.
+Authored work: 'Lectura super Priscanum minorem', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 13/03/2024)..

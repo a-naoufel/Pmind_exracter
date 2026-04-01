@@ -1,0 +1,10 @@
+PERSON: MATTHAEUS Caufourarii
+Also known as: Matthaeus CAUFOURARII; Matthaeus CAUFFOURIER.
+Description: Chanoine d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1388-1416%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Curé de Villers-Saint-Paul ;; Chanoine d’Amiens %1398-1416% ;; Chanoinecamérier de Saint-Firmin ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/12/2021..

@@ -1,0 +1,8 @@
+PERSON: ANTHONIUS Geuffreau
+Also known as: Anthonius GEUFFREAU.
+Description: Bedeau de l'Université de Paris..
+Status: Suppôt.
+Gender: male.
+Active during: %1480-1480%.
+University functions: Bedeau de l'Université de Paris à partir du 28 juin ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tornieroux ; Jean-Philippe Genet, dernière mise à jour 6/10/2020..

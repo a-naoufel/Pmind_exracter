@@ -1,0 +1,10 @@
+PERSON: AMIANUS de Angliseya
+Also known as: Amianus de ANGLISEYA.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1329-1330%.
+Born in: Galles (Anglesey) ?.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Magister.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 23/07/2020)..

@@ -1,0 +1,12 @@
+PERSON: LANCELOTUS Mittelette
+Also known as: Lancelot MITTELETTE.
+Description: Écolier-boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1457-1463%.
+Born in: Île-de-France (Soissons) ;.
+Diocese of origin: Diocèse de Soissons ;.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) %1457-1463% ;.
+College affiliation: Collège de Dormans-Beauvais : écolier-boursier %1457-1463% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 19/08/2023)..

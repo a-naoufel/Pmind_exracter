@@ -1,0 +1,11 @@
+PERSON: MAURITIUS de Hibernia
+Also known as: Mauritius de HIBERNIA.
+Description: Procureur de la Nation Anglo-allemande.
+Status: Maître.
+Gender: male.
+Active during: %1275-1275%.
+Born in: Irlande ?.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+University functions: Paris (Nation Anglo-allemande : procureur en (7 mai)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/02/2024)..

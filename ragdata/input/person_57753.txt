@@ -1,0 +1,10 @@
+PERSON: IVO Magister
+Also known as: Magister YVO.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1150-1150%.
+Studied at: Paris..
+Academic grades obtained: Maître (Paris) ?.
+University functions: Paris : maître dont l’école apparaît dans la désignation de ROBERTUS, praepositus scolae magistri Yvonis, mentionné dans une lettre sans doute écrite en de Herbert de BOSHAM à Pierre LOMBARD ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/04/2024..

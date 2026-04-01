@@ -1,0 +1,11 @@
+PERSON: MICHAEL 6
+Also known as: MICHAEL.
+Description: Frère de l’ordre du premier ermite Saint-Paul.
+Status: Étudiant.
+Gender: male.
+Active during: %1411-1412%.
+Born in: Hongrie ;.
+Studied at: Paris ?; Padoue ?.
+Academic grades obtained: Étudiant en théologie (Paris) ?.
+Religious order: O.S.A. : Ordre des Frères du premier ermite Saint Paul..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour, 18/10/2024..

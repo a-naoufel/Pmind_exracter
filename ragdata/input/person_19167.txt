@@ -1,0 +1,12 @@
+PERSON: BALDUINUS Payen
+Also known as: Baude PAYEN.
+Description: Chapelain du collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1393-1396%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dormans-Beauvais : chapelain %1393-1396% ;.
+Ecclesiastical status: Prêtre..
+Ecclesiastical positions held: Chapelain du Collège de Dormans-Beauvais %1393-1396% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 4/12/2020..

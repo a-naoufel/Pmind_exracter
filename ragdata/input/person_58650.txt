@@ -1,0 +1,17 @@
+PERSON: HENRICUS de Aquila
+Also known as: Henricus de AQUILA.
+Description: Carme.
+Status: Étudiant.
+Gender: male.
+Active during: %1322-1345%.
+Born in: Allemagne..
+Studied at: Paris.; Cologne..
+Academic grades obtained: Étudiant en théologie (Paris) %1322-1324%..
+College affiliation: Couvent (carme) de Paris %1322-1324%..
+Religious order: O.Carm. : frère carme de la province (carme) d'Allemagne..
+University functions: Paris (Faculté de Théologie : lecteur au couvent (Carme) de Paris ?; Cologne (Faculté de Théologie : lecteur au couvent (Carme) de Cologne..
+Authored work: 'Commentum in librum Canticum Canticorum', composed around ?.
+Authored work: 'Contra Petrum de Crosalit', composed around ?.
+Authored work: 'Quaestiones ordinariae', composed around ?.
+Authored work: 'Quodlibeta', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

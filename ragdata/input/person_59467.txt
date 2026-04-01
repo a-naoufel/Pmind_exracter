@@ -1,0 +1,11 @@
+PERSON: CLAUDIUS de La Croix
+Also known as: Claude de LACROIX.
+Description: Adversaire du collège d’Autun dans un procès.
+Status: Extérieur.
+Gender: male.
+Active during: %1505-1521%.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son père est Geoffroy de LACROIX, Conseiller du roi ; Son épouse est Charlotte de PONCHER ; Sa soeur est Françoise de LACROIX..
+Social origin: Noble ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,12 @@
+PERSON: NICOLAUS Autin
+Also known as: Nicolaus AUTIN.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1432-1432%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Coutances ;.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en décret (Paris) en ;.
+Ecclesiastical status: Prêtre ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 11/10/2024..

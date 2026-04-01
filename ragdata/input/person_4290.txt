@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Louvignies
+Also known as: Guillelmus de LOUVIGNIES.
+Description: Abbé de Prémontré.
+Status: Maître.
+Gender: male.
+Active during: %1288-1305%.
+Studied at: Paris ..
+Academic grades obtained: Docteur en décret (Paris) ;.
+Religious order: O.Praem. : chanoinerégulier de Prémontré ;.
+Religious functions: Abbé (Prémontré) de Clairfontaine ;; Abbé (Prémontré) de Cuissy % -1288% ;; Abbé (Prémontré) de Prémontré %1288-1305% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 3/04/2020..

@@ -1,0 +1,11 @@
+PERSON: THOMAS de Bosco
+Also known as: Thomas de BOSCO.
+Description: Maître d’école.
+Status: Suppôt.
+Gender: male.
+Active during: %1437-1437%.
+Studied at: Paris..
+Academic grades obtained: ?.
+Ecclesiastical status: Prêtre..
+Ecclesiastical positions held: Vicaire de Paris (Saint-Merry)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/06/2024..

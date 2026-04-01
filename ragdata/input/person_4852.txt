@@ -1,0 +1,12 @@
+PERSON: HENRICUS de Altaripa
+Also known as: Henricus de ALTARIPA; Henricus de ALBARIPPA; Herveus de ALBARIPPA; Hugues de HAUTERIVE.
+Description: Bénédictin.
+Status: Maître.
+Gender: male.
+Active during: %1415-1424%.
+Studied at: Paris %:1415-1424%.
+Academic grades obtained: Bachelier Décret (Paris) ;; Licencié Décret (Paris) ..
+Religious order: O.S.B. : moine bénédictin de l'abbaye de Moûtiers-Saint-Jean dans le diocèse de Langres ;.
+Religious functions: Abbé de Moûtiers-Saint-Jean dans le diocèse de Langres ..
+University functions: Paris (Faculté de Décret: lecteur en (23 mars)) ;; Paris (Faculté de Décret: lecteur en (11 octobre) ;; Paris (Faculté de Décret: lecteur des Décrétales (L. V) en (21 février) pour la 5e année et le 5e volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 25/06/2022..

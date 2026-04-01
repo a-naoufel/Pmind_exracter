@@ -1,0 +1,12 @@
+PERSON: PETRUS Hostelin
+Also known as: Petrus HOSTELIN.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1444-1445%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Sens ;.
+Studied at: Paris (Nation de France) %1444-1445%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Karolus de LANVALLOYS pour le baccalauréat en ; Son maître est Johannes NORMANI pour la maïtrise en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 23/06/2023..

@@ -1,0 +1,10 @@
+PERSON: MAURITIUS Suecus
+Also known as: MAURICIUS Suecus; Mauricius SUECUS.
+Description: Bedeau.
+Status: Suppôt.
+Gender: male.
+Active during: %1327-1327%.
+Born in: ?Suède.
+Studied at: Paris (Nationanglaise), ..
+University functions: Bedeau de la Nationanglaise, ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 03/12/2018..

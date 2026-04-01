@@ -1,0 +1,11 @@
+PERSON: ALARDUS Alemannus
+Also known as: Alardus ALEMANNUS.
+Description: Licencié ès arts..
+Status: Gradué.
+Gender: male.
+Active during: %1345-1345%.
+Born in: Allemagne ?.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Licencié ès arts (Paris) ..
+College affiliation: Collège des Allemands ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 10/06/2020..

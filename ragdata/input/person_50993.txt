@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Le Bret
+Also known as: Guillelmus LE BRET; Guillaume LI BREZ.
+Description: Chanoine d’Auxerre.
+Status: Incertain.
+Gender: male.
+Active during: %1243-1290%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Auxerre %1243-1290% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/07/2020)..

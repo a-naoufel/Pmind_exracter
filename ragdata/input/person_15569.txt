@@ -1,0 +1,11 @@
+PERSON: ADAM de Monsteriolo
+Also known as: Adam de MONSTERIOLO.
+Description: Chanoine de Saint-Victor.
+Status: Maître.
+Gender: male.
+Active during: %1203-1203%.
+Studied at: ?Paris..
+Academic grades obtained: Magister..
+College affiliation: École de Saint-Victor ?.
+Religious order: Chanoineaugustin de Saint-Victor ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

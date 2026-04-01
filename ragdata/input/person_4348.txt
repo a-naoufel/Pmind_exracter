@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Piciaco
+Also known as: Guillemus de PICIACO; Guillemus de PYSSIACO; Guillaume de PIZY; Guillelmus de PICIARIO; Guillelmus de PISSIACO; Guillelmus de PISSYACO; Guillelmus de PONCIACO; Guillelmus de PYSSYACO.
+Description: Licencié en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1380-1388%.
+Studied at: Paris %1385-1388%..
+Academic grades obtained: Bachelier en théologie (Paris) ;; Licencié en théologie (Paris) ;.
+College affiliation: Couvent (augustin) de Paris (Grands-Augustins)..
+Religious order: O.E.S.A. : ermite de Saint Augustin du couvent (augustin) de Metz ;.
+University functions: Paris (Faculté de Théologie : lecteur des Sentences en ou ) :.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 19/12/2021..

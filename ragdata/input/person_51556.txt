@@ -1,0 +1,11 @@
+PERSON: PETRUS Fromengin
+Also known as: Pierre FROMENGIN.
+Description: Hôte du collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1447-1448%.
+Studied at: Paris %1447-1448%..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dormans-Beauvais : hôte en ;.
+Ecclesiastical positions held: Clerc intérimaire de la chapelle du Collège de Dormans-Beauvais en (du 16 août au 9 décembre) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 24/11/2020)..

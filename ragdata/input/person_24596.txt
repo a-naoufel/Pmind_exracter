@@ -1,0 +1,13 @@
+PERSON: GUIDO de Laval
+Also known as: Guy de LAVAL.
+Description: Chanoine régulier de Saint-Jean des Vignes de Soissons.
+Status: Étudiant.
+Gender: male.
+Active during: %1387-1389%.
+Born in: Picardie ;.
+Diocese of origin: Diocèse de Soissons ?.
+Studied at: Paris %1387-1389%..
+Academic grades obtained: Étudiant (Paris) %1387-1389% ;.
+College affiliation: Collège de Dormans-Beauvais : religieux boursier %1387-1389% ;.
+Ecclesiastical status: Prêtre du diocèse de Soissons ;.
+Religious order: O.S.A. : chanoinerégulier de Soissons (Saint-Jean des Vignes) ;.

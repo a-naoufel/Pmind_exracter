@@ -1,0 +1,11 @@
+PERSON: STEPHANUS Autissodoriensis
+Also known as: Stephanus AUTISSODORIENSIS.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1248-1248%.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris)..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère dominicain..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 18/03/2024..

@@ -1,0 +1,10 @@
+PERSON: HERVEUS de Lesungart
+Also known as: Herveus de LESUNGART.
+Description: Licencié en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1492-1492%.
+Studied at: Paris %1492-1492%..
+Academic grades obtained: Licencié en décret (Paris) 11 avril ;.
+Academic relationships: Son maître est Robertus TULLEU pour la licence en décret en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 11-06-2015..

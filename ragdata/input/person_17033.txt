@@ -1,0 +1,9 @@
+PERSON: ANTHONIUS Calerini
+Also known as: Anthonius CALERINI.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris..
+Academic grades obtained: Maître (Paris) en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet 18/09/2020..

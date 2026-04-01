@@ -1,0 +1,12 @@
+PERSON: DOMINICUS Geminiani
+Also known as: Dominicus GEMINIANI.
+Description: Docteur en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1450-1456%.
+Studied at: Paris %1450-1456%..
+Academic grades obtained: Bachelier en théologie sententiarius (Paris) ;; Licencié en théologie (Paris) (le 4 mars) ;; Docteur en théologie (Paris) (le 4 mars) ..
+College affiliation: Couvent (augustin) de Paris (Grands-Augustins) %1450-1456%..
+Religious order: O.E.S.A. : frère augustin.
+University functions: Paris (Faculté de théologie : lecteur en %1450-1451%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 10/06/2021)..

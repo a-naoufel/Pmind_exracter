@@ -1,0 +1,14 @@
+PERSON: CONRADUS de Hildesheim
+Also known as: Conradus de HILDESHEIM; Conrad de HILDESHEIM; Conradus de REISENBERG; Conradus de REIFENBERG.
+Description: Évêque d'Hildesheim..
+Status: Maître.
+Gender: male.
+Active during: %:1209-1249%.
+Born in: Rhénanie (Hesse : Reifenberg ?) ?.
+Studied at: Paris jusqu'en ..
+Academic grades obtained: Magister (Paris) avant ;.
+Social origin: Noble : il appartient à la famille de Reisenberg..
+Ecclesiastical positions held: Prévôt de Spire (chapitre cathédral), %1209-1216% ;; Écolâtre de Mayence, %1216-1221% ;; Évêque d'Hildesheim, %1221-1246%..
+University functions: Paris (magister enseignant la théologie à Paris )..
+Representation roles: Légat pour la croisade désigné par le pape HONORIUS III, ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/04/2021..

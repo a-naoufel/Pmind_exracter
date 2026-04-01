@@ -1,0 +1,12 @@
+PERSON: MATTHAEUS Le Sochon
+Also known as: Matthaeus LE SOCHON; Matthaeus SOUCHON.
+Description: Maître en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1420-1428%.
+Studied at: Paris %1422-1428%..
+Academic grades obtained: Bachelier en théologie cursor (Paris) ;; Licencié en théologie (Paris) (13 mars) ;; Maître en théologie (Paris) (29 octobre) ;.
+College affiliation: Collège de Maître-Gervais : socius %1420-1423% ;.
+Academic relationships: Son maître est Johannes SAUNERII en ;.
+University functions: Paris (Faculté de Théologie : Lecteur de la Bible (2e cours) le 4 juillet ) ;; Paris (Faculté de Théologie : Lecteur des Sentences en septembre ) ;; Paris (Faculté de Théologie : Maîtrerégent en %1427-1428%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 14/06/2023)..

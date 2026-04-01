@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Reuil
+Also known as: Guillelmus de REUIL.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1356-1358%.
+Studied at: Paris %1357-1358%..
+Academic grades obtained: Docteur en théologie (Paris) avant ..
+Religious order: O.S.B. : moine bénédictin..
+Religious functions: Prieur d'Essonnes (dépendance de Saint-Denis-en-France dans le diocèse de Paris) en ?%1356-1357%..
+University functions: Paris (Université : il est l'un des représentants de l'Université de Paris à l'entrevue avec le Dauphin en ).
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 15/04/2022..

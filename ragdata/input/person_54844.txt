@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Capella 1
+Also known as: Guillermus de CAPELLA.
+Description: Chanoine de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1297-1298%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Poitiers %1297-1298% ;; Chanoine de Poitiers (Saint-Hilaire) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 10/12/2022..

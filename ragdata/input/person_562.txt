@@ -1,0 +1,13 @@
+PERSON: AMALRICUS de Bena
+Also known as: Amalricus de BENA; Amaury de BÈNE; Amaury de CHARTRES.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1175-1206%.
+Born in: Île-de-France (Bènes)..
+Diocese of origin: Diocèse de Chartres..
+Studied at: ?Chartres vers %1170-1180%; Paris avant ..
+Academic grades obtained: Magister (Paris) avant ..
+University functions: Paris (Maître enseignant la dialectique à Paris) ;; Paris (Maître enseignant la théologie à Paris vers %1200-1206%) ;.
+Authored work: 'Propositiones damnatae', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/12/2015)..

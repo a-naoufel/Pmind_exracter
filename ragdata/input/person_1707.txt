@@ -1,0 +1,9 @@
+PERSON: COLINUS Gondran
+Also known as: Colinus GONDRAN.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1391-1391%.
+Studied at: Paris ..
+Ecclesiastical status: Clericus..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/04/2021..

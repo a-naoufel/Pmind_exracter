@@ -1,0 +1,10 @@
+PERSON: GERARDUS Bust
+Also known as: Gerardus BUST.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Born in: Allemagne ?.
+Studied at: Paris (Nation Anglo-allemande) %1329-1330%..
+Academic grades obtained: Étudiant (Paris) %1329-1330% ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 10/12/2021..

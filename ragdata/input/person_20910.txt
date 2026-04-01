@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de Morimundo
+Also known as: Nicolaus de MORIMUNDO.
+Description: Régulier.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+College affiliation: Collège Saint-Bernard..
+Religious order: O.Cist. : il s'agit sans doute d'un moine de l'abbaye (cistercienne) de Morimond ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 7/08/2016..

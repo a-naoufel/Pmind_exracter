@@ -1,0 +1,7 @@
+PERSON: MARGARETA de Pollehay
+Also known as: Margareta de POLLEHAY.
+Description: Maîtresse d’école.
+Status: Suppôt.
+Gender: female.
+Active during: %1453-1453%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 31/08/2020..

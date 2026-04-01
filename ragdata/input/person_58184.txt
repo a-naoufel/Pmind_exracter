@@ -1,0 +1,15 @@
+PERSON: NICOLAUS de Sicilia
+Also known as: Nicolaus de SICILIA.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1333-1343%.
+Born in: Italie (Sicile)..
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Religious order: O.F.M. : frère franciscain..
+Religious functions: Prieurprovincial (franciscain) de Sicile..
+University functions: Bologne (Faculté de Théologie : lecteur au couvent franciscain) ?.
+Authored work: 'Versus Heroici et Sapphici in Laudem S. Francisci Eiusque Stigmatum', composed around ?.
+Source: Répertoire des auteurs franciscains préparé par Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress :.

@@ -1,0 +1,11 @@
+PERSON: BERNARDUS 9
+Also known as: BERNARDUS.
+Description: Doyen de Saint-Pierre.
+Status: Maître.
+Gender: male.
+Active during: Datation arbitraire ... (cf. GLORIEUX, Sorbonne ... I, 297)..
+Studied at: Paris avant ?; Datation arbitraire ... (cf. GLORIEUX, Sorbonne ... I, 297)..
+Academic grades obtained: Magister.
+College affiliation: Sorbonne en ?.
+Ecclesiastical positions held: Doyen de Saint-Pierre (Saint-Pierre de Lille ?)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 14/01/2021)..

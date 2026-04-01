@@ -1,0 +1,12 @@
+PERSON: EUSTASIUS 1
+Also known as: EUSTACHIUS.
+Description: Évêque d'Ely.
+Status: Maître.
+Gender: male.
+Active during: %1165-1215%.
+Born in: ?Normandie..
+Studied at: Paris ;.
+Academic grades obtained: Magister..
+Ecclesiastical positions held: Recteur de Withcall (Lincolnshire) ;; Doyen de Salisbury ;; Archidiacre de Richmond ;; Archidiacre de l'EastRiding ;; Évêque d'Ely %1197-1215% ;.
+Representation roles: Ambassadeur de RICHARD Coeur-de-Lion en Allemagne %1197-1198% ;; Ambassadeur en France auprès de PHILIPPE-AUGUSTE en ;; Ambassadeur en France en et en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 23/07/2021)..

@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Cloutarii
+Also known as: Guillelmus CLOUTARII.
+Description: Bachelier en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1433-1433%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) avant ?; Bachelier cursor en théologie (Paris) ;.
+University functions: Paris (Faculté de théologie : cursor, 1er cours en (3 février)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 06/10/2022..

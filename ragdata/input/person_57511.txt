@@ -1,0 +1,10 @@
+PERSON: SIMON de Mauléon
+Also known as: Simon de MAULÉON.
+Description: Abbé de Saint-Germain des Prés.
+Status: Incertain.
+Gender: male.
+Active during: %1235-1244%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.S.B. : moine bénédictin ;; Abbé de l’abbaye (O.S.B.) de Paris (Saint-Germain-des-Prés).
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/02/2024)..

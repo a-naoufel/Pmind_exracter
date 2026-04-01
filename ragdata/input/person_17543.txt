@@ -1,0 +1,12 @@
+PERSON: BERNARDUS Bononiensis
+Also known as: Bernardus BONONIENSIS; Bernard de BOLOGNE.
+Description: Magister.
+Status: Extérieur.
+Gender: male.
+Active during: %1144-1152%.
+Studied at: ?Bologne..
+Academic grades obtained: Magister..
+Authored work: '[Summa dictaminis] Liber artis omnigenum dictaminum', composed around %1144-1145%..
+Authored work: 'Rationes dictandi', composed around ?.
+Authored work: 'Introductiones prosaici dictaminis', composed around %1150-1152%..
+Source: http://sip.mirabileweb.it.

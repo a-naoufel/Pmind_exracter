@@ -1,0 +1,11 @@
+PERSON: GALTERIUS Bergoti
+Also known as: Galterus BERGOTI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1446-1446%.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+Academic relationships: Son élève est Johannes de VILEIS pour le baccalauréat en ;.
+University functions: Paris (Nation de France : maître-régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/10/2021..

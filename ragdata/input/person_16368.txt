@@ -1,0 +1,10 @@
+PERSON: AMBROSIUS Zolinc
+Also known as: Ambrosius ZOLINC.
+Description: Bedeau de la Nation de Picardie.
+Status: Suppôt.
+Gender: male.
+Active during: %1476-1483%.
+Studied at: Paris (Nation de Picardie)..
+Family relationships: Son épouse est ?.
+University functions: Paris (Nation de Picardie : bedellus minor)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 23/07/2020)..

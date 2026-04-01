@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Petri 1
+Also known as: Guillermus PETRI.
+Description: Chanoine d’Évreux.
+Status: Incertain.
+Gender: male.
+Active during: %1283-1311%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d’Évreux %1283-1311% ;; Curé de Cintray ;; Pénitencier d’Évreux %1301-1302% ;.
+Other ecclesiastical functions: Official de Bayeux %1283-1311% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/03/2023)..

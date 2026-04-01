@@ -1,0 +1,10 @@
+PERSON: IVANUS de Janua
+Also known as: Yvanus de JANUA; Ivain de JANUA.
+Description: Maîtrerégent de la Faculté de Médecine de Paris..
+Status: Maître.
+Gender: male.
+Active during: %1326-1326%.
+Studied at: Paris %:1326-1326%..
+Academic grades obtained: Maître en médecine (Paris) ..
+University functions: Paris (Faculté de Médecine : Maîtrerégent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Anne Tournieroux ; révision, Jean-Philippe Genet, 20/09/2022..

@@ -1,0 +1,11 @@
+PERSON: PETRUS de Campis 3
+Also known as: Petrus de CAMPIS.
+Description: Bachelier en décret.
+Status: Maître.
+Gender: male.
+Active during: %1424-1424%.
+Diocese of origin: Diocèse de Thérouanne ;.
+Studied at: Paris (Nation de Picardie ?) ..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Bachelier en décret (Paris) en ;.
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (L. II) en (22 octobre), pour la 2e année et le 2e volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour, 27/11/2025..

@@ -1,0 +1,11 @@
+PERSON: GILBERTUS de Vast de Dourarco de Hollandia
+Also known as: Gilbertus de VAST de Dourarco.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1365-1365%.
+Born in: Pays-Bas (Hollande : Dordrecht) ?.
+Diocese of origin: Diocèse d’Utrecht ?.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 4/08/2021..

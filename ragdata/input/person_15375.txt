@@ -1,0 +1,14 @@
+PERSON: PETRUS de Alliaco 2
+Also known as: Petrus de ALLIACO; Pierre d'AILLY.
+Description: Boursier au collège de Navarre..
+Status: Étudiant.
+Gender: male.
+Active during: %1392-1396%.
+Born in: Île-de-France ;.
+Diocese of origin: Diocèse de Soissons..
+Studied at: Paris (Nation de France) %1392-1396%..
+Academic grades obtained: Étudiant ès arts (Paris) %1392-1396%..
+College affiliation: Collège de Navarre : boursier grammairien en %1392-1396% ;; Collège de Navarre : boursier artien ..
+Family relationships: Son oncle est Pierre d'AILLY, cardinal de Cambrai..
+Ecclesiastical positions held: Chapelain de Compiègne (Saint-Antoine) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/12/2021..

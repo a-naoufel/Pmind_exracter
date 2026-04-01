@@ -1,0 +1,12 @@
+PERSON: COLINETUS de Chavigniaco
+Also known as: Colinetus de CHAVIGNIACO.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1392-1392%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Troyes..
+Studied at: Paris (Nation de France ?) ..
+Academic grades obtained: Étudiant (Paris).
+Ecclesiastical positions held: Supplique pour un bénéfice ecclésiastique à la collation de l'évêque, du doyen et du chapitre de Troyes en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 20/04/2021..

@@ -1,0 +1,13 @@
+PERSON: SIMON Taillier
+Also known as: Simon TAILLIER.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1320-1320%.
+Born in: Écosse ?.
+Studied at: ?.
+Religious order: O.P. : frère dominicain ca...
+Authored work: 'Pentachordorum libri II', composed around ?.
+Authored work: 'De tenore musicali', composed around ?.
+Authored work: 'De cantis ecclesiasticis corrigendis', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 13/09/2024)..

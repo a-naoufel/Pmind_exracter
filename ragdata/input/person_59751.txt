@@ -1,0 +1,12 @@
+PERSON: EBRARDUS de Greiffenclau
+Also known as: Eberhard von GREIFFENCLAU.
+Description: Chanoine de Trèves.
+Status: Étudiant.
+Gender: male.
+Active during: %1482-1493%.
+Born in: Rhénanie (Hesse) ?.
+Studied at: Paris ?; Étudiant (Paris) en ?.
+Family relationships: Son frère est Richard von GREIFFENCLAU zu Vollrads, archevêque de Trèves.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Trèves %1482-1493% ;.
+Source: RAG ;.

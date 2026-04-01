@@ -1,0 +1,10 @@
+PERSON: RICARDUS de Clergeria
+Also known as: Ricardus de CLERGERIA; Richard de CLERGERIA.
+Description: Boursier artien au collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1343-1343%.
+Studied at: Paris %1343-1343%..
+Academic grades obtained: Étudiant ès arts (Paris) ..
+College affiliation: Boursier artien au collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 19/06/2024..

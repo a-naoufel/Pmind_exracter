@@ -1,0 +1,10 @@
+PERSON: ANDREAS Mausea
+Also known as: Andreas MAUSEA.
+Description: Chanoine de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1211-1230%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Poitiers ;; Doyen de Poitiers %1223-1230% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 19/12/2022..

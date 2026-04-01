@@ -1,0 +1,14 @@
+PERSON: MILO de Corbolio
+Also known as: Milo de CORBOLIO.
+Description: Chanoine de Notre-Dame de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1236-1271%.
+Born in: Île-de-France (Corbeil ?) ,.
+Diocese of origin: Diocèse de Paris ?.
+Studied at: Paris..
+Academic grades obtained: Maître ?.
+College affiliation: Collège de Sorbonne ?.
+Family relationships: Son père est Bertaud de CORBEIL ; Son frère est Adam de CORBEIL ; Son frère est Ferric de CORBEIL ; Sa soeur est Aveline de CORBEIL ;.
+Ecclesiastical positions held: Chanoine de Paris (Notre-Dame) %1236-1271%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 25/04/2024..

@@ -1,0 +1,13 @@
+PERSON: RICARDUS Eudes
+Also known as: Richard EUDES.
+Description: Maître en arts et en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1375-1385%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse d'Avranches ;.
+Studied at: Paris (Nation de Normandie) %1375-1385%..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en médecine (Paris) %1375-1379% ;; Maître en médecine (Paris) ;.
+Ecclesiastical positions held: Sous-diacre du diocèse d'Avranches ;.
+Authored work: '[Traduction du De Balneis Puteolanis]', composed around ? En vers..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 27/12/2018..

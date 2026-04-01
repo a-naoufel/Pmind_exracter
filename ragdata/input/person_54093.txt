@@ -1,0 +1,19 @@
+PERSON: GOSCELINUS Suessionensis
+Also known as: Goscelinus SUESSIONENSIS; Joscelin de SOISSONS; Joscelin de VIERZY.
+Description: Évêque de Soissons.
+Status: Maître.
+Gender: male.
+Active during: %1105-1152%.
+Born in: Île-de-France (Vierzy) ?.
+Diocese of origin: Diocèse de Soissons ?.
+Studied at: Paris %1105-1115%..
+Academic grades obtained: Magister..
+Academic relationships: Son élève est Gossuin d’ANCHIN ;.
+Ecclesiastical positions held: Archidiacre de Soissons %1115-1126% ;; Évêque de Soissons %1126-1152% ;.
+University functions: Paris (École Notre-Dame : maître auxiliaire de Guillaume de CHAMPEAUX auquel il succède en , avant d'être chassé et remplacé par Pierre ABÉLARD) ;; Paris (Montagne Sainte-Geneviève : maître de dialectique d’une école tolérée sur la colline %1109-1115%)..
+Representation roles: Il participe en au concile de Sens où il est l’un des juges de Pierre ABÉLARD ;; Il participe en au concile de Paris où il est chargé d’enquêter sur les écrits de Gilbert de LAPORRÉE ;.
+Authored work: 'Expositio in orationem dominicam', composed around ?.
+Authored work: 'Expositio symboli', composed around ?.
+Authored work: 'Sophismata', composed around %1105-1115%.
+Authored work: 'Epistolae', composed around ?.
+Source: MIRABILE : Federico CONTINI :.

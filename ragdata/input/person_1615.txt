@@ -1,0 +1,10 @@
+PERSON: CHRISTIANUS Castelli
+Also known as: Christianus CASTELLI; Christianus CHASTEL; Chrétien CHASTEL; Chrétien CASTEL; Chrétien CHASTELIER; Chrétien CASTELLI.
+Description: Médecin.
+Status: Maître.
+Gender: male.
+Active during: %1458-1464%.
+Studied at: Paris, %1464-1464%..
+Academic grades obtained: Maître (Paris) ?.
+Family relationships: Son fils est Guillaume CHASTEL, né à Tours en et chanoine de Tours (Saint-Gatien)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 08/04/2021..

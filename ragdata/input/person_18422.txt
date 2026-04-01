@@ -1,0 +1,9 @@
+PERSON: RICARIUS Boulart
+Also known as: Ricarius BOULART.
+Description: Maître ès arts ?.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 30/03/2021..

@@ -1,0 +1,10 @@
+PERSON: ROBERTUS Le Listeur
+Also known as: Robert LELISTEUR.
+Description: Médecin.
+Status: Incertain.
+Gender: male.
+Active during: %1322-1322%.
+Born in: Picardie ?.
+Studied at: ?.
+Academic grades obtained: Maître en médecine ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 3/02/2020..

@@ -1,0 +1,12 @@
+PERSON: IVO de Bosco
+Also known as: Yvo de BOSCO.
+Description: Bachelier en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1474-1474%.
+Born in: Normandie.
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris (Nation de Normandie) %1474-1474%..
+Academic grades obtained: Maître ès arts (Paris) attesté en ;; Bachelier en décret (Paris) 7 juillet ..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (1ere année) en (9 juillet)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 19/09/2022..

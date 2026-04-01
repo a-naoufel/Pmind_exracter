@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Saconay
+Also known as: Guillelmus de SACONAY; Guillelmus de SACONNEX.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1451-1451%.
+Diocese of origin: Diocèse de Genève ;.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Social origin: Noble ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 27/03/2018..

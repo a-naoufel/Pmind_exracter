@@ -1,0 +1,10 @@
+PERSON: ADAM de Senonis
+Also known as: Adam de SENONIS; Adam de SENS; Ado de SENNANIIS.
+Description: Conseiller-lai au Parlement.
+Status: Étudiant.
+Gender: male.
+Active during: %1345-1361%.
+Studied at: Paris..
+Academic grades obtained: Étudiant..
+Family relationships: Son père est Eude de SENS, avocat au Parlement de Paris et chanoine de Paris (Notre-Dame), "l'un des grands jurisconsultes du début du [XIVe] siècle" selon Françoise AUTRAND ; Son fils est Renaud de SENS, conseiller-lai au Parlement de Paris en %1374-1416% ; Son parent est Denis de SENS, l'un des légistes de PHILIPPE le Bel, roi de France..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 07/01/2020..

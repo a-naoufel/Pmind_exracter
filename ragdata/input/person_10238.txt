@@ -1,0 +1,10 @@
+PERSON: PHILIPPUS Lapidarii
+Also known as: Philippus LAPIDARII; Philippe LAPIDARII.
+Description: Boursier grammairien au collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1377-1377%.
+Studied at: Paris %1377-1377%..
+Academic grades obtained: Étudiant en grammaire (Paris) ..
+College affiliation: Boursier grammairien au collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 5/05/2024..

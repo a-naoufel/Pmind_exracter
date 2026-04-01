@@ -1,0 +1,11 @@
+PERSON: BERENGARIUS Fornerii
+Also known as: Berenger FORNERII.
+Description: Lecteur.
+Status: Extérieur.
+Gender: male.
+Active during: %1270-1274%.
+Studied at: ?.
+Academic grades obtained: Magister ?.
+Religious order: O.P. : frère dominicain..
+University functions: Carcassonne (Lecteur en Théologie ).; Nîmes (Lecteur )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 14/01/2021).

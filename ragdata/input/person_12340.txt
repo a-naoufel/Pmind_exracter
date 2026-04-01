@@ -1,0 +1,16 @@
+PERSON: GUILLELMUS de Boys
+Also known as: William de BOSCO; William de BOYS.
+Description: Chancelier de Salisbury.
+Status: Étudiant.
+Gender: male.
+Active during: %1284-1313%.
+Born in: Angleterre..
+Studied at: Oxford %1283-1308% ;; ?Paris %1286-1289% ?.
+Academic grades obtained: Paris.; Étudiant (Paris) ?; Maître ès arts (Oxford) ;; Docteur en théologie (Oxford) ..
+Family relationships: Son frère est John de BOYS ;.
+Social origin: Noble..
+Ecclesiastical positions held: Recteur d'Attenborough (Nottinghamshire) %1286-1290% ;; Recteur de Langport (Northamptonshire) %1290-1313% ;; Chancelier de Salisbury %1309-1313%..
+University functions: Oxford (Merton College : fellow %1284-1286%) ;; Oxford (Université : Chancelier %1308-1309%)..
+Authored work: 'Quodlibeta et quaestiones', composed around ?.
+Authored work: 'Quaestiones in lib. Physicorum Aristotelis', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 10/01/2019..

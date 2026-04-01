@@ -1,0 +1,11 @@
+PERSON: LAMBERTUS Schout
+Also known as: Lambertus SCHOUT; Lambert SCOUT; Lambert SKOTH.
+Description: Licencié en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1441-1453%.
+Born in: Gueldre (Arnhem)..
+Studied at: Louvain ;; Paris (Nation Anglo-allemande) %1443-1453%..
+Academic grades obtained: Étudiant (Louvain) ;; Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ..
+University functions: Paris (Nation Anglo-allemande : procureur en ) ;; Paris (Nation Anglo-allemande : Procureur en %1446-1448%) ;; Paris (Nation Anglo-allemande : Receveur en ) ;; Paris (Nation Anglo-allemande : Procureuren %1451-1452%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 17/08/2023)..

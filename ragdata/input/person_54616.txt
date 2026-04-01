@@ -1,0 +1,10 @@
+PERSON: STEPHANUS Rebuffe
+Also known as: Stephanus REBUFFE.
+Description: Chanoine de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1291-1308%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Poitiers %1291-1305% ;; Archidiacre de Poitiers %1307-1308% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 16/11/2022..

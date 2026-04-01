@@ -1,0 +1,13 @@
+PERSON: ANSELMUS Appart
+Also known as: Anselmus APPART; Anselmus HAPART; Anselme HAPPART.
+Description: O.F.M., docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1424-1442%.
+Studied at: Paris %1429-1433%.
+Academic grades obtained: Baccalarius cursores (Paris) ;; Licencié en théologie (Paris) ;; Docteur en théologie (Paris) ..
+College affiliation: Couvent des Cordeliers %1429-1433% au moins..
+Religious order: O.F.M. : frère franciscain..
+Religious functions: ?Collation à l'"hospitalis S. Gervasii 'domus dei' nuncupati" en ..
+University functions: Paris (Faculté de Théologie : Lecteur de la Bible en (les 4 juin et 18 juillet)) ;; Paris (Faculté de Théologie : Lecteur des Sentences en (septembre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire PRIOL ; révision : Jean-Philippe GENET, 31/08/2020..

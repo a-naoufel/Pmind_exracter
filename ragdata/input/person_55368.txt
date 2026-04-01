@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Condeto 2
+Also known as: Guillermus de CONDETO.
+Description: Chanoine d’Évreux.
+Status: Incertain.
+Gender: male.
+Active during: %1299-1312%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son parent est peut-être Lucas de CONDETO, chantre d’Évreux ; Son parent est peut-être Petrus de CONDETO, chanoine d’Évreux ;.
+Ecclesiastical positions held: Chanoine de Saint-Quentin ;; Chanoine d’Évreux %1304-1312% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/02/2023)..

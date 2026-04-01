@@ -1,0 +1,12 @@
+PERSON: SILVESTER Vite de Pensauro
+Also known as: Silvester VITE de Pensauro.
+Description: Étudiant en théologie.
+Status: Étudiant.
+Gender: male.
+Active during: %1417-1417%.
+Born in: Italie (Marches : Pesaro ?) ?.
+Diocese of origin: Diocèse de Pesaro ?.
+Studied at: Paris..
+Academic grades obtained: Étudiant en théologie (Paris) ?.
+College affiliation: Sorbonne : socius ..
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, dernière mise à jour 25/02/2021..

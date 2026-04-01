@@ -1,0 +1,10 @@
+PERSON: AEGIDIUS de Agro 2
+Also known as: Aegidius de AGRO.
+Description: Licencié en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1403-1405%.
+Studied at: Paris .; Paris (Collège de Sorbonne : socius)..
+Academic grades obtained: Licencié en théologie (Paris) ?.
+College affiliation: Collège de Sorbonne : socius..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 19/04/2020)..

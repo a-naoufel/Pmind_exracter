@@ -1,0 +1,12 @@
+PERSON: OTTO Theutonicus
+Also known as: Othon THEUTONICUS.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1280-1280%.
+Born in: Allemagne ?.
+Studied at: Paris ;; Angers..
+Academic grades obtained: Licencié en décret (Paris) en ;.
+University functions: Angers (Professeur de droit ?) ?.
+Authored work: 'Questiones disputate Andegavis', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/04/2025)..

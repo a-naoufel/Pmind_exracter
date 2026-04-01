@@ -1,0 +1,13 @@
+PERSON: Scolaris de Frigido Monte
+Also known as: Scolaris de FRIGIDO MONTE.
+Description: Cistercien.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Beauvais ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+College affiliation: Collège des Bernardins ;.
+Religious order: O. Cist. : abbaye (cistercienne) de Froidmont (diocèse de Beauvais) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 30/08/2016..

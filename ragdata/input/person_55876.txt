@@ -1,0 +1,13 @@
+PERSON: ALBERICUS de Verberia
+Also known as: Albericus de VERBERIA.
+Description: Chanoine de Troyes.
+Status: Incertain.
+Gender: male.
+Active during: %1260-1316%.
+Born in: Ile-de-France (Verberie) ;.
+Diocese of origin: Diocèse de Soissons ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ?.
+Ecclesiastical positions held: Chanoine de Paris (Sainte-Chapelle) ;; Chanoine de Troyes ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 20/04/2023..

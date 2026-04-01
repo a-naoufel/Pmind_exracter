@@ -1,0 +1,11 @@
+PERSON: BOFFILLE de Juge
+Also known as: Boffille de JUGE; Boffello DELGIUDICE.
+Description: Comte de Castres.
+Status: Extérieur.
+Gender: male.
+Active during: %1461-1502%.
+Born in: Italie (Amalfi)..
+Studied at: ?Paris.
+Social origin: Noble : il appartient à la famille DelGiudice, une famille engagée au service des Angevins dans le royaume de Sicile..
+Representation roles: Ambassadeur auprès du duc de Milan en pour le compte de René d'ANJOU, roi de Sicile ;; Ambassadeur à de nombreuses reprises en Aragon, auprès de MAXIMILIEN, en Angleterre etc. pour le compte de LOUIS XI, roi de France ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (dernière mise à jour, Jean-Philippe Genet, 23/03/2021)..

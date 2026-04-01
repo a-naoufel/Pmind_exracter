@@ -1,0 +1,13 @@
+PERSON: GERARDUS de Chaumont
+Also known as: Gerardus de CHAUMONT.
+Description: Écolier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1411-1411%.
+Born in: Champagne (Damery) ;.
+Diocese of origin: Diocèse de Soissons ;.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Dormans-Beauvais : écolier en ;.
+Family relationships: Son frère est Johannes de CHAUMONT ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 06/01/2022..

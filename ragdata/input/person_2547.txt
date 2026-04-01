@@ -1,0 +1,9 @@
+PERSON: GALFREDUS 6
+Also known as: GAUFRIDUS.
+Description: Notaire.
+Status: Extérieur.
+Gender: male.
+Active during: %1364-1364%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 30/09/2021..

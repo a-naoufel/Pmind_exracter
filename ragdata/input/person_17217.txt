@@ -1,0 +1,10 @@
+PERSON: BALDUINUS Maigne
+Also known as: Balduinus MAIGNE.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris..
+Academic grades obtained: Étudiant ?.
+Family relationships: Son frère est peut-être Magister Johannes MAIGNE..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 3/12/2020)..

@@ -1,0 +1,13 @@
+PERSON: ROBERTUS Grobus
+Also known as: Robertus GROBUS; Reginaldus d’ENGUINEHAULT.
+Description: Chanoine d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1458-1474%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Social origin: Noble ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d’Amiens %1458-1474% ;.
+Other ecclesiastical functions: Promoteur de l’officialité épiscopale jusqu’en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 29/11/2021..

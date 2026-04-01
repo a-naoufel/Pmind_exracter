@@ -1,0 +1,11 @@
+PERSON: BARTHOLOMAEUS Hamelin
+Also known as: Bartholomeus HAMELIN.
+Description: Trésorier de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1411-1425%.
+Studied at: ?.
+Academic grades obtained: Licenci in utroque jure ;.
+Ecclesiastical positions held: Chanoine de Sens ;.
+Other ecclesiastical functions: Vicairegénéral de Sens ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 27 octobre 2022..

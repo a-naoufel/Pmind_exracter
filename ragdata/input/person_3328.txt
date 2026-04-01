@@ -1,0 +1,14 @@
+PERSON: GUESSIOLUS Auveredi
+Also known as: Guessiolus AUVEREDI.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1378-1379%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse de Bayeux..
+Studied at: Paris..
+Academic grades obtained: Bachelier en décret (Paris)..
+Ecclesiastical status: Prêtre du diocèse de Bayeux ;.
+Ecclesiastical positions held: Candidat à un canonicat de Poitiers..
+University functions: Paris (Faculté de décret : lecteur %1378-1379%) ;.
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 21/01/2022.

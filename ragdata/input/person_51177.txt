@@ -1,0 +1,10 @@
+PERSON: VINCENTIUS de Molieres
+Also known as: Vincent de MOLIERES.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1307-1307%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant ?.
+College affiliation: Collège de Sorbonne : Étudiant ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 23/09/2021..

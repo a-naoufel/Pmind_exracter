@@ -1,0 +1,32 @@
+PERSON: NICOLAUS de Pressorio
+Also known as: Nicolaus de TORCULARI; Nicolaus de PRESSORIO; Nicolas du PRESSOIR; Nicolaus de NORMANDIA.
+Description: Archidiacre de Bayeux.
+Status: Maître.
+Gender: male.
+Active during: %1273-1302%.
+Born in: Île-de-France (Boutigny)..
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) en.
+Ecclesiastical positions held: Archidiacre de Bayeux en ;; Chanoine de Paris en ;; Archidiacre du VexinNormand en ;.
+University functions: Paris (Maître-Régent en Théologie %1273-1293% ?) ;.
+Authored work: '(Question inaugurale: Commendatio Scripturae)', composed around .
+Authored work: '(Question inaugurale: Quaestiones in vesperis, in die, in aula)', composed around .
+Authored work: 'Quaestiones disputatae de virginatis voto', composed around .
+Authored work: 'Quaestiones disputatae de natura divina', composed around .
+Authored work: 'Sermo in festo Sancti Nicolai', composed around ?.
+Authored work: 'Sermo in Dom. I Adventus', composed around .
+Authored work: 'Sermo', composed around ?.
+Authored work: 'Sermo in Dom. IV Quadrag.', composed around .
+Authored work: 'Quaestiones disputatae de natura divina', composed around .
+Authored work: 'Quaestiones disputatae de aureola', composed around .
+Authored work: 'Quaestiones disputatae de prophetia', composed around .
+Authored work: 'Quaestiones disputatae de voto', composed around .
+Authored work: 'Expositio missae', composed around ?.
+Authored work: 'Quaestiones disputatae de primis motibus ; de conscientia ; de aureola', composed around .
+Authored work: 'Quodlibet I.17 q', composed around .
+Authored work: 'Quodlibet II.17 q', composed around .
+Authored work: 'Quodlibet III.17 q', composed around .
+Authored work: 'Quodlibet IV', composed around .
+Authored work: 'Quodlibet V', composed around .
+Authored work: 'Sophisma', composed around ?.
+Source: MIRABILE : Federico CONTINI :.

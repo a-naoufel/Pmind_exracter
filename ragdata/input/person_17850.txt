@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Herboult
+Also known as: Guillelmus HERBOULT.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1431-1431%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Bayeux..
+Studied at: Paris %1431-1431%..
+Academic grades obtained: Bachelier en décret (Paris) (30 mai) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 06/05/2022)..

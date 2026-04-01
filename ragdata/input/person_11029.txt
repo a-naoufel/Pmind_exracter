@@ -1,0 +1,13 @@
+PERSON: ROBERTUS Du Homme
+Also known as: Robert du HOMME; Robert de HOMME; Robertus de ROSA.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1463-1477%.
+Born in: Normandie (Rouen)..
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris %1463-1467%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Family relationships: Sa fille est Antoinette Du HOMME ; Son gendre est Arnould Van Der BANCK..
+University functions: Paris (Faculté de médecine : Maître régent à partir de %1466-1467%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 28/01/2022)..

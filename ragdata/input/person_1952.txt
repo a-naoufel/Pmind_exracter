@@ -1,0 +1,8 @@
+PERSON: DIONYSIUS Bilbaut
+Also known as: Dionysius BILBAUT.
+Description: Bourgeois parisien.
+Status: Extérieur.
+Gender: male.
+Active during: %1322-1322%.
+Family relationships: Sa femme est Johanna BILBAUT..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/05/2021..

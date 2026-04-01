@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Fabri 10
+Also known as: Guillelmus FABRI.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1422-1459%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Sens (‘Saint-Pierre’) %1422-1431% ;; Chanoine de Sens (‘Trésor’) %1439-1449% ;; Chanoine de Sens (‘Notre-Dame’) %1449-1459% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 25 octobre 2022..

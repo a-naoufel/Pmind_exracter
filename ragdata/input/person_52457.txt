@@ -1,0 +1,10 @@
+PERSON: PETRUS Mediatoris
+Also known as: Petrus MEDIATORIS; Petrus LEMÉTAYER.
+Description: Chantre de Châlons.
+Status: Incertain.
+Gender: male.
+Active during: %1411-1438%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Reims %1411-1438% ;; Chanoine de Châlons %1438- % ;; Chanoine de Soissons %1438- % ;; Chantre de Châlons %1438- % ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 29/06/2021..

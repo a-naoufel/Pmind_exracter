@@ -1,0 +1,11 @@
+PERSON: PETRUS 8
+Also known as: PETRUS.
+Description: Chanoine.
+Status: Incertain.
+Gender: male.
+Active during: %1273-1284%.
+Born in: Danemark.
+Studied at: ?.
+Academic grades obtained: Magister (?), av. ;.
+Ecclesiastical positions held: Chanoine de Ribe, ;; Chantre de Ribe, %1279-1284%;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 02/04/2023..

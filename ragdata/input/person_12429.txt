@@ -1,0 +1,13 @@
+PERSON: IVO de Gormon
+Also known as: Yvo de GORMON.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1317-1344%.
+Studied at: Paris (Collège de Cornouaille) %1333-1333%..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Cornouaille en ..
+Religious order: O.S.B. : moine bénédictin de l'abbaye de Landévennec (diocèse de Quimper)..
+Religious functions: Abbé de Landévennec (diocèse de Quimper) en %1317-1344%..
+University functions: Enseigne la théologie en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 20/09/2022..

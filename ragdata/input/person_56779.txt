@@ -1,0 +1,9 @@
+PERSON: NICOLAUS Le Noir
+Also known as: Nicolaus LENOIR.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1486-1486%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Family relationships: Son parent est peut-être Michel LENOIR, libraire en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/10/2023..

@@ -1,0 +1,9 @@
+PERSON: PONCIUS Fournier
+Also known as: Poncius FOURNIER.
+Description: Locataire de la Domus Scaccorum.
+Status: Incertain.
+Gender: male.
+Active during: %1449-1449%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 06/10/2023..

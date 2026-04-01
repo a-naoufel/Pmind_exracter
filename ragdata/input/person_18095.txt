@@ -1,0 +1,10 @@
+PERSON: DURANDUS 2
+Also known as: DURANDUS.
+Description: Maître ès arts ?.
+Status: Incertain.
+Gender: male.
+Active during: %1300-1300%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ?.
+Authored work: 'Scripta super [veterem] logicam', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 2/09/2015)..

@@ -1,0 +1,9 @@
+PERSON: GERARDUS de Cruce
+Also known as: Gerardus de CRUCE; Gérard de Cruce.
+Description: Maître ès arts et en médecine ?.
+Status: Maître.
+Gender: male.
+Active during: %1401-1500%.
+Studied at: Paris, %1401-1500%..
+Academic grades obtained: Maître ès arts (Paris) ?; Docteur en médecine (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe GENET, 06/01/2022..

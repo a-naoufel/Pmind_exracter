@@ -1,0 +1,14 @@
+PERSON: MATTHAEUS Du Bourgel
+Also known as: Matheus DUBOURGEL.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1403-1403%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse d’Amiens ;.
+Studied at: Paris %1403-1403%..
+Academic grades obtained: Étudiant (Paris) en ;.
+Family relationships: Son parent est peut-être Johannes DUBOURGEL qui figure juste avant lui sur le rotulus de ;.
+Ecclesiastical status: Clerc du diocèse d’Amiens ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Magnus Rotulus (rotulus scolarium Parisiensum) de l’Université de Paris daté de (23 octobre) et présenté à BENOÎT XIII..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 27/10/2018..

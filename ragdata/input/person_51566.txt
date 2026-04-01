@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Lohier 2
+Also known as: Guillelmus LOHIER.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1469-1499%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie ?)..
+Academic grades obtained: Bachelier en théologie (Paris) en.
+College affiliation: Collège de Lisieux : boursier en ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

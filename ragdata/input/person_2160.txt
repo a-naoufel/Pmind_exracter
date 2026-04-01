@@ -1,0 +1,11 @@
+PERSON: ERVANDUS Bourdon
+Also known as: Ervandus BOURDON.
+Description: Bourgeois de Rouen.
+Status: Extérieur.
+Gender: male.
+Active during: %1269-1269%.
+Born in: Normandie (Rouen) ;.
+Diocese of origin: Diocèse de Rouen ?.
+College affiliation: Mentionné dans le cadre de la fondation du Collège du Trésorier en ..
+Social origin: Commun : bourgeois de Rouen..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 23/07/2021)..

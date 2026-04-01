@@ -1,0 +1,11 @@
+PERSON: HUGO Senestre
+Also known as: Hugo SENESTRE.
+Description: Procureur du collège d’Autun.
+Status: Incertain.
+Gender: male.
+Active during: %1463-1463%.
+Studied at: ?.
+Academic grades obtained: ?.
+College affiliation: Collège d’Autun : procureur des maîtres et des écoliers du collège d’Autun en ;.
+Family relationships: Son parent est peut-être Johannes SENESTRE ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

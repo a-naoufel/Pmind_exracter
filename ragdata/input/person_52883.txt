@@ -1,0 +1,10 @@
+PERSON: SIMON Baudry
+Also known as: Simon BAUDRY.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1330-1368%.
+Studied at: ?.
+Academic grades obtained: Licencié in utroque jure ;.
+Ecclesiastical positions held: Chanoine de Vernon ;; Chanoine de Lisieux ;; Chantre de Lisieux %1342-1368% ;; Chanoine de Rouen %1362-1368% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 4/11/2021..

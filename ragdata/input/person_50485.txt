@@ -1,0 +1,10 @@
+PERSON: PHILIPPUS Navarre Rex
+Also known as: PHILIPPE III, roi de Navarre.
+Description: Roi de Navarre.
+Status: Extérieur.
+Gender: male.
+Active during: %1328-1343%.
+Studied at: ?.
+Family relationships: Son père est Louis d’ÉVREUX ; Sa mère est Marie de BRABANT ; Sa femme est JEANNE II, reine de Navarre ; Son cousin est PHILIPPE VI de Valois, roi de France ;.
+Social origin: Noble ;.
+Source: WIKIPEDIA ;.

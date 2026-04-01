@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Malleo
+Also known as: Guillelmus de MALLEO.
+Description: Prieur des Hospitaliers.
+Status: Extérieur.
+Gender: male.
+Active during: %1330-1356%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.Hosp..
+Religious functions: Prieur (O.Hosp.) d’Aquitaine en ;; Prieur des Hospitaliers de l'Ordre de Saint-JeandeJerusalem..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 7/12/2021..

@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Bone
+Also known as: Guillelmus BONE.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1379-1379%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse d'Évreux ;.
+Studied at: Paris (Nation de Normandie ?) ..
+Academic grades obtained: Étudiant (Paris) en ?.
+Ecclesiastical status: Prêtre du diocèse d'Évreux en ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus 'plurium magistrorum, doctorum, licentiatorum , baccal. et scolar. de Universitate Parisiens.' de ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/02/2022..

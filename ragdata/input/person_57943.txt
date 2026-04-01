@@ -1,0 +1,11 @@
+PERSON: ROBERTUS Doresmeaux
+Also known as: Robertus DORESMEAUX; Robertus DORESMEAULX; Robertus DORESMIAUS.
+Description: Socius de la Sorbonne.
+Status: Maître.
+Gender: male.
+Active during: %1450-1482%.
+Studied at: Paris (Nation de Picardie)..
+Academic grades obtained: Maître ès arts (Paris)..
+College affiliation: Sorbonne : socius en ;.
+University functions: Paris (Université : Recteur) ;; Paris (Université : Lector Ethicarum %1481-1482%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 07/07/2024..

@@ -1,0 +1,10 @@
+PERSON: VINCENTIUS
+Also known as: VINCENTIUS.
+Description: Chanoine de Saint-Victor.
+Status: Incertain.
+Gender: male.
+Active during: %1350-1350%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chanoinerégulier (O.S.A.) de Paris (Saint-Victor) ,.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 4/02/2021)..

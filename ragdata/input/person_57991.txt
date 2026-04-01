@@ -1,0 +1,10 @@
+PERSON: SIMON Alanchie
+Also known as: Simon ALANCHIE.
+Description: Boursier ès arts du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1414-1414%.
+Studied at: Paris.
+Academic grades obtained: Étudiant ès arts (Paris) ?.
+College affiliation: Collège d'Autun : boursier ès arts en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 04/09/2024..

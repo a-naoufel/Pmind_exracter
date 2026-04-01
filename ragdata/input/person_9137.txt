@@ -1,0 +1,17 @@
+PERSON: NICOLAUS de Flavigny
+Also known as: Nicolas de FLAVIGNY.
+Description: Archevêque de Besançon.
+Status: Maître.
+Gender: male.
+Active during: %1210-1235%.
+Born in: Bourgogne (Flavigny ?) ?.
+Diocese of origin: Diocèse d'Autun ?.
+Studied at: Paris %1210-1229%..
+Academic grades obtained: Étudiant à Paris en .; Maître ès arts (Paris) ;; Maître en théologie (Paris) avant ..
+Ecclesiastical positions held: Doyen de Langres avant ;; Archevêque de Besançon %1229-1235%..
+University functions: Paris (Faculté de Théologie : Maîtrerégent avant )..
+Authored work: '[Sermons]', composed around ?.
+Authored work: 'Interpretationes nominum in Evangelio', composed around ?.
+Authored work: 'Unum ex quattuor, seu concordantia evangeliorum', composed around ?.
+Authored work: 'Concordancia evangeliorum', composed around ?.
+Source: MIRABILE : Roberto GAMBERINI :.

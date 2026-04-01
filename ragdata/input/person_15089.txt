@@ -1,0 +1,9 @@
+PERSON: PETRUS Kachii
+Also known as: Pierre KACHII; Petrus KACHII.
+Description: Écolier de la Faculté de médecine..
+Status: Étudiant.
+Gender: male.
+Active during: %1412-1412%.
+Studied at: Paris %1412-1412%..
+Academic grades obtained: Étudiant en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 29/06/2021..

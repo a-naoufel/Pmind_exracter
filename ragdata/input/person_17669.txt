@@ -1,0 +1,11 @@
+PERSON: BARTHOLOMAEUS de Ypres
+Also known as: Bartholomaeus d'YPRES.
+Description: Prieur de la Sorbonne.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1329%.
+Born in: Flandre ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant à la Faculté de Théologie ?.
+College affiliation: Prieur de la Sorbonne en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 9/12/2020)..

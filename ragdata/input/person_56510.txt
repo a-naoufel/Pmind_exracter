@@ -1,0 +1,10 @@
+PERSON: RICARDUS Magister
+Also known as: Magister RICARDUS.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1160-1160%.
+Studied at: Paris..
+Academic grades obtained: Maître..
+Academic relationships: Son maître est Gérard PUCELLE ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/08/2023)..

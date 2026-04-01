@@ -1,0 +1,11 @@
+PERSON: FULCO 2
+Also known as: FULCO.
+Description: Abbé de Saint-Germain des Prés.
+Status: Incertain.
+Gender: male.
+Active during: %1182-1192%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.S.B. : moine bénédictin..
+Religious functions: Abbé (bénédictin) de Saint-Germain des Prés %1182-1192% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 22/09/2021..

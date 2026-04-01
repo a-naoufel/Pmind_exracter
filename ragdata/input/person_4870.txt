@@ -1,0 +1,8 @@
+PERSON: HENRICUS de Burgundia
+Also known as: Henricus de BURGUNDIA.
+Description: Étudiant ?.
+Status: Incertain.
+Gender: male.
+Active during: %1310-1310%.
+Studied at: Paris ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 25/06/2022..

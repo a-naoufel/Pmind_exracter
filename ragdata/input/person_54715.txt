@@ -1,0 +1,11 @@
+PERSON: PASQUERIUS Bonnaudini
+Also known as: Pasquerius BONNAUDINI.
+Description: Chanoine de Chartres.
+Status: Incertain.
+Gender: male.
+Active during: %1405-1405%.
+Studied at: ?.
+Academic grades obtained: Licencié en droit canon en ;.
+Ecclesiastical positions held: Chanoine de Chartres ;.
+Other ecclesiastical functions: Vicairegénéral de Poitiers ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 25/11/2022..

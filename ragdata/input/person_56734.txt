@@ -1,0 +1,11 @@
+PERSON: PETRUS de Gerziaco
+Also known as: Petrus de GERZIACO.
+Description: Chanoine de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1250-1283%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Herment (diocèse de Clermont) %1250-1262% ;; Chanoine de Clermont %1270-1283% ;; Abbé de Clermont (Saint-Genès) %1270-1281% ;.
+Other ecclesiastical functions: Vice-gérant de l’official Clermont (Saint-Genès) %1270-1281% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/10/2023..

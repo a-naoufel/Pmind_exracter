@@ -1,0 +1,9 @@
+PERSON: NICOLAUS Surdi
+Also known as: Nicolaus SURDI; Nicolaus LESOURT.
+Description: Libraire.
+Status: Maître.
+Gender: male.
+Active during: %1393-1394%.
+Studied at: Paris %1393-1394%..
+Academic grades obtained: Maître ès arts (Paris) avant ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/10/2023..

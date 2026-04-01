@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Naslot
+Also known as: Guillaume NASLOT.
+Description: Écolier.
+Status: Étudiant.
+Gender: male.
+Active during: %1481-1481%.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) en ?.
+Family relationships: Son frère est Germain NASLOT, coudeur de drap en ; Son frère est Nicolas NASLOT, marchand espicier en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/02/2025)..

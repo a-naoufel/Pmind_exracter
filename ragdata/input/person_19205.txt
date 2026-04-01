@@ -1,0 +1,8 @@
+PERSON: X Casanis
+Also known as: CASANIS.
+Description: Secrétaire pontifical.
+Status: Extérieur.
+Gender: male.
+Active during: %1426-1426%.
+Studied at: ?.
+Academic grades obtained: ?.

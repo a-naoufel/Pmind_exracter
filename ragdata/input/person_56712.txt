@@ -1,0 +1,11 @@
+PERSON: P. de Juncheria
+Also known as: P.; P. de JUNCHERIA.
+Description: Chanoine de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1217-1230%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Clermont vers ? ;; Archidiacre de Clermont vers ? ;.
+Other ecclesiastical functions: Official de Clermont vers ? ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 05/10/2023..

@@ -1,0 +1,23 @@
+PERSON: GERVASIUS de Melcheley
+Also known as: Gervais de MELCHELEY; Gervais de MELKELEY; Gervasius de SALTULACTEO..
+Description: Poète et grammairien anglais..
+Status: Maître.
+Gender: male.
+Active during: %1185-1241%.
+Born in: Angleterre..
+Studied at: Paris %1200-:1220:% ;; ?Oxford..
+Academic grades obtained: Maître ès arts (Paris)..
+Academic relationships: Élève de John BLUND à Paris ; ?Élève de Jean de HAUVILLE à Rouen..
+University functions: Paris (il enseigne les arts libéraux à Paris vers %1200-1220%..
+Authored work: 'Carmen in honorem beatae Mariae virginis', composed around ?.
+Authored work: 'De arte versificatoria et modo dictandi', composed around ., dedicated to Dédié à Johannes ALBUS, probablement John BLUND..
+Authored work: 'Tractatus de componendis epistolis', composed around ?.
+Authored work: '(Laus Ioannis episcopi Norwicensis)', composed around ?, dedicated to Adressé à John GRAY, évêque de Norwich..
+Authored work: 'De Pyramo et Thisbe', composed around ?.
+Authored work: 'Epigramma', composed around ?.
+Authored work: 'Epistola R. de Brueles domino A. de Pleissetz', composed around ?.
+Authored work: 'Invectiva in senem lascivum', composed around ?.
+Authored work: 'Laus Aristotelis', composed around ?.
+Authored work: 'Epitaphium Guillelmi Marescalli', composed around ?.
+Authored work: 'Vita Stephani archiepsicopi Canturariensis', composed around ?.
+Source: MIRABILE :.

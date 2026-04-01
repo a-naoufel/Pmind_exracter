@@ -1,0 +1,9 @@
+PERSON: BONETUS de Martigniaco
+Also known as: Bonitus de MARTIGNIACO; Bonitus de MARTINIACO.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1447-1447%.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/03/2021)..

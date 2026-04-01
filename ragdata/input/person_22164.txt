@@ -1,0 +1,15 @@
+PERSON: GUILLELMUS de Vaccaria 1
+Also known as: Guillelmus de VACCARIA; Guillaume de LAVACHERIE.
+Description: Chanoine de Tournai.
+Status: Incertain.
+Gender: male.
+Active during: %1267-1299%.
+Born in: Flandre (Bouvines) ?.
+Diocese of origin: Diocèse de Tournai ?.
+Studied at: ?.
+Academic grades obtained: Magister ..
+Family relationships: Son frère est Jean dit LENEVEU ; Son frère est Henri de VACCARIA, chanoine de Lille (Saint-Pierre) ; Son parent est Henri de VACCARIA, chanoine de Gand (Sainte-Pharaïlde) ; Son parent est Guillaume dit LETONNVIER ; Son parent est Guillaume de VACCARIA, bourgeois de Lille ; Son parent est Simon de MANTIEL, serviens ;.
+Ecclesiastical status: Sous-diacre ;.
+Ecclesiastical positions held: Chanoine de Tournai %1281-1299% ;.
+University functions: Legum professor ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/05/2017..

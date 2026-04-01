@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Luce 1
+Also known as: Guillelmus LUCE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1342-1345%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Coutances ;.
+Studied at: Paris (Nation de Normandie) %:1342-1342%..
+Academic grades obtained: Maître ès arts (Paris) ;.
+Ecclesiastical status: Clerc du diocèse de Coutances ;.
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiastique à la collation de l’abbé et du couvent du monastère (bénédictin) de Saint-Sauveur-le-Vicomte en réponse au rotulus de l'Université de Paris en : mandat à l'abbé (bénédictin) de Montier-la-Celle, au chantre d’Avranches, chanoine de Rouen et à Stephanus PICARDI, chanoine de Coutances ;; Provision pour un bénéfice ecclésiastique à la collation de l’évêque, du doyen et du chapitre d’Angers en réponse au rotulus de l'Université de Paris en : mandat à l'évêque d’Avranches, à l’abbé (bénédictin) d’Angers (Saints Serge et Bacchus), et à l’abbé (O.S.A.) de Paris (Sainte-Geneviève) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 3/04/2020..

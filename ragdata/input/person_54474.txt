@@ -1,0 +1,11 @@
+PERSON: GUIDO de Cella
+Also known as: Guido de CELLA.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1288-1288%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Sens (‘Trésor’) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 26 octobre 2022..

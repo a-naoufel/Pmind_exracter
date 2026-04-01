@@ -1,0 +1,10 @@
+PERSON: BERNARDUS de Sancto Bricio
+Also known as: Bernardus de SANCTO BRICIO.
+Description: Chanoine de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1249-1253%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Rodez %1249-1252% ;; Chantre de Rodez %1252-1253% ;; Prieur de Salles (Saint-Paul et Notre-Dame-de-Vanc) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 1/06/2022..

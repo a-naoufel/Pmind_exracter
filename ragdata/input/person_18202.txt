@@ -1,0 +1,11 @@
+PERSON: HIERONYMUS Grossaine
+Also known as: Hieronymus GROSSAINE.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1499-1499%.
+Born in: Champagne ?.
+Studied at: Paris %1499-1499%..
+Academic grades obtained: Bachelier en décret (Paris) 25 février ..
+Ecclesiastical status: Clerc du diocèse de Reims..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 11-06-2015..

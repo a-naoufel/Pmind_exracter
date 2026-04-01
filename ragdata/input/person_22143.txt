@@ -1,0 +1,16 @@
+PERSON: GUILLELMUS de Bigard
+Also known as: Guillelmus de BIGARD.
+Description: Chanoine de Tournai.
+Status: Incertain.
+Gender: male.
+Active during: %1220-1257%.
+Born in: Brabant (GrandBigard) ?.
+Diocese of origin: Diocèse de Tournai ?.
+Studied at: ?.
+Academic grades obtained: Magister ..
+Family relationships: Son parent est Arnould de BIGARD, chanoine de Tournai ;.
+Social origin: Noble ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Tournai %1223-1256% ;.
+Other ecclesiastical functions: Archidiacre de Flandre en la cathédrale de Tournai %1234-1247% ;; Archidiacre d’Anvers en la cathédrale de Cambrai %1220-1233% ;; Archidiacre de Brabant en la cathédrale de Cambrai %1234-1257% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 22/05/2017..

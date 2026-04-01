@@ -1,0 +1,9 @@
+PERSON: ROBERTUS Le Gouteir
+Also known as: Robertus LE GOUTEIR.
+Description: Propriétaire d'une maison.
+Status: Extérieur.
+Gender: male.
+Active during: %1286-1286%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/08/2024.

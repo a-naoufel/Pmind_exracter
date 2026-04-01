@@ -1,0 +1,8 @@
+PERSON: MICHAEL Galerne
+Also known as: Michel GALERNE.
+Description: Barbier parisien..
+Status: Extérieur.
+Gender: male.
+Active during: %1425-1441%.
+Family relationships: Son fils est Colin GALERNE, barbier des enfants de choeur de Notre-Dame de Paris après ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 17/03/2019..

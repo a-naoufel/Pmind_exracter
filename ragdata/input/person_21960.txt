@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Everart
+Also known as: Guillelmus EVERART.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1420-1420%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) en ?.
+College affiliation: Boursier du Collège de Dormans-Beauvais ?.
+Source: LAMOP : Opération Charles VI :.

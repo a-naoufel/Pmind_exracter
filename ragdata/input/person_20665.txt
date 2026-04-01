@@ -1,0 +1,12 @@
+PERSON: GALO 3
+Also known as: GALON.
+Description: Abbé de Sainte-Geneviève.
+Status: Étudiant.
+Gender: male.
+Active during: %1222-1228%.
+Studied at: Paris %1222-1228%..
+Academic grades obtained: Étudiant ?.
+College affiliation: Sainte-Geneviève..
+Religious order: Chanoinerégulier(O.S.A. victorin) de Paris (Sainte-Geneviève)..
+Religious functions: Abbé (O.S.A.) de Paris (Sainte-Geneviève) %1222-1228%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 18/01/2021)..

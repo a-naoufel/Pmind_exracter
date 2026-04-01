@@ -1,0 +1,14 @@
+PERSON: PETRUS de Doyat
+Also known as: Petrus de DOYAT.
+Description: Chantre de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1482-1515%.
+Studied at: ?.
+Academic grades obtained: Bachelier en droit canon ;; Licencié en droit civil ;.
+Family relationships: Son parent est Claude de DOYAT, chantre de Clermont auquel il a succédé ; Son parent est Jean de DOYAT, chambellan de LOUIS XI, roi de France ;.
+Social origin: Noble :.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Prévôt de Clermont % -1482% ;; Chanoine de Clermont %1482-1515% ;; Chantre de Clermont %1486-1515% ;.
+Other ecclesiastical functions: Vicairegénéral de Clermont ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/10/2023..

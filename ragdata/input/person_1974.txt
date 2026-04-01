@@ -1,0 +1,11 @@
+PERSON: DIONYSIUS de Cauda
+Also known as: Dionysius de CAUDA; Dionysius de CANDA; Denis de COEUVRES.
+Description: Maître ès arts à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1315-1340%.
+Studied at: Paris (Collège de Navarre) %1315-1340%..
+Academic grades obtained: Étudiant en grammaire (Paris) ;; Maître ès arts (Paris) ;; Étudiant en théologie (Paris) ..
+College affiliation: Boursier grammairien au collège de Navarre à Paris en ;; Boursier théologien au collège de Navarre à Paris en ..
+Ecclesiastical positions held: Chanoineprébendé de Nevers, attesté en ;; Il détient une chapellenie à Sens, attesté en ;; Il détient une chapellenie à Paris, attesté en ;; Il détient l'église paroissiale de Barville (Diocèse de Sens) dès .; Provision pour un bénéfice ecclésiastique à la collation de l'évêque, du doyen et du chapitre de Meaux en ; mandat à l'abbé de Paris (Sainte-Geneviève), au doyen de Paris et à Aubert de GUIGNICOURT, chanoine de Soissons ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 21/05/2021)..

@@ -1,0 +1,8 @@
+PERSON: Socius de Johannes de Limoniis
+Also known as: SOCIUS de Johannes de LIMONIIS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris (Nation de Picardie) en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/09/2024)..

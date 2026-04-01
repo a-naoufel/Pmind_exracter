@@ -1,0 +1,13 @@
+PERSON: SANCIUS de Castilla
+Also known as: Sanche de CASTILLE.
+Description: Archevêque de Tolède.
+Status: Étudiant.
+Gender: male.
+Active during: %1245-1261%.
+Born in: Castille..
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ..
+Family relationships: Son père est FERDINAND III, roi de Castille ; Sa mère est Béatrice de SOUABE. Son frère est ALPHONSE X le Sage, roi de Castille. Son frère est Sanche de CASTILLE..
+Social origin: Noble..
+Ecclesiastical positions held: Archevêque de Tolède %1251-1261%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 27/02/2025)..

@@ -1,0 +1,12 @@
+PERSON: MATTHAEUS de Pomerio
+Also known as: Matthaeus de POMERIO.
+Description: Chanoine de Prémontré.
+Status: Gradué.
+Gender: male.
+Active during: %1426-1427%.
+Studied at: Paris %1426-1427%..
+Academic grades obtained: Bachelier cursor en %1426-1427%..
+College affiliation: Collège des Prémontrés %1426-1427% ?.
+Religious order: O. Praem. : chanoine de Prémontré..
+University functions: Paris (Faculté de Théologie : lecteur curseur, premier cours en , (16 janvier)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/03/2021)..

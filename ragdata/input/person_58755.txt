@@ -1,0 +1,10 @@
+PERSON: ROBERTUS Grammaticus
+Also known as: ROBERTUS grammaticus; Robertus ANGLICUS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1230-1240%.
+Studied at: Paris ?.
+Academic grades obtained: Maître ès arts (Paris)..
+Authored work: 'Notitie supra librum Topicorum Aristotelis', composed around %1230-1240%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 13/03/2024)..

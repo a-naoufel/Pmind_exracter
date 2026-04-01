@@ -1,0 +1,10 @@
+PERSON: RADULPHUS de Aurelianis
+Also known as: Radulphus de AURELIANIS.
+Description: Archiprêtre de Saint Séverin.
+Status: Maître.
+Gender: male.
+Active during: %1279-1279%.
+Studied at: Paris..
+Academic grades obtained: Maître en décret.
+Ecclesiastical positions held: Archiprêtre de Paris (Saint-Séverin) en ..
+University functions: Paris (Faculté de Décret : Maître régent en )..

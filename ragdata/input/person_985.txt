@@ -1,0 +1,11 @@
+PERSON: ARNALDUS de Aquis
+Also known as: Arnoldus de AQUIS; Arnoldus de AQUISGRANTI.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1358-1358%.
+Born in: Rhénanie (Aix-la-Chapelle) ?.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Academic relationships: Son maître est Henricus de SAXONIA..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 29/10/2020)..

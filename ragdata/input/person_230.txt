@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS de Taissencent
+Also known as: Aegidius de TAISSENCENT.
+Description: Bachelier ès arts..
+Status: Gradué.
+Gender: male.
+Active during: %1379-1379%.
+Diocese of origin: Diocèse de Thérouanne..
+Studied at: Paris (Nation de Picardie) ?..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Ecclesiastical status: Clerc du diocèse de Thérouanne..
+Ecclesiastical positions held: Candidat à un bénéfice ecclésiastique à la collation de l'évêque, du doyen et du chapitre de Thérouanne en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 03/05/2020)..

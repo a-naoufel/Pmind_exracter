@@ -1,0 +1,21 @@
+PERSON: NICOLAUS Tornacensis 1
+Also known as: Nicolaus TORNACENSIS; Nicolas de TOURNAI; Nicolas BUCHIAU de Tournai.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1200-1241%.
+Born in: Flandre (Tournai) ;.
+Diocese of origin: Diocèse de Tournai ?.
+Academic grades obtained: Maître en théologie (Paris)..
+Academic relationships: Son élève est Gauthier de MARVIS ;.
+Social origin: Noblesse ?.
+Ecclesiastical positions held: ?Doyen de Tournai..
+University functions: Paris (il enseigne la théologie entre et )..
+Authored work: 'Compilatio (sive distinctiones) de sapientia et lege dominica', composed around ?.
+Authored work: 'Moralia super Genesim', composed around ?.
+Authored work: 'Super Evangelium Lucae', composed around ?.
+Authored work: 'Super parabolas Salomonis', composed around ?.
+Authored work: 'Super librum Iudith', composed around ?.
+Authored work: 'Moralia super Exodum', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Source: MIRABILE :.

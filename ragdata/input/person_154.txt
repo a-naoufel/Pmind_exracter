@@ -1,0 +1,23 @@
+PERSON: ADRIANUS de But
+Also known as: Adrien de BUT; Hadrianus de BUDT; Adrien de SAFTINGEN.
+Description: Cistercien.
+Status: Gradué.
+Gender: male.
+Active during: %1460-1488%.
+Born in: Brabant (Saftingen, à proximité d’Anvers) ;.
+Diocese of origin: Diocèse de Cambrai ?.
+Studied at: Louvain ;; Paris ;.
+Academic grades obtained: Bachelier en théologie (Paris).
+College affiliation: Collège Saint-Bernard..
+Family relationships: Son parent est Jean CRABBE, abbé (cistercien) des Dunes..
+Academic relationships: Son maître est Gilles de ROYE au collège Saint-Bernard ;.
+Religious order: Cistercien : abbaye (cistercienne) des Dunes en ..
+Religious functions: Prieur (cistercien) des Dunes ;; Boursier (cistercien) des Dunes ;; Sous-cellérier (cistercien) des Dunes ;; Watergraaf (cistercien) des Dunes ;; Portier (cistercien) des Dunes..
+Authored work: 'Tractatus de Immaculata Conceptione B.M.', composed around ?.
+Authored work: 'Supplementum chronici magistri Aegidii a Roya et Bartholomei de Beca, religiosorum Dunensium, ab anno 1463 ad annum 1478', composed around ?.
+Authored work: 'Chronicon Flandriae inde a Ludovico I usque ad mortem Ioannis ducis Burgundiae', composed around ?.
+Authored work: 'Chronicon', composed around ?.
+Authored work: '(Gloses sur le Fasciculus temporum)', composed around ?.
+Authored work: 'Chronica abbatum monasterii de Dunis', composed around ?.
+Authored work: 'Rapiarium', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019)..

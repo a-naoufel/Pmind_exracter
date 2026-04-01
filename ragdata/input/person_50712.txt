@@ -1,0 +1,15 @@
+PERSON: GUILLELMUS de Aragonia
+Also known as: Guillelmus de ARAGONIA; Guillaume d'ARAGON; Guillelmus de HISPANIA.
+Description: Médecin.
+Status: Extérieur.
+Gender: male.
+Active during: %1300-1315%.
+Born in: Aragon ?.
+Studied at: Montpellier ?.
+Academic grades obtained: ?.
+Authored work: 'Comm. in Boetium De consolatione philosophiae', composed around ?..
+Authored work: 'Libellus de nobilitate animi', composed around ?.
+Authored work: 'Liber de pronosticationibus somniorum', composed around ?.
+Authored work: 'Comm. in Centiloquium Ptolomaei', composed around ?.
+Authored work: 'Summa super Physionomiam Aristotelis', composed around ?.
+Source: MIRABILE,Andrea CENCINI :.

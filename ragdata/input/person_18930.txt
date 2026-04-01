@@ -1,0 +1,11 @@
+PERSON: ELIAS Corrigiarius
+Also known as: Elias CORRIGIARIUS.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1200-1208%.
+Studied at: Paris %1200-1209% ?.
+Academic grades obtained: Magister..
+Authored work: 'Carmen I "Est interdicta venatio"', composed around %1206-1209% ?, dedicated to Adressé à Rodrigo JIMENEZ de RADA, futur archevêque de Tolède..
+Authored work: 'Carmen II "Extersis oculis aliorum"', composed around %1206-1209% ?, dedicated to Adressé à Rodrigo JIMENEZ de RADA, futur archevêque de Tolède..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 10/09/2015)..

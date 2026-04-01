@@ -1,0 +1,9 @@
+PERSON: BALDUINUS Anglici
+Also known as: Balduinus ANGLIC.
+Description: Nuntius.
+Status: Suppôt.
+Gender: male.
+Active during: %1477-1477%.
+Studied at: Paris (Nation de Picardie).
+University functions: Paris (Nation de Picardie : nuntius pour le diocèse de Thérouanne) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 09/03/2022..

@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Cheron
+Also known as: Guillaume CHERON.
+Description: Membre du collège de Montaigu.
+Status: Incertain.
+Gender: male.
+Active during: %1513-1513%.
+Studied at: Paris..
+Academic grades obtained: Gradué ès arts (Paris) en ;.
+College affiliation: Collège de Montaigu : membre en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

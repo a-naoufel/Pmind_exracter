@@ -1,0 +1,12 @@
+PERSON: PHILIPPUS de Trenello
+Also known as: Philippus de TRENELLO; Philippe de TRENEL.
+Description: Boursier au collège de Navarre..
+Status: Maître.
+Gender: male.
+Active during: %1372-1382%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris (Collège de Navarre) %1372-1382%..
+Academic grades obtained: Étudiant ès arts (Paris) ;; Maître ès arts (Paris) ;; Étudiant en théologie (Paris) %1378-1382%..
+College affiliation: Boursier artien au collège de Navarre à Paris en ;; Boursier théologien au collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 21/04/2024..

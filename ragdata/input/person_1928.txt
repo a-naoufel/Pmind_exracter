@@ -1,0 +1,8 @@
+PERSON: DENISOT de Seine
+Also known as: Denisot de SEINE; Denisot de SEVRE.
+Description: Relieur de livres.
+Status: Suppôt.
+Gender: male.
+Active during: %1356-1368%.
+Studied at: Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 24/11/2020)..

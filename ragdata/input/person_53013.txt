@@ -1,0 +1,10 @@
+PERSON: STEPHANUS de Berchencuria
+Also known as: Stephanus de BERCHENCURIA; Étienne de BERCHENCOURT; Étienne de BERTENCOURT.
+Description: Archidiacre d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1322-1337%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Amiens %1328-1337% ;; Archidiacre d’Amiens %1328-1337% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/11/2021..

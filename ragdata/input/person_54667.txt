@@ -1,0 +1,12 @@
+PERSON: PETRUS de Sacierges
+Also known as: Petrus de SACIERGES.
+Description: Évêque de Luçon.
+Status: Incertain.
+Gender: male.
+Active during: %1472-1514%.
+Studied at: ?.
+Academic grades obtained: Docteur in utroque jure ;.
+Family relationships: Son père est Étienne de SACIERGES ; Sa mère est Jeanne REYNAUD de la MERINIERES ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Poitiers (Saint-Hilaire) %1478- % ;; Chanoine d’Angers %1479- % ;; Sous-doyen de Poitiers (Saint-Hilaire) %1482-1514% ;; Abbé de Poitiers (églisecollégiale Notre-Dame-la-Grande) %1483-1514% ;; Doyen de Langres %1483-1485% ;; Chanoine de Poitiers %1484-1497% ;; Chanoine de Poitiers %1484-1497% ;; Abbécommendataire de LaChatille (diocèse de Lausanne) ;; Chanoine de Poitiers %1484-1497% ;; Évêque de Luçon %1491-1514% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 20/11/2022..

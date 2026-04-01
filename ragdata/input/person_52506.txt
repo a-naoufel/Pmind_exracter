@@ -1,0 +1,10 @@
+PERSON: PETRUS Bochetelli
+Also known as: Petrus BOCHETELLI; Pierre BOCHETEL.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1456-1460%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Reims %1456-1460% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 13/07/2021..

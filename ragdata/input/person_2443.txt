@@ -1,0 +1,9 @@
+PERSON: GALLERIUS Gorassy
+Also known as: Gallerius GORASSY.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1380-1380%.
+Studied at: Paris..
+Academic grades obtained: Bachelier en décret (Paris ?)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 31/08/2020..

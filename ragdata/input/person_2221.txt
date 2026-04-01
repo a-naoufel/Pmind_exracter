@@ -1,0 +1,26 @@
+PERSON: EBRARDUS de Valle Scholarum
+Also known as: Évrard du VAL; Évrard de VOULAINES; Évrard du VAL.
+Description: Prieur de Sainte-Catherine.
+Status: Maître.
+Gender: male.
+Active during: %1259-1272%.
+Born in: ?Bourgogne (Voulaines) ;.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) , selon une lettre d'ALEXANDRE IV..
+College affiliation: Sainte-Catherine..
+Religious order: O.S.A. : chanoine du Val-des-Écoliers.
+Religious functions: Prieur (ordre du Val-des-Écoliers ) de Paris (Sainte-Catherine) %1260-1272%..
+University functions: Paris (Faculté de théologie : maître-régent %:1259-1280%)..
+Authored work: 'Summa sermonum de festis et de sanctis', composed around ?.
+Authored work: '(Pour la Sexagésime)', composed around (28 février)..
+Authored work: 'In domenica duodecim post Pentecosten', composed around ?.
+Authored work: 'In domenica vicesima quarta post Pentecosten', composed around ?.
+Authored work: 'In domenica prima in Quadragesima', composed around ?.
+Authored work: 'In domenica quarta post Pascham', composed around ?.
+Authored work: 'Pour la fête de Sainte Catherine', composed around (25 novembre)..
+Authored work: 'Pour la fête de Saint Étienne', composed around .
+Authored work: 'Sermo', composed around ?.
+Authored work: 'In conversione Sancti Pauli', composed around ?.
+Authored work: 'In die Sancti Francisci', composed around ?.
+Authored work: 'Principium ?', composed around ?.
+Source: MIRABILE (MEL) : http://www.mirabileweb.it/.

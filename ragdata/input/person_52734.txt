@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Chalop
+Also known as: Guillelmus CHALOP.
+Description: Maître en décret.
+Status: Maître.
+Gender: male.
+Active during: %1300-1300%.
+Studied at: Paris..
+Academic grades obtained: Maître en décret (Paris).; Cité dans la cadre du procés d’Amelius de BROLIO en (novembre-décembre) parmi les maîtres illustres qui en tant que bacheliers lisaient le matin ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 4/10/2021..

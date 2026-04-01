@@ -1,0 +1,15 @@
+PERSON: HENRICUS Le Pelé
+Also known as: Henricus LE PELÉ; Henri LE PELÉ; Henri PELATI; Henri PELLATI; Henri PILATI.
+Description: Maître-régent de la Faculté de médecine.
+Status: Maître.
+Gender: male.
+Active during: %1393-1415%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris %1393-1415%..
+Academic grades obtained: Maître en médecine (Paris) attesté en ..
+Family relationships: Son frère est Jean LE PELÉ, fruitier du roi..
+Social origin: Bourgeoisie : il appartient à une famille de la bourgeoisie parisienne..
+Ecclesiastical status: Clerc du diocèse de Paris.; Laïc : marié..
+University functions: Paris (Faculté de médecine : Maître-régent %1393-1415%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 30/07/2022..

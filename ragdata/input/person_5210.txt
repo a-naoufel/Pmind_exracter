@@ -1,0 +1,12 @@
+PERSON: HUGO de Villanis
+Also known as: Hugo de VILLANIS; Hugo de VELAINE; Hugo de VILLAINES.
+Description: Clunisien.
+Status: Étudiant.
+Gender: male.
+Active during: %1320-1341%.
+Studied at: Paris (Collège de Cluny) %1320-1320%..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Procureur du collège de Cluny en ..
+Religious order: Clunisien.
+Religious functions: Prieur de Dampierre-sur-Salon (dépendance de Châlon-sur-Saône dans le diocèse de Langres) en ;; Visiteur de la province de France nommé au chapitre général de l'Ordre en mai ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Claire Priol-Hoogland ; Jean-Philippe Genet, dernière mise à jour 29/01/2021)..

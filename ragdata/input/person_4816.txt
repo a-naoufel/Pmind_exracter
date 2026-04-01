@@ -1,0 +1,68 @@
+PERSON: HENRICUS Totting de Oyta
+Also known as: Henricus TOTTING de Oyta; Henricus TOTTING DE OYTA; Henricus TOTTING DE EUTA; Henricus TOTTING DE HEUTA; Henricus TOTTING DE HOTYA; Henri TOTTING de OYTHA; Henricus de OYTA; Henricus de EWTA; Henricus de HWYTHA; Heinrich von OYTA; Henricus de EUTA; Henricus de HEUTA.
+Description: Prevôt de Wiedenbrück..
+Status: Maître.
+Gender: male.
+Active during: %1350-1397%.
+Born in: Rhénanie (Friseorientale : Oyta)..
+Diocese of origin: Diocèse d'Osnabrück ;.
+Studied at: Prague avant , %1366-1371% et %1381-1384% ;; Erfurt après ;; Paris (Nation Anglo-allemande) %1377-1381% ;; Vienne %1385-1397%..
+Academic grades obtained: Étudiant ès arts (Prague) avant ;; Maître ès arts (Prague) ;; Bachelier en théologie biblicus (Paris) attesté en ;; Licencié en théologie (Paris) en (Carême);; Maître en théologie (Paris) en (Carême) ;.
+Ecclesiastical status: Prêtre ordonné à Prague en ;.
+Ecclesiastical positions held: Prévôt de Wiedenbrück nommé en ;.
+University functions: Prague (Faculté des arts : maître-régent %1365-1370%) ;; Paris (Nation Anglo-allemande : Gerardus PILLICH intervient en (12 novembre) en faveur de deux maîtres étrangers, qui ne sont pas des maîtres parisiens, Henricus de EUTA et Jacobus de CRACOVIA :; Paris (Nation Anglo-allemande : il représente la nation auprès de l'évêque de Paris, pour lever les fonds nécessaires à l'entretien de biens de la nation en (11 janvier).; Paris (Nation Anglo-allemande : en (12 novembre), Gerardus de PELLIKEM suggère à la nation d'admettre "ad festum" Henricus TOTTING DE HOTYA et Jacobus de CRACOVIA, comme si ils étaient des maîtres ès arts de Paris. Ils pourraient payer un franc bejanium comme si ils étaient des novices. La nation refuse) ;; Paris (Nation Anglo-allemande : il demande en (22 avril) à la nation de l'inclure sur un rotulus au moment où seront faites les suppliques pour les étudiants de la Faculté de Théologie. La nation accepte à condition que cela ne porte pas préjudice aux maîtres présents et passés) ;; Paris (Nation Anglo-allemande : il demande en (12 septembre ) des lettres de recommandation à la nation pour l'évêque, le prévôt, le doyen et le chapitre de la ville d'Osnabrück) ;; Paris (Faculté de Théologie : lecteur des Sentences en %1377-1378%) ;; Paris (Faculté de Théologie : Maître-régent en ) ;; Paris (Université : il se joint à l'exode des maîtres allemands en et retourne à Prague) ;; Prague (Faculté de Théologie : Professeur en %1381-1384%) ;; Prague (Université : Vice-chancelier vers ) ;; Vienne (Faculté de théologie : Professeur %1385-1397%) :.
+Authored work: 'Lectura textualis super libros sententiarum', composed around Avant à Prague..
+Authored work: 'Sententiarum abbreviatio', composed around %1375-1378%, à Prague ou à Paris..
+Authored work: 'Quaestiones in Sententias', composed around %1378-1380%.
+Authored work: 'Collacio magistri Sententiarum super primum librum Sententiarum', composed around %1378-1379% ;.
+Authored work: 'Quaestio collative in aula', composed around .
+Authored work: 'Quaestiones in Psalmos', composed around .
+Authored work: 'Lectura super Psalterium', composed around %1384-1390%.
+Authored work: 'Comm. Cant.', composed around ?.
+Authored work: 'Comm. Marc.', composed around %1362-1367%.
+Authored work: 'In Johannem', composed around ?%1362-1368%.
+Authored work: 'Sermo in adventu episcopi Pataviensis in Viennam', composed around %1388-1389%.
+Authored work: 'Sermones de tempore et de sanctis', composed around ?.
+Authored work: 'Sermones duo de annuntiatione Mariae', composed around ?.
+Authored work: 'Sermones duo de purificatione Mariae', composed around ?.
+Authored work: 'Sermones tres de assumptione Mariae', composed around ?.
+Authored work: 'De beata Virgine', composed around ?.
+Authored work: 'De conceptione beate Marie virginis', composed around ?.
+Authored work: 'De nativitate beate Marie', composed around ?.
+Authored work: 'De nativitate Domini', composed around ?.
+Authored work: 'In adventu Domini', composed around ?.
+Authored work: 'Articuli sex anno 1371 ab Adalberto de Bohemia ad Gregorium XI delati', composed around .
+Authored work: 'De simonia', composed around .
+Authored work: 'Recommendatio magistrandorum', composed around à Prague..
+Authored work: 'De fructibus orationis', composed around .
+Authored work: 'De revelationibus et visionibus', composed around Après ..
+Authored work: 'Disputatio catholica contra Judaeos', composed around Après ..
+Authored work: 'De novo sacerdote', composed around ?.
+Authored work: 'Sacramentale per questiones compilatum', composed around ?.
+Authored work: 'Avisamenta decem quibus abusus in dioecesi Pataviensi notat', composed around %1379-1398% ?.
+Authored work: 'Quattuor notabilia', composed around ?.
+Authored work: 'Theses theologicae facultatis theologicae universitatis Viennensis', composed around .
+Authored work: 'Quaestiones consequentiarum', composed around ?.
+Authored work: 'Quaestiones metaphysice (L. VII-XII)', composed around ?.
+Authored work: 'Translatio Priorum', composed around ?.
+Authored work: 'Translatio Posteriorum', composed around ?.
+Authored work: 'Translatio Elenchorum', composed around ?.
+Authored work: 'Quaestiones super arte veteri', composed around ?.
+Authored work: 'Translatio veteris artis', composed around ?.
+Authored work: 'Lectura de anima', composed around ?.
+Authored work: 'Quaestiones de anima', composed around : attribution incertaine..
+Authored work: 'Expositio in libros Meteorologicorum', composed around ?.
+Authored work: 'Translatio physicorum', composed around ?.
+Authored work: 'Super libros de celo et mundo', composed around ?.
+Authored work: 'Translatio super libros generatione et corruptione', composed around ?.
+Authored work: 'Translationes super libros Meteororum', composed around ?.
+Authored work: 'Tractatus de Contractibus', composed around Après ..
+Authored work: 'Quaestiones IV de contractibus emptionis et venditionis', composed around ?.
+Authored work: 'Epistola Iohanni Munczinger canonico Augustiensi, magistro in artibus', composed around ?.
+Authored work: 'Translatio super libros Politicorum', composed around ?.
+Authored work: 'Translatio super libros Ethicorum', composed around ?.
+Authored work: 'Lectura Metaphysice', composed around ?.
+Authored work: 'Quaestiones circa De substantia orbis', composed around ?.
+Authored work: 'Quaestiones Physicorum', composed around ?.
+Authored work: 'Translatio super libros Economicorum', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

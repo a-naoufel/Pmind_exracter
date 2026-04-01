@@ -1,0 +1,11 @@
+PERSON: ADALBERTUS de Sarrebruck
+Also known as: Adalbertus de SARREBRUCK; Adalbert de SARREBRUCK.
+Description: Archevêque de Mayence.
+Status: Étudiant.
+Gender: male.
+Active during: %1128-1141%.
+Born in: Lorraine..
+Studied at: Hildesheim ;; Reims ;; Paris ;; Montpellier (école de médecine ) ..
+Social origin: Noble ;.
+Ecclesiastical positions held: Prévôt du chapitre d’Erfurt (Notre-Dame) ;; Prévôt de Mayence (Saint-Pierre) ;; Archevêque de Mayence , %1137-1141% ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019)..

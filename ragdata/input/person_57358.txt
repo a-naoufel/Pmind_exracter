@@ -1,0 +1,12 @@
+PERSON: OLIVERIUS Senescali
+Also known as: Oliverius SENESCALI; Oliverius de REDONO.
+Description: Chanoine du Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1278-1287%.
+Born in: Bretagne (Redon ?) ;.
+Diocese of origin: Diocèse de Rennes ?.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical positions held: Chanoine de LeMans %1278-1287% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/01/2024..

@@ -1,0 +1,12 @@
+PERSON: NICOLAUS de Aemsterdam 1
+Also known as: Nicolaus de AEMSTERDAM; Nicolaus de AEMSTERDAMME.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1383-1383%.
+Born in: Pays-Bas (Hollande : Amsterdam ?) ;.
+Diocese of origin: Diocèse d'Utrecht ?.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Étudiant ès arts (Paris) ;; Bachelier ès arts (Paris) ;.
+Academic relationships: Son maître est Johannes de AUSTRIA pour le baccalauréat en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/03/2023..

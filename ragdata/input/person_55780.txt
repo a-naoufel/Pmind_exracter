@@ -1,0 +1,9 @@
+PERSON: PETRUS Orage
+Also known as: Petrus ORAGE.
+Description: Notaire au Châtelet de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1485-1494%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

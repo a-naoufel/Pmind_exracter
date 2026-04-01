@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS 25
+Also known as: WILLELMUS.
+Description: Sous-bedeau de la Nation d'Angleterre.
+Status: Suppôt.
+Gender: male.
+Active during: %1395-1402%.
+Studied at: Paris (Nation Anglo-allemande) %1395-1402%..
+Academic grades obtained: ?.
+University functions: Paris (Nation Anglo-allemande : subbedellus en %1395-1402%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 27/09/2021..

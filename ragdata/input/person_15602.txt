@@ -1,0 +1,12 @@
+PERSON: ALBERTUS Keswin
+Also known as: Albertus KESWIN.
+Description: Bachelier en droit canon.
+Status: Gradué.
+Gender: male.
+Active during: %1483-1483%.
+Born in: Rhénanie ?.
+Diocese of origin: Diocèse de Spire..
+Studied at: Paris %1483-1483%..
+Academic grades obtained: Bachelier en décret (Paris) ..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (1er cours) en (15 février)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 25/06/2020)..

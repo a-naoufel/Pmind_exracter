@@ -1,0 +1,8 @@
+PERSON: GUILLELMUS Cenomanensis
+Also known as: Guillermus CENOMANENSIS.
+Description: Détenteur de maisons à Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1280-1280%.
+Social origin: Bourgeois de Paris ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 2/03/2022..

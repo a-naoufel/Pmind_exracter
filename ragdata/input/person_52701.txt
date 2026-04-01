@@ -1,0 +1,7 @@
+PERSON: TATINUS de Ciure
+Also known as: Tatinus de CIURE.
+Description: Frippier.
+Status: Extérieur.
+Gender: male.
+Active during: %1376-1376%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 25/09/2021..

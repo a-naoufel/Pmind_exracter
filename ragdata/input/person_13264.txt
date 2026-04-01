@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Prevost 2
+Also known as: Guillelmus PREVOST; Guillelmus PRAEPOSITI; Guillelmus PREPOSITI; Guillelmus DECANUS.
+Description: Carme.
+Status: Gradué.
+Gender: male.
+Active during: %1398-1398%.
+Studied at: Paris %1398-1398%..
+Academic grades obtained: Licencié en théologie (Paris) ..
+College affiliation: Couvent (carme) de Paris..
+Religious order: O.Carm. : frère carme..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 27/05/2022..

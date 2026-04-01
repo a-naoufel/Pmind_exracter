@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Sauvalle
+Also known as: Guillelmus SAUVALLE.
+Description: Procureur du curé d’Oissel.
+Status: Extérieur.
+Gender: male.
+Active during: %1340-1347%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

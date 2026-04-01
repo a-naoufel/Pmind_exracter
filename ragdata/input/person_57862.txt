@@ -1,0 +1,8 @@
+PERSON: MARGARETA de Marchia
+Also known as: Margareta de MARCHIA; LAMERCHE.
+Description: Locataire de la Sorbonne.
+Status: Extérieur.
+Gender: female.
+Active during: %1434-1437%.
+Social origin: Noble ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 14/06/2024.

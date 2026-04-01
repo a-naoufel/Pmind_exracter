@@ -1,0 +1,11 @@
+PERSON: STEPHANUS de Cathalauno
+Also known as: Stephanus de CATHALAUNO; Etienne de CHÂLONS.
+Description: Chanoine de Châlons.
+Status: Incertain.
+Gender: male.
+Active during: %1286-1296%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Meaux avant %1286- % ;; Chanoine de Châlons-en-Champagne %1286-1296% ;.
+Other ecclesiastical functions: Clerc du roi ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/06/2025.

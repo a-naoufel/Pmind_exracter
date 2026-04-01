@@ -1,0 +1,8 @@
+PERSON: LAURENTIUS Parvi
+Also known as: Laurentius PARVI; Laurent PETIT.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1443-1448%.
+Studied at: Paris %1443-1448%..
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..

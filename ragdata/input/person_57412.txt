@@ -1,0 +1,12 @@
+PERSON: GOBERTUS Tournemeulle
+Also known as: Gobert LE FEVRE.
+Description: Boursier au Collège de Laon.
+Status: Étudiant.
+Gender: male.
+Active during: %1489-1516%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie) %1489-1516% ;.
+Academic grades obtained: Étudiant en théologie (Paris) ;.
+College affiliation: Collège de Laon : boursier en théologie ;; Collège de Laon : principal en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 28/01/2024..

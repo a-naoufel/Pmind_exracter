@@ -1,0 +1,13 @@
+PERSON: NICOLAUS Ferrebouc
+Also known as: Nicolaus FERREBOUC.
+Description: Écolier-boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1378-1407%.
+Born in: Paris ?.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris %1378-1407%..
+Academic grades obtained: Étudiant (Paris) %1378-1407% ;.
+College affiliation: Collège de Dormans-Beauvais : boursier %1378-1407% ;.
+Family relationships: Son frère est Nicolas FERREBOUC ; Son parent est peut-être Jean FERREBOUC ; Son parent est peut-être Philibert FERREBOUC ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 7/12/2018..

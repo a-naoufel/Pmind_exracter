@@ -1,0 +1,12 @@
+PERSON: BERTRANDUS de Cardelhaco 1
+Also known as: Bertrandus de CARDELHACO; Bertrandus de CARDAILLAC.
+Description: Evêque de Cahors.
+Status: Extérieur.
+Gender: male.
+Active during: %1324-1367%.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son frère est Guillaume de CARDAILLAC, évêque de Saint-Papoul..
+Social origin: Noble..
+Ecclesiastical positions held: Évêque de Cahors %1324-1367%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 23/02/2021).

@@ -1,0 +1,12 @@
+PERSON: STEPHANUS de Refugio
+Also known as: Stephanus de REFUGIO; Étienne du REFUGE.
+Description: Chanoine de Troyes.
+Status: Gradué.
+Gender: male.
+Active during: %1473-1519%.
+Studied at: Paris ;; Ses frais de scolarité sont payés par son oncle, Ludovicus RAGUIER, évêque de Troyes ;.
+Academic grades obtained: Étudiant (Paris) ;; Bachelier en décret (Paris ?) ;.
+Family relationships: Son père est Raoul du REFUGE ; Son oncle est Ludovicus RAGUIER, évêque de Troyes ; Son frère est Petrus de REFUGIO, archidiacre de Troyes ; Son frère est Franciscus de REFUGIO, chanoine de Troyes ; Son frère est Carolus de REFUGIO, abbé de Montier-la-Celle ; Son cousin est Carolus CORDIER, chanoine de Troyes ;.
+Ecclesiastical status: Clerc ;; Prêtre ;.
+Ecclesiastical positions held: Chanoine de Troyes %1473-1519% ;; Chanoine de Troyes (Saint-Étienne) ;; Célérier de Troyes (Saint-Étienne) ;; Curé de Troyes (Saint-Denys) ;; Curé de Sacey (diocèse de Troyes) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 20/05/2023..

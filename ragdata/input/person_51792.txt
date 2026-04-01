@@ -1,0 +1,19 @@
+PERSON: THOMAS de Marlborough
+Also known as: Thomas de MARLBOROUGH; Thomas de MARLEBERGE.
+Description: Bénédictin.
+Status: Incertain.
+Gender: male.
+Active during: %1185-1232%.
+Born in: Angleterre (Marlborough ?)..
+Studied at: Paris vers ?; Oxford ;; Bologne ..
+Academic grades obtained: Étudiant ès arts et en théologie (Paris) dans les années ;; Étudiant en droit canon (Oxford) ?; Maître ?.
+Academic relationships: Son maître est Etienne LANGTON à Paris ;.
+Religious order: O.S.B. : moine (bénédictin) de l’abbaye (bénédictine) d'Evesham vers %1199-1200%..
+Religious functions: Sacriste d'Evesham ;; Prieur d'Evesham %1218-1229% ;; Abbé d'Evesham %1230-1236%..
+University functions: Oxford (il enseigne à Oxford avant la naissance de l’université, peut-être le droit canon)..
+Representation roles: Il participe au concile de LatranIV en ..
+Authored work: 'Vita Sancti Wigstani', composed around ?.
+Authored work: 'De Miraculis Sancti Ecgwini', composed around ?.
+Authored work: 'Vita Sancti Odulfi', composed around ?.
+Authored work: 'Vitae et Gesta Patronorum et Abbatum Eveshamie', composed around ?.
+Source: ODNB (Jane SAYERS) ;.

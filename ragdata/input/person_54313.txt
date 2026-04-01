@@ -1,0 +1,10 @@
+PERSON: LUDOVICUS de Chauvigny
+Also known as: Ludovicus de CHAUVIGNY.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1483-1487%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Sens %1483-1487% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 03/10/2022..

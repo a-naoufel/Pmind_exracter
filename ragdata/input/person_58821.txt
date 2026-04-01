@@ -1,0 +1,12 @@
+PERSON: RICARDUS de Dunstable
+Also known as: Ricardus de DUNSTABLE.
+Description: Prieur de Dunstable.
+Status: Extérieur.
+Gender: male.
+Active during: %1224-1246%.
+Studied at: Oxford..
+Academic grades obtained: Étudiant..
+Religious order: O.P. : frère dominicain, probablement en ;.
+Religious functions: Prieur du couvent (dominicain) de Dunstable à partir de ..
+Authored work: 'Quadrilogus de vita et moribus Sancti Edmundi', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 10/05/2025..

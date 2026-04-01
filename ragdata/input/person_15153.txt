@@ -1,0 +1,12 @@
+PERSON: PETRUS Viel
+Also known as: Pierre VIEL.
+Description: Maître en arts et bachelier en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1387-1399%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris (Nation de Normandie) %1387-1399%..
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en médecine (Paris) ..
+Ecclesiastical status: Clerc du diocèse de Rouen ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 15/08/2016..

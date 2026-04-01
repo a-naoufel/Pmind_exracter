@@ -1,0 +1,23 @@
+PERSON: DOMINICUS de Martiniaco de Clavaxio
+Also known as: Dominicus de MARTINIACO de CLAVAXIO; Dominicus de CLAVASIO; Dominicus PARISIENSIS; Dominicus BERTHELELLI.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1349-1358%.
+Born in: Italie (Piémont : Chivasso)..
+Diocese of origin: Diocèse d'Ivrée..
+Studied at: Paris (Nation de France ?) %1349-1357%..
+Academic grades obtained: Maître ès arts (Paris) ;; Maître en médecine (Paris) ..
+College affiliation: Boursier au Collège de Navarre à Paris ?; Principal du collège de Constantinople à Paris, ;.
+Academic relationships: Son maître est (peut-être) Nicole ORESME ? Son maître est (peut-être) Jean BURIDAN ? Son élève est Themo JUDAEUS pour la maîtrise en ; Son élève est Nicolaus ROEDE pour la licence en ;.
+Ecclesiastical status: Clerc du diocèse d'Ivrée ;.
+Ecclesiastical positions held: Provision pour un canonicat de Liège (Saint-Jean) en .; Recteur de l’église de Bouillancy ?; Provision pour un canonicat à la cathédrale d’Amiens en ; mandat à l’official de Paris ;.
+University functions: Paris (Faculté des Arts : Maîtrerégent %1349-1350%) ;; Paris (Faculté de Médecine : Maîtrerégent %1356-1357%) ;.
+Authored work: 'Practica geometrie', composed around Rédigé en à Paris..
+Authored work: 'Quaestiones De caelo et mundo', composed around Rédigé ..
+Authored work: 'Lectiones de sphera', composed around ?.
+Authored work: 'Questiones super perspectivam', composed around ?.
+Authored work: '[Commentaire sur les Meteora]', composed around ?.
+Authored work: '[Commentaire sur la Physique]', composed around .
+Authored work: 'Quaestio de sensu agente : utrum sensus sit virtus passiva', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet 2/01/2025)..

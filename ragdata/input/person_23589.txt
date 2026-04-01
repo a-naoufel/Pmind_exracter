@@ -1,0 +1,11 @@
+PERSON: PHILIPPUS de Buy
+Also known as: Philippe de BUY.
+Description: Hôte du Collège de Dormans-Beauvais.
+Status: Maître.
+Gender: male.
+Active during: %1412-1413%.
+Studied at: Paris %1413-1415%..
+Academic grades obtained: Maître ès arts (Paris) ;.
+College affiliation: Collège de Dormans-Beauvais : hôte ;.
+Family relationships: Son parent est Jean de BUY ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 19/07/2018..

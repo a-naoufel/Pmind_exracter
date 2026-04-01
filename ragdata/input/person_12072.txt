@@ -1,0 +1,10 @@
+PERSON: THOMAS de Malbodio
+Also known as: Thomas de MALBODIO ;; Thomas de MALOBODIO ;; Thomas de MALVODIO.; Thomas de MALEBODIO; Thomas de MAUBEUGE.
+Description: Stationarius.
+Status: Suppôt.
+Gender: male.
+Active during: %1316-1349%.
+Studied at: Paris..
+Academic grades obtained: ?.
+Family relationships: a femme est Berthe de MALBODIO en.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 13/11/2019..

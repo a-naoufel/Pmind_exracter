@@ -1,0 +1,9 @@
+PERSON: NICASIUS Minerus
+Also known as: Nicasius MINERUS.
+Description: Témoin d'un acte universitaire.
+Status: Incertain.
+Gender: male.
+Active during: %1390-1390%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

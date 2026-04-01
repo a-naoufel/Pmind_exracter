@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Valleti
+Also known as: Guillelmus VALLETI.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1385-1385%.
+Studied at: Paris %:1385-1385%..
+Academic grades obtained: Maître (Paris) avant ?.
+Family relationships: Son frère est Petrus VALLETI, licencié ès arts ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 05/06/2022)..

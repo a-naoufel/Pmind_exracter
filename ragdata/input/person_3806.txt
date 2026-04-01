@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Chaussardy
+Also known as: Guillelmus CHAUSSARDY; Guillelmus CHAUCHARDUS; Guillaume CHAUSSARD; Guillelmus CHAUSSARDI; Guillelmus CHOCHART; Guillelmus COCHART.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1398-1411%.
+Studied at: Paris %1398-1403%.
+Academic grades obtained: Bachelier en théologie (Paris) ;; Licencié en théologie (Paris) ;; Docteur en théologie (Paris) ..
+College affiliation: Couvent (carme) de Paris en %1398-1403%..
+Religious order: O.Carm. : frère carme du couvent (carme) de LaRochelle (province de Touraine)..
+Religious functions: Provincial (carme) de Touraine en , , , et ..
+University functions: Paris (Faculté de Théologie : Lecteur de la Bible en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 2/03/2022..

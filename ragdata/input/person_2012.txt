@@ -1,0 +1,11 @@
+PERSON: DOMINICUS de Montenotino
+Also known as: Dominique de MONTENOTINO.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1296-1329%.
+Studied at: ?.
+Academic grades obtained: Magister.
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Toulouse..
+Religious functions: Prieur (dominicain) de Carcassonne %1329-1329%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 09/06/2021)..

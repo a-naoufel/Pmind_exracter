@@ -1,0 +1,11 @@
+PERSON: AUBERTUS de Phares
+Also known as: Aubert de PHARES.
+Description: Médecin.
+Status: Incertain.
+Gender: male.
+Active during: %1390-1390%.
+Born in: ?France (Orléanais (Meung-sur-Loire))..
+Studied at: ?Paris..
+Academic grades obtained: Docteur en médecine (Paris)..
+Family relationships: ?Son parent est Simon de PHARES..
+Authored work: 'Climatz', composed around ?Paris.

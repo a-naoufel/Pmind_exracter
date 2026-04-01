@@ -1,0 +1,14 @@
+PERSON: ANDREAS Cornubiensis
+Also known as: Andreas CORNUBIENSIS; André de CORNOUAILLES; Andreas de CORNUBIA.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %:1275:-:1300:%.
+Born in: Angleterre (Cornouailles) ?.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) %:1275:-:1300:%..
+College affiliation: Couvent (franciscain) de Paris ?.
+Religious order: O.F.M. : frère franciscain ?.
+Authored work: 'Quaestiones super librum Sex Principiorum', composed around ?.
+Authored work: 'Quaestiones super Isagoge Porphyrii', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

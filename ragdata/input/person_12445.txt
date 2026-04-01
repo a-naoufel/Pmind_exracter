@@ -1,0 +1,10 @@
+PERSON: ZILFREDUS de Plaisance
+Also known as: Zilfredus de PLAISANCE; Sigfridus FUSTEN de Placentia; Zygfryd FUSTEN de Placentia.
+Description: Magister.
+Status: Extérieur.
+Gender: male.
+Active during: %1346-1346%.
+Studied at: Bologne..
+Academic grades obtained: Maître ès arts ?..
+Authored work: 'Quaestiones 3 disputatae', composed around à Bologne.
+Source: MIRABILE, Roberto GAMBERINI :.

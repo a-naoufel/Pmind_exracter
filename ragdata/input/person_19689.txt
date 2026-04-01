@@ -1,0 +1,11 @@
+PERSON: CONRADUS de Domo Almannorum
+Also known as: Conradus de DOMOALMANNORUM.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1359-1359%.
+Born in: ?Allemagne..
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+College affiliation: Collège des Allemands..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/04/2021..

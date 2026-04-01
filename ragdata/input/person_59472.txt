@@ -1,0 +1,12 @@
+PERSON: PETRUS Massé
+Also known as: Petrus MASSE.
+Description: Maître du collège d’Autun.
+Status: Maître.
+Gender: male.
+Active during: %1442-1442%.
+Born in: Auvergne ;.
+Diocese of origin: Diocèse de LePuy..
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) avant ..
+College affiliation: Collège d’Autun : maître en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

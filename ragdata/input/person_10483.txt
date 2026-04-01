@@ -1,0 +1,11 @@
+PERSON: RADULPHUS Simi
+Also known as: Radulfus SIMI; Raoul CAMUS.
+Description: Boursier grammairien au collège de Navarre..
+Status: Étudiant.
+Gender: male.
+Active during: %1374-1408%.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant en grammaire (Paris) ;.
+College affiliation: Boursier grammairien au collège de Navarre à Paris en ;.
+Ecclesiastical status: Clerc ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 12/03/2019..

@@ -1,0 +1,11 @@
+PERSON: LAURENTIUS Harel
+Also known as: Laurentius HAREL.
+Description: Primarius du collège de Lisieux.
+Status: Maître.
+Gender: male.
+Active during: %1492-1492%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie ?) ..
+Academic grades obtained: ?Maître en théologie (Paris ?) ;.
+College affiliation: Collège de Lisieux : boursier en ;; Collège de Lisieux : ‘primarius’ ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

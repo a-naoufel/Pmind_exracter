@@ -1,0 +1,11 @@
+PERSON: HUGO de Beauregard
+Also known as: Hugo de BEAUREGARD; Hugues de BEAUREGARD; Hugo de PULCHRO VISU.
+Description: Médecin..
+Status: Maître.
+Gender: male.
+Active during: %1454-1467%.
+Born in: Berry ?.
+Diocese of origin: Diocèse de Bourges..
+Studied at: Paris (Nation de France) %:1454-1458:% ;; Bourges ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Étudiant en médecine (Paris) %1455-1458% ;; Docteur en médecine (Paris ?) avant ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 30/08/2022..

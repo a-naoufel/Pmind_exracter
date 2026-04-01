@@ -1,0 +1,10 @@
+PERSON: GERARDUS Bruneval
+Also known as: Girard BRUNEVAL.
+Description: Boursier du collège de La Marche.
+Status: Étudiant.
+Gender: male.
+Active during: %1502-1502%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) en ;.
+College affiliation: Collège de LaMarche : boursier ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

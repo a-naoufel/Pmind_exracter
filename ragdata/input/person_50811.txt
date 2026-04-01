@@ -1,0 +1,12 @@
+PERSON: ALANUS de Lamballe
+Also known as: Alain de LAMBALLE.
+Description: Évêque de Saint-Brieuc.
+Status: Extérieur.
+Gender: male.
+Active during: %1295-1320%.
+Born in: Bretagne ?.
+Studied at: ?.
+Academic grades obtained: Magister.
+Ecclesiastical status: Sous-diacre quand il est nommé évêque..
+Ecclesiastical positions held: Chanoine de Laon %1295-1313% ;; Trésorier de Châlons %1306-1313% ;; Évêque de Saint-Brieuc %1313-1319%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 15/12/2020..

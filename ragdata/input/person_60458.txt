@@ -1,0 +1,13 @@
+PERSON: OLIVERIUS Aribart
+Also known as: Olivier ARIBART.
+Description: Présenté pour une bourse à la Sorbonne.
+Status: Étudiant.
+Gender: male.
+Active during: %1497-1497%.
+Born in: Bretagne ;.
+Diocese of origin: Diocèse de Saint-Malo ;.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Sorbonne : boursier ?.
+Ecclesiastical status: Prêtre ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

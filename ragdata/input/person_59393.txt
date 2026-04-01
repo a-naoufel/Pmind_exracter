@@ -1,0 +1,10 @@
+PERSON: SIMONA La Rolande
+Also known as: Symonne la ROLANDE.
+Description: Femme d’un procureur en Parlement.
+Status: Extérieur.
+Gender: female.
+Active during: %1484-1484%.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son mari est Pierre ROUSSELET, procureur en Parlement ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

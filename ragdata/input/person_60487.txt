@@ -1,0 +1,13 @@
+PERSON: PETRUS Fillau
+Also known as: Petrus FILLAU; Pierre FILAN.
+Description: Boursier du collège de Navarre.
+Status: Maître.
+Gender: male.
+Active during: %1501-1515%.
+Born in: Orléanais ;.
+Diocese of origin: Diocèse d’Orléans ;.
+Studied at: Paris ;.
+Academic grades obtained: Maître ès art (Paris) ;.
+College affiliation: Collège de Navarre : boursier en ;.
+Academic relationships: Son maître est Johannes LEJUMEL au collège de Navarre ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

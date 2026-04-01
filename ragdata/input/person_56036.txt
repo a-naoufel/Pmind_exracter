@@ -1,0 +1,58 @@
+PERSON: RICARDUS de Sancto Victore
+Also known as: Ricardus de SANCTOVICTORE.
+Description: Prieur de Saint-Victor.
+Status: Maître.
+Gender: male.
+Active during: %1130-1173%.
+Born in: Angleterre ?.
+Studied at: Paris..
+Academic grades obtained: Magister ;.
+Academic relationships: Son maître est peut-être Hugues de SAINT-VCTOR ?.
+Religious order: Chanoine (O.S.A.) de Paris (Saint-Victor) ;.
+Religious functions: Sous-prieur (O.S.A.) de Paris (Saint-Victor) %1159-1162% ;; Prieur (O.S.A.) de Paris (Saint-Victor) %1162-1173% ;.
+University functions: Paris (École de Saint-Victor : maître..
+Authored work: 'Ad te clamat ex Seir', composed around ?.
+Authored work: 'Adnotationes in quosdam Psalmos', composed around ?.
+Authored work: 'De differentia peccati mortalis et venialis', composed around ?.
+Authored work: 'De duodecim patriarchis', composed around ?.
+Authored work: 'De Emmanuele', composed around ?.
+Authored work: 'De exterminatione mali et promotione boni', composed around ?.
+Authored work: 'De gratia contemplationis', composed around ?.
+Authored work: 'De meditandis plagis quae circa finem mundi evenient', composed around ?.
+Authored work: 'De mystico somnio regis Nabuchodonosor', composed around ?.
+Authored work: 'De oratione dominica', composed around ?.
+Authored work: 'De potestate ligandi et solvendi', composed around ?.
+Authored work: 'De quattuor gradibus violentiae caritatis', composed around ?.
+Authored work: 'De sacrificio Davidis prophetae', composed around ?.
+Authored work: 'De spiritu blasphemiae', composed around ?.
+Authored work: 'De statu interioris hominis', composed around ?.
+Authored work: 'De Trinitate', composed around ?.
+Authored work: 'De verbis Apostoli', composed around ?.
+Authored work: 'Expositio in visionem Ezechielis', composed around ?.
+Authored work: 'In Apocalipsim', composed around ?.
+Authored work: 'In expositione tabernaculi federis', composed around ?.
+Authored work: 'Liber exceptionum', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: '(Lettre à Robert de Melun)', composed around ?, dedicated to Adressée à Robert de MELUN..
+Authored work: '(Lettre au pape Alexandre III)', composed around ?, dedicated to Adressée à ALEXANDRE III..
+Authored work: 'De imagine mundi compendiose compilatus', composed around ?.
+Authored work: 'Adnotationes elucidotariae in Abdiam', composed around ?.
+Authored work: 'Commentarium in Nahum prophetam', composed around ?.
+Authored work: 'Commentarium in libro Ruth', composed around ?.
+Authored work: 'De decem sybillis', composed around ?.
+Authored work: 'De essentia divinitatis', composed around ?.
+Authored work: 'De laudibus beatae Mariae virginis', composed around ?.
+Authored work: 'Epistula ad Severinum de gradibus caritatis', composed around ?.
+Authored work: 'In oratione dominica', composed around ?.
+Authored work: 'Liber seu tractatus de caritate', composed around ?.
+Authored work: 'Orationes', composed around ?.
+Authored work: 'Sermones centum', composed around ?.
+Authored work: 'Libellus de canone mystici libaminis', composed around ?.
+Authored work: 'Tractatus super Cantica Canticorum', composed around ?.
+Authored work: 'Carbonum et cinerum', composed around ? ;.
+Authored work: 'Causam quam nesciebant', composed around ?.
+Authored work: 'De differentia sacrificii Abrahae a sacrificio beatae Mariae Virginis', composed around ?.
+Authored work: 'De iudiciaria potestate in finali et universali iudicio'.
+Authored work: 'De questionibus Regulae Sancti Augistini', composed around ?.
+Authored work: 'De concordia temporum conregnantium super Iudam et Israel', composed around ? ;.
+Source: MIRABILE : Andrea CENCINI :.

@@ -1,0 +1,9 @@
+PERSON: MARTINUS Constantin
+Also known as: Martinus CONSTANTIN.
+Description: Nonce pour le diocèse de Rieux.
+Status: Suppôt.
+Gender: male.
+Active during: %1449-1449%.
+Studied at: Paris (Nation de France)..
+University functions: Paris (Université : Nonce pour le diocèse de Rieux, reçu en (27 mai)) ;.
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 27/01/2023.

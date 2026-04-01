@@ -1,0 +1,15 @@
+PERSON: GERARDUS de Sancto Desiderio
+Also known as: Gerardus de SANCTO DESIDERIO; Gérard de SAINT-DIZIER.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1340-1352%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Châlons-sur-Marne..
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) ;; Licencié en médecine (Paris) .; Maître en médecine (Paris) ;.
+Social origin: ?.
+Ecclesiastical status: Clerc du diocèse de Châlons ;.
+Ecclesiastical positions held: Recteur de Paris (égliseparoissiale Saint-Cosme) ;; Chanoineprébendé de Bar-sur-Aube ;; Provision pour un bénéfice ecclésiastique à la collation de l’évêque, du doyen et du chapitre de Langres en réponse au rotulus de l’Université de Paris en : mandat à l’abbé (O.S.A.) de Paris (Sainte-Geneviève), au chantre d’Arras et à l’official de Châlons ;.
+University functions: Paris (Faculté de Médecine : doyen vers %1347-1349%) ;; Paris (Faculté de Médecine : maître-régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe GENET, 28/10/2019..

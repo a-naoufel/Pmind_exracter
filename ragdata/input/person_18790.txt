@@ -1,0 +1,10 @@
+PERSON: PETRUS Rogerii
+Also known as: Petrus ROGERII.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+Family relationships: Il est peut-être le parent de Guillelmus ROGERII qui s'acquitte de sa contribution en même temps que lui ; Philippus ROGERII s'en acquitte le même jour..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 22/08/2015..

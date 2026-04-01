@@ -1,0 +1,11 @@
+PERSON: FRANCISCUS de Brugis
+Also known as: Franciscus de BRUGIS.
+Description: Maître ès arts de Cologne.
+Status: Maître.
+Gender: male.
+Active during: %1478-1478%.
+Born in: Flandres (Bruges)..
+Diocese of origin: Diocèse de Tournai ;.
+Studied at: Paris (Nation de Picardie) avant ?.
+Academic grades obtained: Maître ès arts (Paris) avant ;; Maître ès arts (Cologne) ;; Intégré comme maître ès arts parisien ;.
+Source: RAG ;.

@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Pressainvilla
+Also known as: Guillelmus PRESSAINVILLA.
+Description: Licencié en droit canon.
+Status: Maître.
+Gender: male.
+Active during: %1432-1432%.
+Studied at: Paris ..
+Academic grades obtained: Licencié en décret (Paris) ..
+Social origin: Noble ;.
+Religious order: O.S.B. : moine bénédictin de l'abbaye (O.S.B.) de Blois (Saint-Laumer) dans le diocèse de Chartres ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/04/2022..

@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Granval
+Also known as: Guillaume de GRANVAL.
+Description: Membre du Collège de Maître-Gervais.
+Status: Étudiant.
+Gender: male.
+Active during: %1374-1374%..
+Born in: Normandie..
+Studied at: Paris (Nation de Normandie ?)..
+Academic grades obtained: Étudiant en théologie (Paris)..
+College affiliation: Collège de Maître-Gervais : socius ;; Collège de Maître-Gervais : boursier théologien %1374 ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Marion Bernard-Schweitzer 15/09/2020..

@@ -1,0 +1,10 @@
+PERSON: SALOMON Brito
+Also known as: Salomon BRITO.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1309-1311%.
+Born in: Bretagne ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 08/04/2020..

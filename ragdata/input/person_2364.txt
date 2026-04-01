@@ -1,0 +1,11 @@
+PERSON: FRANCO de Luveyn
+Also known as: Francon de LUVEYN; Franciscus de LUNERII.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1272-1272%.
+Born in: Brabant (Louvain ?) ?.
+Diocese of origin: Liège ?.
+Studied at: Paris ..
+Academic grades obtained: Maître en médecine (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 28/08/2021..

@@ -1,0 +1,14 @@
+PERSON: PHILIPPUS Tristan
+Also known as: Philippus TRISTAN.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1505-.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Beauvais ;.
+Studied at: Paris (Nation de Picardie).
+Academic grades obtained: Maître ès arts (Paris) en ;.
+College affiliation: Collège Sainte-Barbe : étudiant vers %1505-1509% ?; Collège des Bons Enfants : maître-régent ‘in grammaticalibus’ pendant deux ans et demi avant ;; Collège des Cholets : boursier en ;.
+Academic relationships: Son maître est Ludovicus BER pour son cursus en arts au collège Sainte-Barbe vers %1506-1509% ;.
+University functions: Paris (Nation de Picardie : maître-régent au collège des BonsEnfants avant ) ;; Paris (Nation de Picardie : procureur en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 07/02/2025)..

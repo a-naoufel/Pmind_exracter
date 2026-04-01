@@ -1,0 +1,11 @@
+PERSON: BERALDUS de Chauveynhiaco
+Also known as: Beraldus de CHAUVEYNHIACO.
+Description: Chanoine de Troyes.
+Status: Étudiant.
+Gender: male.
+Active during: %1356-1367%.
+Studied at: Paris ;; Orléans..
+Academic grades obtained: Étudiant ès arts (Paris) ;; Étudiant en droit civil (Orléans) ;.
+Family relationships: Son père est Philippe de CHAUVEYNHIACO, camérier du pape ;.
+Ecclesiastical positions held: Chanoine de Troyes %1356-1367% ;; Chanoine de Brandeville (diocèse de Tournai) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 22/04/2023..

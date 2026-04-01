@@ -1,0 +1,8 @@
+PERSON: NICOLAUS Le Besc
+Also known as: Nicolaus LEBESC; Nicolas LEBOSC.
+Description: Écrivain.
+Status: Suppôt.
+Gender: male.
+Active during: %1401-1403%.
+Studied at: Paris %1401-1403%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/10/2023..

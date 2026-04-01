@@ -1,0 +1,11 @@
+PERSON: BERNARDUS 1
+Also known as: BERNARDUS.
+Description: Archidiacre.
+Status: Maître.
+Gender: male.
+Active during: %1152-1152%.
+Studied at: Paris..
+Academic grades obtained: Magister (Paris) ..
+Ecclesiastical status: Prêtre.
+Ecclesiastical positions held: Chanoine de Paris (Notre-Dame) :; Archidiacre..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 14/08/2017..

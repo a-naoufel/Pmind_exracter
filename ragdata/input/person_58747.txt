@@ -1,0 +1,10 @@
+PERSON: ROBERTUS de Aucumpno
+Also known as: Robert de AUCUMPNO; Robert de HAUTECOMBE.
+Description: Maître ès arts.
+Status: Incertain.
+Gender: male.
+Active during: %1260-1260%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ?.
+Authored work: 'Glossa super Elenchos', composed around ?.
+Source: MIRABILE :.

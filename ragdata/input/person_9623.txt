@@ -1,0 +1,10 @@
+PERSON: AUGERIUS de Placeio
+Also known as: Ogier de PLACEIO.
+Description: Boursier au collège de Navarre..
+Status: Étudiant.
+Gender: male.
+Active during: %1376-1378%.
+Studied at: Paris (Collège de Navarre) %1376-1378%..
+Academic grades obtained: Étudiant en grammaire (Paris) ;; Étudiant ès arts (Paris) ..
+College affiliation: Collège de Navarre : boursier grammairien à Paris en ;; Boursier artien au collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 26/11/2020)..

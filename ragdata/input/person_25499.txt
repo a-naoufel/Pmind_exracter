@@ -1,0 +1,10 @@
+PERSON: GUIDO Serrarii
+Also known as: Guido SERRARII.
+Description: Chanoine de Besançon.
+Status: Incertain.
+Gender: male.
+Active during: %1432-1439%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical positions held: Chanoine de Besançon %1432-1439%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/02/2022)..

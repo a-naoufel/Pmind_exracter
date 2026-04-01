@@ -1,0 +1,9 @@
+PERSON: PETRUS Viviani 1
+Also known as: Petrus VIVIANI.
+Description: Bénéficiaire du testament de Stephanus VIDE de Boissiaco.
+Status: Extérieur.
+Gender: male.
+Active during: %1363-1363%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,11 @@
+PERSON: ALEXIUS Olbrecht
+Also known as: Alexis OLBRECHT; Alexis OLOBREK; Albertus de GÖRLITZ.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1453-1457%.
+Born in: Saxe (Lausitz) ?.
+Diocese of origin: Diocèse de Meissen ?.
+Studied at: Paris (Nation Anglo-allemande) %:1456-1457%.; Cologne ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maîtr ès arts (Paris) ..
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction, Jean-Philippe Genet, 08/07/2020..

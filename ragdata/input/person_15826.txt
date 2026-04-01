@@ -1,0 +1,11 @@
+PERSON: CLAUDIUS Vauberet
+Also known as: Claudius VAUBERET.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1498-1498%.
+Diocese of origin: Diocèse de Lyon..
+Studied at: Paris %1498-1498%..
+Academic grades obtained: Bachelier en décret (Paris) (le 11 août) ..
+Ecclesiastical positions held: Prêtre..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 15/04/2021..

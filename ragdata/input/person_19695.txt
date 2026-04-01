@@ -1,0 +1,9 @@
+PERSON: EMELOTA filia Odeline
+Also known as: EMELOTA.
+Description: Bourgeoise de Paris.
+Status: Extérieur.
+Gender: female.
+Active during: %1254-1254%.
+Family relationships: Son père est NICOLAUS, pergamenarius, déjà décédé en ; Sa mère est ODELINA ; Sa soeur est EMELINA..
+Social origin: Commun..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 14/07/2021)..

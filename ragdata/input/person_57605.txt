@@ -1,0 +1,9 @@
+PERSON: RADULPHUS de Rosa
+Also known as: Radulphus de ROSA.
+Description: Pénitentiaire pontifical.
+Status: Extérieur.
+Gender: male.
+Active during: %1227-1241%.
+Religious order: O.F.M. : frère franciscain..
+Other ecclesiastical functions: Pénitentiaire pontifical de GRÉGOIRE IX ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 18/03/2024..

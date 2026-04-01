@@ -1,0 +1,11 @@
+PERSON: GILBERTUS Wichman
+Also known as: Gilbert WICHMAN.
+Description: Chanoine de Saint-Andrews.
+Status: Maître.
+Gender: male.
+Active during: %1366-1372%.
+Born in: Écosse..
+Studied at: Paris..
+Academic grades obtained: Bachelier en décret ;; Licencié en décret ?.
+Religious order: Chanoine (O.S.A.) du prieurécathédral de Saint-Andrews en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 4/08/2021..

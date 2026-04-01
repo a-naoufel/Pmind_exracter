@@ -1,0 +1,8 @@
+PERSON: B. BRIANSON
+Also known as: B. BRIANSON.
+Description: Scribe.
+Status: Suppôt.
+Gender: male.
+Active during: %1468-1468%.
+Studied at: Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 27/11/2020)..

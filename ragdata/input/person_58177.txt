@@ -1,0 +1,25 @@
+PERSON: THADDAEUS de Parma
+Also known as: Thaddaeus PAULI de Ramponibus de Parma.
+Description: Professeur à Bologne et à Sienne.
+Status: Incertain.
+Gender: male.
+Active during: %1318-1325%.
+Born in: Italie (Émilie-Romagne ? : Parme ?)..
+Diocese of origin: Diocèse de Parme..
+Studied at: Bologne ;; Sienne..
+Academic grades obtained: Maître..
+University functions: Bologne (professeur ca.%1318-1321%).; Sienne (professeur vers %1321-1325%) ;.
+Authored work: 'Quaestiones disputatae de esse et essentia', composed around ?.
+Authored work: 'Quaestio disputata de causa', composed around ?.
+Authored work: 'Quaestio disputata de genere', composed around ?.
+Authored work: 'Quaestio disputata de necessitata', composed around ?.
+Authored work: 'Quaestio disputata utrum in anima sensitiva sit aliquis sensus agens', composed around ?.
+Authored work: 'Quaest. dis de quantitate', composed around ?.
+Authored work: 'Quaestio disputata utrum dimensiones interminate precedant formam substantialem in materia …', composed around ?.
+Authored work: 'Expositio super theorica planetarum', composed around (12 juillet) à Bologne..
+Authored work: 'Questiones super librum Metaphysicorum', composed around ?.
+Authored work: 'Quaestio de possibilitate et modo augmenti', composed around ?.
+Authored work: 'Quaestiones super libros de Anima', composed around ?.
+Authored work: 'Quaestio disputata de elementis.', composed around à Bologne ?.
+Authored work: 'Quaestio itrum mala complexio diversa que est febris possit esse in omnibus partibus corporis cuius alteratur complexio', composed around ?.
+Source: MIRABILE : Federico CONTINI :.

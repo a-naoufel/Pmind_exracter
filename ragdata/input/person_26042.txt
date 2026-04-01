@@ -1,0 +1,15 @@
+PERSON: GUILLELMUS de Fourches
+Also known as: Guillermus dictus de FOURCHES.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1400-1403%.
+Born in: Orléanais ?.
+Diocese of origin: Diocèse de Orléans ;.
+Studied at: Paris %1400-1403%.
+Academic grades obtained: Bachelier en décret (Paris) ;.
+Social origin: Noble ;.
+Ecclesiastical status: Clerc du diocèse d’Orléans en ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Rotulus licentiatorum et bacallariorum in decretis Parisius adressé à BENOÎT XIII en ;.
+University functions: Paris (Faculté de Décret : lecteur %1400-1403%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 29/04/2019..

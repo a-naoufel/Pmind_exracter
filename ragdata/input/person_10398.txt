@@ -1,0 +1,10 @@
+PERSON: PETRUS de Labatut
+Also known as: Pierre de LABATUT.
+Description: Maître en théologie.
+Status: Extérieur.
+Gender: male.
+Active during: %1290-1306%.
+Studied at: Toulouse..
+Academic grades obtained: Maître en théologie (Toulouse ?)..
+Religious order: O.P. : frère dominicain..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/02/2024..

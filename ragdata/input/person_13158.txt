@@ -1,0 +1,9 @@
+PERSON: ANSELMUS Sauceyo
+Also known as: Anselmus SAUCEYO.
+Description: Licencié en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1480-1480%.
+Studied at: Paris %:1480-1480%..
+Academic grades obtained: Licencié en théologie (Paris) (28 mars) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Claire Priol ; Jean-Philippe Genet, dernière mise à jour 11/09/2020)..

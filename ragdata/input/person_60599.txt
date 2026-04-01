@@ -1,0 +1,9 @@
+PERSON: NICOLAUS de Lonibus
+Also known as: Nicolaus de LONIBUS.
+Description: Licencié en décret.
+Status: Incertain.
+Gender: male.
+Active during: %1501-1501%.
+Studied at: ?.
+Academic grades obtained: Licencié en décret en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

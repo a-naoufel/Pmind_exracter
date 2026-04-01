@@ -1,0 +1,9 @@
+PERSON: BERNARDUS 13
+Also known as: BENARDUS.
+Description: Étudiant en médecine à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris, ..
+Academic grades obtained: Étudiant en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 14/01/2021)..

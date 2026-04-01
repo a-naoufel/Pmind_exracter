@@ -1,0 +1,7 @@
+PERSON: STEPHANUS de Guippy
+Also known as: Stephanus de GUIPPY.
+Description: Locataire de la Sorbonne.
+Status: Extérieur.
+Gender: male.
+Active during: %1432-1432%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 04/07/2024..

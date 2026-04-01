@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Monte Altaris
+Also known as: Guillelmus de MONTE ALTARIS; Guillaume de MONTAUTIER.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1371-1380%.
+Studied at: ?.
+Academic grades obtained: Licencié en droit civil ;; Bachelier en droit canon ;.
+Ecclesiastical positions held: Chanoine de Rouen %1378-1380% ;; Chanoine de Beauvais ;.
+Other ecclesiastical functions: Officialdel’archidiacre de Paris ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 04/04/2022..

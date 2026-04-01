@@ -1,0 +1,9 @@
+PERSON: CAROLUS de Rogbroek
+Also known as: Carolus de ROGBROEK.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1446-1446%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/03/2021)..

@@ -1,0 +1,12 @@
+PERSON: ROBERTUS de Fontibus
+Also known as: Robertus de FONTIBUS.
+Description: Bachelier en décret.
+Status: Maître.
+Gender: male.
+Active during: %1424-1425%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse d’Amiens ;.
+Studied at: Paris (Nation de Picardie) %1424-1425% ;.
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en décret (Paris) en (20 décembre) ;.
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (L. IV) en (24 janvier) : pour la 1ère année et le 1er volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour, 27/11/2025..

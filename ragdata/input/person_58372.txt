@@ -1,0 +1,12 @@
+PERSON: HENRICUS Arnault de Zwolle
+Also known as: Henricus ARNAULT de Zwolle.
+Description: Astronome.
+Status: Incertain.
+Gender: male.
+Active during: %1430-1465%.
+Born in: Pays-Bas (Overijssel : Zwolle ?) ?.
+Studied at: ?.
+Academic grades obtained: Docteur en médecine ?.
+Academic relationships: Son maître est Johannes FUSORIS : il aurait donc peut-être été étudiant parisien ?.
+Authored work: '(Notes et dessins pour une horloge planétaire)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 7/01/2025..

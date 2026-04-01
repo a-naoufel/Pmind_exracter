@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Verdejoye
+Also known as: Guillermus VERDEJOYE.
+Description: Commissaire au Châtelet.
+Status: Incertain.
+Gender: male.
+Active during: %1428-1428%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

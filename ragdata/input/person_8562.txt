@@ -1,0 +1,10 @@
+PERSON: LAMBERTUS Flamingus
+Also known as: Lambertus FLAMINGUS.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1343-1343%.
+Born in: Flandre ?.
+Studied at: Paris (Nation de Picardie ?) ;.
+Academic grades obtained: Maître ès arts (Paris ?) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/08/2023)..

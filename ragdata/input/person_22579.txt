@@ -1,0 +1,10 @@
+PERSON: STEPHANUS de Lago
+Also known as: Stephanus de LAGO.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1278-1278%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+Ecclesiastical positions held: Prêtre..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 16/02/2024..

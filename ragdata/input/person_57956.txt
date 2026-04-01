@@ -1,0 +1,10 @@
+PERSON: MICHAEL Claustre
+Also known as: Michael CLAUSTRE.
+Description: Conseiller-clerc au Parlement de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1398-1437%.
+Studied at: Paris %1398-1403%..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Étudiant en décret (Paris) %1398-1403% ;.
+College affiliation: Collège d’Autun : boursier artien au collège d’Autun ;; Collège d'Autun : boursier en décret en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,12 @@
+PERSON: PETRUS de Has
+Also known as: Petrus de HAS; Petrus de ASTA; Petrus de HAEST; Petrus de HASE; Petrus de HASTA.
+Description: Recteur de l'Université de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1461-1471%.
+Studied at: Paris (Nation de Picardie) %1461-1471%..
+Academic grades obtained: Bachelier en théologie (Paris) attesté en ;; Licencié en théologie (Paris) (6 février) ;; Maître en théologie (Paris) ..
+College affiliation: Apparait parmi les théologiens du Collège de Navarre en et en ;.
+Academic relationships: Son maître est Gauffridus CALVI..
+University functions: Paris (Faculté de Théologie : Lecteur de la Bible comme bachelier en théologie, 31 août ) ;; Paris (Faculté de Théologie : Lecteur de la Bible comme bachelier en théologie, 27 août ) ;; Recteur de l'Université de Paris élu le 15 décembre ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 22/08/2015..

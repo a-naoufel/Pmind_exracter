@@ -1,0 +1,10 @@
+PERSON: SIMON Le Fevre
+Also known as: Simon LE FEVRE.
+Description: Procureur du collège de Fortet.
+Status: Étudiant.
+Gender: male.
+Active during: %1512-1512%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège de Fortet, procureur et receveur ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023..

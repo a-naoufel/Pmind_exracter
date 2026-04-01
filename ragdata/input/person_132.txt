@@ -1,0 +1,11 @@
+PERSON: ADEMARUS de Croso
+Also known as: Ademarus de CROSO; Odemarus de CROSO; Aymar de CROS.
+Description: Chanoine de Clermont.
+Status: Maître.
+Gender: male.
+Active during: %1302-1333%.
+Studied at: Paris en ..
+Academic grades obtained: Maître ;.
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine de Clermont %1302-1333% ;; Chanoine d'Orcival %1313-1316% ;; Prieur d'Orcival ;; Prieur de Roffiac ;; Chanoine de Chartres %1324-1333% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 13/09/2023)..

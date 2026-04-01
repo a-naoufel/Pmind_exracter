@@ -1,0 +1,11 @@
+PERSON: BENEDICTUS Hendier
+Also known as: Benoît HENDIER.
+Description: Maître en théologie augustin.
+Status: Maître.
+Gender: male.
+Active during: %1498-1514%.
+Studied at: Paris..
+Academic grades obtained: Licencié en théologie (Paris) (26 janvier) ;; Maître en théologie (Paris) ?.
+College affiliation: Couvent (augustin) de Paris (Grands-Augustins)..
+Religious order: O.E.S.A. : frère augustin..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 29/12/2023..

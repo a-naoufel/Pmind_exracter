@@ -1,0 +1,11 @@
+PERSON: Prior Sancti Eligii Cerense
+Also known as: Prior SANCTI ELIGII Cerense; Prior SANCTI ELIGII Corense.
+Description: Prieur de Saint-Éloi de ?Cerveteri.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant (Paris) ?.
+Religious order: Régulier..
+Religious functions: Prieur de Cerveteri (Saint-Éloi) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 12/05/2024..

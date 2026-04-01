@@ -1,0 +1,13 @@
+PERSON: ADAM Baquellarii
+Also known as: Adam BAQUELLARII; Ade BAQUELLARII.
+Description: Étudiant ès arts et en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1390-1403%.
+Born in: Champagne..
+Diocese of origin: Diocèse de Langres..
+Studied at: Paris (Nation de France) %1390-1395%..
+Academic grades obtained: Étudiant à la faculté des Arts en .; Étudiant à la faculté de Décret en ..
+Ecclesiastical status: Clerc du diocèse de Langres..
+Ecclesiastical positions held: Candidat à un office ou un bénéfice à la collation de l'évêque, du doyen et du chapitre de Meaux, en (15 janvier) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019)..

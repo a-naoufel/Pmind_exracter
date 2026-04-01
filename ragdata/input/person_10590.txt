@@ -1,0 +1,10 @@
+PERSON: RADULPHUS de Ulmonte 2
+Also known as: Radulphus de ULMONTE; Il faut probablement le dissocier de Radulphus de ULMONTE chanoine de Reims évincé en ?.; Raoul d'ULMONT.
+Description: Boursier théologien au collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1393-1393%.
+Studied at: Paris %1393-1393%..
+Academic grades obtained: Étudiant en théologie (Paris) ..
+College affiliation: Boursier théologien au collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 03/05/2021..

@@ -1,0 +1,10 @@
+PERSON: ANTHONIUS de Montigny
+Also known as: Anthonius de MONTIGNY; Anthonius de MONTEGNY.
+Description: Bachelier Décret.
+Status: Maître.
+Gender: male.
+Active during: %1446-1448%.
+Studied at: Paris %1446-1448%..
+Academic grades obtained: Maître ès arts (?Paris) ;; Bachelier Décret (Paris) ..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (1er cours) en (6 juillet) ;; Paris (Faculté de Décret : Lecteur des Décrétales (1er cours) en (5 juin) ;..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; Jean-Philippe Genet, dernière mise à jour 28/09/2020)..

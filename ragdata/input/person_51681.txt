@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS Doquelet
+Also known as: Gilles DOQUELET.
+Description: Boursier du Collège de Laon..
+Status: Étudiant.
+Gender: male.
+Active during: %1398-1407%.
+Born in: Picardie ?.
+Studied at: Paris (Nation de Picardie) %1398-1407%..
+Academic grades obtained: Étudiant (Paris) %1398-1407% ?.
+College affiliation: Collège de Laon : boursier ès arts en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 11/12/2020..

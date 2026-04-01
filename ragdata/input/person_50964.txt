@@ -1,0 +1,15 @@
+PERSON: FERRICUS Viaudi
+Also known as: Ferricus VIAUDI.
+Description: Chanoine d’Auxerre.
+Status: Extérieur.
+Gender: male.
+Active during: %1309-1324%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse d’Auxerre ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Social origin: Bourgeoisie ?.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d’Auxerre %1404-1429% ;; Chanoine de Troyes (Saint-Étienne) ;.
+Other ecclesiastical functions: Notaire du chapitrecathédral d’Auxerre ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/07/2020)..

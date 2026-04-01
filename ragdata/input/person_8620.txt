@@ -1,0 +1,17 @@
+PERSON: LAURENTIUS Anglicus 2
+Also known as: Laurentius ANGLICUS; Laurentius HOUSOM; Laurentius de GLOUCESTRE; Laurentius de GLOUCESTRIA; Laurentius de GLOVERNIA; Laurent L'ANGLAIS.
+Description: Bénédictin.
+Status: Extérieur.
+Gender: male.
+Active during: %1298-1320%?.
+Born in: Angleterre..
+Studied at: Oxford (Gloucester College) %1298-1301% ;.
+Academic grades obtained: Bachelier en théologie (Oxford) ;; Docteur en théologie (Oxford) (le 5 juin) ;.
+Religious order: O.S.B. : moine de l'abbaye (bénédictine) de Gloucester en ;.
+Religious functions: Commissionné pour effectuer des visites des prieurés du diocèse de Winchester entre %1309-1312% ;; Prieur (bénédictin) de Boxgrove (Sussex) %1302-1319% ;; Procureur des Bénédictins au concile de Vienne en ..
+University functions: Oxford (Faculté de Théologie : Maître-Régent en %1301-1302%) ;.
+Representation roles: Il participe au concile de Vienne en en tant que procureur des Bénédictins..
+Authored work: '[Incipit disputacio Magistri Laurencii de Glovernia, quaternus III]', composed around %1301-1302%.
+Authored work: 'Vota quorundam magistrorum in theologia contra tres articulos partis Ordinis Minorum)', composed around ..
+Authored work: 'Vota quorundam magistrorum in theologia de Postilla super Apocalipsim fratris Petri Johannis Olivi', composed around %1318-1320%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol ; révision, Jean-Philippe GENET, 21/09/2024..

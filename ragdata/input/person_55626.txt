@@ -1,0 +1,10 @@
+PERSON: THEOBALDUS Boulengarii
+Also known as: Theobaldus BOULENGARII; Theobaldus LEODEGARII.
+Description: Chanoine d’Évreux.
+Status: Maître.
+Gender: male.
+Active during: %1365-1394%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en théologie (Paris) ;; Bachelier en droit civil ;; Docteur en décret (Paris) avant ;.
+Ecclesiastical positions held: Curé de Marcilly-sur-Eure ;; Chanoine d’Évreux %1368-1393% ;; Curé de Vernon (Saint-Loup) ;; Candidat à un canonicat avaec expectative de prébende de Bayeux sur un rotulus de maîtres et d’étudiants parisiens en (17-22 novembre) ;; Provision pour un canonicat de Tours (Saint-Martin) en réponse aux rotuli de maîtres et d’étudiants parisiens en (21 novembre) : mandat à l’abbé d’Évreux (Saint-Taurin), au chantre de Paris et à l’official de Tours ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/02/2023)..

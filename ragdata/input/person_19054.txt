@@ -1,0 +1,74 @@
+PERSON: ENGELBERTUS Admontensis
+Also known as: Engelbertus ADMONTENSIS; Engelbert d'ADMONT.
+Description: Abbé d'Admont.
+Status: Extérieur.
+Gender: male.
+Active during: %1271-1331%.
+Born in: Styrie (Volkersdorf, près de Purgstall-bei-Eggersdorf)..
+Studied at: Prague %1271-1274%.; Padoue %1276-1285% ou %1278-1287% ?.
+Academic grades obtained: Maître ?.
+Family relationships: Son frère est Ulrich POETSCH..
+Social origin: Bourgeoisie..
+Religious order: O.S.B. : moine bénédictin de l’abbaye (bénédictine) d'Admont ..
+Religious functions: Abbé de Salzbourg (Saint-Pierre) %1288-1297% ;; Abbé d'Admont %1297-1327%..
+Authored work: 'Tractatus de articulis fidei', composed around ?.
+Authored work: 'Dialogus concupiscentiae et rationis', composed around ?.
+Authored work: 'Tractatus metricus de consilio vivendi', composed around ?.
+Authored work: 'Tractatus de corpore Christi', composed around ?.
+Authored work: 'Epistola ad Chonradum IV, archiepiscopum, de officiis proelatorum', composed around ?, dedicated to Adressée à Konrad Von BREITENFURT, archevêque de Salzbourg.
+Authored work: 'Tractatus super evangelium : ‘In principio erat verbum’', composed around ?.
+Authored work: 'Tractatus de fascinatione', composed around ?.
+Authored work: 'Tractatus de gratia salvationis et justitia dampnationis humanae', composed around ?.
+Authored work: 'Tractatus de questione illa utrum deus adhuc incarnatus fuisset si primus homo lapsus non esset', composed around ?.
+Authored work: 'Tractatus de libero arbitrio', composed around ?.
+Authored work: 'Meditatio et recapitulatio articulorum passionis Domini', composed around ?.
+Authored work: 'Tractatus de miraculis Christi', composed around ?.
+Authored work: 'Tractatus de officiis et abusionibus eorum', composed around ?.
+Authored work: 'Tractatus de passione Domini et mysterio crucis', composed around ?.
+Authored work: 'Tractatus de passione Domini secundum Matthaeum', composed around ?.
+Authored work: 'Tractatus de providentia divina', composed around ?.
+Authored work: 'Expositio continua super psalmum CXVIII', composed around ?.
+Authored work: 'Psalterium Domino nostro Jesu Christo', composed around ?.
+Authored work: 'Psalterium B. Mariae Virgini', composed around ?.
+Authored work: 'Tractatus super XII antiphonas adventuales', composed around ?.
+Authored work: 'Tractatus de quaestionibus super antiphonam : Cum rex gloriae', composed around ?.
+Authored work: 'Libellus de XII questionibus specialibus de rebus ad fidem spectantibus', composed around ?.
+Authored work: 'Quaestiones de sanctissima trinitate personarum divinarum', composed around ?.
+Authored work: 'Tractatus de sensu doloris Christi in passione', composed around ?.
+Authored work: '(Sermones de tempore et de sanctis)', composed around ?.
+Authored work: 'Speculum virtutum moralium', composed around ?.
+Authored work: 'Tractatus de statu defunctorum seu defunctorum seu animarum post mortem', composed around ?.
+Authored work: 'Tractatus de ancillari officio B. Virginis', composed around ?.
+Authored work: 'Tractatus de summo bono hominis in hac vita', composed around ?.
+Authored work: 'Tractatus utrum sapienti competat ducere uxorem', composed around ?.
+Authored work: 'Compendium Philosophiae', composed around ca.?.
+Authored work: 'De fabulis et metaphoris', composed around ?.
+Authored work: 'Tractatus de naturis animalium', composed around ?.
+Authored work: 'Comm.in lib. Aristotelis De inundatione Nili', composed around ?.
+Authored work: 'Tractatus super lib. Aristotelis de Mundo', composed around ?.
+Authored work: 'Tractatus de causis et signis mutationis aeris et temporum', composed around ?.
+Authored work: 'Tractatus de causis longevitatis hominum ante diluvium', composed around ?.
+Authored work: 'Tabulae quaedam cum canonibus et perspectiva', composed around %1327-1331% ?.
+Authored work: 'Tractatus de quibusdam naturalibus', composed around ?.
+Authored work: 'Metra sequentia de intervallo', composed around %1327-1331%..
+Authored work: 'Summa de mundo', composed around ?.
+Authored work: 'Tractatus de Musica', composed around ?.
+Authored work: 'Opusculum de electione regis Rudolfi et de praelio contra regem Bohemia Ottocarum', composed around ..
+Authored work: 'Epistola ad mag. Ulricum, scholasticum Viennenensem de studiis et scriptis suis', composed around ??.
+Authored work: 'Opusculum de ortu, processu et fine regnorum et praecipue regni seu imperii Romani', composed around %1312-1313% ?.
+Authored work: 'Tractatus de vita et virtutibus Beatae Virginis', composed around ?.
+Authored work: 'Passio Beatae Katherinae', composed around ?.
+Authored work: 'Tractatus de regimine principum', composed around (Padoue)..
+Authored work: 'Compendium Aristotelis Libri politicorum sive legalium institutionum', composed around ?.
+Authored work: 'De Aristotelis politica', composed around ?.
+Authored work: 'Compendium Aristotelis ad Eudemium Ethice [extraits]', composed around ?.
+Authored work: 'Compendium Aristotelis Libri oeconomice', composed around ?.
+Authored work: 'Nota de oeconomica', composed around ?.
+Authored work: 'Compendium Aristotelis Rhetorice', composed around ?.
+Authored work: 'De Aristotelis bona fortuna', composed around ?.
+Authored work: 'Compendium de arte bellica', composed around ?.
+Authored work: 'Compendium de arte consilii', composed around ?.
+Authored work: 'Epistola ad Alexandrum de methodo consilii', composed around ?.
+Authored work: 'Summa sententiae libri Tullii De Officiis', composed around ?.
+Authored work: 'De regimine regum cum Epistola Alexandri de regiminis interrogatione', composed around ?.
+Source: MIRABILE :.

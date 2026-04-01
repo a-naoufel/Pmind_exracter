@@ -1,0 +1,10 @@
+PERSON: PETRUS Reginaldi 2
+Also known as: Petrus REGINALDI.
+Description: Recteur.
+Status: Maître.
+Gender: male.
+Active during: %1381-1381%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) ..
+University functions: Paris (Université : Recteur, élu en (octobre) jusqu'au 16 décembre) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 14/09/2023..

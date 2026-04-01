@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Le Marguenat
+Also known as: Nicolaus LEMARGUENAT; Nicolaus LEMARGANAT.
+Description: Candidat à une nonciature.
+Status: Suppôt.
+Gender: male.
+Active during: %1451-1452%.
+Born in: Champagne (Troyes) ;.
+Diocese of origin: Diocèse de Troyes ;.
+Studied at: Paris (Nation de France) %1451-1452%.
+University functions: Paris (Nation de France : candidat à l'office de nonce pour le diocèse de Troyes en (26 août)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/03/2023..

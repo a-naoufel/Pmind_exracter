@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS de Matiscone 2
+Also known as: Guillelmus de MATISCONE.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1298-1303%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Mâcon ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Couvent (dominicain) de Paris (Jacobins) ;.
+Religious order: O.P. : frère dominicain ;.
+Religious functions: Assistant de Thierry de AMELLA comme économe du Couvent (dominicain) de Paris ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/03/2020)..

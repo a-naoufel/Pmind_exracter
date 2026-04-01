@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Ganayo
+Also known as: Guillelmus de GANAYO; Guillaume de GENEY.
+Description: Chanoine d'Autun.
+Status: Incertain.
+Gender: male.
+Active during: %1489-1501%.
+Studied at: ?.
+Academic grades obtained: Maître..
+Ecclesiastical positions held: Chanoine d'Autun %1489-1501% ;.
+Other ecclesiastical functions: Secrétaire de la curie d'Autun ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 25/03/2022..

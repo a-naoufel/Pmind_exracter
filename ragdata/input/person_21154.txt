@@ -1,0 +1,10 @@
+PERSON: PETRUS Mauger 1
+Also known as: Petrus MAUGIER; Petrus MAUGER.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris ..
+Academic grades obtained: Maître (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/08/2016..

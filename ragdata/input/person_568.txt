@@ -1,0 +1,11 @@
+PERSON: AMBROSIUS Cimentarii
+Also known as: Ambrosius CIMENTARII; Ambrosius CIMENTIER; Ambrosius CYMENTERII.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1484-1500%.
+Studied at: Paris %1500-1500%.
+Academic grades obtained: Licencié en théologie (Paris) (le 13 janvier) ;; Docteur en théologie (Paris) (le 19 octobre) ..
+College affiliation: Couvent (franciscain) de Paris..
+Religious order: O.F.M. : frère franciscain..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 23/07/2020)..

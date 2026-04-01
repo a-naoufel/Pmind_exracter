@@ -1,0 +1,11 @@
+PERSON: CAROLUS Cuchart
+Also known as: Carolus CUCHART; Carolus CUSSART; Carolus alias Petrus CUCHART.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1500-1500%.
+Born in: Champagne ?.
+Studied at: Paris %1500-1500%..
+Academic grades obtained: Licencié en décret (Paris) (le 24 avril ou le 1er mai) ..
+Academic relationships: Élève de Claudius de HANGEST en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 1/04/2021)..

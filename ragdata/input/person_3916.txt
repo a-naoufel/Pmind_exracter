@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Guitard
+Also known as: Guillelmus GUITARD.
+Description: Évêque de Lisieux.
+Status: Incertain.
+Gender: male.
+Active during: %1344-1358%.
+Studied at: ?.
+Academic grades obtained: Docteur en droit canon ;.
+Religious order: Abbé (bénédictin) d’Évreux en ;.
+Ecclesiastical positions held: Chanoine d’Évreux % -1348% ;; Evêque de Tricastin (Saint-Paul-les-Trois-Châteaux) %1348-1349% ;; Evêque de Lisieux %1349-1358% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 5/05/2022..

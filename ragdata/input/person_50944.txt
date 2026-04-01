@@ -1,0 +1,10 @@
+PERSON: AEGIDIUS Maioris
+Also known as: Aegidius MAIORIS; Gilles LAMAYRE.
+Description: Chanoine d'Auxerre.
+Status: Étudiant.
+Gender: male.
+Active during: %1407-1432%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ;.
+Ecclesiastical positions held: Chanoine d'Auxerre %1407-1432% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 3/07/2020)..

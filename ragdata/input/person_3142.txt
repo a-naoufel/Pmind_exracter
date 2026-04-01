@@ -1,0 +1,10 @@
+PERSON: AEGIDIUS Des Moulins
+Also known as: Gilles DES MOULINS; EGIDIUS; Gilles DES MOLINS; Gilles DES MOLLINIS.
+Description: Chirurgien-juré.
+Status: Suppôt.
+Gender: male.
+Active during: %1499-1553%.
+Studied at: Paris, ..
+Ecclesiastical positions held: Peut-être chanoine de Paris..
+University functions: Prête serment à la Faculté de Médecine à Paris, (6 janvier)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, dernière mise à jour 07/01/2020..

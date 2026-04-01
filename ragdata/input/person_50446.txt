@@ -1,0 +1,10 @@
+PERSON: PETRUS Des Graviers
+Also known as: Perrenet DES GRAVIERS.
+Description: Écolier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1425-1430%.
+Studied at: Paris %1425-1430%..
+Academic grades obtained: Étudiant (Paris) %1425-1430%..
+College affiliation: Collège de Dormans-Beauvais : hôte %1425-1430% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 04/09/2019..

@@ -1,0 +1,11 @@
+PERSON: GUIDO de Frolois
+Also known as: Guy de FROLOIS.
+Description: Abbé de Flavigny.
+Status: Extérieur.
+Gender: male.
+Active during: %1330-1360%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.S.B. : moine bénédictin..
+Ecclesiastical positions held: Abbé (bénédictin) de Flavigny %1330-1360%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/01/2022..

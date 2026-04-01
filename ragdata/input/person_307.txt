@@ -1,0 +1,10 @@
+PERSON: ALANUS de Mirech
+Also known as: Alanus de MIRECH.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1345-1345%.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maitre ès arts (Paris) ;.
+University functions: Paris (Nation de France : il est l’un des maîtres témoins en (5 avril) de l’adoption du statut ne magistri vocentur a procuratore ad ordinandum nisi die qua in scholis actu legitur) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 24/01/2020..

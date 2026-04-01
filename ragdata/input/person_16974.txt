@@ -1,0 +1,10 @@
+PERSON: STEPHANUS 1
+Also known as: STEPHANUS.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1180-1180%.
+Studied at: Paris en ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège des Dix-Huit ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/04/2021)..

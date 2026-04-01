@@ -1,0 +1,10 @@
+PERSON: CARDO de Aurengia
+Also known as: Cardo de AURENGIA.
+Description: Bachelier en médecine à Paris..
+Status: Gradué.
+Gender: male.
+Active during: %:1325-1326%.
+Studied at: Paris..
+Academic grades obtained: Bachelier en médecine (Paris)..
+Academic relationships: Son maître est Johannes BIRGET, vers %1325-1326% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 31/03/2021..

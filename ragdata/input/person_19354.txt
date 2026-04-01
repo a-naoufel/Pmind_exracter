@@ -1,0 +1,9 @@
+PERSON: LOQUIN de Hone
+Also known as: Loquin de HONE.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1446-1446%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 31/08/2023..

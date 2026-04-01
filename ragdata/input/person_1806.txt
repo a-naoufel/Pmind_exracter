@@ -1,0 +1,11 @@
+PERSON: CONRADUS de Bohemia 1
+Also known as: Conraldus de BOHEMIA; Conradus de BOEMIA.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1313-1330%.
+Born in: Bohême ?.
+Studied at: Paris en %1313-1330%..
+Academic grades obtained: Magister ..
+Ecclesiastical positions held: Provision pour un bénéfice dans l'églisecathédrale de Wroclaw en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/04/2021..

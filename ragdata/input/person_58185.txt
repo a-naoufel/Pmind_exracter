@@ -1,0 +1,26 @@
+PERSON: MARTINUS Le Franc
+Also known as: Martin LE FRANC.
+Description: Prévôt de Lausanne.
+Status: Maître.
+Gender: male.
+Active during: %1430-1461%.
+Born in: Normandie, près d’Aumale ?.
+Diocese of origin: Diocèse de Rouen ?.
+Studied at: Paris (Nation de Normandie ?)..
+Academic grades obtained: Maître ès arts (Paris) ?.
+Ecclesiastical positions held: Chanoine de Turin .; Recteur de Genève (Saint-Gervais) ;; Prévôt de Lausanne..
+Other ecclesiastical functions: Administrateur du prieuré de la Novalaise..
+Representation roles: Il participe au concile de Bâle..
+Authored work: 'De bono mortis', composed around ?, dedicated to Dédié à Pierre de HÉRONCHEL..
+Authored work: 'Prologue de Jérémie', composed around ?..
+Authored work: 'In Alchoran Machometi', composed around ?.
+Authored work: '(Sermon sur Cant. 2 : 13-14)', composed around Au concile de Bâle ;.
+Authored work: 'Le champion des dames', composed around %1441-1442%., dedicated to Dédié à PHILIPPE le Bon, duc de Bourgogne..
+Authored work: 'Complainte du livre du Champion des dames a maistre Martin le Franc, son acteur', composed around ..
+Authored work: 'L’estrif de Fortune et Vertu', composed around %1447-1448%., dedicated to Dédié à PHILIPPE le Bon, duc de Bourgogne..
+Authored work: 'Agreste otium', composed around ..
+Authored work: 'Rondeau'.
+Authored work: 'Epistola ad Amedeum ducem Sabaudiae', composed around ?.
+Authored work: 'Epistola ad secretarios ducis Sabaudiae', composed around ?.
+Authored work: 'Oratio in funere Philberti de Ruppis ad capitulum Lausannense', composed around ?.
+Source: JONAS, I.R.H.T. ;.

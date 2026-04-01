@@ -1,0 +1,11 @@
+PERSON: PETRUS de Bosco 4
+Also known as: Petrus de BOSCO.
+Description: Grand Chantre de Bordeaux.
+Status: Incertain.
+Gender: male.
+Active during: %1455-1489%.
+Studied at: ?.
+Academic grades obtained: Bachelier en droit canon ;.
+Family relationships: Son neveu est Jean DUBOIS, archidiacre de Blaye ;.
+Ecclesiastical positions held: Chanoine d’Agen ;; Chanoine de Saint-Caprais ;; Chanoine de Bordeaux %1464-1472% ;; Trésorier de Bordeaux %1464-1472% ;; Grand-Chantre de Bordeaux %1474-1489% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/05/2022)..

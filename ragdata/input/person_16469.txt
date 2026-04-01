@@ -1,0 +1,12 @@
+PERSON: ALANUS Enfloech
+Also known as: Alanus ENFLOECH.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1393-1393%.
+Born in: Bretagne..
+Diocese of origin: Diocèse de Saint-Brieuc..
+Studied at: Paris en ..
+Academic grades obtained: Étudiant, sans indication de faculté..
+Ecclesiastical positions held: Provision pour un bénéfice à la collation de l'évêque, du doyen, du chantre et de l'évêque de Saint-Brieuc dans une supplique en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; dernière mise à jour,Jean-Philippe Genet, 28/05/2020)..

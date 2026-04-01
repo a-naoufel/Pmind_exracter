@@ -1,0 +1,8 @@
+PERSON: GUILLELMUS Le Hongre
+Also known as: Guillelmus LEHONGRE.
+Description: Bourgeois de Paris ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1284-1284%.
+Family relationships: Bourgeoisie ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/03/2024..

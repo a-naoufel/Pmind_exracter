@@ -1,0 +1,10 @@
+PERSON: NICOLAUS de Cussangeyo
+Also known as: Nicolaus de CUSSANGEYO.
+Description: Recteur de L'Université de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1371-1374%.
+Studied at: Paris (Nation de France) %1371-1374%..
+Academic grades obtained: Maître ès arts (Paris) avant ..
+University functions: Paris (Nation de France : procureur élu en (5 mai)) ;; Paris (Nation de France : il participe en tant que procureur en (6 mai) à une réunion sur la rémunération du curé de Paris (Saint-Nicolas-du-Chardonet) pour des messes dites en l’absence du chapelain, alors à Rome) ;; Paris (Université : Recteur : élu en (10 octobre) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 26/06/2025)..

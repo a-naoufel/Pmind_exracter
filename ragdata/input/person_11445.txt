@@ -1,0 +1,10 @@
+PERSON: SIMON de Compendio
+Also known as: Simon de COMPENDIO.
+Description: Doyen de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1294-1294%.
+Studied at: ?.
+Academic grades obtained: Magister.
+Ecclesiastical positions held: Doyen de Rouen en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019).

@@ -1,0 +1,12 @@
+PERSON: GILBERTUS de Clamencières
+Also known as: Gilbertus de CLEMENCIERES; Gilbertus de CLEMENCIEREZ; Gilbertus de CLAMENCIERES.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1444-1446%.
+Born in: Berry ?.
+Diocese of origin: Diocèse de Bourges..
+Studied at: Paris (Nation de France) %1444-1446% ;.
+Academic grades obtained: Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+University functions: Paris (Nation de France : maître-régent pour l'année ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 14/01/2022..

@@ -1,0 +1,14 @@
+PERSON: FRANCISCUS Chambellan
+Also known as: Franciscus CHAMBELLAN.
+Description: Clunisien.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1470%.
+Born in: Berry ?.
+Diocese of origin: Diocèse de Bourges ?.
+Studied at: Paris..
+Academic grades obtained: Étudiant à la Faculté de Théologie ?.
+College affiliation: Sorbonne : socius %1464-1470%..
+Family relationships: Son parent est David CHAMBELLAN, maître des requêtes de l'Hôtel du Roi..
+Religious order: O.Clun. : moine (clunisien) de l'abbaye de Cluny..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 21/08/2021..

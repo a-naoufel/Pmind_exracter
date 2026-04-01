@@ -1,0 +1,11 @@
+PERSON: GERARDUS de Remis
+Also known as: Gerardus de REMIS.
+Description: Frater.
+Status: Extérieur.
+Gender: male.
+Active during: %1250-1270%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: Frater.
+Authored work: 'Sermons', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 29/08/2017..

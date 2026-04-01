@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Gaufridy
+Also known as: Nicolaus GAUFRIDY.
+Description: Frater.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+Religious order: Religieux dont on ignore l'ordre..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 29/08/2015..

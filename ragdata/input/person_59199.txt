@@ -1,0 +1,8 @@
+PERSON: MARIA de Savigny
+Description: Femme d’un bourgeois de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1341-1345%.
+Family relationships: Son mari est Galfridus de SAVIGNY, bourgeois de Paris ;.
+Social origin: Bourgeoisie ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,8 @@
+PERSON: PHILIPPUS de Jeurre
+Also known as: Philippus de JEURRE.
+Description: Épicier et bourgeois de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1365-1365%.
+Family relationships: Bourgeois de Paris..
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

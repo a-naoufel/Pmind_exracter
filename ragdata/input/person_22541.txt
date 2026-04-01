@@ -1,0 +1,12 @@
+PERSON: THEOBALDUS de Divione
+Also known as: Theobaldus de DIVIONE.
+Description: Maître en décret.
+Status: Maître.
+Gender: male.
+Active during: %1245-1248%.
+Born in: Bourgogne (Dijon ?) ?.
+Diocese of origin: Diocèse de Langres ?.
+Studied at: Paris ..
+Academic grades obtained: Maître en décret (Paris) ;.
+Ecclesiastical positions held: Chanoine de Beaune en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 6/08/2017).

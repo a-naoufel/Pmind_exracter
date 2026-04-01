@@ -1,0 +1,11 @@
+PERSON: DURANDUS de Sancto Salvatore
+Also known as: Durandus de SANCTOSALVATORE.
+Description: Doyen de Châlons-en-Champagne.
+Status: Incertain.
+Gender: male.
+Active during: %1325-1345%.
+Studied at: ?.
+Academic grades obtained: Maître ;; Docteur en décret ;.
+Ecclesiastical positions held: Chanoine de Vienne %1327-1342% ;; Chanoine de Romand (Saint-Bernard) avant ;; Chanoine de Châlons-en-Champagne ;; Doyen de Châlons-en-Champagne ;.
+Other ecclesiastical functions: Official de Vienne %1325-1342% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 05/06/2025.

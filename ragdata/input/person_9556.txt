@@ -1,0 +1,9 @@
+PERSON: NICOLAUS de Valle 1
+Also known as: Nicolaus de VALLE.
+Description: Bachelier en médecine.
+Status: Gradué.
+Gender: male.
+Active during: %1331-1332%.
+Studied at: Paris %1331-1332%..
+Academic grades obtained: Bachelier en médecine (Paris) %1331-1332% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne TOURNIEROUX ; Jean-Philippe GENET, 29/08/2020..

@@ -1,0 +1,9 @@
+PERSON: PETRUS Moreau
+Also known as: Petrus MOREAU.
+Description: Protonotaire apostolique.
+Status: Extérieur.
+Gender: male.
+Active during: %1490-1490%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 05/09/2023..

@@ -1,0 +1,10 @@
+PERSON: RASSO Madidi
+Also known as: Rasso MADIDI.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1449-1477%.
+Studied at: Paris (Nation de Picardie) %1449-1477%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+University functions: Paris (Faculté de médecine : Doyen en ) ;; Paris (Faculté de médecine : Doyen en %1469)%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 24/01/2024..

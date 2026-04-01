@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Greinville
+Also known as: Guillelmus de GREINVILLE; Guillelmus de GRINIBONVILLA.
+Description: Maître en décret.
+Status: Maître.
+Gender: male.
+Active during: %1268-1279%.
+Studied at: Paris.
+Academic grades obtained: Maître en décret (Paris) ?; Étudiant en théologie (Paris) ?.
+College affiliation: Collège du Trésorier ?.
+Ecclesiastical status: Clerc..
+University functions: Paris (Faculté de Décret : Maître régent en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 26/03/2022..

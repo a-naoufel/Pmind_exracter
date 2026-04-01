@@ -1,0 +1,15 @@
+PERSON: GERARDUS de Brolio 1
+Also known as: Gerardus de BROLIO; Gérard du BREUIL.
+Description: Chanoine de Clermont.
+Status: Maître.
+Gender: male.
+Active during: %1275-1275%.
+Born in: Auvergne.
+Studied at: Paris ?.
+Academic grades obtained: Maître ès arts (Paris) ?.
+College affiliation: Sorbonne ?.
+Ecclesiastical positions held: Chanoine de Clermont..
+Authored work: 'Quaestiones de generatione et corruptione', composed around ?.
+Authored work: 'Quaestiones de generatione animalium', composed around ?.
+Authored work: 'Scripta super libros de animalibus', composed around %1268-1306%.
+Source: MIRABILE, Andrea CENCINI :.

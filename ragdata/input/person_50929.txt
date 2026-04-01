@@ -1,0 +1,30 @@
+PERSON: GUILLELMUS de Campellis
+Also known as: Guillaume de CHAMPEAUX; Guillelmus de CAMPELLIS; Guillelmus CAMPELLENSIS.
+Description: Évêque de Châlons.
+Status: Maître.
+Gender: male.
+Active during: %1090-1122%.
+Studied at: Paris..
+Academic grades obtained: Magister (Paris)..
+Academic relationships: Son élève est Pierre ABÉLARD..
+Ecclesiastical positions held: Archidiacre de Paris %1106-1112% ;; Évêque de Châlons-en-Champagne %1113-1121%..
+University functions: Paris (Notre-Dame de Paris : Écolâtre 1095-1109)..
+Representation roles: Légat à la conférence de Mouzon où il joue un rôle d'intermédiaire entre le Pape CALIXTE II et l'Empereur HENRI VI..
+Authored work: '(Sentences)', composed around ?.
+Authored work: 'Quaeritur quale corpus Chritus in cena discipulis dedit', composed around ?.
+Authored work: 'De essentia et substantia Dei et de tribus eius personis', composed around ?.
+Authored work: 'De origine animae', composed around ?.
+Authored work: 'De sacramento altaris', composed around ?.
+Authored work: '(Résumé des de Grégoire le Grand)', composed around ?.
+Authored work: 'Commentum in Boethii De differentiis topicis', composed around ?.
+Authored work: 'Commentum in Praedicamenta', composed around ?.
+Authored work: 'Commentum super Porphyri Isagogen', composed around ?.
+Authored work: 'Introductiones dialecticae secundum Wilgelmum', composed around ?.
+Authored work: 'Glosulae super Perihermeneias', composed around ?.
+Authored work: '(Commentaires sur le De Inventione de Cicéron)', composed around ?.
+Authored work: '(Commentaires sur le Ad Herennium de Cicéron)', composed around ?.
+Authored work: 'Notulae Dunelmenses', composed around ?.
+Authored work: 'Testamentum', composed around ?.
+Authored work: 'Charta', composed around ..
+Authored work: 'Dialogus inter christianum et iudaeum de fide catholica', composed around ?.
+Source: MIRABILE, Alessia SCUOR :.

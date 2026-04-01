@@ -1,0 +1,11 @@
+PERSON: RADULPHUS de Hervilla
+Also known as: Radullphus de HERVILLA.
+Description: Chanoine d'Autun.
+Status: Incertain.
+Gender: male.
+Active during: %1298-1301%.
+Born in: Bourgogne ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d'Autun %1298-1301% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/01/2023)..

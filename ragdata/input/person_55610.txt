@@ -1,0 +1,10 @@
+PERSON: PETRUS de Castellione
+Also known as: Petrus de CASTELLIONE.
+Description: Procureur de Sorbonne.
+Status: Étudiant.
+Gender: male.
+Active during: %1325-1325%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant ?.
+College affiliation: Collège de Sorbonne ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 28/03/2023 ;.

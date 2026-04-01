@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Claromonte
+Also known as: Guillelmus de CLAROMONTE; Guillelmus de CAROMONTE.
+Description: Licencié en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1397-1405%.
+Born in: Auvergne (Clermont)..
+Studied at: Paris (Collège Saint-Bernard) %1397-1405%.
+Academic grades obtained: Étudiant (Paris) ;; Licencié en théologie (Paris) ..
+College affiliation: Collège Saint-Bernard : étudiant en ;; Collège Saint-Bernard : proviseur ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 18/03/2022)..

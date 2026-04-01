@@ -1,0 +1,12 @@
+PERSON: Scolaris de Valle Sancti Lamberti
+Also known as: Scolaris de VALLESANCTI-LAMBERTI.
+Description: Cistercien.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Diocese of origin: Diocèse de Liège ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+College affiliation: Collège des Bernardins ;.
+Religious order: O. Cist. : abbaye (cistercienne) du Val-Saint-Lambert, diocèse de Liège ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 30/08/2016..

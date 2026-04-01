@@ -1,0 +1,12 @@
+PERSON: GOBERTUS Le Fevre
+Also known as: Gobert LE FEVRE.
+Description: Boursier au Collège de Laon.
+Status: Étudiant.
+Gender: male.
+Active during: %1470-1477%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie) %1470-1477% ;.
+Academic grades obtained: Étudiant ès arts (Paris) %1470-1474% ;; Étudiant en médecine (Paris) %1474-1477% ;.
+College affiliation: Collège de Laon : boursier ès arts %1470-1474% ;; Collège de Laon : boursier en médecine %1474-1477% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 28/01/2024..

@@ -1,0 +1,11 @@
+PERSON: ANTHONIUS Balue
+Also known as: Antonius BALUE.
+Description: Évêque de Saint-Pons de Thomières.
+Status: Extérieur.
+Gender: male.
+Active during: %1467-1501%.
+Studied at: ?.
+Family relationships: Son père est Thomassin BALUE, châtelain-procureur de la baronnie d'Angles-sur-Anglin ; Son frère est le Cardinal Jean de la BALUE..
+Religious order: Bénédictin.
+Ecclesiastical positions held: Évêque de Saint-PonsdeThomières %1467-1501%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 15/09/2020..

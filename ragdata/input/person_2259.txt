@@ -1,0 +1,10 @@
+PERSON: FIRMINUS Oliverii
+Also known as: Firminus OLIVERII.
+Description: Notaire apostolique.
+Status: Suppôt.
+Gender: male.
+Active during: %1385-1389%.
+Studied at: Paris ?.
+Academic grades obtained: ?.
+University functions: Paris (Université : notaire en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 5/08/2021..

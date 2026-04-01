@@ -1,0 +1,10 @@
+PERSON: DAVID
+Also known as: DAVID.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1487-1487%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Maître ès arts (Paris)..
+University functions: Paris (Nation Anglo-allemande : fidéjusseur avec Magister BERNHARDINUM pour Maître Jacobus LEDEL en (20 septembre) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 04/04/2021.

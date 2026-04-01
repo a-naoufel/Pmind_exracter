@@ -1,0 +1,14 @@
+PERSON: NICOLAUS de Freauvilla 2
+Also known as: Nicolaus de FREAUVILLA.
+Description: Chanoine d'Amiens et de Rouen.
+Status: Maître.
+Gender: male.
+Active during: %1316-1323%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Maître ès arts (Paris ??) ;; Étudiant en droit canon (Paris) en ;.
+Family relationships: Son oncle est le Cardinal Nicolas de FRÉAUVILLE ; Son parent est (peut-être) Nicolas de FRÉAUVILLE, chanoine de Saint-Marcel.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Rouen %1317-1323% ;; Chanoine d'Amiens %1316-1323% ;; Chanoine d'Orléans ;; Écolâtre d'Orléans ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/11/2021..

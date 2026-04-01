@@ -1,0 +1,9 @@
+PERSON: P. Champion
+Also known as: P. CHAMPION.
+Description: Docteur ès lois.
+Status: Incertain.
+Gender: male.
+Active during: %1311-1311%.
+Studied at: ?.
+Academic grades obtained: Magister ;; Docteur ès lois ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 08/04/2020..

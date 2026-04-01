@@ -1,0 +1,10 @@
+PERSON: G. cancellarius Turonensis
+Also known as: G...., chancelier de Tours.
+Description: Chancelier de Tours.
+Status: Incertain.
+Gender: male.
+Active during: %1244-1244%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chancelier de Tours en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 24/09/2021..

@@ -1,0 +1,14 @@
+PERSON: ROBERTUS de Sancto Germano
+Also known as: Robert de SAINT GERMAIN.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1391-1418%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris (Nation de Normandie) %1391-1414%..
+Academic grades obtained: Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Ecclesiastical status: Clerc du diocèse de Rouen ;; Sous-diacre ;; Prêtre en ;.
+Ecclesiastical positions held: Candidat au décanat d'Avranches en ;.
+University functions: Paris (Faculté de médecine : maître-régent en %1398-1414% ?) ;; Paris (Faculté de médecine : doyen en %1413-1414%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 11/02/2020..

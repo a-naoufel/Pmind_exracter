@@ -1,0 +1,9 @@
+PERSON: COLARDUS Regis
+Also known as: Colardus REGIS; Colardus REGIS alias de la Vigne; Colard de LAVIGNE.
+Description: Nuntius pour le diocèse de Tournai..
+Status: Suppôt.
+Gender: male.
+Active during: %1478-1478%.
+Studied at: Paris (Nation de Picardie) ..
+University functions: Paris (Nation de Picardie) : nuntius pour le diocèse de Tournai %1478-1479%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 20/04/2021..

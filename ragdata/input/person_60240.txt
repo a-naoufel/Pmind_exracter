@@ -1,0 +1,10 @@
+PERSON: PLAUTÉE Donjon
+Also known as: Plautée DONJON; Plautée DONIOU.
+Description: Sœur d’Olivier Du Donjon.
+Status: Extérieur.
+Gender: female.
+Active during: %1412-1412%.
+Born in: Bretagne ;.
+Diocese of origin: Diocèse de Tréguier ;.
+Family relationships: Son frère est Oliverius DONJON ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

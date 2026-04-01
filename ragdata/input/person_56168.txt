@@ -1,0 +1,9 @@
+PERSON: RENAUDUS
+Also known as: RENAUDUS.
+Description: Chanoine de Troyes.
+Status: Incertain.
+Gender: male.
+Active during: %1264-1282%.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Troyes %1264-1279% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 08/06/2023..

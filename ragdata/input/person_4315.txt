@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Monte Ardito
+Also known as: Guillelmus de MONTE ARDITO.
+Description: Chanoine de Périgueux..
+Status: Étudiant.
+Gender: male.
+Active during: %1310-1313%.
+Studied at: Paris en ..
+Academic grades obtained: Étudiant ?.
+Ecclesiastical positions held: Chanoine de Périgueux en .; Il a obtenu une dispense de trois ans pour études à l'université en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 04/04/2022..

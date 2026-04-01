@@ -1,0 +1,9 @@
+PERSON: BALDUINUS Fourment
+Also known as: Balduinus FOURMENT.
+Description: Nuntius.
+Status: Suppôt.
+Gender: male.
+Active during: %1479-1479%.
+Studied at: Paris (Nation de Picardie).
+University functions: Paris (Nation de Picardie : nommé nuntius pour le diocèse de Thérouanne en (21 juin))..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 3/12/2020)..

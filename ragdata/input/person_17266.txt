@@ -1,0 +1,10 @@
+PERSON: CAROLUS Descampes
+Also known as: Karolus DESCAMPES.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+Family relationships: Il est peut-être parent de Dom Johannes DESCAMPES qui règle sa contribution en même temps que lui ; Il est peut-être parent de Robertus DESCAMPES qui règle sa contribution en même temps que lui ; Il est peut-être parent de Michael DESCAMPES qui règle sa contribution en même temps que lui ; Il est peut-être parent de Johannes DESCAMPES qui règle sa contribution en même temps que lui ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 16/08/2015..

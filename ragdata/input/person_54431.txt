@@ -1,0 +1,10 @@
+PERSON: HUGO de Mantarvilla
+Also known as: Hugo de MANTARVILLA.
+Description: Chanoine de Sens (‘Saint Jean-Baptiste’).
+Status: Incertain.
+Gender: male.
+Active during: %1220-1220%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Sens ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 20 octobre 2022..

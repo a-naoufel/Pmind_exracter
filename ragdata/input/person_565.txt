@@ -1,0 +1,10 @@
+PERSON: AMBROSIUS Maloisel de Janua
+Also known as: Ambrocius MALOISEL de Janua; Ambrocius de JANUA; Ambrogio MALOCELLO.
+Description: Prisonnier.
+Status: Extérieur.
+Gender: male.
+Active during: %1426-1426%.
+Born in: Italie (Gênes)..
+Diocese of origin: Diocèse de Gènes ?.
+Studied at: ?Paris.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ dernière mise à jour, Jean-Philippe Genet, 23/07/2020..

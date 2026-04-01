@@ -1,0 +1,13 @@
+PERSON: HENRICUS de Suessia
+Also known as: Henricus de SUESSIA; Henricus TEMPIL?.
+Description: Chanoine.
+Status: Maître.
+Gender: male.
+Active during: %1313-1355%.
+Born in: Finlande.
+Studied at: Paris (Nationanglaise), ..
+Academic grades obtained: Magister (?P).
+Family relationships: Son frère est VINICHINUS, chanoine d'Åbo..
+Social origin: Bourgeoisie?.
+Ecclesiastical positions held: Presbyter;; Chanoine d'Åbo (Turku, Finlande), %1313-1355%;; Curé de Tenala (diocèse d'Åbo), ..
+Other ecclesiastical functions: Écolâtre d'Åbo (cathédrale), ..

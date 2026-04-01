@@ -1,0 +1,13 @@
+PERSON: RENERIUS Hanegreve
+Also known as: Regnier HANEGREVE; Regnier HANNEGREVE; Regnier HANNEGRAVE; Regnier HENNEGREVE; Regnier ENNEGRAVE; Reynerus HANEGRENE; Reynerus HANEGRANE; Reynerus HANEGREVE; Reynerus HANEGRENE; Reynerus HENNENGREF.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1453-1491%.
+Born in: Pays-Bas (Overijssel : Kampen)..
+Diocese of origin: Diocèse d'Utrecht..
+Studied at: Rostock avant ;; Paris (Nation Anglo-allemande) %1453-1477%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Family relationships: ?Parent de Egidius HANEGREVE, petit bedeau de la faculté de médecine en ..
+University functions: Paris (Nation Anglo-allemande : procureur en ) ;; Paris (Nation Anglo-allemande : receveur en %1467-1468%) ;; Paris (Faculté de médecine : Maître régent %1473-1484%) ;; Paris (Université : recteur en ) ;; Paris (Faculté de médecine : Doyen %1475-1477%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 16/01/2024)..

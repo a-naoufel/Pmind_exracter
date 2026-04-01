@@ -1,0 +1,11 @@
+PERSON: GALFREDUS de Lereyo
+Also known as: Galfredus de LEREYO.
+Description: Chanoine d’Auxerre.
+Status: Extérieur.
+Gender: male.
+Active during: %1255-1255%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Sous-diacre ;.
+Ecclesiastical positions held: Chanoine d’Auxerre ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/07/2020)..

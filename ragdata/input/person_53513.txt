@@ -1,0 +1,15 @@
+PERSON: RICARDUS de Cheshelm
+Also known as: Ricardus de CHESHELM.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1363-1368%.
+Born in: Écosse ;.
+Diocese of origin: Diocèse de Moray ;.
+Studied at: Paris (Nation Anglo-allemande ?) %1363-1367%..
+Academic grades obtained: Étudiant en décret (Paris) %1363-1367% ?.
+Family relationships: Son père est peut-être Robert de CHISHOLME, lord of Quarrelwood ; Son frère est peut-être William de CHISHELM :.
+Social origin: Noble ;.
+Ecclesiastical status: Clerc<6b> Recteur de Nevay %1361-1367% ;.
+Ecclesiastical positions held: Recteur de Dunbarney %1367-1368% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/03/2022)..

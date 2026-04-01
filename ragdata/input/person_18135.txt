@@ -1,0 +1,12 @@
+PERSON: HUGO Hugonis 1
+Also known as: Hugo HUGONIS.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1417-1417%.
+Born in: Lorraine ?.
+Diocese of origin: Diocèse de Metz..
+Studied at: Paris %1417-1417%..
+Academic grades obtained: Bachelier en décret (Paris) 26 novembre ..
+Religious order: Frater..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 01-06-2015..

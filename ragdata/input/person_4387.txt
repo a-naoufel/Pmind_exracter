@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Sancto Remigio
+Also known as: Guillelmus de SANCTO REMIGIO.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1362-1365%.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) ;.
+Ecclesiastical positions held: Candidat à un canonicat avec prébende de Furnes (Ste-Walburge) sur le rotulus des Maîtres en théologie régents en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/04/2022)..

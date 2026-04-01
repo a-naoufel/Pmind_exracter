@@ -1,0 +1,13 @@
+PERSON: THEODERICUS de Foro 2
+Also known as: THEODORICUS de Foro; Theodoricus de FORO; Theodoricus de SORBONA; /il est peut-être Theodoricus, socius de Sorbona;.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1345-1348%.
+Born in: ?Suède (Gotland (Fårö)).
+Studied at: Paris (Nationanglaise-allemande), %1345-1348%..
+Academic grades obtained: B.A. (P), Carême ;; L.A. (P), juin? ;; M.A. (P), ;.
+College affiliation: ?Socius du collège de Sorbonne, ..
+Academic relationships: Élève de maître NICOLAUS de Dacia (déterminance), ; Élève de maître GALTERUS de Wardlau (licence), ; Élève de maître GALTERUS de Wardlau (inception), ..
+University functions: Maîtrerégent de la Nationanglaise-allemande, 22 septembre .; Receveur de la Nationanglaise-allemande, 1er juin -19 mars ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 14/08/2020..

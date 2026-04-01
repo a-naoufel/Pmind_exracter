@@ -1,0 +1,8 @@
+PERSON: GUILLELMUS Giffard
+Also known as: Guillermus dictus GIFFARD.
+Description: Habitant de Paris ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1282-1282%.
+Social origin: Bourgeois de Paris ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/06/2018..

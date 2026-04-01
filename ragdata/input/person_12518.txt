@@ -1,0 +1,13 @@
+PERSON: PETRUS Odonis
+Also known as: Petrus ODONIS.
+Description: Moine bénédictin.
+Status: Gradué.
+Gender: male.
+Active during: %1394-1394%.
+Born in: Normandie ?.
+Studied at: Paris %1394-1394%..
+Academic grades obtained: Bachelier en décret "a longo tempore" (Paris) ..
+Ecclesiastical status: Prêtre en ;.
+Religious order: O.S.B. : moine (bénédictin) du Mont-Saint-Michel (diocèse d'Avranches) en ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus présenté par infrascriptis devotis oratoribus vestris in Romana curia presentibus, quorum aliqui Parisius gradus suos receperunt, et alii ibidem studuerunt à BENOÎT XIII en (23 octobre) à Avignon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 26/01/2019..

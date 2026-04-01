@@ -1,0 +1,12 @@
+PERSON: GONSALVUS Egidius
+Also known as: Gonzalo GIL.
+Description: Étudiant en théologie.
+Status: Étudiant.
+Gender: male.
+Active during: %1490-1510%.
+Born in: Espagne ?.
+Studied at: Salamanque ;; Paris..
+Academic grades obtained: Maître ès arts (Salamanque) ?; Étudiant en théologie (Paris) ;.
+Authored work: '(Commentaire sur le Perhermeneias)', composed around ?.
+Authored work: '(Commentaire sur les Analytica Posteriora)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/02/2019..

@@ -1,0 +1,7 @@
+PERSON: ROBERTUS Amit
+Also known as: Robertus AMIT.
+Description: Malfaiteur.
+Status: Extérieur.
+Gender: male.
+Active during: %1400-1400%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/01/2022..

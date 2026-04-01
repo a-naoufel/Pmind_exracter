@@ -1,0 +1,14 @@
+PERSON: BERTRANDUS de Barbasia
+Also known as: Bertrandus de BARBASIA.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1403-1403%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Châlons-en-Champagne..
+Studied at: Paris (Nation de France) %1403-1403% ;.
+Academic grades obtained: Étudiant (Paris) en ;.
+Family relationships: Son parent est peut-être Johannes de BARBASIA ;.
+Ecclesiastical status: Clerc du diocèse de Châlons-en-Champagne ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Magnus Rotulus (rotulus quorundam scolarium Parisiensum) de l’Université de Paris daté de (23 octobre) et présenté à BENOÎT XIII..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 22/02/2021).

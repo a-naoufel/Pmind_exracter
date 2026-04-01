@@ -1,0 +1,10 @@
+PERSON: PETRUS de Bognoville
+Also known as: Pierre de BOGNOVILLE.
+Description: Maître ès arts.
+Status: Incertain.
+Gender: male.
+Active during: %1275-1275%.
+Studied at: Paris ?.
+Academic grades obtained: Maître ès arts (Paris) ?.
+Authored work: 'Sophismata', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 05/02/2024..

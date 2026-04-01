@@ -1,0 +1,10 @@
+PERSON: AUGUSTINUS Zenobi
+Also known as: Augustinus ZENOBI.
+Description: Docteur en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1414-1421%.
+Studied at: Paris %1414-1421%..
+Academic grades obtained: Licencié en théologie (Paris) %1414-1421% ;; Docteur en théologie (Paris) ..
+University functions: Maîtrerégent de la faculté de théologie de Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland et Anne Tournieroux ; dernière mise à jour, Jean-Philippe Genet, 26/11/2020)..

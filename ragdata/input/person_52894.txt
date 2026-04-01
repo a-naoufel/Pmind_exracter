@@ -1,0 +1,11 @@
+PERSON: ROBERTUS de Quinchi
+Also known as: Robertus de QUINCHI.
+Description: Chanoine de Rouen.
+Status: Maître.
+Gender: male.
+Active during: %1259-1259%.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) ;.
+Ecclesiastical positions held: Chanoine de Rouen ;; Chancelier de Rouen ;.
+University functions: Paris (Faculté de Théologie : Maître-régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 5/11/2021..

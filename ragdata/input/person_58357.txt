@@ -1,0 +1,13 @@
+PERSON: HENRICUS de Colonia
+Also known as: Henricus de COLONIA.
+Description: Bachelier ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1339-1348%.
+Born in: Rhénanie (Cologne ?) ?.
+Diocese of origin: Diocèse de Cologne ?.
+Studied at: Paris (Nation Anglo-allemande) %1339-1348%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Bachelier ès arts (Paris) ;; Maître ès arts (Paris) avant ..
+Academic relationships: Son maître est Ulricus de AUGUSTA pour le baccalauréat en ; Son maître est Ulricus de AUGUSTA pour la licence en ;.
+University functions: Paris (Nation Anglo-allemande : il participe en tant que maître à une assemblée de la nation en ) ;; Paris (Nation Anglo-allemande : maître-régent, procureur substitué en (20 août) à Willelmus de BRENUETH) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/01/2025)..

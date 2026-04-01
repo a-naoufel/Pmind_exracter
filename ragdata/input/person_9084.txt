@@ -1,0 +1,13 @@
+PERSON: NICASIUS Vassoris
+Also known as: Nicaisius VASSORIS; Nicaise VASSEUR.
+Description: Boursier grammairien au collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1396-1407%.
+Diocese of origin: Diocèse de Thérouanne..
+Studied at: Paris %1396-1396:%..
+Academic grades obtained: Étudiant en grammaire (Paris) ..
+College affiliation: Boursier grammairien au collège de Navarre à Paris en ..
+Ecclesiastical status: Clerc du diocèse de Thérouanne ;.
+Ecclesiastical positions held: Expectative d'une prébende dans une collégiale du diocèse de Thérouanne avan ;; Curé dans le diocèse de Sens en ;; Chanoine avec expectative de prébende d'Arras en ;; Cure normande ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 7/10/2023)..

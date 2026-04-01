@@ -1,0 +1,12 @@
+PERSON: RADULPHUS Guereaume
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1429-1429%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en décret (Paris) (22 septembre) ;.
+Ecclesiastical status: Prêtre ;.
+University functions: Paris (Lecteur des Décrétales (L. II) en (11 octobre) pour la 1e année et le 1e volume) ;; Paris (Lecteur des Décrétales (L. III) en (11 octobre) pour la 2e année et le 2e volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 26/03/2025..

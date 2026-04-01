@@ -1,0 +1,11 @@
+PERSON: PHILIPPUS Le Vetu
+Also known as: Philippus LE VETU.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1422-1423%.
+Studied at: Paris %1422-1423%..
+Academic grades obtained: Bachelier en théologie (Paris) %1422-1423%..
+Academic relationships: Elève de Johannes de TRECIS, O.Ss.T., en %1422-1423%..
+University functions: Lecteur de la Bible à Paris en %1422-1423%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 5/05/2024..

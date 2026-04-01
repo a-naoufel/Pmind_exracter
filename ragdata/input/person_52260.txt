@@ -1,0 +1,11 @@
+PERSON: PETRUS de Canteleu
+Also known as: Pierre de CANTELEU.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1433-1433%.
+Born in: Normandie ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+Family relationships: Son père est Philippe de CANTELEU ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/04/2021..

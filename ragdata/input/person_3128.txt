@@ -1,0 +1,9 @@
+PERSON: AEGIDIUS de Monte
+Also known as: Aegidius de MONTE; Gilles de MONTE.
+Description: Étudiant en médecine.
+Status: Étudiant.
+Gender: male.
+Active during: %1398-1399%.
+Studied at: Paris %1398-1399%..
+Academic grades obtained: Étudiant en médecine (Paris) %1398-1399%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 29/04/2020)..

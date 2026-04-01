@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Marchandis
+Also known as: Guillelmus de MARCHANDIS; Guillaume de MARCHEANT; Guillaume LEBORNE.
+Description: Archidiacre de Besançon.
+Status: Incertain.
+Gender: male.
+Active during: %1324-1369%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Auxerre %1324-1366% ;; Écolâtre d’Auxerre %1331-1343% ;; Chanoine de Besançon %1363-1369% ;; Archidiacre de Besançon %1363-1369% ;; Chanoine de Cambrai %1342-1350% ;; Chanoine de Sens %1350-1363% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/07/2020)..

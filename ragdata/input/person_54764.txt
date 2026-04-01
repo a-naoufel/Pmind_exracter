@@ -1,0 +1,12 @@
+PERSON: NICOLAUS Dentis
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1452-1470%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie ?) ?.
+Academic grades obtained: Maître ès arts (Paris) en ;; Bachelier en théologie (Paris) en ;.
+College affiliation: Collège de Laon : boursier en théologie ;; Collège de Laon : principal %1459-1470% ;.
+University functions: Paris (Université : il demande - et obtient - en (5 novembre) avec Maitre Johannes RAISIN de la Nation de France des lettres de réconciliation (litteris regratiatoriis) pour le chapelain et les chanoines de l'églisecollégiale du Rosaire (Rosario)) ;; Paris (Université : recteur élu en (24 mars)) ;; Paris (Université : il convoque en (mardi 6 mai) une assemblée pour discuter des modalités des célébrations pour la mort du pape NICOLAS V et pour stipendier un religieux enseignant les lettres hébraïques) ;; Paris (Faculté des Arts : il fait adopter en (21 mai) la décision de célébrer un anniversaire à la mémoire de Johannes HANERON qui a longtemps enseigné à la Faculté) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 27/01/2024..

@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Begemere
+Also known as: Nicolaus BEGEMERE.
+Description: Maître au collège de Dainville.
+Status: Maître.
+Gender: male.
+Active during: %1408-1418%.
+Studied at: Paris..
+Academic grades obtained: Maître (Paris) ;.
+College affiliation: Collège de Dainville : Maître ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,12 @@
+PERSON: PASCOTUS Guilloti
+Also known as: Pascotus GUILLOTIS; Pascotus GUILOTIS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1446-1447%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Léon ;.
+Studied at: Paris (Nation de France) %1446-1447%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est "mag. Gaufrido" : Galfredus CALVI ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/05/2023..

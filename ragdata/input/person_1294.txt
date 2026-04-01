@@ -1,0 +1,8 @@
+PERSON: BERENGARIUS de Portugalia
+Also known as: Berengarius de PORTUGALIA.
+Description: Notaire.
+Status: Extérieur.
+Gender: male.
+Active during: %1332-1332%.
+Studied at: ?Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 13/01/2021)..

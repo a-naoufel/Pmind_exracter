@@ -1,0 +1,14 @@
+PERSON: GERMANUS de Gannay
+Also known as: Germanus de GANNAY.
+Description: Évêque d’Orléans.
+Status: Maître.
+Gender: male.
+Active during: %1472-1520%.
+Studied at: Paris (Nation de France) ;.
+Academic grades obtained: Maître ès arts (Paris) avant ..
+College affiliation: Sorbonne : socius vers ;; Sorbonne ?.
+Family relationships: Son père est Jean de GANNAY, chancelier de France..
+Social origin: Noble ?.
+Ecclesiastical positions held: Chanoine de Paris (Notre-Dame) ;; Chanoine de Bourges ;; Doyen de Beauvais ;; Évêque de Cahors %1509-1514% ;; Évêque d’Orléans %1514-1520% ;.
+University functions: Paris (Nation de France : procureur élu en (16 décembre))..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 21/11/2023)..

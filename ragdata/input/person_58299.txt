@@ -1,0 +1,15 @@
+PERSON: ODO de Sulliaco
+Also known as: Odo de SULLIACO; Eudes de SULLY.
+Description: Évêque de Paris.
+Status: Étudiant.
+Gender: male.
+Active during: %1170-1208%.
+Born in: Berry ?.
+Diocese of origin: Diocèse de Bourges ?.
+Studied at: Paris..
+Academic grades obtained: Étudiant %1170-1174%..
+Family relationships: Son frère est Henri de SULLY, archevêque de Bourges..
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Bourges ;; Archidiacre de Sologne en la cathédrale de Bourges .; Chantre de Bourges %1190-1197% ;; Évêque de Paris %1197-1208%..
+Authored work: 'Statuts synodaux', composed around Vers ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 07/12/2024)..

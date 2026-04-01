@@ -1,0 +1,9 @@
+PERSON: CLAUDIUS Celestinus
+Also known as: Claudius CELESTINUS.
+Description: Etudiant ès arts ?.
+Status: Incertain.
+Gender: male.
+Active during: %1450-1450%.
+Studied at: ?.
+Authored work: 'Excerpta de questionibus Buridani super Ethica', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 15/09/2015..

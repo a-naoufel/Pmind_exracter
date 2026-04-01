@@ -1,0 +1,10 @@
+PERSON: RICARDUS de Alacrimonte
+Also known as: Ricardus de ALACRIMONTE.
+Description: Maître.
+Status: Incertain.
+Gender: male.
+Active during: %1279-1279%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical status: Clerc ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/03/2024..

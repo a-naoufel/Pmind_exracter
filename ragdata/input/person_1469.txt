@@ -1,0 +1,12 @@
+PERSON: BERTRANDUS Cormerii
+Also known as: Bertrandus CORMERII.
+Description: Étudiant en médecine (Paris)..
+Status: Maître.
+Gender: male.
+Active during: %1430-1446%.
+Studied at: Paris (Nation de France), %:1431:-1435%..
+Academic grades obtained: Maître ès arts (Paris) ? ;; Étudiant en médecine (Paris) ..
+College affiliation: Collège de Montaigu : boursier; Collège de Montaigu : maître %1432-1446%.
+Ecclesiastical positions held: Chapelain de la Nation de France en %1444-1445%..
+University functions: Maîtrerégent de la Faculté des Arts à Paris, ?.; Paris (Nation de France : chapelain %:1444-1445%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 22/02/2021).

@@ -1,0 +1,10 @@
+PERSON: LIGERIUS de Bardilliaco
+Also known as: Ligerius de BARDILLIACO; Ligier de BARDILLY.
+Description: Conseiller-lai au Parlement.
+Status: Extérieur.
+Gender: male.
+Active during: %1345-1345%.
+Studied at: ?.
+Family relationships: Son parent est Oudard de BARDILLY ; Son parent est Guillaume MOHIER ;.
+Social origin: Noble ;.
+Source: Paris au Moyen Âge : les Parisiens :.

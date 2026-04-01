@@ -1,0 +1,14 @@
+PERSON: HENRICUS de Arena
+Also known as: Henricus de ARENA.
+Description: Chanoine de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1364-1394%.
+Born in: Pays-Bas ?.
+Diocese of origin: Diocèse d’Utrecht ;.
+Studied at: Paris (Nation de Picardie) ;.
+Academic grades obtained: Licencié ès arts ;; Bachelier en droit canon ;; Licencié en droit civil ;.
+Social origin: Noble ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Cambrai %1364-1394% ;; Chanoine d’Anvers (Notre-Dame) %1382-1386% ;; Doyen d’Anvers (Notre-Dame) %1382-1386% ;; Chanoine de Noyon %1383-1385% ;; Chanoine de Cambrai (Saint-Géry) % -1394% ;; Chanoine de Laon %1388-1394% ;; Doyen de Cambrai (Saint-Géry) %1391-1394% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 03/01/2026..

@@ -1,0 +1,13 @@
+PERSON: GOBERTUS de Sancto Vincentio
+Also known as: Gobertus de SANCTO VINCENTIO.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1375-1379%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ;.
+Studied at: Paris (Nation de Picardie) %1375-1379%.
+Academic grades obtained: Étudiant ès arts (Paris) en ;.
+Ecclesiastical status: Clerc du diocèse de Laon en ;.
+Ecclesiastical positions held: Candidat à un canonicat de Crépy (églisecollégiale Saint-Thomas) sur le rotulus de l’université de Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 6/08/2021..

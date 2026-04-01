@@ -1,0 +1,9 @@
+PERSON: ROGARIUS Sigilatoris
+Also known as: Rogerus SIGILATORIS.
+Description: Propriétaire d’une maison.
+Status: Incertain.
+Gender: male.
+Active during: %1288-1288%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 2/04/2021)..

@@ -1,0 +1,11 @@
+PERSON: REMIGIUS de Assiaco
+Also known as: Remi d'ACY; Remigius de ASSIACO.
+Description: Écolier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1401-1401%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Dormans-Beauvais : écolier-boursier en ;.
+Family relationships: Son parent est (peut-être) Jean d'ACY ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 03/06/2024..

@@ -1,0 +1,10 @@
+PERSON: PETRUS de Calcibus
+Also known as: Petrus de CALCIBUS; Petrus de CARCERIBUS.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1316-1332%.
+Studied at: ?.
+Academic grades obtained: Docteur en droit canon ;.
+Ecclesiastical positions held: Chanoine de Sens %1325-1332% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 22/09/2022..

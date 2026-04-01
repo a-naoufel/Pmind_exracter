@@ -1,0 +1,10 @@
+PERSON: GUIDO de La Toucerie
+Also known as: Guy de LATOUCERIE.
+Description: Boursier du collège de Navarre.
+Status: Étudiant.
+Gender: male.
+Active during: %1501-1501%.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Navarre : boursier en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

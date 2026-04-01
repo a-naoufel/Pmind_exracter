@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Abbatis 1
+Also known as: Guillelmus ABBATIS; Guillaume LALBÉ; Guillelmus dictus ALBANS.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1299-1308%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Chanoine de Rouen %1299-1308% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 06/02/2022..

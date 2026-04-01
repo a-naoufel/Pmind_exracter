@@ -1,0 +1,13 @@
+PERSON: PETRUS de Swinefeld
+Also known as: Peter de SWINEFELD.
+Description: O.F.M..
+Status: Étudiant.
+Gender: male.
+Active during: %1260-1305%.
+Studied at: Oxford ;; Paris vers %1250-1260%..
+Academic grades obtained: Étudiant (Paris) vers %1250-1260% ;.
+Academic relationships: Son élève à Oxford est Geoffrey BOYDIN de Ria qui l'a accompagné à Paris et qui le considérait comme son specialissimus amicus auquel il a prêté sa Bible ;.
+Religious order: O.F.M..
+Religious functions: Provincial franciscain d'Angleterre %1264-1272% ;; Assiste au chapitregénéral (franciscain) d'Assise en ;.
+University functions: Oxford (Couvent franciscain : enseignant ?) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/05/2018..

@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Larcher
+Also known as: Guillelmus LARCHER.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1311-1311%.
+Studied at: Paris ..
+Academic grades obtained: Magister ..
+College affiliation: Sorbonne : socius en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 1/04/2020..

@@ -1,0 +1,9 @@
+PERSON: LAURENTIUS de Treio
+Also known as: Laurentius de TREIO; Laurent de TREIO.
+Description: Boursier grammairien au collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1346-1346%.
+Studied at: Paris (Collège de Navarre) %1346-1346%..
+Academic grades obtained: Étudiant en grammairien (Paris) ..
+College affiliation: Boursier grammairien au collège de Navarre à Paris en ..

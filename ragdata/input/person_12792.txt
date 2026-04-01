@@ -1,0 +1,11 @@
+PERSON: MARINUS Leprêtre
+Also known as: Marinus LEPRETRE.
+Description: Bénédictin.
+Status: Gradué.
+Gender: male.
+Active during: %1499-1499%.
+Born in: Normandie ?.
+Studied at: Paris %1499-1499%..
+Academic grades obtained: Bachelier en théologie (Paris) ..
+Religious order: Bénédictin : abbaye de Jumièges (diocèse de Rouen)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 17/11/2019..

@@ -1,0 +1,13 @@
+PERSON: HUGO Le Cauderonnier
+Also known as: Hugo LECAUDERONNIER; Henricus LECAUDERONNIER.
+Description: Chantre d’Amiens.
+Status: Maître.
+Gender: male.
+Active during: %1364-1402%.
+Born in: Picardie.
+Diocese of origin: Diocèse de Thérouanne ;.
+Studied at: Paris (Nation de Picardie)..
+Academic grades obtained: Étudiant (Paris) ;; Maître ès arts (Paris) ;; Bachelier en droit canon (Paris) ;.
+College affiliation: Collège de Boncourt ;.
+Ecclesiastical positions held: Chanoine de Laon %1382-1388% ;; Chanoine d'Amiens %1387-1402% ;; Chantre d'Amiens %1387-1402% ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 28/03/2023 ;.

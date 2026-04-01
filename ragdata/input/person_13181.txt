@@ -1,0 +1,18 @@
+PERSON: BERNARDUS de Roma
+Also known as: Bernardus de ROMA; Bernardus de ROME.
+Description: Carme.
+Status: Maître.
+Gender: male.
+Active during: %1366-1406%.
+Born in: Italie (Latium : Rome ?) ;.
+Diocese of origin: Diocèse de Rome ?.
+Studied at: Paris %1369-1373%..
+Academic grades obtained: Licencié en théologie (Paris) ..
+College affiliation: Couvent (carme) de Paris %1369-1373%..
+Religious order: O. Carm. ; frère carme..
+Religious functions: Ministre provincial de la province (carme) de Rome en %1369-1379% ;; Définiteur du chapitre général tenu à Aix-la-Chapelle en ..
+University functions: Lecteur de la Bible, assigné par le chapitre général de , à Paris en %1369-1370%..
+Authored work: 'In quosdam de Sacrae Scripturae libros commentaria', composed around ?.
+Authored work: 'In libros IV Sententiarum lecturam', composed around ?.
+Authored work: 'Sermones ad Clerum Romanum', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : claire Priol-Hoogland ; révision, Jean-Philippe Genet, 14/01/2021).

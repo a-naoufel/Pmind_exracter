@@ -1,0 +1,10 @@
+PERSON: GUIDO de Plailliaco
+Also known as: Guido de PLAILLIACO.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1340-1340%.
+Studied at: Paris.
+Academic grades obtained: Magister ?.
+University functions: Paris (Université : témoin de la suspension des privilèges de l’Université de Paris par Robert de PLAILLY, évêque de Senlis à la demande du Pape BENOÎT XII en (6 mai) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 28/11/2019..

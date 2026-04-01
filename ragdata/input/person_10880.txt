@@ -1,0 +1,13 @@
+PERSON: RICARDUS de Wyke
+Also known as: Richard de WYKE.
+Description: Maître ès arts.
+Status: Extérieur.
+Gender: male.
+Active during: %1313-1349%.
+Born in: Angleterre..
+Studied at: Oxford (Merton College) ..
+Academic grades obtained: Maître ès arts (Oxford) ..
+Ecclesiastical positions held: Recteur de Lapworth (Warwickshire) %1322-1349%..
+Other ecclesiastical functions: Penancer for deanery of Warwick %1334-1336%..
+University functions: Oxford (Merton College : fellow %1313-1322%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/01/2022)..

@@ -1,0 +1,9 @@
+PERSON: FRANCISCUS Haurelant
+Also known as: Franciscus HAURELANT; François HAURELANT.
+Description: S. en médecine à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1461-1462%.
+Studied at: Paris..
+Academic grades obtained: Étudiant en médecine (Paris) %1461-1462%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 7/09/2021..

@@ -1,0 +1,11 @@
+PERSON: AMBROSIUS de La Burnache
+Also known as: Ambrosius de LA BURNACHE.
+Description: Chanoine de Châlons-en-Champagne.
+Status: Incertain.
+Gender: male.
+Active during: %1452-1467%.
+Studied at: ?.
+Academic grades obtained: Maître ;; Bachelier droit civil ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Châlons-en-Champagne %1452-1467% ;; Chantre de Châlons-en-Champagne %1452-1467% ;; Chanoine de Châlons-en-Champagne (la Trinité) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/05/2025..

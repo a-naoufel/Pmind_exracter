@@ -1,0 +1,13 @@
+PERSON: THEOBALDUS de Rufferii
+Also known as: Theobaldus de RUFFERII; Theobaldus de RUFFIER.
+Description: Licencié en droit canon.
+Status: Maître.
+Gender: male.
+Active during: %1371-1412%.
+Born in: Anjou-Maine ?.
+Studied at: Angers ;; Paris %1378-1383%..
+Academic grades obtained: Bachelier en décret (Angers) (attesté en novembre) ;; Licencié en décret (Paris) vers ..
+Ecclesiastical status: Prêtre ;.
+Religious order: O.S.B. : moine bénédictin de l'abbaye de Saint-Aubin (diocèse d'Angers) ;.
+Religious functions: Abbéélu de Saint-Aubin (diocèse d'Angers) en novembre ;; Candidat à des bénéfices, sur un rotulus des bacheliers et des licenciés de la faculté de décret de l'université de Paris, de %1378-1379%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 26/09/2024).

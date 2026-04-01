@@ -1,0 +1,10 @@
+PERSON: GUIDO Boucaceon
+Also known as: Guido BOUCACEON; Gui BOUCACEON.
+Description: Boursier au collège de Navarre..
+Status: Étudiant.
+Gender: male.
+Active during: %1377-1377%.
+Studied at: Paris (Collège de Navarre) %1377-1377%..
+Academic grades obtained: Étudiant ès arts (Paris) ..
+College affiliation: Collège de Navarre ; boursier artien en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/01/2022..

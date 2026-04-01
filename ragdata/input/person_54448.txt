@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Remilly
+Also known as: Guillelmus de REMILLY; Guillaume BÉDIER.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1498-1501%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Sens (‘Saint-Jean-Baptiste’) %1498-1501% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 24 octobre 2022..

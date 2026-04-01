@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Haymardi
+Also known as: Guillelmus HAYMARDI.
+Description: Médecin du roi.
+Status: Incertain.
+Gender: male.
+Active during: %1324-1324%.
+Studied at: ?.
+Academic grades obtained: Maître en médecine ?.
+Ecclesiastical positions held: Chanoine de Sens ;; Chanoine de Lisieux ;; Chanoine d’Avranches ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 25 octobre 2022..

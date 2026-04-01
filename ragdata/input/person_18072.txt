@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Ponte 2
+Also known as: Guillelmus de PONTE; Guillermus de PONTE.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1498-1498%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Nevers..
+Studied at: Paris %1498-1498%..
+Academic grades obtained: Bachelier en décret (Paris) 7 février ..
+Ecclesiastical status: Clerc du diocèse de Nevers..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 07/05/2015 ; révision, Jean-Philippe Genet (11/04/2022).

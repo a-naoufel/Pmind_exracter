@@ -1,0 +1,25 @@
+PERSON: THOMAS de Baillaco
+Also known as: Thomas de BAILLIACO; Thomas de BAILLY.
+Description: Chancelier de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1301-1328%.
+Born in: Île-de-France (Bailly) ;.
+Diocese of origin: Diocèse de Paris ?.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) ..
+College affiliation: Collège des BonsEnfants : Proviseur en .; Collège des Cholets : custode jusqu’en ?.
+Ecclesiastical status: Prêtre avant ;.
+Ecclesiastical positions held: Chanoine de Rouen %1304-1306% ;; Chancelier de Paris (Notre-Dame) %1316-1328%..
+Other ecclesiastical functions: Administrateur (au spirituel) de Paris en , pendant la maladie de Simon MATIFAS, évêque de Paris ;.
+University functions: Paris (Faculté de Théologie : Maître-régent %1301-1307%) ;; Paris (Université : chancelier %1316-1328%.; Paris (Faculté de Théologie : doyen) ;.
+Authored work: 'Quodlibet I', composed around %1301-1302%.
+Authored work: 'Quodlibet II', composed around %1302-1303%.
+Authored work: 'Quodlibet III', composed around %1303-1304%.
+Authored work: 'Quodlibet IV', composed around %1304-1305%.
+Authored work: 'Quodlibet V', composed around %1305-1306%.
+Authored work: 'Quodlibet VI', composed around %1306-1307%.
+Authored work: 'Extraits (d'une compilation)', composed around .
+Authored work: 'Intervention aux vespéries de Durand de Saint-Pourçain', composed around ..
+Authored work: 'Sermones'.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

@@ -1,0 +1,9 @@
+PERSON: MENDO Dias
+Also known as: Don Mendo DIAS.
+Description: Chanoine régulier de Saint Augustin.
+Status: Étudiant.
+Gender: male.
+Active during: %1200-1200%.
+Born in: Portugal..
+Studied at: Paris ?.
+Religious order: Chanoine régulier de Saint Augustin ?.

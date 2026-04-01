@@ -1,0 +1,28 @@
+PERSON: GREGORIUS de Monte Sacro
+Also known as: Gregorius de MONTE SACRO; Petrus CARUS.
+Description: Abbé de la Trinité du Monte Sacro.
+Status: Étudiant.
+Gender: male.
+Active during: %1202-1241%.
+Born in: Italie (Apulie ?)..
+Studied at: Paris vers %1213-1219% ;; DBI..
+Academic grades obtained: Étudiant en théologie (Paris) ;.
+Academic relationships: Son maître est Pietro CAPUANO..
+Religious order: O.S.B. : c’est Gregorio de SAN APOSTOLO, cardinal-diacre de Santa-Maria-in-Portico qui l’a fait entrer dans l’ordre monastique ;.
+Religious functions: Abbé de l’abbaye (bénédictine) de la Trinita-di-Monte-Sacro sur le MonteGargano ;.
+Authored work: 'Peri ton anthropon theophysis', composed around %1228-1230%., dedicated to Dédié au Cardinal Thomas de CAPOUE..
+Authored work: 'De ordine salutis', composed around ?.
+Authored work: 'De microcosmo', composed around ?.
+Authored work: 'Oratio', composed around ?.
+Authored work: 'Flores psalmorum', composed around ?.
+Authored work: 'Cur Deus Homo', composed around ?.
+Authored work: 'In assumptione gloriose Virginis', composed around ?.
+Authored work: 'In Sanctis quorum reliquias habemuss', composed around ?.
+Authored work: 'Ymno in festivitate sanctorum quarum reliquias habemus', composed around ?.
+Authored work: 'Antiphone', composed around ?.
+Authored work: 'Responsoria', composed around ?.
+Authored work: 'Epitaphium', composed around ?.
+Authored work: 'Sequentia in festivitate sancti Felicis et Adaucti', composed around ?.
+Authored work: 'Sequentia in festivitate sancti Nemesii et sociorum ejus', composed around ?.
+Authored work: 'Sequentia in sancto Sebastiano et sociorum ejus', composed around ?.
+Source: MIRABILE, Andrea CENCINI :.

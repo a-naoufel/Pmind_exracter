@@ -1,0 +1,12 @@
+PERSON: ODO de Dour
+Also known as: Odo de DOUR; Odo de DOURA.
+Description: Juriste.
+Status: Maître.
+Gender: male.
+Active during: %1168-1168%.
+Born in: ?.
+Studied at: Paris..
+Academic grades obtained: Maître..
+University functions: Paris (Maître enseignant le droit canon) ;.
+Authored work: 'Decreta minora', composed around ?.
+Source: MIRABILE : Pietro Antonio PODOLAK :.

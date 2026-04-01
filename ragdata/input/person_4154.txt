@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Auribecco
+Also known as: Guillelmus de AURIBECCO.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1379-1379%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse de Rouen..
+Studied at: ?Paris (Nation de Normandie) ..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en décret en ..
+Ecclesiastical status: Clerc du diocèse de Rouen..
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus de ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 08/03/2020..

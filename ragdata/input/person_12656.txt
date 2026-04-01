@@ -1,0 +1,11 @@
+PERSON: PHILIBERTUS de Cruce 2
+Also known as: Philibertus de CRUCE.
+Description: Bachelier en droit canon.
+Status: Gradué.
+Gender: male.
+Active during: %1477-1477%.
+Studied at: Paris %1477-1477%..
+Academic grades obtained: Bachelier en décret (Paris) (le 23 août) ..
+Religious order: O.S.B. : moine bénédictin du monastère de Moûtiers-Saint-Jean (diocèse de Langres)..
+University functions: Lecteur des Décrétales à la faculté de décret de Paris le 6 septembre (1er cours) le 12 décembre (2e cours) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol et Anne Tournieroux ; révision, Jean-Philippe Genet, 28/05/2025..

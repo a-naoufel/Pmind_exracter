@@ -1,0 +1,7 @@
+PERSON: ALPHINUS de Narnia
+Also known as: Alphinus de NARNIA.
+Description: Clerc du roi de France.
+Status: Extérieur.
+Gender: male.
+Active during: %1300-1300%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/07/2020)..

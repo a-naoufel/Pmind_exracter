@@ -1,0 +1,10 @@
+PERSON: HENRICUS de Haya
+Also known as: Henricus de HAYA; Henricus de HAIA.
+Description: Bedeau de la nation de Normandie.
+Status: Suppôt.
+Gender: male.
+Active during: %1275-1285%.
+Studied at: Paris (Nation de Normandie) ..
+Academic grades obtained: ?.
+University functions: Paris (Nation de Normandie : bedeau en (7 mai)) ;; Paris (Nation de Normandie : bedeau en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/02/2024)..

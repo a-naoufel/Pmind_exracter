@@ -1,0 +1,11 @@
+PERSON: RADULPHUS de Ve
+Also known as: Raoul de VÉ.
+Description: Boursier au collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1390-1390%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ;.
+College affiliation: Collège de Dormans-Beauvais : boursier ;.
+Family relationships: Son parent est peut-être Pierre de VÉ, avocat au parlement de Paris %1377-1403% ; Son parent est peut-être Jean MOUTON, boursier du Collège de Dormans-Beauvais, s’il est parent dePierre de VÉ, avocat au parlement de Paris %1377-1403% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 06/12/2019..

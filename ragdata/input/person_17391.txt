@@ -1,0 +1,10 @@
+PERSON: ERHARDUS Cousin
+Also known as: Erardus COUSIN.
+Description: Licencié en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1490-1490%.
+Studied at: Paris %1490-1490%..
+Academic grades obtained: Licencié en décret (Paris) 5 avril ..
+Academic relationships: Son maître est Robertus TULLEU..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 19/07/2021)..

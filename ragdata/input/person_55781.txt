@@ -1,0 +1,9 @@
+PERSON: GUIDO Rigaudeau
+Also known as: Guy RIGAUDEAU.
+Description: Notaire au Châtelet de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1501-1504%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

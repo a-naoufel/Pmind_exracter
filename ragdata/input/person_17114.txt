@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS Grantrault
+Also known as: Aegidius GRANTRAULT; Aegidius GRANT-RAOUL.
+Description: Étudiant ?.
+Status: Maître.
+Gender: male.
+Active during: %1464-1469%.
+Studied at: Paris (Nation de France)..
+Academic grades obtained: Étudiant ès arts (Paris) ?; Maître ès arts (Paris).
+College affiliation: Collège de Reims ?.
+Academic relationships: Son maître est Pierre MARIÉ pour le baccalauréat au collège de Reims..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 05/05/2020)..

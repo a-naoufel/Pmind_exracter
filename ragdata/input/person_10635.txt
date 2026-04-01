@@ -1,0 +1,9 @@
+PERSON: RAIMUNDUS de Biterum
+Also known as: Raymundus de BITERUM.
+Description: Bachelier en médecine..
+Status: Incertain.
+Gender: male.
+Active during: %1310-1310%.
+Studied at: ?.
+Academic grades obtained: Bachelier en médecine..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 28-04-2024..

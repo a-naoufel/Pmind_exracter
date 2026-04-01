@@ -1,0 +1,10 @@
+PERSON: PETRUS Raulelli
+Also known as: Petrus RAULELLI.
+Description: Chanoine de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1296-1297%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Poitiers %1296-1297% ;; Archiprêtre de Poitiers %1296-1297% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 20/11/2022..

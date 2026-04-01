@@ -1,0 +1,16 @@
+PERSON: HENRICUS Probihominis
+Also known as: Henricus PROBIHOMINIS; Henricus PREUDHOMME.
+Description: Recteur de l'Université de Paris..
+Status: Maître.
+Gender: male.
+Active during: %1482-1512%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris (Nation de Normandie) %1482-1500% ;.
+Academic grades obtained: Bachelier en théologie (Paris) ;; Licencié en théologie (Paris) (25 janvier) ;.
+College affiliation: Collège de Justice : procureur en .; Collège de Justice : socius en %1491-1500%.; Collège de Justice : maître-régent ;; Collège de Justice : Primarius ;.
+Academic relationships: Maître de nombreux étudiants..
+Ecclesiastical status: Clerc du diocèse de Rouen ;.
+Ecclesiastical positions held: Chanoineprébendé de Rouen à partir du 26 octobre ;; Curé de Longueville (église Saint-Pierre) en ;; Chanoine d'Évreux en décembre ;; Candidat à des bénéfices sur un rotulus de la Faculté des arts daté du 20 février ..
+University functions: Paris (Faculté des Arts : intrans choisi pour l'élection du recteur de l'Université de Paris après le 16 décembre ) ;; Paris (Faculté des Arts : Examinator S. Genovefae en (22 ou 23 janvier)) ;; Paris (Faculté des Arts : Recteur élu en (9 octobre) jusqu'en (25 janvier) ;; Paris (Faculté des Arts : Maîtrerégent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet 21/10/2020)..

@@ -1,0 +1,10 @@
+PERSON: VENTURINUS de Castello
+Also known as: Venturinus de CASTELLO.
+Description: Maître en en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1362-1362%.
+Studied at: Paris %1362-1362%..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Maître en médecine (Paris) vers ..
+Ecclesiastical positions held: Sous diacre ;; Chanoine de Soissons en ;; Candidat à un canonicat de Notre-Dame de Beaune en sur le rotulus de la Faculté de Médecine envoyé à URBAIN V en (26 novembre) : mandat à l'abbé de Paris (Saint-Victor) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 14/10/2024..

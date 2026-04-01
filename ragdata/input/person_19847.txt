@@ -1,0 +1,9 @@
+PERSON: FRANCISCUS de Meldis
+Also known as: Franciscus de MELDIS.
+Description: Procureur du chapitre de Notre-Dame de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1327-1327%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 29/08/2021..

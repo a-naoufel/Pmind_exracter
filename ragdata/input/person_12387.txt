@@ -1,0 +1,9 @@
+PERSON: X de Grusbeke
+Also known as: X de GRUSBEKE.
+Description: Licencié ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1347-1347%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Licencié ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/01/2022..

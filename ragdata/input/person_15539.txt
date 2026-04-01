@@ -1,0 +1,12 @@
+PERSON: ALANUS de Roches
+Also known as: Alanus de ROCHES.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1429-1455%.
+Studied at: Paris %1429-1429% ;; Caen en %1441-1441% ;.
+Academic grades obtained: Maître ès arts (Paris ?) ;; Licencié en droit civil ;; Étudiant en théologie (Paris) ..
+Academic relationships: Son maître est Thomas MONACHUS, D.T., en ..
+Religious order: O.S.B. : moine bénédictin..
+Religious functions: Abbé (bénédictin) de Longues (diocèse de Bayeux) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol ; dernière mise à jour, Jean-Philippe Genet, 28/05/2020)..

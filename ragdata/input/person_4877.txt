@@ -1,0 +1,10 @@
+PERSON: HENRICUS de Colonia 3
+Also known as: Henricus de COLONIA.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1446-1456%.
+Studied at: Paris %1444-1446%.
+Academic grades obtained: Licencié en théologie (Paris) (le 7 février) ;; Docteur en théologie (Paris) (le 24 octobre) ..
+College affiliation: Couvent (francisain) de Paris (Cordeliers)..
+Religious order: O.F.M. : frère franciscain.

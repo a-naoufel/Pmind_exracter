@@ -1,0 +1,12 @@
+PERSON: EUSTASIUS 2
+Also known as: EUSTACHIUS.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1191-1202%.
+Born in: Normandie ?.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Family relationships: Son père est Roger de FRÉAUVILLE ;.
+Ecclesiastical positions held: Chanoine de Rouen %1191-1202% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 23/07/2021)..

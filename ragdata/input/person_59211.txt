@@ -1,0 +1,12 @@
+PERSON: STEPHANUS de Brochia
+Also known as: Stephanus de BROCHIA.
+Description: Clerc.
+Status: Extérieur.
+Gender: male.
+Active during: %1341-1345%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse de Clermont ;.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical status: Clerc du diocèse de Clermont ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

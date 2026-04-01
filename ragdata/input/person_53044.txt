@@ -1,0 +1,12 @@
+PERSON: PETRUS Rousselli 2
+Also known as: Petrus ROUSSELLI; Pierre ROUSSEL.
+Description: Chanoine d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1450-1484%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son fils est ?.
+Ecclesiastical status: Sous-diacre..
+Ecclesiastical positions held: Chanoine d’Amiens %1450-1484% ;; Chanoine d’Amiens (Saint-Firmin) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 2/12/2021..

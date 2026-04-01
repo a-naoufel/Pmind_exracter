@@ -1,0 +1,11 @@
+PERSON: FIRMINUS de Hangart
+Also known as: Firminus de HANGART.
+Description: Chanoine d'Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1350-1350%.
+Studied at: ?.
+Academic grades obtained: Maître..
+Ecclesiastical status: Prêtre..
+Ecclesiastical positions held: Chanoine d'Amiens %1350-1350%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 5/08/2021)..

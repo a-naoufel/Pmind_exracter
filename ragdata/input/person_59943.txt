@@ -1,0 +1,9 @@
+PERSON: AEGIDIUS Bondant
+Also known as: Gilles BONDANT.
+Description: Clerc du collège de Dainville.
+Status: Suppôt.
+Gender: male.
+Active during: %1486-1486%.
+Studied at: Paris..
+College affiliation: Collège de Dainville ; clerc en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,47 @@
+PERSON: ROBERTUS Ciboule
+Also known as: Robertus CIBOULE; Robertus CYBOLE; Robertus CYBOLLE; Robertus CYBOLLUS; Robertus SIBOLLE; Robertus SIBOULE; Robertus SYBOLLE.
+Description: Recteur de l'Université de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1418-1458%.
+Born in: Normandie (Breteuil).
+Diocese of origin: Diocèse d'Évreux ;.
+Studied at: Paris (Nation de Normandie) %1435-1455% ;.
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en théologie "cursor" (Paris) ;; Bachelier en théologie "formatus" (Paris) ;; Licencié en théologie (Paris) (20 décembre) ;; Maître en théologie (Paris) (7 février) ..
+College affiliation: Paris (Collège d'Harcourt) %1418-1455% ;; Proviseur du Collège d'Harcourt, ..
+Family relationships: Son neveu est Robertus LE FOURBEUR, chanoine d’Évreux ;.
+Academic relationships: Son élève est Johannes de BAVENT ; Son élève est Nicolaus de MARA dont il supervise la lecture des Sentences en ; Son élève est Johannes ESTOMBART dont il supervise la lecture des Sentences en ; Son élève est Laurentius de ROVERELLA dont il supervise la lecture des Sentences ( ?) en %1449-1450% ; Son élève est Nicolaus LE DAUNOYS dont il supervise la lecture biblique en et la lecture des Sentences en ; Son élève est Frater Nicholaus de LEODIO, O.S.B. dont il supervise la lecture cursive en ; Son élève est Ysembardus HEREDIS dont il supervise la lecture cursive en ; Son élève est Johannes COROMINES dont il supervise la lecture des Sentences en ; Son élève est Johannes BERENGIER dont il supervise la lecture biblique en ; Son élève est Robertus de QUESNEYO dont il supervise la lecture biblique en ; Son élève est Johannes de ROCHA dont il supervise la lecture biblique en ; Son élève est Radulphus BOISSEL dont il supervise la lecture cursive en ; Son élève est Stephanus GERVASII dont il supervise la lecture des Sentences en ;.
+Social origin: Bourgeoisie ;.
+Ecclesiastical positions held: Chanoine de Chartres, %1439-1443% ;; Chanoine de Paris (Notre-Dame), , %1443- % ;; Curé de Cintray ;; Chanoine d’Angers ;; Chanoine d’Angers (Saint-Jean) %1442- % ;; Doyen d’Angers (Saint-Jean), % -1442% ;; Pénitencier de Paris (Notre-Dame) %1449- % ;; Chancelier de Paris (Notre-Dame) %1451-1458% ;; Doyen d'Évreux, %1453-1458% ;; Curé de Saint-Jacques-de-la-Boucherie à Paris, 18 mai ;; Archidiacre de Gand, %1448-1449%..
+University functions: Paris (Faculté de la Théologie : lecteur de la Bible comme "baccalarius cursor" le 12 avril ;; Paris (Faculté de la Théologie : lecteur de la Bible à Paris le 23 juillet ) ;; Paris (Faculté de la Théologie : lecteur des Sentences le 3 novembre ) ;; Paris (Nation de Normandie : receveur en ) ;; Paris (Université : il participe à une assemblée de l'Université pour discuter des suffrages des morts, 26 mars ) ;; Paris (Faculté des Arts : envoyé de la Faculté au Congrès d'Arras, 16 juillet ) ;; Paris (Université de Paris : Recteur élu par la Faculté des Arts le 24 mars ) ;; Ambassadeur de l'Université de Paris à Bourges pour débattre de la publication de la "Pragmatique Sanction", ;; Ambassadeur de l'Université de Paris auprès de CHARLES VII, roi de France, à plusieurs reprises entre et ;; Paris (Faculté de Théologie : Maîtrerégent %1438-1452%) ;; Paris (Faculté de Théologie : un des maîtres présents lorsque la Faculté publie ses condamnations contre la "Fête des Fous", 12 mars ) ;; Paris (Université : envoyé au conseil royal, au moment où l'Université de Paris cesse toute prédication comme un moyen de protester contre les mauvais traitements infligés aux membres de l'Université de Paris : cette "cessatio" se déroule du 15 août au 8 décembre ) ;; Paris (Université : il présente un rapport sur les écoles de l'Université de Paris, avril ) ;; Représentant du chapitrecathédral de Paris, qui demande à l'Université de Paris de recommander Guillaume CHARTIER, nouvel évêque de Paris, au Pape, au Roi de France et au confesseur royal, Gerardus MACHETI, ainsi qu’à l'archevêque de Sens, 7 décembre ;; Paris (Université : représentant de l'Université auprès du Roi de France dans le but de préserver les libertés de l'Université, 4 octobre ) ;; Paris (Université : représentant de l'Université auprès du légat apostolique, fin octobre ou novembre ) ;; Paris (Chancelier : %1451-1458%) ;; Paris (Université : l’un des membres du conseil du Cardinal d’ESTOUTEVILLE pour la réforme de l’université de Paris en ) ;.
+Representation roles: Concile de Bâle : ambassadeur envoyé par le roi de France au Concile de Bâle, novembre ;; Concile de Florence : ambassadeur envoyé par le roi de France au Concile en ;; Légat de l'Université de Paris et du roi de France à la Curie, août et en auprès de NICOLAS V ;; Prend part à une ambassade envoyée par le roi de France à la seconde Diète de Mayence, mars ;; Envoyé par CHARLES VII, roi de France en Savoie pour hâter l'abdication du pape FÉLIX V ;; Participe à des assemblées ecclésiastiques à Rouen en et à Bourges en ..
+Authored work: '[Sermons]', composed around %1440-1455% à Paris..
+Authored work: 'Sermon sur le sacrement de l’autel', composed around %1446-1447%..
+Authored work: 'Sermon pour le Dimanche de Pâques', composed around ?.
+Authored work: 'Sermon', composed around ?.
+Authored work: 'Sermon sur la passion de Jesus Christ', composed around ..
+Authored work: 'Sermon pour le deuxième Dimanche de Pâques', composed around ?.
+Authored work: 'Sermon pour l’Assomption', composed around ?.
+Authored work: 'Sermon sur ‘Missus est angelus', composed around ?.
+Authored work: 'Sermon sur le Saint-Esprit', composed around ?.
+Authored work: 'Sermon sur les autres temps', composed around ?.
+Authored work: 'Livre de sainte méditation en cognoissance de soy', composed around .
+Authored work: 'Le traictié de perfection', composed around ?.
+Authored work: 'Livre de bonne et mauvaise conscience', composed around ?.
+Authored work: 'Traité du saint sacrement de l'autel', composed around ?.
+Authored work: 'Expositio epistolae ad Romanos', composed around ?.
+Authored work: 'Le manuel aux filles', composed around ?.
+Authored work: 'Le livre des justes, aultrement nommé De saincte meditacion', composed around ?.
+Authored work: 'Le pseaulme de Beatus Vir', composed around ?.
+Authored work: 'Le bien commun', composed around ?.
+Authored work: 'Douaire de la gloire pardonable', composed around ?.
+Authored work: 'Douze fruits de l’esprit', composed around ?.
+Authored work: 'Enseignements de Salomon', composed around ?.
+Authored work: 'Traité des conditions de l’âme raisonnable', composed around ?.
+Authored work: 'Prière', composed around ?.
+Authored work: 'Post triduum', composed around ?.
+Authored work: 'Questiones super librum politicorum', composed around ?.
+Authored work: '[Lettre politique]', composed around 18 juillet ., dedicated to Destinée à l'évêque de Lübeck..
+Authored work: '[Lettre politique]', composed around 8 août ., dedicated to Adressée au Cardinal Louis ALEMAN..
+Authored work: 'Consideratio seu opinio venerabilis magistri Roberti Cyboule', composed around : il complète ce texte le 3 janvier ..
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

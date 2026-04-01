@@ -1,0 +1,11 @@
+PERSON: BARTHOLOMAEUS de Boscario
+Also known as: Bartholomaeus de BOSCARIO.
+Description: Chanoine d'Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1347-1361%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;; Licencié in utroque jure ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Thérouanne %:1347-1354% ;; Pénitencier de Thérouanne %:1347-1354% ;; Chanoine de Cassel (Saint-Pierre) ;; Chanoine d'Amiens %1351-1361% ;; Chanoine de Furnes %1354-1361% ;.
+Other ecclesiastical functions: Prévôt de Cassel (Saint-Pierre ) ;.

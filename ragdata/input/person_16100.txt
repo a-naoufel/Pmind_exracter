@@ -1,0 +1,10 @@
+PERSON: CLEMENS Fitzralph de la Wyke
+Also known as: Clement FITZRALPH de la Wyke; Clement de la WYKE.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1288-1288%.
+Born in: Angleterre..
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 19/04/2021..

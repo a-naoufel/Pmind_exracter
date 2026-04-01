@@ -1,0 +1,11 @@
+PERSON: PONCIUS Astoaldi
+Also known as: Ponce ASTOALDI.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1279-1301%.
+Studied at: Paris ;; Avignon ;; Montpellier..
+Academic grades obtained: Étudiant (Paris) ?.
+Religious order: O.P. : frère dominicain..
+University functions: Avignon (Lecteur au couvent dominicain en ); Paris (Lecteur au couvent dominicain en ); Montpellier (Lecteur au couvent dominicain en ).
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 4/02/2021)..

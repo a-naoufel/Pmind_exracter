@@ -1,0 +1,10 @@
+PERSON: BERNARDUS 14
+Also known as: Magister BERNARDUS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1487-1488%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+University functions: Paris (Nation Anglo-allemande : candidat malheureux à l'office de procureur de la nation Anglo-allemande en ). Il prétend en (22 avril) avoir obtenu 20 voix, le candidat élu Johannes OLAVI n'en ayant obtenu aussi que vingt, et vingt-et-une seulement en y ajoutant celle du procureur sortant, Andreas SIBALD ; sa requête est rejetée par la Faculté ;; Il s'oppose encore à la majorité des maîtres à propos de l'organisation de messes et de distributions chaque semaine, et même en (28 janvier) à la célébration de la fêtes de CHARLEMAGNE !.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 14/01/2021)..

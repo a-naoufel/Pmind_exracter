@@ -1,0 +1,10 @@
+PERSON: HUGO Le Charron
+Also known as: Hugo LECHARRON.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+Family relationships: Son parent est (peut-être) Johannes LECHARRON qui s’acquitte de la taxe en même temps que lui ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 06/06/2022..

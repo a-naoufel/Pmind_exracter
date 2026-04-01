@@ -1,0 +1,12 @@
+PERSON: CLEMENS Aubert
+Also known as: Clemens AUBERT.
+Description: Bachelier Décret.
+Status: Gradué.
+Gender: male.
+Active during: %1497-1497%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse d'Autun..
+Studied at: Paris %1497-1497%..
+Academic grades obtained: Bachelier en décret (Paris) (le 11 août) ..
+Ecclesiastical status: Clerc..
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 16/04/2021..

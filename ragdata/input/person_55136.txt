@@ -1,0 +1,14 @@
+PERSON: PETRUS de Sinemuro
+Also known as: Petrus de SINEMURO.
+Description: Chanoine d’Autun.
+Status: Incertain.
+Gender: male.
+Active during: %1302-1329%.
+Born in: Bourgogne ,.
+Diocese of origin: Diocèse d’Autun ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son frère est Jean de SEMUR, chancelier du duc de Bourgogne ; Son frère est Milon de SEMUR, doyen de Laon ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine d’Autun %1302-1328% ;; Chanoine de Sens %1309-1327% ;; Archidiacre de Vertus %1319-1329% ;; Chanoine de Châlons %1319-1329% ;; Chanoine de Langres % -1329% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/01/2023..

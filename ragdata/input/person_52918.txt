@@ -1,0 +1,10 @@
+PERSON: RICARDUS de Salmonisvilla
+Also known as: Ricardus de SALMONISVILLA.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1259-1263%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Rouen %1259-1263% ;; Chancelier de Rouen ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 8/11/2021..

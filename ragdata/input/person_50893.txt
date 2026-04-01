@@ -1,0 +1,50 @@
+PERSON: GUILLELMUS de Alvernia 1
+Also known as: Guillelmus de ALVERNIA; Guillaume d'AUVERGNE; Guillaume de PARIS; Guillelmus PARISIENSIS; Guillelmus ADVERNIENSIS.
+Description: Évêque de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1210-1249%.
+Born in: Auvergne (Aurillac) ;.
+Diocese of origin: Diocèse de Saint-Flour..
+Studied at: Paris %1205-1223%..
+Academic grades obtained: Maître ès arts (Paris) vers ;; Maître en théologie (Paris) ..
+Family relationships: Son père est Astorg de CONROS ; Sa mère est Marie de BÉNAVENT-RODEZ ;.
+Social origin: Noble ;.
+Ecclesiastical status: Diacre ;; Prêtre ;.
+Ecclesiastical positions held: Chanoine de LeMans %1215-1220% ;; Chanoine de Paris (Notre-Dame) %1223-1228% ;; Evêque de Paris %1228-1249%..
+Representation roles: Chargé de missions diplomatique auprès de l'Angleterre..
+Authored work: 'Extracta super libros Sententiarum', composed around ?.
+Authored work: 'Comment. in Ecclesiasten', composed around ?.
+Authored work: 'Comment. in Proverbia', composed around ?.
+Authored work: 'Comment. in Cantica Canticorum', composed around ?.
+Authored work: 'Comment. in Apocalypsim', composed around ?.
+Authored work: 'Magisterium Divinale et Sapientiae : I. De Trinitate, sive de primo principio', composed around ?.
+Authored work: 'Magisterium Divinale et Sapientiae : II. De universo', composed around %1231-1236%.
+Authored work: 'Magisterium Divinale et Sapientiae : III. De anima', composed around ?.
+Authored work: 'Magisterium Divinale et Sapientiae : IV. Cur Deus Homo', composed around ?.
+Authored work: 'Magisterium Divinale et Sapientiae : V. De fide et legibus', composed around ?.
+Authored work: 'Magisterium Divinale et Sapientiae : VI. De sacramentis tract. VIII.', composed around ?.
+Authored work: 'Magisterium Divinale et Sapientiae : VII. Summa de virtutibus et vitiis', composed around ?.
+Authored work: 'De rhetorica divina', composed around ?.
+Authored work: 'De claustro animae', composed around ?.
+Authored work: 'De immortalitate animae', composed around ?.
+Authored work: 'De passione Domini', composed around ?.
+Authored work: 'De laudibus patientiae', composed around ?.
+Authored work: 'De bono et malo I', composed around ?.
+Authored work: 'De bono et malo II', composed around ?.
+Authored work: 'De paupertate spirituali', composed around ?.
+Authored work: 'De poenitentia novus tractatus', composed around ?.
+Authored work: 'Supplementum tractatus novi de poenitentia', composed around ?.
+Authored work: 'De Gratia et libero arbitrio, sive de errore Pelagii', composed around ?.
+Authored work: 'De missa', composed around ?.
+Authored work: 'De inferno et paradiso', composed around ?.
+Authored work: 'Consilium de ministrio et negligentiis altaris', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: '[Sermon pour la vigile de la Toussaint]', composed around (31 octobre)..
+Authored work: '[Sermon en français]', composed around ?.
+Authored work: 'Sermon de la douce Vierge Marie', composed around ?.
+Authored work: 'De arte praedicandi', composed around ?.
+Authored work: 'De faciebus mundi', composed around ?.
+Authored work: 'Tractatus de collatione et singularitate beneficiorum', composed around .
+Authored work: '(Erreurs condamnées en tant qu’évêque de Paris)', composed around ..
+Source: MIRABILE; Andrea CENCINI :.

@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS de Montefalcone
+Also known as: Aegidius de MONTEFALCONE.
+Description: Évêque de Terni.
+Status: Incertain.
+Gender: male.
+Active during: %1319-1323%.
+Born in: Italie ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Cambrai % -1323% ;; Chantre de Cambrai (Saint-Géry) % -1323% ;; Évêque de Terni %1319-1323% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 19/12/2025..

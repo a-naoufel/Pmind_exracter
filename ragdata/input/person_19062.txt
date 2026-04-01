@@ -1,0 +1,30 @@
+PERSON: BONIFACIUS de Ceva
+Also known as: Bonifacius de CEVA; Bonaventura GALLUS.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1480-1517%.
+Born in: Italie (Piémont : Ceva ?)..
+Diocese of origin: Diocèse de Mondovi ?.
+Studied at: Paris ?.
+Academic grades obtained: Docteur en théologie, créé par Egidio DELFINI, Maîtregénéral des Franciscains, considéré comme "creatum sub camino" en ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Social origin: Noble..
+Religious order: Franciscain (couvent (colétain) de Rougemont) ..
+Religious functions: Gardien du couvent (franciscain) de Paris %1503- % ;; Provincial (franciscain) de France %1503-1510%..
+University functions: Paris (Couvent franciscain : réformateur du studium en tant que gardien du Grand Couvent) %1503-1510%..
+Authored work: 'Venustissimi ac Facundissimi Sermones de Adventu', composed around ?.
+Authored work: 'Opus Admodum Insigne, Sermones Quadragesimales', composed around ?.
+Authored work: 'Conciones Tempore Adventus Domini/Adventuale', composed around ?.
+Authored work: 'Sermones Quadragesimales et Viatice Excursiones', composed around ?.
+Authored work: 'Defensorium Elucidativum Observantiae Regularis Fratrum Minorum', composed around ?.
+Authored work: 'Preclarissimi ... F. Bonifacij de Ceua Ordinis Minoru[m] ... Sermones quadragesimales et Paschales ...', composed around ?.
+Authored work: 'De Perfectione Christiana cum Praeclaris Imaginibus ad Leonem X', composed around ?, dedicated to Dédié au Pape LÉON X..
+Authored work: 'Sermones prenatalicii sive de adventu a F. Bonifacio de Ceua Ordinis Minoru[m] Amabacie coram Ludovica Galliarum rectrice et Domina Alenconium declamati', composed around ?.
+Authored work: 'Viaticae Excursiones de Variis Hominum Vitiis', composed around ?.
+Authored work: 'Tractatus de Scientia et Arte Bene Moriendi', composed around ?.
+Authored work: 'Articuli in supremo parlamenteo Senatu Parisiensi ad... Ludovici XII iussum... convocatis partibus duarum Observantiarum eiusdem Ordinis... exibiti', composed around ?.
+Authored work: 'Firmamentum Trium Ordinum Beatissimi Patris Nostri Francisci', composed around ?.
+Authored work: 'Speculum minorum seu firmamentum trium ordinum intitulatur', composed around ?.
+Authored work: 'Defensorium elucidativum observantiae regularis fratrum minorum', composed around ?.
+Source: Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress ("Bonifacius de Ceva") : //http://users.bart.nl/~roestb/franciscan/index.htm.

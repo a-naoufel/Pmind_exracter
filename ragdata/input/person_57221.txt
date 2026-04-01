@@ -1,0 +1,13 @@
+PERSON: HUGO Fagot de Coucy
+Also known as: Hugues FAGOT de Coucy; Hugo FAGOTI.
+Description: Boursier du Collège de Laon.
+Status: Étudiant.
+Gender: male.
+Active during: %1331-1364%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie ?) ..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège de Laon : boursier en %1331-1340% ;.
+Social origin: Son oncle est Jean FÈVE de Coucy ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 13/01/2024)..

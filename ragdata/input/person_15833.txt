@@ -1,0 +1,13 @@
+PERSON: CLEMENS de Veromonte
+Also known as: Clemens de VEROMONTE.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1418-1418%.
+Born in: Picarde ?.
+Diocese of origin: Diocèse de Beauvais..
+Studied at: Paris %1418-1418%..
+Academic grades obtained: Bachelier en décret (Paris) ..
+Ecclesiastical status: Prêtre du diocèse de Beauvais..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales en (22 août)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux : révision, Jean-Philippe Genet, dernière mise à jour 19/04/2021..

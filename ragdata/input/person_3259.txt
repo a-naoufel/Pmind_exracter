@@ -1,0 +1,14 @@
+PERSON: GALTERIUS de Sancto Ricario 1
+Also known as: Galterus de SANCTO RICARIO; Gauthier de SAINT-RIQUIER; GAUTHIER; GANTERUS; GONTERUS; Galterus de SANCTO-RICHARIO.
+Description: Chanoine d'Évreux.
+Status: Maître.
+Gender: male.
+Active during: %1285-1304%.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) vers ;.
+Ecclesiastical positions held: Chanoine d'Évreux %1295-1304% ;.
+University functions: Paris (Faculté de Théologie : maître-régent en %1287-1290%) ;.
+Authored work: 'Quodlibet I', composed around %1287-1288%.
+Authored work: 'Quodlibet II', composed around %1289-1290%.
+Authored work: 'Quaestio disputata', composed around ?.
+Source: MIRABILE (Andrea CENCINI) :.

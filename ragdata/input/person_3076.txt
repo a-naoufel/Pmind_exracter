@@ -1,0 +1,12 @@
+PERSON: GILBERTUS Droulin
+Also known as: Gilbertus DROULIN; Gilbert DROULIN.
+Description: Médecin à Angers.
+Status: Maître.
+Gender: male.
+Active during: %1470-1499%.
+Born in: Normandie ?.
+Studied at: Paris, %:1470-1472% ;; Angers (Nation de Normandie), %1484-1494%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Ecclesiastical positions held: Prêtre de Chantocé ;.
+University functions: Angers (?Maître-régent en médecine) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 15/01/2022..

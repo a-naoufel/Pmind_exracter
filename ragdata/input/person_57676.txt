@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Senensis
+Also known as: Nicolaus SENENSIS.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1262-1262%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Sens ?.
+Studied at: Paris (Nation de France) ?.
+Academic grades obtained: Maître (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 29/03/2024).

@@ -1,0 +1,12 @@
+PERSON: CLAUDIUS Paris
+Also known as: Claudius PARIS.
+Description: Bachelier Décret.
+Status: Gradué.
+Gender: male.
+Active during: %1474-1474%.
+Born in: Comté de Bourgogne ?.
+Diocese of origin: Diocèse de Belley..
+Studied at: Paris %1474-1474%..
+Academic grades obtained: Bachelier Décret (Paris) ..
+University functions: Lecteur des Décrétales à Paris le 22 septembre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 14/04/2021..

@@ -1,0 +1,11 @@
+PERSON: CELESTINUS Sequerii
+Also known as: Célestin SÉGUIER; Coelestinus SEQUERII.
+Description: Étudiant en droit canon.
+Status: Étudiant.
+Gender: male.
+Active during: %1339-1339%.
+Born in: Languedoc..
+Diocese of origin: Diocèse de Maguelonne..
+Studied at: Paris ;; Montpellier..
+Academic grades obtained: Étudiant en droit canon (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 06/04/2021..

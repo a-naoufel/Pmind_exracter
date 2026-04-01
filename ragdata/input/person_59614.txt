@@ -1,0 +1,8 @@
+PERSON: ROBERTUS Mercerius
+Also known as: Robertus MERCERIUS.
+Description: Bénéficiaire du testament de Stephanus VIDE de Boissiaco.
+Status: Extérieur.
+Gender: male.
+Active during: %1363-1363%.
+Family relationships: Parent de Stephanus VIDE de Boissiaco..
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

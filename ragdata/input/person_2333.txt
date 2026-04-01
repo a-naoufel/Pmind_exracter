@@ -1,0 +1,9 @@
+PERSON: FRANCISCUS de Pavie
+Also known as: Franciscus de PAVIA; François de PAVIE.
+Description: Médicastre.
+Status: Extérieur.
+Gender: male.
+Active during: %1322-1322%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 31/08/2021..

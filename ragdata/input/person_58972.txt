@@ -1,0 +1,12 @@
+PERSON: PETRUS Isolella
+Also known as: Pierre ISOLELLA.
+Description: Maître de grammaire à Crémone..
+Status: Extérieur.
+Gender: male.
+Active during: %1290-1300%.
+Born in: Italie (Lombardie : Crémone ?)..
+Diocese of origin: Diocèse de Crémone..
+Studied at: ?.
+Academic grades obtained: Maître ?.
+Authored work: 'Summa grammaticae', composed around ..
+Source: MIRABILE, Pietro Antonio PODOLAK :.

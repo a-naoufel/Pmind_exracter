@@ -1,0 +1,9 @@
+PERSON: STEPHANUS Brun
+Also known as: Stephanus BRUN.
+Description: Médecin.
+Status: Incertain.
+Gender: male.
+Active during: %1416-1416%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 17/09/2024..

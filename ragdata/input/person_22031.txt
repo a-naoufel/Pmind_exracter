@@ -1,0 +1,12 @@
+PERSON: BERTRANDUS Payen
+Also known as: Bertrandus PAYEN.
+Description: Chanoine d'Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1434-1453%.
+Studied at: ?.
+Academic grades obtained: Maître..
+Family relationships: Son neveu est Betrandus FABRI, chanoine d'Amiens ;.
+Ecclesiastical status: Prêtre..
+Ecclesiastical positions held: Chanoine d'Amiens %1434-1453% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 20/03/2021)..

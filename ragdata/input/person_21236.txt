@@ -1,0 +1,11 @@
+PERSON: RADULPHUS Trodeau
+Also known as: Radulphus TRODEAU; Radulphus BERODEAU.
+Description: Régulier.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Marmoutier ?.
+Religious order: O.S.B. : moine bénédictin ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/08/2016..

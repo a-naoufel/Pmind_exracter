@@ -1,0 +1,76 @@
+PERSON: PETRUS de Alliaco
+Also known as: Petrus de ALLIACO; Pierre d'AILLY; Petrus de AILLIACO; Petrus MARGUERITE dictus de AILLAICO; Petrus MARGUERITE.
+Description: Cardinal.
+Status: Maître.
+Gender: male.
+Active during: %1364-1420%.
+Born in: Picardie (Compiègne) ;.
+Diocese of origin: Diocèse de Soissons ;.
+Studied at: Collège de Navarre %1364-1381% ;.
+Academic grades obtained: Bachelier ès arts (Paris) avant ;; Licencié ès arts (Paris) (avril ou mai) ;; Maître ès arts (Paris) ;; Étudiant en théologie (Paris) ;; Bachelier en théologie (Paris) ;; Bachelier en théologie "formatus" (Paris) attesté en ;; Licencié en théologie (Paris) (Carême) ;; Maître en théologie (Paris) (le 11 avril) ..
+College affiliation: Collège de Navarre : boursier artien, %1364-1368% ;; Collège de Navarre : boursier théologien en %1368-1381% ;.
+Family relationships: Son père est Colard MARGUERITE d'AILLY ; Sa mère est Perrine d'AILLY ; Son neveu est Pierre d'AILLY, boursier au collège de Navarre (1392-1396)..
+Academic relationships: Son maître est Johannes de QUERCU ; Son maître est Guillelmus CARNIFICIS ;.
+Social origin: Bourgeoisie..
+Ecclesiastical status: Sous-diacre du diocèse de Soissons, attesté en ;.
+Ecclesiastical positions held: Chanoine de Meaux ;; Chanoine de Paris (Sainte-Chapelle) %1389-1394% ;; Chancelier de Paris (Notre-Dame) %1389-1394% ;; Chanoine de Rouen %1390- % ;; Chanoine de Compiègne (Saint-Clément) ;; Chanoine de Cambrai %1391-1394% et %1413-1414% ;; Archidiacre de Cambrai %1391-1395% ;; Chantre de Rouen %1394-1395% ;; Trésorier de Bayeux ;; Chanoine de Toul ;; Archidiacre de Toul ;; Evêque de LePuy %1395-1397% ;; Evêque de Cambrai %1397-1411% ;; Cardinal-prêtre de Saint-Chrysogonr %1411-1420%..
+University functions: Légat du pape en Allemagne en ;.
+Representation roles: Participe au Concile de Constance en %1414-1418%.; Légat du pape à Avignon, ..
+Authored work: 'Principium in cursum Biblie', composed around .
+Authored work: 'Quaestio disputata de resumpta', composed around ?.
+Authored work: 'Quaestio vesperiarum Sacrae Scripturae', composed around ?.
+Authored work: 'Recommandatio Sacrae Scripturae in magisterio theologiae', composed around ?.
+Authored work: 'Expositio super Cantica Canticorum', composed around .
+Authored work: 'Principia super IV libros Sententiarum', composed around %1376-1377%.
+Authored work: 'Questiones super libros Sententiarum', composed around %1376-1377%.
+Authored work: 'Apologia facultatis théologiae Parisiensis circa damnationem Johannis de Montesono', composed around ?.
+Authored work: 'Speculum considerationis', composed around .
+Authored work: 'Compendium contemplationis', composed around ?.
+Authored work: 'De quattuor gradibus scalae spiritualis', composed around ?.
+Authored work: 'Epilogus de quadruplici exercitio spirituali', composed around ?.
+Authored work: 'De duodecim honoribus sancti Joseph', composed around ?.
+Authored work: 'Meditationes super Psalmos poenitentiales', composed around %1414-1417%.
+Authored work: 'Devota meditacio super psalmo : In te, a Domine, speravi …', composed around ?.
+Authored work: '[Cantiques sur les évangiles]', composed around .
+Authored work: '(Commentaire sur le Pater noster)', composed around ?.
+Authored work: '(Commentaire sur l’Ave Maria)', composed around .
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Les enfermetez du corps', composed around ?.
+Authored work: '(Sermon)', composed around ?.
+Authored work: 'Le jardin de la sainte ame', composed around ?.
+Authored work: 'Epistola ad novos Hebraeos', composed around ?.
+Authored work: 'Invectiva Ezechielis contra pseudo-pastores', composed around ?.
+Authored work: 'Tractatus super de consolatione philosophiae Boethii', composed around ?.
+Authored work: 'Questio de libertate creature rationalis', composed around %1368-1381%.
+Authored work: 'Tabula in Rogerii Bacon Opus maius', composed around %1368-1381%..
+Authored work: 'Destructiones modorum significandi', composed around ?.
+Authored work: 'Abbreviatio Dyalogi Okan', composed around ?.
+Authored work: 'Tractatus de anima', composed around ?.
+Authored work: 'Insolubilia', composed around ?.
+Authored work: 'Tractatus exponibilium', composed around ?.
+Authored work: 'Imago mundi', composed around .
+Authored work: 'Exhortatio ad concilium generale super Calendarii correctionem', composed around ?.
+Authored work: 'De falsis prophetis', composed around ?.
+Authored work: 'Compendium cosmographiae', composed around ?.
+Authored work: 'Compilatio super libros Meteororum', composed around ?.
+Authored work: 'De concordantia astronomie veritatis et narrationis historice', composed around ?.
+Authored work: 'De concordia discordantium astronomorum', composed around ?.
+Authored work: 'Apologetica defensio astronomice veritatis', composed around ?.
+Authored work: 'Tractatus de legibus et sectis contra superstitiosos astronomos', composed around ?.
+Authored work: 'Apologetica defensio astronomice veritatis', composed around ?.
+Authored work: 'De figura inceptionis mundi et coniunctibus mediis sequentibus', composed around ?.
+Authored work: 'De vero cyclo lunari', composed around ?.
+Authored work: 'Elucidarium astronomice concordiae cum theologica et historica veritate', composed around ?.
+Authored work: 'Quaestiones super Spheram', composed around ?.
+Authored work: 'Vigintiloquium de concordia astronomice veritatis cum theologia', composed around ?.
+Authored work: 'Les contredictz de franc gontier', composed around ?.
+Authored work: '[Lettres]', composed around ?.
+Authored work: 'Epistola ad Iohannem Gersonium', composed around ?.
+Authored work: 'Liber de vita et gesti Petri confessoris, quondam apae Caelestini V, fundatoris ordinis Celestinorum', composed around ?.
+Authored work: 'Epistola diaboli Leviathan', composed around .
+Authored work: 'De materia Concilii generalis', composed around ?.
+Authored work: 'De Reformatione Ecclesie', composed around , dedicated to Offert au Concile de Constance en ..
+Authored work: 'Capitula agendorum in Concilio generali Constantiensi per viam concilii generalis', composed around ?.
+Authored work: 'Propositiones untiles ad extinctionem presentis schismatis per viam concilii generalis', composed around ?.
+Authored work: 'Descriptio vitae tyranicae'.
+Source: Arlima (Les Archives de littérature du Moyen Âge) [en ligne].

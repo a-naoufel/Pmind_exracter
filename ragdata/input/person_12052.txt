@@ -1,0 +1,10 @@
+PERSON: THOMAS de Godarvilla
+Also known as: Thomas de GODARVILLA; Thomas de GODARVILLE.
+Description: Boursier artien au collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1352-1357%.
+Studied at: Paris %1352-1357%..
+Academic grades obtained: Étudiant ès arts (Paris) %1352-1357%..
+College affiliation: Boursier artien au collège de Navarre à Paris en %1352-1357% ;; Candidat à une bourse en théologie au collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 03/10/2024..

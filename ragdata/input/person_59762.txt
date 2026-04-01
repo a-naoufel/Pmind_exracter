@@ -1,0 +1,10 @@
+PERSON: GEORGIUS Herbar
+Also known as: Georgius HERBAR; Georgius EERBER; Georgius HARBAR.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1452-1466%.
+Born in: Rhénanie (Hesse : Eibingen ?) ?.
+Studied at: Paris (Nation Anglo-allemande) %1462-1463% ;; Erfurt ;.
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Maître ès arts (Erfurt) ;.
+Source: RAG ;.

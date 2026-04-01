@@ -1,0 +1,12 @@
+PERSON: MARTINUS 9
+Also known as: MARTINUS.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1390-1403%.
+Studied at: Paris (Collège de Marmoutier) %1390-1390%..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Membre du collège de Marmoutier à Paris en ..
+Religious order: O.S.B. : moine bénédictin du monastère de Marmoutier (diocèse de Tours)..
+Religious functions: ?Prêtre ;; ?Candidat à des bénéfices en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 21/05/2022..

@@ -1,0 +1,11 @@
+PERSON: EVENUS Kermenec
+Also known as: Evenus KERMENEC.
+Description: Bachelier en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1476-1476%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Quimper..
+Studied at: Paris (Nation de France) %1476-1476%..
+Academic grades obtained: Maître ès arts (Paris) attesté en ;; Bachelier en décret (Paris) 24 janvier ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 30/07/2021..

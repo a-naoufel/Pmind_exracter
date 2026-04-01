@@ -1,0 +1,11 @@
+PERSON: PHILIPPUS de Braio
+Also known as: Philippus de BRAIO; Philippus de BRAYO.
+Description: Licencié en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1415-1416%.
+Studied at: Paris %1415-1416%..
+Academic grades obtained: Licencié en décret (Paris) 16 février ..
+Academic relationships: Son maître est Johannes de VILLANOVA pour la licence en décret en ;.
+University functions: Paris (Faculté de Décret : lecteur des Décrétales pour la sixième année et le sixième volume, en (11 octobre), "in scolis inferioribus, ad Ymaginem B. Johannes Baptiste") ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 29/08/2022..

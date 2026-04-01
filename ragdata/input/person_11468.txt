@@ -1,0 +1,13 @@
+PERSON: SIMON de Hersino
+Also known as: Simon de HERSINO.
+Description: Recteur de l'Université.
+Status: Maître.
+Gender: male.
+Active during: %1342-1346%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Noyon ;.
+Studied at: Paris (Nation de Picardie) %1342-1346%..
+Academic grades obtained: Maître ès arts (Paris) ..
+Ecclesiastical positions held: Chanoine de Vignacourt (Saint-Firmin) ;; Provision pour un bénéfice à la collation de l'évêque d'Amiens en : mandat à l'abbé de Gand (Saint-Bavon), à l'abbé de Paris (Sainte-Geneviève) et au doyen d'Amiens ;; Chapelain de Fresnoy au diocèse d'Amiens ;; Chapelain de Paris (Saint-Eutrope) ;.
+University functions: Recteur de l'Université de Paris ;; Paris (Université ; recteur en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 05/09/2024..

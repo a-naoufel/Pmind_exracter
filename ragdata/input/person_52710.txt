@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS 23
+Also known as: GUILLELMUS.
+Description: Etudiant en art.
+Status: Incertain.
+Gender: male.
+Active during: %1378-1379%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Meaux ;.
+Studied at: Etudiant ès arts (Paris) ;.
+Ecclesiastical positions held: Candidat à un bénéfice ecclésiastique sur le rotulus de l’université de Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 27/09/2021..

@@ -1,0 +1,12 @@
+PERSON: ARMANNUS de Parme
+Also known as: Armannus de PARMA.
+Description: Chanoine de Senlis.
+Status: Incertain.
+Gender: male.
+Active during: %1308-1308%.
+Born in: Italie (Émilie-Romagne, Parme ?).
+Diocese of origin: Diocèse de Parme ?.
+Studied at: ?.
+Academic grades obtained: Magister ?.
+Ecclesiastical positions held: Chanoine de Senlis en ;; Doyen de Paris (églisecollégiale St-Marcel) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction :Jean-Philippe Genet, dernière mise à jour 20/10/2020)..

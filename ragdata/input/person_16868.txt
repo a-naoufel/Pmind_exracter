@@ -1,0 +1,14 @@
+PERSON: LUC
+Also known as: LUC; LUCAS; LUKÁCS; Lucas de HONGRIE; Lucas de HUNGARIA.
+Description: Archevêque d’Esztergom..
+Status: Étudiant.
+Gender: male.
+Active during: %1150-1181%.
+Born in: Hongrie.
+Studied at: Paris %1150-1156%..
+Academic grades obtained: Étudiant en droit canon (Paris) %:1150:-:1156:%..
+Family relationships: Son frère est APA (ou APPA), comte de Bodrog (1156), puis ban de la Slavonie (1157-1158)..
+Academic relationships: Son maître est Gérard PUCELLE ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Évêque d’Eger élu en ;; Archevêque d’Esztergom, %1158-1181%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Gergely KISS, 26/07/2014..

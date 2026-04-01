@@ -1,0 +1,11 @@
+PERSON: HENRICUS 5
+Also known as: HENRICUS canonicus Tullensis.
+Description: Chanoine de Toul.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris %1313-1313%..
+Academic grades obtained: Étudiant (Paris) ..
+Family relationships: Son frère est JOHANNES : il souscrit à l'appel avec lui et avec leur "magister", NICOLAUS ;.
+Ecclesiastical positions held: Chanoine de Toul ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 20/06/2022).

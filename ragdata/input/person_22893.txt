@@ -1,0 +1,8 @@
+PERSON: PETRUS de Claustro
+Also known as: Petrus de CLAUSTRO; Petrus de CLAUSTROSANCTIBENEDICTI.
+Description: Propriétaire d’une maison.
+Status: Extérieur.
+Gender: male.
+Active during: %1282-1287%.
+Studied at: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/01/2024)..

@@ -1,0 +1,13 @@
+PERSON: RODULFUS
+Also known as: RODULPHUS.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1336-1336%.
+Born in: Italie (Lombardie ?)..
+Studied at: Bologne ;; Paris ..
+Academic grades obtained: Étudiant en théologie (Paris) ;.
+College affiliation: Couvent (dominicain) de Paris (Jacobins) en ;.
+Religious order: O.P. : frère (dominicain) de la province (dominicaine) de Lombardie ;.
+Authored work: '(Lettres adressées à Venturino de Bergomo)', composed around (septembre) ;, dedicated to Adressées à Venturino de BERGOMO, O.P...
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/04/2025).

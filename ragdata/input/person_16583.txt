@@ -1,0 +1,13 @@
+PERSON: BARTHOLOMAEUS Buyer
+Also known as: Bartholomaeus BUYER.
+Description: Libraire.
+Status: Étudiant.
+Gender: male.
+Active during: %1460-1506%.
+Born in: Berry ?.
+Diocese of origin: Diocèse de Bourges..
+Studied at: Paris..
+Academic grades obtained: Étudiant à la Faculté des Arts en ...
+University functions: Paris (Université : Libraire)..
+Authored work: 'Commentarium Bartholi'.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/03/2015).

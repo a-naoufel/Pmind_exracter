@@ -1,0 +1,21 @@
+PERSON: PETRUS Richeri
+Also known as: Petrus RICHERI; Petrus RICZIER; Petrus RITCHERII; Petrus RITXZERI; Petrus RICHIER; Petrus RICHERII.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1430-1463%.
+Studied at: Paris (Nation de Normandie) %1430-1462%..
+Academic grades obtained: Bachelier en théologie (Paris) ;; ?Bachelier en théologie formatus (Paris) en (5 mars) ;; Licencié en théologie (Paris) (le 22 février) ;; Maître en théologie (Paris) (le 22 novembre) ..
+Academic relationships: Son maître est Johannes SAUNERII en mai ; Son élève est Clemens PARMENTARII en %1453-1454% ;.
+University functions: Paris (Faculté de théologie : Lecteur de la Bible le 20 mai ) ;; Paris (Nation de Normandie : il prend part à une assemblée traitant de la question des suffrages pour les morts de la Nation le 26 mai ) ;; Paris (Université : Recteur élu le 23 juin ) ;; Paris (Faculté de théologie : Lecteur de la Bible le 27 août ;; Paris (Faculté de théologie : Lecteur des Sentences en septembre ) ;; Paris (Université : Recteur élu le 23 juin ) ;; Paris (Université : Recteur élu le 10 octobre ) ;; Paris (Nation de Normandie : Quodlibetarius le 14 novembre ) ;; Paris (Faculté de théologie : Maîtrerégent en ) ;; Paris (Faculté de théologie : Maîtrerégent en ;; Paris (Faculté de théologie : Maîtrerégent en %1458-1462%) ;.
+Authored work: 'Questiones logice in Porphyrium', composed around ?.
+Authored work: 'Commentarius in Aristotlis Predicamentorum librum', composed around ?.
+Authored work: 'Questiones super Aritotelis librum de Interpretatione', composed around ?.
+Authored work: 'Questiones in Aristotelis Priorum libros II', composed around ?.
+Authored work: 'Questiones super Libros II Posteriorum', composed around .
+Authored work: 'Questiones in Aristotelis Sophisticorum elenchorum libros II', composed around ?.
+Authored work: 'Questiones super libros Topicarum', composed around Paris, ..
+Authored work: 'Questiones in Boethii Divisionum librum', composed around Paris,.
+Authored work: 'Questiones in Gilberti Porretani Sex principia', composed around Paris, ..
+Authored work: 'Commentarius in (Thome Aquinatis) de esse et essentia librum', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 07/04/2024..

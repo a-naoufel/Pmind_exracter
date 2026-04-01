@@ -1,0 +1,9 @@
+PERSON: ROBERTUS de Maresco
+Also known as: Robertus de MARESCO.
+Description: Maître d’école.
+Status: Maître.
+Gender: male.
+Active during: %1451-1451%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en théologie (Paris) ;; Bachelier en décret (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/06/2024..

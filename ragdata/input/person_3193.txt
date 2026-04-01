@@ -1,0 +1,9 @@
+PERSON: GOBERTUS de Novavilla
+Also known as: Gobertus de NOVAVILLA; Gobert de NOVAVILLA; Gobert de Noeufville; Robertus de Novavilla.
+Description: Étudiant en médecine (Paris).
+Status: Étudiant.
+Gender: male.
+Active during: %1497-1500%.
+Studied at: Paris %1497-1500%..
+Academic grades obtained: Étudiant en médecine (Paris) %1497-1500%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 17/01/2022..

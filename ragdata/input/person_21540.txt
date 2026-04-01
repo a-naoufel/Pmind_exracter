@@ -1,0 +1,13 @@
+PERSON: GEORGIUS Civis
+Also known as: Georgius CIVIS.
+Description: Licencié en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1488-1519%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris).; Licencié en théologie (Paris) ;; Rang 10/22 ;.
+College affiliation: Collège de Montaigu : régent ès arts ;; Sorbonne : "socius" en ;.
+Academic relationships: Son élève est Jacques COURTEVILLE au collège de Montaigu ;.
+Ecclesiastical positions held: Chanoine de Tournai en ..
+University functions: Paris (Faculté des Arts : régent ès arts au collège de Montaigu pendant cinq ans au moins) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 29/11/2020)..

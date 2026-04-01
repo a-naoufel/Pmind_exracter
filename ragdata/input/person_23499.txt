@@ -1,0 +1,14 @@
+PERSON: HUGO de Montjeu
+Also known as: Hugues de MONTJEU.
+Description: Hôte du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1390-1390%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse d'Autun ?.
+Studied at: Paris %1392-1396%..
+Academic grades obtained: Étudiant à Paris ;.
+College affiliation: Collège de Dormans-Beauvais : hôte ;.
+Family relationships: Son frère est Philibert de MONTJEU, évêque de Coutances ; Son parent est Jean de MONTJEU ; Son oncle est Jean de SAULX ; Son oncle est Philibert de SAULX, évêque d'Amiens ;.
+Social origin: Noble ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 04/07/2018..

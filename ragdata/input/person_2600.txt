@@ -1,0 +1,9 @@
+PERSON: GALFREDUS de Mans
+Also known as: Gaufridus de MANS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1385-1385%.
+Studied at: Paris ()..
+Academic grades obtained: Magister ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 18/08/2020..

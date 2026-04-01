@@ -1,0 +1,13 @@
+PERSON: PONSARDUS de Sancto Theodorico
+Also known as: Ponsardus de SANCTO THEODORICO.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1250-1250%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Reims ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Diacre ;.
+Ecclesiastical positions held: Chanoine de Reims ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/06/2021..

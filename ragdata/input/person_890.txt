@@ -1,0 +1,9 @@
+PERSON: ARNALDUS Ysarn
+Also known as: Arnaldus YSARN.
+Description: Camérier du Pape.
+Status: Extérieur.
+Gender: male.
+Active during: %1335-1335%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet 16/11/2020..

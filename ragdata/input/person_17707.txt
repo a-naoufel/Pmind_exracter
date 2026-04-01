@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Beguyn
+Also known as: Guillelmus BEGUYN; Guillermus BEGUYN.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1483-1483%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Langres..
+Studied at: Paris %1483-1483%..
+Academic grades obtained: Bachelier en décret (Paris) 5 juin ..
+University functions: Lecteur des Décrétales (1e année) à Paris le 15 juin ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 21/02/2022..

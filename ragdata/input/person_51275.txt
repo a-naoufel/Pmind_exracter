@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Le Coutellier
+Also known as: Guillaume LE COUTELLIER.
+Description: Hôte du Collège de Justice.
+Status: Étudiant.
+Gender: male.
+Active during: %1435-1435%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie ?).
+College affiliation: Collège de Justice : hôte en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Marion BERNARD-SCHWEITZER, 13/10/2020)..

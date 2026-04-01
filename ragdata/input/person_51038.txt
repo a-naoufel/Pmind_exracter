@@ -1,0 +1,7 @@
+PERSON: PERROTA Potelle
+Also known as: Perrota POTEL; Perrota POTIERE.
+Description: Maîtresse d’école.
+Status: Suppôt.
+Gender: female.
+Active during: %1436-1451%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 29/08/2020..

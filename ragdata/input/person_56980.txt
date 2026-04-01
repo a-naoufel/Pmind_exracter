@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Sancto Evurcio
+Also known as: Guillelmus de SANCTO EVULCIO; Guillelmus de SANCTO EVURCIO; Guillaume de SAINT EUVERTE.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1286-1307%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Couvent (dominicain) de Paris (Jacobins) ;.
+Religious order: O.P. : frère dominicain ;.
+Religious functions: Prieur du Couvent (dominicain) de Paris ;; Délégué de l'inquisiteur de France au tribuna d'inquisition pour l'affaire des Templiers en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 20/03/2020)..

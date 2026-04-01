@@ -1,0 +1,11 @@
+PERSON: STEPHANUS de Prato 2
+Also known as: Stephanus de PRATO; Stephanus de PRE.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1400-1414%.
+Studied at: ?Paris ..
+Academic grades obtained: ?Étudiant (Paris) ..
+Religious order: O.S.B. : moine (bénédictin)..
+Religious functions: Abbé de Lyre (diocèse d'Evreux) en %1400-1414%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe GENET, 08/09/2022..

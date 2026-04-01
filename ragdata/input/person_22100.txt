@@ -1,0 +1,10 @@
+PERSON: ALANUS 1
+Also known as: ALANUS 1.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1249-1249%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Chanoine de Rouen ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Dernière mise à jour, Jean-Philippe Genet 20/05/2020)..

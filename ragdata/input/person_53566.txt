@@ -1,0 +1,13 @@
+PERSON: PETRUS Gay 1
+Also known as: Petrus GAY.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1415-1418%.
+Born in: Limousin ?.
+Diocese of origin: Diocèse de Limoges ;.
+Studied at: Paris %1415-1418%..
+Academic grades obtained: Bachelier en décret (Paris) ;; Licencié en décret (Paris) ;.
+Academic relationships: Son maître est Johannes de SERVAVILLA pour la licence en droit canon en ;.
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (5e livre), 1er cours en (17 août)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 29/03/2022)..

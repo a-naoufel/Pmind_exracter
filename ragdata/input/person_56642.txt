@@ -1,0 +1,10 @@
+PERSON: PETRUS Richier 1
+Also known as: Petrus RICHIER.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1443-1443%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) en ;.
+University functions: Paris (Université : recteur élu en (10 octobre) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/09/2023..

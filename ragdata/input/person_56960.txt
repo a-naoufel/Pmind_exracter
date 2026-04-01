@@ -1,0 +1,7 @@
+PERSON: STEPHANUS 13
+Also known as: STEPHANUS.
+Description: Apothicaire.
+Status: Extérieur.
+Gender: male.
+Active during: %1456-1456%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 19/12/2023..

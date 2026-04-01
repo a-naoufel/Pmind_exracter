@@ -1,0 +1,10 @@
+PERSON: PETRUS Lemmonier
+Also known as: Petrus LEMMONIER; Pierre LEMONIER.
+Description: Doyen de la Faculté de médecine..
+Status: Maître.
+Gender: male.
+Active during: %1331-1338%.
+Studied at: Paris %1331-1338%..
+Academic grades obtained: Bachelier en médecine (Paris) .; Maître en médecine puisque doyen ?.
+University functions: Paris (Faculté de Médecine : maître-régent puisque doyen ??) ;; Paris (Faculté de Médecine : Doyen en %1337-1338%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 29-03-2024..

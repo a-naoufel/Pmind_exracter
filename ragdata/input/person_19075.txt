@@ -1,0 +1,9 @@
+PERSON: FRANCISCUS Bidaldi
+Also known as: Franciscus BIDALDI.
+Description: Maître ?.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Maître (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 19/08/2021..

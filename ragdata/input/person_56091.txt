@@ -1,0 +1,10 @@
+PERSON: STEPHANUS de Stellamaris
+Also known as: Stephanus de STELLAMARIS.
+Description: Chanoine de Troyes.
+Status: Incertain.
+Gender: male.
+Active during: %1349-1358%.
+Studied at: ?.
+Academic grades obtained: Licencié in utroque jure ;.
+Ecclesiastical positions held: Chanoine de Troyes %1349-1358% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 20/05/2023..

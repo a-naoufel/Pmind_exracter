@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Petrilia
+Also known as: Guillelmus de PETRILIA; G. de PETRILIA.
+Description: Notaire.
+Status: Extérieur.
+Gender: male.
+Active during: %1333-1334%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 10/7/2018..

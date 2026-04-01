@@ -1,0 +1,18 @@
+PERSON: GUILLELMUS Anglicus 2
+Also known as: Guillaume l'ANGLAIS.
+Description: Médecin.
+Status: Incertain.
+Gender: male.
+Active during: %1219-1231%.
+Born in: ?Angleterre ....
+Studied at: ?Montpellier ?.
+Academic grades obtained: Magister ?.
+Authored work: 'Opus astrolabii', composed around ..
+Authored work: 'Secretissimum regis Cateni Persarum de virtute aquilae translatum', composed around ?.
+Authored work: 'Speculum Astrologiae', composed around ..
+Authored work: 'De qualitatibus et proprietatibus astrorum', composed around ?.
+Authored work: 'Summa super IV° libro Metheorum', composed around ..
+Authored work: 'Quaestio', composed around ?.
+Authored work: 'De urina non visa', composed around ?.
+Authored work: 'De oculorum infirmitatibus', composed around ?.
+Source: ARLIMA: Laurent BRUN :.

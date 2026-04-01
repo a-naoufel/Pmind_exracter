@@ -1,0 +1,11 @@
+PERSON: PETRUS de Porta 1
+Also known as: Petrus de PORTA.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1320-1320%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Rouen %1320-1320% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 13/11/2021..

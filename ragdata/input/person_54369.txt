@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS L'Ermite
+Also known as: Guillelmus L’ERMITE.
+Description: Frater.
+Status: Étudiant.
+Gender: male.
+Active during: %1431-1431%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+Religious order: Frater ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 06/10/2022..

@@ -1,0 +1,10 @@
+PERSON: MICHAEL Johert Rufi
+Also known as: Michael JOHERT RUFI.
+Description: Hôte du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1446-1448%.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant ?.
+College affiliation: Collège d’Autun ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière révision, 12/07/2025..

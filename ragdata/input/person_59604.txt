@@ -1,0 +1,11 @@
+PERSON: STEPHANUS Savorellus
+Also known as: Stephanus SAVORELLUS.
+Description: Prieur de Nemours.
+Status: Extérieur.
+Gender: male.
+Active during: %1358-1358%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.S.A. ?.
+Religious functions: Prieur du prieuré de Nemours-sur-Seine (?) en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

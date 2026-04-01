@@ -1,0 +1,9 @@
+PERSON: LAURENTIUS Dure
+Also known as: Laurentius DURE.
+Description: Examinateur au Châtelet.
+Status: Incertain.
+Gender: male.
+Active during: %1434-1434%.
+Studied at: ?.
+Academic grades obtained: Licencié en lois..
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,8 @@
+PERSON: STEPHANUS de Pontisara
+Also known as: Stephanus de PONTISARA; Étienne de PONTOISE.
+Description: Prévôt de Saint-Germain des Prés.
+Status: Extérieur.
+Gender: male.
+Active during: %1263-1283%.
+Ecclesiastical positions held: O.S.B. : moine (bénédictin) de l'abbaye de Paris (Saint-Germain-des-Prés) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/09/2023)..

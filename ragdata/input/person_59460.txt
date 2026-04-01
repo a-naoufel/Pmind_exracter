@@ -1,0 +1,9 @@
+PERSON: HENRICUS Dantissant
+Also known as: Henricus DENTISSANT.
+Description: Procureur au Châtelet de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1469-1469%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

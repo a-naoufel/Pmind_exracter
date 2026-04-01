@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Villa Dei
+Also known as: Guillelmus de VILLA DEI.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1436-1436%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Coutances..
+Studied at: Paris %1436-1436%..
+Academic grades obtained: Bachelier en décret (Paris) 13 septembre ;.
+Ecclesiastical positions held: Prêtre du diocèse de Coutances ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 16/04/2015 ; révision, Jean-Philippe Genet 23/04/2022...

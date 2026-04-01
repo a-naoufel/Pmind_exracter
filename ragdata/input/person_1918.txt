@@ -1,0 +1,9 @@
+PERSON: DIONYSIUS Forget
+Also known as: Dionysius FORGET; Denis FORGET.
+Description: Assiste à une dissection pratiquée à la Faculté de médecine..
+Status: Incertain.
+Gender: male.
+Active during: %1492-1493%.
+Studied at: Paris %1492-1493%..
+Academic grades obtained: ?Étudiant en médecine (Paris) %1492-1493%..
+University functions: Assiste à une dissection pratiquée à la Faculté de médecine de Paris en %1492-1493%..

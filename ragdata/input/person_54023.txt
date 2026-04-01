@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Gellent
+Also known as: Guillelmus GELLENT; Guillelmus de SANCTO ALBINO.
+Description: Chanoine d’Angers.
+Status: Incertain.
+Gender: male.
+Active during: %1275-1298%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son père est Robert de CHAUFFOUR, prévôt de Saint-Aubin ; Son oncle est Nicolas GELLENT, évêque d’Angers ;.
+Ecclesiastical positions held: Chanoine d’Angers %1275-1298% ;; Archiprêtre de Bourgueil ;; Curé de Vernantes ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 20/07/2022)..

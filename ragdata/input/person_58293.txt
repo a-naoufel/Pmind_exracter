@@ -1,0 +1,15 @@
+PERSON: HENRICUS de Carinthia
+Also known as: Henricus de CARINTHIA.
+Description: Évêque de Troyes.
+Status: Étudiant.
+Gender: male.
+Active during: %1120-1169%.
+Born in: Autriche ?.
+Studied at: Paris, étudiant à l’école de Saint-Victor vers %1120-1123% ;.
+Family relationships: Son père est le duc Engelbert de CARINTHIE ; Sa mère est Ute de PASSAU ; Sa soeur est Mathilde de CARINTHIE, Comtesse de Champagne ; Son beau-frère est Thibaut IV de BLOIS, comte de Champagne..
+Academic relationships: Son maître est Hugues de SAINT-VICTOR..
+Social origin: Noble ;.
+Religious order: O.Cist. : moine (cistercien) de l’abbaye de Morimond %1123-1133%..
+Religious functions: Abbé (cistercien) de Villers-Betnach (diocese de Metz) dont il est le fondateur %1133-1146% ;.
+Ecclesiastical positions held: Évêque de Troyes %1146-1169%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 05/12/2024..

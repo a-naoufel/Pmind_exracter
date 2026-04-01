@@ -1,0 +1,8 @@
+PERSON: NICOLA de Essartis
+Also known as: Nicola de ESSARTIS.
+Description: Habitante de Paris.
+Status: Extérieur.
+Gender: female.
+Active during: %1341-1345%.
+Family relationships: Son mari est Martinus de ESSARTIS.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,9 @@
+PERSON: ALANUS Balbiou
+Also known as: Alanus BALBIOU.
+Description: Bachelier en droit canon.
+Status: Gradué.
+Gender: male.
+Active during: %1437-1437%.
+Studied at: Paris %1437-1437%..
+Academic grades obtained: Bachelier en décret (Paris) en (23 décembre) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; dernière mise à jour, Jean-Philippe Genet 27/05/2020)..

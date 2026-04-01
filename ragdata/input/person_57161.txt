@@ -1,0 +1,13 @@
+PERSON: NICOLAUS de Bertaudi Curia
+Also known as: Nicolaus de BERTAUDI CURIA.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1303-1303%.
+Born in: Picardie (Berteaucourt) ?.
+Diocese of origin: Diocèse d’Amiens ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Couvent (dominicain) de Paris (Jacobins) ;.
+Religious order: O.P. : frère dominicain..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/12/2023)..

@@ -1,0 +1,10 @@
+PERSON: BERTALDUS de Bohemia
+Also known as: Bertoldus de BOHEMIA.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1329-1330%.
+Born in: Bohême ?.
+Studied at: Paris (Nation Anglo-allemande) %1329-1330%..
+Academic grades obtained: Magister ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/02/2021)..

@@ -1,0 +1,31 @@
+PERSON: GALFREDUS Autissodoriensis
+Also known as: Geoffroy d'AUXERRE; Geoffroy de CLAIRVAUX; Geoffroy d'IGNY; Geoffroy d'HAUTECOMBE.
+Description: Cistercien.
+Status: Étudiant.
+Gender: male.
+Active during: %1140-1194%.
+Born in: Bourgogne (Auxerre) ?.
+Diocese of origin: Diocèse d’Auxerre..
+Studied at: Paris..
+Academic grades obtained: Étudiant avant de devenir moine ;.
+Academic relationships: Son maître est Pierre ABÉLARD..
+Religious order: O.Cist. : moine cistercien..
+Religious functions: Abbé (cistercien) d'Igny %1156-1162% ;; Abbé (cistercien) de Clairvaux %1162-1165% ;; Abbé (cistercien) de Fossanova % -1171% ;; Abbé (cistercien) de Hautecombe % -1188%..
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Expositio in cantica canticorum', composed around ?.
+Authored work: 'Super Apocalipsim', composed around ?.
+Authored work: 'Declamationes de colloquio Simonis cum Jesu', composed around ?%1155-1161%/, dedicated to Adressé au Cardinal Henri de PISE..
+Authored work: 'Libellus contra capitula Gilberti Pictaviensis Episcopi', composed around ?.
+Authored work: 'De sacramentis numerorum a Tredenario usque ad Vicenarium', composed around ?.
+Authored work: 'De creatione perfectorum et sacramento', composed around ?.
+Authored work: 'Epistola ad Albinum episcopum Albanensem de condemnatione errorum Gilberti Porretani', composed around ?.
+Authored work: 'Epistola ad Albinum episcopum Albanensem de conversione aquae cum vino in sanguinem Domini', composed around ?.
+Authored work: 'Epistola ad Iosbertum cum notulis in orationem dominicam', composed around ?.
+Authored work: 'Epistola ad magistrum Archenfredum de miraculis in Aquitania patratis', composed around ..
+Authored work: 'Tractatus super capitulum illud ‘Memento creatoris’', composed around ?.
+Authored work: 'Fragmenta de vita et miraculis Sancti Bernardi', composed around ..
+Authored work: 'Epistola ad Eschilum archiepiscopum Lundensem', composed around ?, dedicated to Adressé à ESKIL, archevêque de Lund..
+Authored work: 'Vita Sancti Bernardi (livres III, IV et V)', composed around ..
+Authored work: '(Panégyrique de Saint Bernard)', composed around ?.
+Authored work: 'Vita et miracula sancti Petri Tarentasiensis', composed around ?.
+Source: ARLIMA : http://www.arlima.net/no/4237.

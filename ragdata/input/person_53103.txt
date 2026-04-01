@@ -1,0 +1,13 @@
+PERSON: PARISIUS de Monte Leonis
+Also known as: Parisetus de MONTE LEONIS; Parisetus de MONTLIOT.
+Description: Chanoine d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1295-1308%.
+Born in: Bourgogne ;.
+Studied at: ?.
+Academic grades obtained: Docteur in utroque jure ;.
+Ecclesiastical status: Diacre ;.
+Ecclesiastical positions held: Préchantre d’Amiens %1295-1299% ;; Chanoine d’Amiens %1296-1299% ;; Écolâtre d’Amiens %1306-1308% ;.
+Other ecclesiastical functions: Vicaireépiscopal d’Amiens ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 13/12/2021..

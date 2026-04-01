@@ -1,0 +1,9 @@
+PERSON: PETRUS de Via
+Also known as: Petrus de VIA.
+Description: Magister hostiarius.
+Status: Extérieur.
+Gender: male.
+Active during: %1280-1337%.
+Family relationships: Son oncle est le Pape JEAN XXII ; Sa femme est Marie DUEZE ; Son fils est Pierre de VIA, vicomte de Villemur..
+Social origin: Noble..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/03/2024)..

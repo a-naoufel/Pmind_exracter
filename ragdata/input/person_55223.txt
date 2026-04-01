@@ -1,0 +1,13 @@
+PERSON: NICOLAUS de Barro 1
+Also known as: Nicolaus de BARRO.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1255-1255%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Langres.
+Studied at: Paris..
+Academic grades obtained: Maitre ès arts (Paris).; Paris (Faculté des Arts : maître-régent)..
+Family relationships: Son parent est le cardinal Galfredus de BARRO ; Son parent est Nicolaus de BARRO, évêque de Mâcon ;.
+Social origin: Noble ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/02/2023..

@@ -1,0 +1,9 @@
+PERSON: ADAM Forestarii
+Also known as: Adam FORESTARII.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1378-1378%.
+Studied at: Paris (Nation Anglo-allemande)..
+Academic grades obtained: Bachelier ès arts..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 11/04/2020..

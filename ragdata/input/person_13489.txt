@@ -1,0 +1,9 @@
+PERSON: LAURENTIUS Vares
+Also known as: Laurentius VARES; Laurentius BARES.
+Description: Maître en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1482-1483%.
+Studied at: Paris %1482-1483%..
+Academic grades obtained: Licencié en théologie (Paris) (le 4 mars) ;; Maître en théologie (Paris) (le 6 octobre) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 26/08/2023)..

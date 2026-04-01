@@ -1,0 +1,11 @@
+PERSON: BERNARDUS Chaussade
+Also known as: Bernardus CHAUSSADE; Bernard CHOSADE; Bernard CHOUSADE.
+Description: Médecin à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1464-1495%.
+Studied at: Paris %1464-1471%..
+Academic grades obtained: Maître ès arts ?; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Family relationships: Son frère est Antoine CHAUSSADE, présent à l'Université en ..
+Authored work: 'Tractatus de concepcione et generatione precipue filiorum', composed around .
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol, révision Jean-Philippe Genet, 22/01/2021).

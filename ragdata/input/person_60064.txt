@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Le Lavendier
+Also known as: Nicholas LELAVENDIER.
+Description: Résident au Collège de Dainville.
+Status: Étudiant.
+Gender: male.
+Active during: %1394-1408%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dainville : résident au collège ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

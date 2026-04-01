@@ -1,0 +1,10 @@
+PERSON: PETRUS Curatus S. Bartholomaei
+Also known as: Petrus, curatus SANCTIBARTHOLOMAEI.
+Description: Curé de Saint-Barthélemy de Paris.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant (Paris)..
+Ecclesiastical positions held: Curé de Paris (Saint-Barthélemy) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 25/11/2020)..

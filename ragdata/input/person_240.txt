@@ -1,0 +1,8 @@
+PERSON: AGNES Aurelianensis
+Also known as: Agnès AURELIANENSIS; Agnès d'ORLÉANS.
+Description: Libraire.
+Status: Suppôt.
+Gender: female.
+Active during: %1350-1368%.
+Family relationships: Son mari est peut-être Guillaume d'ORLÉANS, libraire attesté en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 25/02/2020)..

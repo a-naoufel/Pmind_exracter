@@ -1,0 +1,10 @@
+PERSON: CORNELIUS 1
+Also known as: CORNELIUS.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1421-1459%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Maître ès arts ..
+College affiliation: Hospes du collège de Sorbonne ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 28/04/2021)..

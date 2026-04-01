@@ -1,0 +1,10 @@
+PERSON: HERMANNUS 2
+Also known as: HERMANNUS.
+Description: Étudiant en théologie.
+Status: Étudiant.
+Gender: male.
+Active during: %1140-1140%.
+Studied at: Paris..
+Academic grades obtained: Étudiant en théologie (Paris) ?.
+Authored work: 'Comm. in Rom.', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 26/08/2022..

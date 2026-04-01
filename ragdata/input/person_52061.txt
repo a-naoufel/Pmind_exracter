@@ -1,0 +1,10 @@
+PERSON: PETRUS Imberti
+Also known as: Petrus IMBERTI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1476-1476%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris)..
+College affiliation: Collège de Narbonne : boursier en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 3/03/2021..

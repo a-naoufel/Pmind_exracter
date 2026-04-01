@@ -1,0 +1,11 @@
+PERSON: ANTHONIUS Vermandi
+Also known as: Antonius VERMANDI.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1487-1487%.
+Born in: Poitou ?.
+Diocese of origin: Diocèse de Poitiers..
+Studied at: Paris %1487-1487%..
+Academic grades obtained: Bachelier en décret (Paris) en (31 mars) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 15/10/2020)..

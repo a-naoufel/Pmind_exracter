@@ -1,0 +1,8 @@
+PERSON: ADA de Stupis
+Also known as: Ada de STUPIS.
+Description: Bourgeoise de Paris.
+Status: Extérieur.
+Gender: female.
+Active during: %1282-1282%.
+Social origin: Bourgeoise de Paris ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019)..

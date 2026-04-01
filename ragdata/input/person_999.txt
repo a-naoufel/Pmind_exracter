@@ -1,0 +1,11 @@
+PERSON: ARNALDUS de Corbie
+Also known as: Arnaldus de CORBIE.
+Description: Chancelier de France.
+Status: Extérieur.
+Gender: male.
+Active during: %1345-1414%.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son fils est Philippe de CORBIE, massacré par les Bourguignons en ;.
+Social origin: Noble (anobli ?)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 3/11/2020..

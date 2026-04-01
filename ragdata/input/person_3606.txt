@@ -1,0 +1,26 @@
+PERSON: GUILLELMUS de Falgario
+Also known as: Guillelmus de FALGARIO; Guillaume de FAGAR; Guillaume de FALGUIÈRES.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1270-1297%?.
+Born in: Languedoc (Falga)..
+Studied at: Toulouse ;; Paris %1270-1282%..
+Academic grades obtained: Maître en théologie (Paris) avant ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) vers ..
+Social origin: Famille noble du Lauragais..
+Religious order: O.F.M. ; frère franciscain du couvent (franciscain) de Toulouse ;.
+Religious functions: Ministreprovincial (franciscain) d'Aquitaine, élu en .; Vicaire de l'ordre des Franciscains, ..
+Ecclesiastical positions held: Évêque de Viviers, %1291:-1296%..
+University functions: Toulouse (Studiumfranciscain : lecteur), ;; Maîtrerégent en théologie à Paris (Couvent franciscain), %1280-1282%..
+Authored work: 'Principium', composed around ?.
+Authored work: 'In libros quatuor Sentent. comment.', composed around ?.
+Authored work: 'Abbreviatio commentariorum Bonaventurae in Sententias', composed around ?.
+Authored work: 'Quaestiones 24 disputatae', composed around ?.
+Authored work: 'De anima quaestiones 4 disputatae', composed around ?.
+Authored work: 'Quaestiones 6 disputatae', composed around ?.
+Authored work: 'Quodlibet I', composed around .
+Authored work: 'Quodlibet II', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: '[Sermo pour Saint THOMAS martyr]', composed around ?.
+Source: Répertoire des auteurs franciscains préparé par Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress ("Guilelmus de Falgario").

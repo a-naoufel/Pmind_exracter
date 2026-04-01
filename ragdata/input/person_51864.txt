@@ -1,0 +1,16 @@
+PERSON: AEGIDIUS Guillelmus Missali
+Also known as: Aegidius GUILLELMUS Missali; Guillelmus de MISSALI.
+Description: Franciscain..
+Status: Extérieur.
+Gender: male.
+Active during: %1400-1400%.
+Born in: Italie..
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.F.M. : frère franciscain..
+Authored work: 'Epitome commentarii Oxoniensis in libros Sententiarum I-IV', composed around ?.
+Authored work: 'Epitome commentarii Parisiensis sive Reportatorum Parisiensium Oxoniensis in libros Sententiarum I-IV', composed around ?.
+Authored work: 'Epitome Quaestionum Iohannis Duns Scoti in Aristotelis libros Metaphysicorum', composed around ?.
+Authored work: 'Johannis Duns Scoti Quaestionum Quodlibetalium abbreviatio', composed around ?.
+Authored work: 'Tabula super quaestiones De anima Scoti', composed around ?.
+Source: Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress :.

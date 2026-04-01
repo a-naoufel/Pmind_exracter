@@ -1,0 +1,11 @@
+PERSON: ROBERTUS Rufus
+Also known as: Robertus RUFUS; Robertus RUFFINUS.
+Description: Procureur de la Nation de Normandie.
+Status: Maître.
+Gender: male.
+Active during: %1275-1275%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+University functions: Paris (Nation de Normandie : procureur en (7 mai)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/02/2024)..

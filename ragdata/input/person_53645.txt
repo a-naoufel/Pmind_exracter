@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Sizani
+Also known as: Guillermus SIZANI; Guillaume SIZAIN.
+Description: Chanoine de Besançon.
+Status: Étudiant.
+Gender: male.
+Active during: %1415-1416%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) %1415-1416% ;.
+Ecclesiastical positions held: Chanoine de Besançon %1415-1416% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/04/2022)..

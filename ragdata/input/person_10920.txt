@@ -1,0 +1,9 @@
+PERSON: ROBERTUS Corteys
+Also known as: Robert CORTEYS.
+Description: Étudiant de la Faculté de médecine..
+Status: Étudiant.
+Gender: male.
+Active during: %1413-1414%.
+Studied at: Paris %1413-1414% ?.
+Academic grades obtained: Étudiant en médecine (Paris) %1413-1414% ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 11/02/2020..

@@ -1,0 +1,11 @@
+PERSON: HIERONYMUS de Aranda
+Also known as: Hieronymus de ARANDA.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1498-1507%.
+Born in: Castille ;.
+Studied at: Paris %1498-1507%..
+Academic grades obtained: Licencié en théologie (9 mai) ;; Docteur en théologie (3 février) ;.
+College affiliation: Sorbonne : socius ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 29/11/2020)..

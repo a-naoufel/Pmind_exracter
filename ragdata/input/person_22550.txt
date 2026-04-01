@@ -1,0 +1,16 @@
+PERSON: THEOBALDUS de Sexannia
+Also known as: Theobaldus de SEXANNIA; Theobaldus PARISIENSIS; Thibaud de SÉZANNE.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1240-1248%.
+Born in: Champagne (Sézanne) ?.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant ?.
+Social origin: Juif converti ?.
+Religious order: O.P..
+Religious functions: Sous-prieur du couvent (dominicain) de Paris..
+Authored work: 'Correctorium «fr. Theobaudi» (fragmenta in textum librorum Prophetarum)', composed around ?.
+Authored work: 'Extractiones de Talmut', composed around ?.
+Authored work: 'Pharetra fidei contra Iudaeos', composed around ?.
+Source: GALLICA (Extractiones de Talmut) :.

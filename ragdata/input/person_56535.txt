@@ -1,0 +1,15 @@
+PERSON: THOMAS de Charminster
+Also known as: Thomas de CHARMINSTER; Thomas de CHERMINSTER.
+Description: Examinateur général de la Cour de Canterbury.
+Status: Extérieur.
+Gender: male.
+Active during: %1300-1326%.
+Born in: Angleterre..
+Diocese of origin: Diocèse de Salisbury ;.
+Studied at: Oxford %1300-1320%..
+Academic grades obtained: Maître ès arts (Oxford) ;; Bachelier droit canon et droit civil (Oxford) en ;.
+Ecclesiastical positions held: Recteur de Nauton (Gloucestershire) ;.
+Other ecclesiastical functions: Examinateur général de la Cour de Canterbury ;.
+University functions: Oxford (Merton College : fellow %1301-1320%) ;; Oxford (Merton College : subwarden %1319-1320%) ;.
+Authored work: 'Quaestiones super Prisciani De constructionibus1', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 07/09/2023..

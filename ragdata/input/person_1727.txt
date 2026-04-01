@@ -1,0 +1,10 @@
+PERSON: CONRADUS de Franconia
+Also known as: Conradus de FRANCONIA; Conrad de FRANCONIA.
+Description: Bachelier ès arts..
+Status: Gradué.
+Gender: male.
+Active during: %1415-1415%.
+Born in: Franconie ?.
+Studied at: Paris (Nation Anglo-allemande), %1415-1415%..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournierouxx ; révision, Jean-Philippe Genet, 23/04/2021..

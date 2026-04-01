@@ -1,0 +1,10 @@
+PERSON: DIONYSIUS de Mutina senior
+Also known as: Dionysius de MUTINA.
+Description: Augustin.
+Status: Maître.
+Gender: male.
+Active during: %1319-1345%.
+Studied at: Paris %1319-1333%.
+Academic grades obtained: Maître en théologie.
+Religious order: O.E.S.A. : frère augustin..
+Religious functions: Prieurgénéral des Augustins %1342-1345%..

@@ -1,0 +1,23 @@
+PERSON: ANTHONIUS Haneron
+Also known as: Antoine HANERON.
+Description: "Chancelier de Flandres".
+Status: Maître.
+Gender: male.
+Active during: %1425-1490%.
+Born in: Artois ?.
+Diocese of origin: Diocèse d’Thérouanne ;.
+Studied at: Paris (Nation de Picardie) %1425-1429%.; Louvain.
+Academic grades obtained: Maître ès arts (Paris) .; Bachelier en droit canon (Paris ?) avant ..
+Family relationships: Son parent est peut-être Johannes HANERON, chanoine d’Arras ;.
+Ecclesiastical status: Diacre en ;.
+Ecclesiastical positions held: Chanoine de Mons (Sainte-Waudru) %1439- % ;; Prévôt de Mons (Sainte-Waudru) %1439-1460% ;; Prévôt de Mons (Saint-Germain) %1439-1460% ;; Prévôt de Béthune (Saint-Barthelémy) ;; Prévôt de Furnes (Sainte-Walburge) ;; Chanoine d’Utrecht ;; Chanoine de Cambrai en %1442-1443% et %1452-1461 ;; Archidiacre de Cambrai en %1443-1462% ;; Chanoine d’Anvers (Notre-Dame) %1459-1463% ;; Chanoine de Maastricht (Saint-Servatius) %1444-1461% ;; Recteur de Kapelle ;; Chanoine de Liège %1461- % ;; Prévôt de Maastricht (Saint-Servatius) %1461- % ;; Abbécommendataire de Bruges (Saint-Andrré) %1462- % ;; Prévôt de Bruges (Saint-Donatien) %1467-1472%..
+University functions: Louvain (Faculté des Arts : maître-régent à partir de ).; Louvain (Faculté des Arts : doyen ).; Louvain (Faculté des Arts : recteur ).; Louvain (Université : délégué de l’Université auprès de PHILIPPE le Bon, duc de Bourgogne en )..
+Representation roles: Participe à une ambassade auprès de CHARLES VII, roi de France en ;; L’un des représentants de la Bourgogne avec Guillaume FILLASTRE à l’assemblée des prélats de France convoquée en pour discuter à Chartres de la PragmatiqueSanction.; Mission en auprès de la duchesse de Clèves pour discuter de la succession à l’évêché de Munster ;; Mission en auprès de l’évêque de Liège pour discuter du mariage de sa nièce ;; Ambassade en auprès de l’évêque de Liège ;; Ambassade en (août) sous la conduite du duc de Clèves auprès du pape pour discuter de la Croisade à Mantoue ;; Ambassade en (octobre) avec Simon de LALAING auprès de l’Empereur ;; Ambassade en auprès du pape et de l’Empereur..
+Authored work: 'Ars dictandi', composed around ?.
+Authored work: 'Parva precepta oratoribus multum utilia', composed around ?.
+Authored work: 'Summa dictaminis', composed around ?.
+Authored work: 'Modus componendi epistolas', composed around ?.
+Authored work: 'De epistolis brevibus edendis', composed around ?.
+Authored work: 'Vitia generalia dictaminis', composed around ?.
+Authored work: 'De coloribus verborum et sententiarum', composed around ?.
+Source: RAG ;.

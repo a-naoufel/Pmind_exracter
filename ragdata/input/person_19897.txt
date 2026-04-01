@@ -1,0 +1,10 @@
+PERSON: IMBERTUS de Monte Martini
+Also known as: YMBERTUS; Ymbertus de MONTE MARTINI.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris en ..
+Academic grades obtained: Étudiant (Paris) en ;.
+Family relationships: Son frère est Perrinus de MONTE MARTINI qui souscrit en même temps que lui ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/09/2022.

@@ -1,0 +1,12 @@
+PERSON: ADAM de Paris 3
+Also known as: Adam de PARIS.
+Description: Franciscain.
+Status: Incertain.
+Gender: male.
+Active during: %1275-1275%.
+Studied at: ?.
+Academic grades obtained: ?B.T..
+College affiliation: Couvent (franciscain) de Paris ?.
+Religious order: O.F.M. : frère franciscain..
+Authored work: '(Commentaire des 4 livres des Sentences)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

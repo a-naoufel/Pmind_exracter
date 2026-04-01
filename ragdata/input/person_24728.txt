@@ -1,0 +1,9 @@
+PERSON: HUGO Feret
+Also known as: Hugo FÉRET.
+Description: Habitant de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1451-1451%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 05/09/2022..

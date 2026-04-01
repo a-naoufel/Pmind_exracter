@@ -1,0 +1,45 @@
+PERSON: BERTRANDUS de Turre
+Also known as: Bertrandus de TURRE; Bertrand de LATOUR.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1290-1332%.
+Born in: Quercy (Camboulit)..
+Diocese of origin: Diocèse de Cahors..
+Studied at: Paris (licencié par bulle) ;; Toulouse %1308-1309%..
+Academic grades obtained: Bachelier en théologie ;; Maître en théologie (Paris) ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Religious order: O.F.M. : frère franciscain..
+Religious functions: Ministreprovincial (franciscain) d'Aquitaine, ;; Vicaire de l'ordre des Franciscains après la déposition de Michel de CESENA, nommé en ..
+Ecclesiastical positions held: Archevêque de Salerne, ;; Cardinal, : Cardinalprêtre de Saint-Vital puis Cardinalévêque de Tusculum ;.
+University functions: ?Lecteur principal à Toulouse (Studiumfranciscain), %1308-1309% ;; Maîtrerégent de la Faculté de Théologie de Paris, ;; Toulouse (Couvent franciscain : lecteur de théologie) ;.
+Representation roles: Mission diplomatique en Italie en (janvier) pour le compte du pape JEAN XXII avec Bernard GUI pour tenter de ramener la paix entre les factions ;; Mission diplomatique en (janvier) pour le compte du pape JEAN XXII avec Bernard GUI pour ramener la paix entre le comte de Flandre et le roi de France..
+Authored work: 'Comment. in libros I-IV Sententiarum', composed around ?.
+Authored work: 'Principium ad philosophiam fr. Bertrandi de Aquitania', composed around ?.
+Authored work: 'Quaestiones theologicae', composed around ..
+Authored work: 'Quodlibet', composed around ?.
+Authored work: 'Collationes de Sanctis'.
+Authored work: 'Collationes ad Status', composed around ?.
+Authored work: 'Collationes dominicales', composed around ?.
+Authored work: 'Sermones de tempore [Postilla super Epistolas Dominicales et Feriales et Evangelia et Evangelia, Sermones de Evangeliis Dominicalibus]', composed around ?.
+Authored work: 'Sermones quadragesimales [Sermones de Tempore et de Quadragesimale]', composed around ..
+Authored work: 'Sermones epistolares de sanctis [Sermones de Evangeliis Sanctorum et Postilla super Epistolas Sanctorales]', composed around ?.
+Authored work: '[Sermones, coll. abbreviatae]', composed around ?.
+Authored work: 'Sermones pastorales et prothemata', composed around ?.
+Authored work: 'Sermones de mortuis', composed around ?.
+Authored work: 'Sermones de tempore', composed around ?.
+Authored work: 'Sermones ad status', composed around ?.
+Authored work: 'Sermones de sancto Thoma Cantuariensi', composed around ..
+Authored work: 'Excerpta', composed around ?.
+Authored work: 'Vota quorundam magistrorum in theologia de Postilla super Apocalipsim fratris Petri Johannis Olivi', composed around %1318-1320%..
+Authored work: '(Consilia sur le marriage en réponse au pape)', composed around ?.
+Authored work: '[Avis sur la croisade]', composed around Avril ..
+Authored work: 'Epistola Dilectis in Christo Fratribus Custodiae Januensi', composed around ?.
+Authored work: '[Testament]', composed around .
+Authored work: 'Relationes [Relatif à sa mission de Lombardie]', composed around ..
+Authored work: 'Sentence contre les Spirituels d'Aquitaine', composed around 13 février à Toulouse..
+Authored work: 'Sententia contra excusationem doctrinae Petri Joannis', composed around ?.
+Authored work: 'Quaestiones de paupertate Christi et apostolorum', composed around ?, dedicated to Consultations sur la pauvreté à la demande du Pape JEAN XXII..
+Authored work: 'Responsiones ad objecta', composed around ?.
+Authored work: '[Summa]', composed around ?.
+Source: Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress ("Bertrandus de Turre") : //http://users.bart.nl/~roestb/franciscan/index.htm.

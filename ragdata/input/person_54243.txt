@@ -1,0 +1,12 @@
+PERSON: PETRUS de Forgis 1
+Also known as: Petrus de FORGIS.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1333-1346%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Curé de Roghny ;; Chanoine de Sens (Trésor) %1333-1337% ;; Chanoine de Châtillon-sur-Loing ;.
+Other ecclesiastical functions: Official de Sens %1334-1337% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 20/09/2022..

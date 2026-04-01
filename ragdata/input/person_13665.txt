@@ -1,0 +1,10 @@
+PERSON: RICARDUS Cristellari
+Also known as: Richardus CRISTELLARI; Richardus CRISTELLI.
+Description: Maître en théologie à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1413-1421%.
+Studied at: Paris %1413-1421%..
+Academic grades obtained: Licencié en théologie (Paris) %1413-1421% ;; Maître en théologie (Paris) ;.
+University functions: Paris (Faculté de Théologie : maître-régent %1421-1422%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland, dernière mise à jour 01/04/2014..

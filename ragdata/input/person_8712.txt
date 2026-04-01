@@ -1,0 +1,10 @@
+PERSON: LUDOVICUS de Losa
+Also known as: Ludovicus de LOSA; Louis de LOSA.
+Description: Boursier théologien au collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1350-1350%.
+Studied at: Paris %1350-1350%..
+Academic grades obtained: Étudiant en théologie (Paris) ..
+College affiliation: Boursier théologien au collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 2/09/2023..

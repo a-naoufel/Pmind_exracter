@@ -1,0 +1,15 @@
+PERSON: GUILLELMUS de Ware
+Also known as: Guillelmus de WARE; Guillelmus de VARRO.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1290-1305%.
+Born in: Angleterre (Hertfordshire (Ware))..
+Studied at: Oxford ;; Paris ?.
+Academic grades obtained: Maître en théologie ?.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Religious order: O.F.M. : frère franciscain du couvent (franciscain) d'Oxford..
+University functions: Oxford (?inceptor %1296-1299%) ;; Paris (Faculté de Théologie : maître-régent en théologie au studium franciscain )..
+Authored work: 'Comment. in quatuor libros sententiarum', composed around ? à Oxford..
+Authored work: 'Sermones de sanctis', composed around ?.
+Source: Répertoire des auteurs franciscains préparé par Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress.

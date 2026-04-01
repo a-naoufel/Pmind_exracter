@@ -1,0 +1,12 @@
+PERSON: INGERANNUS de Eule
+Also known as: Ingerannus de EULE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1394-1396%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) ?.
+Family relationships: Son frère est Guillelmus de EULE ;.
+Social origin: Noble..
+Ecclesiastical positions held: Candidat à un bénéfice sur le Rotulus quorundam nobilium licentiatorum et bacalariorum studii Parisiensis adressé à BENOÎT XIII en %1394-1396% à Avignon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 5/03/2019..

@@ -1,0 +1,11 @@
+PERSON: MAGNINUS de Janua
+Also known as: Manninus de JANUA; Manninus de GENOA.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Born in: Italie (Ligurie : Gênes ?) ?.
+Diocese of origin: Diocèse de Gênes ?.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 08/09/2023..

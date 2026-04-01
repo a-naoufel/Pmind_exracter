@@ -1,0 +1,9 @@
+PERSON: MICHAEL Guyon
+Also known as: Michael GUOYON; Michel GUYON; Michaut GUION.
+Description: Gardien du Collège de Dormans-Beauvais.
+Status: Suppôt.
+Gender: male.
+Active during: %1390-1397%.
+Studied at: Paris %1390-1397%..
+Academic grades obtained: Collège de Dormans-Beauvais : gardien %1390-1397% ;.
+Source: LAMOP : Opération Charles VI (2492) :.

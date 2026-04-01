@@ -1,0 +1,9 @@
+PERSON: LUCAS Despars
+Also known as: Lucas DESPARS; Lucas de PARTIBUS.
+Description: Étudiant en médecine..
+Status: Étudiant.
+Gender: male.
+Active during: %1455-1458%.
+Studied at: Paris %1455-1458%..
+Academic grades obtained: Étudiant en médecine (Paris) %1455-1458%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 14/03/2023)..

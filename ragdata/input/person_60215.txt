@@ -1,0 +1,12 @@
+PERSON: PETRUS Le Mauge
+Also known as: Petrus LEMAUGE.
+Description: Bachelier.
+Status: Gradué.
+Gender: male.
+Active during: %1398-1398%.
+Born in: Normandie (Arques) ;.
+Diocese of origin: Diocèse de Rouen ?.
+Studied at: Paris ?.
+Academic grades obtained: Bachelier ;.
+Family relationships: Son oncle est Petrus VOUARDI ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,10 @@
+PERSON: NICOLAUS de Bellomonte
+Also known as: Nicolaus de BELLOMONTE; Nicolas de BELLOMONTE.
+Description: Boursier théologien au collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1384-1384%.
+Studied at: Paris (Collège de Navarre) %1384-1384%..
+Academic grades obtained: Étudiant en théologie (Paris) ..
+College affiliation: Boursier théologien au collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 9/10/2023)..

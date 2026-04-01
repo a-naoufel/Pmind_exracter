@@ -1,0 +1,12 @@
+PERSON: FABIANUS de Selva
+Also known as: Fabianus de SELVA.
+Description: Notaire royal.
+Status: Extérieur.
+Gender: male.
+Active during: %1475-1475%.
+Born in: Limousin ?.
+Diocese of origin: Diocèse de Limoges ?.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son fils est Jean de SELVE, premierprésidentduParlement de Paris (%1475-1529%) ; Son parent est Johannes de SILVA, bachelier ès arts en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 1/08/2021..

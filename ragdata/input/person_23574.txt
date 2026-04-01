@@ -1,0 +1,11 @@
+PERSON: ROBERTUS Quillet
+Also known as: Robert QUILLET.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1411-1411%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Dormans-Beauvais : hôte ;.
+Family relationships: Son parent est peut-être Laurent QUILLET, maître ès arts ; Son parent est peut-être Henricus QUILLET, boursier au Collège de Dormans-Beauvais ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 07/11/2019..

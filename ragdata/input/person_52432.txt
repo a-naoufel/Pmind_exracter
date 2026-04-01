@@ -1,0 +1,10 @@
+PERSON: PONSARDUS
+Also known as: PONSARDUS.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1235-1235%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Reims ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/06/2021..

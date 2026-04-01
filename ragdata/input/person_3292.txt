@@ -1,0 +1,19 @@
+PERSON: GREGORIUS Lucanus
+Also known as: Gregorius LUCANUS; Gregorius LUCCENSIS; Grégoire de LUCQUES; Gregorius de LUCA.
+Description: Augustin.
+Status: Maître.
+Gender: male.
+Active during: %1295-1327%.
+Born in: Italie (Tocane : Lucques ?)..
+Diocese of origin: Diocèse de Lucques ?.
+Studied at: Paris vers %1303-1313%..
+Academic grades obtained: Bachelier ès arts (Paris) ca%1303-1304%.; Maître en théologie (Paris) ..
+Religious order: O.E.S.A. : frère (augustin)..
+Ecclesiastical positions held: Évêque de Sorra (Sardaigne) ;; Évêque de Belluno-Feltre ..
+University functions: Paris (Faculté de Théologie : Maître-Régent au couvent (augustin) de Paris vers %1310-1313%)..
+Authored work: '(Quodlibet)', composed around ?%1310-1311% ;.
+Authored work: 'Responsio et dicta', composed around ?.
+Authored work: 'Quaestiones disputatae', composed around ?.
+Authored work: 'Moralia in Job', composed around ?.
+Authored work: 'Censure des 51 articles d'Occam', composed around .
+Source: MIRABILE :.

@@ -1,0 +1,10 @@
+PERSON: LUDOVICUS Gressier
+Also known as: Ludovicus GRESSIER.
+Description: Hôte du collège de Dainville.
+Status: Maître.
+Gender: male.
+Active during: %1506-1509%.
+Studied at: Paris en %1506-1509%..
+Academic grades obtained: Maître (Paris) ;.
+College affiliation: Collège de Dainville : hôte en %1506-1508% ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,12 @@
+PERSON: PETRUS Garnaudi
+Also known as: Petrus GARNAUDI.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1496-1513%.
+Born in: Berry ?.
+Diocese of origin: Diocèse de Bourges ;.
+Studied at: ?.
+Academic grades obtained: Licencié en décret ;.
+Ecclesiastical positions held: Chanoine de Reims %1496-1513% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 30/06/2021..

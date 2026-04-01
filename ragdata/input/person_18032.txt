@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Theobaldi 2
+Also known as: Guillelmus THEOBALDI.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1474-1474%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Saint-Malo..
+Studied at: Paris %1474-1474%..
+Academic grades obtained: Bachelier en décret (Paris) 4 août ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 04/05/2015..

@@ -1,0 +1,10 @@
+PERSON: ACASIUS Albiaci
+Also known as: Acasius ALBIACI.
+Description: Boursier du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1463-1469%.
+Studied at: Paris..
+Academic grades obtained: Étudiant en décret (Paris)..
+College affiliation: Collège d’Autun : boursier %1463-1469% ;; Collège d’Autun : boursier en droit canon %1467-1469% ;; Collège d’Autun : procureur %1465-1466%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 04/06/2024..

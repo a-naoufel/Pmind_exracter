@@ -1,0 +1,13 @@
+PERSON: LAURENTIUS 6
+Also known as: LAURENTIUS.
+Description: Chanoine.
+Status: Maître.
+Gender: male.
+Active during: %1285-1299%.
+Born in: Danemark.
+Studied at: ?.
+Academic grades obtained: Magister (?), avant ;.
+Ecclesiastical status: Diacre;.
+Ecclesiastical positions held: Chanoine de Lund, %1285-1299;; ?Chanoine de Roskilde, ;.
+Other ecclesiastical functions: Procureur de JOHANNES Grand, archevêque de Lund, , lors du synode tenu à Lund, lors du conflit entre l'archevêque et ERIKVI Menved, roi de Danemark;; Représentant du chapitrecathédral de Lund, ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Élisabeth Mornet, 08/03/2023..

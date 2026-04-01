@@ -1,0 +1,12 @@
+PERSON: PETRUS de Rommeries
+Also known as: Petrus de ROMMERIES.
+Description: Boursier du Collège de Laon.
+Status: Étudiant.
+Gender: male.
+Active during: %1404-1404%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie) %1404-1404% ;.
+Academic grades obtained: Étudiant ès arts (Paris) %1404-1404% ;.
+College affiliation: Collège de Laon : boursier ès arts ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 23/01/2024..

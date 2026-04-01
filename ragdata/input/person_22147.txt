@@ -1,0 +1,10 @@
+PERSON: ALBERICUS 2
+Also known as: ALBERICUS.
+Description: Chanoine de Tournai.
+Status: Extérieur.
+Gender: male.
+Active during: %1229-1234%.
+Studied at: ?.
+Academic grades obtained: Magister avant ?.
+Ecclesiastical positions held: Chanoine de Tournai avant ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/05/2017..

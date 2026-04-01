@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Viderne 1
+Also known as: Guillelmus VIDERNE; Guillelmus VIDERUE; Guillaume VUIDERNE.
+Description: Commissaire au Châtelet.
+Status: Extérieur.
+Gender: male.
+Active during: %1447-1451%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Paris au Moyen Âge : les Parisiens :.

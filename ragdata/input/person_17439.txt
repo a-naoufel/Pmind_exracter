@@ -1,0 +1,9 @@
+PERSON: FRANCISCUS de Toualonga
+Also known as: Franciscus de TOUALONGA.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1438-1438%.
+Studied at: Paris %1438-1438%..
+Academic grades obtained: Bachelier en décret (Paris) 5 février ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 21/09/2021)..

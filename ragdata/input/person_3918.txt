@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Harnesii
+Also known as: Guillelmus HARNESII.
+Description: Chanoine de Corbeil.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris en ..
+Academic grades obtained: Étudiant (Paris) ?.
+Ecclesiastical positions held: Chanoine de Corbeil (Sainte-Marie)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 23/03/2020..

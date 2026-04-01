@@ -1,0 +1,8 @@
+PERSON: ROBERTUS Lavrileux
+Also known as: Robertus LAVRILEUX.
+Description: Boucher.
+Status: Extérieur.
+Gender: male.
+Active during: %1366-1366%.
+Social origin: Bourgeois parisien..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 26/09/2021..

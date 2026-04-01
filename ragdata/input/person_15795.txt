@@ -1,0 +1,11 @@
+PERSON: CAROLUS de Parisius
+Also known as: Carolus de PARISIUS.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1490-1490%.
+Born in: Champgne ?.
+Diocese of origin: Diocèse de Châlons-en-Champagne..
+Studied at: Paris %1490-1490%..
+Academic grades obtained: Bachelier en décret (Paris) (le 22 juillet) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 2/04/2021)..

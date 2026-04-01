@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Cave
+Also known as: Guillelmus CAVE.
+Description: Bénédictin.
+Status: Maître.
+Gender: male.
+Active during: %1398-1428%.
+Studied at: Paris %1401-1403%..
+Academic grades obtained: Bachelier en théologie formatus (Paris) ;; Licencié en théologie (Paris) ;; Docteur en théologie (Paris) ..
+Ecclesiastical status: Prêtre..
+Religious order: O.S.B. : moine bénédictin monastère de Saint-Etienne (Diocèse de Bayeux)..
+Religious functions: Prieur de Cléville (Diocèse de Rouen) en ;; Candidat à des bénéfices sur un rotulus de l'université en ;; Abbé de Saint-André-le-Haut (Diocèse de Vienne) de à ?? ou ?? ;; Abbé de Saint Etienne à partir de ou ..
+Representation roles: Présent à l'assemblée du clergé français réunie pour la troisième fois en juin ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 2/03/2022..

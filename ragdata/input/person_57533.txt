@@ -1,0 +1,18 @@
+PERSON: PETRUS de Sancto Audomaro
+Also known as: Pierre de SAINT-OMER; Petrus de SANCTOAUDOMARO.
+Description: Archidiacre de Brie.
+Status: Maître.
+Gender: male.
+Born in: ?Artois (Saint-Omer)..
+Diocese of origin: Diocèse de Thérouanne ?.
+Academic grades obtained: Maître en théologie (Paris) ..
+College affiliation: Soronne ?.
+Ecclesiastical positions held: Chanoine de Paris (Notre-Dame) ;; Archidiacre de Brie ..
+University functions: Paris (Faculté de Théologie Maître-Régent en %1289-1302% au moins) ;; Paris (Université : taxateur des maisons en ) ;; Paris (Université : chancelier %1296-1301%)..
+Authored work: 'Quodlibet I. 7 quest. conservées', composed around %1290-1291%.
+Authored work: 'Quodlibet II. 7 quest. conservées', composed around %1297-1298%.
+Authored work: 'Quodlibet III. 3 quest. conservées', composed around %1298-1299%.
+Authored work: 'Tractatus semissae (seu compositio instrumenti)', composed around ?.
+Authored work: 'Ars et operatio novi quadrantis', composed around .
+Authored work: 'Tract. Profatti " De compositione novi quadrantis " a de S. Odomaro correctus', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 29-02-2024..

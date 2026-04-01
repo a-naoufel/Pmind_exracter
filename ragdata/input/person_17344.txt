@@ -1,0 +1,10 @@
+PERSON: BERNARDUS Auparisi
+Also known as: Bernardus AUPARISI.
+Description: Étudiant ès arts.
+Status: Étudiant.
+Gender: male.
+Active during: %1380-1380%.
+Studied at: Paris..
+Academic grades obtained: Étudiant ès arts en , âgé de 11 ans..
+Ecclesiastical positions held: Supplique pour un canonicat avec expectative de prébende de l'églisecathédrale de Chartres en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 20/01/2021)..

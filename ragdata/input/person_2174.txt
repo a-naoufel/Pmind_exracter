@@ -1,0 +1,23 @@
+PERSON: EUSTASIUS de Grandcourt
+Also known as: Eustachius de GRANDICURIA; Eustache de GRANDCOURT.
+Description: Archidiacre d'Évreux.
+Status: Maître.
+Gender: male.
+Active during: %1272-1314%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) en.
+Ecclesiastical positions held: Chanoine de Paris ( ;; Archidiacre d’Ouche en la cathédrale d'Évreux %1286-1304% ;.
+University functions: Paris (Faculté de Théologie : Maître-Régent %1293-1301%) ;; Paris (Université : conservateur des privilèges en au moins)..
+Representation roles: Il assiste au Concile de Paris (décembre ).; Envoyé de ROBERT, roi de Naples auprès de PHILIPPE IV le Bel en (avril) pour obtenir son appui..
+Authored work: 'Quodlibet I. 6 quest. conservées', composed around .
+Authored work: 'Quodlibet II (10 quest. conservées)', composed around %1296-1297%.
+Authored work: 'Quodlibet III (11 quest. conservées)', composed around %1297-1298%.
+Authored work: 'Quodlibet IV (5 quest. conservées)', composed around %1300-1301%.
+Authored work: 'Quodlibet V (11 quest. conservées)', composed around %1301-1302%.
+Authored work: 'Quaestiones de naturali dilectione VII', composed around ?.
+Authored work: 'Quaestiones de peccato veniali XVII', composed around ?.
+Authored work: 'Sermo in concepcione immacolatae beatae Mariae virginis', composed around ?.
+Authored work: '(Discours tenu devant PHILIPPE IV le Bel)', composed around , dedicated to Adressé à PHILIPPE IV le Bel, roi de France..
+Source: FEG: 20, 231, n° 71 (Évreux, Vincent TABBAGH) ;.

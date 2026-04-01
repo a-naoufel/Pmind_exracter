@@ -1,0 +1,10 @@
+PERSON: SIMON Suavis
+Also known as: Simon SUAVIS.
+Description: Chanoine de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1290-1318%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Agen %1290-1309% ;; Chantre d’Agen %1290-1318% ;; Chanoine de Poitiers % -1318% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 19/11/2022..

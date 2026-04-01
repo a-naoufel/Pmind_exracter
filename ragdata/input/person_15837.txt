@@ -1,0 +1,10 @@
+PERSON: CORNELIUS Tabert
+Also known as: Cornelius TABERT.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1448-1448%.
+Diocese of origin: Diocèse de Lyon..
+Studied at: Paris %1448-1448%..
+Academic grades obtained: Bachelier en décret (Paris) en (20 juin) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 30/04/2021..

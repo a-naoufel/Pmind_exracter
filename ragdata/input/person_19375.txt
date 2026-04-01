@@ -1,0 +1,9 @@
+PERSON: AEGIDIUS de Villain
+Also known as: Aegidius de VILLAIN.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1413-1413%.
+Studied at: Paris .; Bachelier en théologie (Paris) ;.
+Religious order: Régulier : il est qualifié de "Frater" ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/05/2020)..

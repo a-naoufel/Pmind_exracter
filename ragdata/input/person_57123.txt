@@ -1,0 +1,14 @@
+PERSON: ALEXIUS de Rantilly
+Also known as: Alexis de RANTILLY.
+Description: Maître en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1494-1521%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris (Nation de France) %1494-1521%..
+Academic grades obtained: Maître ès arts (Paris).; Licencié en théologie (Paris) (26 janvier) ;; Maître en théologie (Paris) (14 juin) ;.
+College affiliation: Collège de Reims : étudiant ès arts ;; Collège de Reims : régent ès arts ;; Collège de Bourgogne : régent ès arts ;; Collège de Navarre : boursier théologien ;.
+Ecclesiastical positions held: Candidat à des bénéfices à la collation de l’université de Paris au moins une fois en ;.
+University functions: Paris (Faculté des Arts : maître-régent au collège de Reims puis au collège de Bourgogne) ;; Paris (Faculté de Théologie : maître-régent %1513-1521% ?) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/01/2024)..

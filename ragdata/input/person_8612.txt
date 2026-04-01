@@ -1,0 +1,8 @@
+PERSON: LAURENTIA
+Also known as: Laurentia; Laurence.
+Description: Accusée d'exercice illicite de la médecine à Paris..
+Status: Extérieur.
+Gender: female.
+Active during: %1322-1322%.
+Family relationships: Son époux est Johannes de GAILLON..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Annr Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 19/08/2023)..

@@ -1,0 +1,10 @@
+PERSON: NICOLAUS de La Chapelle
+Also known as: Nicholaus de LA CHAPELLE.
+Description: Chanoine du Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1494-1495%.
+Studied at: ?.
+Academic grades obtained: Docteur en droit canon ;.
+Other ecclesiastical functions: Chanoine de LeMans %1494-1495% ;; Chanoine de LeMans (Saint-Pierre-de-la-Cour) ;; Curé de LeMans (le Crucifix) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 5/08/2023)..

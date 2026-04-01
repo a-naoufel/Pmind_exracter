@@ -1,0 +1,9 @@
+PERSON: SIMON de Dacia 3
+Also known as: Simon de DACIA.
+Description: Maître ?.
+Status: Incertain.
+Gender: male.
+Active during: %1260-1280%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ?.
+Source: MIRABILE :.

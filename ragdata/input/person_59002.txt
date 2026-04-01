@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Dainville
+Also known as: Guillelmus de DAINVILLE.
+Description: Chantre de Châlons-en-Champagne.
+Status: Incertain.
+Gender: male.
+Active during: %1303-1303%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Sous-diacre ;.
+Ecclesiastical positions held: Chantre de Châlons-en-Champagne % -1303% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 06/06/2025.

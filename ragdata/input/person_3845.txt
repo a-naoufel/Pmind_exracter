@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Duquis de Trecis
+Also known as: Guillelmus DUQUISdeTRECIS; Guillaume de TROYES.
+Description: Maître ès arts à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1372-1394%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Troyes ?.
+Studied at: Paris (Nation de France ?), %1372-1378%..
+Academic grades obtained: Maître ès arts (Paris) attesté en ;; Bachelier en droit canonique (Paris) attesté en ..
+College affiliation: Boursier théologien au Collège de Navarre à Paris en ..
+Ecclesiastical positions held: Curé dans le diocèse de Troyes ;; Chanoine de Langres, avant ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 26/04/2022)..

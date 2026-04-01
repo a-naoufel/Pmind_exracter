@@ -1,0 +1,11 @@
+PERSON: LAURENTIUS Augustini
+Also known as: Laurentius AUGUSTINI.
+Description: Maître ès arts..
+Status: Maître.
+Gender: male.
+Active during: %1450-1451%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse de Clermont ;.
+Studied at: Paris (Nation de France) %1450-1452%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licence ès arts (Paris) ;; Maîtrise ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/01/2023..

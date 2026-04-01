@@ -1,0 +1,8 @@
+PERSON: NICOLAUS de Antuel
+Also known as: Nicholaus de ANTUEL.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1275-1275%.
+Studied at: Paris ..
+Academic grades obtained: Maître ?.

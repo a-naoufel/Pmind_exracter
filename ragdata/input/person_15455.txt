@@ -1,0 +1,11 @@
+PERSON: ANDREAS de Hardres
+Also known as: Andreas de HARDRES; Andreas de HARDYS.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1294-1305%.
+Born in: Angleterre ?.
+Studied at: Paris %1294-1305%..
+Academic grades obtained: Étudiant (Paris) %1294-1305%..
+Religious order: O.S.B. : moine bénédictin du prieurécathédral de Canterbury en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 2/08/2020)..

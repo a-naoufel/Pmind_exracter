@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Yvri
+Also known as: Guillelmus YVRI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1412-1412%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) en ..
+University functions: Paris (Faculté des Arts : présent en (23 février) lors de la présentation au Concilium Gallicanum de la position de la Faculté des Arts par Guillelmus ROUSSELLI, recteur de l’université, sur la collation des bénéfices) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 18/11/2022..

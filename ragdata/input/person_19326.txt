@@ -1,0 +1,8 @@
+PERSON: COLINUS Le Breton d'Origny
+Also known as: Colinus LEBRETON d'Origny; Colinus Le Breton d'ORIGNY.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1427-1427%.
+Studied at: Paris ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/04/2021..

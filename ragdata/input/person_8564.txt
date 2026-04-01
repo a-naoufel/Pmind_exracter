@@ -1,0 +1,8 @@
+PERSON: LAMBERTUS Hotman
+Also known as: Lambertus HOTMAN.
+Description: Bourgeois de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1465-1466%.
+University functions: Paris (Nation Anglo-allemande : fidéjusseur de GOSWINUS, magnus bedellus en %1465-1466%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/08/2023)..

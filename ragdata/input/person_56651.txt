@@ -1,0 +1,9 @@
+PERSON: X Peynel
+Also known as: PEYNEL.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1453-1453%.
+Studied at: Paris (Nation de Normandie) %1449-1450%..
+Academic grades obtained: Maître ès arts (Paris) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/09/2023..

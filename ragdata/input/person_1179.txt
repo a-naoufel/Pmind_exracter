@@ -1,0 +1,12 @@
+PERSON: BAPTISTA de Neapoli
+Also known as: Baptista de NEAPOLI; Baptiste de NEAPOLI.
+Description: Maître ès arts à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1413-1414%.
+Born in: Italie ?.
+Studied at: Paris ;; Padoue %1413-1414%..
+Academic grades obtained: Maître ès arts (Paris) ;; Docteur en médecine (Padoue) (2 avril) ..
+Family relationships: Fils de Cubellus FALCONO de Neapoli.
+University functions: Padoue (Faculté des arts : recteur %1413-1414%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 6/12/2020..

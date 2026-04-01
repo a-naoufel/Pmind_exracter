@@ -1,0 +1,10 @@
+PERSON: IVO 4
+Also known as: YVO.
+Description: Chanoine de Saint-Mellon de Pontoise.
+Status: Maître.
+Gender: male.
+Active during: %1282-1282%.
+Studied at: Paris..
+Academic grades obtained: Magister ?.
+Ecclesiastical positions held: Chanoine de Pontoise (églisecollégiale Saint-Mellon) en ;; Doyen de Pontoise ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/05/2021..

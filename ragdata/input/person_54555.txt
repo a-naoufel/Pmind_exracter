@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Lehuchier
+Also known as: Nicolas LEHUCHIER.
+Description: Chanoine de Sées.
+Status: Incertain.
+Gender: male.
+Active during: %1462-1468%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Religious order: O.S.A. : chanoinerégulier augustin (Victorin)..
+Religious functions: Chanoine de Sées %1462-1458% ;; Chapelain de Sées (Chapelle de la Trinité) %1465-1468% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 10/11/2022..

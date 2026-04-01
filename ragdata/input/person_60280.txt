@@ -1,0 +1,10 @@
+PERSON: THEODERICUS de Oy
+Also known as: Theodericus de OY.
+Description: Procureur de la Nation Anglo-allemande.
+Status: Maître.
+Gender: male.
+Active during: %1362-1364%.
+Studied at: Paris (Nation Anglo-allemande) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Wilhelm BUSER pour la maîtrise en ;.
+University functions: Paris (Nation Anglo-allemande : procureur élu en (7 avril) jusqu’au 15 avril) ;; Paris (Nation Anglo-allemande : procureur élu en (31 mai) jusqu’au 27 août) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 13/11/2025..

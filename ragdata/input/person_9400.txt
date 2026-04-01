@@ -1,0 +1,12 @@
+PERSON: NICOLAUS de Barro 2
+Also known as: Nicolaus de BARRO; Nicolas de BAR.
+Description: Boursier au collège de Navarre..
+Status: Maître.
+Gender: male.
+Active during: %1377-1389%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Langres..
+Studied at: Paris %1377-1389%..
+Academic grades obtained: Étudiant ès arts (Paris) ;; Maître ès arts (Paris) ;; Étudiant en théologie (Paris) ..
+College affiliation: Boursier artien au collège de Navarre à Paris en ;; Boursier théologien au collège de Navarre à Paris en ..
+Ecclesiastical positions held: Clerc du diocèse de Langres ;; Chanoine prébendé de Saint-Lazare d'Avallon en ;; Chapelain à Saint-André d'Auxerre en ;; Candidat à la cure de Châtillon-sur-Seine (diocèse de Besançon) en ..

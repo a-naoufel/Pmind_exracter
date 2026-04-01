@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS 27
+Also known as: GUILLERMUS.
+Description: Maître ?.
+Status: Maître.
+Gender: male.
+Active during: %1436-1436%.
+Studied at: Paris..
+Academic grades obtained: Maître (Paris) ?.
+College affiliation: Sorbonne en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/05/2018)..

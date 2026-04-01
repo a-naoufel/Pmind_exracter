@@ -1,0 +1,9 @@
+PERSON: NICOLAUS Barbitonsoris 2
+Also known as: Nicolaus BARBITONSORIS.
+Description: Étudiant.
+Status: Gradué.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/08/2016..

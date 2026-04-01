@@ -1,0 +1,10 @@
+PERSON: HAIMO 1
+Also known as: Master HAIMO; HAMO; HAIMO.
+Description: Maître à Gloucester..
+Status: Étudiant.
+Gender: male.
+Active during: %1145-1145%.
+Born in: ?Angleterre..
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/01/2022)..

@@ -1,0 +1,9 @@
+PERSON: FERRANT
+Also known as: FERRANT.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1489-1489%.
+Studied at: Paris ..
+Academic grades obtained: Magister (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 2/08/2021)..

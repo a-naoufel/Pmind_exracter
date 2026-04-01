@@ -1,0 +1,53 @@
+PERSON: GUILLELMUS de Altona
+Also known as: Guillaume d'ALTONA; Guillaume d'ANTONA; William of ALTON.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1259-1265%.
+Born in: Angleterre (Alton, près de Southampton)..
+Diocese of origin: Diocèse de Winchester ?.
+Studied at: Paris.
+College affiliation: Couvent des Jacobins..
+Academic relationships: L’un de ses maîtres est Thomas d'AQUIN..
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Winchester..
+University functions: Paris (Maîtrerégent dans la Chaire des Étrangers %1259-1262)..
+Authored work: 'Introductio in Scripturam', composed around ?.
+Authored work: 'Postilla in Genesim', composed around ?.
+Authored work: 'Postilla in Exodum', composed around ?.
+Authored work: 'Postilla in Leviticum', composed around ?.
+Authored work: 'Postilla in Numeros', composed around ?.
+Authored work: 'Postilla in Josue', composed around ?.
+Authored work: 'Postilla in Lib. Judicum', composed around ?.
+Authored work: 'Postilla in Lib. Regum', composed around ?.
+Authored work: 'Postilla in Ruth', composed around ?.
+Authored work: 'Postilla in Job', composed around ?.
+Authored work: 'Postilla in Prov.', composed around ?.
+Authored work: 'Super Ecclesiasten (I)', composed around ?.
+Authored work: 'Super Ecclesiasten (II)', composed around ?.
+Authored work: 'Postilla in Eccle. (III)', composed around ?.
+Authored work: 'Postilla in librum Sapientiae (I)', composed around ?.
+Authored work: 'Postilla in librum Sapientiae (II)', composed around ?.
+Authored work: 'Postilla in Cant.', composed around ?.
+Authored work: 'Postillae in Isaiam', composed around ?.
+Authored work: 'Postillae in Jeremiam', composed around ?.
+Authored work: 'Postillae in Lamentationes Jeremiae', composed around ?.
+Authored work: 'Postillae in Ezechielem', composed around ?.
+Authored work: 'Lectura in Danielem', composed around ?.
+Authored work: 'Postillae in Evangelium Matthaei', composed around ?.
+Authored work: 'Postillae in Evangelium Johan.', composed around ?.
+Authored work: 'Postillae in Apocalypsim', composed around ?.
+Authored work: 'De decem virginibus', composed around %1261-1264%.
+Authored work: '(Sermo : Guillelmus Anglicus de S. Iohanne Bapt.', composed around (24 juin)..
+Authored work: '(Sermo : Guillelmus Anglicus Dom. XVI Trin. de S. Dionysio)', composed around (9 octobre)..
+Authored work: '(Sermo : Guillelmus Anglicus Dom. XVIII Trin.)', composed around (23 octobre)..
+Authored work: '(Sermo : Mag. Willelmus de S. Clemente)', composed around ?.
+Authored work: '(Sermo : Anglicus Willelmus de Sancto Dominico)', composed around (5 août)..
+Authored work: '(Sermo : Guillelmus Anglicus Dom. XI)', composed around (12 août)..
+Authored work: '(Sermo : Guillelmus Anglicus Dom. Nativ. B.M.V.)', composed around (8 septembre)..
+Authored work: '(Sermo : Guillelmus Anglicus Dom. XVI Trin.)', composed around (16 septembre)..
+Authored work: '(Sermo : Guillelmus Anglicus Dom. XIX Trin.)', composed around (7 octobre)..
+Authored work: '(Sermo : Guillelmus Anglicus Dom. de omnibus sanctis)', composed around (1er novembre)..
+Authored work: '(Sermo : Guillelmus Anglicus Dom. V Epiph.)', composed around (10 février)..
+Authored work: '(Sermo : Guillelmus Anglicus Dom. fer. V Dom. I Quadr.)', composed around ?.
+Authored work: '(Sermon pour la fête de Sainte MARIE-MADELEINE)', composed around (23 octobre)..
+Source: MIRABILE (A. CENCINI) :.

@@ -1,0 +1,11 @@
+PERSON: BERNARDUS de Alvernia 2
+Also known as: Bernardus de ALVERNIA; Bernerdus de ALVERNIA.
+Description: Maître ?.
+Status: Maître.
+Gender: male.
+Active during: %1329-1331%.
+Studied at: Paris %1329-1331%..
+Academic grades obtained: Magister..
+Ecclesiastical positions held: Clerc..
+University functions: Paris (Université : il apparaît comme l'un des procureurs de Guillaume de NARBONNE, chancelier de Paris lors de l'appel au pape de ce dernier contre l'Official de Paris en , si du moins il s'agit de la même personne)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 23/01/2021)..

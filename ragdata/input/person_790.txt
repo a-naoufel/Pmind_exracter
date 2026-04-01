@@ -1,0 +1,11 @@
+PERSON: ANTHONIUS Aurini
+Also known as: Antoine AURINI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1362-1362%.
+Born in: Provence ?.
+Diocese of origin: Diocèse de Sisteron..
+Studied at: Paris (Nation de France) ;; Montpellier ..
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en médecine (Montpellier) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 12/09/2020..

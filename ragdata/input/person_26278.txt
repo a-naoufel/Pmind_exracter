@@ -1,0 +1,14 @@
+PERSON: VINCENTIUS Grüner
+Also known as: Vincentius GRÜNER.
+Description: Abbé cistercien d'Altzelle.
+Status: Étudiant.
+Gender: male.
+Active during: %1411-1442%.
+Born in: Saxe (Zwickau) ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en théologie (Paris ?) ..
+College affiliation: Collège Saint-Bernard : lecteur des Arts libéraux) ;.
+Religious order: O. Cist. : Moine (cistercien) du monastère (cistercien) d'Aduard dans la région de Groningue) ;.
+Religious functions: Abbaye (cistercienne) d'Altzelle : lecteur en théologie ;; Abbé de l'abbaye (cistercienne) d'Altzelle %1411-1442%..
+Authored work: 'Expositio officii missae totiusque canonis', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 19-06-2019..

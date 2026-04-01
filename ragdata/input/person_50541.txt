@@ -1,0 +1,8 @@
+PERSON: NICOLAUS Florencii
+Also known as: Nicolaus FLORENCII; Nicolas FLORENTIN; Nicolas FLEURENT.
+Description: Conseiller-lai au Parlement.
+Status: Extérieur.
+Gender: male.
+Active during: %1345-1345%.
+Studied at: ?.
+Source: Paris au Moyen Âge : les Parisiens :.

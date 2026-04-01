@@ -1,0 +1,8 @@
+PERSON: GUILLELMUS de Orval
+Also known as: Guillelmus de ORVAL.
+Description: Propriétaire d’une maison.
+Status: Extérieur.
+Gender: male.
+Active during: %1288-1288%.
+Studied at: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 12/04/2020..

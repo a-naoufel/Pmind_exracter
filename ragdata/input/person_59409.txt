@@ -1,0 +1,7 @@
+PERSON: PETRUS Le Masson
+Also known as: Pierre LEMASSON.
+Description: ?‘Rentier de l’hôtel’ ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1398-1398%.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

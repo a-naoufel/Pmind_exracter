@@ -1,0 +1,11 @@
+PERSON: X Cotynus
+Also known as: X. COTYNUS.
+Description: Clunisien.
+Status: Étudiant.
+Gender: male.
+Active during: %1318-1318%.
+Studied at: ?.
+Academic grades obtained: Étudiant (Paris ?) ?.
+College affiliation: Collège de Cluny : Procureur en ,.
+Religious order: O.Clun. : moine clunisien ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision Jean-Philippe Genet, 01/05/2021..

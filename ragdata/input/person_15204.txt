@@ -1,0 +1,10 @@
+PERSON: THEOBALDUS de Mougetz
+Also known as: Thibaud de MOUGETZ; Theobaldus de MONGETIS; Theobaldus de MOGETIS.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1490-1496%.
+Studied at: Paris %1490-1493%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ou ;.
+Family relationships: Sa femme est Marguerite CANETTE, dame de LaRoche, à partir de ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 26/09/2024.

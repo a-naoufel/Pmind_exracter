@@ -1,0 +1,11 @@
+PERSON: ACCURSIUS de Parma
+Also known as: Accursius de PARMA; ACCURSIUS Parmensis.
+Description: Magister.
+Status: Incertain.
+Gender: male.
+Active during: %1303-1303%.
+Born in: Italie (Émilie-Romagne(Parme))..
+Studied at: ?.
+Academic grades obtained: Magister ?.
+Authored work: 'Tractatus de sphera solida, sive de Astrolabio spherico', composed around .
+Source: Thésaurus du CERL (Consortium of European Research Libraries) [en ligne] http://thesaurus.cerl.org/record/cnp00286576 ;.

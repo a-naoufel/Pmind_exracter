@@ -1,0 +1,12 @@
+PERSON: HAIMO de Gargoet
+Also known as: Hamo de GARGOET; Hamo de KAENGOET.
+Description: Chanoine de Nantes.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant (Paris) %1329-1330% ?; Licencié en décret (Paris) ?.
+College affiliation: ?Collège de Navarre chapelain en ;.
+Ecclesiastical positions held: Chanoine de Nantes ;; Chapelain d'un collège de Paris (collège de Navarre ?) ;.
+University functions: Paris (Faculté de Décret : maître-régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 12/06/2022)..

@@ -1,0 +1,14 @@
+PERSON: RADULPHUS de Carnoto 1
+Also known as: Radulphus de CARNOTO; Raoul de CHARTRES.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1230-1243%.
+Born in: Orléanais ?.
+Diocese of origin: Diocèse de Chartres ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Sous-diacre ;.
+Ecclesiastical positions held: Chanoine de Reims %1231-1243% ;.
+Other ecclesiastical functions: Official de Reims %1230-1233% et ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 16/06/2021..

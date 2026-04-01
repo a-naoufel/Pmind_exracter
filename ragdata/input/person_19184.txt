@@ -1,0 +1,11 @@
+PERSON: PETRUS de Sancto Clodoaldo
+Also known as: Petrus de SANCTO CLODOALDO.
+Description: Amauricien.
+Status: Étudiant.
+Gender: male.
+Active during: %1210-1210%.
+Studied at: Paris %1210-1210%..
+Academic grades obtained: Étudiant ès arts (Paris) ?; Étudiant en théologie ;.
+Academic relationships: Son maître est Amaury de BENE..
+Religious order: O.S.B. : Moine de l'abbaye (bénédictine) de Saint-Denis ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/12/2015)..

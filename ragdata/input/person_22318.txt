@@ -1,0 +1,11 @@
+PERSON: STEPHANUS de Genreydo
+Also known as: Stephanus de GENREYDO.
+Description: O. Cist..
+Status: Étudiant.
+Gender: male.
+Active during: %1401-1401%.
+Studied at: Paris..
+Academic grades obtained: Étudiant en théologie (Paris) ..
+College affiliation: Collège Saint-Bernard..
+Religious order: O. Cist..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 16/09/2024..

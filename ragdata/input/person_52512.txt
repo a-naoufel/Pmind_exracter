@@ -1,0 +1,13 @@
+PERSON: ODO de Senonis 1
+Also known as: Odo de SENONIS.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1280-1303%.
+Studied at: ?.
+Academic grades obtained: Maître ?.
+Ecclesiastical positions held: Chanoine de Reims %1280-1300% ;; Chanoine de Paris ;; Chanoine d’Astoria ?.
+Other ecclesiastical functions: Official de Reims %1286-1293% ;.
+University functions: Professor legum ;.
+Authored work: 'Liber practicus de consuetdine Remensi', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 14/07/2021..

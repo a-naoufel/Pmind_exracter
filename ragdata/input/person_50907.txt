@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Thiboust
+Also known as: Guillelmus THIBOUST; Guillelmus TYBOUT; Guillaume THIBAUT; Guillaume THIBOUT.
+Description: Prévôt de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1298-1302%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 05/06/2020..

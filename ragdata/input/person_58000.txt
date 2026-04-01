@@ -1,0 +1,12 @@
+PERSON: STEPHANUS de Arangeon
+Also known as: Stephanus de ARANGEON; Stephanus de ERENGHON.
+Description: Boursier du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1516-1554%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse de Clermont :.
+Studied at: Paris.
+Academic grades obtained: Étudiant ès arts (Paris) en ;.
+College affiliation: Collège d'Autun : boursier ès arts en ;; Collège d'Autun : boursier en théologie ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 04/09/2024..

@@ -1,0 +1,16 @@
+PERSON: HUGO de Trimberg
+Also known as: Hugo de TRIMBERG.
+Description: Recteur de Saint Gangolphe de Bamberg.
+Status: Extérieur.
+Gender: male.
+Active during: %1250-1313%.
+Born in: Franconie (Werneck)..
+Studied at: ?.
+Academic grades obtained: Maître ?.
+Ecclesiastical positions held: Recteur de Bamberg (Saint Gangolphe)..
+Authored work: 'Laurea sanctorum', composed around ?.
+Authored work: 'Solsequium', composed around ?..
+Authored work: 'Registrum multorum auctorum', composed around ..
+Authored work: 'Der renner', composed around vers ..
+Authored work: 'Vita M.B. Virginis rythmica', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

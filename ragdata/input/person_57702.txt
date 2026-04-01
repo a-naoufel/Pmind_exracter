@@ -1,0 +1,13 @@
+PERSON: MAURITIUS 2
+Also known as: MAURITIUS.
+Description: Archevêque de Rouen.
+Status: Extérieur.
+Gender: male.
+Active during: %1200-1235%.
+Born in: Champagne ?.
+Studied at: ?.
+Academic grades obtained: ?.
+Social origin: Commun..
+Ecclesiastical positions held: Archidiacre de Troyes ;; Évêque de LeMans %1216-1231% ;; Archevêque de Rouen %1231-1235% ;.
+University functions: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 02/04/2024)..

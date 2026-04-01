@@ -1,0 +1,11 @@
+PERSON: CORNELIUS de Gouda
+Also known as: Cornelius de GOUDA; Cornelius de GAUDA.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1477-1485%.
+Born in: Pays-Bas (Gouda ?)..
+Diocese of origin: Diocèse d'Utrecht ?.
+Studied at: ?Cologne ;; Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Cologne) ;; Maître ès arts (Cologne) ;; Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 28/04/2021)..

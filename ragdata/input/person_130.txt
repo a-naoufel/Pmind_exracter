@@ -1,0 +1,11 @@
+PERSON: ADEMARUS de Sancto Paulo
+Also known as: Ademarus de SANCTO PAULO; Adémar de SAINT-PAUL.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1274-1312%.
+Studied at: ?Paris..
+Academic grades obtained: Magister ?.
+Religious order: O.P. : frère dominicain.
+University functions: Couvent (dominicain) d'Orthez : lecteur art. ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019)..

@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Du Vielz Marché
+Also known as: Nicolaus DUVIELZ-MARCHÉ.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1403-1403%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Dormans-Beauvais : boursier ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 09/09/2019..

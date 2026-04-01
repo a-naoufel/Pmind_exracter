@@ -1,0 +1,11 @@
+PERSON: ANTHONIUS Crescentia
+Also known as: Anthonius CRESCENTIA.
+Description: Licencié en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1490-1490%.
+Studied at: Paris %1490-1490%.
+Academic grades obtained: Licencié en théologie (Paris) (le 13 janvier) ..
+College affiliation: Couvent (domincain) de Paris (Jacobins)..
+Religious order: O.P. : frère dominicain.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/09/2020)..

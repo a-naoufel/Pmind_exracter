@@ -1,0 +1,11 @@
+PERSON: MARTINUS Fabri
+Also known as: Martinus FABRI.
+Description: Procureur du collège de Justice.
+Status: Gradué.
+Gender: male.
+Active during: %1433-1436%.
+Studied at: Paris %1433-1436% ;.
+Academic grades obtained: Étudiant en théologie (Paris) %1433-1436% ;; Bachelier en théologie (Paris) ?.
+College affiliation: Collège de Justice : procureur %1433-1436% ;.
+University functions: Paris (Faculté de Théologie : lecteur des Sentences en (5 juillet) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet 18/09/2020..

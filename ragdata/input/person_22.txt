@@ -1,0 +1,10 @@
+PERSON: ADAM Aghathe
+Also known as: Adam AGHATHE.
+Description: Chanoine d'Arras.
+Status: Maître.
+Gender: male.
+Active during: %1377-1377%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts av. .; Étudiant Dec. (Paris) en ..
+Ecclesiastical positions held: Chanoine d' Arras en ;; Chanoine d' Anvers (Sainte Marie) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019)..

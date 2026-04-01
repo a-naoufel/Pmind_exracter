@@ -1,0 +1,10 @@
+PERSON: G. Potier
+Also known as: G. POTIER.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1440-1440%.
+Studied at: Paris ?.
+Academic grades obtained: Magister ;.
+College affiliation: Sorbonne ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 29/11/2020)..

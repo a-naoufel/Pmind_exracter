@@ -1,0 +1,9 @@
+PERSON: THOMAS Hebert
+Also known as: Thomas HEBERT.
+Description: Licencié en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1471-1478%.
+Studied at: Paris %1471-1478%..
+Academic grades obtained: Étudiant en médecine (Paris) %1471-1472% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 10/10/2024..

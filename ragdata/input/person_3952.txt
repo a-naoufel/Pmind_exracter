@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Laurentii 1
+Also known as: Guillelmus LAURENTII.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1365-1365%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.P. : frère dominicain.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 7/12/2021..

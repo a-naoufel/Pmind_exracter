@@ -1,0 +1,11 @@
+PERSON: BETHLEM
+Also known as: BETHLEM.
+Description: Prévôt d’Esztergom..
+Status: Étudiant.
+Gender: male.
+Active during: %1177-1181%.
+Born in: Hongrie ?.
+Studied at: Paris : Sainte-Geneviève (école abbatiale), %1177-1181%..
+Academic grades obtained: Étudiant..
+Ecclesiastical positions held: Prévôt d’Esztergom, ??..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Gergely KISS, 26/07/2014..

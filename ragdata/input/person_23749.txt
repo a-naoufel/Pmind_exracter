@@ -1,0 +1,9 @@
+PERSON: HENRICUS Lopier
+Also known as: Henricus LOPIER.
+Description: Maître.
+Status: Incertain.
+Gender: male.
+Active during: %1444-1444%.
+Studied at: Paris ..
+Academic grades obtained: Maître (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 30/07/2022..

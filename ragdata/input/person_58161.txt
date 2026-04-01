@@ -1,0 +1,12 @@
+PERSON: NICOLAUS Weston
+Also known as: Nicolas WESTON.
+Description: Maître.
+Status: Extérieur.
+Gender: male.
+Active during: %1200-1233%.
+Born in: Angleterre ;.
+Studied at: Oxford ?.
+Academic grades obtained: Maître (Oxford ?) ;.
+Ecclesiastical positions held: Recteur de SouthWitham (Lincolnshire) ca. %1232-1233%..
+Other ecclesiastical functions: Chapelain des évêques de CoventryetLichfield ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière révision, 18/10/2024..

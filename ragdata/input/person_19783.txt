@@ -1,0 +1,11 @@
+PERSON: ERHARDUS
+Also known as: HERARDUS.
+Description: Maître ès arts ?.
+Status: Maître.
+Gender: male.
+Active during: %1469-1469%.
+Studied at: Paris (Nation Anglo-allemande ?) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+College affiliation: Collège de Boncourt ?.
+University functions: Paris (Nation de Anglo-allemande : probablement l'un des maîtres-régents de la nation en ?)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2021)..

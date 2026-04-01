@@ -1,0 +1,10 @@
+PERSON: PATRICIUS Hepburn
+Also known as: Patricius HEPBURN.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Born in: Écosse ?.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/08/2016..

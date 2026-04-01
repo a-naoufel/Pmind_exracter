@@ -1,0 +1,10 @@
+PERSON: ROBERTUS Marguerie
+Also known as: Robertus MARGUERIE; Robert MARGUERIE.
+Description: Boursier artien au collège de Navarre.
+Status: Étudiant.
+Gender: male.
+Active during: %1353-1353%.
+Studied at: Paris (Collège de Navarre) %1353-1353%..
+Academic grades obtained: Étudiant ès arts (Paris) ..
+College affiliation: Boursier artien au collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 27/08/2016..

@@ -1,0 +1,10 @@
+PERSON: GALFREDUS de Sancto Romano
+Also known as: Gauffridus de SANCTO ROMANO.
+Description: Clunisien.
+Status: Gradué.
+Gender: male.
+Active during: %1429-1429%.
+Studied at: Paris %:1429-1429%..
+Academic grades obtained: Licencié en théologie (Paris) (31 décembre) ..
+Religious order: O.CLun. : moine clunisien.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 10/10/2021..

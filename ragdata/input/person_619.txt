@@ -1,0 +1,11 @@
+PERSON: ANDREAS Bernardi 2
+Also known as: Andreas BERNARDI.
+Description: Licencié en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1413-1414%.
+Studied at: Paris, %1413-1414%.
+Academic grades obtained: Licencié en théologie (Paris) ..
+College affiliation: Couvent des Grands-Augustins..
+Religious order: O.E.S.A. : frère augustin..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol ; Jean-Philippe Genet, dernière mise à jour 28/07/2020)..

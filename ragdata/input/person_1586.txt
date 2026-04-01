@@ -1,0 +1,12 @@
+PERSON: CAROLUS Fernandus
+Also known as: Carolus FERNANDUS.
+Description: Recteur de l'Université de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1485-1485%.
+Born in: Flandre (Bruges ?) ?.
+Diocese of origin: Diocèse de Tournai ?.
+Studied at: Paris (Nation de Picardie ?) %1485-1485%..
+Academic grades obtained: Maître ès arts (Paris) attesté en ?.
+University functions: Recteur de l'Université de Paris élu en octobre ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 05/04/2021..

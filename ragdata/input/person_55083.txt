@@ -1,0 +1,15 @@
+PERSON: ODO de Sulliaco 1
+Also known as: Oldo de SULLIACO.
+Description: Chanoine d'Autun.
+Status: Incertain.
+Gender: male.
+Active during: %1217-1247%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse d’Autun ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son frère est Gauthier de SULLY, seigneur de Sully ; Son neveu est Hugo de SULLIACO, chanoine d’Autun ;.
+Social origin: Noble ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d’Autun %1217-1247% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/01/2023..

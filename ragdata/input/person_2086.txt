@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS de Abbatisvilla
+Also known as: Egidius de ABBATISVILLA; Gilles d'ABBEVILLE.
+Description: Procureur de la Sorbonne.
+Status: Maître.
+Gender: male.
+Active during: %1333-1341%.
+Born in: ?Picardie ;.
+Diocese of origin: Diocèse d'Amiens ?.
+Academic grades obtained: Magister.; Maître ès arts (Paris) ?.
+College affiliation: Paris (Sorbonne : socius et procureur en %1333-1341%).; Procureur de la Sorbonne pour un accord en (4 octobre) avec Theodorus de ERLEBACH, exécuteur testamentaire de Conradus de BONMERSHEIM fonde un obit à la Sorbonne et donne deux livre au collège ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 28/03/2023 ;.

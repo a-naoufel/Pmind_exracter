@@ -1,0 +1,19 @@
+PERSON: GUILLELMUS Blesensis 1
+Also known as: Guillaume de BLOIS.
+Description: Abbé de Matina.
+Status: Extérieur.
+Gender: male.
+Active during: %1167-1169%.
+Born in: Blois ?.
+Studied at: ?.
+Academic grades obtained: Magister..
+Family relationships: Son frère est Pierre de BLOIS..
+Social origin: Noblesse :.
+Religious order: O.S.B. : moine bénédictin..
+Religious functions: Abbé (bénédictin) de Matina (Santa Maria della Matina) en Calabre %1167-1169% ;.
+Authored work: 'Operae theologicae', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Alda', composed around ?.
+Authored work: 'Marcus et Flora', composed around ?.
+Authored work: 'Jurgia muscae et pulicis', composed around ?.
+Source: ARLIMA : Serena Modena :.

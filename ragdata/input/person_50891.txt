@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Picquelerii
+Also known as: Guillelmus PICQUELERII.
+Description: Chanoine d’Évreux.
+Status: Extérieur.
+Gender: male.
+Active during: %1335-1335%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chanoine d’Évreux en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 12/05/2020..

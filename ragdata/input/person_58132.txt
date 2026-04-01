@@ -1,0 +1,18 @@
+PERSON: THOMAS Erfordiensis
+Also known as: Thomas d'ERFURT.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1300-1310%.
+Studied at: Paris ;; Erfurt..
+Academic grades obtained: Maître ès arts (Paris) vers ?.
+University functions: Erfurt (Université : maître-régent) ;; Erfurt (Université : recteur)..
+Authored work: 'Expositio in Porphyrii Isagogen', composed around ?.
+Authored work: 'Expositio super libros Praedicamentorum', composed around ?.
+Authored work: 'Expositio super librum Perihermenias', composed around ?.
+Authored work: 'Expositio VI Principiorum', composed around ?.
+Authored work: 'Grammatica speculativa', composed around ?.
+Authored work: 'Fundamentum puerorum', composed around ?.
+Authored work: 'Compendium de regimine et constructione', composed around ?.
+Authored work: 'De constructione partium orationis', composed around ?.
+Source: MIRABILE : Féderico CONTINI :.

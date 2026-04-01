@@ -1,0 +1,11 @@
+PERSON: GALTERIUS Brulati
+Also known as: Galterius de BRULATI.
+Description: Chanoine de Chalon.
+Status: Incertain.
+Gender: male.
+Active during: %1242-1251%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical positions held: Recteur de Chandenay ;; Chanoine de Chalon-sur-Saône %1242-1250% ;.
+Other ecclesiastical functions: Official de Chalon-sur-Saône %1242-1250% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/05/2025..

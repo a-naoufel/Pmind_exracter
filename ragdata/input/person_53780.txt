@@ -1,0 +1,11 @@
+PERSON: PETRUS Raimundus de Paderiis
+Also known as: Petrus Raimundus de PADERIIS.
+Description: Chanoine de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1482-1504%.
+Studied at: ?.
+Academic grades obtained: Bachelier en droit canon ;.
+Ecclesiastical positions held: Chanoine de Rodez %1482-1504% ;; Prieur de Brussac ;.
+Other ecclesiastical functions: Vicaire de Rodez ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 20/05/2022..

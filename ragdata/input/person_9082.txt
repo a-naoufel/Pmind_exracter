@@ -1,0 +1,11 @@
+PERSON: NATHICIUS
+Also known as: NATHICIUS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Born in: Allemagne ?.
+Studied at: Paris (Nation Anglo-allemande) en ..
+Academic grades obtained: Étudiant en ;.
+Ecclesiastical positions held: Chanoine de Wesel ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 7/10/2023)..

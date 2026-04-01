@@ -1,0 +1,12 @@
+PERSON: GALTERIUS de Trecis
+Also known as: Galterus de TRECIS.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1297-1297%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Troyes ?.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Chanoine de Reims % -1297% ;; Prévôt de Reims ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/12/2018..

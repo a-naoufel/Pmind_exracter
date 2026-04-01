@@ -1,0 +1,13 @@
+PERSON: HIERONYMUS de Perlytolentis
+Also known as: Hieronymus de PERLYTOLENTIS.
+Description: Chanoine de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1481-1483%.
+Born in: Croatie (Korcula) ;.
+Diocese of origin: Diocèse de Korcula ?.
+Studied at: ?.
+Academic grades obtained: Maître ?.
+Ecclesiastical status: Clerc en ;.
+Ecclesiastical positions held: Chanoine de Cambrai %1481-1483% ;; Archidiacre d’Anvers %1481-1482% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 04/01/2026..

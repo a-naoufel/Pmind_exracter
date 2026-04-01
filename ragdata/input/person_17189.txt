@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS Cadot
+Also known as: Aegidius CADOT.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1381-1385%.
+Born in: Picardie..
+Diocese of origin: Diocèse de Soissons..
+Studied at: Paris %1381-1385%..
+College affiliation: Boursier du collège de Dormans-Beauvais %1381-1385%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 18/10/2017..

@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Nemosio
+Also known as: Guillelmus de NEMOSIO.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1348-1348%.
+Born in: Île-de-France (Nemours ?) ?.
+Diocese of origin: Diocèse de Sens ?.
+Studied at: Paris (Nation de France) ;.
+Academic grades obtained: Maître ès arts (Paris) ?.
+University functions: Paris (Nation de France : procureur en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 12/04/2020..

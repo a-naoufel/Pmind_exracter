@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Abindon 1
+Also known as: William de ABINDON.
+Description: O.P..
+Status: Extérieur.
+Gender: male.
+Active during: %1239-1244%.
+Born in: Angleterre..
+Studied at: Oxford %1239-1243% ?.
+Academic grades obtained: ?.
+Religious order: O.P. : frère du couvent (dominicain) d'Oxford %1239-1243% ;.
+Religious functions: Prieur (dominicain) de Gloucester ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 04/03/2022..

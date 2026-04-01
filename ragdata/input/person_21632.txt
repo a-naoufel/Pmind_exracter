@@ -1,0 +1,10 @@
+PERSON: GERARDUS Chomedey
+Also known as: Girardus CHOMEDEY.
+Description: Chanoine d'Autun.
+Status: Incertain.
+Gender: male.
+Active during: %1440-1467%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d'Autun %1440-1467% :.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 13/12/2021..

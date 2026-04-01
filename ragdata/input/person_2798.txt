@@ -1,0 +1,9 @@
+PERSON: GERARDUS Fortis 1
+Also known as: Gerardus FORTIS.
+Description: Licencié ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1356-1359%.
+Studied at: Paris (Nation Anglo-allemande) %1356-1359%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Mais il a des difficultés financières : "Item in eadem congregacione supplicabant Jacobus; Licencié ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 9/01/2022..

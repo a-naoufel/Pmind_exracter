@@ -1,0 +1,12 @@
+PERSON: EUSTASIUS Sorores de Sancto Marcello
+Also known as: EUSTACHUS Sorores de Sancto Marcello.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1303-1303%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) ;.
+Religious order: O.F.M. : frère franciscain..
+Religious functions: Confesseur des sœurs de Saint-Marcel ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/04/2021)..

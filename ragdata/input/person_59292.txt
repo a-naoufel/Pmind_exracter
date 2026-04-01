@@ -1,0 +1,11 @@
+PERSON: HENRICUS Vavassoris 1
+Also known as: Henricus VAVASSORIS.
+Description: Notaire.
+Status: Incertain.
+Gender: male.
+Active during: %1341-1345%.
+Born in: Flandre (Balinghem) ;.
+Diocese of origin: Diocèse de Thérouanne ;.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

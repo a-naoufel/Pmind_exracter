@@ -1,0 +1,10 @@
+PERSON: HENRICUS Boyleaue
+Also known as: Henricus BOYLEAUE.
+Description: Conseiller au Parlement.
+Status: Incertain.
+Gender: male.
+Active during: %1418-1452%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Sens %1447-1452% ;; Chanoine de Châlons-en-Champagne % -1452% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 06/06/2025.

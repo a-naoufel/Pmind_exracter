@@ -1,0 +1,33 @@
+PERSON: BONCOMPAGNUS de Signa
+Also known as: Boncompagnus de SIGNA; Buoncompagno da SIGNA.
+Description: Professeur à Bologne.
+Status: Extérieur.
+Gender: male.
+Active during: %1190-1240%.
+Born in: Italie (Toscane : Signa)..
+Studied at: Bologne ;.
+Academic grades obtained: Magister (Bologne)..
+University functions: Bologne : professeur de grammaire et de rhétorique %1194-1215%, à nouveau vers et à nouveau en %1235-1240% ;; Venise : professeur de grammaire et de rhétorique à partir de et jusqu’en ;; Reggio : professeur de grammaire et de rhétorique ;; Padoue : professeur de grammaire et de rhétorique ;; Florence : professeur de grammaire et de rhétorique ?.
+Authored work: 'Liber quinque [decem] tabularum', composed around ?.
+Authored work: 'Tractatus virtutum', composed around ?.
+Authored work: 'Notulae aureae', composed around ?.
+Authored work: 'Palma', composed around ?.
+Authored work: 'Oliva', composed around ?.
+Authored work: 'Cedrus, sive Notitia generalium statutorum', composed around ?.
+Authored work: 'Mirra', composed around ?.
+Authored work: 'Breviloquium', composed around ?.
+Authored work: 'Ysagoge', composed around ?.
+Authored work: 'Liber de amicitia', composed around ?.
+Authored work: 'Rota veneris', composed around ?.
+Authored work: 'Rhetorica Antica [version I]', composed around (Bologne) ..
+Authored work: 'Rhetorica antica [version II]', composed around (Padoue).
+Authored work: 'Rhetorica novissima', composed around .
+Authored work: 'Libellus de malo senectutis et senii', composed around ?, dedicated to Dédié à Ardingo de FIRENZE ?.
+Authored work: 'Corona', composed around ?.
+Authored work: 'Epistola mandativa ad comites palatinos', composed around ?.
+Authored work: 'De vitiis evitandis et cursibus servandis in dictamine', composed around ?.
+Authored work: 'Epistola Boncompagni ad Philippum electrum Ferrariensis', composed around ?.
+Authored work: 'Prologus Boncompagni ad Summam Codicis Azonis', composed around ?.
+Authored work: 'Prooemium Boncompagni ad Summam Institutionum Azonis', composed around ?.
+Authored work: 'Liber de obsidione Anconee', composed around %1198-1200% ?.
+Source: http://sip.mirabileweb.it.

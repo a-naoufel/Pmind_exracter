@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Muynart
+Also known as: Guillelmus MUYNART.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1452-1452%.
+Studied at: Paris..
+Academic grades obtained: Bachelier en théologie (Paris ?) ?.
+Academic relationships: Son maître est Thomas de COURCELLES ;.
+University functions: Paris (Faculté de Théologie : Lecteur curseur) ;; Sous la supervision de Thomas de COURCELLES ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 12/11/2022..

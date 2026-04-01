@@ -1,0 +1,51 @@
+PERSON: SIGERUS de Brabancio
+Also known as: Sigerus de BRABANCIO; Siger de BRABANT.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1255-1281%?.
+Born in: Brabant..
+Studied at: Paris (Nation des Picards) ca.%1255-1260%..
+Academic grades obtained: Maître ès arts.
+Ecclesiastical positions held: Chanoine de Liège (St-Paul)..
+University functions: Paris (Faculté des Arts : maître-régent)..
+Authored work: 'Quaestio utrum haec sit vera: homo est animal nullo homine existente', composed around %1268-1270%.
+Authored work: 'Sophisma: Omnis homo de necessitate est animal', composed around Avant.
+Authored work: 'Quaestiones logicales', composed around Vers.
+Authored work: 'Questiones super librum de Causis', composed around %1273-1274%..
+Authored work: 'De necessitate et contigentia causarum', composed around %1271-1272%.
+Authored work: 'Quaestiones morales', composed around %1273-75%.
+Authored work: 'Impossibilia', composed around ?.
+Authored work: 'Questio ‘Omnia entia’', composed around ?.
+Authored work: 'Tractatus de intellectu', composed around ?.
+Authored work: 'Tractatus de felicitate', composed around ?.
+Authored work: 'Rescriptum de universalibus', composed around ?.
+Authored work: 'Questiones super librum Physicorum (I-II)', composed around ?.
+Authored work: 'Questiones super libros Physicorum I-IV', composed around ?.
+Authored work: 'Questiones super libros Physicorum I,-IV, VIII', composed around ?.
+Authored work: 'Questiones super libros Physicorum', composed around ?.
+Authored work: 'Quaestiones in libros II-VII Metaphysicae', composed around ca.%1272-1275% ?.
+Authored work: 'Quaestiones super librum Metaphysice usque ad sextum', composed around %1272-1275% ?.
+Authored work: 'Questio super quinto Metaphysice', composed around ?.
+Authored work: 'Qureestio super sexto Metaphysice', composed around ?.
+Authored work: 'Questio metaphysice tres', composed around ?.
+Authored work: 'Compendium super librum de Generatione', composed around Avant ;.
+Authored work: 'Quaestiones in libros de Generatione et Corruptione', composed around ?.
+Authored work: 'Quaestio', composed around %1265-70%.
+Authored work: 'Quaestiones in libros I, II, IV Meteororum', composed around %1269-1273% ?.
+Authored work: 'Sententia super IV Meteororum', composed around ?.
+Authored work: 'Quaestiones in III librum de Anima', composed around %1265-1270%.
+Authored work: 'Quaestiones in III libros De Anima', composed around %1275-1277% ?.
+Authored work: 'Quaestiones in I-II libros De Anima', composed around ?.
+Authored work: 'Commentarium in libros de Anima', composed around ?.
+Authored work: 'Sententia super De longitudine et brevitate vitae', composed around ?.
+Authored work: 'Quaestiones 34 in librum de somno et vigilia', composed around %1275-1277% ?.
+Authored work: 'Sententia super librum De somno et vigilia', composed around ?.
+Authored work: 'Questiones super libros librum de juventute et senectute et De morte et vita', composed around %1275-1277%.
+Authored work: 'Tractatus de anima intellectiva', composed around %1272-1274%.
+Authored work: 'De aeternitate mundi', composed around %1271-1272%..
+Authored work: 'Quaestiones naturales I', composed around %1272-1273% ?.
+Authored work: 'Quaestiones naturales II', composed around .
+Authored work: 'In libros Politicorum', composed around ?.
+Authored work: 'Quaestiones in libros I-IV Physicorum', composed around %1275-77%.
+Source: MIRABILE : Federico CONTINI :.

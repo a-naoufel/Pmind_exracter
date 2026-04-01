@@ -1,0 +1,9 @@
+PERSON: BENEDICTUS Ruffi
+Also known as: Benedictus RUFFI.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1455-1455%.
+Diocese of origin: Diocèse de Lyon..
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..

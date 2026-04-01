@@ -1,0 +1,17 @@
+PERSON: ROLANDUS Scriptoris
+Also known as: Roland l'ESCRIPVAIN; Rolandus SCRIPTORIS.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1406-1470%.
+Born in: ?.
+Studied at: Paris %1406-1429%..
+Academic grades obtained: Étudiant (Paris) %1419-1420% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Family relationships: Son père est Jacques L'ESCRIVAIN ; Sa mère est Béatrix TENSALVE (GONSALVE) ; Son fils est Martin..
+Ecclesiastical positions held: Chanoine de Paris (Sainte-Chapelle) en ;; Chanoine d'Arras en ;; Archidiacre d'Arras en ;; Doyen de Bruges (Saint-Donatien) en %1443-1444% ;.
+University functions: ?Paris (Université : recteur en %1406-1407% ?) ;; Paris (Faculté de médecine : maître-régent, %1436-1442%) ;; Paris (Faculté de médecine : doyen, %1424-1425%) ;; Paris (Faculté de médecine : doyen, %1427-1430%) ;.
+Authored work: 'Physiognomia', composed around Vers ., dedicated to Dédié au duc de Bedford..
+Authored work: 'Compilatorium sive aggregatorium totius artis geomancie ad astromiam redacte', composed around ?.
+Authored work: 'De arithmetica', composed around ?.
+Authored work: '[Carré astrologique du couronnement de Charles VII]', composed around ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux et Claire Priol ; révision, Jean-Philippe Genet, dernière mise à jour 28/04/2018).

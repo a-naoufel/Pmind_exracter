@@ -1,0 +1,13 @@
+PERSON: ANCELINUS de Bertrevilla
+Also known as: Ancelinus de BERTREVILLA.
+Description: Hôte du Collège de Dainville.
+Status: Étudiant.
+Gender: male.
+Active during: %1407-1407%.
+Born in: Normandie (Bertreville) ?.
+Diocese of origin: Diocèse de Rouen ?.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dainville : hôte du collège en ; ;.
+Family relationships: Son parent est peut-être Lancelotus de BERTREVILLA ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,10 @@
+PERSON: CONRADUS de Marchia
+Also known as: Cunradus de MARCHIA; Cunradus de MARCIA.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1343-1343%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Academic relationships: Son maître est Ulricus de SAXONIA..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/04/2021..

@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Bisterve
+Also known as: Guillermus BISTERVE.
+Description: Sergent commun de la nation de France.
+Status: Suppôt.
+Gender: male.
+Active during: %1285-1285%.
+Studied at: Paris ..
+University functions: Paris (Nation de France : sergent commun en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 24/02/2022..

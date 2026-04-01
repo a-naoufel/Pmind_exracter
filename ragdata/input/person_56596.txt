@@ -1,0 +1,14 @@
+PERSON: THOMAS de Beaumetz
+Also known as: Thomas de BEAUMETZ.
+Description: Archevêque de Reims.
+Status: Maître.
+Gender: male.
+Active during: %1235-1263%.
+Born in: Hainaut ?.
+Diocese of origin: Diocèse de Cambrai ?.
+Studied at: Paris %1240-1245%..
+Academic grades obtained: Maître arts/Étudiant en théologie ;.
+Family relationships: Son père est Gilles de BEAUMETZ, seigneur de Bapaume ; Sa mère est Agnès de COUCY..
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine d’Arras ;; Archidiacre de Cambrai ;; Chanoine de Laon ;; Archevêque de Reims %1251-1263% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/09/2023)..

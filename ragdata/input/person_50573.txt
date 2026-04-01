@@ -1,0 +1,15 @@
+PERSON: GILDUINUS de Sancto Victore
+Also known as: Gilduin de SAINT-VICTOR.
+Description: Abbé de Saint-Victor.
+Status: Maître.
+Gender: male.
+Active during: %1113-1155%.
+Studied at: Paris..
+Academic grades obtained: ?Maître..
+Religious order: O.S.A. : Chanoine régulier de Saint-Victor.
+Religious functions: Abbé de Paris (Saint-Victor) %1113-1155%..
+Authored work: 'Indiculum', composed around ..
+Authored work: 'Prologus in libellum de accentibus', composed around ?.
+Authored work: 'Liber ordinis Sancti Victoris', composed around ?.
+Authored work: 'Epistolae', composed around ?.
+Source: MIRABILE : http://www.mirabileweb.it/author/gilduinus-sancti-victoris-parisiensis-abbas-sedit--author/21925.

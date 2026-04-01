@@ -1,0 +1,14 @@
+PERSON: ADAM Carnificis 1
+Also known as: Adam CARNIFICIS; Adam BOUCHER; Adam LE BOUCHIER; Adam CARNIFEX.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1378-1403%.
+Studied at: Paris (Nation de Normandie) %1378-1403% ;.
+Academic grades obtained: Maître ès arts (Paris) avant ;; Étudiant en théologie (Paris) en ;; Bachelier en théologie (Paris) ;; Licencié en théologie (Paris) ;; Maître en théologie (Paris) ..
+College affiliation: Collège de Sorbonne : étudiant admis sous le provisorat de Pierre de MONTAIGU (1378-1388) ;.
+Ecclesiastical positions held: Sous-diacre du diocèse de Rouen, ;; Candidat à un bénéfice à la collation de l'abbé et du couvent (bénédictin) du Bec-Hellouin dans le rotulus de la Faculté des Arts de Paris envoyé au pape CLEMENT VII en ;; Recteur de Saint-Philibert-sur-Boissey (diocèse de Rouen) en ;; Provision pour un canonicat avec expectative de prébende à Langeais (collégiale Saint-Jean) accordé par CLÉMENT VII à la demande de CHARLES VI, roi de France ;; Candidat à un bénéfice à la collation de l'abbé et du couvent (bénédictin) du Bec-Hellouin ou à celle de l'abbé et du couvent (bénédictin) de Mont-Sainte-Catherine (diocèse de Rouen) dans le rotulus de la Faculté des Arts de Paris envoyé au pape CLEMENT VII en ;; Provision pour un bénéfice à la collation de l'abbé et du couvent du Bec-Hellouin accordée par la pape BENOIT XIII, 15 novembre ;.
+University functions: Paris (Nation de Normandie : Maîtrerégent en ) ;; Paris (Nation de Normandie : il est l’un des "Intrantes" délégués à choisir le recteur de l'Université de Paris pour la période 10 octobre - 16 décembre : le recteur élu est Johannes LUQUETI ;; Paris (Faculté de Théologie : Lecteur des Sentences en ) ;; Paris (Université : il assiste à une assemblée universitaire concernant la fin du grand Schisme, 25-26 février ) ;.
+Representation roles: Lors d'une assemblée ecclésiastique, Adam CARNIFICIS rejoint le recteur de l'Université de Paris et de nombreux maîtres pour une audience avec le Conseil royal sous la présidence du duc d'Orléans ;; Assiste à une assemblée ecclésiastique à Paris appelée par le roi de France pour discuter du retrait d'obédience du pape d'Avignon, mai-juin ;.
+Authored work: '[Commentaires des livres des Sentences]', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 01/01/2025)..

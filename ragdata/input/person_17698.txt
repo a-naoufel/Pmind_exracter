@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Anglicus 10
+Also known as: Guillelmus ANGLICI.
+Description: Licencié en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1474-1474%.
+Studied at: Paris %1474-1474%..
+Academic grades obtained: Licencié en décret (Paris) avril ..
+Academic relationships: Son maître est Jacobus JUNII en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 20/02/2022..

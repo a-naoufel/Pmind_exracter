@@ -1,0 +1,11 @@
+PERSON: NICOLAUS Magister
+Also known as: NICOLAUS Magister.
+Description: Maître ès arts.
+Status: Incertain.
+Gender: male.
+Active during: %1250-1250%.
+Born in: ?.
+Studied at: ?.
+Academic grades obtained: Maître ès arts..
+Authored work: 'De grammatica et omni genere constructionum', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 21-01-2025..

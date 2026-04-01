@@ -1,0 +1,10 @@
+PERSON: GALFREDUS de Dorchester
+Also known as: Geoffrey of DORCHESTER.
+Description: Magister.
+Status: Extérieur.
+Gender: male.
+Active during: %1212-1228%.
+Born in: Angleterre..
+Studied at: Oxford..
+Academic grades obtained: Magister (Oxford) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 17/11/2016..

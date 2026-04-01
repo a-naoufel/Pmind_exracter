@@ -1,0 +1,12 @@
+PERSON: PETRUS de Insula
+Also known as: Petrus de INSULA..
+Description: Fellow de Merton College..
+Status: Extérieur.
+Gender: male.
+Active during: %1284-1307%.
+Studied at: Oxford %1284-1307%..
+Academic grades obtained: Maître ès art (Oxford)..
+University functions: Oxford (Merton College : fellow %1284-1307%.
+Authored work: 'Quaest. super libros Posteriorum Analyticorum', composed around ?.
+Authored work: 'Expositio in libros de Generatione et corruptione', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, dernière mise à jour, 04-06-2025..

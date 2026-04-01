@@ -1,0 +1,14 @@
+PERSON: ROBERTUS de Beaufort
+Also known as: Robertus de BEAUFORT.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1415-1425%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Soissons ;.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Dormans-Beauvais : Boursier en ;.
+Family relationships: Son parent est peut-être Jean de BEAUFORT ; Son parent est peut-être Thibaud THIESSART ;.
+Ecclesiastical status: Clerc en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 8/01/2019..

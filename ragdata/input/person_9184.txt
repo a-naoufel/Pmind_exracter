@@ -1,0 +1,22 @@
+PERSON: NICOLAUS Amberg
+Also known as: Nicolaus AMBERG; Nicolaus ANBERG.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1433-1467%.
+Born in: Alémanie (Bâle)..
+Diocese of origin: Diocèse de Bâle..
+Studied at: Heidelberg ;; Paris %1438-1443%..
+Academic grades obtained: Étudiant (Heidelberg) ;; Baccalarius biblicus (Paris) ;; Licencié en théologie (Paris) (le 22 février) ;; Docteur en théologie (Paris) (le 18 février) ;; "Maître en droit" ..
+College affiliation: Collège Saint-Bernard % :1438-1443% ?.
+Religious order: O. Cist. : moine (cistercien) de l'abbaye (cistercienne) de Lützel ;.
+Religious functions: Prieur de Saint-Appollinaire ;; Célerier de l'abbaye (cistercienne) de Lützel ;; Prieur de l'abbaye (cistercienne) de Lützel.; Abbé de l'abbaye (cistercienne) de Lützel de ;.
+University functions: Lecteur de la Bible à Paris en (premier cours le 29 mars) sous la direction de Bertrandus de LEODIO, D.T. O.C. ;.
+Representation roles: Membre du concile de Bâle de Janvier à juin ..
+Authored work: '[Chronique de L'abbaye de Lucelle]', composed around ?.
+Authored work: 'Fasciculus antiquitatum lucellensium', composed around ?.
+Authored work: 'Sermo in concilio Basiliensi', composed around A Bâle en.
+Authored work: '[Acta du concile de Bâle]', composed around ?.
+Authored work: '[Défense du pape Eugène IV]', composed around ?.
+Authored work: '[Commentaire du Concordat Germanique]', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol ; révision, Jean-Philippe Genet, 13/05/2019..

@@ -1,0 +1,11 @@
+PERSON: REGINALDUS Crassi
+Also known as: Reginaldus CRASSI; Reginaldus CRASSY; Reginaldus LEGRAS.
+Description: Maître en décret.
+Status: Maître.
+Gender: male.
+Active during: %1415-1419%.
+Studied at: Paris %1415-1419%..
+Academic grades obtained: Licencié en décret (Paris) avant ;; Maître en décret (Paris) ?.
+Academic relationships: Son élève est Guillelmus de VALLA pour la licence en décret en (16 février) ; Son élève est Johannes BARRETI pour la licence en décret en (16 février) ; Son élève est Alexandre de LAWEDRE pour la licence en décret en (3 février) ; Son élève est Johannes RICHON pour la licence en décret en (3 février) ; Son élève est Jacobus ANLORI pour la licence en décret en (3 février) ;.
+University functions: Paris (Faculté de Décret : Maître-régent en ) ;; Paris (Faculté de Décret : Maître-régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 21/04/2022..

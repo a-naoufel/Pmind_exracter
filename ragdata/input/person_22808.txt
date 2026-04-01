@@ -1,0 +1,9 @@
+PERSON: STEPHANUS de Sancto Christoforo
+Also known as: Stephanus de SANCTO CHRISTOFORO; Stephanus de SANCTO XRISTOFORO.
+Description: Propriétaire d'une maison.
+Status: Extérieur.
+Gender: male.
+Active during: %1275-1275%.
+Studied at: ?.
+Ecclesiastical status: Prêtre..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 16/09/2024..

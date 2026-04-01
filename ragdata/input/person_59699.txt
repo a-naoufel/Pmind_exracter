@@ -1,0 +1,12 @@
+PERSON: THEODERICUS de Gouda 1
+Also known as: Theodericus de GOUDA.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1415-1416%.
+Born in: Pays-Bas (Hollande : Gouda)..
+Diocese of origin: Diocèse d'Utrecht..
+Studied at: Paris (Nation Anglo-allemande) %1415-1416% ;.
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Johannes JOHANNIS pour le baccalauréat en ; Son maître est Guillelmus SPALDIN pour la licence en ; Son maître est Johannes JOHANNIS pour la maîtrise en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 06/09/2025..

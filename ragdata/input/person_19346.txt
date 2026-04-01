@@ -1,0 +1,9 @@
+PERSON: MARTINUS Mousle
+Also known as: Martinus MOUSLE.
+Description: Papetier de Paris.
+Status: Suppôt.
+Gender: male.
+Active during: %1415-1416%.
+Studied at: Paris..
+University functions: Paris (Université : papetier ou marchand de papier de Paris)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 13/09/2023)..

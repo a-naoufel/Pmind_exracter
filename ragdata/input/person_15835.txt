@@ -1,0 +1,9 @@
+PERSON: CORNELIUS Broche
+Also known as: Cornelius BROCHE.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1448-1448%.
+Studied at: Paris %1448-1448%..
+Academic grades obtained: Bachelier en décret (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tourneroux ; révision, Jean-Philippe Genet, 28/04/2021)..

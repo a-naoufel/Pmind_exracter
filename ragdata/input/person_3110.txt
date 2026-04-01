@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS Sainte
+Also known as: Gilles SAINTE; Gilles SANCTE; Aegidius de SANCTE; Gilles SANTE.
+Description: Maître en médecine à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1403-1418%.
+Diocese of origin: Île-de-France (Arcy-Sainte-Restitue ?)..
+Studied at: Paris (Nation de France) %1414-1418%..
+Academic grades obtained: Étudiant ès arts .; Maître ès arts .; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+College affiliation: Boursier au collège de Dormans-Beauvais en .; Hôte au collège de Dormans-Beauvais en ..
+Family relationships: Son frère est Jean SAINTE, Maître du Collège de Dormans-Beauvais..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet 12/05/2020)..

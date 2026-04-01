@@ -1,0 +1,14 @@
+PERSON: BARTHOLOMAEUS de Lastic
+Also known as: Bartholomeus de LASTIC.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1480-1480%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse de Saint-Flour..
+Studied at: Paris %1480-1480%..
+Academic grades obtained: Bachelier en décret (Paris) (28 juillet)..
+Family relationships: Son frère est Bernardus de LASTIC, Bachelier en décret le même jour..
+Social origin: Noble..
+Ecclesiastical status: Clerc..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux : révision, Jean-Philippe Genet, 11/12/2020..

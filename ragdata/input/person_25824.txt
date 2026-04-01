@@ -1,0 +1,14 @@
+PERSON: PETRUS de Verberia 1
+Also known as: Pierre de VERBERIE.
+Description: Chanoine du Val des Écoliers.
+Status: Maître.
+Gender: male.
+Active during: %1334-1334%.
+Born in: Île-de-France (Verberie) ;.
+Diocese of origin: Diocèse de Senlis ?.
+Studied at: Paris ..
+Academic grades obtained: Maître en théologie (Paris) ..
+College affiliation: Paris (Sainte-Catherine)..
+Religious order: Chanoinerégulier (Val des Écoliers) au Prieuré de Royallieu ;.
+Religious functions: Prieur (O.S.A. Val des Écoliers) de Troyes ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 27/03/2019..

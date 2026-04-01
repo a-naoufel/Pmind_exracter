@@ -1,0 +1,10 @@
+PERSON: PETRUS de Dijon
+Also known as: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1259-1259%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Langres ?.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) vers ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/02/2022)..

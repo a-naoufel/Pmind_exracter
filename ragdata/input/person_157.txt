@@ -1,0 +1,10 @@
+PERSON: AEGIDIUS 6
+Also known as: AEGIDIUS.
+Description: Submonitor et cocus.
+Status: Suppôt.
+Gender: male.
+Active during: %1409-1409%.
+Studied at: Paris (Nation Anglo-allemande)..
+Academic grades obtained: ?.
+University functions: Submonitor et cocus de la maison de Johannes CADART..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019)..

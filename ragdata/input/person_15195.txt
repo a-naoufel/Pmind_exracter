@@ -1,0 +1,10 @@
+PERSON: SIMON Delaunay
+Also known as: Simon DELAUNAY; Simon de LAUNOY; Simon de LANNOY; Simon de LANNOYS.
+Description: Bachelier en médecine.
+Status: Gradué.
+Gender: male.
+Active during: %1507-1525%.
+Born in: Anjou-Maine (LeMans)..
+Studied at: Paris %1507-1510%..
+Academic grades obtained: Bachelier en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 13/09/2024..

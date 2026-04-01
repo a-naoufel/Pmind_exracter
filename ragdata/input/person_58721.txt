@@ -1,0 +1,13 @@
+PERSON: PETRUS Piscator
+Also known as: Petrus PISCATOR; Pierre PECHEUR.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1475-1480%.
+Born in: Rhénanie (Francfort) ?.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) %1479-1480%..
+Religious order: O.F.M. : frère franciscain..
+Authored work: '(Epistolae)', composed around ?.
+Source: Répertoire des auteurs franciscains préparé par Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress :.

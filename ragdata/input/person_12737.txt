@@ -1,0 +1,12 @@
+PERSON: ANTHONIUS de Sancto Albino
+Also known as: Anthonius de SANCTOALBINO; Anthonius de SAINT-ALBAIN; Anthonius de SAINT-AUBIN.
+Description: Licencié en droit canon.
+Status: Maître.
+Gender: male.
+Active during: %1464-1488%.
+Born in: Berry ?.
+Diocese of origin: Diocèse de Bourges..
+Studied at: Paris %1464-1488%..
+Academic grades obtained: Licencié en décret (Paris) ..
+Religious order: O.S.B. moine bénédictin.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; Jean-Philippe Genet, dernière mise à jour 28/09/2020)..

@@ -1,0 +1,9 @@
+PERSON: ROBERTUS Leguere
+Also known as: Robertus LEGUERE.
+Description: Exercice illicite de la médecine..
+Status: Extérieur.
+Gender: male.
+Active during: %1322-1322%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 25/03/2022..

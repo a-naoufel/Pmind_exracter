@@ -1,0 +1,11 @@
+PERSON: ADAM de Augo
+Also known as: Adam de AUGO.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1223-1245%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+Ecclesiastical status: Sous-diacre ;.
+Ecclesiastical positions held: Chanoine de Rouen %1223-1245% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019)..

@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Burgensis 3
+Also known as: Guillelmus BURGENSIS; Guillaume de BOURG.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1437-1466%.
+Studied at: Paris %1437-1449%.
+Academic grades obtained: Bachelier biblique (Paris) .; Licencié en théologie (Paris) (le 29 janvier) ;; Docteur en théologie (Paris) (le 24 novembre) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins) en ?.
+Religious order: O.P. : frère du couvent (dominicain) de Lyon (province de France)..
+Religious functions: Prieur du couvent de Lyon entre %1464-1468% ;.
+University functions: Paris (Faculté de Théologie : lecteur de la Bible au couvent dominicain en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 1/03/2021)..

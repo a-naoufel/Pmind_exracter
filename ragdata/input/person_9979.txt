@@ -1,0 +1,13 @@
+PERSON: PETRUS Strangonis
+Also known as: Petrus STRANGONIS; Petrus Strangonis de DACIA.
+Description: Chanoine.
+Status: Maître.
+Gender: male.
+Active during: %1329-1343%.
+Born in: Danemark.
+Studied at: Paris (Nationanglaise) %1329-1333%..
+Academic grades obtained: Maître ès arts (Paris) ..
+Academic relationships: Maître de NICHOLAUS Londe (licence), ..
+Ecclesiastical positions held: Chanoine de Roskilde (cathédrale), ;; Chantre de Roskilde (cathédrale)?, %1342-1343%..
+University functions: Maîtrerégent de la Faculté des arts de Paris %:1332:-:1333:%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Révision Élisabeth Mornet, 20/08/2018..

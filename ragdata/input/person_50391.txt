@@ -1,0 +1,11 @@
+PERSON: MATTHAEUS Gruyer
+Also known as: Mathieu GRUYER.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Gradué.
+Gender: male.
+Active during: %1479-1479%.
+Studied at: Paris ..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+College affiliation: Collège de Dormans-Beauvais : boursier ;.
+Family relationships: Son parent est peut-être Michael GRUYER ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 16/09/2019..

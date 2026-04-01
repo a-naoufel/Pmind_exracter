@@ -1,0 +1,9 @@
+PERSON: ARNULPHUS Hugonis
+Also known as: Arnulphus HUGONIS.
+Description: Bachelier Décret.
+Status: Gradué.
+Gender: male.
+Active during: %1443-1443%.
+Studied at: Paris %1443-1443%..
+Academic grades obtained: Bachelier en décret (Paris) (le 16 mai) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet 17/11/2020..

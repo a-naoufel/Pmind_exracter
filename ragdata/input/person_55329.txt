@@ -1,0 +1,11 @@
+PERSON: ANCELLUS
+Also known as: ANSELLUS.
+Description: Chantre du Saint-Sépulcre de Jérusalem.
+Status: Étudiant.
+Gender: male.
+Active during: %1084-1109%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) %1084-1088%..
+Ecclesiastical positions held: Chantre de Jérusalem (Saint-Sépulcre)..
+Authored work: 'Epistola', composed around ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 14/08/2017..

@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Monasterio 2
+Also known as: Guillelmus de MONASTERIO; Guillermus de MONASTERIO.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1498-1498%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Coutances..
+Studied at: Paris %1498-1498%..
+Academic grades obtained: Bachelier en décret (Paris) (7 avril) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 07/05/2015 ; révision, Jean-Philippe Genet, 16/12/2020..

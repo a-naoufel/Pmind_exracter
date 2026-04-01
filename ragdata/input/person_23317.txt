@@ -1,0 +1,11 @@
+PERSON: DURANDUS Hispanus 2
+Also known as: Durandus HISPANUS.
+Description: Maître.
+Status: Étudiant.
+Gender: male.
+Active during: %1484-1484%.
+Born in: Espagne ?.
+Studied at: Paris ;.
+Academic grades obtained: Maître (ès arts ?) .; Étudiant (en théologie ?) à Paris en ..
+College affiliation: Sorbonne : hôte ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 8/05/2018)..

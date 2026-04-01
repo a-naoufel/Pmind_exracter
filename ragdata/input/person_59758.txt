@@ -1,0 +1,11 @@
+PERSON: FREDERICUS de Blankenheim
+Also known as: Fredericus de BLANKENHEIM.
+Description: Évêque d’Utrecht.
+Status: Étudiant.
+Gender: male.
+Active during: %1373-1423%.
+Born in: Rhénanie (Kasselburg ?) ?.
+Studied at: Paris ?; Maître ès arts (université inconnue) en ;; Bachelier en décret (université inconnue) en ;; Étudiant en décret (Paris) ;.
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine d’Utrecht ;; Doyen de Trèves ;; Évêque de Strasbourg %1375-1393% ;; Administrateur de l’évêché de Bâle %1391-1393% ;; Évêque d’Utrecht %1393-1423% ;.
+Source: RAG ;.

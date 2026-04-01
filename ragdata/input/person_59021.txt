@@ -1,0 +1,10 @@
+PERSON: HUGO Malifabri
+Also known as: Hugo MALIFABRI; Hugues MAUFÈVRE.
+Description: Chanoine de Châlons-en-Champagne.
+Status: Incertain.
+Gender: male.
+Active during: %1394-1411%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Curé de Sainte-Menehould %1394-1411% ;; Chanoine de Châlons-en-Champagne ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 07/06/2025.

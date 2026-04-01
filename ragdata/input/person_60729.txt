@@ -1,0 +1,13 @@
+PERSON: BRICIUS de Landrechies
+Also known as: Brictius de LANDRECHIES.
+Description: Chanoine de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1238-1242%.
+Born in: Cambrésis (Landrecies ?) ?.
+Diocese of origin: Diocèse de Cambrai ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Diacre ;.
+Ecclesiastical positions held: Chanoine de Cambrai %1238-1242% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/12/2025)..

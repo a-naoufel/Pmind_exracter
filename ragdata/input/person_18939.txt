@@ -1,0 +1,14 @@
+PERSON: LEO Consilii
+Also known as: Leo CONSILII.
+Description: Chancelier de Bayeux.
+Status: Maître.
+Gender: male.
+Active during: %1464-1526%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Bayeux ;.
+Studied at: Paris (Nation de Normandie ?) en ;<6b> Chanoine de Rouen %1490-1526% ;.
+Academic grades obtained: Maître ès arts à Paris en ?; Licencié en décret (Paris) ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Prieur de Veigné (Saint-Maixent) depuis ;; Chancelier de Bayeux ;; Chanoine d'Avranches jusqu'en ;; Chanoine de Rouen %1490-1526% ;; Curé de Rouen (Saint-Sauveur) %1491-1508% ;.
+Other ecclesiastical functions: Vicairegénéral de Bayeux %1500-1505% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 29/08/2015..

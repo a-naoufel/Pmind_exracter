@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Harricuria
+Also known as: Guillelmus de HARRICURIA; Guillaume de HARAUCOURT.
+Description: Évêque de Verdun.
+Status: Maître.
+Gender: male.
+Active during: %1444-1500%.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Family relationships: Son père est Gérard de HARAUCOURT, sénéchal de Barrois ;.
+Academic relationships: Son maître pour le baccalauréat et la maîtrise est Gauffridus CALVI ;.
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine de Verdun ;; Archidiacre d'Argonne ;; Prévôt de Montfaucon ;; Évêque de Verdun %1457-1500% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 26/03/2022..

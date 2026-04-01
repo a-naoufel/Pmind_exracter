@@ -1,0 +1,21 @@
+PERSON: RADULPHUS de Cheneveriis
+Also known as: Radulphus de CHENEVERIIS; Radulphus de CABANERIIS; Raoul de CHENNEVIÈRES.
+Description: Professeur de droit.
+Status: Étudiant.
+Gender: male.
+Active during: %1268-1296%.
+Born in: Île-de-France (Chennevières ?) ?.
+Studied at: Paris ;; Orléans..
+Academic grades obtained: Étudiant en droit canon à Paris ;; Étudiant en droit civil à Orléans..
+Academic relationships: Son maître est Jacques de RÉVIGNY..
+Social origin: Noble ?.
+Ecclesiastical positions held: Chanoine d’Orléans (Sainte-Croix) avant ;; Chanoine de Bourges (Saint-Aignan) ;; Chanoine d’Orléans ?.
+Other ecclesiastical functions: Conseiller du doyen de LeMans ;; Official d’Orléans ?%1283-1285%..
+University functions: Orléans (Professeur de droit civil vers %1280-1297%..
+Representation roles: Il est présent au Concile de Lyon en ..
+Authored work: 'Repetitio de vigore consuetudinis', composed around ?.
+Authored work: 'Super titulum de litterarum obligationibus', composed around ?.
+Authored work: 'Repetitio in cap. tit. (X 5.39.27)', composed around %1285-1287% ;.
+Authored work: '(Repetitio sur Nov. 32, coll. 3 Volentes)', composed around (version 1) et (version 2) ;.
+Authored work: 'Additiones ad Codicem', composed around ?.
+Source: MIRABILE : Beatrice BARAGATTI :.

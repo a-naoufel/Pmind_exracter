@@ -1,0 +1,9 @@
+PERSON: THOMAS Comes Sabaudie
+Also known as: Thomas de SAVOIE; Thomas de PIÉMONT.
+Description: Seigneur de Piémont.
+Status: Extérieur.
+Gender: male.
+Active during: %1219-1259%.
+Family relationships: Son père est THOMAS, comte de Savoie ; Son frère est AMÉDÉE IV, comte de Savoie ; Sa femme est JEANNE de Flandre, comtesse de Flandre ; Son neveu est BONIFACE, comte de Savoie ;.
+Social origin: Noble ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/03/2024..

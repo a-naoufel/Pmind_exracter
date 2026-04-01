@@ -1,0 +1,8 @@
+PERSON: MATHILDA
+Also known as: MATHILDA.
+Description: Épouse du tavernier Johannes de SANCTO-AUDEMARO.
+Status: Extérieur.
+Gender: female.
+Active during: %1322-1322%.
+Family relationships: Son mari est Johannes de SANCTO-AUDEMARO, tavernier..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 13/09/2023)..

@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Quercy
+Also known as: Guillaume de QUERCY.
+Description: Boursier du collège de Maître Gervais.
+Status: Étudiant.
+Gender: male.
+Active during: %1492-1492%.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant en théologie (Paris) ;.
+College affiliation: Collège de Maître-Gervais : socius ;; Collège de Maître-Gervais : grand boursier théologien en ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Curé de Martot ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet 16/09/2020..

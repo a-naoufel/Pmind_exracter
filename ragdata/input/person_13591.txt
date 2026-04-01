@@ -1,0 +1,13 @@
+PERSON: PETRUS Du Myr
+Also known as: Petrus du MYR; Petrus du MIR; Petrus OLERII; Petrus de GRANDISILVA.
+Description: Cistercien.
+Status: Maître.
+Gender: male.
+Active during: %1370-1415%.
+Studied at: Paris %1383-1385%..
+Academic grades obtained: Licencié en théologie (Paris) ..
+College affiliation: Collège Saint-Bernard.; Proviseur du collège Saint-Bernard à Paris ;.
+Religious order: O.Cist. : moine (cistercien) de l'abbaye de Grandselve en ;.
+Religious functions: Procureur de l'Ordre cistercien à la cour pontificale en ;; Abbé de Grandselve depuis %1399-1400% et au moins jusqu'en ;.
+University functions: Paris (Faculté de Théologie : Maître régent au collège Saint-Jacques à Paris en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 11/03/2024..

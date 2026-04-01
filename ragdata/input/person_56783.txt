@@ -1,0 +1,11 @@
+PERSON: RADULPHUS Sancti
+Also known as: Radulphus SANCTI.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1449-1449%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Tréguier ;.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/10/2023..

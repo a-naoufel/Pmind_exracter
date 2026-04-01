@@ -1,0 +1,10 @@
+PERSON: MATTHAEUS 4
+Also known as: MATTHAEUS.
+Description: Chanoine de Troyes.
+Status: Incertain.
+Gender: male.
+Active during: %1269-1269%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Troyes ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 08/05/2023..

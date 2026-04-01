@@ -1,0 +1,12 @@
+PERSON: HENRICUS de Laimozuan
+Also known as: Henri de LAIMOZUAN.
+Description: Boursier du collège de Cornouaille.
+Status: Étudiant.
+Gender: male.
+Active during: %1398-1398%.
+Born in: Bretagne (Cornouaille) ;.
+Diocese of origin: Diocèse de Quimper..
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Cornouaille : boursier en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 06/04/2025..

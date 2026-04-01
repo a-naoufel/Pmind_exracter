@@ -1,0 +1,12 @@
+PERSON: THEODERICUS Ruisselet
+Also known as: Thierron RUISSELET.
+Description: Boursier au Collège de Laon.
+Status: Étudiant.
+Gender: male.
+Active during: %1459-1462%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie) %1459-1461% ;.
+Academic grades obtained: Étudiant ès arts (Paris) %1459-1461% ;; Étudiant en théologie (Paris) %1461-1462% ;.
+College affiliation: Collège de Laon : boursier ès arts %1459-1461% ;; Collège de Laon : boursier en théologie %1461-1462% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 27/01/2024..

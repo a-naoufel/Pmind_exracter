@@ -1,0 +1,15 @@
+PERSON: GUILLELMUS Dunelmensis
+Also known as: Guillelmus DUNELMENSIS; Guillaume de DEREYMES; Guillaume de DURIAUME; Guillaume de DURAIMES; Guillaume de DURAMES; Guillaume de DURHAM.
+Description: Archevêque de Rouen.
+Status: Maître.
+Gender: male.
+Active during: %1220-1248%.
+Born in: Angleterre..
+Studied at: Oxford ;; Paris %:1226-1229%..
+Academic grades obtained: Maître en théologie (Paris) %1226-1229%..
+Academic relationships: Son élève est Etienne de BOURBON ; Mathieu PARIS en parle comme d'un maître fameux..
+Ecclesiastical positions held: Archidiacre de Durham ;; Recteur de Wearmouth ;; Archevêque de Rouen ou ..
+University functions: Paris (Faculté de Théologie : Maîtrerégent vers ?%1226-1229%?) ;; ?Oxford (Faculté de Théologie : Maîtrerégent après )..
+Authored work: 'Summa [Quaestiones theologicae]', composed around ?.
+Authored work: '(Sermones)', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

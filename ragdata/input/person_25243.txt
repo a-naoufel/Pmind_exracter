@@ -1,0 +1,13 @@
+PERSON: PETRUS Alvares
+Also known as: Petrus ALVARES.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1414-1414%.
+Born in: Portugal ;.
+Studied at: Paris % -1414% ;.
+Academic grades obtained: Étudiant (Paris) % -1414% ;.
+College affiliation: Couvent des Cordeliers : étudiant en ;.
+Religious order: O.F.M..
+Authored work: '?', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 3/01/2018)..

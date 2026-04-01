@@ -1,0 +1,10 @@
+PERSON: AMADEUS de Mercono
+Also known as: Amedeus de MERCONO; Amedeus de MERCORIO.
+Description: Bachelier en droit canon.
+Status: Gradué.
+Gender: male.
+Active during: %1446-1464%.
+Studied at: Paris %1446-1464%..
+Academic grades obtained: B.achelier en décret (Paris) ..
+University functions: Paris (Faculté de Décret : lecteur des Décrétales (1er cours) en (22 octobre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 17/07/2020)..

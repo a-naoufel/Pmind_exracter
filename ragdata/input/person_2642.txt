@@ -1,0 +1,11 @@
+PERSON: GAZO de Monte Lethoricae
+Also known as: Gazon de MONTHLERY; Gazo de MONTE LETHORICAE.
+Description: Chanoine de Laon.
+Status: Maître.
+Gender: male.
+Active during: %1308-1323%.
+Studied at: Paris ;; Paris ?.
+Academic grades obtained: Magister (Paris) ?.; Docteur en droit civil..
+Ecclesiastical positions held: Chanoine de Laon %1308-1323%..
+Other ecclesiastical functions: Official de Laon en ;; Service de l'évêque de Cambrai en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/11/2021..

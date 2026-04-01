@@ -1,0 +1,10 @@
+PERSON: REGINALDUS de Monthelon
+Also known as: Reginaldus de MONTHELON.
+Description: Héritier d’un débirentier du collège de Dainville.
+Status: Extérieur.
+Gender: male.
+Active during: %1506-1510%.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Son parent est Johannes de MONTHELON ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

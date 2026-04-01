@@ -1,0 +1,13 @@
+PERSON: MENGUILUS Frezour
+Also known as: Menguilus FREZOUR.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1389-1394%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Saint-Brieuc ?.
+Studied at: Paris %1389-1394% ;.
+Academic grades obtained: Étudiant en décret (Paris) en %1389-1394% ;.
+Ecclesiastical status: Prêtre du diocèse de Saint-Brieuc en ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus présenté par Elias de LESTRANGE, évêque de Saintes à BENOÎT XIII en (25-29 octobre) à Avignon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : rédaction, Jean-Philippe Genet, 9/02/2019..

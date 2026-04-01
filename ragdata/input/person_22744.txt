@@ -1,0 +1,8 @@
+PERSON: ROGARIUS Le Peletier
+Also known as: Rogerus LE PELETIER.
+Description: Bourgeois de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1284-1284%.
+Social origin: Bourgeois de Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 05/09/2024)..

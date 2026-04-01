@@ -1,0 +1,11 @@
+PERSON: RADULPHUS de Bonavilla
+Also known as: Radulphus de BONAVILLA; Raoul de BONNEVILLE.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1378-1406%.
+Studied at: Paris %1378-1378%.
+Academic grades obtained: Licencié en théologie (Paris) ;; Docteur en théologie (Paris) (le 1er décembre) ..
+Religious order: Dominicain.
+University functions: Lecteur des Sentences à Paris en ;.
+Authored work: 'Tractatus magistri sacri palatii responsius ad rationes quorundam theologorum contra Clementem factas', composed around Avignon en mai ..

@@ -1,0 +1,12 @@
+PERSON: PETRUS Gontier
+Also known as: Petrus GONTIER.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1454-1456%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Sens ;.
+Studied at: Paris (Nation de France) %1454-1455%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+College affiliation: Collège de Dainville : boursier en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

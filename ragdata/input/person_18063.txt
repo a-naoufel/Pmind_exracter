@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Vaccaria 2
+Also known as: Guillelmus de VACCARIA; Guillermus de VACCARIA; Guillermus de VACCARIA alias BOQUILLON.
+Description: Licencié en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1492-1492%.
+Diocese of origin: Diocèse de Thérouanne..
+Studied at: Paris %1492-1492%..
+Academic grades obtained: Licencié en décret (Paris) 11 avril ..
+Academic relationships: Son maître est Robert GUAGUIN en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 07/05/2015 ; révision Jean-Philippe Genet, 22/04/2022..

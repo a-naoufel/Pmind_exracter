@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Haquin
+Also known as: Guillemin HAQUIN.
+Description: Écolier boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1417-1417%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Soissons ;.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Dormans-Beauvais : écolier boursier ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 27/10/2018..

@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Guerin 1
+Also known as: Guillelmus GUERIN.
+Description: Abbé de Montebourg.
+Status: Gradué.
+Gender: male.
+Active during: %1423-1463%.
+Studied at: Paris %1423-1429%..
+Academic grades obtained: Bachelier en décret (Paris) en ;.
+Academic relationships: Son maître est Johannes de SERVAVILLA en %1423-1429%..
+Religious order: O.S.B..
+Religious functions: Abbé de Montebourg (diocèse de Coutances) en %1429-1463%?..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol, 8/02/2013 ; révision, Jean-Philippe Genet 29/03/2022..

@@ -1,0 +1,7 @@
+PERSON: BARTHOLOMAEUS de Saine
+Also known as: Berthelevit de SAINE.
+Description: Épicier à Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1322-1322%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 12/12/2020..

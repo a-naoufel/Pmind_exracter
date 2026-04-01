@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Le Mien
+Also known as: Guillelmus le MIEN.
+Description: Procureur au Châtelet.
+Status: Extérieur.
+Gender: male.
+Active during: %1426-1426%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : rédaction : Jean-Philippe Genet, 13/05/2022..

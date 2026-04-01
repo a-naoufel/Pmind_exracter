@@ -1,0 +1,9 @@
+PERSON: GERARDUS de Dola
+Also known as: Gerardus de DOLA; Gérard de DOLE.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1278-1278%.
+Studied at: Paris ..
+Academic grades obtained: Bachelier ès arts (Paris) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 06/01/2022..

@@ -1,0 +1,11 @@
+PERSON: PHILIPPUS Graevio
+Also known as: Philippus GRAEVIO; Philippe de GREVE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1200-1225%.
+Studied at: Paris %1200-1225%..
+Academic grades obtained: Maître ès arts (Paris) %1200-1225%..
+Family relationships: Son père est Philippe de GREVE, bourgeois de Paris..
+Social origin: Bourgeois de Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 05/04/2024..

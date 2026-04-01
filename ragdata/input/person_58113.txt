@@ -1,0 +1,11 @@
+PERSON: PETRUS Joliveti
+Also known as: Petrus JOLIVETI.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1428-1432%.
+Studied at: Paris %1428-1432%..
+Academic grades obtained: Maître ès arts (Paris ?) ?; Bachelier en décret (Paris) ;; Licencié en décret (Paris) en ;.
+Academic relationships: Son maître est l’abbé de Sainte-Catherine pour la licence en ;.
+University functions: Paris (Faculté de Décret : lecteur des Décrétales (L. IV) en (30 novembre) pour la 1ere année pour le 1er volume) ;; Paris (Faculté de Décret : lecteur des Décrétales (L. V) en pour la 2e année pour le 2e volume) ;; Paris (Faculté de Décret : lecteur des Décrétales (L. VI) en (11 octobre) pour la 3e année pour le 3e volume) ;; Paris (Faculté de Décret : lecteur des Décrétales (L. V) en pour la 4e année pour le 4e volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 02/10/2024..

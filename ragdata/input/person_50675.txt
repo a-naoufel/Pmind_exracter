@@ -1,0 +1,13 @@
+PERSON: PETRUS de Salgis
+Also known as: Petrus de SALGIS.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1342-1354%.
+Studied at: Toulouse ?; Paris ..
+Academic grades obtained: Bachelier en théologie (Paris) ;; Maître en théologie (Paris) ;.
+College affiliation: Covent (dominicain) de Paris (Jacobins) ..
+Religious order: O.P. : frère dominicain ;.
+Religious functions: Prieur du couvent (dominicain) de Toulouse % -1342% ;; Inquisiteur (dominicain) de la province de Toulouse en ;.
+University functions: Toulouse (Couvent dominicain : lecteur en ) ;; Paris (Faculté de Théologie : lecteur des Sentences en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 21/03/2020..

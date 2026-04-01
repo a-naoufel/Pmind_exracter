@@ -1,0 +1,10 @@
+PERSON: ADAM de Kininmund
+Also known as: Adam de KININMUND.
+Description: Bachelier ès arts..
+Status: Gradué.
+Gender: male.
+Active during: %1344-1344%.
+Born in: Écosse..
+Studied at: Paris..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

@@ -1,0 +1,10 @@
+PERSON: ARRODUS
+Also known as: ARRODUS.
+Description: Chanoine de Saint-Merry.
+Status: Incertain.
+Gender: male.
+Active during: %1325-1325%.
+Studied at: ?Paris..
+Academic grades obtained: Magister..
+Ecclesiastical positions held: Chanoine de Paris (Saint-Merry)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet 17/11/2020..

@@ -1,0 +1,12 @@
+PERSON: SIMON de Hubervilla
+Also known as: Simon de HUBERVILLA.
+Description: ?Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1328-1328%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Coutances..
+Studied at: ?Paris %1328-1328%..
+Academic grades obtained: ?Maître en médecine (Paris) ..
+Ecclesiastical positions held: Clerc du diocèse de Coutances ;; Obtention d'une expectative de prébende dans le diocèse de Coutances en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 05/09/2024..

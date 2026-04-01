@@ -1,0 +1,7 @@
+PERSON: NICOLAUS Gibuin
+Also known as: Nicholaus GIBUIN.
+Description: Bourgeois de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1200-1200%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/10/2023)..

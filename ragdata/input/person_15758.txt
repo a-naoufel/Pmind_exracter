@@ -1,0 +1,12 @@
+PERSON: BERNARDUS Roberti
+Also known as: Bernardus ROBERTI.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1482-1482%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Mâcon..
+Studied at: Paris %1482-1482%..
+Academic grades obtained: Bachelier en décret (Paris) ..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (1ere année) en (16 janvier)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 20/02/2021).

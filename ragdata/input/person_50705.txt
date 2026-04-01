@@ -1,0 +1,9 @@
+PERSON: EMELINA de Conti
+Also known as: Emelina de CONTI.
+Description: Abbesse de Notre-Dame de Soissons.
+Status: Extérieur.
+Gender: female.
+Active during: %1309-1327%.
+Religious order: O.S.B. : moniale bénédctine ;.
+Religious functions: Abbesse (bénédictine) de Soissons (Notre-Dame) %1309-1327%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 26/03/2020..

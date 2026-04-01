@@ -1,0 +1,11 @@
+PERSON: ANDREAS de Vinea
+Also known as: Andreas de VINEA.
+Description: Nonce pour le diocèse de Tulle.
+Status: Suppôt.
+Gender: male.
+Active during: %1456-1456%.
+Born in: Berry ?.
+Diocese of origin: Diocèse de Bourges ;.
+Studied at: Paris (Nation de France) ..
+University functions: Paris (Nation de France : nonce pour le diocèse de Tulle ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 12/08/2020)..

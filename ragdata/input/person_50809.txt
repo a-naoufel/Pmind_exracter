@@ -1,0 +1,16 @@
+PERSON: GUILLELMUS de Parisius 1
+Also known as: Guillelmus de PARISIIS; Guillelmus de PARISIUS.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1297-1314%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris ?.
+Studied at: Paris..
+Academic grades obtained: ?Étudiant (Paris)..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Paris (Saint-Jacques)..
+Religious functions: Inquisiteur pour le royaume de France en (juillet) au plus tard ;.
+Authored work: 'Dialogus de septem sacramentis%', composed around Avant pour la première version, %1300-1314% pour la seconde, le remaniement n’étant pas forcément l’oeuvre de l’auteur : un ‘compendium de théologie pastorale’..
+Authored work: 'Tabula super Decretales et Decreta', composed around ..
+Source: MIRABILE : Andrea CENCINI :.

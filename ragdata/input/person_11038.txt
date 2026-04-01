@@ -1,0 +1,11 @@
+PERSON: ROBERTUS Aegidii
+Also known as: Robertus AEGIDII; Robertus EGIDII; Robert GILLES; Robert LE FERRON.
+Description: Licencié en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1395-1415%?.
+Studied at: Paris.
+Academic grades obtained: Licencié en théologie (Paris).
+Religious order: Cistercien.
+Religious functions: Abbé de LaNoë en %1396-1415%?..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 05/07/2024..

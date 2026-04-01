@@ -1,0 +1,12 @@
+PERSON: PETRUS de Vaulx
+Also known as: Pierre de VAULX; Perrenet de VAILX-LEZ-COMPIENGNE.
+Description: Boursier au collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1402-1402%.
+Born in: Picardie (Vaulx-lez-Compiègne ?) ;.
+Diocese of origin: Diocèse de Soissons ;.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ;.
+College affiliation: Collège de Dormans-Beauvais : boursier ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 06/12/2019..

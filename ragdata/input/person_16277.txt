@@ -1,0 +1,9 @@
+PERSON: ANTHONIUS 2
+Also known as: ANTHONIUS.
+Description: Nonce de la nation de France pour le diocèse de Mâcon.
+Status: Suppôt.
+Gender: male.
+Active during: %1445-1445%.
+Studied at: Paris (Nation de France)..
+University functions: Paris (Nation de France : nonce pour le diocèse de Mâcon)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 6/08/2020)..

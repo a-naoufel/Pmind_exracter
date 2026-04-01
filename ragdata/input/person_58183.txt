@@ -1,0 +1,20 @@
+PERSON: MARCHESINUS da Regio
+Also known as: Marchesinus de REGIO; Johannes MARCHESINUS; Marcheso da REGGIO.
+Description: Franciscain.
+Status: Extérieur.
+Gender: male.
+Active during: %1275-1279%.
+Born in: Emilie (RegioLepidi près de Modène)..
+Studied at: ?Bologne..
+Academic grades obtained: ?.
+Religious order: O.F.M. : frère franciscain de la province de Bologne..
+University functions: Bologne (lecteur) ?.
+Authored work: 'Mammotrectus', composed around ?%1279-1297%.
+Authored work: 'Centiloquium', composed around ?.
+Authored work: 'Sermones fratris Marchesini super omnia festa nostri kalendarii, id est Ordinis fratrum minorum', composed around ?.
+Authored work: 'Sermones Mammotrecti super Dominicas a prima adventus ad vigesimam quartam post Pentecosten', composed around ?.
+Authored work: 'Tractatus de poenis peccatorum diversimode nuncupatis', composed around ?.
+Authored work: 'Tractatus de vitiis', composed around ?.
+Authored work: 'De passione domini', composed around ?.
+Authored work: 'Confessionale', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 1/11/2024..

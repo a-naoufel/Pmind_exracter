@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Malet 1
+Also known as: Guillelmus MALET.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1279-1279%.
+Studied at: Paris avant ..
+Academic grades obtained: Maître (Paris)..
+College affiliation: Collège du Trésorier ;.
+Ecclesiastical positions held: Recteur de Bliquetuit, aujourd'hui Notre-DamedeBliquetuit, en lisière de la forêt de Brotonne..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 31/03/2020..

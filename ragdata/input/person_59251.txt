@@ -1,0 +1,12 @@
+PERSON: PETRUS Porrete
+Also known as: Petrus PORRETE.
+Description: Chanoine d’Auxerre.
+Status: Incertain.
+Gender: male.
+Active during: %1223-1223%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Auxerre ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine d’Auxerre ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 25/06/2025)..

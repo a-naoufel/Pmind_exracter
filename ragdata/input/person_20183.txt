@@ -1,0 +1,12 @@
+PERSON: FERRICUS de Wandricourt
+Also known as: Ferricus de WANDRICOURT.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1478-1478%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse d'Amiens..
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Academic relationships: Son maître est Johannes de RUELLA pour le baccalauréat en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 2/08/2021)..

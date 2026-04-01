@@ -1,0 +1,10 @@
+PERSON: ANTHONIUS de Bridieu
+Also known as: Antoine de BRIDIEU.
+Description: Boursier du Collège de Chanac.
+Status: Étudiant.
+Gender: male.
+Active during: %1451-1451%.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Chanac : boursier du collège en ;; Collège de Chanac : procureur du collège en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

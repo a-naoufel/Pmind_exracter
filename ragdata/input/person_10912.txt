@@ -1,0 +1,22 @@
+PERSON: ROBERTUS Bacon
+Also known as: Robert BACON.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1210-1248%.
+Born in: Angleterre..
+Studied at: Paris %;1214%.; Oxford %1214-1219% ?.
+Academic grades obtained: Magister (Paris ?) ;; Docteur en théologie (Paris) ..
+Family relationships: Son parent est (peut-être) Roger BACON, O.F. M...
+Academic relationships: Son maître est Jean d'ABBEVILLE. Son élève est Richard FISHACRE..
+Religious order: Dominicain : couvent (dominicain) d'Oxford vers %1227-1229% ?.
+Ecclesiastical positions held: Recteur de LowerHeyford (Oxfordshire) %1219-1227%..
+University functions: Oxford (Régent en Théologie à partir de %1227-1229%)..
+Authored work: 'Sermo', composed around ?.
+Authored work: 'Tractatus super psalterium', composed around ?.
+Authored work: 'Sermo de prima die Rogacionis', composed around ?.
+Authored work: 'Syncategoremata', composed around ?.
+Authored work: 'Veriloquium de sanctitate beati Cantuar. Archiepiscopi', composed around ?.
+Authored work: '(Sermon)', composed around ..
+Authored work: 'Summulae dialectices', composed around ?.
+Source: MIRABILE :.

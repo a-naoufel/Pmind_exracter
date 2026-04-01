@@ -1,0 +1,10 @@
+PERSON: PETRUS Oudevaux
+Also known as: Petrus OUDEVAUX; Pierre OUDEVAUX.
+Description: Boursier grammairien au collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1391-1391%.
+Studied at: Paris %1391-1391%..
+Academic grades obtained: Étudiant en grammaire (Paris) ..
+College affiliation: Boursier grammairien au collège de Navarre à Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 31/03/2024..

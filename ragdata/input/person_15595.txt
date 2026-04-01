@@ -1,0 +1,12 @@
+PERSON: ALANUS Michel
+Also known as: Alanus MICHEL.
+Description: Bachelier en droit canon.
+Status: Gradué.
+Gender: male.
+Active during: %1498-1498%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Sens..
+Studied at: Paris %1498-1498%..
+Academic grades obtained: Bachelier en décret (Paris) en (26 avril) ;.
+Ecclesiastical status: Clerc du diocèse de Sens..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 05/06/2020)..

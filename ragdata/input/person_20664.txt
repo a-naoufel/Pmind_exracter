@@ -1,0 +1,11 @@
+PERSON: RADULPHUS 5
+Also known as: RADULPHUS, abbé de Paris (Sainte-Geneviève).
+Description: Abbé de Sainte-Geneviève.
+Status: Incertain.
+Gender: male.
+Active during: %1244-1244%.
+Studied at: ?.
+College affiliation: Sainte-Geneviève ?.
+Religious order: O.S.A. : chanoine (augustin) de Paris (Sainte-Geneviève) en ..
+Religious functions: Abbé (augustin) de Paris (Sainte-Geneviève) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 19/02/2024)..

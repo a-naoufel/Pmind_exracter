@@ -1,0 +1,11 @@
+PERSON: PETRUS Lector Bergensis
+Also known as: Petrus LECTOR.
+Description: Franciscain.
+Status: Incertain.
+Gender: male.
+Active during: %1303-1303%.
+Born in: Norvège.
+Studied at: ?.
+Religious order: O.F.M: province de Dacie, ..
+Religious functions: Lecteur du couvent franciscain de Bergen, ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 19/11/2025..

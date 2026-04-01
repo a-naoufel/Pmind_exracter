@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Heevliet
+Also known as: Guillelmus de HEEVLIET; Guillaume de HEEVLIET.
+Description: Étudiant en médecine..
+Status: Étudiant.
+Gender: male.
+Active during: %1407-1408%.
+Studied at: Paris (Faculté de médecine) %1407-1408%..
+Academic grades obtained: Étudiant en médecine (Paris) %1407-1408%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 26/03/2022..

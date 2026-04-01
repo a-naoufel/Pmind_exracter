@@ -1,0 +1,12 @@
+PERSON: ANTHONIUS de Agincourt
+Also known as: Anthonius d'AGINCOURT.
+Description: Bachelier Décret.
+Status: Maître.
+Gender: male.
+Active during: %1498-1498%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Senlis..
+Studied at: Paris %1498-1498%..
+Academic grades obtained: Maître ès arts (Paris ?) ;; Bachelier en décret (Paris) (le 19 février) ..
+Ecclesiastical positions held: Clerc..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; Jean-Philippe Genet, dernière mise à jour 21/09/2020)..

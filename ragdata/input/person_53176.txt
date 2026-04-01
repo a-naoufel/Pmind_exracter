@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Staise
+Also known as: Guillelmus STAISE.
+Description: Prévôt de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1354-1362%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical status: Laïc..
+Source: Paris au Moyen Âge :.

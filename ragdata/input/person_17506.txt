@@ -1,0 +1,11 @@
+PERSON: VICTOR de Nivernis
+Also known as: Victor de NIVERNIS.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1490-1490%.
+Born in: Bourgogne ;.
+Diocese of origin: Diocèse de Nevers ;.
+Studied at: Paris %1490-1490%..
+Academic grades obtained: Bachelier en décret (Paris) 30 avril ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 14/10/2024..

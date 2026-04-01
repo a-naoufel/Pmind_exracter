@@ -1,0 +1,7 @@
+PERSON: ANSELMUS de Insulla
+Also known as: Ancelmus de INSULLA.
+Description: Propriétaire d’une maison.
+Status: Extérieur.
+Gender: male.
+Active during: %1286-1286%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/09/2020)..

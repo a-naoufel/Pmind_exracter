@@ -1,0 +1,11 @@
+PERSON: PETRUS Herecorne
+Also known as: Petrus HERECORNE.
+Description: Régulier.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+College affiliation: Collège Saint-Bernard ?.
+Religious order: O.Cist. ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/08/2016..

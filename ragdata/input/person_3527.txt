@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS Radicis 1
+Also known as: Guillelmus RADICIS; Guillaume RACINE.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1345-1357%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris %:1345-1349%..
+Academic grades obtained: Maître ès arts (Paris) ;; Maître en médecine (Paris) ..
+Ecclesiastical status: Clerc en ;; Prêtre ;.
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiastique à la collation de l’archevêque d’Auch en en réponse au rotulus de l’université de Paris : mandat à l’abbé de Paris (Sainte-Geneviève), au sacriste d’Avignon et à Dyonisius de DUCLARO ;; Recteur de l’égliseparoissiale de Rouen (Saint-Gervais) ;; Provision pour un bénéfice ecclésiastique à la collation de l’archevêque, du doyen et du chapitre de Rouen en en réponse au rotulus de l’université de Paris : mandat à l’abbé de Paris (Sainte-Geneviève), au sacriste d’Avignon et au prieur (O.S.A.) de Rouen (Saint-Lô) ;; Chanoine de Beauvais ;; Chanoine de Senlis..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/05/2020..

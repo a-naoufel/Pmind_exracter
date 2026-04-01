@@ -1,0 +1,9 @@
+PERSON: THOMAS Mautin
+Also known as: Thomas MAUTIN.
+Description: Bachelier en décret..
+Status: Gradué.
+Gender: male.
+Active during: %1416-1416%.
+Studied at: Paris %1416-1416%..
+Academic grades obtained: Bachelier en décret (Paris) (6 février)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20-09-2024.

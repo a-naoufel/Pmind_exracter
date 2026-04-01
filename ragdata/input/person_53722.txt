@@ -1,0 +1,10 @@
+PERSON: MICHAEL de Laillier
+Also known as: Michael de LAILLIER; Michaut de LALIER.
+Description: Prévôt des marchands.
+Status: Extérieur.
+Gender: male.
+Active during: %1407-1440%.
+Studied at: ?.
+Academic grades obtained: ?.
+Family relationships: Bourgeois de Paris ;.
+Source: Opération Charles VI (LAMOP) :.

@@ -1,0 +1,9 @@
+PERSON: ANDREAS Henrici
+Also known as: Andreas HENRICI.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1407-1407%.
+Studied at: Paris (Nation Anglo-allemande).
+Academic grades obtained: Bachelier ès arts ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 29/08/2020)..

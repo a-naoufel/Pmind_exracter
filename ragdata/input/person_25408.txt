@@ -1,0 +1,16 @@
+PERSON: OSBERN de Gloucester
+Also known as: Osbern de GLOUCESTER; Osbern PINNOCK de Gloucester.
+Description: O.S.B..
+Status: Extérieur.
+Gender: male.
+Active during: %1145-1150%.
+Born in: ?Angleterre (Gloucester)..
+Studied at: ?.
+Religious order: O.S.B. : moine de l’abbaye (bénédictine) de Gloucester (Saint-Pierre) ;.
+Authored work: '(Commentaire sur les Juges)', composed around ?.
+Authored work: 'Dialogus de quaestionibus in libros Pentateuchi', composed around ?.
+Authored work: 'De incarnatione domini', composed around ?.
+Authored work: 'De nativitate redemptoris', composed around ?.
+Authored work: 'De resurrectione', composed around ?.
+Authored work: 'Derivationes', composed around ?.
+Source: MIRABILE, Federico CONTINI :.

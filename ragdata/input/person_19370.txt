@@ -1,0 +1,25 @@
+PERSON: BARTHOLOMAEUS de Texeriis
+Also known as: Bartholomaeus TEXERII de Draghinano; Bartholomé TEXIER.
+Description: Maître général des Dominicains.
+Status: Extérieur.
+Gender: male.
+Active during: %1410-1449%.
+Born in: Provence (Draguignan ?)..
+Studied at: Montpellier..
+Academic grades obtained: Maître en théologie (Montpellier) ?.
+Religious order: O.P. : frère de la province (dominicaine) de Provence..
+Religious functions: Prieurprovincial (dominicain) de Provence %1418-1422% ;; Maîtregénéral des Dominicains %1426-1449%..
+University functions: Aix-en-Provence, maîtrerégent..
+Authored work: 'Epistola de Concilio Basileensi ad quemdam theologiae professorem et artium magistrum', composed around ?.
+Authored work: 'Constitutiones et Ordinationes pro pace tuenda inter fratres mendicantes facte ab omnibus Generalibus quatuor religionum', composed around ?.
+Authored work: 'Litterae', composed around ?.
+Authored work: 'Litterae encyclicae ad Ordinem Praedicatorum in capitulo Columbariae celebrato', composed around ..
+Authored work: 'Litterae fraternitatis spiritualis ad quosdam cives Norembergenses', composed around ?.
+Authored work: 'Litterae fraternitatis spiritualis pro confratria Crucifixi in ecclesia S. Dominici de Neapoli', composed around ?.
+Authored work: 'Litterae fraternitatis spiritualis pro confratria in honorem B. Petri Martyris in ecclesia FF. Praedicatorum Montismeliani', composed around ..
+Authored work: 'Litterae quibus sororibus mon. de Subtilia apud Columbariam nuntiat Eugenium IV eis plenariam indulgentiam in articulo mortis concessisse', composed around ?.
+Authored work: 'Ordinationes de reformando conventus Basileensis O.P.', composed around %1428-1429%..
+Authored work: 'Ordinationes pro conventu Wratislaviensi', composed around ?.
+Authored work: 'Ordinationes pro mon. S. Catharinae de Noremberga', composed around .
+Authored work: 'Privilegia concessa Studio Paduano Ordinis Praedicatorum', composed around ?.
+Source: MIRABILE : Permalink: http://www.mirabileweb.it/author/bartholomaeus-texerii-fl-1403-1449-m-19-8-1449-author/34250.

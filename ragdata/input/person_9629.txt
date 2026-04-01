@@ -1,0 +1,12 @@
+PERSON: OLIVERIUS Blanchard
+Also known as: Oliverius BLANCHARD.
+Description: Licencié en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1454-1467%.
+Born in: Bretagne ?.
+Studied at: Paris %1454-1454%.
+Academic grades obtained: Licencié en théologie (Paris) (le 4 mars) ..
+Religious order: O.Cist. : moine cistercien..
+Religious functions: ?Abbé de Prières jusqu'en %1454-1467%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 1/12/2023)..

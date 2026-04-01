@@ -1,0 +1,13 @@
+PERSON: PETRUS de Rodes
+Also known as: Petrus de RODES.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1443-1489%.
+Born in: Bourgogne (Sens) ;.
+Diocese of origin: Diocèse de Sens ;.
+Studied at: ?.
+Academic grades obtained: Licencié en droit canon ;.
+Social origin: Bourgeoisie de Sens ;.
+Other ecclesiastical functions: Chanoine de Sens (‘Notre-Dame’) %1449-1467% ;; Chanoine de Sens %1467-1489% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 15/09/2022..

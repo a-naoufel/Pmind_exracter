@@ -1,0 +1,10 @@
+PERSON: GERARDUS Charruelli
+Also known as: Gerardus CHARRUELLI.
+Description: Chanoine de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1363-1382%.
+Studied at: ?.
+Academic grades obtained: Bachelier ès arts ;; Étudiant en médecine ;.
+Ecclesiastical positions held: Chanoine de Clermont (Notre-Dame-du-Port) ;; Chanoine de Clermont %1369-1382% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 26/09/2023)..

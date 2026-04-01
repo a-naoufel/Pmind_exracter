@@ -1,0 +1,9 @@
+PERSON: F. Philippus
+Also known as: F. PHILIPPUS.
+Description: Boursier théologien au Collège de Navarre.
+Status: Étudiant.
+Gender: male.
+Active during: %1400-1400%.
+Studied at: Paris (Collège de Navarre) %1400 -1400% ..
+Academic grades obtained: Étudiant en théologie (Paris) ..
+College affiliation: Collège de Navarre : boursier théologien en ;.

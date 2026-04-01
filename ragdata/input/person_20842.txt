@@ -1,0 +1,13 @@
+PERSON: Scolaris de Alneto
+Also known as: Scolaris de ALNETO.
+Description: Cistercien.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse de Bayeux ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en ?.
+College affiliation: Collège des Bernardins ;.
+Religious order: O. Cist. : abbaye (cistercienne) d’Aunay-sur-Odon (diocèse de Bayeux) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 30/08/2016..

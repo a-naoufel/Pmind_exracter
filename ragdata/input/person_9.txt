@@ -1,0 +1,13 @@
+PERSON: ABSALON de Sancto Victore 1
+Also known as: Absalon de SAINT-VICTOR,; Absalon von SPRIGIERSBACH.
+Description: Chanoine de Saint-Victor.
+Status: Maître.
+Gender: male.
+Active during: %1190-1196%.
+Studied at: Paris..
+Academic grades obtained: Magister à Saint-Victor ;.
+College affiliation: Saint-Victor..
+Religious order: O.S.A. : chanoinerégulier de Paris (Saint-Victor) % -1193%..
+Religious functions: Abbé de Springiersbach (diocèse de Trèves) %1193-1196% ;.
+Authored work: 'Sermones (51)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

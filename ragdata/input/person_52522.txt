@@ -1,0 +1,10 @@
+PERSON: NICOLAUS de Pougiaco
+Also known as: Nicolaus de POUGIACO; Nicolaus de PONGIACO.
+Description: Chanoine de Reims.
+Status: Maître.
+Gender: male.
+Active during: %1316-1341%.
+Studied at: Paris %1321-1327% ;.
+Academic grades obtained: Maître en théologie (Paris ?) en ?.
+Ecclesiastical positions held: Chanoine de Reims %1316-1341% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/07/2021..

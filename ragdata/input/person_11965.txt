@@ -1,0 +1,10 @@
+PERSON: THOMAS Renardi
+Also known as: Thomas RENARDI.
+Description: Boursier.
+Status: Étudiant.
+Gender: male.
+Active during: %1378-1378%.
+Studied at: Paris.
+Academic grades obtained: Étudiant ès arts (Paris)..
+College affiliation: Boursier artien au Collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 12/10/2024..

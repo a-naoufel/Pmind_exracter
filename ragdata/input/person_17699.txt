@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Baynat
+Also known as: Guillelmus de BAYNAT.
+Description: Licencié en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1474-1474%.
+Studied at: Paris %1474-1474%..
+Academic grades obtained: Licencié en décret (Paris) avril ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 18/12/2019..

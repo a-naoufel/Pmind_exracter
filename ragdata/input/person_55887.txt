@@ -1,0 +1,11 @@
+PERSON: BARTHOLOMAEUS de Boceracuria
+Also known as: Bartholomaeus de BOCERACURIA; Bartholomaeus de BOCERANCOURT.
+Description: Chanoine de Langres.
+Status: Maître.
+Gender: male.
+Active during: %1470-1498%.
+Studied at: Paris %1472-1487%.
+Academic grades obtained: Bachelier en décret (Paris) ;; Licencié en décret (Paris) ;.
+Ecclesiastical positions held: Chanoine de Langres %1470-1498% ;; Chanoine de Troyes %1471-1482% ;; Archidiacre d’Outre-Vienne en la cathédrale de Tours ;.
+Other ecclesiastical functions: Vicairegénéral de Tours ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 21/04/2023..

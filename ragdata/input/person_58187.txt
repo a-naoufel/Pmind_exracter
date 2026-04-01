@@ -1,0 +1,30 @@
+PERSON: OCTAVIANUS de Saint-Gelais
+Also known as: Octovien de SAINT-GELAIS.
+Description: Évêque d’Angoulême.
+Status: Maître.
+Gender: male.
+Active during: %1488-1502%.
+Born in: Poitou (Cognac) ;.
+Diocese of origin: Diocèse d’Angoulême ?.
+Studied at: Paris (Nation de France ?)..
+Academic grades obtained: Maître ès arts (Paris) ?; Licencié en décret (Paris)..
+College affiliation: Collège Sainte-Barbe..
+Family relationships: Son père est Pierre de SAINT-GELAIS ; Sa mère est Philiberte de FONTENAY. Son neveu est Melin de SAINT-GELAIS ;.
+Academic relationships: Son maître est Martin LEMAÎTRE au collège Sainte-Barbe..
+Social origin: Noble..
+Ecclesiastical positions held: Évêque d’Angoulême %1494-1502%..
+Authored work: 'L’estrif de Science, Naure et de Fortune', composed around ., dedicated to Dédié à Charles d’ORLÉANS, comte d’Angoulême..
+Authored work: 'L’ystoire de Euralius et Lucresse, vrays amoureux', composed around Vers ., dedicated to Dédié à CHARLES VIII, roi de France..
+Authored work: 'Élégie', composed around ..
+Authored work: 'La complaincte du trespas de tres crestien et magnanime roy de France Charles huitiesme de ce nom', composed around ..
+Authored work: 'Epitaphe du roy Charles huictiesme', composed around ?.
+Authored work: 'Epistre en equivocques', composed around ., dedicated to Dédié à CHARLES VIII, roi de France..
+Authored work: 'Le sejour d’Honneur', composed around Avant ..
+Authored work: 'Poèmes lyriques', composed around Avant ..
+Authored work: 'Rondeau', composed around Avant ..
+Authored work: 'La chasse et le départ d’amours', composed around Avant ;.
+Authored work: 'Eneydes', composed around ., dedicated to Dédié à LOUIS XII, roi de France..
+Authored work: 'Les epistres de Ovide translatées de Ovide', composed around ., dedicated to Dédié à CHARLES VIII, roi de France..
+Authored work: 'Le livre des persecutions des Crestiens', composed around Avant ., dedicated to Dédié à CHARLES VIII, roi de France..
+Authored work: 'Le tresor de noblesse', composed around Avant ., dedicated to Dédié à CHARLES VIII, roi de France..
+Source: JONAS, I.R.H.T. ;.

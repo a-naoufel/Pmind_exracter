@@ -1,0 +1,11 @@
+PERSON: ROBERTUS de Salione
+Also known as: Robertus de SALIONE; Robertus de SALICE.
+Description: Chanoine de Langres.
+Status: Incertain.
+Gender: male.
+Active during: %1420-1438%.
+Born in: Bourgogne ;.
+Studied at: ?.
+Academic grades obtained: Licencié in utroque ;.
+Ecclesiastical positions held: Chanoine de Reims %1420-1438% ;; Chanoine de Langres %1438- % ;; Chapelain de Dijon %1438- % ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 04/06/2021..

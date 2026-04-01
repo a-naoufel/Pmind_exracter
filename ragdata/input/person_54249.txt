@@ -1,0 +1,13 @@
+PERSON: PETRUS Clerici 2
+Also known as: Petrus CLERICI.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1417-1439%.
+Born in: Bourgogne (Joigny) ;.
+Diocese of origin: Diocèse d’Auxerre ?.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+Social origin: Bourgeoisie de Joigny ;.
+Ecclesiastical positions held: Chanoine de Sens %1428-1439% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 21/09/2022..

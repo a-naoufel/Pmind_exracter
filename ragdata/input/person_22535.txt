@@ -1,0 +1,13 @@
+PERSON: NICOLAUS de Pondearche
+Also known as: Nicolaus de PONDEARCHE; Nicolas de PONTDEL'ARCHE.
+Description: Maître en décret.
+Status: Maître.
+Gender: male.
+Active during: %1248-1248%.
+Born in: Normandie (Pont-de-l'Arche ?) ?.
+Diocese of origin: Diocèse d'Évreux ?.
+Studied at: Paris ..
+Academic grades obtained: Maître en décret (Paris) ;.
+Ecclesiastical positions held: Chanoine de Laon ?.
+University functions: Paris (Faculté de Décret : maître-régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 6/08/2017).

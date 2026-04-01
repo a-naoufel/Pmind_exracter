@@ -1,0 +1,11 @@
+PERSON: IVO Brito 1
+Also known as: Yvo BRITO.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1245-1245%.
+Born in: Bretagne ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Rouen ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 31/10/2021..

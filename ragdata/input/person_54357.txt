@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Clerici 3
+Also known as: Guillermus CLERICI.
+Description: Bachelier en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1429-1429%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) avant ?; Bachelier en théologie (Paris) ;.
+University functions: Paris (Faculté de théologie : cursor, 1er cours en (21 avril)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 30/09/2022..

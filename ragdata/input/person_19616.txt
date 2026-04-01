@@ -1,0 +1,13 @@
+PERSON: BERTALDUS de Constancia 1
+Also known as: Bertoldus de CONSTANCIA; Bertoldus de SUNCHINGEN.
+Description: Prieur de la Sorbonne.
+Status: Maître.
+Gender: male.
+Active during: %1329-1355%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Maître ès arts (Paris) ..
+College affiliation: Collège de Sorbonne : socius ;; Collège de Sorbonne : prieur ;.
+Academic relationships: Son élève est Ulricus de SAXONIA pour la licence en ;.
+Ecclesiastical positions held: Chanoine de Zürich (Grossmünster) %1344-1355% ;; Recteur de Oberiflingen (Saint-Michel) au diocèse de Constance ;.
+University functions: Paris (Nation Anglo-allemande : maître-régent en %1333-1342% ;.
+Source: RAG ;.

@@ -1,0 +1,17 @@
+PERSON: GUNTHERUS de Pairis
+Also known as: Gunther de PAIRIS.
+Description: Cistercien.
+Status: Extérieur.
+Gender: male.
+Active during: %1170-1220%.
+Born in: Alémanie ?.
+Diocese of origin: Diocèse de Bâle ?.
+Studied at: ?.
+Academic grades obtained: Magister ?.
+Religious order: O. Cist. : moine (cistercien) de Pairis ?.
+Religious functions: Abbé (cistercien) de Pairis ?.
+Authored work: 'De oratione, ieiunio et eleemosyna', composed around ?.
+Authored work: 'Historia Constantinopolitana', composed around %1207-1208%..
+Authored work: 'Solymarius', composed around %1180-1186% ?.
+Authored work: 'Ligurinus', composed around %1186-1187% ?.
+Source: ARLIMA : Laurent BRUN :.

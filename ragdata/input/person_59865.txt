@@ -1,0 +1,10 @@
+PERSON: ANTHONIUS Fauvel
+Also known as: Anthonius FAUVEL.
+Description: Hôte du collège de Dainville.
+Status: Maître.
+Gender: male.
+Active during: %1506-1510%.
+Studied at: Paris en %1506-1510%..
+Academic grades obtained: Maître (Paris) ;.
+College affiliation: Collège de Dainville : hôte en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

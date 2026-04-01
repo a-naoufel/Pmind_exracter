@@ -1,0 +1,11 @@
+PERSON: ROBERTUS Regis
+Also known as: Robertus REGIS.
+Description: Scholastique d’Arras.
+Status: Maître.
+Gender: male.
+Active during: %1408-1418%.
+Studied at: ?Paris..
+Academic grades obtained: Maître ;.
+College affiliation: Collège de Dainville : réformateur du collège en tant qu’émissaire du chapitre d’Arras ;.
+Ecclesiastical positions held: Scholastique d’Arras ;; Chanoine d’Arras ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

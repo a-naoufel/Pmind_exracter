@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Tirel
+Also known as: Nicolas TIREL.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1336-1342%.
+Studied at: Paris..
+Academic grades obtained: ?.
+Ecclesiastical status: Clerc ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 17/11/2019..

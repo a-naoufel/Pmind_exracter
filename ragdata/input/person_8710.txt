@@ -1,0 +1,9 @@
+PERSON: LUDOVICUS d'Anvers
+Also known as: Ludovicus d'ANVERS; Louis d'ENVERS.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1481-1486%.
+Studied at: Paris %1481-1486%..
+Academic grades obtained: Étudiant en médecine (Paris) %1481-1482% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 26/01/2021..

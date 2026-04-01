@@ -1,0 +1,18 @@
+PERSON: ARNULPHUS Aurelianensis
+Also known as: ARNULPHUS Aurelianensis; Arnould d'ORLEANS; Arnoul de SAINT-EVURCE.
+Description: Magister.
+Status: Extérieur.
+Gender: male.
+Active during: %1175-1175%.
+Studied at: Orléans..
+Academic grades obtained: Magister..
+University functions: Orléans : il enseigne dans cette ville..
+Authored work: 'Allegoriae super Ovidii Metamorphoses', composed around ?.
+Authored work: 'Glosulae in Ovidii Fastorum', composed around ?.
+Authored work: 'Glosule de remediis amoris', composed around ?.
+Authored work: 'Glosulae in Ovidii ars amatoriae libros', composed around ?.
+Authored work: 'Commentarii in Lucanum', composed around .
+Authored work: 'Delicie Clerici', composed around ?.
+Authored work: 'Lidia', composed around ?.
+Authored work: 'Miles gloriosus', composed around ?.
+Source: http://www-app.uni-regensburg.de/Fakultaeten/PKGG/Philosophie/Gesch_Phil/alcuin/philosopher.php?id286.

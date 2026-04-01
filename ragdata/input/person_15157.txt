@@ -1,0 +1,11 @@
+PERSON: PONSARDUS Johannis de Douzi
+Also known as: Ponsardus JOHANNIS de Douzi; Ponsard Johannis de DOUZI.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1362-1362%.
+Studied at: Paris %1362-1362%..
+Academic grades obtained: Maître en médecine (Paris) ..
+Ecclesiastical status: Sous-diacre du diocèse de Reims ;.
+Ecclesiastical positions held: Candidat à des bénéfices sur le rotulus des maîtres de la Faculté de médecine de Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 9/05/2024..

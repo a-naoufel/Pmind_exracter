@@ -1,0 +1,7 @@
+PERSON: DROUETE Lore
+Also known as: Drouete LORE.
+Description: Débitrice du collège de Presles.
+Status: Extérieur.
+Gender: female.
+Active during: %1511-1511%.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

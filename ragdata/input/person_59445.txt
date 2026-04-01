@@ -1,0 +1,7 @@
+PERSON: GUILLELMUS Le Muet
+Also known as: Guillaume LEMUET.
+Description: Receveur de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1422-1424%.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

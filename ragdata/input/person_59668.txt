@@ -1,0 +1,10 @@
+PERSON: REGINALDUS 4
+Also known as: REGINALDUS.
+Description: Proviseur du collège d’Harcourt.
+Status: Maître.
+Gender: male.
+Active during: %1372-1372%.
+Studied at: Paris..
+Academic grades obtained: Maître ?.
+College affiliation: Collège d’Harcourt : proviseur en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

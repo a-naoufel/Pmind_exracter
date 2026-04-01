@@ -1,0 +1,10 @@
+PERSON: MICHAEL de Ungaria 1
+Also known as: MICHAEL; MICHEL; MIHÁLY; Michael de HUNGARIA.
+Description: Fréquente l'école abbatiale de Sainte-Geneviève..
+Status: Étudiant.
+Gender: male.
+Active during: %1154-1181%.
+Born in: Hongrie ?.
+Studied at: Paris %1177-1181%..
+College affiliation: Sainte-Geneviève (école abbatiale), %1177-1181%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Gergely KISS, 21/11/2024..

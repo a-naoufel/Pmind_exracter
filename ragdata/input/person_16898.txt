@@ -1,0 +1,10 @@
+PERSON: CHRISTIANUS 3
+Also known as: CHRISTIANUS.
+Description: Maître ès arts..
+Status: Maître.
+Gender: male.
+Active during: %1337-1337%.
+Studied at: Paris (?Nation de France) %1337-1337%..
+Academic grades obtained: Maître ès arts (Paris) attesté en ..
+University functions: Maîtrerégent de la Faculté des arts de Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 06/04/2021..

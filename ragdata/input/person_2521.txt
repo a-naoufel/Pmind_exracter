@@ -1,0 +1,10 @@
+PERSON: GARNOTUS de Ferrières
+Also known as: Garnot de FERRIERES.
+Description: Boursier grammairien au Collège de Navarre à Paris.
+Status: Étudiant.
+Gender: male.
+Active during: %1315-1315%.
+Studied at: Paris (Collège de Navarre) %1315-1315% ;.
+Academic grades obtained: Étudiant en grammaire (Paris) ..
+College affiliation: Collège de Navarre : boursier grammairien en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24/11/2021..

@@ -1,0 +1,9 @@
+PERSON: ROBERTUS La Chatte
+Also known as: Roberts LA CHATTE.
+Description: Procureur du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1468-1468%.
+Academic grades obtained: Étudiant (Paris ?) ?.
+College affiliation: Collège de Dormans-Beauvais : procureur ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 25/11/2020)..

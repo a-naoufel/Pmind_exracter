@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS de Volanno
+Also known as: Guillelmus de VOLANNO; Guillelmus de VOLAN; Guillaume de VALLAN.
+Description: Évêque d'Évreux.
+Status: Étudiant.
+Gender: male.
+Active during: %1360-1400%.
+Born in: Bourgogne (Gy : hameau de Vallan) ;.
+Diocese of origin: Diocèse d’Auxerre..
+Studied at: Paris..
+Academic grades obtained: Étudiant en théologie (Paris) ?.
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère du couvent (dominicain) d’Auxerre ;.
+Authored work: '(Livre d'oraison)', composed around ?, dedicated to Adressé à PHILIPPE le Hardi, duc de Bourgogne..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 30/12/2021..

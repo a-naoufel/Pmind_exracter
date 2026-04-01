@@ -1,0 +1,12 @@
+PERSON: PETRUS Caronis 3
+Also known as: Petrus CARONIS.
+Description: Principal du Collège de Boncourt.
+Status: Maître.
+Gender: male.
+Active during: %1464-1493%.
+Diocese of origin: Diocèse de Thérouanne..
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Étudiant en ?; Maître ès arts (Paris)..
+College affiliation: Collège de Boncourt : principal ..
+University functions: Paris (Nation de Picardie : procureur) ;; Paris (Nation de Picardie : receveur) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/08/2016..

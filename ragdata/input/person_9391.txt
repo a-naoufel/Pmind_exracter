@@ -1,0 +1,12 @@
+PERSON: NICOLAUS de Ambazia
+Also known as: Nicolaus de AMBAZIA.
+Description: Chanoine de Tours..
+Status: Étudiant.
+Gender: male.
+Active during: %1328-1333%.
+Born in: Touraine (Amboise)..
+Diocese of origin: Diocèse de Tours..
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant (Paris) ?; Docteur en droit civil vers février ..
+Ecclesiastical positions held: Chanoine d'Orléans (Saint-Aignan) en ;; Chanoine de Candes (Saint-Martin) par une provision d'août ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 9/10/2023)..

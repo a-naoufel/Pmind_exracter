@@ -1,0 +1,9 @@
+PERSON: DIONYSIUS Hugues
+Also known as: Dionysius HUGUES.
+Description: Maître d’école.
+Status: Suppôt.
+Gender: male.
+Active during: %1437-1437%.
+Studied at: Paris ?.
+Academic grades obtained: Magister ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 31/08/2020..

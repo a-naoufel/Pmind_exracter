@@ -1,0 +1,13 @@
+PERSON: AEGIDIUS de Atrio
+Also known as: Aegidius de ATRIO; Gilles de l'ATRE.
+Description: Bénédictin.
+Status: Maître.
+Gender: male.
+Active during: %1394-1411%.
+Studied at: Paris ..
+Academic grades obtained: Docteur en décret (Paris) ;.
+Religious order: O.S.B. : moine bénédictin ;.
+Religious functions: Abbé de Noyon (Saint-Éloi) en %1402-1411% ;.
+University functions: Paris (Faculté de Décret : Maître-régent) ;.
+Representation roles: Procureur de l'évêque de Noyon au (Concile de Pise) à Pise en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol et Anne Tournieroux ; révision, Jean-Philippe Genet, 12/10/2025)..

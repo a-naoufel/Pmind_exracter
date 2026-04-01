@@ -1,0 +1,12 @@
+PERSON: MATHURINUS Touronde
+Also known as: Mathurin TOURONDE.
+Description: Boursier du Collège de Justice.
+Status: Étudiant.
+Gender: male.
+Active during: %1469-1472%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie ?) %1469-1472% ?.
+Academic grades obtained: Étudiant (Paris) %1469-1472% ?.
+College affiliation: Collège de Justice : boursier en %1469-1472% ;.
+Academic relationships: Son maître est Jean GAMBIER..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Marion BERNARD-SCHWEITZER, dernière mise à jour 19/10/2020)..

@@ -1,0 +1,10 @@
+PERSON: ROBERTUS Bernardi
+Also known as: Robertus BERNARDI.
+Description: Procureur de Sorbonne.
+Status: Maître.
+Gender: male.
+Active during: %1302-1321%.
+Studied at: Paris..
+Academic grades obtained: Magister en.
+College affiliation: Sorbonne : procureur en (6 mars) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 4/02/2021)..

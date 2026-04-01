@@ -1,0 +1,10 @@
+PERSON: ALUANDUS Salomonis
+Also known as: Aluandus SALOMONIS.
+Description: Chantre de Senlis.
+Status: Incertain.
+Gender: male.
+Active during: %1339-1339% ;.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chantre de Senlis en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

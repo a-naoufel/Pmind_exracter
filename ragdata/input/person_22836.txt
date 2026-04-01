@@ -1,0 +1,13 @@
+PERSON: GALTERIUS de Vaceria
+Also known as: Gualterus de VACERIA.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1258-1264%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse d’Amiens..
+Studied at: Paris (Nation de Picardie ?) avant ..
+Academic grades obtained: Maître ès arts (Paris) ;.
+Ecclesiastical status: Clerc du diocèse d’Amiens en ;.
+University functions: Paris (Faculté des Arts : Maître-régent %1258-1264%).
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/11/2021..

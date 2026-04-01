@@ -1,0 +1,11 @@
+PERSON: DIONYSIUS Johaire
+Also known as: Dionysius JOHAIRE.
+Description: Chanoine du Mans.
+Status: Gradué.
+Gender: male.
+Active during: %1371-1375%.
+Studied at: Paris..
+Academic grades obtained: Bachelier en décret (Paris) ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de LeMans %1371-1375% ;; Archidiacre de Montfort-le-Rotrou %1373-1375% ;; Curé de Grazay %1371-1373% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/06/2023)..

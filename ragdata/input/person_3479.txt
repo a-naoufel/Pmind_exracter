@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Dionysii 3
+Also known as: Guillelmus DIONYSII; Guillaume DENIS; Guillaume DIONYSII.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1415-1426%.
+Studied at: Paris (Nation de France) %1415-1423%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Family relationships: Sa femme est Guiote Denis, qui se remarie au marchand Jehan DUBOURG de Troyes..
+University functions: Paris (Faculté de Théologie : Doyen %1420-1421%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 28/02/2018..

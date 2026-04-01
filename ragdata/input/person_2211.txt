@@ -1,0 +1,12 @@
+PERSON: EBRARDUS de Horne
+Also known as: Everardus de HORNE.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1347-1347%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Baccalauréat ès arts (Paris) ;.
+Family relationships: Son frère est Otto de HORNE ;.
+Academic relationships: Son maître est Henricus de OS pour le baccalauréat en ;.
+Social origin: Noble..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 28/06/2021)..

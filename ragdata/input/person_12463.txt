@@ -1,0 +1,12 @@
+PERSON: GERARDUS de Podiomulano
+Also known as: Geraldus de PODIOMULANO.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1336-1337%.
+Born in: Auvergne ?.
+Studied at: Paris %1336-1337%..
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en théologie (Paris) ..
+Religious order: O.Clun. : moine clunisien de Lavoute-Chilhac (diocèse de Saint-Flour) en ;.
+Religious functions: Prieuré ou doyenneté d'un revenu compris entre 80 et 100 livres tournois accordé par le prieur de Lavoute-Chilhac pour l'aider dans ses études à Paris le 5 octobre ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 8/01/2021.

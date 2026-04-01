@@ -1,0 +1,8 @@
+PERSON: PHILIPPUS Corps de Homme
+Also known as: Philippus CORPS de HOMME.
+Description: ?Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 19/04/2024..

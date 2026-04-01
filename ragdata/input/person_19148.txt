@@ -1,0 +1,11 @@
+PERSON: DIONYSIUS Mire
+Also known as: Dionysius MIRE.
+Description: Chanoine régulier.
+Status: Étudiant.
+Gender: male.
+Active during: %1388-1392%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en décret %1388-1392% ;.
+Religious order: Chanoinerégulier de l'abbaye (O.S.A. Vict.) de Saint-JeansurleJard ;.
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiastique à la collation de l'abbé et du couvent du monastère (augustin) de Saint-JeanenVallée en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 1/06/2021..

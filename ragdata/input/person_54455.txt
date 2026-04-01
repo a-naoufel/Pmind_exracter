@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Karitate
+Also known as: Guillelmus de KARITATE.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1282-1290%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son frère est Gilles de LACHARITÉ, archidiacre de Sully ;.
+Ecclesiastical positions held: Chanoine de Sens %1282-1290% ;; Archidiacre de Nevers ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-hilippe GENET, 25 octobre 2022..

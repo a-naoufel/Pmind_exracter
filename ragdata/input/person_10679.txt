@@ -1,0 +1,10 @@
+PERSON: REGINALDUS de Ribaudimonte
+Also known as: Reginaldus de RIBAUDIMONTE.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Born in: Lorraine ?.
+Studied at: Paris.
+Academic grades obtained: Étudiant (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 03/06/2024..

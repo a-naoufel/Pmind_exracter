@@ -1,0 +1,10 @@
+PERSON: BENEDICTUS Grezilhe
+Also known as: Benedictus GREZILHE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1342-1342%.
+Studied at: Paris (Nation de Normandie) ..
+Academic grades obtained: Maître ès arts.
+Ecclesiastical positions held: Recteur de Cutone (diocèse d'Évreux) en ;; Provision pour un bénéfice ecclésiastique à la collation de l'abbé et du couvent (bénédictin) de Saint-Calais (diocèse de LeMans) : mandat au doyen du chapitre de LeMans, au doyen de Paris (Saint-ThomasduLouvre) et au capisterius de Paris (Saint-ÉtiennedesGrès)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 07/01/2021).

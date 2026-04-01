@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de Quesneyo
+Also known as: Nicolaus de QUESNEYO.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1343-1343%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie)..
+Academic grades obtained: Maître ès arts (Paris) ..
+Ecclesiastical positions held: Chapelain d’une chapelle pour dire les messes du matin dans l’égliseparoissiale de Rouen (Saint-Amand) ;; Provision pour un bénéfice à la collation du prévôt et du chapitre de l’aglisecollégiale de Chablis en réponse au rotulus de l’Université de Paris en : mandat à Martinus EVRARDI, chanoine de Rouen, à Johannes de LESINA et au Trésorier de Rouen ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 7/04/2020..

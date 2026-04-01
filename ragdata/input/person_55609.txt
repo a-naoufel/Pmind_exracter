@@ -1,0 +1,11 @@
+PERSON: PRINIUS Mona
+Also known as: Prinius MONA.
+Description: Prieur des écoliers de Cluny.
+Status: Étudiant.
+Gender: male.
+Active during: %1318-1318%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant ?.
+College affiliation: Collège de Cluny en ..
+Religious order: O.Clun. : moine clunisien ?.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 28/03/2023 ;.

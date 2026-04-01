@@ -1,0 +1,9 @@
+PERSON: RANULPHUS 1
+Also known as: RANULPHUS, évêque de Quimper ;; RAINAUD.
+Description: Évêque de Quimper.
+Status: Extérieur.
+Gender: male.
+Active during: %1218-1245%.
+Studied at: ?.
+Ecclesiastical positions held: Évêque de Quimper %1218-1245%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 16-11-2019..

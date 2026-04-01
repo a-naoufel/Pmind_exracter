@@ -1,0 +1,16 @@
+PERSON: GUILLELMUS de Cheshelm
+Also known as: Guillelmus de CHESOLINUS; Guillelmus de CHESHELME; William de CHESHELM.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1354-1401%.
+Born in: Écosse ;.
+Diocese of origin: Diocèse de Moray ;.
+Studied at: Paris (Nation Anglo-allemande) %:1354-1363%..
+Academic grades obtained: Baccalauréat ès arts (Paris) ;; Licence ès arts (Paris) ;; Étudiant en décret %1360-1361% dans une autre université que Paris ;; Maître ès arts (Paris) ;; Bachelier en décret (Paris ?) ;.
+Family relationships: Son père est Robert de CHISHOLME, lord of Quarrelwood ; Son frère est peut-être Richard de CHISHELM :.
+Academic relationships: Son maître est Walter de WARDLAW pour le baccalauréat et la licence en ; Son maître est Malcolinus de DRUMBREK pour la maîtrise en (11 janvier) ;.
+Social origin: Noble ?.
+Ecclesiastical status: Clerc en ;.
+Ecclesiastical positions held: Recteur de Nevay %1360-1361% ;; Vicaire de Falkirk %1361-1371% ;; Trésorier de Moray %1371-1401% ;; Chanoine de Moray ;; Trésorier de Moray %1371-1401% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/03/2022)..

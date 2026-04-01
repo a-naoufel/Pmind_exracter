@@ -1,0 +1,31 @@
+PERSON: AEGIDIUS Delphus
+Also known as: Aegidius de DELFT; Aegidius DELPHUS; Aegidius van DELPHUS; Aegidius de DELF; Aegidius de DELFF; Aegidius de DELFUS; Gilles de DELFT; Gillis de DELFT.
+Description: Théologien et humaniste.
+Status: Maître.
+Gender: male.
+Active during: %1477-1524%.
+Born in: Pays-Bas (Hollande : les environs de Delft)..
+Diocese of origin: Diocèse d'Utrecht..
+Studied at: Paris (Nation Anglo-allemande) %:1478-1515% ;; Cologne ;; Louvain (Collège du Lys) ..
+Academic grades obtained: Bachelier ès arts (Paris) (9 février) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) (24 mars) ;; Bachelier en théologie (Paris) ;; Bachelier en théologie "formatus" (Paris) ;; Licencié en théologie (Paris) (21 mars) ;; Maître en théologie (Paris) (7 juin)..
+College affiliation: Paris (Collège de Sorbonne) %1481-1523% ;; Socius du collège de Sorbonne en .; "Prefectus" de la bibliothèque de la Sorbonne, .; Paris (Collège de Navarre : régent) %1512-1515% ;.
+Family relationships: Son frère est Martinus de DELFT..
+Academic relationships: Son élève est Josse CLICHTOVE dont il préside le "magisterium" en (4 décembre) ; Parmi ceux certifiant les "litterae studii" de certains étudiants comme Johannes DAMOYS, %1512-1515% ;.
+Ecclesiastical status: Clerc de Delft dans le diocèse d'Utrecht..
+University functions: Paris (Nation Anglo-allemande : procureur élu en (2 juin), continué le 26 août jusqu’au 23 septembre ;; Paris (Nation Anglo-allemande : il suit l'affaire qui l'oppose à la Nation de Picardie pour la disposition de certaines écoles et qui se terminera par un procès au Parlement de Paris).; Paris (Nation Anglo-allemande : "Intrans" à la Faculté des Arts pour l'élection du recteur élu le 15 décembre ) ;; Paris (Université : il assiste à la messe de l'Université de Paris célébrant la "Fête de la Purification", 2 février ;; Paris (Nation Anglo-allemande : Maîtrerégent en %1482-1484%, %1486-1487% et ) ;; Paris (Nation Anglo-allemande : Examinateur pour le baccalauréat en ) ;; Paris (Nation Anglo-allemande : "Intrans" à la Faculté des Arts pour l'élection du recteur élu le 23 juin ) ;; Paris (Université : recteur élu par la Faculté des Arts le 16 décembre ) ;; Paris (Nation Anglo-allemande : témoin du paiement effectué en %1491-1492% par le receveur de la Nation à un avocat ;; Paris (Nation Anglo-allemande : examinateur pour le baccalauréat en ) ;; Paris (Faculté des Arts : "Lector Ethicorum" élu en %1491-1492%) ;; Paris (Nation Anglo-allemande : délégué de la nation pour la réforme de la Faculté des Arts, élu en ;; Cologne (Université : Professeur de théologie en ) ;; Louvain (Collège du Lys ; il y enseigne en ) ;; Paris (Faculté de Théologie : doyen en %1520-1523%) ;.
+Authored work: 'Septem psalmi poenitentiales, noviter per E.D. metrice compilati', composed around à Anvers.
+Authored work: '[Ed. et comm. des Epistolae beati Pauli apostoli et beastissimorum Iacobi, Petri, Ioannis et Iudae epistolae canonicae, cum argumentis et scholiis]', composed around à Paris..
+Authored work: 'Epistola divi Pauli ad Romanos decantata. Defensio pro cleri Flandrensis libertate.Quinque psalmi Davidici decantati', composed around à Paris.
+Authored work: 'Quinque psalmi Davidici decantati', composed around ?.
+Authored work: '[Ed. du Contenta : Theologi de Jean Damascène]', composed around à Paris.
+Authored work: 'Conclusiones in Sententias Magistri', composed around à Louvain et Paris.
+Authored work: 'Opusculum in laudem Virginis Mariae', composed around ?.
+Authored work: 'De causis ortus mortisque Christi', composed around ?.
+Authored work: '[Quelques poèmes à la gloire de la Nation Anglo-allemande]', composed around à Paris..
+Authored work: '[Ed. et comm. du De remedio armoris d'Ovide]', composed around .
+Authored work: 'Opus Aristotelis de moribus a Johanne Argyroplo traductum', composed around .
+Authored work: 'Quaestiones Johannis Buridani in X libros Ethicorum Aristotelis', composed around .
+Authored work: '[Ed. des Libri viii Politicorum et Oeconomicorum libri ii d'Aristote]', composed around .
+Authored work: 'Defensio pro cleri Flandriae libertate', composed around .
+Authored work: '[Com. de l'Aethica seu Moralia d'Aristote]', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux, dernière mise à jour 28/04/2020)..

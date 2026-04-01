@@ -1,0 +1,9 @@
+PERSON: PETRUS Le Vuigneron
+Also known as: Petrus LE VUIGNERON.
+Description: Bedeau..
+Status: Suppôt.
+Gender: male.
+Active during: %1415-1415%.
+Studied at: Paris %1415-1415%..
+University functions: Bedeau du maître Johannes GUERINI, à partir du 23 avril ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 24-02-2024..

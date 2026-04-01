@@ -1,0 +1,14 @@
+PERSON: AEGIDIUS de Amigniaco
+Also known as: Aegidius de AMIGNIACO; Gilles de ROUEN.
+Description: Archevêque de Nicosie..
+Status: Maître.
+Gender: male.
+Active during: %1230-1268%.
+Born in: Picardie (Amigny ?)..
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris %1259-1259%..
+Academic grades obtained: Maître en théologie (Paris)..
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Cambrai ;; Archidiacre de Rouen, %1259-1264% ;; Chanoine de Troyes %1261-1264% ;; Archevêque de Nicosie, %1264-1270% ;.
+University functions: Paris (Faculté de Théologie : Maître-régent vers )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 19/04/2020)..

@@ -1,0 +1,11 @@
+PERSON: MARTINUS de Wavrechin
+Also known as: Martinus de WAVRECHIN.
+Description: Boursier du collège de Dainville.
+Status: Maître.
+Gender: male.
+Active during: %1454-1454%.
+Studied at: Paris (Nation de Picardie)..
+Academic grades obtained: Maître ès arts (Paris) en ;..
+College affiliation: Collège de Dainville : boursier ;; Collège de Dainville : procureur en %1454-1455% ;.
+Family relationships: Son frère est Johannes de WAVRECHIN ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

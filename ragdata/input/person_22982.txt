@@ -1,0 +1,13 @@
+PERSON: ALGOTUS
+Also known as: ALGOTUS.
+Description: Frère prêcheur.
+Status: Incertain.
+Gender: male.
+Active during: %1333-1333%.
+Born in: Suède.
+Studied at: ?Paris (faculté de théologie), ..
+Academic grades obtained: M.T. (?P), ..
+College affiliation: Couvent des Jacobins ?.
+Religious order: O.P..
+Religious functions: Prieur (dominicain) du couventdeSkara, ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth MORNET 16/11/2017..

@@ -1,0 +1,11 @@
+PERSON: BERTRANDUS Chembrier
+Also known as: Bertrandus CHEMBRIER.
+Description: Bachelier Décret.
+Status: Gradué.
+Gender: male.
+Active during: %1496-1496%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Sens..
+Studied at: Paris %1496-1496%..
+Academic grades obtained: Bachelier en décret (Paris) (le 8 juin) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; Jean-Philippe Genet, dernière mise à jour 22/02/2021).

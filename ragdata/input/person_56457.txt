@@ -1,0 +1,13 @@
+PERSON: RADULPHUS Rousselet
+Also known as: Radulphus ROUSSELET.
+Description: Évêque de Laon.
+Status: Incertain.
+Gender: male.
+Active during: %1300-1323%.
+Born in: Orléanais ?.
+Diocese of origin: Diocèse de Chartres ;.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ;.
+College affiliation: Il fonde deux bourses au collège de Laon ;.
+Ecclesiastical positions held: Chanoine de Saint-Malo ;; Chanoine de Dol %1300-1308% ;; Chanoine de LeMans %1309-1311% ;; Chanoine de Saint-Brieuc ;; Chanoine de Saint-Malo ;; Élu de LeMans %1309-1311% ;; Évêque de Saint-Malo %1311-1317% ;; Évêque de Laon %1317-1323% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/08/2023)..

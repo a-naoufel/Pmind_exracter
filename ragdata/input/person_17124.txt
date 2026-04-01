@@ -1,0 +1,11 @@
+PERSON: ANTHONIUS Goldesburgh
+Also known as: Anthony GOLDESBURGH.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1286-1286%.
+Born in: Angleterre..
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ..
+Family relationships: Noblesse (en fait, gentry). Son oncle est Anthony BEK, évêque de Durham ; Son frère est Thomas GOLDESBURGH, archdeacon of Durham %1302-1331%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 6/10/2020..

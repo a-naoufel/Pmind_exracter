@@ -1,0 +1,13 @@
+PERSON: NICOLAUS Boucherat
+Also known as: Nicolas BOUCHERAT.
+Description: Cistercien.
+Status: Maître.
+Gender: male.
+Active during: %1497-1532%.
+Studied at: Paris ;.
+Academic grades obtained: Licencié en théologie (Paris) ;; Docteur en théologie (Paris) ;.
+College affiliation: Collège des Bernardins ?.
+Family relationships: Son neveu est Nicolas BOUCHERAT, bachelier en théologie..
+Religious order: O.Cist. : moine cistercien..
+Religious functions: Prieur de l’abbaye (cistercienne) de Bellaigue (diocèse de Clermont) ;; Abbé de l’abbaye (cistercienne) de LeReclus (diocèse de Troyes) %1521-1532%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 01/05/2021)..

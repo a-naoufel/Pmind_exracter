@@ -1,0 +1,7 @@
+PERSON: PERNELLE de Crépon
+Also known as: Pernelle de CRÉPON.
+Description: Propriétaire de maison.
+Status: Extérieur.
+Gender: female.
+Active during: %1381-1381%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/04/2021..

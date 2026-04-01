@@ -1,0 +1,7 @@
+PERSON: MATHURINUS Clopere
+Also known as: Mathurinus CLOPERE.
+Description: Sergent à verge.
+Status: Extérieur.
+Gender: male.
+Active during: %1408-1408%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 13/09/2023)..

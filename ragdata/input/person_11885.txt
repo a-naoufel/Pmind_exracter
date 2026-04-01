@@ -1,0 +1,27 @@
+PERSON: THOMAS Bricot
+Also known as: Thomas BRICOT; Thomas BRIQUOT.
+Description: Chanoine du chapitre cathédral de Paris..
+Status: Maître.
+Gender: male.
+Active during: %1478-1516%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse d’Amiens..
+Studied at: Paris (Nation de Picardie) %1478-1513% ;.
+Academic grades obtained: Bachelier ès arts (Paris) (février) ;; Maître ès arts (Paris) (mars) ;; Licencié en théologie (Paris) (13 février) ;; Maître en théologie (Paris) (mars) ;.
+College affiliation: Boursier au Collège des Cholets ;; Collège Sainte-Barbe : professeur de philosophie ;.
+Academic relationships: Son maître est Petrus DOMVILLE en %1478-1479% ; Son maître est le magister Pierre BONNART en ; Son élève est Guillelmus VALLOT en ; Son élève est Hubertus APOTAIN ..
+Ecclesiastical status: Clerc du diocèse d'Amiens ;.
+Ecclesiastical positions held: Doyen de Dammartin ;; Chanoine d'Amiens %1492-1499% ;; Candidat en à un bénéfice ecclésiastique à la collation de l'évêque de Thérouanne, au prévôt, doyen et chapitrecathédral de Thérouanne ;; Candidat en à un bénéfice ecclésiastique à la collation de l'archevêque et du chapitre de Sens ;; Candidat en à un bénéfice ecclésiastique à la collation de l'abbé et de la communauté de Saint-Martin de Pontoise ;; Candidat en à un bénéfice ecclésiastique à la collation de l’évêque et du chapitre de LeMans ;; Candidat en à un bénéfice ecclésiastique à la collation de l’évêque et du chapitre d'Autun ;; "Théologal" d'Amiens vers ;; Candidat en à un bénéfice ecclésiastique à la collation du prieur et de la communauté du prieuré (clunisien) de Saint-Révérien et de l'abbé et de la communauté de Compiègne (Saints-Corneille-et-Cyprien) ;; Candidat en à un bénéfice ecclésiastique à la collation du prieur et communauté du prieuré (clunisien) de Saint-Révérien une seconde fois et de l'abbesse et communauté de l'abbaye (bénédictine) de Jorgne" (probablement Jouarre) ;; Candidat en à un bénéfice ecclésiastique à la collation de l’évêque et du chapitre de Bayeux ;; Candidat en à un bénéfice ecclésiastique à la collation de l’évêque et chapitre de Tournai, ;; Candidat en à un bénéfice ecclésiastique à la collation du prieur et communauté du prieuré (clunisien) de Saint-Leu-d'Esserent ;; Candidat en à un bénéfice ecclésiastique à la collation de l'abbesse et communauté du couvent de Chelles ;; Candidat à l’évêché de Paris lorsque l'évêque de Paris meurt le 23 décembre ;; Recteur de Domineis en ;; Recteur d'Argonville en ;; Chanoine de Paris %1503-1516% ;; "Poenitentiarus" de Paris %1503-1516% ;.
+Other ecclesiastical functions: Un des proviseurs de l'Hôtel-Dieu de Paris en , et .; Visiteur des chanoines de l'abbaye de Paris (Saint-Victor), fonction déléguée par l'évêque de Paris, le 4 avril ;; Visiteur à nouveau des chanoines de l'abbaye de Paris (Saint-Victor) en mai et 19 mars ;.
+University functions: Paris (Faculté des Arts : candidat aux écoles et à la régence en ) ;; Paris (Faculté des Arts : candidat aux écoles et à la régence en ) ;; Paris (Faculté des Arts : candidat aux écoles et à la régence en ) ;; Paris (Nation de Picardie : procureur élu le 24 septembre ) ;; Paris (Nation de Picardie : temptator baccalandorum le 29 décembre ) ;; Paris (Nation de Picardie : il assiste à plusieurs assemblées de la Nation et de la Faculté des arts, %1482-1484%) ;; Paris (Faculté des arts : doyen à de nombreuses fois reprises entre et ;; Paris (Université : Vice-chancelier de Sainte-Geneviève nommé le 23 novembre ) ;; Paris (Faculté de théologie : doyen en ) ;.
+Representation roles: Lors d'une audience le , 14 mai convoquant les députés des Etats Généraux par LOUIS XII à Plessis-les-Tours, roi de France, Thomas BRICOT s'adresse à l'assemblée au nom des villes, exhortant le roi à apporter des informations sur le mariage de sa fille au futur FRANÇOIS 1er, roi de France ;; Soutient le Concile de Pise-Milan, ..
+Authored work: 'Tractatus insolubilium', composed around ?.
+Authored work: 'Textus summularum', composed around ?.
+Authored work: 'Textus abbreviatus totius logicae Aristotelis', composed around ?.
+Authored work: 'Logicales questiones super duobus libris posteriorum Aristotelis', composed around ?.
+Authored work: 'Textus logices magna cum vigilantia castigatus', composed around ?.
+Authored work: 'Quaestiones seu expositiones in logicam Aristotelis', composed around ?.
+Authored work: 'Expositio super VIII libros Physicorum Aristotelis', composed around ?.
+Authored work: '(Notes sur l’Interpraetatio in Summulas Petri Hispani)', composed around ?.
+Authored work: 'Libri topicorum [Livres I-IV]', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 01/10/2024..

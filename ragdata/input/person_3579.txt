@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Blans
+Also known as: Guillelmus de BLANS; Guillaume de BLANS.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1272-1272%.
+Studied at: Paris %:1272-1272%..
+Academic grades obtained: Maître en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 09/03/2022)..

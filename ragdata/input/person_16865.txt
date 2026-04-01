@@ -1,0 +1,11 @@
+PERSON: ROBERTUS 5
+Also known as: ROBERTUS; ROBERT; RÓBERT.
+Description: Archevêque d’Esztergom..
+Status: Incertain.
+Gender: male.
+Active during: %1207-1239%.
+Diocese of origin: Diocèse de Liège..
+Studied at: ?Paris..
+Ecclesiastical positions held: Prévôt de Székesfehérvár, %1207-1209% ;; Évêque de Veszprém, %1209-1226% ;; Archevêque d’Esztergom, %1226-1239%..
+Representation roles: IVe Concile de Latran, ;; Ve Croisade, %1217-1218% ;; In Cumania Apostolice Sedis legatus, %1227-1232%?..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Gergely KISS, 26/07/2014..

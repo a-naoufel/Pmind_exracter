@@ -1,0 +1,11 @@
+PERSON: PERCEVALDUS de Launoy
+Also known as: Percival de LAUNOY.
+Description: O.S.B..
+Status: Étudiant.
+Gender: male.
+Active during: %1409-1409%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Marmoutier ?.
+Religious order: O.S.B. : moine de l’abbaye (bénédictine) de Marmoutier ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/04/2021..

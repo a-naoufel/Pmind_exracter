@@ -1,0 +1,11 @@
+PERSON: GUICHARDUS Cluniacensis
+Also known as: Guichardus CLUNACIENCIS.
+Description: Chanoine de Cambrai..
+Status: Incertain.
+Gender: male.
+Active during: %1266-1270%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Sous-diacre ;.
+Ecclesiastical positions held: Chanoine de Cambrai %1478-1486%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 31/12/2025..

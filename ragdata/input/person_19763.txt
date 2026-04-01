@@ -1,0 +1,12 @@
+PERSON: CAYSIN de Coyesque
+Also known as: Caysin de COYESQUE.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1357-1357%.
+Born in: Artois..
+Diocese of origin: Diocèse de Thérouanne..
+Studied at: Paris ..
+Academic grades obtained: Étudiant à la Faculté des Arts en ..
+College affiliation: Collège de Boncourt ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 06/04/2021..

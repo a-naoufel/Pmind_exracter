@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS de Salinis
+Also known as: Guillelmus de SALINIS.
+Description: Cistercien.
+Status: Maître.
+Gender: male.
+Active during: %1413-1456%?.
+Studied at: Paris %1413-1428%..
+Academic grades obtained: Bachelier en théologie cursor (Paris) ;; Bachelier en théologie cursor (Paris) ;; Licencié en théologie (Paris) (le 12 janvier) ..
+College affiliation: Collège Saint-Bernard : prieur en %1424-1428% ;.
+Religious order: O.Cist. : moine de l'abbaye (cistercienne) de LaCharité en ;.
+Religious functions: Désigné pour servir le procureur général de l'Ordre cistercien à la curia romana par le chapitregénéral des Cisterciens () ;; ?Abbé de Signy-l'Abbaye en ..
+University functions: Paris (Faculté de Théologie : Lecteur de la Bible en ) ;; Paris (Faculté de Théologie : Lecteur des Sentences en septembre ) ;.
+Representation roles: Participe au Concilium fidei Parisiis à Paris le 4 décembre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 16/04/2022)..

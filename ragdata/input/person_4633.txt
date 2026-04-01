@@ -1,0 +1,11 @@
+PERSON: HENRICUS Alain
+Also known as: Henricus ALAIN.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1448-1450%.
+Studied at: Paris %1448-1450%.
+Academic grades obtained: Licencié en théologie (Paris) (le 29 janvier) ;; Docteur en théologie (Paris) (le 9 juin) ..
+College affiliation: Couvent (carme) de Paris %1448-1450%..
+Religious order: O.Carm. : frère carme.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 1/05/2022..

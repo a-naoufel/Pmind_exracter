@@ -1,0 +1,11 @@
+PERSON: RICARDUS de Passorio
+Also known as: Ricardus de PASSORIO; Ricardus de PASSEOUR.
+Description: Chanoine d’Évreux.
+Status: Incertain.
+Gender: male.
+Active during: %1234-1236%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son parent est peut-être Jean de PASSEOUR, abbé de Chartres (Saint-Jean) ;.
+Ecclesiastical positions held: Chanoine d’Évreux ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 26/02/2023)..

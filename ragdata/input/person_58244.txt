@@ -1,0 +1,10 @@
+PERSON: X Ungarus
+Also known as: X. UNGARUS.
+Description: Nonce pour le diocèse de Györ.
+Status: Suppôt.
+Gender: male.
+Active during: %1522-1522%.
+Born in: Hongrie..
+Studied at: Paris (Nation Anglo-germanique) ..
+University functions: Paris (Nation Anglo-germanique : nonce pour le diocèse de Györ en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour, 22/11/2024..

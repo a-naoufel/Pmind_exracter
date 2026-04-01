@@ -1,0 +1,12 @@
+PERSON: BERNARDUS de Mezo
+Also known as: Bernardus de MEZO.
+Description: Abbé de Saint-Victor.
+Status: Maître.
+Gender: male.
+Active during: %1360-1367%.
+Studied at: ?Paris..
+Academic grades obtained: Docteur en théologie avant ;.
+College affiliation: Saint-Victor..
+Religious order: O.S.A. : ChanoineRégulier de Saint-Victor..
+Religious functions: Abbé (O.S.A.) de Paris (Saint-Victor) %1360-1367%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 8/12/2020)..

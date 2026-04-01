@@ -1,0 +1,11 @@
+PERSON: HENRICUS Venter
+Also known as: Henricus VENTER; Henri VENTER.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1349-1349%.
+Born in: Italie (Lombardie ?) ?.
+Studied at: Paris ..
+Academic grades obtained: Licencié ès arts (Paris) avant ;; Maître en médecine (Paris) ..
+Ecclesiastical positions held: Sollicite un canonicat de Côme, ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux : révision, Jean-Philippe Genet, dernière mise à jour 2/08/2022..

@@ -1,0 +1,13 @@
+PERSON: NICOLAUS Bacquelet
+Also known as: Nicolaus BACQUELET; Nicolas BUDET; Nicolas BRIDET.
+Description: Cistercien.
+Status: Maître.
+Gender: male.
+Active during: %1487-1544%.
+Studied at: Paris ;.
+Academic grades obtained: Licencié en théologie (Paris) ;; Docteur en théologie (Paris) ;.
+College affiliation: Collège des Bernardins avant ..
+Religious order: O.Cist..
+Religious functions: Sous-Prieur du Collège des Bernardins ;; Proviseur du Collège (cistercien) de Toulouse %1508-1525% ;; Abbé (cistercien) de Beaupré-sur-Meurthe %1519-1544%..
+University functions: Paris (Faculté de Théologie : sous-prieur du couvent des Bernardins) ;; Toulouse (Faculté de Théologie : proviseur du collège cistercien)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 29/04/2021)..

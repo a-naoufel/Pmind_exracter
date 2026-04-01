@@ -1,0 +1,15 @@
+PERSON: GUILLELMUS Otterburn
+Also known as: William OTTERBURN.
+Description: Recteur de l'Université de Saint-Andrews.
+Status: Maître.
+Gender: male.
+Active during: %1406-1421%.
+Born in: Écosse ;.
+Diocese of origin: Diocèse de Glasgow..
+Studied at: Paris (Nation Anglo-allemande) %:1406-1407% ;; Orléans %1408-1413% ;.
+Academic grades obtained: Saint-Andrews ;; Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Étudiant en droit civil (Orléans) %1408-1413% ?; Bachelier en droit civil (Orléans) ..
+Academic relationships: Son maître est Guilhelmus BLOC pour le baccalauréat en ; Son maître est Wilhelmus BLOC pour la maîtrise en ;.
+Ecclesiastical status: Clerc du diocèse de Glasgow en ;.
+Ecclesiastical positions held: Recteur de Dunnottar %1408-1421% ;.
+University functions: Saint-Andrews (Université : recteur en ) ;; Saint-Andrews (Faculté des Arts : receveur %1418-1419%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/05/2022)..

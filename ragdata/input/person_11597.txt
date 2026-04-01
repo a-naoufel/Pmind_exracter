@@ -1,0 +1,12 @@
+PERSON: STEPHANUS Mercatoris 1
+Also known as: Stephanus MERCATORIS; Etienne MARCHAND.
+Description: Boursier au collège de Navarre..
+Status: Maître.
+Gender: male.
+Active during: %1373-1403%.
+Studied at: Paris %1373-1394%..
+Academic grades obtained: Licencié en décret (Paris) ;; Bachelier en théologie formatus (Paris) ..
+College affiliation: Boursier artien au collège de Navarre à Paris en ..
+Religious order: O.S.A. : chanoineaugustin..
+Religious functions: Maître de LaMaisonDieu (O.S.A.) à Givry (près de Chalon-sur-Saône) en ;; Prieur (O.S.A.) de Saint-Pierre de Mâcon, %1395-1403%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/01/2024..

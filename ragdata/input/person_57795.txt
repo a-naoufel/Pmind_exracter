@@ -1,0 +1,10 @@
+PERSON: ANTHONIUS Charbonnet
+Also known as: Anthoine CHARBONNET.
+Description: Boursier du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1476-1485%.
+Studied at: Paris (Nation de France)..
+Academic grades obtained: Étudiant ès arts (Paris)..
+College affiliation: Collège d’Autun : boursier ès arts en et encore en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

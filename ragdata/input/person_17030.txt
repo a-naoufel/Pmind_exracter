@@ -1,0 +1,10 @@
+PERSON: ARNALDUS Des Friches 1
+Also known as: Arnaldus des FRICHES.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1464-1488%.
+Studied at: Paris ..
+Academic grades obtained: Maitre (Paris) ?.
+Family relationships: Son fils est peut-être Arnaud II DES FRICHES, docteur en droit civil et avocat au Châtelet de Paris en ? Son parent est Pierre I DES FRICHES, procureur au Parlement de Paris ; Son parent est Simon DES FRICHES, boursier au Collège de Dormans-Beauvais en qui s’acquitte de sa contribution à la collecte de en même temps que lui ; Son parent est le Magister Johannes DESFRICHES qui s’acquitte de sa contribution à la collecte de en même temps que lui ; Son parent est Laurent DES FRICHES, boursier au Collège de Dormans-Beauvais en et frère de Pierre II DES FRICHES ; Son parent est Pierre II DES FRICHES, boursier au Collège de Dormans-Beauvais en et frère de Laurent DES FRICHES ; Son parent est Étienne DES FRICHES, boursier au Collège de Dormans-Beauvais en et procureur au Parlement de Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Révision : Jean-Philippe GENET, 04/09/2019..

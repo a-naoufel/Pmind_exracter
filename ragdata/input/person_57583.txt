@@ -1,0 +1,10 @@
+PERSON: NICOLAUS de Maso
+Also known as: Nicolaus de MASO; N. Decanus Trecensis.
+Description: Doyen de Troyes.
+Status: Incertain.
+Gender: male.
+Active during: %1206-1219%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Archidiacre de Brienne %1211-1219% ;; Doyen de Troyes %1211-1219% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/03/2024)..

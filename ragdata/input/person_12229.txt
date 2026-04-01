@@ -1,0 +1,32 @@
+PERSON: GALTERIUS Map
+Also known as: Walter MAP.
+Description: Archidiacre.
+Status: Maître.
+Gender: male.
+Active during: %1162-1210%.
+Born in: Angleterre ;.
+Studied at: Paris %1154-1162% ?.
+Academic grades obtained: Maître ès arts (Paris)..
+Family relationships: Son neveu est le Magister Philip MAP, chanoine de Hereford..
+Ecclesiastical positions held: Chanoine de Londres %1163- % ;; Chanoine de Lincoln av.%1183-1185% ;; Chancelier de Lincoln ;; Precentor de Lincoln ;; Archidiacre d'Oxford ..
+Representation roles: Concile de LatranIII à Rome ;.
+Authored work: 'De visitatione abbatis', composed around ?.
+Authored work: 'De Maria Virgine', composed around ?.
+Authored work: 'De partu virginis', composed around ?.
+Authored work: 'De punitione peccati', composed around ?.
+Authored work: 'De Clarevallensibus et Cluniacensibus', composed around ?.
+Authored work: 'Dissuasio Valerii ad Ruffinum philosophum ne uxorem ducat', composed around ?.
+Authored work: 'Metamorphosis goliae episcopi', composed around ?.
+Authored work: 'De palpone et assentatore', composed around ?.
+Authored work: 'Contra ambitiosos et avaros', composed around ?.
+Authored work: 'De pravitate saeculi', composed around ?.
+Authored work: 'De avaritia et luxuria mundi', composed around ?.
+Authored work: 'De mundi cupiditate', composed around ?.
+Authored work: 'De concubinis sacerdotum', composed around ?.
+Authored work: 'De cruce denarii', composed around ?.
+Authored work: 'De nummo', composed around ?.
+Authored work: 'De diversis ordinibus hominum', composed around ?.
+Authored work: 'Dicta', composed around ?.
+Authored work: 'Cambriae epitome', composed around ?.
+Authored work: 'De nugis curialium', composed around %1181-1193%.
+Source: MIRABILE :.

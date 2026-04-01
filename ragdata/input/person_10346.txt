@@ -1,0 +1,11 @@
+PERSON: PETRUS Porte de Perpignan
+Also known as: Pierre PORTE; Pierre de PERPIGNAN.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1276-1291%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: Dominicain.
+University functions: Limoges (Couvent dominicain : lecteur in Natural. ) ;; Perpignan (Couvent dominicain : lecteur de théologie )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 3/03/2019..

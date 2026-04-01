@@ -1,0 +1,11 @@
+PERSON: PETRUS Logier
+Also known as: Petrus LOGIER.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1474-1474%.
+Studied at: Paris %1474-1474%..
+Academic grades obtained: Licencié en théologie (Paris) (le 22 février) ;; Docteur en théologie (Paris) (le 20 juin) ..
+College affiliation: Couvent (augustin) de Paris (GrandsAugustins)..
+Religious order: O.E.S.A. : frère augustin..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 28/03/2024)..

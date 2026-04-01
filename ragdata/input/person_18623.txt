@@ -1,0 +1,10 @@
+PERSON: NICOLAUS de Archia
+Also known as: Nicolaus de ARCHIA; Nicolaus de ARCHIIS.
+Description: Frater.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+Religious order: Religieux dont l'ordre n'est pas précisé ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/08/2015..

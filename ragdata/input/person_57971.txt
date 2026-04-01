@@ -1,0 +1,12 @@
+PERSON: PETRUS de Manso
+Also known as: Petrus de MANSO; Petrus de MAUSSO.
+Description: Boursier du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1518-1518%.
+Born in: Lyonnais ?.
+Diocese of origin: Diocèse de Vienne ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en décret (Paris) ;.
+College affiliation: Collège d'Autun : boursier en décret ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

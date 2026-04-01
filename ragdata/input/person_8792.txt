@@ -1,0 +1,11 @@
+PERSON: MARCUS Leo de Mantoue
+Also known as: Marcus LEO de MANTUA; Marc de MANTUA.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1340-1341%.
+Born in: Italie (Lombardie : Mantoue)..
+Studied at: Paris (Nation de France) %1340-1341%..
+Academic grades obtained: Maître ès arts (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Ecclesiastical positions held: Prieur de Notre-DamedeViepri (diocèse de Todi)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 08/09/2023)..

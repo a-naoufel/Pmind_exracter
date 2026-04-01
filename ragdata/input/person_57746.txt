@@ -1,0 +1,10 @@
+PERSON: S. Canonicus Sancti Benedicti
+Also known as: S. chanoine de Saint-Benoît.
+Description: Chanoine de Saint-Benoît.
+Status: Incertain.
+Gender: male.
+Active during: %1222-1222%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chanoine de Paris (Saint-Benoît)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 18/01/2021)..

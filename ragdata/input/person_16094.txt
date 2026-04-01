@@ -1,0 +1,10 @@
+PERSON: NICOLAUS de Waltham
+Also known as: Nicholas de WALTHAM.
+Description: Recteur de Banbury.
+Status: Étudiant.
+Gender: male.
+Active during: %1285-1285%.
+Born in: Angleterre..
+Studied at: Paris ..
+Ecclesiastical positions held: Recteur de Banbury (Oxfordshire) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 24/09/2022..

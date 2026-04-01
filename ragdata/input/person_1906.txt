@@ -1,0 +1,20 @@
+PERSON: DAVID de Dinant
+Also known as: David de DINANT.
+Description: Maître ès arts à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1206-1210%.
+Born in: Dinant ;.
+Diocese of origin: Diocèse de Liège..
+Studied at: Paris %:1190:-:1220:%..
+Academic grades obtained: Magister (Paris)..
+Ecclesiastical positions held: Chanoineprébendé de Dinant..
+University functions: Paris (Maître enseignant vers %1180-1220%) ;.
+Authored work: '(Traduction des Problemata d’ARISTOTE)', composed around ., dedicated to Dédiée à FRÉDÉRIC Ier Barberousse ?.
+Authored work: 'Liber de effectibus colere nigre in homine et de multis aliis dubiis determinatis per Aristotelem [Fragmentum G]', composed around ?.
+Authored work: 'Tractatus naturalis [Fragmentum P]', composed around ?.
+Authored work: 'Tractatus Averrois de generatione animalium [Fragmentum W]', composed around ?.
+Authored work: 'Incipiunt quedam questions edite siue facte ab Aristotele [Fragmentum O]', composed around ?.
+Authored work: 'Liber de iuuamento anhelitus', composed around ?.
+Authored work: 'Liber de anatomia venarum et arteriarum et nervorum totius corporis.', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/09/2015)..

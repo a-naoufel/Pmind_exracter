@@ -1,0 +1,12 @@
+PERSON: BONIFACIUS Johannis de Sonnevieres
+Also known as: Bonifacius JOHANNIS de Sonnevieres.
+Description: Étudiant en théologie.
+Status: Étudiant.
+Gender: male.
+Active during: %1382-1382%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Meaux..
+Studied at: Paris ..
+Academic grades obtained: Étudiant en théologie (Paris) en ;.
+Ecclesiastical positions held: Supplique en pour un canonicat avec expectative de prébende dans l'églisecathédrale de Meaux..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/09/2015)..

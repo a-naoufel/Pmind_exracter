@@ -1,0 +1,9 @@
+PERSON: MARTINUS Curialis
+Also known as: Martinus CURIALIS; Martinus LE COURTOIS; Martin LE COURTAIS.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1329-1331%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Maitre ès arts (Paris) en %1329-1330% ?; Maître en médecine (Paris) vers ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 04/09/2023)..

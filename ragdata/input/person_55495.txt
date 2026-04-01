@@ -1,0 +1,12 @@
+PERSON: NICOLAUS de Bosco 3
+Also known as: Nicolaus de BOSCO.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1449-1450%.
+Born in: Berry ?.
+Diocese of origin: Diocèse de Bourges ?.
+Studied at: Paris (Nation de France) %1449-1450%.
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Petrus CAROS pour la maîtrise en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 18/03/2023..

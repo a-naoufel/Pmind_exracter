@@ -1,0 +1,12 @@
+PERSON: NICOLAUS de Belloremo
+Also known as: Nicolaus de BELLOREMO; Nicolaus de BELLORAMO; Nicolas de BEAURAIN.
+Description: Bachelier en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1372-1416%.
+Studied at: Paris (Nation de Picardie) %1373-1398% ;.
+Academic grades obtained: Étudiant ès arts (Paris) ;; Maître ès arts (Paris) vers ;; Bachelier en théologie (Paris) avant ;.
+College affiliation: Boursier artien au collège de Navarre à Paris en ;; Boursier théologien au collège de Navarre à Paris en ..
+Ecclesiastical positions held: Curé d'une paroisse du diocèse de Paris (Edera) en ;.
+Representation roles: Participe à l'Assemblée de l'église de France à Paris en ;; Représentant de la nation de Picardie à l'Assemblée du Clergé à Paris en ;; Participe au Concile de Constance ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 9/10/2023)..

@@ -1,0 +1,11 @@
+PERSON: GUIDO 1
+Also known as: GUIDO.
+Description: Trésorier de Novare.
+Status: Maître.
+Gender: male.
+Active during: %1172-1173%.
+Studied at: Paris.
+Academic grades obtained: Magister ;.
+Ecclesiastical positions held: Trésorier de Novare ?.
+University functions: Paris (Maître vers %1173-1173%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 27/11/2024..

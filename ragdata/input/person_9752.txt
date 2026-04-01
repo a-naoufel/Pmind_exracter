@@ -1,0 +1,12 @@
+PERSON: PETRUS Anjolat
+Also known as: Petrus ANJOLAT.
+Description: Docteur en théologie.
+Status: Incertain.
+Gender: male.
+Active during: %1414-1414%.
+Studied at: ?.
+Academic grades obtained: Docteur en théologie vers ;.
+Religious order: O.S.B. : moine bénédictin.
+Religious functions: Cellérier du monastère Saint-Florent-le-Vieil dans le diocèse d'Angers en ..
+University functions: ?Paris (Faculté de théologie : Maître-régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 19/12/2023..

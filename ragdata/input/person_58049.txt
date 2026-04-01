@@ -1,0 +1,7 @@
+PERSON: STEPHANUS 15
+Also known as: STEPHANUS.
+Description: Barbier parisien.
+Status: Extérieur.
+Gender: male.
+Active during: %1313-1313%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 17/09/2024..

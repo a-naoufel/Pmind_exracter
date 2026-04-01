@@ -1,0 +1,12 @@
+PERSON: BERNARDUS Cividerii
+Also known as: Bernardus CIVIDERII; Bernardus CIVADERII.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1356-1363%.
+Born in: Catalogne ?.
+Studied at: Paris (Faculté de Théologie) ?%:1356:-:1363%..
+Academic grades obtained: Maître ès arts ;; Étudiant en théologie (Paris) ?%:1356:-:1363%..
+Religious order: O.S.B. : moine bénédictin du monastère (bénédictin) de Valles (diocèse de Barcelone)..
+Religious functions: Bénéfice réservé par le pape Urbain V dans la communauté de Ripoll (diocèse de Vich) le 20 septembre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol, révision Jean-Philippe Genet, 22/01/2021).

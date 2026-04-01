@@ -1,0 +1,28 @@
+PERSON: RANULPHUS de Albumeria
+Also known as: Ranulphe d'HOMBLIERES; Ranulphe de la HOUBLONNIERE; Ranulphus de HUMBLENORIA; Reginaldus de la HOUBLONNIERE; Ranulphus d'ALBANERIO; Ranulphus de ALBUMERIA; Arnulphus de ALBUMERIA; RENOUDUS.
+Description: Évêque de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1262-1288%.
+Born in: Normandie (La Houblonnière)..
+Diocese of origin: Diocèse de Lisieux..
+Studied at: Paris (Nation de Normandie)..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Maître en théologie (Paris) avant ..
+Ecclesiastical positions held: Chanoine de Lisieux %1262-1267% ;; Curé de Paris (Saint-Gervais) en ;; Chanoine de Paris (Notre-Dame) en %1272-1280% ;; Évêque de Paris en %1280-1288%..
+University functions: Paris (Faculté de Théologie : Maître-régent à partir de )..
+Authored work: '(Sermon pour la fête de Saint MARTIN)', composed around (à Saint-Antoine)..
+Authored work: '(Sermon pour le 2ème dimanche dans l'Octave)', composed around (à la Maison-Dieu)..
+Authored work: '(Sermon pour la fête de Saint JEAN)', composed around (à Saint-Antoine)..
+Authored work: '(Sermon pour la Purification)', composed around (aux Béguines)..
+Authored work: '(Sermon pour le 2e dimanche de Carême)', composed around (à Saint-Gervais)..
+Authored work: '(Sermon pour le 3ème dimanche de Carême)', composed around (à Saint-Germainl'Auxerrois)..
+Authored work: '(Sermon pour l'Annonciation)', composed around (aux Béguines)..
+Authored work: '(Sermon pour le dimanche des Rameaux', composed around (à Saint-Gervais)..
+Authored work: '(Sermon pour le Vendredi-Saint)', composed around (à Saint-MartindesChamps)..
+Authored work: '(Sermon pour l'Octave de Pâques)', composed around (aux Filles-Dieu)..
+Authored work: '(Sermon pour le lundi des Rogations)', composed around (à Saint-Lazare)..
+Authored work: '(Sermon pour la procession des Rogations)', composed around (à Sainte-Geneviève)..
+Authored work: 'Quodlibet I, 22 q', composed around (Noël)..
+Authored work: 'Quodlibet II, 20 q', composed around (Pâques)..
+Authored work: '(Sermon de l'épiscopat pour le 5ème dimanche après l'Epiphanie)', composed around (7 février)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 07-01-2024..

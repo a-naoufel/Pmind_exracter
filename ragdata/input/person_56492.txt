@@ -1,0 +1,13 @@
+PERSON: LEOPOLDUS de Austria
+Also known as: Leopoldus de AUSTRIA; LEUPOLDUS ducatus Austriae filius..
+Description: Astronome ?.
+Status: Incertain.
+Gender: male.
+Active during: %1250-1278%.
+Born in: Autriche ?.
+Studied at: ?.
+Academic grades obtained: ?.
+Social origin: Noble ?.
+Authored work: 'Compilatio de astrorum scientia', composed around ?%1250-1278%..
+Authored work: 'De arithmetica, libelli 3 metrice', composed around ?.
+Source: IRHT : base JONAS (Marie-Laure SAVOYE) ;.

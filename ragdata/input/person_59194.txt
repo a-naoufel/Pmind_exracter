@@ -1,0 +1,7 @@
+PERSON: CHRISTIANUS Burgundionis
+Also known as: Christianus BURGUNDIONIS.
+Description: Drapier de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1341-1345%.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

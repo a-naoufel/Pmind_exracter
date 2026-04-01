@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Le Gilleret
+Also known as: Nicolaus LE GILLERET.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1426-1468%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Curé de Reims (Saint-Michel) avant ;; Chanoine de Reims %1426-1463% ;; Chanoine de Reims (Sainte-Nourrice) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/08/2021..

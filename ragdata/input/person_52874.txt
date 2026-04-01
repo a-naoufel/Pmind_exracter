@@ -1,0 +1,11 @@
+PERSON: STEPHANUS de Asneriis
+Also known as: Stephanus de ASNERIIS; Étienne DARNIERES; Étienne DARNIERES.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1277-1300%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son parent est Guillaume d’ANIERES, évêque de Lisieux ;.
+Ecclesiastical positions held: Chanoine de Rouen %1277-1300% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 3/11/2021..

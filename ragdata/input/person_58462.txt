@@ -1,0 +1,12 @@
+PERSON: HENRICUS de Arnhem 1
+Also known as: Henricus de ARNHEM.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1346-1349%.
+Born in: Pays-Bas (Gueldre : Arnhem) ?.
+Diocese of origin: Diocèse d’Utrecht..
+Studied at: Paris (Nation Anglo-allemande)..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Arnoldus Van Den GRUTHUS pour le baccalauréat en ; Son maître est Johannes de WESALIA pour la licence en ; Son maître est Johannes de WESALIA pour la maîtrise en ; Son élève est Martinus, filius Nicolai de BOMALE pour le baccalauréat en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/12/2024)..

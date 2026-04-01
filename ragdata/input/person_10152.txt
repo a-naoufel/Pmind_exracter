@@ -1,0 +1,15 @@
+PERSON: PETRUS de Narnia
+Also known as: Petrus de NARNIA.
+Description: Archevêque de Reggio.
+Status: Maître.
+Gender: male.
+Active during: %1298-1328%.
+Born in: Italie (Ombrie : Narni)..
+Diocese of origin: Diocèse de Narni ?.
+Studied at: Paris %1298-1300%..
+Academic grades obtained: Bachelier en théologie (Paris) ?; Maître en théologie (Paris) %1309-1313% ?.
+College affiliation: Couvent (augustin) de Paris (Grands-Augustins)..
+Religious order: O.E.S.A. : frère augustin du u couvent (augustin) de Naples en %1313-1319%..
+Ecclesiastical positions held: Archevêque de Reggio % -1328%..
+University functions: Paris (Faculté de Théologie : lecteur des Sentences en %1298-1300%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 26/02/2024)..

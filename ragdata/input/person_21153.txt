@@ -1,0 +1,10 @@
+PERSON: PETRUS de Londa
+Also known as: Petrus de LONDA; Petrus de LAUDA.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1448-1464%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts en ?.
+College affiliation: Collège de Maître-Gervais : socius et boursier en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 17/08/2016..

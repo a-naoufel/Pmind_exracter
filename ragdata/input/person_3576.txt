@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Belvaco 1
+Also known as: Guillelmus de BELVACO.
+Description: Clerc du roi.
+Status: Extérieur.
+Gender: male.
+Active during: %1263-1265%.
+Born in: ?Picardie (Beauvais ?);.
+Diocese of origin: Diocèse de Beauvais ?.
+Studied at: ?.
+Academic grades obtained: Magister.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 08/03/2022..

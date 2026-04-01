@@ -1,0 +1,9 @@
+PERSON: RADULPHUS de Orliens
+Also known as: Radulphus d’ORLIENS.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1371-1371%.
+Studied at: Paris..
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 25/09/2021..

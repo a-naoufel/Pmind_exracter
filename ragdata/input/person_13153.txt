@@ -1,0 +1,11 @@
+PERSON: AMELIUS Pavillon
+Also known as: Amelius PAVILLON; Amelinus PAVELON; Armelinus PAVILLON; Hamelinus PAVILON; Hamelinus PAVILLON; Hamellinus PAVILLON.
+Description: Maître en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1444-1462%.
+Studied at: Paris (Nation de France) %1444-1462%..
+Academic grades obtained: Maître ès arts (Paris) attesté dès ;; Licencié en théologie (Paris) (22 mars) ;; Maître en théologie (Paris) (30 octobre) ..
+Academic relationships: Son élève est Johannes MATHEI pour le baccalauréat en ; Son élève est Guillelmus VINCENCII pour le baccalauréat en ; Son élève est Aegidius de MARCHIA pour le baccalauréat en ; Son élève est Johannes PEURIER pour le baccalauréat en ; Son élève est Johannes PAUMIER pour le baccalauréat en ; Son élève est Johannes de ROUELLIO pour le baccalauréat en ; Son élève est Odo de BOURNENSA pour le baccalauréat en ; Son élève est Gaufridus EMBELLO pour la licence en ; Son élève est Johannes MARTEL pour le baccalauréat en ; Son élève est Johannes MESLIER pour la licence en ; Son élève est Ludovicus BROCHET pour la maîtrise en ; Son élève est Thomas de MARCHIIS pour la maîtrise en ; Son élève est Nicolaus ROLIN pour la maîtrise en ; Son élève est Nicolaus ROLIN pour la maîtrise en ; Son élève est Petrus MARTINI pour la maîtrise en ;.
+University functions: Paris (Faculté des Arts : il candidate à la régence et aux écoles en (2 octobre)) ;; Paris (Faculté de Théologie : Maîtrerégent en (septembre) et ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol ; Jean-Philippe Genet, dernière mise à jour 23/07/2020)..

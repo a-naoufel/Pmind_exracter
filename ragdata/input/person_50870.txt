@@ -1,0 +1,16 @@
+PERSON: BARTHOLOMAEUS Exoniensis
+Also known as: Bartholomaeus EXONIENSIS; Barthélemy d’EXETER.
+Description: Évêque d’Exeter.
+Status: Maître.
+Gender: male.
+Active during: %1140-1184%.
+Born in: Normandie (Millières ?, dans le Cotentin)..
+Studied at: Paris ?.
+Academic grades obtained: Magister..
+Ecclesiastical positions held: Archidiacre d’Exeter %1155-1161% ;; Évêque d’Exeter %1161-1184%..
+Authored work: 'Contra fatalitatis errorem', composed around ?.
+Authored work: 'Dialogus contre Judaeos', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'Sermo de obitu Thomae archiepiscopi in ecclesiae Cantuariensis reconciliatione', composed around ?.
+Authored work: 'Poenitantiale', composed around ?.
+Source: ODNB (Frank BARLOW) ;.

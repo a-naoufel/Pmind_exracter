@@ -1,0 +1,10 @@
+PERSON: AALIS
+Also known as: AALIS.
+Description: Parcheminière ?.
+Status: Suppôt.
+Gender: female.
+Active during: %1299-1299%.
+Studied at: Paris..
+Family relationships: Son mari est Nicolas le PARCHEMINIER, mentionné en ..
+Social origin: Commun..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 06/06/2024..

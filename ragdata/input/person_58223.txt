@@ -1,0 +1,14 @@
+PERSON: FRANCISCUS Marbres
+Also known as: Franciscus MARBRES; Johannes CANONICUS.
+Description: Chanoine de Tortosa.
+Status: Étudiant.
+Gender: male.
+Active during: %1321-1331%.
+Born in: Catalogne ;.
+Diocese of origin: Diocèse de Barcelone..
+Studied at: Toulouse ;; Paris ;.
+Academic grades obtained: Maître ès arts (Toulouse) ;; Étudiant en théologie (Paris) ;.
+Ecclesiastical status: Prêtre..
+Religious order: O.S.A. :chanoineaugustin de Tortosa (cathédrale)..
+Authored work: 'Quaestiones libri Physicorum', composed around %1327-1329%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/06/2023)..

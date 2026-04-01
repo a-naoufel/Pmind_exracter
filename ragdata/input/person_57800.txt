@@ -1,0 +1,9 @@
+PERSON: BARTHOLOMAEUS Castelli
+Also known as: Bartholomaeus CASTELLI.
+Description: Boursier du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège d’Autun : boursier en décret en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 06/06/2024..

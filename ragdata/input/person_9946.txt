@@ -1,0 +1,12 @@
+PERSON: PETRUS Presbyteri 1
+Also known as: Petrus PRESBYTERI; Pierre le PRESTRE.
+Description: Boursier artien au collège de Navarre..
+Status: Étudiant.
+Gender: male.
+Active during: %1404-1404%.
+Studied at: Paris (Collège de Navarre) %1404-1404%..
+Academic grades obtained: Étudiant ès arts (Paris) ..
+College affiliation: Collège de Navarre : Boursier artien en ..
+Family relationships: Son frère est peut-être Raoul le PRESTRE ; Son oncle est peut-être Pierre d'AILLY..
+Ecclesiastical positions held: Chanoineprébendé de Cambrai en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/06/2021..

@@ -1,0 +1,11 @@
+PERSON: BERNARDUS Chabert
+Also known as: Bernard CHABERT; Bertrand CHABERT.
+Description: Chancelier de Paris..
+Status: Maître.
+Gender: male.
+Active during: %1206-1235%.
+Studied at: Paris %:1206-1206%..
+Academic grades obtained: Maître en théologie (Paris) ..
+Ecclesiastical positions held: Chanoine de Paris, ;; Chancelier de Paris, %1205-1206% ;; Evêque-élu de Genève ;; Archevêque d'Embrun, %1212-1235%..
+University functions: Chancelier de l'Université de Paris, %1205-1206% ;; Maîtrerégent de la Faculté de Théologie de Paris, ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 21/01/2021..

@@ -1,0 +1,9 @@
+PERSON: RADULPHUS de Mesnillo
+Also known as: Radulphus de MESNILLO.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1349-1349%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts .; Bachelier en théologie (Paris) en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/05/2021)..

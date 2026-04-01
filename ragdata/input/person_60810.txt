@@ -1,0 +1,11 @@
+PERSON: HENRICUS de Brania
+Also known as: Henricus de BRANIA.
+Description: Chanoine de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1274-1274%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Cambrai %1405-1429% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 03/01/2026..

@@ -1,0 +1,11 @@
+PERSON: ALBERTUS de Bohemia 1
+Also known as: Albertus de BOEMYA.
+Description: Bachelier ès arts..
+Status: Gradué.
+Gender: male.
+Active during: %1345-1345%.
+Born in: Bohême ?.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Academic relationships: Son maître est Mag. Johannes de WESSALYA ; c'est ce qui permet de le distinguer d'Albertus de BOHEMIA 2 qui a lui déterminé sous Conrad de MEGENBERG ; mais certains des élements de la carrière de ce dernier pourraient aussi appartenir à celle d'Albertus de BOHEMIA 1..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/06/2020)..

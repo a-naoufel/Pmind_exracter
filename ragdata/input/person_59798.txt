@@ -1,0 +1,12 @@
+PERSON: PETRUS de Lorcmes
+Also known as: Pierre de LORCMES; Pierre de LORSMES.
+Description: Clerc écolier à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1339-1339% ;.
+Studied at: Paris en ;.
+Academic grades obtained: Étudiant (Paris) en ;.
+Family relationships: Son frère est Regnaut de LORSMES, écuyer demeurant à Blandy ;.
+Social origin: Noble ?.
+Ecclesiastical status: Clerc ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

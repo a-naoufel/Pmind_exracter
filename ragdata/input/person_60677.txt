@@ -1,0 +1,10 @@
+PERSON: FRANCISCUS de La Hole
+Also known as: Franciscus de LAHOLE.
+Description: Bachelier en décret.
+Status: Maître.
+Gender: male.
+Active during: %1424-1424%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Bachelier en décret (Paris) en (4 juin) ;.
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (L. I) en (16 juillet), pour la 1ère année et le 1er volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour, 18/12/2025..

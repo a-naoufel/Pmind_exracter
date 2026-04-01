@@ -1,0 +1,13 @@
+PERSON: ROBERTUS Marguen
+Also known as: Robertus MARGUEN.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1400-1403%.
+Born in: Berry ?.
+Diocese of origin: Diocèse de Bourges ;.
+Studied at: Paris %1400-1403% ;.
+Academic grades obtained: Étudiant en décret (Paris) en %1400-1403% ;.
+Ecclesiastical status: Prêtre du diocèse de Bourges en ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Magnus Rotulus (rotulus scolarium Parisiensum) de l’Université de Paris daté de (23 octobre) et présenté à BENOÎT XIII..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 10/11/2018..

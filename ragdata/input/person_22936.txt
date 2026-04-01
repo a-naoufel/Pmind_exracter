@@ -1,0 +1,9 @@
+PERSON: GILETE
+Also known as: GILETE.
+Description: Servante.
+Status: Suppôt.
+Gender: female.
+Active during: %1443-1443%.
+Studied at: ?.
+College affiliation: Sorbonne : servante autrefois du Magister CHANTEPRIME ;; La chambre qui était autrefois celle du Magister RAVAUT à la Sorbonne lui est louée pour un an en (12 mars) pour 40 sous par an ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 3/05/2018)..

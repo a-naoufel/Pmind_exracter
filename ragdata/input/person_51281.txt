@@ -1,0 +1,11 @@
+PERSON: ROGARIUS Froissis
+Also known as: Roger FROISSIS.
+Description: Hôte du Collège de Justice.
+Status: Étudiant.
+Gender: male.
+Active during: %1448-1448%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie ?) ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Justice : hôte en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Marion BERNARD-SCHWEITZER, 3/10/2020)..

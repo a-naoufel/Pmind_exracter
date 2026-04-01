@@ -1,0 +1,11 @@
+PERSON: ALBERTUS Alberti
+Also known as: Albertus ALBERTI; Albertus Alberti de SUKOW.
+Description: Licenciè ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1461-1461%.
+Born in: Pologne (Poméranie : Sukow ?) ;.
+Diocese of origin: Diocèse de Poznan ;.
+Studied at: Paris (Nation Anglo-Allemande) avant ;; Cracovie ;.
+Academic grades obtained: Licenciè ès arts.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 10/05/2025)..

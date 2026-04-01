@@ -1,0 +1,11 @@
+PERSON: ERDEBOLDUS de Trageto
+Also known as: Erdeboldus de TRAGETO INFERIORI; Erdeboldus de TRAJECTO-INFERIORI.
+Description: Étudiant..
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Born in: Pays-Bas (Maastricht ?) ?.
+Diocese of origin: Diocèse de Liège ?.
+Studied at: Paris (Nation de Picardie ?) en ..
+Academic grades obtained: Étudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/07/2021)..

@@ -1,0 +1,14 @@
+PERSON: PETRUS Guyot
+Also known as: Petrus GUYOT.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1505-1514%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris %1505-1514%..
+Academic grades obtained: Maître ès arts (Paris) ;.
+College affiliation: Collège de Montaigu : étudiant pour son cursus és arts ;; Collège de Reims : régent ‘in grammaticalibus’ ;.
+Academic relationships: Son maître est David CRANSTON ;.
+University functions: Paris (Faculté des Arts : régent ‘in grammaticalibus’ au collège de Reims ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

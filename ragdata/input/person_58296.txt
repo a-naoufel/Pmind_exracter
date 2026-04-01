@@ -1,0 +1,13 @@
+PERSON: FREDERICUS de Baumgartenberg
+Also known as: Fredericus de BAUMGARTENBERG.
+Description: Abbé de Baumgartenberg.
+Status: Étudiant.
+Gender: male.
+Active during: %1132-1142%.
+Born in: Autriche ?.
+Studied at: Paris avant ..
+Academic grades obtained: Étudiant (Paris) avant ;.
+Religious order: O.Cist. : moine (cistercien)..
+Religious functions: Abbé (cistercien) de Baumgartenberg ..
+Ecclesiastical positions held: Évêque en Hongrie ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 06/12/2024..

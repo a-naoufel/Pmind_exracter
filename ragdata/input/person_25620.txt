@@ -1,0 +1,13 @@
+PERSON: SIMON de Kech
+Also known as: Simon de KECH; Simon de KETH.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1389-1395%.
+Born in: Écosse ;.
+Diocese of origin: Diocèse de Saint-Andrews ;.
+Studied at: Paris % :1389-1394% ;.
+Academic grades obtained: Étudiant en décret (Paris) en ;.
+Ecclesiastical status: Prêtre du diocèse de Saint-Andrews en ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus présenté par Elias de LESTRANGE, évêque de Saintes à BENOÎT XIII en (25-29 octobre) à Avignon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 9/02/2019..

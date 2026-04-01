@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Harniis
+Also known as: Guillaume de HARNES; Guillelmus de HARNIIS.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1342-1344%.
+Studied at: Paris ..
+Academic grades obtained: Magister (Paris) ..
+College affiliation: Collège de Sorbonne : procureur en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 31/03/2020..

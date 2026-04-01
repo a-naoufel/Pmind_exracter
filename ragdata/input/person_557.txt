@@ -1,0 +1,10 @@
+PERSON: AMANDUS Cordani
+Also known as: Amandus CORDANI.
+Description: Bachelier cursor en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1432-1433%.
+Studied at: Paris.
+Academic grades obtained: Bachelier en théologie (cursor en )..
+University functions: Paris (Faculté de Théologie : cursor )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2020)..

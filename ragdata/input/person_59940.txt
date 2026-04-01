@@ -1,0 +1,14 @@
+PERSON: STEPHANUS de Mares
+Also known as: Stephanus de MARES; Stephanus DU MARES.
+Description: Boursier du collège de Dainville.
+Status: Maître.
+Gender: male.
+Active during: %1505-1512%.
+Born in: Artois ?.
+Diocese of origin: Diocèse d’Arras ;.
+Studied at: Paris (Nation de Picardie ?) %1505-1506%..
+Academic grades obtained: Maître ès arts (Paris) en ;.
+College affiliation: Collège de Montaigu : étudiant pour son cursus en arts ;; Collège de Dainville : boursier en %1505-1506%.
+Academic relationships: Son maître est Johannes MAJORIS ;.
+Ecclesiastical status: Prêtre en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

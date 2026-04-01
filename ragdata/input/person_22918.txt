@@ -1,0 +1,59 @@
+PERSON: GERARDUS Odonis
+Also known as: Geraldus ODONIS; Geraldus ODO; Gerardus ODONIS; Geraldus OTTONIS; Gérard de CAHORS; Gérard ODON; Giraldus ODONIS; Gerhardus ODONIS; Guiral OT.
+Description: Franciscain..
+Status: Maître.
+Gender: male.
+Active during: %1320-1349%.
+Born in: Quercy (Camboulit) ;.
+Diocese of origin: Diocèse de Cahors ?.
+Studied at: Paris ;; Toulouse..
+Academic grades obtained: D. Th. (Paris)..
+College affiliation: Couvent (franciscain) de Paris ;.
+Religious order: O.F.M. : frère (franciscain) du couvent (franciscain) de Figeac..
+Religious functions: Ministregénéral des Franciscains %1329-1342% ;.
+Ecclesiastical positions held: Patriarche d’Antioche %1342-1349%..
+University functions: Toulouse (Studiumfranciscain : Lecteur en théologie) ;.
+Representation roles: Envoyé en mission par le pape JEAN XXII auprès de PHILIPPE VI, roi de France, mission à propos de laquelle le pape écrit au roi en ;; Légat en Hongrie et en Bosnie en %1339-1340%..
+Authored work: 'Tractatus de contractibus et restitutionibus et de sententia excommunicationis', composed around à Toulouse ?.
+Authored work: 'In I-IV Sent.', composed around ?.
+Authored work: 'Repetitiones in Quatuor Libros Sententiarum', composed around ?.
+Authored work: 'Super Compositionem Epistolarum', composed around ?.
+Authored work: 'Postillae in Psalmos', composed around ?.
+Authored work: 'Postillae in librum Sapientiae', composed around ?.
+Authored work: 'Commentaria in Epist. ad Galatas', composed around ?.
+Authored work: 'Commentaria in Epist. ad Romanos', composed around ?.
+Authored work: 'Commentaria in Epist. ad Corinthios I', composed around ?.
+Authored work: 'Commentaria in Epist. ad Corinthios II', composed around ?.
+Authored work: 'Liber de Figuris Bibliorum', composed around ?.
+Authored work: 'Lectio de signis diei iudicii', composed around ?.
+Authored work: 'De septem verbis N.D. Ihesu Christi in Cruce', composed around ?.
+Authored work: 'Hymni ad Officium de Stigmatibus Sancti Francisci', composed around ?.
+Authored work: 'Catechismus Scolarium Novellorum', composed around ?, dedicated to Dédié à André de HONGRIE, duc de Calabre..
+Authored work: 'Opinio de Immaculata Concepcione', composed around ?.
+Authored work: 'Tractatus de Visione Beatifica', composed around ?.
+Authored work: 'Sermones super epistola Pauli', composed around ?.
+Authored work: 'Sermones ‘Exivit vincens ut vinceret’ (A 6 2)', composed around ?.
+Authored work: 'Rituale professionis religiosae', composed around ?.
+Authored work: 'Tractatus de syllogismo', composed around ?.
+Authored work: 'Tractatus de suppositione', composed around ?.
+Authored work: 'Logica', composed around ?.
+Authored work: 'De augmento formae', composed around ?.
+Authored work: 'De continuo', composed around ?.
+Authored work: 'De intentionibus', composed around ?.
+Authored work: 'De esse et essentia', composed around ?.
+Authored work: 'De intensione et remissione formarum', composed around ?.
+Authored work: 'De loco', composed around ?.
+Authored work: 'De motu', composed around ?.
+Authored work: 'De natura universali', composed around ?.
+Authored work: 'De principiis naturae', composed around ?.
+Authored work: 'De principiis scientiarum', composed around ?.
+Authored work: 'De tempore', composed around ?.
+Authored work: 'Quaestiones de naturali philosophia', composed around ?.
+Authored work: 'Epistola ad ministrum et custodem Provinciae Burgundiae', composed around ?.
+Authored work: 'Epistola ad ministrum et custodem Provinciae Mediolanensis', composed around ?.
+Authored work: 'Expositio super Ethicam', composed around ?.
+Authored work: 'De paupertate'.
+Authored work: 'Epistola ad Michelem de Cessena', composed around ..
+Authored work: 'Sententia excommunicationis in capitulo Parisiensi lata [1229] et un capitulo Perpinianensi confirmata [1331] contra Michaelem de Caesena eiusque sequaces', composed around %1329-1331%..
+Authored work: 'Sermo Christus assistens pontifex (Hebr. 9 11)', composed around ?.
+Source: Répertoire des auteurs franciscains préparé par Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress ("Geraldus Odonis").

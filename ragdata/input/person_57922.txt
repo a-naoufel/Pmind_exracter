@@ -1,0 +1,17 @@
+PERSON: RICARDUS Knapwell
+Also known as: Ricardus KNAPWELL.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1269-1288%.
+Born in: Angleterre..
+Studied at: Oxford..
+Academic grades obtained: Bachelier en théologie (Oxford) en ;; Maître en théologie (Oxford) en ;.
+University functions: Oxford (Couvent dominicain : lecteur des Sentences à un moment quelconque entre et ) ;.
+Authored work: 'Notabilia super Sent. I, d. 1-10', composed around Vers ?.
+Authored work: 'Correctorium corruptorii Quare', composed around ?.
+Authored work: 'Quaestiones disputatae de verbo', composed around ?.
+Authored work: 'Quaestio disputate de unitate formae', composed around ?.
+Authored work: 'Quodlibet', composed around ?.
+Authored work: 'Impugnationes contra Aegidium Romanum', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

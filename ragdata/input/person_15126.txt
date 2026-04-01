@@ -1,0 +1,9 @@
+PERSON: PETRUS Le Masuier
+Also known as: Pierre LEMASUIER.
+Description: Écolier de la Faculté de médecine..
+Status: Étudiant.
+Gender: male.
+Active during: %1479-1480%.
+Studied at: Paris %1479-1480%..
+Academic grades obtained: Étudiant en médecine (Paris) %1479-1480%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 19/12/2023..

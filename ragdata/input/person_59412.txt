@@ -1,0 +1,9 @@
+PERSON: GUIDO Bedel
+Also known as: Guy BEDEL.
+Description: Maître en décret.
+Status: Maître.
+Gender: male.
+Active during: %1398-1398%.
+Studied at: Paris..
+Academic grades obtained: Maître en décret (Paris)..
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

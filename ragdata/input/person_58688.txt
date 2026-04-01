@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Amici 1
+Also known as: Nicolaus AMICI.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1431-1431%.
+Diocese of origin: Diocèse de Tournai ;.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en décret (Paris) (7 février) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 19/03/2025..

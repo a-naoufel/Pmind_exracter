@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Godinel
+Also known as: Guillelmus GODINEL; Guillaume GODINEL.
+Description: Boursier théologien au collège de Navarre..
+Status: Étudiant.
+Gender: male.
+Active during: %1354-1357%.
+Studied at: Paris (Collège de Navarre) %1354-1357%..
+Academic grades obtained: Étudiant en théologie (Paris) %1354-1357%..
+College affiliation: Collège de Navarre : boursier théologien en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 2/05/2022..

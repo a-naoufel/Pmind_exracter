@@ -1,0 +1,13 @@
+PERSON: NICOLAUS Pagani 2
+Also known as: Nicolaus PAGANI; Nicolaus PAYEN.
+Description: Maître en théologie dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1498-1539%..
+Studied at: Paris..
+Academic grades obtained: Licencié en théologie (Paris) (26 juin) ;; Maître en théologie (Paris) (10 mars) ;.
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère dominicain..
+Religious functions: Provincial (dominicain) de France %1528-1539% ;; Vicairegénéral des Dominicains ;.
+University functions: Paris (Faculté de Théologie : lecteur des Sentences au couvent dominicain) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 05/01/2023..

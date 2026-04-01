@@ -1,0 +1,11 @@
+PERSON: COTTA
+Also known as: COTTA.
+Description: Chanoine de Verceil.
+Status: Étudiant.
+Gender: male.
+Active during: %1150-1190%.
+Born in: Italie ?).
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?%1150-1170%..
+Religious order: Chanoine (O.S.A.) de Verceil ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 02/02/2022)..

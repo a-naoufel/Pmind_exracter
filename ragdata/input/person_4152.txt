@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Asperomonte
+Also known as: Guillelmus de ASPEROMONTE.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1379-1379%.
+Born in: Île-de-France ;.
+Diocese of origin: Diocèse de Senlis..
+Studied at: ?Paris..
+Academic grades obtained: Bachelier en décret (Paris)..
+Ecclesiastical status: Clerc du diocèse de Senlis..
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus de ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 05/03/2022..

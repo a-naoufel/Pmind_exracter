@@ -1,0 +1,11 @@
+PERSON: ERASMUS de Lantshut
+Also known as: Erasmus RIEDER de Lanczhuta; Erasmus de LANTSHUT.
+Description: Recteur de l'Université de Vienne.
+Status: Extérieur.
+Gender: male.
+Active during: %1407-1438%.
+Born in: Bavière (Landshut)..
+Studied at: Vienne ..
+Academic grades obtained: Bachelier ès arts (Vienne) ;; Maître ès arts (Vienne) ;; Docteur en médecine (Vienne) ;.
+University functions: Vienne (Université : Recteur en ) ;; Vienne (Faculté de Médecine : Doyen en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/07/2021)..

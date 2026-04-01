@@ -1,0 +1,18 @@
+PERSON: RAMBERTUS de Primadiciis
+Also known as: Rambertus de PRIMADICIIS; Rambert de PRIMADIZII; Ramperto POLO.
+Description: Évêque de Castello.
+Status: Maître.
+Gender: male.
+Active during: %1268-1308%.
+Born in: Italie (Émilie-Romagne : Bologne ?)..
+Diocese of origin: Diocèse de Bologne ?.
+Studied at: Paris..
+Academic grades obtained: Licencié en théologie (Paris) ?.
+College affiliation: Couvent (dominivcain) de Paris (Jacobins) %1295-1299%..
+Religious order: O.P. : frère dominicain du couvent (dominicain) de Paris (Jacobins) ;.
+Religious functions: Définiteurgénéral des Dominicains au chapitregénéral (dominicain) de Palencia en ;.
+Ecclesiastical positions held: Évêque de Castello %1302-1308%..
+University functions: Paris (Faculté de Théologie : maître-régent au couvent dominicain %1295-1299%)..
+Authored work: 'Apologeticum veritatis contra corruptorium', composed around %1286-1287%..
+Authored work: 'Sermo', composed around ?%1301-1302%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 07-01-2024..

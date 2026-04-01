@@ -1,0 +1,12 @@
+PERSON: GONSALVUS de Lisboa
+Also known as: Gonçalo de LISBOA.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1210-1214%.
+Born in: Portugal..
+Diocese of origin: Diocèse de Lisbonne ?.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+Religious order: O.Ss.T. : frère trinitaire..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 2/05/2024..

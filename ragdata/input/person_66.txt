@@ -1,0 +1,12 @@
+PERSON: ADAM de Linteia
+Also known as: Adam de LINTEIA.
+Description: Archidiacre d'Ely.
+Status: Étudiant.
+Gender: male.
+Active during: %1280-1320%.
+Born in: Angleterre..
+Studied at: ?Paris (Nation Anglo-allemande ?)..
+Academic grades obtained: Étudiant en droit canonique..
+Academic relationships: Son maître est Jean de SAINT-GILLES..
+Ecclesiastical positions held: Archidiacre d'Ely ;; Préchantre d'Ely..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

@@ -1,0 +1,11 @@
+PERSON: CAROLUS de Petit-Cellier
+Also known as: Charles de PETIT-CELLIER.
+Description: Boursier.
+Status: Étudiant.
+Gender: male.
+Active during: %1372-1372%.
+Studied at: Paris (Collège de Navarre) %1372-1372%..
+Academic grades obtained: Étudiant ès arts (Paris) ..
+College affiliation: Boursier artien au Collège de Navarre à Paris en ..
+Social origin: Appartient à une importante famille proche du pouvoir royal..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 2/04/2021)..

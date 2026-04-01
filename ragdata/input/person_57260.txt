@@ -1,0 +1,12 @@
+PERSON: RAIMUNDUS de Montigny-le-Franc
+Also known as: Raimond de MONTIGNY-LE-FRANC.
+Description: Boursier du Collège de Laon.
+Status: Maître.
+Gender: male.
+Active during: %1374-1379%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie ?) %1374-1379%..
+Academic grades obtained: Étudiant (Paris) en ;; Maître ès arts (Paris) ;; Étudiant en décret depuis cinq ans en ;.
+College affiliation: Collège de Laon : boursier en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/01/2024)..

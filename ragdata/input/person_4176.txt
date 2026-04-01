@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Bus
+Also known as: Guillelmus de BUS.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1427-1438%.
+Studied at: Paris.
+Academic grades obtained: Étudiant (Paris) ..
+Ecclesiastical status: Prêtre en ..
+Religious order: O.S.B.. : moine bénédictin du monastère de Saint-Vaast (Diocèse de Arras)..
+Religious functions: Maître des novices de Saint-Vaast en ;; Quatrième prieur de Saint-Vaast en ;; Troisième prieur de Saint-Vaast en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 11/03/2022..

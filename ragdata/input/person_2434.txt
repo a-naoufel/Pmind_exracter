@@ -1,0 +1,9 @@
+PERSON: GALFREDUS 7
+Also known as: GALFRIDUS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1370-1370%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Maître ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 30/09/2021..

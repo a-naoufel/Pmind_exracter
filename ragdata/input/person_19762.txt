@@ -1,0 +1,12 @@
+PERSON: COLINUS Olabant
+Also known as: Colinus dit OLABANT.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1357-1357%.
+Born in: Artois..
+Diocese of origin: Diocèse de Thérouanne..
+Studied at: Paris ..
+Academic grades obtained: Étudiant ès arts en ..
+College affiliation: Collège de Boncourt ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 22/04/2021..

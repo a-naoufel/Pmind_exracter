@@ -1,0 +1,13 @@
+PERSON: AUBERTUS de Sancto Symone
+Also known as: Aubertus de SANCTO-SYMONE; Aubertus de ROUVEROY.
+Description: Recteur de l'Université de Paris..
+Status: Maître.
+Gender: male.
+Active during: %1451-1458%.
+Studied at: Paris (Nation de France)..
+Academic grades obtained: Maître ès arts (Paris) avant ..
+Social origin: Noble ;.
+Ecclesiastical status: Prêtre en ;.
+Ecclesiastical positions held: Chanoine de Cambrai %1451-1458% ;.
+University functions: Paris (Université de Paris : élu en (16 décembre) et poursuit son rectorat jusqu'au 23 mars 1453, quand est élu Aegidius MARIE)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/10/2025)..

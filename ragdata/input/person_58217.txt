@@ -1,0 +1,11 @@
+PERSON: ANTHONIUS Mercatoris
+Also known as: Anthonius MERCATORIS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1505-1507%.
+Born in: Hongrie (Transylvanie : AlbaIulia) ;.
+Diocese of origin: Diocèse d’Erdelyi..
+Studied at: Paris (Nation Anglo-germanique) %1505-1507% ;.
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour, 08/11/2024..

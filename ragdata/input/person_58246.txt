@@ -1,0 +1,12 @@
+PERSON: BENEDICTUS de Ungaria
+Also known as: Benedictus de HONGARIA; Benedictus MAKRAI; Benedict de MAKRA.
+Description: Conseiller royal.
+Status: Maître.
+Gender: male.
+Active during: %1384-1427%.
+Born in: Hongrie (Roumanie : Chier)..
+Studied at: Prague ;; Vienne ;; Paris (Nation Anglo-allemande) %1395-1401% ;; Padova ..
+Academic grades obtained: Maître ès arts (Prague) ;; Licencié en droit canon (Paris ?) ;; Docteur in utroque (université inconnue) ;.
+University functions: Vienne (Examinator Vindoboniae %1388-1389%)..
+Representation roles: Missions diplomatiques pour SIGISMOND, roi de Hongrie à partir de ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour, 21/11/2024..

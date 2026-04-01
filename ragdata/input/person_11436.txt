@@ -1,0 +1,12 @@
+PERSON: SIMON de Bragella
+Also known as: Simon de BRAGELLA; Simon de BRESLES.
+Description: Chapelain du collège de Navarre..
+Status: Étudiant.
+Gender: male.
+Active during: %1333-1343%.
+Born in: Picardie (Bresles ?) ?.
+Diocese of origin: Diocèse de Beauvais ?.
+Studied at: Paris (Collège de Navarre) %1343-1343%.
+Academic grades obtained: Étudiant en théologie (Paris) ..
+College affiliation: Bourse de chapelain au collège de Navarre en ..
+Ecclesiastical positions held: Chapelain du collège de Navarre à Paris en ;; Chapellenies dans le diocèse de Noyon en ;; Chapelain à Bresles (diocèse de Beauvais) en ;; Chanoine de Saint-Quentin en ..

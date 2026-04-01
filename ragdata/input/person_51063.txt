@@ -1,0 +1,9 @@
+PERSON: GALFREDUS Foucaut
+Also known as: Gaufridus FOUCAUT; Gaufridus FOUQUAUT.
+Description: Maître d’école.
+Status: Maître.
+Gender: male.
+Active during: %1418-1430%.
+Studied at: Paris %1418-1430%..
+Academic grades obtained: Maître ès arts (Paris ?)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 1/09/2020..

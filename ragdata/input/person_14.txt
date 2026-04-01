@@ -1,0 +1,11 @@
+PERSON: ADAM 1
+Also known as: ADE; ADAM.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1180-1180%.
+Studied at: Paris en ..
+Academic grades obtained: Étudiant ?.
+College affiliation: Collège des Dix-Huit ?.
+Ecclesiastical positions held: Sous-diacre..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 6/11/2016..

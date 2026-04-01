@@ -1,0 +1,9 @@
+PERSON: ANDREAS Hactivannus de Offembuegh
+Also known as: Andreas HACTIVANUS de Offembuegh; Andreas de OFFEMBURG.
+Description: Étudiant..
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Born in: Alémanie (Offenburg) ?.
+Studied at: Paris (Nation Anglo-allemande) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/08/2020)..

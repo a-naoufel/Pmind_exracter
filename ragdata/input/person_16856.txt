@@ -1,0 +1,9 @@
+PERSON: ROBERTUS de Pinconio
+Also known as: Robertus de PINCONIO.
+Description: Écuyer.
+Status: Extérieur.
+Gender: male.
+Active during: %1371-1373%.
+Family relationships: Sa mère est la Dame de Milly-en-Beauvaisis...
+Social origin: Noble..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 27/12/2018..

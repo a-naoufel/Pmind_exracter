@@ -1,0 +1,13 @@
+PERSON: PETRUS de Barzy
+Also known as: Petrus de BARZY.
+Description: Chanoine de Saint-Jean des Vignes.
+Status: Étudiant.
+Gender: male.
+Active during: %1380-1385%.
+Studied at: Paris %1380-1385%..
+Academic grades obtained: Étudiant (Paris) %1380-1385%..
+College affiliation: Collège de Dormans-Beauvais : religieux-boursier %1380-1385% ;.
+Family relationships: Son parent est peut-être Gilles de BARZY ;.
+Ecclesiastical status: Prêtre en ;.
+Religious order: O.S.A. : chanoineaugustin de Soissons (Saint-JeandesVignes).
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/12/2018..

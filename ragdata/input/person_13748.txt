@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Murii
+Also known as: Guillelmus MURII; Guillaume MURII.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1394-1394%.
+Diocese of origin: Diocèse de Cambrai..
+Studied at: Paris (Nation de Picardie) ;; Montpellier %:1394-1394%..
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en médecine (Montpellier) ..
+Ecclesiastical status: Clerc du diocèse de Cambrai..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 19/05/2022)..

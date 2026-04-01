@@ -1,0 +1,7 @@
+PERSON: GUILLEMETA de Parvo Ponte
+Also known as: Guillemeta de PARVO PONTE.
+Description: Commerçante ?.
+Status: Extérieur.
+Gender: male.
+Active during: %1433-1433%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 12/06/2024..

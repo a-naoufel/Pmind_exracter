@@ -1,0 +1,11 @@
+PERSON: GERARDUS de Monte Acuto
+Also known as: Gerardus de MONTE ACUTO; Gerardus de MONTE ACUTO.
+Description: Chanoine de Reims.
+Status: Maître.
+Gender: male.
+Active during: %1325-1339%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris ?) ;; Licencié en droit civil ;.
+Family relationships: Son petit-neveu est Jean de MONTAIGU, archevêque de Sens ; Son petit-neveu est Gérard II de MONTAIGU, évêque de Paris ;.
+Ecclesiastical positions held: Chanoine de Paris %1327-1334% ;; Chanoine de Châlons-en-Champagne %1331-1335% ;; Chanoine de Chartres ;; Chanoine de Reims %1334-1339% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 8/01/2021.

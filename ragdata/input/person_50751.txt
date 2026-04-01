@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Le Feutrier
+Also known as: Guillelmus LEFEUTRIER.
+Description: Docteur ès lois.
+Status: Gradué.
+Gender: male.
+Active during: %1337-1337%.
+Studied at: Paris .; Licencié ès arts (Paris)..
+Academic grades obtained: Docteur ès lois (Paris) ;.
+Ecclesiastical positions held: Chapelain de Sacey (Saint-Laurent) ;; Provision pour un canonicat avec expectative de prébende de Bayeux en réponse au rotulus de l'Université de Paris en : mandat à l'abbé (bénédictin) de Caen (Saint-Étienne), mandat à l'abbé (bénédictin) de Cerisy, et à l’écolâtre de Coutances ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 3/04/2020..

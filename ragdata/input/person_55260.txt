@@ -1,0 +1,11 @@
+PERSON: BERTRANDUS 1
+Also known as: BERTRANDUS.
+Description: Chancelier de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1205-1206%.
+Studied at: Paris..
+Academic grades obtained: Maître.
+Ecclesiastical positions held: Chancelier de Paris %1205-1206% ;; Archevêque d’Embrun %1206- % ;.
+University functions: Paris (Chancelier %1205-1206%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 16/02/2023)..

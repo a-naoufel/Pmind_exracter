@@ -1,0 +1,9 @@
+PERSON: GALFREDUS de Crotay
+Also known as: Gaufridus de CROTAY.
+Description: Licencié en droit civil.
+Status: Extérieur.
+Gender: male.
+Active during: %1430-1431%.
+Studied at: ?.
+Academic grades obtained: Licencié en droit civil..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 17/11/2016..

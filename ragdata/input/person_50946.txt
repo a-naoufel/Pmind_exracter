@@ -1,0 +1,10 @@
+PERSON: ANDREAS de Sancto Germano
+Also known as: Andreas de SANCTO GERMANO.
+Description: Chanoine d'Auxerre.
+Status: Extérieur.
+Gender: male.
+Active during: %1281-1281%.
+Studied at: ?.
+Academic grades obtained: Magister..
+Ecclesiastical positions held: Chanoine d'Auxerre ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 3/07/2020)..

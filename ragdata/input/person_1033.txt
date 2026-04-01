@@ -1,0 +1,10 @@
+PERSON: ARNULPHUS de Furnivalle
+Also known as: Arnulphus de FURNIVALLE; Arnolfus de FURNIVALLE; Arnoul de FOURNIVAL.
+Description: Maître ès arts ?.
+Status: Maître.
+Gender: male.
+Active during: %1278-1283%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts ?.
+Ecclesiastical positions held: Chanoine d'Amiens ;; Doyen d'Amiens en %1278-1283%.; Archidiacre d'Amiens %1281-1299% ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet 17/11/2020..

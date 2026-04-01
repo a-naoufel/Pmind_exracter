@@ -1,0 +1,9 @@
+PERSON: NICOLAUS Marchant
+Also known as: Nicolaus MARCHANT.
+Description: Conseiller-clerc au Parlement de Paris.
+Status: Incertain.
+Gender: male.
+Active during: %1449-1450%.
+Studied at: ?.
+Academic grades obtained: Maître ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 27/03/2023..

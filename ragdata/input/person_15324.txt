@@ -1,0 +1,24 @@
+PERSON: HAIMO de Faversham
+Also known as: Haymo de FAVERSHAM; Haimo de FAVERSHAM; Aimon de FAVERSHAM.
+Description: Ministre général des Franciscains.
+Status: Maître.
+Gender: male.
+Active during: %1224-1243%.
+Born in: Angleterre..
+Studied at: Paris %1224-1232% ;; Oxford %1232-1239% ;.
+Academic grades obtained: Magister (Paris)..
+Religious order: O.F.M. : frère franciscain..
+Religious functions: Custode du couvent (franciscain) de Paris %1230-1232% ;; Custode du couvent (franciscain) d'Oxford %1233-1239% ;; Ministreprovincial des Franciscains en Angleterre %1239-1240% ;; MinistreGénéral des Franciscains %1240-1243%..
+University functions: Maître à Paris (couvent franciscain) ;; Lecteur au couvent (franciscain) de Bologne ;; Lecteur au couvent (franciscain) de Padoue..
+Representation roles: Mission diplomatique à Constantinople en au nom du pape pour négocier une union avec l'église grecque ; il assiste au Synode de Nymphée en Bythinie..
+Authored work: 'Disputationes', composed around ?.
+Authored work: '(Sermon sur le Psaume CXX.1)', composed around ..
+Authored work: 'Relatio disputationis habitae coram Graecis anno 1234', composed around ?..
+Authored work: 'Sermones per annum', composed around ?.
+Authored work: 'Ordo breviarii fratrum minorum secundum consuetudinem Romane curie', composed around ?, dedicated to Écrit sur l'ordre de GREGOIRE IX..
+Authored work: 'Ordo missalis fratrum minorum secundum consuetudinem Romane curie', composed around ?.
+Authored work: 'Super magistrum Sententiarum', composed around ?.
+Authored work: 'Ordo agendorum et dicendorum a sacerdote in missa privata et feriali iuxta consuetudinem ecclesiae romanae', composed around ?.
+Authored work: 'Ordo ad benedicendum mensam per totum annum', composed around ?.
+Authored work: 'Ordinationes divini officii', composed around ?.
+Source: Répertoire des auteurs franciscains préparé par Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress.

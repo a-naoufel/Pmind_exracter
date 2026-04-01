@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Sancto Benedicto 2
+Also known as: Guillaume de SANCTO BENEDICTO.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1286-1286%.
+Studied at: Paris..
+Academic grades obtained: Magister ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 16/04/2022..

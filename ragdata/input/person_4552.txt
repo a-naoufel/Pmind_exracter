@@ -1,0 +1,12 @@
+PERSON: ELIAS de Plombosc
+Also known as: Helyas de PLOMBOSC.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1279-1279%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie ?) 1279%.
+Academic grades obtained: Magister.
+College affiliation: Collège du Trésorier ;.
+University functions: Recteur de "Ne...." près de NeufchâtelenBray, sans doute Recteur de Neuville-Ferrières en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 07/07/2021..

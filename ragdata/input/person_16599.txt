@@ -1,0 +1,13 @@
+PERSON: ANDREAS de Fossa
+Also known as: Andreas de FOSSA.
+Description: Étudiant en arts.
+Status: Étudiant.
+Gender: male.
+Active during: %1387-1391%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse d'Amiens..
+Studied at: Paris (Nation de Picardie ?) ..
+Academic grades obtained: Étudiant en arts (Paris) en ..
+College affiliation: Collège des Cholets ;.
+Ecclesiastical positions held: Provision pour un bénéfice à la collation de l'abbé et du monastère de Compiègne (Saint-Corneille) sur le rotulus du Collège des Cholets en : mandat à l'évêque de Senlis ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 1/08/2020)..

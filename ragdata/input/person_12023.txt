@@ -1,0 +1,10 @@
+PERSON: THOMAS de Kendale
+Also known as: Thomas de KEUDALE; Thomas de CEUDALE; Thomas KENDALE.
+Description: Magister..
+Status: Maître.
+Gender: male.
+Active during: %1329-1330%.
+Born in: Angleterre..
+Studied at: Paris %1329-1330% ;; Oxford % -1334%..
+Academic grades obtained: Maître (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 03/10/2024..

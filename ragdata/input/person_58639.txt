@@ -1,0 +1,13 @@
+PERSON: PETRUS de Paris 1
+Also known as: Petrus de PARIS; Pedro de ARTAJONA.
+Description: Évêque de Pampelune.
+Status: Maître.
+Gender: male.
+Active during: %1140-1193%.
+Born in: Navarre ?.
+Diocese of origin: Diocèse de Pampelune ?.
+Studied at: Paris ?.
+Academic grades obtained: Magister ?.
+Social origin: Noble..
+Ecclesiastical positions held: Évêque de Pampelune %1167-1193%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 27/02/2025)..

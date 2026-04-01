@@ -1,0 +1,14 @@
+PERSON: BENEDICTUS 2
+Also known as: BENEDICTUS; BENOÎT; BENEDICTUS Gregorii; Benedictus GREGORII..
+Description: Évêque.
+Status: Étudiant.
+Gender: male.
+Active during: %:1303:-1338%.
+Born in: Suède (Uppland (Ledinge))..
+Diocese of origin: Diocèse d'Uppsala..
+Studied at: Paris, ..
+Academic grades obtained: Étudiant en droit canon, ..
+Family relationships: Son père est sans doute GREGER de Ledinge, cité en ; Son frère est sans doute HEMMING Gregersson; Son neveu (nepos) est ESKILLUS Eskilli..
+Social origin: Noblesse.
+Ecclesiastical positions held: Prêtre, ;; ?Curé, ;; ?Vicairecathédral d'Uppsala, ;; Chanoine d'Uppsala (cathédrale), ;; Évêque d'Åbo (Turku), %1321-1338%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 22/07/2016, dernière révision 14/01/2019..

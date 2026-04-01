@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Depardieu
+Also known as: Guillelmus DEPARDIEU.
+Description: Licencié en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1448-1448%.
+Studied at: Paris %1448-1448%..
+Academic grades obtained: Licencié en décret (Paris) en avril ..
+Academic relationships: Élève de Johannes TOPETI, abbé (Prémontré) de Joyenval, en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 25/04/2022..

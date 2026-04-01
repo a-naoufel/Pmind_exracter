@@ -1,0 +1,12 @@
+PERSON: STENARUS
+Also known as: STENARUS; STENERUS; STENARDUS.
+Description: Évêque.
+Status: Incertain.
+Gender: male.
+Active during: %1222-1238%.
+Born in: Suède (Östergötland).
+Studied at: ?Paris, ..
+Academic grades obtained: Mag. ?(P), ..
+Social origin: ?Noblesse.
+Ecclesiastical positions held: Évêque de Skara, %1229-1238%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 28/09/2017..

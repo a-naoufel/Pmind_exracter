@@ -1,0 +1,11 @@
+PERSON: MICHAEL de Villa Nova
+Also known as: Michael de VILLA NOVA.
+Description: Chanoine de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1291-1304%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Rodez %1291-1304% ;.
+Other ecclesiastical functions: Vicaire de Rodez ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 21/05/2022..

@@ -1,0 +1,7 @@
+PERSON: GERARDUS Chapieau
+Also known as: Gerrardus CHAPIEAU.
+Description: Tailleur de pierre.
+Status: Extérieur.
+Gender: male.
+Active during: %1450-1450%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 13/12/2021..

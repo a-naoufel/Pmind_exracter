@@ -1,0 +1,10 @@
+PERSON: ALANUS 9
+Also known as: ALANUS.
+Description: Curé d’Argillières.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris..
+Academic grades obtained: Maître (Paris) en ?.
+Ecclesiastical positions held: Curé d’Argillières en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 05/05/2020)..

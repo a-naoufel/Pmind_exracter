@@ -1,0 +1,11 @@
+PERSON: GUIDO de Verneto
+Also known as: Guy de VERNET; Guy DU VERNET.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1247-1247%.
+Born in: Auvergne..
+Studied at: Paris ..
+Academic grades obtained: Étudiant en décret (Paris) en ;.
+Social origin: Noble..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/03/2022)..

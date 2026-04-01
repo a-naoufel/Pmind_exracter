@@ -1,0 +1,11 @@
+PERSON: MARCUS Jacobi
+Also known as: Marcus JACOBI; MARCHUS%; MARKUS.
+Description: Chanoine.
+Status: Maître.
+Gender: male.
+Active during: %1345-1361%.
+Born in: Suède.
+Studied at: ?Paris, ..
+Academic grades obtained: Mag. ?(P), ..
+Ecclesiastical positions held: Chanoine de Linköping (cathédrale), %1345-1361%;; Curé de Vist (diocèse de Linköping), ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 20/03/2018..

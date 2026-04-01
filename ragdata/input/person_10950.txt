@@ -1,0 +1,16 @@
+PERSON: ROBERTUS Masselin
+Also known as: Robert MASSELIN.
+Description: Médecin..
+Status: Étudiant.
+Gender: male.
+Active during: %1426-1446%.
+Born in: Normandie (Rouen) ;.
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris %1438-1438% ;; Caen %1441-1446%..
+Academic grades obtained: Étudiant en médecine (Paris) ?; Étudiant en théologie (Paris) ;; Étudiant (Caen) %1441-1446%..
+Family relationships: Son père est Colin MASSELIN..
+Social origin: Bourgeoisie..
+Ecclesiastical positions held: Bénéfice à Coutances ;; Bénéfice à Saint-Just (Marne)..
+University functions: Caen (Université : Recteur en )..
+Representation roles: Envoyé par Jacques de BOURBON et oncle de JANUS de Lusignan, roi de Chypre auprès du pape à Rome concernant le sort de son neveu prisonnier..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, ean-Philippe Genet 8/12/2020)..

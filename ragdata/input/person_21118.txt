@@ -1,0 +1,10 @@
+PERSON: PETRUS Des Friches 1
+Also known as: Petrus des FRICHES.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1494%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+Family relationships: Son fils est Simon DES FRICHES,boursier au Collège de Dormans-Beauvais en ; Son parent est le Magister Johannes DESFRICHES qui s’acquitte de sa contribution à la collecte de en même temps que lui ; Son parent est le Magister Arnaldus DESFRICHES qui s’acquitte de sa contribution à la collecte de en même temps que lui ; Son parent est Laurent DES FRICHES, boursier au Collège de Dormans-Beauvais en et frère de Pierre II DES FRICHES ; Son parent est Pierre II DES FRICHES, boursier au Collège de Dormans-Beauvais en et frère de Laurent DES FRICHES ; Son parent est Étienne DES FRICHES, boursier au Collège de Dormans-Beauvais en et procureur au Parlement de Paris en ; Son parent est Arnauld II DES FRICHES, docteur en droit civil et avocat au Châtelet de paris en ;.
+Source: Paris au Moyen Âge : Les Parisiens :.

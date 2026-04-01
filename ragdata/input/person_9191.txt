@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Baron 2
+Also known as: Nicolaus BARON; Nicolaus de BARIONE; Nicolaus de BARRO.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1488-1490%.
+Studied at: Paris %1488-1489%.
+Academic grades obtained: Licencié en théologie (Paris) (le 12 mars) ;; Docteur en théologie (Paris) (le 16 février) ..
+Religious order: O.Cist. : moine cistercien du couvent de Charlieu..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 08/10/2023..

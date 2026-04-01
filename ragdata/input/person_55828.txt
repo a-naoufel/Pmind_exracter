@@ -1,0 +1,10 @@
+PERSON: MICHAEL Barrotte
+Also known as: Michel BARROTTE; Michel BARRETE; Michel BARECTE.
+Description: Principal du collège de La Marche.
+Status: Maître.
+Gender: male.
+Active during: %1502-1508%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris) en ;; Bachelier en théologie (Paris) en ;.
+College affiliation: Collège de LaMarche : principal en %1502-1508% ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

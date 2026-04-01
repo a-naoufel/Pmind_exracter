@@ -1,0 +1,129 @@
+PERSON: GALTERIUS Burley
+Also known as: Galterus BURLEY; Walter BURLEY.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Born in: Angleterre (Burley-in-Wharfedale)..
+Studied at: Oxford %1296-1307% ;; Paris %:1307:-1326%.; Toulouse ?; Bologne ?.
+Academic grades obtained: Maître ès arts (Oxford) av. ;; Docteur en théologie (Paris) av. ..
+College affiliation: Sorbonne (avant )..
+Academic relationships: Son maître est Thomas de WILTON ;.
+Social origin: Noble (gentry)..
+Ecclesiastical positions held: Recteur de Welbury (Yorkshire) ;; Recteur de Pytchley (Northamptonshire) %1318-1341% ;; Chanoine de Chichester %1327-1332% ;; Chanoine de Wells %1332-1336% ;; Chanoine de Chester-le-Street (Durham) ;; Recteur de Glemsford (Suffolk) %1341-1342% ;; Recteur d'Ashtead (Surrey) %1342-1344% ;; Recteur de GreatChart (Kent) ;; Recteur d'ImmerChapel (Wiltshire) ;; Chanoine de Salisbury ;.
+University functions: Oxford (Merton College : fellow %1300-1306% au moins) ;; Paris (Faculté de théologie : lecteur des Sentences %1317-1318% ?)..
+Representation roles: Diplomate : chargé par EDWARD III de suivre à la Curie le dossier de canonisation de Thomas, Earl of LANCASTER ;; En , il semble avoir rejoint Richard de BURY alors en train de négocier en Rhénanie..
+Authored work: 'Quaestio Theologica', composed around ?.
+Authored work: 'Commentarium in lib. Sententiarum', composed around ?.
+Authored work: 'Expositio super lib. Porphyri (version a)', composed around ?.
+Authored work: 'Expositio super lib. Porphyri (version b)', composed around ?.
+Authored work: 'Expositio super lib. Porphyri (version c)', composed around ?.
+Authored work: 'Quaestiones super Porphyrum', composed around ?.
+Authored work: 'Expositio super lib. Predicamentorum (version a)', composed around ?.
+Authored work: 'Expositio super lib. Predicamentorum (version b)', composed around ?.
+Authored work: 'Expositio libri de sex principiis (version a)', composed around ?.
+Authored work: 'Expositio libri de sex principiis (version b)', composed around ?.
+Authored work: 'Expositio libri de sex principiis (Expositio vetus)', composed around ?.
+Authored work: 'Expositio libri de sex principiis (Expositio nova)', composed around ?.
+Authored work: 'Expositio libri de sex principiis (version e)', composed around Après ..
+Authored work: 'Expositio super lib. Perihermeneias (version a)', composed around ..
+Authored work: 'Expositio super lib. Perihermeneias (version b)', composed around ?.
+Authored work: 'Expositio super lib. Perihermeneias (version c)', composed around ?.
+Authored work: 'Expositio in Aristotelis librum Porphyrii et Predicamentorum', composed around ?.
+Authored work: 'Expositio super artem veterem', composed around ..
+Authored work: 'Questiones de arte vetere : De universalibus, de predicamentis et de sex principiis', composed around Vers %1320-1323%..
+Authored work: '?Expositio libri Priorum', composed around ?.
+Authored work: '?Tractatus sub libro Priorum', composed around ?.
+Authored work: 'Expositio super libros duos Posteriorum Analyticorum (versions a et b)', composed around ?.
+Authored work: 'Quaestiones super librum Posteriorum', composed around ?.
+Authored work: 'Expositio super libris Topicorum', composed around ?.
+Authored work: 'Expositio super librum Elenchorum', composed around ?.
+Authored work: 'Questiones libri Elenchorum', composed around ?.
+Authored work: 'Commentarius in Aristotelis de Sophisticis Elenchis', composed around ?.
+Authored work: 'Commentarius in Aristotelis Categorias', composed around ?.
+Authored work: 'Suppositiones', composed around ?..
+Authored work: 'De puritate artis logicae. Tractatus brevior', composed around ?.
+Authored work: 'De puritate artis logicae. Tractatus longior', composed around Après ..
+Authored work: '(Notabilia de logicis) I. Tractatus de relativis', composed around ?.
+Authored work: '(Notabilia de logicis) II. Tractatus de abstractis', composed around ?.
+Authored work: '(Notabilia de logicis) III De divisione entis', composed around ?.
+Authored work: '(Notabilia de logicis) IV De finito et infinito', composed around ?.
+Authored work: '(Notabilia de logicis) V De toto et parte', composed around ?.
+Authored work: '(Notabilia de logicis) VI Tractatus de sensibus', composed around ?.
+Authored work: '(Notabilia de logicis) VII De duobus primis principiis', composed around ?.
+Authored work: '(Notabilia de logicis) VIII De qualitatibus', composed around ?.
+Authored work: '(Notabilia de logicis) IX De tribus in toto universo per se agentibus', composed around Av. ..
+Authored work: '(Notabilia de logicis) X De divisione potentie in activam et passivam', composed around ?.
+Authored work: '(Notabilia de logicis) XI De diffinitione sive de modo diffiniendi', composed around ?.
+Authored work: 'De causa individuationis', composed around ?.
+Authored work: 'De probationibus', composed around ?.
+Authored work: 'De exclusivis', composed around ?.
+Authored work: 'De exceptivis', composed around ?.
+Authored work: 'De syncategorematibus', composed around ?.
+Authored work: 'De consequentiis (version a)', composed around ?.
+Authored work: 'De consequentiis (version b)', composed around ?.
+Authored work: 'De obligationibus (version a)', composed around ?..
+Authored work: '?De obligationibus (version b)', composed around ?.
+Authored work: '?De obligationibus (version c)', composed around ?.
+Authored work: '?De obligationibus (version d)', composed around ?.
+Authored work: 'De insolubilibus', composed around ?.
+Authored work: 'Tractatus de formis', composed around ?.
+Authored work: 'Tractatus primus : De formis accidentalibus I, De quattuor conclusionibus circa formas accidentales', composed around ?.
+Authored work: 'Quaestio disputata : utrum contradictio sit maxima oppositio', composed around ?.
+Authored work: '(Tractatus secundus) De intentione et remissione formarum', composed around ..
+Authored work: '?De Materia et Forma', composed around ?.
+Authored work: 'De novem generibus accidentium', composed around ?.
+Authored work: 'Tractatus primus : de comparacione specierum', composed around ? (quaestio disputée à Toulouse)..
+Authored work: '?De ideis', composed around ?.
+Authored work: 'Quodlibet : de primo et ultimo instanti', composed around Avant , à Toulouse..
+Authored work: '?Auctoritates Philosophiae', composed around ?.
+Authored work: 'Expositio super fallacias breves ad modum Oxonie', composed around ?.
+Authored work: 'Quaestio de actione contrariorum', composed around ?.
+Authored work: 'Expositio librorum physicorum (version 1)', composed around ..
+Authored work: 'Questiones super libros Physicorum (version 2)', composed around ..
+Authored work: 'Expositio librorum Physicorum (version 3)', composed around %1334-1337%..
+Authored work: 'Epistula dedicatoria ad Parisiensem Universitatem', composed around ?.
+Authored work: 'Tractatus de potentiis animae', composed around ?..
+Authored work: 'Expositio de Caelo et Mundo', composed around ?.
+Authored work: 'Quaestiones de caelo et mundo', composed around ?.
+Authored work: 'Expositio super de Generatione et Corruptione (version a)', composed around ?.
+Authored work: 'Expositio super Metheorum libros quatuor brevissime', composed around ?.
+Authored work: 'Quaestiones super libros Metheorum', composed around ?.
+Authored work: 'Tractatus de planetis et eorum virtute', composed around ?.
+Authored work: 'Abbreviatio libri Problematum Aristotelis', composed around ?.
+Authored work: 'Expositio super de Anima', composed around ?.
+Authored work: '?Quaestiones in Aristotelis de Anima', composed around ?.
+Authored work: '?Questiones super III De anima', composed around ?.
+Authored work: 'Expositio de sensu et sensato', composed around ?.
+Authored work: 'Expositio de memoria et reminiscentia', composed around ?.
+Authored work: 'Expositio de somno et vigilia', composed around ?.
+Authored work: 'Expositio de longitudine et brevitate vitae', composed around ?.
+Authored work: 'Expositio de motu animalium', composed around ?.
+Authored work: 'Expositio super Averrois de substantia orbis', composed around ?.
+Authored work: '?Expositio super libros de causis', composed around ?.
+Authored work: '?Expositio super Physiognomia', composed around ?.
+Authored work: '?Commentarius in Aristotelis de Caelo et Mundo', composed around ?.
+Authored work: 'Expositio super libros Ethicorum', composed around %1334-1341%., dedicated to Dédié à Richard de BURY, évêque de Durham..
+Authored work: 'Conclusiones seu tituli eorum quae tractantur in libris X Ethicorum', composed around ?.
+Authored work: 'Expositio super librum Politicorum', composed around %1338-1343%., dedicated to Dédié à Richard de BURY, évêque de Durham, ainsi que, ultérieurement, au Pape CLEMENT VI ; écrit à la requête de Richard BENTWORTH, évêque de Londres..
+Authored work: 'In libros oeconomicorum', composed around ?.
+Authored work: '?Flores parvi, seu Auctoritates librorum Aristotelis', composed around ?.
+Authored work: 'Summa totius logicae', composed around ?.
+Authored work: 'Tractatus de decem generibus accidentium', composed around ?.
+Authored work: 'De quinque sensibus', composed around ?.
+Authored work: 'De sophismatibus cum sua sophistaria', composed around ?.
+Authored work: 'Quaestiones super libros Topicorum', composed around ?.
+Authored work: 'Sententia super Barbarismo Prisciani'.
+Authored work: 'Super Parvia Naturalia', composed around ?.
+Authored work: 'Conclusiones Metaphysicae', composed around ?.
+Authored work: 'De fluxu et reflexu maris anglicani', composed around ?.
+Authored work: 'De mixtione elementorum', composed around ?.
+Authored work: 'Expositio et quaestiones super Metaphysicam Aristotelis', composed around ?.
+Authored work: 'Divisiones et sententiae summarie super Metaphysica', composed around ?.
+Authored work: 'Sententia super libris Physicorum', composed around ?.
+Authored work: 'Not. super librum Meteororum', composed around ?.
+Authored work: 'Expositio de Generatione et Corruptione (b)', composed around ?.
+Authored work: 'Notulae super De caelo et mundo', composed around ?.
+Authored work: 'Expositio super De Anima', composed around ?.
+Authored work: 'Quaestiones super Aristotelis De anima', composed around ?.
+Authored work: 'De Vitis et Moribus Philosophorum', composed around ?.
+Source: MIRABILE : http://www.mirabileweb.it/author/galterius-burlaeus-n-1275-m-post-1343-author/1993.

@@ -1,0 +1,12 @@
+PERSON: PETRUS Capucii
+Also known as: Petrus CAPUCII.
+Description: Maître en arts et en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1349-1349%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Bayeux ;.
+Studied at: Paris (Nation de Normandie) %1349-1349%..
+Academic grades obtained: Maître ès arts (Paris) ;; Maître en médecine (Paris) ..
+Ecclesiastical positions held: Diacre du diocèse de Bayeux ;; Candidat à un bénéfice en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 5/03/2019..

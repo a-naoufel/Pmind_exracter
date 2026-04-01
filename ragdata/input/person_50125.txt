@@ -1,0 +1,14 @@
+PERSON: HENRICUS de Mamesfeld
+Also known as: Henry de MAMESFELD.
+Description: Chancelier de l’Université d’Oxford.
+Status: Incertain.
+Gender: male.
+Active during: %1288-1328%.
+Born in: Angleterre (Nottinghamshire ?)..
+Diocese of origin: Diocèse de Lincoln..
+Studied at: Oxford (Merton College).
+Academic grades obtained: Maître ès arts (Oxford) ;; Docteur en théologie (Oxford).
+Ecclesiastical status: Ordonné diacre et prêtre en à Lincoln ;.
+Ecclesiastical positions held: Recteur de Flintham (Nottinghamshire) %1296-1311% ;; Chanoine de Lincoln %1312-1328% ;; Dean de Lincoln %1316-1328%..
+University functions: Oxford (Merton College : fellow %1288-1296%) ;; Oxford (Université : chancelier %1309-1312%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 05/09/2019..

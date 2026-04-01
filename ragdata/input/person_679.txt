@@ -1,0 +1,10 @@
+PERSON: ANDREAS Molitoris
+Also known as: Andreas MOLITORIS.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1479-1479%.
+Born in: ?Bavière (Bischofsheim) ?.
+Studied at: Paris (Nation Anglo-Allemande) ;; ?Ingolstadt ..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 31/08/2020..

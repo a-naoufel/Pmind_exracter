@@ -1,0 +1,12 @@
+PERSON: PETRUS Lemovicensis 1
+Also known as: Petrus LEMOVICENSIS; Petrus de LEMOVICIS.
+Description: Doyen de la faculté de médecine..
+Status: Maître.
+Gender: male.
+Active during: %1262-1270%.
+Born in: ?Limousin ?.
+Diocese of origin: ?Diocèse de Limoges ?.
+Studied at: Paris..
+Academic grades obtained: Maître en médecine (Paris), puisqu'il est doyen ,.
+University functions: Paris (Faculté de Médecine : Maître-régent) ?; Doyen de la Faculté de médecine de Paris en ;; Doyen de la Faculté de médecine de Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne TOURNIEROUX ; révision, Jean-Philippe GENET, 25/08/2023..

@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Verduno 4
+Also known as: Guillelmus de VERDUNO.
+Description: Bachelier en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1436-1437%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Sens..
+Studied at: Paris (Nation de France) %1436-1437%..
+Academic grades obtained: Maître ès arts (Paris) attesté en ;; Bachelier en décret (Paris) 17 mai ..
+Ecclesiastical status: Prêtre du diocèse de Sens..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (1e année) en (12 juin)) ;; Paris (Faculté de Décret : Lecteur des Décrétales (2e année) en (12 octobre)) ;; Paris (Faculté de Décret : Lecteur des Décrétales (3e année) en (12 octobre)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 16/04/2015..

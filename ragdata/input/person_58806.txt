@@ -1,0 +1,13 @@
+PERSON: DANIEL 1
+Also known as: DANIEL.
+Description: Évêque de Prague.
+Status: Étudiant.
+Gender: male.
+Active during: %1140-1167%.
+Born in: Bohême ?.
+Diocese of origin: Diocèse de Prague ?.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) vers ..
+Ecclesiastical positions held: Prévôt de Prague %1143-1148% ;; Évêque de Prague %1148-1167%..
+Representation roles: Ambassadeur de WLADISLAS III, duc de Bohême et de FRÉDÉRIC Ier Barberousse auprès du pape ALEXANDRE III et de l’antipape VICTOR IV..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 05/05/2025..

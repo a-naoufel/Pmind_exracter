@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Janalhaco
+Also known as: Guillelmus de JANALHACO.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1418-1418%.
+Born in: Limousin ?.
+Diocese of origin: Diocèse de Limoges..
+Studied at: Paris %1418-1418%..
+Academic grades obtained: Bachelier en décret (Paris) 26 janvier ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Annr Tournieroux ; révision, Jean-Philippe Genet, 28/03/2022..

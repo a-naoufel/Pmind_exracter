@@ -1,0 +1,12 @@
+PERSON: MURARDUS de Amiens de Crepy
+Also known as: Mourard d’AMIENS de Crépy.
+Description: Étudiant au Collège de Laon..
+Status: Étudiant.
+Gender: male.
+Active during: %1385-1385%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Laon : étudiant jusqu’en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 13/12/2020..

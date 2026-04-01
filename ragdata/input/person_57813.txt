@@ -1,0 +1,9 @@
+PERSON: AALIS La Parcheminière
+Also known as: Aalis LA PARCHEMINIERE.
+Description: Parcheminiere ?.
+Status: Suppôt.
+Gender: female.
+Active during: %1430-1430%.
+Studied at: Paris..
+Social origin: Commun..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 06/06/2024..

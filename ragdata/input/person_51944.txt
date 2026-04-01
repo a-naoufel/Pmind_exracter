@@ -1,0 +1,36 @@
+PERSON: NICOLAUS de Lyra
+Also known as: Nicolas de LYRE.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1290-1349%.
+Born in: Normandie (La-Neuve-Lyre)..
+Diocese of origin: Diocèse d'Évreux..
+Studied at: Paris.
+Academic grades obtained: Bachelier (biblique) en théologie (Paris) %1301-1302% ;; Bachelier en théologie (Paris) ;; Maître en théologie (Paris) ;.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers); Collège de Bourgogne (fondateur) ;.
+Religious order: O.F.M. : frère franciscain du couvent (franciscain) de Verneuil vers ..
+Religious functions: Ministreprovincial (franciscain) de France ?; Ministreprovincial (franciscain) de Bourgogne ;.
+University functions: Paris (Université : il est l’un des membres, en tant que bachelier en théologie, de l’assemblée universitaire réunie en (26 octobre) au Temple par l’inquisiteur Guillaume de PARIS pour entendre la confession publique de Jacques de MOLAY) ;; Paris (Faculté de Théologie : Maître-régent au couvent franciscain %1308-1310%).; Paris (Faculté de Théologie : il est peut-être le NICOLAS, cordiger qui approuve en (3 septembre) avec d’autres maîtres la lecture par Robert de PILMORE, recteur d’un nouveau statut qui stipule que nul étudiant ne pourra obtenir de lettres de scolarité si le maître dont il a suivi l’école n’a pas auparavant juré qu’il était un véritable étudiant ;.
+Authored work: 'Comm. in lib. I-IV Sententiarum', composed around ?.
+Authored work: 'Replicationes contra Johannem de Polliaco (Quodl.III.7)', composed around ?.
+Authored work: 'Quodlibet I de adventu Christi', composed around ..
+Authored work: 'Quodlibet II (21 q.)', composed around ?.
+Authored work: 'Quodlibet III (12 q.)', composed around ?.
+Authored work: 'Quodlibet IV (20 q.)', composed around ?.
+Authored work: 'Probatio adventus Christi', composed around ?.
+Authored work: 'Responsio ad quemdam Judaeum ex verbis Evangelii secundum Mattheum contra Christum nequiter arguentem', composed around (23 Juin).
+Authored work: 'De Sacramento Eucharistiae', composed around Tractatus de corpore Christi.
+Authored work: 'Postilla literalis super totam Bibliam', composed around %1322-1331%..
+Authored work: 'De differentia translationis nostrae ab Hebraica littera Veteris Testamentis', composed around (16 Octobre)..
+Authored work: 'Tabula concordantiarum evangeliorum', composed around ?.
+Authored work: 'De visione divinae essentiae ab animabus sanctis a corpore separatis', composed around (12 Janvier).
+Authored work: 'Postilla moralis', composed around (23 Avril)..
+Authored work: 'Oratio devota seu contemplatio ad honorem S.Francisci', composed around Avant ?.
+Authored work: 'Sermones de tempore', composed around ?.
+Authored work: 'Expositio orationis dominicae', composed around ?.
+Authored work: 'De Trinitate', composed around ?.
+Authored work: '(Traduction des Ordinationes du pape Benoît XII)', composed around ..
+Authored work: 'Ad Scotum, de Lapide philosophico', composed around ?.
+Authored work: 'Ad Bernardum Viridunen. de Lapide philosophico', composed around ?.
+Source: Répertoire des auteurs franciscains préparé par Bert ROEST : Franciscan Authors, 13th-18th Century : A catalogue in progress :.

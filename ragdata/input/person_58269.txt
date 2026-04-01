@@ -1,0 +1,15 @@
+PERSON: GUILLELMUS de Tyr
+Also known as: Guillaume de TYR; Guillelmus de TYR.
+Description: Archevêque de Tyr.
+Status: Incertain.
+Gender: male.
+Active during: %1150-1186%.
+Born in: Palestine (Jérusalem)..
+Diocese of origin: Diocése de Jerusalem..
+Studied at: Paris ;; Bologne..
+Academic grades obtained: Étudiant ès arts (Paris) ;; Étudiant en droit (Bologne)..
+Ecclesiastical positions held: Chanoine d’Acre ;; Archidiacre de Tyr ;; Archidiacre de Nazareth %1173-1174% ;; Archevêque de Tyr %1175-1186%..
+Authored work: 'Gesta Orientalium Principum', composed around ?, dedicated to Écrit à la demande d’AMAURY I, roi de Jérusalem..
+Authored work: 'Actes du Concile de Latran III', composed around ?.
+Authored work: 'Chronique', composed around %1170-1184%., dedicated to Écrit à la demande d’AMAURY I, roi de Jérusalem..
+Source: ARLIMA :.

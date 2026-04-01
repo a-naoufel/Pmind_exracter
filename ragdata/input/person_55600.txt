@@ -1,0 +1,12 @@
+PERSON: NICOLAUS Ruffus
+Also known as: Nicolaus RUFFUS; NICOLAUS.
+Description: Chanoine.
+Status: Incertain.
+Gender: male.
+Active during: %1260-1272%.
+Born in: Danemark?..
+Studied at: Paris, av. ;.
+Academic grades obtained: Magister (P), av. ;.
+Ecclesiastical positions held: Chanoine de Ribe, %:1260-1272%;; Chanoine de Paris, av. ;.
+Other ecclesiastical functions: Official de Paris, av. ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 02/03/2023..

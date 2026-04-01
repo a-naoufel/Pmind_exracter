@@ -1,0 +1,10 @@
+PERSON: GOBERTUS de Cruce
+Also known as: Gaubertus de CRUCE.
+Description: Chanoine de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1398-1413%.
+Studied at: ?.
+Academic grades obtained: Bachelier en droit canon ;.
+Ecclesiastical positions held: Chanoine d’Angoulême ;; Chanoine de Rodez %1401-1411% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 31/05/2022..

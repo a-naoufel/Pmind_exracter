@@ -1,0 +1,9 @@
+PERSON: RAIMUNDUS 4
+Also known as: RAIMUNDUS.
+Description: Médecin.
+Status: Extérieur.
+Gender: male.
+Active during: %1284-1284%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 09/04/2024)..

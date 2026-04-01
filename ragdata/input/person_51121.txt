@@ -1,0 +1,10 @@
+PERSON: MICHAEL de Fontenailles
+Also known as: Michel de FONTENAILLES.
+Description: Membre du Collège de Maître-Gervais.
+Status: Étudiant.
+Gender: male.
+Active during: %1380-1382%..
+Studied at: Paris %1380-1382%..
+Academic grades obtained: Étudiant en médecine (Paris)..
+College affiliation: Collège de Maître-Gervais : socius %1380-1382% ;; Boursier en médecine en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Marion Bernard-Schweitzer 16/09/2020..

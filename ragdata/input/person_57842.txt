@@ -1,0 +1,10 @@
+PERSON: FRANCISCUS Baillivi
+Also known as: Franciscus BAILLIVI; François BAILLI; François BAILLIF.
+Description: Boursier du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1484-1486%.
+Studied at: Paris..
+Academic grades obtained: Étudiant en théologie (Paris) %1484-1486%..
+College affiliation: Collège d’Autun : boursier en théologie %1484-1486% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 08/06/2024..

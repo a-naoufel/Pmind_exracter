@@ -1,0 +1,11 @@
+PERSON: GERARDUS de Moreto
+Also known as: Gerardus de MORETO.
+Description: Abbé de Saint-Germain-des-Prés.
+Status: Extérieur.
+Gender: male.
+Active during: %1263-1282%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.S.B. : moine bénédictin ;.
+Religious functions: Abbé (bénédictin) de Paris (Saint-Germain-des-Prés) %:1263-1278% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 8/01/2021.

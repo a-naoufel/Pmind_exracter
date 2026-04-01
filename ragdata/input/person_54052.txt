@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Alligret
+Also known as: Guilelmus ALLIGRET.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1451-1451%.
+Studied at: Paris..
+Academic grades obtained: Bachelier en théologie (Paris) ;.
+Academic relationships: Son maître est Guillaume EVRARD qui supervise sa lecture cursive de la Bible en ;.
+University functions: Paris (Faculté de Théologie : Bachelier curseur, 1er cours en (27 mai)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, 07/08/2022..

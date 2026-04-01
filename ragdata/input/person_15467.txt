@@ -1,0 +1,12 @@
+PERSON: CLEMENS Juvenis
+Also known as: Clemens JUVENIS; Clemens JUESNE; Clemens LEJEUNE.
+Description: Clunisien.
+Status: Étudiant.
+Gender: male.
+Active during: %1384-1416%.
+Studied at: Paris %:1384:-:1400:%..
+Academic grades obtained: Étudiant (Paris) %:1384:-:1400:%..
+College affiliation: Collège de Cluny ?.
+Religious order: O.Clun. : moine clunisien..
+Religious functions: Sacristain de Saint-Julien-le-Pauvre à Paris (dépendance de l'abbaye de Longpont dans le diocèse de Paris) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, 24/03/2021..

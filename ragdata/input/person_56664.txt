@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Besseto 1
+Also known as: Guillermus de BESSETO.
+Description: Chanoine de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1306-1313%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ?.
+Ecclesiastical positions held: Chanoine de Clermont %1306-1313% ;; Archidiacre de Billom %1306-1313% ;; Chanoine de Billom (Saint-Cerneuf) ;; Curé de Polminhac (diocèse de Saint-Flour) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 26/09/2023)..

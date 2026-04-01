@@ -1,0 +1,8 @@
+PERSON: STEPHANUS Alexii
+Also known as: Stephanus ALEXII.
+Description: Citoyen romain.
+Status: Extérieur.
+Gender: male.
+Active during: %1238-1238%.
+Born in: Italie (Latium : Rome) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/02/2024)..

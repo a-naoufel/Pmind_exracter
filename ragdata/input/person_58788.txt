@@ -1,0 +1,12 @@
+PERSON: SIMON de Monteletherico
+Also known as: Simon de MONTELETHERICO.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1270-1292%.
+Born in: Île-de-France (Monthléry ?) ?.
+Diocese of origin: Diocèse de Paris ?.
+Studied at: Paris..
+Academic grades obtained: Licencié en décret (Paris) en ;.
+Ecclesiastical positions held: Chanoine de Chartres %1288-1292% ;; Prévôt d’Auvers ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 29/04/2025)..

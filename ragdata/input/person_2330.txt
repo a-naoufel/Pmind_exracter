@@ -1,0 +1,15 @@
+PERSON: FRANCISCUS de Melduno
+Also known as: Franciscus de MELDUNO.
+Description: Docteur en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1364-1371%.
+Born in: Savoie ?.
+Diocese of origin: Diocèse de Lausanne..
+Studied at: Paris %1364-1373%..
+Academic grades obtained: Licencié en théologie (Paris) ;; Docteur en théologie (Paris) ..
+College affiliation: Couvent (dominicain) de Paris (Jacobins) %1369-1373..
+Religious order: O.P. : frère dominicain.
+Religious functions: Lecteur des Sentences et de philosophie morale au couvent d'Orléans ;; Lecteur au couvent de Besançon ;; Lecteur au couvent de Lyon ..
+University functions: Paris (Faculté de Théologie : lecteur des Sentences en %1369-1370% au couvent dominicain) ?..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 29/08/2021..

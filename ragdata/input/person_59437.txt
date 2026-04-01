@@ -1,0 +1,9 @@
+PERSON: REGINALDUS Garin
+Also known as: Rigault GARIN.
+Description: Opposant du collège d’Autun dans un procès.
+Status: Extérieur.
+Gender: male.
+Active during: %1427-1427%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

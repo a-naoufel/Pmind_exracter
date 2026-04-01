@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de La Maire
+Also known as: Guillelmus de LAMAIRE.
+Description: Chapelain de Saint-Germain l'Auxerrois.
+Status: Étudiant.
+Gender: male.
+Active during: %1459-1459%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ;.
+Ecclesiastical positions held: Chapelain de Paris (Quinze-Vingt) ;; Chapelain de Paris (Saint-Germainl'Auxerrois) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ rédaction : Jean-Philippe Genet, 29/03/2022..

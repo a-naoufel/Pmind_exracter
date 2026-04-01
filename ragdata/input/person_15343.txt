@@ -1,0 +1,13 @@
+PERSON: NICOLAUS de Cannis
+Also known as: Nicolas de CANNIS.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1215-1250%.
+Born in: Orléanais ?.
+Diocese of origin: Diocèse de Chartres ?.
+Studied at: Paris %:1220:-:1230:%..
+Academic grades obtained: Étudiant Droit (Paris) vers %1220-1230% ;; Maître ès arts ?.
+Ecclesiastical positions held: Archidiacre de Chartres ;.
+University functions: Paris (Maître enseignant les arts libéraux vers %1215-1220% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 14/08/2023)..

@@ -1,0 +1,11 @@
+PERSON: IMBERTUS de Sancto-Laurentio
+Also known as: Imbertus de SANCTO-LAURENTIO; Imbert de SAINT-LAURENT.
+Description: Évêque d’Agen.
+Status: Étudiant.
+Gender: male.
+Active during: %1398-1438%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) ?; Licencié en décret ;.
+Ecclesiastical positions held: Chantre de Poitiers (Saint-Hilaire) % -1398% ;; Évêque d’Agen %1398-1438% ;.
+Representation roles: Participe au Concile de Pise en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 6/01/2019..

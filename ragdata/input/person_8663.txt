@@ -1,0 +1,11 @@
+PERSON: LAURENTIUS de Upsalia
+Also known as: Laurentius de UPSALIA; Laurentius AESSELIUS?.
+Description: Chanoine.
+Status: Maître.
+Gender: male.
+Active during: %1313-:1320%.
+Born in: Suède (Uppland (?Uppsala)).
+Studied at: Paris, ..
+Academic grades obtained: Magister? (P.), ..
+Ecclesiastical positions held: ?Prévôt d'Uppsala (cathédrale), %1317-:1320%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 01/06/2014..

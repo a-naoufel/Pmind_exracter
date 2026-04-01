@@ -1,0 +1,13 @@
+PERSON: REGINALDUS de Molinis
+Also known as: Reginaldus de MOLINIS; Reginaldus de MOLINES.
+Description: Évêque de Nevers.
+Status: Incertain.
+Gender: male.
+Active during: %1317-1360%.
+Born in: Bourgogne (Moulins-Engilbert) ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son frère est Guillaume PETIT-PRÉVÔT ; Son frère est Johannes de MOLINIS, secrétaire du roi ; Son neveu est Philippus de MOLINIS, évêque d'Évreux ;.
+Social origin: Noble par anoblissement ;.
+Ecclesiastical positions held: Chanoine de Varzy ;; Chanoine d’Autun %1320-1341% ;; Abbé d’Autun (Saint-Étienne) % -1341% ;; Chanoine de Melun ;; Chanoine de Troyes %1332-1335% ;; Chanoine de Tours ;; Chanoine d’Amiens %1334-1355% ;; Chanoine d’Évreux %1335-1359% ;; Chanoine de Sens %1338-1341% ;; Chanoine de Paris (Notre-Dame) %1341-1355% ;; Chanoine de Chartres %1349-1359% ;; Prévôt d’Ingré %1350-1360% ;; Chanoine de Nevers %1350-1359% ;; Chanoine de Bayeux ;; Archidiacre d'Étampes %1356-1359% ;; Chanoine de Lisieux ;; Chanoine de Laon ;; Évêque de Nevers %1359-1360% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 13/09/2022..

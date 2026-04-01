@@ -1,0 +1,37 @@
+PERSON: GUILLELMUS de Sancto Amore
+Also known as: Guillelmus de SANCTO AMORE; Guillaume de SAINT AMOUR.
+Description: Chanoine de Beauvais.
+Status: Maître.
+Gender: male.
+Active during: %1228-1272%.
+Born in: Lyonnais (Revermont) ;.
+Diocese of origin: Diocèse de Lyon ;.
+Studied at: Paris % :1224-1256%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Maître ès arts (Paris) ;; Maître en décret (Paris) ;; Maître en théologie (Paris) ;.
+Family relationships: Son neveu est Pierre BALISSON, chanoine de Mâcon, alias Pierre de SAINT-AMOUR, recteur de Paris (Université) (en ) ; Son neveu est Pierre DUMONT. Son petit-neveu est Gaufridus de SANCTO-AMORE, évêque de Mâcon ;.
+Social origin: Bourgeoisie ?.
+Ecclesiastical status: Sous-diacre..
+Ecclesiastical positions held: Chanoine de Beauvais % :1238- % ;; Recteur de Granville %1238- % ;; Chanoine de Mâcon %1243-1257% ;.
+University functions: Paris (Université : recteur).; Paris (Faculté de théologie : Maître-régent) ;; Les maîtres de l’Université de Paris écrivent à LOUIS IX, roi de France pour qu’il permette à Guillelmus de SANCTo-AMORE de revenir à Paris et le roi leur répond ;.
+Authored work: 'Principium', composed around .
+Authored work: 'In lib. Psalmorum Comment. imperfectus', composed around ?.
+Authored work: 'Liber de Antichristo et ejusdem ministris', composed around ..
+Authored work: 'Sermons de Mâcon', composed around (janvier ou février ?)..
+Authored work: '(Sermon pour le dimanche des Rameaux)', composed around ..
+Authored work: '(Sermon pour le jeudi saint)', composed around ..
+Authored work: 'Qui amat periculum', composed around (1er mai)..
+Authored work: '(Sermon pour le Ve dimanche après Pâques)', composed around ..
+Authored work: '(Sermon pour la fête de la Pentecôte)', composed around ..
+Authored work: 'Si quis diligit me', composed around (4 juin)..
+Authored work: 'Sermo de phariseo et publicano', composed around (20 août)..
+Authored work: '(Réponse à Nicolas de Lisieux)', composed around .
+Authored work: 'Summa theologica', composed around ?.
+Authored work: 'Collectiones canonicae et canonicae Scripturae', composed around av..
+Authored work: 'Quaestio de mendicitate (Reportatio)', composed around ..
+Authored work: 'Quaestio disputata de quantitate eleemosynae', composed around %:1255-1256:%.
+Authored work: 'Quaestio disputata de valido mendicante', composed around v %1255-56%.
+Authored work: 'Tractatus de Periculis Novissimorum temporum', composed around .
+Authored work: 'Responsiones ad articulos errorum quos dicunt praedicasse publice', composed around %1256-1257%..
+Authored work: 'Expositio priorum Analyticorum.', composed around ?.
+Authored work: 'In Posteriora Analytica', composed around ?.
+Source: MIRABILE (Andrea CENCINI) :.

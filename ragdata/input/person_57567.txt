@@ -1,0 +1,9 @@
+PERSON: NICOLAUS de Compans
+Also known as: Nicolaus de COMPANS.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1434-1434%.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en décret (Paris) (11 avril) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 14/03/2024)..

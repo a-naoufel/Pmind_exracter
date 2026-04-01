@@ -1,0 +1,9 @@
+PERSON: PETRUS Chaussee
+Also known as: Pierre CHAUSSÉE.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1424-1424%.
+Studied at: Paris..
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 07/04/2021..

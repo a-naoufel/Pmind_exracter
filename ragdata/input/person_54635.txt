@@ -1,0 +1,7 @@
+PERSON: IVO Dugril
+Also known as: Yvo DUGRIL.
+Description: Sergent de la Curie de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1408-1408%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 18/11/2022..

@@ -1,0 +1,9 @@
+PERSON: NICOLAUS de Mesereyo
+Also known as: Nicolaus de MESEREYO; Nicolas de MEZEREY.
+Description: Bachelier en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1384-1385%.
+Studied at: Paris..
+Academic grades obtained: Maître ès arts (Paris ?) avant ?; Bachelier en théologie (Paris ?) avant ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 5/12/2020..

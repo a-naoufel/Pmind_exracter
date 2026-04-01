@@ -1,0 +1,51 @@
+PERSON: HENRICUS de Gorinchem
+Also known as: Henricus de GORINCHEM; Henricus de GHORINCHEM; Henricus de GORRICHEM; Henricus de GORICHEM; Heinrich von GORKUM; Henricus GORCUMIUS; Henricus de GOHRINCHEM; Henricus de GHORRINCHEN; Henricus de GHORRIEKEM; Heynricus de GORICKEM; Heinricus de GORKAM; Henricus de GORKUM.
+Description: Vice-chancelier de l’Université de Cologne.
+Status: Maître.
+Gender: male.
+Active during: %1397-1431%.
+Born in: Pays-Bas (Gorinchem ?) ?.
+Diocese of origin: Diocèse d'Utrecht ?.
+Studied at: Paris (Nation Anglo-allemande) %1397-1414%.; Cologne %1419-1431% ;.
+Academic grades obtained: Étudiant ès arts (Paris) ;; Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Étudiant en théologie (Paris) ;; Docteur en théologie (Cologne) en ..
+Academic relationships: Son maître est Nicolaus de MONIKEDAM pour le baccalauréat en ; Son maître est Nicolaus de GHAMEREN pour la licence et la maîtrise en ; Son élève est Henricus de ASPEREN pour la licence et la maîtrise en ; Son élève est Petrus de CARNIOLA pour le baccalauréat en ; Son élève est Johannes HUGILEN pour le baccalauréat en comme sous-déterminant d'Arnoldus de ASSEN ; Son élève est Arnoldus de ASSEN pour le baccalauréat en ; Son élève est Bernardus KOLNER pour le baccalauréat en comme sous-déterminant de Conrardus de DRIEL ; Son élève est Conrardus de DRIEL pour le baccalauréat en ; Son élève est Leonardus de LAYBACH pour le baccalauréat en ; Son élève est Nicolaus LUTZENBORCH pour le baccalauréat en ; Son élève est Johannes DURBECKER pour le baccalauréat en ; Son élève est Gerardus de WESALIA pour le baccalauréat en ; Son élève est Matheus GODEFRIDI pour le baccalauréat en ; Son élève est Wilhelmus RIISWIIC pour le baccalauréat en ; Son élève est Wilhelmus de MONSTERKERC pour le baccalauréat en ; Son élève est Johannes de XANTEN pour la licence en ; Son élève est Johannes BERC pour la licence en ; Son élève est Henricus BERC pour la licence en ; Son élève est Jacobus MAKAERT pour la licence et la maîtrise en ;.
+Ecclesiastical positions held: Chanoine de Cologne (Sainte-Ursule)..
+University functions: Paris (Nation Anglo-allemande : maître-régent ) ;; Paris (Nation Anglo-allemande : maître-régent ) ;; Paris (Nation Anglo-allemande : maître-régent ) ;; Paris (Nation Anglo-allemande : procureur à Paris en et ) ;; Cologne (Université : Professeur de théologie %1420-1431%) ;; Cologne (Université : Recteur ) ;; Cologne (Université : Vice-Chancelier %1424-1431%) ;; Cologne (Université : PremierRegens de la 'Bursa antiquissima) ;.
+Authored work: 'Compendium Summe theologice Sancti Thome', composed around ?.
+Authored work: 'Conclusiones super IV libros Sententiarum', composed around ?.
+Authored work: 'Lectura super Evangelium', composed around ?.
+Authored work: 'Propositiones de quadam puella conversante in armigeris in habitu virili', composed around ?.
+Authored work: 'Supplementum IIIe Partis Summe theologie S. Thome Aquinatis', composed around ?.
+Authored work: 'Tractatus consultatorii', composed around ?.
+Authored work: 'Consilium de modo communicandum cum excommunicatis', composed around ?.
+Authored work: 'De quattuor exercitiis', composed around ?.
+Authored work: 'Expositio super canonem Missae', composed around ?.
+Authored work: 'Quaestio utrum sacerdos possit cantare Missam pro denariis', composed around ?.
+Authored work: 'Sermones et collationes', composed around ?.
+Authored work: 'Tractatus contra articulos Hussitarum', composed around ?.
+Authored work: 'Tractatus de divinis nominibus', composed around ?.
+Authored work: 'Tractatus de practica eiciendi daemones', composed around ?.
+Authored work: 'Tractatus de praedestinatione et reprobatione divina', composed around ?.
+Authored work: 'Tractatus de processionibus ecclesiasticis', composed around ?.
+Authored work: 'Tractatus de quibusdam imaginibus per revelationem crucis ut dicitur', composed around ?.
+Authored work: 'Tractatus de sacramento altaris et efficacia Missae', composed around ?.
+Authored work: 'Tractatus de superstitiosis quibusdam casibus', composed around ..
+Authored work: 'Compendium sententialiter correspondens libro Posteriorum', composed around ?.
+Authored work: 'Positiones metaphysicales de ente et essentia Thome Aquinatis', composed around ?.
+Authored work: 'Commentarius in libros Metaphysicorum', composed around ?.
+Authored work: 'De obligationibus', composed around ?.
+Authored work: 'Insolubilia', composed around ?.
+Authored work: 'Positiones libri De anima', composed around ?.
+Authored work: 'Positiones libri De celo et mundo', composed around ?.
+Authored work: 'Positiones libri Physicorum', composed around ?.
+Authored work: 'Abbreviatio libri Posteriorum', composed around ?.
+Authored work: 'Breve consilium de iure decimarum', composed around ?.
+Authored work: 'Tractatus de iusto bello', composed around ?.
+Authored work: 'Tractatus de observacione festorum', composed around ?.
+Authored work: 'Tractatus de quodam casu matrimoniali', composed around ?.
+Authored work: 'Tractatus de simonia circa sepulturam accidente', composed around ?.
+Authored work: 'Commentarius in libros Ethicorum', composed around ?.
+Authored work: 'Commentarius in libros Meteororum', composed around ?.
+Authored work: 'Commentarius in librum Physiognomie', composed around ?.
+Authored work: 'Tractatus de sphera materiali Joannis de Sacrobosco cum commentario', composed around ?.
+Source: MIRABILE : Alessandra MALQUORI :.

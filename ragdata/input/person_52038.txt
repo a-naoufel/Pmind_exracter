@@ -1,0 +1,12 @@
+PERSON: NICOLAUS de Hamo
+Also known as: Nicolaus de HAMO.
+Description: Chanoine de Prémontré.
+Status: Gradué.
+Gender: male.
+Active during: %1436-1437%.
+Studied at: Paris %1436-1437%..
+Academic grades obtained: Bachelier cursor en %1436-1437%..
+College affiliation: Collège des Prémontrés %1436-1437% ?.
+Religious order: O. Praem. : chanoine de Prémontré..
+University functions: Paris (Faculté de Théologie : lecteur curseur, premier cours en , (9 janvier)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 2/03/2021)..

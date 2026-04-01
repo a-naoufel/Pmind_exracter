@@ -1,0 +1,10 @@
+PERSON: HUGO de Folieto
+Also known as: Hugo de FOLIETO.
+Description: Chanoine de Chartres.
+Status: Étudiant.
+Gender: male.
+Active during: %1195-1216%.
+Studied at: Paris avant ?.
+Academic grades obtained: Étudiant (Paris) avant ?.
+Ecclesiastical positions held: Chanoine de Chartes %1195-1216% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 31/05/2022)..

@@ -1,0 +1,10 @@
+PERSON: PETRUS Tempeste
+Also known as: Pierre TEMPESTE.
+Description: Membre du collège de Montaigu.
+Status: Incertain.
+Gender: male.
+Active during: %1513-1513%.
+Studied at: Paris..
+Academic grades obtained: Bachelier en théologie (Paris) en ;.
+College affiliation: Collège de Montaigu : membre en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

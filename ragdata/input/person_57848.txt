@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Capella
+Also known as: Guillelmus CAPELLA; Guillaume CHAPELLE.
+Description: Boursier du collège d’Autun.
+Status: Maître.
+Gender: male.
+Active during: %1398-1398%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) en ;; Étudiant en théologie (Paris) ..
+College affiliation: Collège d’Autun : boursier en théologie ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

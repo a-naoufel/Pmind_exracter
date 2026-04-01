@@ -1,0 +1,9 @@
+PERSON: BENEDICTUS de Guartino
+Also known as: Benedictus de GUARTINO.
+Description: Scriptor.
+Status: Extérieur.
+Gender: male.
+Active during: %1237-1237%.
+Studied at: ?.
+Academic grades obtained: Magister.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 29/03/2024).

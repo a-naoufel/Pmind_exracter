@@ -1,0 +1,15 @@
+PERSON: GUILLELMUS Brito 2
+Also known as: Guillelmus BRITO.
+Description: Franciscain.
+Status: Incertain.
+Gender: male.
+Active during: %1248-1285%.
+Born in: Bretagne ?.
+Studied at: ?.
+Religious order: O.F.M. : frère franciscain..
+Authored work: 'Expositiones Vocabulorum Biblie Ordine Alphabetico', composed around %1248-1267%..
+Authored work: 'Expositiones Prologorum Bibliae', composed around ?.
+Authored work: 'Correctorium Bibliae', composed around ?.
+Authored work: 'Versus ad sciendum nomina et ordinem librorum Biblie', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Source: MRABILE, Andrea CENCINI :.

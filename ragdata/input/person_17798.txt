@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Forestier
+Also known as: Guillelmus FORESTIER; Guillermus FORESTIER.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1479-1479%.
+Studied at: Paris %1479-1479%..
+Academic grades obtained: Bachelier en décret (Paris) attesté en ;; Licencié en droit civil attesté en ;.
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (1e année) en (9 février) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision : Jean-Philippe Genet, 23/08/2017..

@@ -1,0 +1,10 @@
+PERSON: SIMON 11
+Also known as: SIMON.
+Description: Bedeau de la Nation Anglo-allemande.
+Status: Suppôt.
+Gender: male.
+Active during: %1318-1318%.
+Studied at: Paris (Nation Anglo-allemande) en ..
+Academic grades obtained: ?.
+University functions: Paris (Nation Anglo-allemande : bedeau en) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 20/03/2020..

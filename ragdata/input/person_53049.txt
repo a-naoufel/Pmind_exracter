@@ -1,0 +1,15 @@
+PERSON: PETRUS Mileti 1
+Also known as: Petrus MILETI 1.
+Description: Chanoine d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1385-1410%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son père est Colart MILETI ; Sa mère est Alise CARLÉE ;.
+Social origin: Commun ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d’Amiens %1385-1410% ;; Chapelain d’Amiens (Saint-Nicolas) %1389-1390% ;.
+Other ecclesiastical functions: Élu du clergé sur le fait des aides ;.
+Representation roles: Délégué au chapitreprovincial de Saint-Quentin en et en %1405-1410% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 2/12/2021..

@@ -1,0 +1,10 @@
+PERSON: FLORENTINUS Forget
+Also known as: Florentinus FORGET.
+Description: Licencié en décret..
+Status: Maître.
+Gender: male.
+Active during: %1481-1482%.
+Studied at: Paris %1481-1482%..
+Academic grades obtained: Bachelier en décret. (Paris) attesté en ;; Licencié en décret (Paris) en (13 mars) ;.
+Academic relationships: Son maître est Robertus TULLEU..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Anne Tournieroux ; dernière mise à jour Jean-Philippe Genet, 10/08/20Z1..

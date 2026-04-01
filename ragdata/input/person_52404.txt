@@ -1,0 +1,10 @@
+PERSON: RADULPHUS Parvus
+Also known as: Radulphus PARVUS.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1250-1250%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Écolâtre de Reims vers ;; Chanoine de Reims vers ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/06/2021..

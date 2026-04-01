@@ -1,0 +1,12 @@
+PERSON: HELLUINUS de Wasiers
+Also known as: Hellinus de WASIERS.
+Description: Maître.
+Status: Étudiant.
+Gender: male.
+Active during: %1408-1412%.
+Born in: Flandre (Waziers, près de Douai ?) ;.
+Diocese of origin: Diocèse d'Arras ?.
+Studied at: Paris..
+Academic grades obtained: Étudiant ?.
+College affiliation: Collège de Dainville : boursier %1408-1412% ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,9 @@
+PERSON: HECTOR de Campis
+Also known as: Hector de CAMPIS.
+Description: Étudiant en médecine à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1490-1493%.
+Studied at: Paris %1490-1493%..
+Academic grades obtained: Étudiant en médecine (Paris) %1490-1503%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 19/06/2022)..

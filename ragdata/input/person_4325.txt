@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Montignyaco
+Also known as: Guillelmus de MONTIGNYACO.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1379-1379%.
+Born in: ComtédeBourgogne ;.
+Diocese of origin: Diocèse de Besançon ;.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) ;.
+Ecclesiastical status: Clerc du diocèse de Besançon..
+Ecclesiastical positions held: Candidat à un canonicat de Salins (Saint-Anatole) sur le rotulus de ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 04/04/2022..

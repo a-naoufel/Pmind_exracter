@@ -1,0 +1,11 @@
+PERSON: M. Louvel
+Also known as: M. LOUVEL.
+Description: Chanoine du Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1314-1318%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de LeMans %1314-1318% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 3/08/2023)..

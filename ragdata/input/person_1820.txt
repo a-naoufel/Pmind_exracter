@@ -1,0 +1,9 @@
+PERSON: X Conterain
+Also known as: X CONTERAIN.
+Description: Serviteur.
+Status: Suppôt.
+Gender: male.
+Active during: %1393-1393%.
+Studied at: Paris ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 28/04/2021)..

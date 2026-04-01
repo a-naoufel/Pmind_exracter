@@ -1,0 +1,11 @@
+PERSON: LUDOVICUS de Lapide
+Also known as: Ludovicus de LAPIDE; Louis de LAPIDE; Louis VANDER STEENE.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1396-1455%.
+Studied at: Paris %1396-1397%..
+Academic grades obtained: Maître en médecine (Paris) ..
+Ecclesiastical positions held: Chanoine de Louvain (Saint-Pierre) en ..
+University functions: Paris (Faculté de médecine : Maître-régent en %1396-1397%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 2/09/2023..

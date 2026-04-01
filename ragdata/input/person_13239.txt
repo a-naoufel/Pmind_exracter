@@ -1,0 +1,10 @@
+PERSON: GILBERTUS de Patris
+Also known as: Gilbertus de PATRIS; Gilbertus de PERIRIS.
+Description: Licencié en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1484-1484%.
+Studied at: Paris (Collège de Navarre) %1484-1484%..
+Academic grades obtained: Licencié en théologie (Paris) (15 octobre) ..
+College affiliation: Collège de Navarre, ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland et Anne Tournieroux ; révision, Jean-Philippe Genet, 15/01/2022..

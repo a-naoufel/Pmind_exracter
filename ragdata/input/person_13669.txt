@@ -1,0 +1,12 @@
+PERSON: ROBERTUS Corbelin
+Also known as: Robertus CORBELIN.
+Description: Maître en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1484-1513%.
+Born in: Normandie.
+Studied at: Paris (Nation de Normandie) %1494-1502% ;; Paris (Collège d'Harcourt) %1494-1502%..
+Academic grades obtained: Licencié en théologie (Paris) (13 janvier) ;; Maître en théologie (Paris) (9 mai) ..
+College affiliation: Collège d'Harcourt : bursarius et régent ès arts ;; Collège de Maître-Gervais : régent ès arts ;.
+University functions: Recteur de l'Université de Paris durant l'année académique %1494-1495%.; Paris (Nation de Normandie : maître-régent au collège de Maître-Gervais)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, dernière mise à jour 17/12/2023..

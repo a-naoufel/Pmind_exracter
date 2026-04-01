@@ -1,0 +1,7 @@
+PERSON: FRANCISCUS Berault
+Also known as: François BERAULT.
+Description: Barbier à Paris..
+Status: Extérieur.
+Gender: male.
+Active during: %1425-1425%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 19/08/2021..

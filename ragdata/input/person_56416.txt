@@ -1,0 +1,10 @@
+PERSON: MATTHAEUS 3
+Also known as: MATTHAEUS.
+Description: Chanoine du Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1243-1243%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de LeMans ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 3/08/2023)..

@@ -1,0 +1,12 @@
+PERSON: GEORGIUS de Hauden
+Also known as: Georgius de HAUDEN; Georgius de HODENC.
+Description: Maître ès arts.
+Status: Étudiant.
+Gender: male.
+Active during: %1411-1418%.
+Born in: Écosse ;.
+Studied at: Paris (Nation Anglo-allemande) .%1411-1418%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Étudiant en théologie (Paris) %1411-1418% ?.
+College affiliation: Sorbonne : hôte %1411-1418% ;.
+Academic relationships: Son maître est John CRANNOK en pour le baccalauréat, la licence et la maîtrise ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 29/11/2020)..

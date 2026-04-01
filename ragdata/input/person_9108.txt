@@ -1,0 +1,9 @@
+PERSON: NICOLAUS Le Jolietet
+Also known as: Nicolas LE JOLIETET; Nicolaus JOLIETI.
+Description: Licencié en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1394-1426%.
+Studied at: Paris %1394-1426%..
+Academic grades obtained: Étudiant en médecine (Paris) vers %1394-1400% ;; Licencié en médecine (Paris) vers %1407-1410%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 29/04/2019..

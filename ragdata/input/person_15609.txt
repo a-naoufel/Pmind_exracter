@@ -1,0 +1,11 @@
+PERSON: ALEXIUS Gaygneau
+Also known as: Alexius GAYGNEAU.
+Description: Bachelier en droit canon.
+Status: Gradué.
+Gender: male.
+Active during: %1500-1500%.
+Born in: Anjou-Maine ?.
+Diocese of origin: Diocèse d'Angers..
+Studied at: Paris %1500-1500%..
+Academic grades obtained: Bachelier en décret (Paris) en (le 5 mai après la messe) ;.
+Source: STUDIUM http//lamop-vs3.univ-paris1.fr/studium/ Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 08/07/2020..

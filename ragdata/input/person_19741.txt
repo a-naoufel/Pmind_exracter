@@ -1,0 +1,10 @@
+PERSON: FRANCISCUS Scutellarii
+Also known as: Franciscus SCUTELLARII.
+Description: Étudiant en théologie.
+Status: Étudiant.
+Gender: male.
+Active during: %1335-1335%.
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Étudiant en théologie à Paris en ;.
+Ecclesiastical positions held: Provision pour un canonicat avec expectative de prébende à l'églisecollégiale de Furnes (Sainte-Walburge) en : mandat à l'abbé de Thérouanne (Saint-Jean-du-Mont), à l'abbé de Saint-Bertin et au doyen de Troyes ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/09/2021..

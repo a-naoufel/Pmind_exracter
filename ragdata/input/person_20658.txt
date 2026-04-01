@@ -1,0 +1,11 @@
+PERSON: G. prior Sancti Lazari
+Also known as: G ...., prieur de Paris (Saint-Lazare).
+Description: Prieur de Saint-Lazare.
+Status: Extérieur.
+Gender: male.
+Active during: %1226-1226%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: Chanoinerégulier (augustin ?) de Paris (Saint-Lazare) ;.
+Religious functions: Prieur (augustin ?) de Paris (Saint-Lazare) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 27/09/2021..

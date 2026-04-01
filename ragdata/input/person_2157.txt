@@ -1,0 +1,9 @@
+PERSON: ERNALDUS
+Also known as: ERNALDUS.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1175-1175%.
+Studied at: ?Paris ..
+Academic grades obtained: Magister ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 20/07/2021)..

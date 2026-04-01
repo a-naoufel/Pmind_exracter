@@ -1,0 +1,13 @@
+PERSON: PETRUS Simon
+Also known as: Petrus SIMON.
+Description: Chanoine de Châlons.
+Status: Incertain.
+Gender: male.
+Active during: %1419-1453%.
+Born in: Lorraine ?.
+Diocese of origin: Diocèse de Toul ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Châlons-en-Champagne %1419-1453% ;; Sous-chantre de Châlons-en-Champagne %1431-1453% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 17/06/2025.

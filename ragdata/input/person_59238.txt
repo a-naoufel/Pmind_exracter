@@ -1,0 +1,10 @@
+PERSON: REGINALDUS Germani
+Also known as: Reginaldus GERMANI.
+Description: Chanoine d'Auxerre.
+Status: Maître.
+Gender: male.
+Active during: %1402-1418%.
+Studied at: Paris..
+Academic grades obtained: Etudiant (Paris) ;; Maître ;.
+Other ecclesiastical functions: Chanoine d’Auxerre %1402-1418% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 25/06/2025)..

@@ -1,0 +1,12 @@
+PERSON: PETRUS Johannis Olivi
+Also known as: Petrus JOHANNIS Olivi; Petrus Johannis OLIVI; Pierre-Jean OLIEU.
+Description: Franciscain.
+Status: Maître.
+Gender: male.
+Active during: %1268-1298%.
+Born in: Languedoc (Sérignan) ..
+Diocese of origin: Diocèse de Béziers..
+Studied at: Paris.
+Academic grades obtained: Maître en théologie (Paris)..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) %1268-1273%..
+University functions: Paris (Lecteur en arts pour les étudiants du cursus du lectorat du couvent franciscain vers %1270-1273%) ;; Florence (Lecteur en théologie du couvent (franciscain) de Santa-Croce)..

@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Kaergadalen
+Also known as: Guillelmus KAERGADALEN.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1451-1451%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Quimper..
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Bachelier ès arts (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 07/05/2022..

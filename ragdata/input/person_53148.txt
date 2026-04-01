@@ -1,0 +1,11 @@
+PERSON: NICOLAUS de Attrio
+Also known as: Nicolaus de ATTRIO; Nicolas de LATTRE; Nicolas d’ATTRE.
+Description: Chanoine d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1324-1345%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d’Amiens %1324-1345% ;; Préchantre d’Amiens %1324-1345% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/12/2021..

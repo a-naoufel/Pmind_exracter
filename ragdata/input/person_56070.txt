@@ -1,0 +1,11 @@
+PERSON: PETRUS de Corne
+Also known as: Petrus de CORNE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1447-1447%.
+Born in: Lorraine ?.
+Diocese of origin: Diocèse de Verdun ;.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 17/05/2023..

@@ -1,0 +1,14 @@
+PERSON: RICARDUS Garnonis
+Also known as: Richardus GARNONIS; Richardus GUERNONIS; Richardus GUERNON.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1375-1387%.
+Studied at: Paris %1375-1385%..
+Academic grades obtained: Docteur en théologie (Paris) ..
+Social origin: Commun : "famille modeste"..
+Religious order: O.S.B. : moine clunisien au monastère de Paris (Saint-Martin-des-Champs) à partir de ;.
+Religious functions: Candidat à des bénéfices sur un rotulus daté de novembre à octobre ;; Sous-sacristain de Saint-Martin-des-Champs en ;; Abbé de Saint-Magloire à Paris nommé par le pape CLEMENT VII le 25 avril ..
+University functions: Paris (Faculté de théologie : présent à une assemblée de la faculté de théologie décidant des procédures pour l'élection du vice-doyen de la faculté le 7 novembre ) ;; Paris (Faculté de théologie : présent à l'assemblée où sont nommées les procureurs chargés de l'affaire Johannes BLANCHART tenue le 14 avril ) ;.
+Representation roles: Délégué par l'Université auprès du pape pour l'affaire Johannes BLANCHART..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/03/2022)..

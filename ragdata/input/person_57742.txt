@@ -1,0 +1,12 @@
+PERSON: ROBERTUS 7
+Also known as: ROBERTUS.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1240-1240%.
+Studied at: ?Paris ;.
+Academic grades obtained: ?Étudiant (Paris)..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers)..
+Religious order: O.F.M. : frère franciscain..
+Ecclesiastical positions held: Ministre de la province (franciscaine) de France en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/04/2024)..

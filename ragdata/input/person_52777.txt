@@ -1,0 +1,11 @@
+PERSON: PETRUS Roberti
+Also known as: Pierre ROBERTI.
+Description: Trésorier d'Angers.
+Status: Incertain.
+Gender: male.
+Active during: %1409-1418%.
+Studied at: ?.
+Academic grades obtained: Docteur in utroque jure ;.
+Religious functions: Chambrier de Marmoutier ;; Abbé de Cormery ;.
+Ecclesiastical positions held: Chanoine d'Angers % -1418% ?; Trésorier d'Angers % -1418% ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 12/10/2021..

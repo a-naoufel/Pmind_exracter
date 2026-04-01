@@ -1,0 +1,12 @@
+PERSON: FRANCISCUS de Colimbria
+Also known as: Franciscus de COLIMBRIA; Franciscus de COMBRA.
+Description: Franciscain.
+Status: Étudiant.
+Gender: male.
+Active during: %1302-1303%.
+Born in: Portugal (Coïmbra) ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) %1302-1303% ?.
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) ;.
+Religious order: O.F.M. : frère franciscain..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 18/12/2017)..

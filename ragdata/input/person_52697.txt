@@ -1,0 +1,14 @@
+PERSON: PETRUS de Porta 3
+Also known as: Petrus de PORTA.
+Description: Libraire-juré de l’université de Paris.
+Status: Suppôt.
+Gender: male.
+Active during: %1376-1376%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris ;.
+Studied at: Paris..
+Academic grades obtained: ?.
+Family relationships: Son père est Johannes de PORTA, bourgeois de Paris ;.
+Social origin: Bourgeoisie..
+University functions: Paris (Université : libraire juré) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 25/09/2021..

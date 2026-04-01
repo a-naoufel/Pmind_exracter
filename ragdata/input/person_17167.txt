@@ -1,0 +1,9 @@
+PERSON: AEGIDIUS Lombart
+Also known as: Aegidius LOMBART.
+Description: Maître d’école..
+Status: Gradué.
+Gender: male.
+Active during: %1452-1452%.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en décret (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 07/05/2020)..

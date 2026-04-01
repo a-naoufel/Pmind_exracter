@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Waverans
+Also known as: Guillelmus WAVERANS.
+Description: Hôte du collège de Dainville.
+Status: Maître.
+Gender: male.
+Active during: %1505-1506%.
+Studied at: Paris en %1505-1506%..
+Academic grades obtained: Maître (Paris) ;.
+College affiliation: Collège de Dainville : hôte en %1505-1506% ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

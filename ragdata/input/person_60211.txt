@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Menardus
+Also known as: Guillermus MENARDUS.
+Description: Proviseur du collège du Trésorier.
+Status: Maître.
+Gender: male.
+Active during: %1326-1326%.
+Studied at: Paris..
+Academic grades obtained: Maître (Paris) ?.
+College affiliation: Collège du Trésorier : proviseur en ;; Collège du Trésorier : procureur en ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

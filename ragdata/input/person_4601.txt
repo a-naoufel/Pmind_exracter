@@ -1,0 +1,13 @@
+PERSON: HENRICUS de Creveriis
+Also known as: Henri de CREVERIIS.
+Description: Clerc du diocèse de Metz..
+Status: Maître.
+Gender: male.
+Active during: %1387-1387%.
+Born in: Lorraine ;.
+Diocese of origin: Diocèse de Metz..
+Studied at: Paris (Nation de France) %:1387-1387%..
+Academic grades obtained: Maître ès Arts (Paris) ;; Bachelier en médecine (Paris) ..
+Ecclesiastical status: Clerc de Metz..
+Ecclesiastical positions held: Candidat à un bénéfice sur le rotulus de ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Anne Tournieroux ; Jean-Philippe Genet, dernière mise à jour 25/06/2022..

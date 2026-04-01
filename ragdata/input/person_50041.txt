@@ -1,0 +1,9 @@
+PERSON: GERARDUS Ronceleti
+Also known as: Gerardus RONCELETI.
+Description: Notaire parisien.
+Status: Extérieur.
+Gender: male.
+Active during: %1416-1416%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 4/12/2019..

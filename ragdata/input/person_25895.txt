@@ -1,0 +1,10 @@
+PERSON: BERNARDUS Textoris
+Also known as: Bernardus LETEXIER; Bernardus TEXIER; Bernardus TESTE.
+Description: Carme.
+Status: Maître.
+Gender: male.
+Active during: %1383-1391%.
+Studied at: Paris..
+Academic grades obtained: Étudiant en théologie (Paris) en ;; Licencié en théologie (Paris) ..
+College affiliation: Couvent des Carmes en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 31/08/2020..

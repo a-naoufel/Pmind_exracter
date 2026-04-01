@@ -1,0 +1,13 @@
+PERSON: PETRUS de Flavigniaco
+Also known as: Petrus de FLAVIGNIACO.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1303-1303%.
+Born in: Bourgogne ?.
+Diocese of origin: Diocèse de Sens ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de Sens ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 21/09/2022..

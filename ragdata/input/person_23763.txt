@@ -1,0 +1,13 @@
+PERSON: HENRICUS de Lotharingia
+Also known as: Henri de LORRAINE-VAUDÉMONT.
+Description: Évêque de Metz.
+Status: Étudiant.
+Gender: male.
+Active during: %1450-1505%.
+Born in: Lorraine ?.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant en théologie à Paris ?.
+Family relationships: Son père est Antoine de LORRAINE, comte de Vaudémont ; Sa mère est Marie de HARCOURT, comtesse d'Aumale et baronne d'Elbeuf ; Son frère est Ferry de LORRAINE, comte de Vaudémont ..
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine de Toul %1433-1456% ;; Chanoine de Metz %1433-1456% ;; Évêque de Thérouanne %1456-1485% ;; Évêque de Metz %1485-1505%..
+Source: https://fr.wikipedia.org/wiki/Henri_de_Lorraine-Vaudémont.

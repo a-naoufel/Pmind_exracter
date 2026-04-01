@@ -1,0 +1,8 @@
+PERSON: DIONYSIUS Galli
+Also known as: Dionysius GALLI.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) en ?.

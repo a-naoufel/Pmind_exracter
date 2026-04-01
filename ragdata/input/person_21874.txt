@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Esseby
+Also known as: Guillelmus de ESSEBY.
+Description: O.F.M..
+Status: Incertain.
+Gender: male.
+Active during: %1224-1240%.
+Born in: Angleterre..
+Studied at: ?; ?Oxford ;.
+Academic grades obtained: Étudiant ?.
+Religious order: O.F.M. : frère franciscain ;.
+Religious functions: Gardien du couvent (franciscain) d'Oxford ;; Fondateur du couvent (franciscain) de Cambridge ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 22/03/2022..

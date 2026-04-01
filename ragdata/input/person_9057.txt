@@ -1,0 +1,11 @@
+PERSON: MICHAEL de Colonia
+Also known as: Michel DE COLONIA; Michael DE COLUMPNIA.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1479-1529%.
+Studied at: Paris (Nation de Picardie) %1479-1482%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Ecclesiastical positions held: Chanoineprébendé de Paris (Saint-Honoré) en ;; Chapelain en ;; Chanoine de Paris (Notre-Dame) en %1500-1529%? ;; Sous-chantre de Paris (Notre-Dame) en ;; Chantre de Paris (Notre-Dame) en ;; Curé de Saint-Laurent à Paris, %1505-1529%..
+University functions: Paris (Faculté de Médecine : Maître-régent %1483-1491%) ;; Paris (Faculté de Médecine : Doyen, %1490-1491%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 26/09/2023)..

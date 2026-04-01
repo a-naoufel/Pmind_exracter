@@ -1,0 +1,11 @@
+PERSON: STEPHANUS Des Friches
+Also known as: Étienne DES FRICHES.
+Description: Procureur au Parlement de Paris.
+Status: Étudiant.
+Gender: male.
+Active during: %1493-1536%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ;.
+College affiliation: Collège de Dormans-Beauvais : boursier ;.
+Family relationships: Son parent est Pierre I DES FRICHES, procureur au Parlement de Paris ; Son parent est Jean DES FRICHES ; Son parent est Laurent DES FRICHES ; Son parent est Pierre II DES FRICHES ; Son parent est Laurent DES FRICHES ; Son parent est Simon DES FRICHES ; Son parent est Arnauld I DES FRICHES ; Son parent est Arnauld II DES FRICHES ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 04/09/2019..

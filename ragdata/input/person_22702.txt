@@ -1,0 +1,10 @@
+PERSON: GALFREDUS Militis
+Also known as: Gaufridus MILITIS; Geoffroy CHEVALIER.
+Description: Procureur.
+Status: Maître.
+Gender: male.
+Active during: %1354-1354%.
+Studied at: Paris..
+Academic grades obtained: Maître..
+College affiliation: Sorbonne ;; Il est l’un des procureurs de la Sorbonne désignés en (18 mai) par le cardinal Pierre de CROS en tant que procureur de la Sorbonne pour retirer les livres données au collège par Germain de NARBONNE, maître en théologie, et par Étienne SEGUIN, maître en médecine ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 3/04/2023 ;.

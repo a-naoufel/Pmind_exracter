@@ -1,0 +1,10 @@
+PERSON: FURSEUS Cavet
+Also known as: Furseus CAVET.
+Description: Boursier du collège de Dainville.
+Status: Étudiant.
+Gender: male.
+Active during: %1412-1413%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) %1412-1413% ;.
+College affiliation: Collège de Dainville : boursier %1412-1413% ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

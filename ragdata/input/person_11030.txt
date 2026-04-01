@@ -1,0 +1,11 @@
+PERSON: ROBERTUS de Leone
+Also known as: Robert du LYON; Robert DULYON; Robert de LEON; Robertus de LEONE.
+Description: Médecin.
+Status: Maître.
+Gender: male.
+Active during: %1444-1484%.
+Born in: Touraine ?.
+Diocese of origin: Diocèse de Tours ;.
+Studied at: Paris (Nation de France) %1444-1444% ;; Montpellier ..
+Academic grades obtained: Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Maître en médecine (Montpellier) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 19/11/2023.

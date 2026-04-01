@@ -1,0 +1,14 @@
+PERSON: PETRUS Parvus 1
+Also known as: Petrus PARVUS; Petrus PETIT; Pierre PETIT.
+Description: Chancelier de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1208-1245%.
+Born in: Berry..
+Diocese of origin: Diocèse de Bourges ?.
+Studied at: Paris avant %1208-1209%..
+Academic grades obtained: Magister (Paris) ;; Maître en théologie (Paris) %1208-1209%..
+Ecclesiastical positions held: Chanoine de Bourges ;; Chancelier de Paris en ;.
+University functions: Paris (il enseigne peut-être enseignant les Arts libéraux avant ) ;; Paris (Maître en théologie enseignant en %1209-1229%, peut-être à nouveau après ) ;; Paris (Université : chancelier en ) ;.
+Authored work: 'Quaestio disputata de paternitate', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/06/2021..

@@ -1,0 +1,13 @@
+PERSON: MARTINUS de Sancto Yone
+Also known as: Martinus de SANCTO-YONE; Loys de SAINT-YON.
+Description: Boursier au collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1505-1505%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ;.
+College affiliation: Collège de Dormans-Beauvais : boursier ;.
+Social origin: Bourgeoisie parisienne ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 06/12/2019..

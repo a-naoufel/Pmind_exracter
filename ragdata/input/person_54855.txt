@@ -1,0 +1,10 @@
+PERSON: GUIDO Bracheti
+Also known as: Guido BRACHETI.
+Description: Chanoine de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1253-1262%.
+Studied at: ?.
+Academic grades obtained: Maître.
+Ecclesiastical positions held: Chanoine de Poitiers ;; Prieur de Poitiers (Sainte-Radegonde) %1253-1262% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 13/12/2022..

@@ -1,0 +1,14 @@
+PERSON: ADAM de La Bassée
+Also known as: Adam de LABASSÉE.
+Description: Chanoine de Lille.
+Status: Incertain.
+Gender: male.
+Active during: %1279-1286%.
+Born in: Flandres (LaBassée)..
+Studied at: ?.
+Ecclesiastical positions held: Prêtre ;; Chanoine de Lille (Collégiale Saint-Pierre)..
+Authored work: 'Super "Confiteor Deo omnipotenti"', composed around ?.
+Authored work: 'Super "Nullum mallum impunitum, nullum bonum irremuneratum"', composed around ?.
+Authored work: 'Super illud "Proximus ille Domino est qui scit ratione tacere"', composed around ?.
+Authored work: 'Ludus super Anticlaudianum', composed around ?%1279-1284%..
+Source: ARLIMA : Laurent BRUN et D.E. O'SULLIVAN :.

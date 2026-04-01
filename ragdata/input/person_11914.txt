@@ -1,0 +1,22 @@
+PERSON: THOMAS Gallus
+Also known as: Thomas GALLUS; Thomas VERCELLENSIS.
+Description: Chanoine de Saint-Victor..
+Status: Maître.
+Gender: male.
+Active during: %1219-1246%?.
+Born in: Italie/Piémont/Vercelli ;.
+Diocese of origin: Diocèse de Vercelli..
+Studied at: Paris %1200-1218%..
+Academic grades obtained: Maître en théologie (Paris)..
+College affiliation: Saint-Victor..
+Religious order: Chanoine (O.S.A.) de SaintVictor ;.
+Religious functions: Prieur (O.S.A.) de Vercelli (Saint-André) %1219- % ;.
+Ecclesiastical positions held: Abbé (O.S.A.) de Vercelli (Saint-André) % -1246%..
+University functions: Magister enseignant sur la montagne SainteGeneviève avant ;; Paris (Faculté de Théologie : Maîtrerégent à Saint-Victor Paris, %1200-1219% ;.
+Authored work: 'Explanationes corporis Dionysiaci', composed around %1224-1248%..
+Authored work: 'Extractiones de libris beati Dionysii', composed around %1224-1248%..
+Authored work: 'Glossae super Angelica Iierarchia', composed around ..
+Authored work: 'Postilla super Cantica Canticorum', composed around ?.
+Authored work: 'Comm. Super Isaiam', composed around ?.
+Authored work: 'Tractatus de septem fructibus contemplationis', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 9/12/2020)..

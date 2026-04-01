@@ -1,0 +1,33 @@
+PERSON: PETRUS de Palude
+Also known as: Petrus de PALUDE.
+Description: O.P..
+Status: Maître.
+Gender: male.
+Active during: %1300-1342%.
+Born in: Savoie (Bresse : LaPalud)..
+Studied at: Paris %1309-1317% au moins..
+Academic grades obtained: Maître en théologie (Paris)..
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère du couvent (dominicain) de Lyon..
+Religious functions: Définiteur au chapitregénéral (dominicain) de Florence ..
+Ecclesiastical positions held: Patriarche de Jérusalem %1329-1342%..
+University functions: Paris (Faculté de Théologie : lecteur des Sentences en %1309-1310%) ;; Paris (Faculté de Théologie : Maître-régent dans la chaire des Domincains en %1314-1317% ;.
+Authored work: 'Commentum in Psalmos', composed around ?.
+Authored work: 'Postillae in Bibliam', composed around ?.
+Authored work: 'In Sententias I-IV', composed around %1310-1311% ?.
+Authored work: 'Quodlibet', composed around %1314-1315%.
+Authored work: 'Reprobatio operis Catalonici', composed around %1318-1321%.
+Authored work: 'Conclusio contre responsionem datam per Mag. Ioh. de Polliaco', composed around ..
+Authored work: 'Responsiones Mag. Petri de Pelude ad ea que sibi imposuit Mag. Ioh. de Polliaco', composed around ..
+Authored work: 'Articuli rev. d. et mag. Fr. Petri de Palude ord. fr. pred. Circa matriam confessionum', composed around ?.
+Authored work: 'Sermones (4)', composed around ? à Paris..
+Authored work: 'Sermo tempore penoso', composed around ?.
+Authored work: 'Sermones de sanctis', composed around ?.
+Authored work: 'Sententia una cum aliis comissariis circa doctrinam Durandi de Sancto Porciano O.P. in scriptis super Sententias', composed around (juillet)..
+Authored work: 'Iudicium contra Ioh. de Polliaco super articulis 13', composed around ..
+Authored work: 'Responsum "Utrum usura sit crimen ecclesiasticum"', composed around ?.
+Authored work: 'Tractatus de potestate papae', composed around ..
+Authored work: 'Littera responsiva ad Hugonem de Vaussemain de redditibus et possessionibus fratrum', composed around ?, dedicated to Adressé à Hugues de VAUSSEMAIN, maîtregeneral de l’ordre dominicain..
+Authored work: 'De paupertate Christi et apostolorum', composed around ..
+Authored work: 'Libellus bellorum Domini pro tempore nove legis', composed around ?.
+Source: MIRABILE :.

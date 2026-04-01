@@ -1,0 +1,10 @@
+PERSON: NICOLAUS de Doncheriaco
+Also known as: Nicolaus de DONCHERIACO; Nicolas de DONCHERI; Nicolaus PUTEFIN.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1324-1345%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Reims (Saint-Symphorien) et ;; Chanoine de Reims %1325-1345% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 27/08/2021..

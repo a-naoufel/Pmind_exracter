@@ -1,0 +1,14 @@
+PERSON: ALBERTUS de Capra
+Also known as: Albertus de CAPRA; Aubertus de CAPRA; Albertus de CAPSA; Aubertus de CAPSA; Albertus de la CHASSE; Aubertus de la CHASSE; BONUS ABBAS.
+Description: Abbé de Vézelay.
+Status: Gradué.
+Gender: male.
+Active during: %1441-1457%.
+Studied at: Paris (Faculté de Décret) %1441-1444..
+Academic grades obtained: Bachelier en Décret (Paris) le 26 Janvier ;; Licencié en Décret (Paris) le 8 avril ..
+Academic relationships: Son maître est Guillelmus CONTY..
+Religious order: Bénédictin monastère (bénédictin) de Vézelay (diocèse d'Autun)..
+Religious functions: Abbé (bénédictin) du monastère de Vézelay en ..
+University functions: Lecteur des Décrétales à Faculté de Décret de Paris en ..
+Authored work: '[Statuts pour la réforme de Vézelay]', composed around .
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux, dernière mise à jour Jean-Philippe Genet, 24/06/2020)..

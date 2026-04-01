@@ -1,0 +1,10 @@
+PERSON: FRANCISCUS de Toulouse
+Also known as: François de TOULOUSE.
+Description: Dominicain.
+Status: Extérieur.
+Gender: male.
+Active during: %1286-1292%.
+Studied at: Toulouse ?.
+Academic grades obtained: Magister ?.
+Religious order: O.P. : frère dominicain.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 21/09/2021)..

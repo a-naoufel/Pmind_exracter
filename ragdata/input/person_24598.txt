@@ -1,0 +1,13 @@
+PERSON: PETRUS Le Moine
+Also known as: Pierre LEMOINE.
+Description: Écolier-boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1381-1385%.
+Born in: Picardie (Soissons) ;.
+Diocese of origin: Diocèse de Soissons ;.
+Studied at: Paris %1381-1385%..
+Academic grades obtained: Étudiant (Paris) %1381-1385% ;.
+College affiliation: Collège de Dormans-Beauvais : écolier-boursier %1381-1385% ;.
+Family relationships: Son frère est Guillaume LEMOINE ; Son oncle est Adam WAQUET de Villemontoir, notaire et secrétaire du roi ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 19/12/2023..

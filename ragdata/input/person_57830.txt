@@ -1,0 +1,69 @@
+PERSON: REMIGIUS de Girolami
+Also known as: Remigio DEL CHIARO GIROLAMI; Rémi de FLORENCE; Remigius de GIROLAMI.
+Description: Dominicain.
+Status: Maître.
+Gender: male.
+Active during: %1268-1319%.
+Born in: Italie (Toscane : Florence)..
+Diocese of origin: Diocèse Florence..
+Studied at: Paris %1266-1269% puis %1297-1302% ;; Florence %1275-; Curie, alors à Pérouse..
+Academic grades obtained: Licencié ès arts (Paris) avant :; Maître en théologie (Paris) ;; Maître en théologie (Florence) ;.
+Family relationships: Son père était peut-être notaire. Son frère est Salvi di CHIARO GIROLAMI, membre de l’Arte della Lana ;.
+Academic relationships: Son élève est peut-être DANTE qui rappelle qu’il a étudié au couvent (dominicain) de Florence (Santa-Maria Novella)..
+Social origin: Bourgeoisie..
+Religious order: O.P. : frère dominicain au couvent (dominicain) de Paris en %1267-1268% ;.
+Religious functions: Prédicateurgénéral des Dominicains désigné en par le chapitregénéral (dominicain) de Florence en ;; Définiteur au chapitreprovincial (dominicain) de Pérouse en ;; Électeur et définiteur au chapitregénéral (dominicain) de Cologne en ;; Définiteur au chapitregénéral (dominicain) de Besançon en ;; Ministreprovincial de la province (dominicaine) de Rome %1309-1310% ;; Prieur du couvent (dominicain) de Florence (Santa Maria Novella) en %1314-1319%..
+University functions: Florence (Lecteur à Santa Maria Novella, alors que simple diacre av) ;; Paris (Faculté de Théologie : lecteur des Sentences au couvent dominicain en %1298-1300%) ;; Pérouse (lecteur à la curie, nommé par le pape BENOIT)..
+Authored work: 'Postillae super Cantica Canticorum', composed around ?.
+Authored work: 'Lectura in epist. ad Romanos', composed around ca%1294-1295%.
+Authored work: 'Lectura in I ad Corinthios', composed around .
+Authored work: 'Distinctiones', composed around ?.
+Authored work: 'Quaestio de subjecto theologiae', composed around %1298-1300%..
+Authored work: 'Prologus in fine Sententiarum', composed around %1298-1300%..
+Authored work: 'Determinatio de uno esse in Christo', composed around %1303-1307%..
+Authored work: 'Quodlibet I (13 questions)', composed around Vers , à Rome..
+Authored work: 'Quodlibet II (15 questions)', composed around Vers , à Pérouse..
+Authored work: 'Tractatus de contrarietate peccati', composed around ?.
+Authored work: 'Speculum', composed around ?.
+Authored work: 'Contra falsos ecclesiae professores', composed around ?.
+Authored work: 'Tractatus de misericordia', composed around ?.
+Authored work: 'De via paradisi', composed around %1301-1314%.
+Authored work: 'Extractio ordinata per alphabetum de quaestionibus tractatis per fratrem Remigium de Florentia', composed around ?.
+Authored work: 'Sermones (vagantes)', composed around ?.
+Authored work: 'Sermones de sanctis', composed around ?.
+Authored work: 'Sermones de tempore', composed around ?.
+Authored work: 'Sermones quadragesimales', composed around ?.
+Authored work: '(Sermon pour le IIIe dimanche après Pâques)', composed around (Paris 13 mai)..
+Authored work: 'De domo Dei', composed around ?.
+Authored work: 'De homine', composed around ?.
+Authored work: 'De malo peccati', composed around ?.
+Authored work: 'De mundo', composed around ?.
+Authored work: 'De cruce', composed around ?.
+Authored work: 'De virtute Christi', composed around ?.
+Authored work: 'Tractatus de mixtione elementorum', composed around .
+Authored work: 'Tractatus de modis rerum', composed around %1280-1301%..
+Authored work: 'Divisio scientiae', composed around ..
+Authored work: 'De mutabilitate et immutabilitate', composed around ?.
+Authored work: 'Quaestio de duratione monitionum', composed around ?.
+Authored work: '(Ritmo ‘Ad urbem vocat Remigium’)', composed around .
+Authored work: '(Ritmo ‘Hic Benedictum’)', composed around .
+Authored work: '(Définitions formulaires ?)', composed around ?.
+Authored work: '(Sermon De filio regis)', composed around (mars) ;.
+Authored work: '(Sermon pour la mort du cardinal Latino Malabranca)', composed around (10 août) ;.
+Authored work: '(Sermons I-V aux prieurs)', composed around %1294-1295 ;.
+Authored work: '(Sermones [I-IX] de pace)', composed around %1294-1295 ;.
+Authored work: '(De domino Carolo)', composed around ;.
+Authored work: '(De papa, sermo VI)', composed around (mai) ;.
+Authored work: '(De papa, sermo III)', composed around (7 juillet) ;.
+Authored work: '(De papa, sermo II)', composed around (5 juin) ;.
+Authored work: '(De papa, sermo III)', composed around (juin) ;.
+Authored work: '(Brano sur la scission du parti guelfe noir)', composed around .
+Authored work: 'Sermo de nomine usurae', composed around ?.
+Authored work: 'Tractatus de bono communi', composed around ..
+Authored work: 'Prologus super librum Ethicorum', composed around ..
+Authored work: 'Tractatus de bono pacis', composed around Après ..
+Authored work: 'Tractatus de iustitia', composed around ?.
+Authored work: 'Tractatus de peccato usurae', composed around Après %1305-1306%..
+Authored work: 'Determinatio utrum sit licitum vendere mercationes ad terminum temporis', composed around Après ..
+Authored work: 'Allegoriae super historias veteris et novi Testamenti', composed around ?.
+Source: MIRABILE :.

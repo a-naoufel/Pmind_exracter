@@ -1,0 +1,8 @@
+PERSON: GARNERIUS de Monte
+Also known as: Garnerus de MONTE.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris en ..
+Academic grades obtained: Étudiant ?.

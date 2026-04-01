@@ -1,0 +1,9 @@
+PERSON: RADULPHUS de Letre
+Also known as: Radulphue de LETRE.
+Description: Habitant de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1312-1312%.
+Studied at: ?.
+Social origin: Commun, habitant de Paris..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 21/05/2024)..

@@ -1,0 +1,15 @@
+PERSON: HENRICUS de Novavilla 3
+Also known as: Henricus de NOVAVILLA; Henricus de NOVAVILLA.
+Description: Licencié en décret.
+Status: Maître.
+Gender: male.
+Active during: %1425-1428%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Lisieux ;.
+Studied at: Paris (Nation de Normandie) %1425-1428% ;.
+Academic grades obtained: Maître ès arts (Paris) attesté en ;; Bachelier en décret (Paris) attesté en ;; Licencié en décret (Paris) en (30 mars) ;.
+Academic relationships: Son maître est Herveus POUCHARDI pour la licence en décret en ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Curé de Sainte-Foy-de-Montgommery (diocèse de Lisieux) en ..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (L. IV) en (29 juillet) pour la 1e année et le 1er volume) ;; Paris (Faculté de Décret : Lecteur des Décrétales (L. V) en (21 octobre) pour la 2e année et le 2e volume) ;; Paris (Faculté de Décret : Lecteur des Décrétales (L.V) en (1er juillet) pour la 3e année et le 3e volume) ;; Paris (Faculté de Décret : Lecteur des Décrétales (L. II) en (11 octobre)) ;; Paris (Faculté de Décret : Lecteur des Décrétales (L.V) en (1er juillet) pour la 3e année et le 3e volume) ;; Paris (Faculté de Décret : Lecteur des Décrétales (L. I) en (octobre) pour la 4e année et le 5e volume) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 24/03/2022)..

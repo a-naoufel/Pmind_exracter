@@ -1,0 +1,9 @@
+PERSON: MICHAEL Dameree
+Also known as: Michael DAMERÉE.
+Description: Magister.
+Status: Incertain.
+Gender: male.
+Active during: %1360-1360%.
+Studied at: ?.
+Academic grades obtained: Magister ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019)..

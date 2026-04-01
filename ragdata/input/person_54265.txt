@@ -1,0 +1,10 @@
+PERSON: PETRUS Bononi
+Also known as: Petrus BONONI.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1378-1398%.
+Studied at: ?.
+Academic grades obtained: Bachelier en droit canon ; ;.
+Ecclesiastical positions held: Chanoine de Sens (‘Saint-Jean-Baptiste’) %1378-1398% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 22/09/2022..

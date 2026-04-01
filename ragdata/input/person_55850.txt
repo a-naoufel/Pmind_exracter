@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Girart
+Also known as: Nicolaus GIRART.
+Description: Boursier du collège de La Marche.
+Status: Étudiant.
+Gender: male.
+Active during: %1502-1503%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) en ;.
+College affiliation: Collège de LaMarche : boursier en ;.
+Source: Projet ORESM. Dépouillements de Louise Gousseau 2/04/2023 ;.

@@ -1,0 +1,10 @@
+PERSON: PETRUS de Encra 3
+Also known as: Petrus de ANCRA; Petrus de ENCRA.
+Description: Chanoine d'Arras.
+Status: Maître.
+Gender: male.
+Active during: %1329-1335%.
+Studied at: Paris (Collège des Cholets) %1329-1330%..
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en théologie ;.
+College affiliation: Collège des Cholets %1329-1330%..
+Ecclesiastical positions held: Chanoine d'Arras ;.

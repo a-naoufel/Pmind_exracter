@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Solerio
+Also known as: Guillelmus de SOLERIO.
+Description: Chanoine de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1249-1275%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Rodez %1249-1275% ;; Official de Rodez ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 31/05/2022..

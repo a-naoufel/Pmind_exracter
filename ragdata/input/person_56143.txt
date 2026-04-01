@@ -1,0 +1,11 @@
+PERSON: PETRUS Charbonnier
+Also known as: Petrus CHARBONNIER.
+Description: Nonce pour le diocèse de Meaux.
+Status: Suppôt.
+Gender: male.
+Active during: %1448-1448%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Meaux ;.
+Studied at: Paris (Nation de France)..
+University functions: Paris (Nation de France) : nonce pour le diocèse de Meaux désigné en (10 septembre) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 06/06/2023)..

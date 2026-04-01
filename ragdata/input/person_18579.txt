@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Maillard
+Also known as: Guillelmus MAILLARD.
+Description: Abbé de Saint-Cyprien de Poitiers ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en ?.
+Religious order: Abbé (bénédictin) de Poitiers (Saint-Cyprien) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/08/2015..

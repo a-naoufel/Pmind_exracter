@@ -1,0 +1,13 @@
+PERSON: GERARDUS de Tavellis
+Also known as: Gerardus de TAVELLIS.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1231-1231%.
+Born in: Picardie (Menessis) ;.
+Diocese of origin: Diocèse de Laon ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Sous-diacre puis diacre ;.
+Ecclesiastical positions held: Chanoine de Reims ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 12/12/2018..

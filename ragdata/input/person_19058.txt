@@ -1,0 +1,21 @@
+PERSON: EBRARDUS de Sancto Quintino
+Also known as: Ebrardus de SANCTO-QUINTINO.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1263-1273%.
+Studied at: ?Paris.
+Academic grades obtained: Étudiant ?.
+College affiliation: Couvent (dominicain) de Paris (Jacobins) ?.
+Religious functions: Prieur (dominicain) de Saint-Quentin..
+Ecclesiastical positions held: O.P. : frère du couvent (dominicain) de Saint-Quentin ?.
+Authored work: '(Sermon pour la fête de Saint Dominique "a fratre Ebrardo")', composed around (5 août)..
+Authored work: 'Sermo fr. Ebrardi, quondam prioris S. Quintini, predicat.', composed around (30 avril) à Paris (Saint-Gervais), 3e dimanche après Pâques..
+Authored work: 'Sermo fr. Ebrardi S. Quintini, predicat., ad beginas, dom. quinta', composed around (14 mai) à Paris (au Béguinage)..
+Authored work: 'Sermo fr. Ebrardi, predicat., in die Pentecostes', composed around (28 mai) à Paris (Saint-Gervais)..
+Authored work: 'Sermo fr. Ebrardi S. Quintini in crastino Pentecost.... post prandium', composed around (29 mai) à Paris (Saint-Gervais)..
+Authored work: '(Sermo fr. Ebrardi S. Quintini)', composed around (11 juin) à Paris (Saint-Antoine)..
+Authored work: 'Sermo fr. Ebrardi S.Quintini in domo dei, dom. infra oct. apostolorum Petri et Pauli, in prima', composed around (2 juillet) à Paris (in Domo Dei)..
+Authored work: 'Sermo fr. Ebrardi S. Quintini, predicat. …eodem die [dom.XV], post prandium', composed around (17 septembre) à Paris (Saint-Gervais)..
+Authored work: 'Sermo fr. Ebrardi S. Quintini, predicat. ... eodem die', composed around (17 septembre) à Paris (Saint-Germain l'Auxerrois)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 7/09/2015)..

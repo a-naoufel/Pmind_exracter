@@ -1,0 +1,9 @@
+PERSON: PETRUS Cotier
+Also known as: Pierre COTIER.
+Description: Étudiant en médecine..
+Status: Étudiant.
+Gender: male.
+Active during: %1430-1431%.
+Studied at: Paris %1430-1431%..
+Academic grades obtained: Étudiant en médecine (Paris) %1430-1431%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 24/01/2024..

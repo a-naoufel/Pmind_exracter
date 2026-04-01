@@ -1,0 +1,10 @@
+PERSON: HENRICUS Descousu
+Also known as: Henri DESCOUSU; Henryet DESCOUSU.
+Description: Hôte du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1392-1394%.
+Studied at: Paris %1392-1394%..
+Academic grades obtained: Étudiant (Paris) %1392-1394%..
+College affiliation: Collège de Dormans-Beauvais : hôte %1392-1394% ?.
+Source: LAMOP : Opération Charles VI (n° 2428) :.

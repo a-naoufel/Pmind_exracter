@@ -1,0 +1,14 @@
+PERSON: NICOLAUS Amici 2
+Also known as: Nicolaus AMICI; Nicolaus l'AMY; Nicolaus LAMI; Nicolaus LAMY.
+Description: Recteur de l'Université de Paris..
+Status: Maître.
+Gender: male.
+Active during: %1419-1453%.
+Studied at: Paris (Nation de Picardie) %1419-1429%..
+Academic grades obtained: Maître ès arts.; Bachelier en théologie "cursor" (Paris) ;; Licencié en théologie (Paris) (12 janvier) ;.
+College affiliation: Boursier au Collège des Cholets %1419-1420%..
+Ecclesiastical positions held: Chanoine de Beauvais, 23 février ;; Chanoine de Cambrai %1433-1444% ;; Chanoine d'Amiens %1443-1453% ;; Chanoinepénitentiaire d'Amiens en ..
+University functions: Paris (Faculté de Théologie : lecteur de la Bible à Paris entre avril et septembre ) ;; Paris (Faculté de Théologie : lecteur des Sentences à Paris en septembre ) ;; Paris (Recteur de l'Université : recteur, élu en (16 décembre )) ;; Paris (Recteur de l'Université : recteur, élu en (10 octobre )) ;; Paris (Faculté de Théologie : il est l'un des théologiens souscrivant à une directive émise par la Faculté sur la durée des études nécessaire pour atteindre la licence en théologie, 27 avril ) ;.
+Representation roles: Ambassadeur de l'Université de Paris au Concile de Bâle, ;; Envoyé du concile de Bâle à Dijon auprès du concile ducal bourguignon afin de les convaincre de rester en avec FRÉDÉRIC, duc d’Autriche à la fin de ;; Parle, au nom du Concile de Bâle, devant la Cour royale, prêchant sur le thème de "Dedecus filii, pater sine honore", 18 mars ;; Ambassadeur du concile de Bâle à Dijon afin d'exhorter le duc de Bourgogne à envoyer des plénipotentiaires au Concile pour discuter de la paix en France en août ; le Concile le renverra une seconde fois la même année pour convaincre le duc de soutenir ses décisions ;; Un des ambassadeurs envoyés à Arras pour négocier la paix entre PHILIPPE Le Bon, duc de Bourgogne et CHARLES VII, roi de France, septembre ;; Nommé par le Concile dans une ambassade conciliaire envoyé à la Dièteimpériale à Francfort (juin-août ) ;.
+Authored work: '(Collection de documents sur le Concile de Bâle)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 08/10/2023..

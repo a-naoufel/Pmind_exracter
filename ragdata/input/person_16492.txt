@@ -1,0 +1,12 @@
+PERSON: AMANDUS de CivitateCastelli
+Also known as: Amandus de CIVITATECASTELLI.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1342-1342%.
+Born in: Italie (?CittàdiCastello)..
+Diocese of origin: ?Diocèse de CittàdiCastello..
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris) ..
+Ecclesiastical positions held: Provision pour un canonicat avec expectative de prébende dans l'église de Bologne en ; mandat à l'abbé du monastère de Bologne (San Stefano), à l'archidiacre de Bauptois (cathédrale de Coutances) et à Francisco de TACOMENDA, chanoine de Noyon.; Chanoine de Creil (diocèse de Beauvais) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 23/07/2020)..

@@ -1,0 +1,10 @@
+PERSON: GEBHARDUS Kemyn
+Also known as: Gebhardus KEMYN; GEBHARDUS.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1371-1379%.
+Studied at: Paris ;; Prague %1372-1379%..
+Academic grades obtained: Maître ès arts (Paris) ?.
+University functions: Prague (Université : Doyen %1378-1379%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 10/09/2025)..

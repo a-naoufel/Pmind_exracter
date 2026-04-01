@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Glorias
+Also known as: Guillelmus GLORIAS.
+Description: Maître ès arts d'Angers.
+Status: Extérieur.
+Gender: male.
+Active during: %1444-1444%.
+Studied at: Angers..
+Academic grades obtained: Maître ès arts (Angers) ..
+University functions: Angers (Maître-régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 20/08/2015..

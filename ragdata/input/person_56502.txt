@@ -1,0 +1,11 @@
+PERSON: ODO de Lissiaco
+Also known as: Odo de LISSIACO.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1250-1250%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+Family relationships: Son parent est maître Pierre de LISSY, conseiller de LOUIS IX, roi de France..
+Ecclesiastical status: Clerc ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/08/2023)..

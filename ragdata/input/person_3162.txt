@@ -1,0 +1,10 @@
+PERSON: GERARDUS de Divione
+Also known as: Girardus de DIVIONE.
+Description: Chanoine de Saint-Quentin.
+Status: Maître.
+Gender: male.
+Active during: %1275-1275%.
+Studied at: Paris ..
+Academic grades obtained: Maître ?.
+Ecclesiastical positions held: Chanoine de Saint-Quentin..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 06/01/2022..

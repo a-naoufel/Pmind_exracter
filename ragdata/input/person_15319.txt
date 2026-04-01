@@ -1,0 +1,9 @@
+PERSON: GERARDUS Magister
+Also known as: GIRARDUS Magister; Maître GIRARD.
+Description: Maître Décret à Paris.
+Status: Maître.
+Gender: male.
+Active during: %1205-1211%.
+Studied at: Paris %:1205-1211%..
+Academic grades obtained: Maître Décret (Paris) %1205-1211%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 9/01/2022..

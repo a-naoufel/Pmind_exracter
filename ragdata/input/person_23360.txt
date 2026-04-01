@@ -1,0 +1,31 @@
+PERSON: PETRUS Lemovicensis 2
+Also known as: Petrus LEMOVICENSIS; Pierre de CIPERIA; Pierre de SAPIERA; Pierre de la SEPYERA; Pierre de LAYSSIPREYA; Pierre de LACEPIERRE.
+Description: Chanoine d'Évreux.
+Status: Maître.
+Gender: male.
+Active during: %1260-1306%.
+Born in: Limousin (Donzenac)..
+Diocese of origin: Diocèse de Limoges..
+Studied at: Paris avant ..
+Academic grades obtained: Maître ès arts (Paris) dés ;; Maître en théologie (Paris) ;; Bachelier en théologie (Paris) ;.
+College affiliation: Collège de Sorbonne, socius..
+Ecclesiastical status: Sous-diacre en ;; Diacre en ;.
+Ecclesiastical positions held: Chanoine d'Évreux %1278-1304% ;.
+Authored work: 'De oculo morali', composed around ?.
+Authored work: '(Sermon pour la fête de Saint Germain)', composed around (28 août).
+Authored work: 'Sermon pour la fête de Saint Vincent', composed around ?.
+Authored work: 'Sermon pour le Quinquagésime', composed around .
+Authored work: 'Sermon pour le Jeudi Saint', composed around .
+Authored work: 'Sermon', composed around ?.
+Authored work: 'Distinctiones bonae, secundum ordinem alphabeti', composed around .
+Authored work: 'Sermons', composed around %1261-1264%.
+Authored work: 'Sermons', composed around %1260-1261%.
+Authored work: 'Sermons', composed around %1272-1273%.
+Authored work: 'Receuils d'Exempla', composed around ?.
+Authored work: 'Introitus super libros Salomonis', composed around ?.
+Authored work: 'Introitus super Threnos', composed around ?.
+Authored work: 'Notae super Almagestum Ptolomei', composed around ?.
+Authored work: 'Tractatus de compositione et usus tabularum astronomicarum', composed around ?.
+Authored work: 'Comment.in Nativitatem Ricardi de Fournival', composed around %1267-1295%.
+Authored work: 'Judicium de stella cometa', composed around ..
+Source: MIRABILE :.

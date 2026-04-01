@@ -1,0 +1,10 @@
+PERSON: NICOLAUS de Vignoto
+Also known as: Nicholaus de VIGNOTO; Nicholaus de VIGNECO.
+Description: Archidiacre de Laon.
+Status: Incertain.
+Gender: male.
+Active during: %1268-1275%.
+Studied at: Paris avant ..
+Academic grades obtained: Maître ?.
+Ecclesiastical positions held: Archidiacre de Laon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 14/10/2023)..

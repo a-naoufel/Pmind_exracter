@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Drogheda
+Also known as: Guillelmus de DROGHEDA; Guillelmus de DROKEDA; William de DROGHEDA; William of DROGHEDIE.
+Description: Canoniste.
+Status: Extérieur.
+Gender: male.
+Active during: %1220-1245%.
+Born in: ?Angleterre ;.
+Studied at: Oxford..
+Academic grades obtained: Magister ;; Docteur en droit civil ;.
+Ecclesiastical positions held: Recteur de GraftonUnderwood ;; Recteur de Petham ?.
+University functions: Oxford (Maître-régent in legibus ) ;.
+Authored work: 'Summa Aurea', composed around ;.
+Source: ODNB (Jane SAYERS) ;.

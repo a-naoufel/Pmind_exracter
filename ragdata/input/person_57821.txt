@@ -1,0 +1,10 @@
+PERSON: DIONYSIUS Berlan
+Also known as: Dionysius BERLAN.
+Description: Boursier du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1501-1501%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ..
+College affiliation: Collège d’Autun : boursier en décret ;; Collège d’Autun : boursier en décret ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

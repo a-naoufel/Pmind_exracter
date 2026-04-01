@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Sambuco
+Also known as: Guillelmus de SAMBUCO.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1456-1456%.
+Born in: Limousin ;.
+Diocese of origin: Diocèse de Limoges ;.
+Academic grades obtained: Paris (Nation de France) .; Bachelier ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/05/2018..

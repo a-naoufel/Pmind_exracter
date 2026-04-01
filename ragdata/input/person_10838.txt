@@ -1,0 +1,11 @@
+PERSON: RICARDUS Kirkeby
+Also known as: Richard KIRKEBY; Richard KYRKEBY.
+Description: Recteur de WestDean.
+Status: Maître.
+Gender: male.
+Active during: %1501-1555%.
+Born in: Angleterre..
+Studied at: Paris.; Oxford ;; Incorporé à Oxford en tant que bachelier en théologie de Paris ;.
+Academic grades obtained: Maître ès arts ;; Bachelier en théologie (Paris) ;; Docteur en théologie (Oxford) ..
+Ecclesiastical positions held: Recteur de WestDean (Wiltshire) %1501-1555%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019).

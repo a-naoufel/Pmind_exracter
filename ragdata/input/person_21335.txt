@@ -1,0 +1,10 @@
+PERSON: SIMON Gratien
+Also known as: Simon GRATIEN; Simon GRACIEN.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1455-1465%.
+Studied at: Paris ;.
+Academic grades obtained: Maître ès arts (Paris) ;; Bachelier en décret (Paris ?) avant ;.
+College affiliation: Collège de Dormans-Beauvais : dépensier %1455-1465% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/08/2016..

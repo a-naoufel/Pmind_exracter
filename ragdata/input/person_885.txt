@@ -1,0 +1,8 @@
+PERSON: ARNALDUS Desmaret
+Also known as: Arnaldus DESMARET; Arnulphus DESMARET.
+Description: Astronome.
+Status: Extérieur.
+Gender: male.
+Active during: %1466-1466%.
+Studied at: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe GENET 9/11/2020)..

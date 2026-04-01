@@ -1,0 +1,17 @@
+PERSON: SIMON Aurea Capra
+Also known as: Simon CHEVRE-D'OR; Simon AUREACAPRA.
+Description: Abbé de Saint-Rémi de Reims.
+Status: Maître.
+Gender: male.
+Active during: %1148-1198%.
+Studied at: ?Paris.
+Academic grades obtained: Magister ?.
+College affiliation: École de Saint-Victor ?.
+Religious order: O.S.B. : moine de Provins (Saint-Ayoul) ;; O.S.A. Chanoinerégulier de Paris (Saint-Victor) vers %1150-1155%..
+Religious functions: Prieur de de Provins (Saint-Ayoul) %1148-1150% ;; Abbé (bénédictin) de Reims (Saint-Rémi) %1182-1198%..
+Authored work: 'Adversus invidiosum', composed around ?.
+Authored work: 'Epitaphia VIII', composed around ?, dedicated to Écrit à la demande d’HENRI Ier le Libéral, comte de Champagne..
+Authored work: 'Ilias', composed around ?, dedicated to Écrit à la demande d’HENRI Ier le Libéral, comte de Champagne..
+Authored work: 'Vita et passio metricae sancti Thomae, archiepiscopi Cantuariensis', composed around ?.
+Authored work: 'Poème sur le conflit entre Alexandre III et Victor IV', composed around ?.
+Source: ARLIMA, Laurent Brun :.

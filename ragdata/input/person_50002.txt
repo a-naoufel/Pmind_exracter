@@ -1,0 +1,13 @@
+PERSON: ADAM de Paris 1
+Also known as: Adam de PARIS.
+Description: ?.
+Status: Incertain.
+Gender: male.
+Active during: %1059-1060%.
+Born in: Île-de-France (Paris) ?.
+Diocese of origin: Diocèse de Paris ?.
+Studied at: ?Paris..
+Authored work: '(Hymnes de l'office de Saint DOMNIO)', composed around %1059-1060%.
+Authored work: '(Vie de Saint Domnio, évêque de Salone)', composed around %1059-1060%, dedicated to Écrit à la demande de LAURENT, archevêque de Spalato..
+Authored work: '(Vie de Saint Anastase, foulon d'Aquilée)', composed around %1059-1060%, dedicated to Cette vie de Saint ANASTASE, foulon d'Aquilée a été écrite à la demande de LAURENT, archevêque de Spalato..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

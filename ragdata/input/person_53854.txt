@@ -1,0 +1,12 @@
+PERSON: BERTRANDUS de Chalencon
+Also known as: Bertrandus de CHALENCON.
+Description: Évêque de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1449-1501%.
+Studied at: ?.
+Academic grades obtained: Bachelier in utroque jure ;.
+Family relationships: Son père est Louis-Armand de CHALENCON ; Sa mère est Isabelle de LATOUR-D’AUVERGNE ; Son oncle est Guillaume de LATOUR, évêque de Rodez ; Son neveu est Bernard de POLIGNAC, évêque de Rodez ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Évêque de Rodez %1457-1494% ;; Évêqueinpartibus de Ruskoï (Russium) %1494-1501% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 2/06/2022..

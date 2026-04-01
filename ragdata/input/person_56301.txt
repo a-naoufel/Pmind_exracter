@@ -1,0 +1,14 @@
+PERSON: GUIDO de Laval
+Also known as: Guido de LAVAL.
+Description: Chanoine du Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1308-1338%.
+Born in: Anjou-Maine (Laval ?) ;.
+Diocese of origin: Diocèse de LeMans ;.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Family relationships: Son père est GUY VIII, seigneur de Laval ; Sa mère est Jeanne de BEAUMONT ; Son frère est Thibaud de LAVAL, chanoine d’Angers ; Son oncle est Charles de BEAUMONT, chanoine de Lincoln ; Son oncle est Louis de BEAUMONT, évêque de Durham ; Son neveu est Pierre de LAVAL, évêque de Rennes ; Sa cousine est ISABELLE de France, reine d’Angleterre ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Chanoine de LeMans %1309-1324% ;; Chanoine d’Angers %1312-1324% ;; Chanoine de Paris (Notre-Dame) %1324-1326% ;; Chevecier de LaGuerche % -1324% ;; Évêque de Quimper %1324-1326% ;; Évêque de LeMans %1326-1338% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/07/2023)..

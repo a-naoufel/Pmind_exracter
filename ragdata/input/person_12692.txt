@@ -1,0 +1,15 @@
+PERSON: ODARDUS Medici
+Also known as: Odouardus MEDICI; Odard LE MIRE.
+Description: Licencié en droit canon.
+Status: Maître.
+Gender: male.
+Active during: %1446-1499%.
+Born in: Champagne (Provins)..
+Diocese of origin: Diocèse de Sens ?.
+Studied at: Paris %1461-1477%..
+Academic grades obtained: Bachelier en décret (Paris) vers ;; Licencié en décret (Paris) 28 mars ..
+Academic relationships: Son maître est Jacobus AUBRY, D.Cn.L., en ..
+Religious order: O.S.B. : moine bénédictin du monastère de Montier-la-Celle (diocèse de Troyes) en ..
+Religious functions: Prieur-claustral de Montier-la-Celle (diocèse de Troyes) en ;; Aumônier de Montier-la-Celle (diocèse de Troyes) en %1460-1478% ;; Prévôt de Montier-la-Celle (diocèse de Troyes) en %1488-1499%..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (3e cours) le 26 novembre ) ;; Paris (Faculté de Décret : Lecteur des Décrétales (4e cours) le 12 octobre ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogand ; révision, Jean-Philippe Genet, 27/11/2023)..

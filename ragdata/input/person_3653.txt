@@ -1,0 +1,15 @@
+PERSON: GUILLELMUS de Saana
+Also known as: Guillaume de SAANA.
+Description: Trésorier de Rouen.
+Status: Maître.
+Gender: male.
+Active during: %1238-1280%.
+Born in: Normandie..
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris ?.
+Academic grades obtained: Maître ès arts (Paris ?)..
+College affiliation: Collège du Trésorier : fondateur ;.
+Family relationships: Son père est un prêtre ; Son frère est Guillebert de SAANA, chanoine de Bayeux ;.
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine de Rouen %1238-1280% ;; Archidiacre du Vexinfrançais en la cathédrale de Rouen %1246-1250% ;; Archidiacre d'Eu en la cathédrale de Rouen %1250-1251% ;; Trésorier de Rouen %1252-1280% ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

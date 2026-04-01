@@ -1,0 +1,9 @@
+PERSON: PETRUS de Interampne
+Also known as: Pierre de INTERAMPNE.
+Description: Maître en arts et en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1284-1284%.
+Studied at: Paris avant ;; Naples ;.
+Academic grades obtained: Maître ès arts (Paris) avant ;; Maître en médecine (Paris) avant ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 19/02/2024)..

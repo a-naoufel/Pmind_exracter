@@ -1,0 +1,15 @@
+PERSON: ROBERTUS Cornuti de Voyenna
+Also known as: Robertus CORNUTI de Voyenna.
+Description: Boursier du Collège de Laon.
+Status: Étudiant.
+Gender: male.
+Active during: %1377-1396%.
+Born in: Picardie ?.
+Diocese of origin: Diocèse de Laon ?.
+Studied at: Paris (Nation de Picardie ?) %1377-1383% ;.
+Academic grades obtained: Étudiant ès arts (Paris) en ;.
+College affiliation: Collège de Laon : boursier en %1377-1382% et en %1391-1392% ;; Collège de Laon : procureur en %1391-1392% et en %1394-1396% ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Recteur de Voyenne en ;.
+University functions: Paris (Université : nuncius du rôle de l’université en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 16/01/2024)..

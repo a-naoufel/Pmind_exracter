@@ -1,0 +1,10 @@
+PERSON: THOMAS de Salisbury
+Also known as: Thomas de SALISBURY.
+Description: Maître.
+Status: Extérieur.
+Gender: male.
+Active during: %:1220-1226%.
+Studied at: Paris ..
+Academic grades obtained: ?Maître ès arts (Paris)..
+University functions: Maître présent à Paris ..
+Authored work: 'Summa de arte praedicandi', composed around ?.

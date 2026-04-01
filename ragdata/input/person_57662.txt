@@ -1,0 +1,7 @@
+PERSON: ARNALDUS Lemaçon
+Also known as: Arnoudus dictus LEMAÇON.
+Description: Détenteur d’une maison.
+Status: Extérieur.
+Gender: male.
+Active during: %1261-1261%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 27/03/2024..

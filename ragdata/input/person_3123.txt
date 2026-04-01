@@ -1,0 +1,7 @@
+PERSON: AEGIDIUS de Fresnes
+Also known as: Gilles de FRESNES; Gilles du FRESNE.
+Description: Premier barbier et valet de chambre de CHARLES VI, roi de France..
+Status: Extérieur.
+Gender: male.
+Active during: %1413-1425%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; Jean-Philippe Genet, 27/04/2020)..

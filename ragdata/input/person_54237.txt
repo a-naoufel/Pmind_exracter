@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Le Bourc
+Also known as: Guillelmus LE BOURC; Guillaume LE BOURG.
+Description: Prieur de Saint-Lô de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1411-1455%.
+Studied at: ?.
+Academic grades obtained: Licencié in utroque jure avant ..
+Religious order: O.S.A. : chanoine augustin ;.
+Religious functions: Prieur du prieuré (O.S.A.) de Rouen (Saint-Lô) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 20/09/2022..

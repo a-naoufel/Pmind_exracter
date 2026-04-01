@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Plume
+Also known as: Guillelmus PLUME.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1444-1444%.
+Born in: Orléanais ?.
+Diocese of origin: Diocèse de Chartres ;.
+Studied at: Paris (Nation de France) ..
+Academic grades obtained: Maître ès arts (Paris) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/03/2018..

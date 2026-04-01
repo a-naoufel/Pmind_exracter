@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Alorge 1
+Also known as: Guillaume ALORGE.
+Description: Boucher.
+Status: Extérieur.
+Gender: male.
+Active during: %1366-1366%.
+Social origin: Bourgeoisie parisienne..
+Ecclesiastical status: Laïc..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 26/09/2021..

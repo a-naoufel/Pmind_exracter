@@ -1,0 +1,15 @@
+PERSON: SIMON de Mara
+Also known as: Simon de LAMARE; Simon de MARA.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1424-1447%.
+Born in: Normandie ;.
+Studied at: Paris (Nation de Normandie) %1424-1435%..
+Academic grades obtained: Étudiant en médecine (Paris) %1424-1425% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Social origin: Bourgeoisie ?.
+Ecclesiastical status: Sous-diacre ;.
+Ecclesiastical positions held: Chanoine de Rouen %1436-1448% ;.
+University functions: Paris (Faculté de médecine : Maître régent %1430-1435%) ;.
+Representation roles: Représentant de la Faculté de médecine à l'assemblée de l'Université qui ratifia les conclusions des Facultés de théologie et décret relatives à Jeanne d'ARC, le 14 Mai ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, 3/11/2021..

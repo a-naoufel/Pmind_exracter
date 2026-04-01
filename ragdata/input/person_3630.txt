@@ -1,0 +1,80 @@
+PERSON: GUILLELMUS de Moerbeke
+Also known as: Guillaume de MOERBEKE.
+Description: Dominicain.
+Status: Incertain.
+Gender: male.
+Active during: %1250-1286%.
+Born in: Brabant (Moerbeke)..
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.P. au couvent (dominicain) de Louvain..
+Ecclesiastical positions held: Archevêque de Corinthe %1278-1286%..
+Authored work: 'Transl. Procli Elementatio theologica', composed around (18 mai) à Viterbo..
+Authored work: '(Transl. Aristot. De anima)', composed around ?.
+Authored work: '(Transl. Themistii in De Anima)', composed around (22 novembre) à Viterbo..
+Authored work: 'Transl. Joannis Philoponi in De Anima', composed around (17 décembre) à Viterbo..
+Authored work: 'Transl. nova Metaphysicae Aristot.', composed around .
+Authored work: 'Analytica posteriora', composed around ?.
+Authored work: 'Categoriae', composed around ?.
+Authored work: 'De interpretatione', composed around ?.
+Authored work: 'In Aristotelis De interpretatione', composed around (12 septembre) à Viterbo..
+Authored work: 'De sophisticis elenchis', composed around ?.
+Authored work: 'Transl. Ammonius in Perihermenias', composed around (12 septembre) à Viterbe..
+Authored work: 'In Aristotelis Praedicamenta', composed around (Mars)..
+Authored work: 'Transl. Procli De decem dubitationibus circa providentiam', composed around (4 février) à Corinthe..
+Authored work: 'Translatio Procli De providentia et fato et eo quod in nobis ad Theodorum Mechanicum', composed around (14 février) à Corinthe., dedicated to Adressé à Theodoros MECHANICUM..
+Authored work: 'Transl. Procli De malorum subsistentia', composed around (21 février) à Corinthe..
+Authored work: 'Transl. Procli in Parmenidem', composed around ..
+Authored work: 'Transl. Procli exposition in Timaeum Platonis', composed around %1268-1272%.
+Authored work: 'De fato', composed around ?.
+Authored work: 'De fato ad imperatores', composed around ?.
+Authored work: 'Transl. Rhetoricae Aristot.', composed around ?.
+Authored work: 'Transl. Artis Poeticae Aristot.', composed around (1er mars)..
+Authored work: '(Traduction révisée des Parva Naturalia 1 De sensu et sensato)', composed around ?.
+Authored work: '(Traduction révisée des Parva Naturalia 2 De memoria et reminiscentia)', composed around ?.
+Authored work: '(Traduction révisée des Parva Naturalia 3 De somno et vigilia)', composed around ?.
+Authored work: '(Traduction révisée des Parva Naturalia 4 De insomniis)', composed around ?.
+Authored work: '(Traduction révisée des Parva Naturalia 5 De divinatione per somnium)', composed around ?.
+Authored work: '(Traduction révisée des Parva Naturalia 6 De longitudine et brevitate vitae)', composed around ?.
+Authored work: '(Traduction révisée des Parva Naturalia 7 De iuventute et senectute)', composed around ?.
+Authored work: '(Traduction révisée des Parva Naturalia 8 De vita et morte)', composed around ?.
+Authored work: '(Traduction révisée des Parva Naturalia 9 De respiratione)', composed around ?.
+Authored work: 'Meteorologica, Translatio nova', composed around (23 décembre) à Nicée..
+Authored work: '(Traduction d'Alexandre d'Aphrodisias, In Arist. Meteora)', composed around (24 avril) à Nicée..
+Authored work: '(Traduction du De Coelo et mundo)', composed around ?.
+Authored work: '(Transl. Simplicii in De coelo et mundo)', composed around (15 juin) à Viterbe..
+Authored work: 'Alexander Aphrodisiensis, in Aristotelis De sensu et sensato commentarium', composed around Pas après ..
+Authored work: 'Physica', composed around ?.
+Authored work: '(Transl. Aristot. De animalibus lib. XIX)', composed around ?.
+Authored work: '(Trad. du De partibus animalium)', composed around (23 décembre) à Thébes..
+Authored work: '(Trad. du De progressu animalium)', composed around ?.
+Authored work: '(Transl. Aristot. De generatione animalium)', composed around ?.
+Authored work: '(Transl. Aristot. De historia animalium)', composed around ?.
+Authored work: '(Transl. Aristotelis De generatione et corruptione)', composed around ?.
+Authored work: 'De inundatione Nili', composed around ?.
+Authored work: '(Traduction du De coloribus)', composed around ?.
+Authored work: 'Tractatus de arte et scientia geomantiae', composed around .
+Authored work: 'Transl. Archimedes De quam pluribus theorematibus', composed around (février)..
+Authored work: 'Transl. Archimedis De centris gravium vel de planis eque repentibus', composed around ..
+Authored work: 'Rememoracio in primum librum Archymedis de eque repentibus', composed around (21 novembre)..
+Authored work: 'Transl. Archimedis De insidentibus aquae', composed around (10 décembre)..
+Authored work: 'Transl. Archimedis Quadratura parabolae', composed around (8 mai)..
+Authored work: 'Transl. Archimedis Circuli dimensio', composed around ?.
+Authored work: 'Transl. Archimedis De sphera et cylindro.', composed around (29 septembre)..
+Authored work: 'Transl. Archimedis De conoydalibus et speroydalibus.', composed around (13 novembre)..
+Authored work: 'Transl. Eustokii remoratio in librum Archimedis de Spera et cylindro', composed around (23 octobre)..
+Authored work: '(Translatio Ptolomei Analemne)', composed around à Viterbo..
+Authored work: 'Iudicialia ad Syrum', composed around ..
+Authored work: 'De Speculis', composed around à Viterbo (terminé le 31 décembre)..
+Authored work: '(Liber de aquarum conductibus et ingeniis erigendis)', composed around ?.
+Authored work: '(Conica)', composed around ?.
+Authored work: '(Transl. Galeni De virtutibus alimentorum)', composed around (22 octobre) à Viterbo., dedicated to Dédié à Rosello de ARETIO..
+Authored work: '(Transl. Ps.-Hippocratis, De prognosticationibus aegritudinum secundum motum lunae)', composed around ?.
+Authored work: 'Transl. Hippocratis de pronosticatione mortis et vitae', composed around ?.
+Authored work: 'Nomoi andros kai gametes.', composed around .
+Authored work: '(Transl. Politicae Aristot.)', composed around %1260-1265% (deux traductions)..
+Authored work: '(Compendium Oeconomicae)', composed around ..
+Authored work: '(Transl. Ethicorum lib. X. Aristotelis)', composed around (15 janvier)..
+Authored work: '(Traduction du De Bona Fortuna)', composed around ?.
+Authored work: '(Traduction d’un fragment final de l’Éthique à Eudème)', composed around ?.
+Source: MIRABILE, Federico CONTINI :.

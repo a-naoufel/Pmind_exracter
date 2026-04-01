@@ -1,0 +1,9 @@
+PERSON: VINCENTIUS Le Fourlier
+Also known as: Vincentius LE FOURLIER.
+Description: Procureur au Châtelet.
+Status: Incertain.
+Gender: male.
+Active during: %1426-1426%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 03/10/2024..

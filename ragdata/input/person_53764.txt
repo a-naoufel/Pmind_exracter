@@ -1,0 +1,10 @@
+PERSON: RAIMUNDUS 3
+Also known as: RAIMUNDUS.
+Description: Chanoine de Rodez.
+Status: Incertain.
+Gender: male.
+Active during: %1242-1267%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Rodez %1242-1244% ;; Sacriste de Rodez %1245-1267% ;; Prieur de Lassouts %1263-1267% ;; Prieur de Verrières %1263-1267% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 20/05/2022..

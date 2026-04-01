@@ -1,0 +1,8 @@
+PERSON: ANTOINETTE de Mauregard
+Also known as: Antoinette de MAUREGARD.
+Description: Veuve.
+Status: Extérieur.
+Gender: female.
+Active during: %1452-1452%.
+Family relationships: Son mari est Nicholaus de MAUREGARD, dont elle est veuve ; Son fils est Raymond de MAUREGARD, tué au cours des fêtes de la Saint-Nicolas en par les hommes du prévôt de Paris, Robert d’ESTOUTEVILLE...
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 15/10/2020)..

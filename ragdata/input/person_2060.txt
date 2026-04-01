@@ -1,0 +1,9 @@
+PERSON: EDMUNDUS
+Also known as: EDMUNDUS; Eadmundus de OXONII.
+Description: Maitre oxonien.
+Status: Extérieur.
+Gender: male.
+Active during: %:1354-1354%.
+Studied at: Oxford..
+Academic grades obtained: Magister ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/07/2021)..

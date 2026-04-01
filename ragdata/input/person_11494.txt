@@ -1,0 +1,10 @@
+PERSON: SIMON de Poliaponte
+Also known as: Simon de POLIAPONTE; Simon de POLIOPONTE.
+Description: Boursier.
+Status: Étudiant.
+Gender: male.
+Active during: %1315-1330%.
+Studied at: Paris %1315-1330%..
+Academic grades obtained: Étudiant en grammaire (Paris) ;; Étudiant ès arts (Paris) ?.
+College affiliation: Collège de Navarre: boursier grammairien en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 13/09/2024)..

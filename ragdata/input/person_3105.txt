@@ -1,0 +1,10 @@
+PERSON: AEGIDIUS Dambries
+Also known as: Gilles DAMBRIES.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1307-1307%.
+Studied at: Paris..
+Academic grades obtained: Magister cité en 1307.; Bachelier en théologie (sententiaire) ..
+College affiliation: Sorbonne ;; Il fait un legs de 3 livres parisis au collège de Sorbonne..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 25/11/2018..

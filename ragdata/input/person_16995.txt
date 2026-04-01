@@ -1,0 +1,11 @@
+PERSON: ROBERTUS de Fovilla
+Also known as: Robertus de FOVILLA.
+Description: Étudiant en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1279-1279%.
+Born in: Normandie ?.
+Studied at: Paris (Nation de Normandie ?) en ..
+Academic grades obtained: Maître.; Étudiant en théologie (Paris) en ..
+College affiliation: Collège du Trésorier ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 13/09/2023)..

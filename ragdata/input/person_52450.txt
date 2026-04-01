@@ -1,0 +1,11 @@
+PERSON: GOLPHUS
+Also known as: GEULPHUS; GEWOLPHUS.
+Description: Franciscain.
+Status: Incertain.
+Gender: male.
+Active during: %1286-1286%.
+Born in: Suède.
+Studied at: Paris (?Studium generale des Frères mineurs), ..
+College affiliation: ?Couvent des Frèresmineurs à Paris..
+Religious order: O.F.M. (province de Dacie, couvent de Stockholm)..
+Source: STUDIUM http://lamop-vs3.univ-paris1.fr/studium/ Rédaction, Élisabeth Mornet, 22/06/2021..

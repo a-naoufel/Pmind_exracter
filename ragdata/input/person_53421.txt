@@ -1,0 +1,9 @@
+PERSON: ROBERTUS de Coton
+Also known as: BRUO: I, 507..
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1248-1248%.
+Studied at: Paris.
+Academic grades obtained: Maître en théologie (Paris) av..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/02/2022)..

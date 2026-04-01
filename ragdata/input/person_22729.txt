@@ -1,0 +1,11 @@
+PERSON: RADULPHUS Portelance
+Also known as: Radulphus PORTELANCE.
+Description: Étudiant du collège Saint-Thomas du Louvre.
+Status: Maître.
+Gender: male.
+Active during: %1284-1284%.
+Studied at: Paris,.
+Academic grades obtained: Maître (Paris) ..
+College affiliation: Collège du Louvre (Saint-Thomas) ;.
+Family relationships: Son parent est (peut-être) Gilbertus PORTELANCE ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/01/2024)..

@@ -1,0 +1,10 @@
+PERSON: ELIAS de Pompadour
+Also known as: Hélie de POMPADOUR.
+Description: Évêque de Viviers.
+Status: Extérieur.
+Gender: male.
+Studied at: ?.
+Academic grades obtained: ?.
+Social origin: Noble..
+Ecclesiastical positions held: Archidiacre de Carcassonne ;; Évêque d’Alet %1448-1454% ;; Évêque de Viviers %1454-1477% ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

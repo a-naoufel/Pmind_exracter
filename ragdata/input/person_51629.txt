@@ -1,0 +1,10 @@
+PERSON: HEBERTUS Camus
+Also known as: Hebertus CAMUS; Hébert CAMUS.
+Description: Procureur au Parlement.
+Status: Suppôt.
+Gender: male.
+Active during: %1395-1425%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+College affiliation: Collège de Dormans-Beauvais : procureur du collège au Parlement de Paris %1381-1401%..
+Source: LAMOP : Opération Charles VI :.

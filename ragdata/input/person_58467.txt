@@ -1,0 +1,12 @@
+PERSON: RENERIUS Venatoris de Arnhem
+Also known as: Reynerus VENATORIS de Arnhem.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1401-1403%.
+Born in: Pays-Bas (Gueldre : Arnhem) ?.
+Diocese of origin: Diocèse d’Utrecht..
+Studied at: Paris (Nation Anglo-allemande) %1401-1403% ;; Heidelberg, immatriculé en (23 juin) ;.
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Hermannus de UMMEN pour le baccalauréat en ; Son maître est Hermannus de UMMEN pour la licence en ; Son maître est Hermannus de UMMEN pour la maîtrise en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 28/12/2024)..

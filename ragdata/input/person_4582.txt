@@ -1,0 +1,11 @@
+PERSON: HENRICUS Maltmynger de Berka
+Also known as: Henricus MALTMYNGER de BERKA; Henricus de BERKA; Henri de MALTMYNGER de BERKA.
+Description: Procureur de la Nation d'Angleterre à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1392-1406%.
+Born in: Rhénanie (?Rheinberg)..
+Studied at: Erfurt %1392-1394% ;; Cologne ;; Paris (Nation Anglo-allemande) %1401-1406% ..
+Academic grades obtained: Bachelier ès arts (Erfurt) ? ;; Étudiant ès arts (Cologne) ;; Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;; Item incepit dominus Henricus Maltmyngher de Berca sub eodem, cujus bursa VII solidi." ;; Bachelier en médecine (Paris) ..
+University functions: Paris (Nation Anglo-allemande : maître-régent en ) ;; Paris (Nation Anglo-allemande : procureur élu en %1402 (16 décembre) jusqu'en (13 janvier)) ;; Paris (Nation Anglo-allemande : procureur élu en %1403 (10 février) juqu'en (10 mars)) ;; Paris (Nation Anglo-allemande : "examinator baccallariorum" en à Sainte-Geneviève) :; Paris (Nation Anglo-allemande : il est le fidéjusseur de Willelmus BLOC pour la régence en %1402-1403%) ;; Paris (Nation Anglo-allemande : il est le fidéjusseur de Henricus de XANTIS pour la régence en %1402-1403%) ;; Paris (Nation Anglo-allemande : il est le fidéjusseur de Willelmus BLOC pour la régence en %1404-1405%) ;.
+Source: RAG ;.

@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Anney
+Also known as: William de ANNEY.
+Description: Maître ès arts.
+Status: Extérieur.
+Gender: male.
+Active during: %1302-1302%.
+Born in: Angleterre..
+Studied at: Oxford..
+Academic grades obtained: Maître ès arts..
+University functions: Oxford (Maître-régent )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 05/03/2022..

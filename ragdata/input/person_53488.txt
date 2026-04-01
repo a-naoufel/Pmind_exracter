@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS de Hondescote
+Also known as: Guillelmus de HONDESCOTE; GUILLAUME, prévôt de Furnes.
+Description: Prévôt de Furnes.
+Status: Maître.
+Gender: male.
+Active during: %1236-1253%.
+Born in: Flandre (Hondschoote ?) ?.
+Diocese of origin: Diocèse de Thérouanne ?.
+Studied at: Paris (Nation de Picardie ?) %1236-1243%..
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en théologie (Paris) en %1236-1243% ;.
+Social origin: Noble ;.
+Ecclesiastical positions held: Prévôt de Furnes ;; Trésorier de Douai ;.
+University functions: Paris (Faculté des Arts : maître-régent) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/03/2022)..

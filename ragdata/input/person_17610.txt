@@ -1,0 +1,11 @@
+PERSON: GERMANUS Massiot
+Also known as: Germanus MASSIOT.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1501-1501%.
+Born in: Île-de-France (Paris)..
+Diocese of origin: Diocèse de Paris ?.
+Studied at: Paris %1501-1501%..
+Academic grades obtained: Bachelier en décret (Paris) 28 septembre ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet 13/01/2022)..

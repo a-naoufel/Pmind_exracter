@@ -1,0 +1,10 @@
+PERSON: HELMANUS de Wesalia
+Also known as: Helmanus de WESALIA.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Born in: Westphalie ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/02/2022..

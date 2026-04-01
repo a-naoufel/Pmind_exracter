@@ -1,0 +1,67 @@
+PERSON: RUTEBEUF
+Also known as: RUTEBEUF.
+Description: Poète.
+Status: Étudiant.
+Gender: male.
+Active during: %1248-1277%.
+Born in: Champagne ?.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+Social origin: Laïc ?.
+Authored work: 'Le Dit des Cordeliers', composed around ?.
+Authored work: 'La Discorde de l'Université et des Jacobins', composed around , pendant l’hiver, après l’accession au pontificat d’ALEXANDRE IV, et avant la bulle Quasi lignum du 14 avril, RUTEBEUF prenant le parti des maîtres séculiers contre les Dominicains (Jacobins) ;.
+Authored work: 'D’Hypocrisie', composed around ;.
+Authored work: 'Ci encoumance li diz de Maître Guillaume de Saint-Amour, coument il fu escilliez', composed around (septembre ou octobre), à propos de l’exil de Guillaume de SAINT-AMOUR ;.
+Authored work: 'Ci encoumence la complainte Maitre Guillaume de Saint-Amour', composed around , à propos de Guillaume de SAINT-AMOUR ?.
+Authored work: 'Le dit des règles', composed around (printemps) ;.
+Authored work: 'Le Dit de Sainte Eglise', composed around (automne)..
+Authored work: 'Le dit du mensonge', composed around ?.
+Authored work: 'Le dit des Jacobins', composed around ?.
+Authored work: 'Les ordres de Paris, 168 v.', composed around %1260-1261% ?.
+Authored work: 'Des beguines', composed around %1260-1261% ?.
+Authored work: 'Cy encoumence la lections d’Ypocrisie et d’Umilitei', composed around (octobre ?) ;.
+Authored work: 'La chanson des Ordres', composed around , après le mois de mai ;.
+Authored work: 'Le miracle de Théophile', composed around ?.
+Authored work: 'Ci encoumence li miracles que Nostre Dame fist dou soucretain et d’une dame', composed around ?.
+Authored work: 'Un dist de Notre Dame', composed around Vers ?.
+Authored work: 'L'Ave Maria Rutebeuf', composed around Vers ?.
+Authored work: 'C'est de Notre Dame', composed around Vers ?.
+Authored work: 'Le dit du pet au vilain', composed around ?.
+Authored work: 'Des plaies dou monde', composed around ?.
+Authored work: 'De l'estat du monde', composed around ?.
+Authored work: 'C’est li testament de l'asne', composed around ?Après ?.
+Authored work: 'Ci encoumence li diz de la griesche d'yver', composed around ?.
+Authored work: 'Ci encoumence de la griesche d'estei', composed around ?.
+Authored work: 'Le dit des Ribauds de Grève', composed around ?.
+Authored work: 'Le mariage Rutebeuf', composed around .
+Authored work: 'Cy encoumence la complainte Rutebuef de son oeul', composed around %1261-1262% (hiver) ;.
+Authored work: 'Ci coumence la repentance Rutebeuf', composed around ? ?.
+Authored work: 'Ci encoumence la voie d’umilitei', composed around , à la fin de l’hiver ;.
+Authored work: 'Ci encoumence li diz de Freire Denize le Cordelier', composed around , à la fin de l’année ?.
+Authored work: 'Ci encoumance de la dame qui ala .III. fois entor le moutier', composed around ?.
+Authored work: 'Le dit de l'herberie', composed around ?.
+Authored work: 'Ci encoumence la desputisons de Charlot et dou barbier de Meleun', composed around %1263-1266% ?.
+Authored work: 'Ci encoumence de Charlot le Juif qui chia en la pel dou lievre', composed around %1264-1265% ?.
+Authored work: 'Cy encoumence li diz de l'Universitei de Paris', composed around %1268-1269% ?.
+Authored work: 'De Brichemer', composed around Après ?.
+Authored work: 'C’est la paiz de Rutebuef', composed around ?.
+Authored work: 'C’est de la povretei Rutebuef', composed around ;.
+Authored work: 'De Monseigneur Ancel de l'Isle', composed around ?%1252-1259% ?.
+Authored work: 'Ci encoumence la complainte de Monseigneur Joffroi de Sergines', composed around %1255-1256% ;.
+Authored work: 'Ci encoumence la complainte de Coustantinoble', composed around après le mois de mai ;.
+Authored work: 'Ci encoumence la vie de Sainte Marie l’Egypcienne', composed around %1262-1263%.
+Authored work: 'La vie de sainte Elysabel', composed around ?, dedicated to Écrit à la demande d’Erart de LEZINNES, chanoine d’Auxerre (puis évêque d’Auxerre) et arrière-petit-fils de Goeffroy de VILLEHARDOUIN pour ISABELLE, reine de Navarre et Comtesse de Champagne, c’est l’histoire de Sainte ELISABETH de Hongrie morte en et canonisée en ;.
+Authored work: 'La chanson de Pouille', composed around %1264-1265%, dedicated to Écrit peut-être à la demande d’Erart de LEZINNES, chanoine d’Auxerre (puis évêque d’Auxerre) dont l’oncle et protecteur, Guy de MELLO, évêque d’Auxerre, était un fervent partisan de Charles d’ANJOU..
+Authored work: 'Ci encoumence li diz de Puille', composed around , après le 28 juin, quand Charles d’ANJOU reçoit l’investiture du royaume de Sicile ;.
+Authored work: 'C’est la complainte d'Outremer', composed around (printemps ou été) ;.
+Authored work: 'La complainte du comte Eudes de Nevers', composed around après le mois d’août, et avant (mars), car LOUIS IX, roi de France n’a pas encore pris la croix ;.
+Authored work: 'Ci encoumence li diz de la voie de Tunes', composed around .
+Authored work: 'La complainte du roi de Navarre', composed around ..
+Authored work: 'Ci encoumence la complainte dou conte de Poitiers', composed around ;.
+Authored work: 'Renart le Bestourné', composed around ..
+Authored work: 'La disputaison du Croisé et du Décroisé', composed around %1267-1270% ?.
+Authored work: 'Le dit d'Aristote', composed around , dedicated to Adressé à PHILIPPE III le Hardi, roi de France..
+Authored work: 'La nouvelle complainte d'Outremer', composed around ;.
+Authored work: 'C’est la complainte de Sainte Eglize', composed around Après.
+Authored work: 'Dit des propriétés de Notre Dame', composed around ?.
+Source: Panorama des principals éditions des oeuvres de Rutebeuf : Cédric SENTJENS :.

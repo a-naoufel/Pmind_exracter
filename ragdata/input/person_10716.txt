@@ -1,0 +1,10 @@
+PERSON: REGINALDUS Loerii
+Also known as: Reginaldus LOERII; Renaud LOIER.
+Description: Boursier théologien au collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1393-1393%.
+Studied at: Paris %1393-1393%..
+Academic grades obtained: Étudiant en théologie (Paris) ;.
+College affiliation: Boursier théologien au collège de Navarre à Paris en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 24/10/2018..

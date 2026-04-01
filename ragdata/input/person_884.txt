@@ -1,0 +1,9 @@
+PERSON: ARNALDUS Corbel
+Also known as: Arnaldus CORBEL.
+Description: "Magister".
+Status: Maître.
+Gender: male.
+Active during: %1469-1469%.
+Studied at: Paris ..
+Academic grades obtained: "Magister"..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 29/10/2020)..

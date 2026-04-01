@@ -1,0 +1,11 @@
+PERSON: OLAVUS 2
+Also known as: OLAVUS; OLAWS.
+Description: Chanoine.
+Status: Maître.
+Gender: male.
+Active during: %1298-1298%.
+Born in: Norvège.
+Studied at: ?.
+Academic grades obtained: Magister.
+Ecclesiastical positions held: Chanoine de Stavanger, ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 21/03/2022..

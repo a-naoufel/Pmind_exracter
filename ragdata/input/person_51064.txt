@@ -1,0 +1,9 @@
+PERSON: GERARDUS Blanchard
+Also known as: Gerardus BLANCHARD.
+Description: Maître d’école.
+Status: Maître.
+Gender: male.
+Active during: %1412-1412%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts (Paris ?) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 1/09/2020..

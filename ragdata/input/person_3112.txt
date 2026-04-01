@@ -1,0 +1,12 @@
+PERSON: AEGIDIUS de Auxerre
+Also known as: Aegidius d'AUXERRE; Gilles d'AUXERRE.
+Description: Boursier artien au Collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1315-1315%.
+Born in: Bourgogne (Auxerre) ?.
+Diocese of origin: Diocèse d'Auxerre ?.
+Studied at: Paris (Nation de France) %1315-1315%..
+Academic grades obtained: Étudiant ès arts (Paris) ..
+College affiliation: Boursier artien au Collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 19/04/2020)..

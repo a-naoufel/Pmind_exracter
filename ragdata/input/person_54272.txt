@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Bourdon 2
+Also known as: Guillelmus BOURDON.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1413-1414%.
+Studied at: Paris %1413-1414%..
+Academic grades obtained: Maître ès arts (Paris) attesté en ;; Étudiant en théologie (Paris) attesté en ;.
+Ecclesiastical positions held: Provision pour un bénéfice ecclésiastique ?.
+University functions: Paris (Université : ambassadeur en cour de Rome en ) ;; Paris (Université : il est présent à une assemblée en (22 juin) quand, après lecture des lettres du roi et de celles de l'université d'Angers, l'université décide de s'adjoindre à l'université d'Angers pour agir auprès du roi afin d'interdire la levée d'un décime en contradiction avec les privilèges des universités ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 28/02/2022..

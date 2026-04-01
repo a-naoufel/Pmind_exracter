@@ -1,0 +1,16 @@
+PERSON: AUGUSTINUS Perez de Olivano
+Also known as: Agustin PEREZ de Olivano.
+Description: Maître ès arts ?.
+Status: Maître.
+Gender: male.
+Active during: %1495-1509%.
+Born in: Castille (Andalousie : Séville)..
+Diocese of origin: Diocèse de Séville..
+Studied at: Alcala ;; Paris..
+Academic grades obtained: Maître ès arts (Paris) ?.
+College affiliation: Collège Sainte-Barbe : Maître-régent %:1505-1509%.; Collège de Sorbonne : hôte ;; Collège de Sorbonne : socius ;.
+University functions: Paris (Faculté des Arts : maître-régent au Collège Sainte-Barbe) ;; Alcala : professeur..
+Authored work: 'Quaestiones solertissimi …', composed around ?.
+Authored work: 'Argutissimae totiusque posterioristice resolutionis questiones …', composed around ?.
+Authored work: 'In posteriorum Aristotelis', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 29/11/2020)..

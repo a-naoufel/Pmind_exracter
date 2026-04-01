@@ -1,0 +1,12 @@
+PERSON: SIMON de Paris 3
+Also known as: Simon de PARIS.
+Description: Archidiacre de Vendôme.
+Status: Incertain.
+Gender: male.
+Active during: %1272-1276%.
+Born in: Île-de-France (Paris ?) ?.
+Diocese of origin: Paris ?.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Archidiacre de Vendôme %1237-1262% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/05/2025..

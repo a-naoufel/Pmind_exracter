@@ -1,0 +1,13 @@
+PERSON: MATTHAEUS Aurelianensis
+Also known as: Matthaeus AURELIANENSIS; Matthieu d'ORLEANS.
+Description: Maître ès arts.
+Status: Incertain.
+Gender: male.
+Active during: %1220-1230%.
+Born in: ?Orléans..
+Diocese of origin: Diocèse d'Orléans ?.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ?.
+Authored work: 'Sophistaria', composed around ?.
+Authored work: 'Aequivoca, cum commento', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 11/03/2024..

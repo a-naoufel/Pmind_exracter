@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Podio
+Also known as: Guillelmus de PODIO.
+Description: Régulier.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant (Paris) %1329-1330% ?.
+Religious order: Régulier ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 07/01/2020..

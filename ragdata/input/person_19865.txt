@@ -1,0 +1,11 @@
+PERSON: Pedagogus de Conradus de Argentina
+Also known as: PEDAGOGUS de Conraudus de Argentina.
+Description: "Dominus".
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Born in: Alémanie (Alsace : Strasbourg) ?.
+Diocese of origin: Diocèse de Strasbourg ?.
+Studied at: Paris en ..
+Academic grades obtained: Étudiant (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 03/12/2023..

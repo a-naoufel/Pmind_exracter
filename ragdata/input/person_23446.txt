@@ -1,0 +1,11 @@
+PERSON: HUETUS de Bethisy
+Also known as: Hue de BETHISY; Huet de BETHISY.
+Description: Hôte du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1387-1388%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Collège de Dormans-Beauvais : hôte %1387-1388% ;.
+Family relationships: Son parent est Johannes de BETHISY 1, procureur du Collège de Dormans-Beauvais au Parlement ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 27/08/2022..

@@ -1,0 +1,7 @@
+PERSON: GUILLELMUS de Andelot
+Also known as: Guillelmus de ANDELOT.
+Description: Messager du roi.
+Status: Extérieur.
+Gender: male.
+Active during: %1410-1410%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 19/09/2022..

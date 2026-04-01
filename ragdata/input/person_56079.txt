@@ -1,0 +1,12 @@
+PERSON: PETRUS de Origneyo
+Also known as: Petrus de ORIGNEYO.
+Description: Chanoine de Troyes.
+Status: Incertain.
+Gender: male.
+Active during: %1471-1499%.
+Studied at: ?.
+Academic grades obtained: Licencié in utroque jure ;.
+Family relationships: Son frère est Nicolaus de ORIGNEYO, chanoine de Troyes ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Troyes %1471-1499% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet ; dernière mise à jour 17/05/2023..

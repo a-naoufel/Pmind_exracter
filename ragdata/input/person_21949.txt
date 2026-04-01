@@ -1,0 +1,10 @@
+PERSON: GARINUS Bonnefemme
+Also known as: Guérin BONNEFEMME.
+Description: Hôte du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1401-1402%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Hôte du Collège de Dormans-Beauvais %1401-1402% ;.
+Source: LAMOP : Opération Charles VI :.

@@ -1,0 +1,11 @@
+PERSON: BERNARDUS 12
+Also known as: BERNARD; BERART.
+Description: Chanoinerégulier de Soissons (Saint-Jean des Vignes).
+Status: Étudiant.
+Gender: male.
+Active during: %1401-1405%.
+Studied at: Paris.
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège de Dormans-Beauvais : religieux-boursier en ;.
+Religious order: O.S.A. : chanoinerégulier de Soissons (Saint-Jean des Vignes) %1401-1405% au moins ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 14/01/2021)..

@@ -1,0 +1,23 @@
+PERSON: GALFREDUS de Sancto Victore
+Also known as: Galfredus de SANCTO VICTORE; Gaufridus SANCTI VICTORIS; Godefroy de SAINT-VICTOR.
+Description: Chanoine régulier de Saint-Victor.
+Status: Maître.
+Gender: male.
+Active during: %1150-1194%.
+Studied at: Paris %1140-1194% ?.
+Academic grades obtained: Magister ?.
+Academic relationships: Son maître est Adam de BALSHAM..
+Religious order: Chanoine régulier de Paris (Saint-Victor) ;.
+Religious functions: Sacriste de Paris (Saint-Victor) en ..
+Authored work: 'Canticum beatae Virginis et Matris extensum', composed around ?.
+Authored work: 'De beata Virgine quedam', composed around ?.
+Authored work: 'Planctus Beatae Virginis et Matris in passione Filii', composed around ?.
+Authored work: 'Epitaphium Godefridi secundum litteram tumulo ejus superscribendum, secundum misterium huic libro prescribendum', composed around ?.
+Authored work: '?Sequentia de Sancto Victore', composed around ?.
+Authored work: 'Praeconium Sancti Augustini', composed around ?.
+Authored work: 'Libellus sermonum', composed around ?.
+Authored work: 'Sermo communis', composed around ?.
+Authored work: 'Sermones post Microcosmum', composed around ?.
+Authored work: 'Fons philosophiae', composed around ?.
+Authored work: 'Microcosmus', composed around ?.
+Source: MIRABILE :.

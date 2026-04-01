@@ -1,0 +1,10 @@
+PERSON: IVO Garmeon
+Also known as: Yvo GARMEON.
+Description: Chantre de Tréguier.
+Status: Incertain.
+Gender: male.
+Active during: %1424-1424%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chantre de Tréguier vers ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

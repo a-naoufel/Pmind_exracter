@@ -1,0 +1,12 @@
+PERSON: GALFREDUS de Bolonia
+Also known as: Gaufridus de BOLONIA; Gaudefridus de BOULOGNE.
+Description: Étudiant en droit canon..
+Status: Étudiant.
+Gender: male.
+Active during: %1336-1341%.
+Studied at: Paris %1341-1341%..
+Academic grades obtained: Étudiant Cn.L. (Paris) ..
+Family relationships: Son frère est Guillaume de BOULOGNE ; Son frère est Gui de BOULOGNE, chancelier d'Amiens en %1369-1373%..
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine de Chartres, ;; Chanoine d'Amiens, %1336-1341%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, dernière mise à jour 07/04/2015..

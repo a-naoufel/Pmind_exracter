@@ -1,0 +1,10 @@
+PERSON: GUIDO Le Charpentier
+Also known as: Gérard LE CHARPENTIER.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1404-1406%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Boursier du Collège de Dormans-Beauvais %1404-1406% ;.
+Source: LAMOP : Opération Charles VI :.

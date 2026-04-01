@@ -1,0 +1,9 @@
+PERSON: SIMON de Sancto Paulo
+Also known as: Simon de SAINT PAUL.
+Description: Bachelier en médecine..
+Status: Gradué.
+Gender: male.
+Active during: %1495-1500%.
+Studied at: Paris %1495-1500%..
+Academic grades obtained: Bachelier en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 13/09/2024)..

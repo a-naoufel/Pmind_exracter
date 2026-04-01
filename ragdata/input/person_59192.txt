@@ -1,0 +1,7 @@
+PERSON: GALFREDUS Viel
+Also known as: Gaufridus VIEL.
+Description: Habitant de Paris.
+Status: Extérieur.
+Gender: male.
+Active during: %1341-1345%.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

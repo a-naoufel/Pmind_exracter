@@ -1,0 +1,11 @@
+PERSON: EBRARDUS de Montagnio
+Also known as: Euvrardus de MONTAGNIO.
+Description: Chanoine de Chalon.
+Status: Étudiant.
+Gender: male.
+Active during: %1460-1481%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) avant ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Recteur de Diconne ;; Recteur de Fragnes ;; Chorial de Chalon-sur-Saône ;; Chanoine de Chalon-sur-Saône % -1481% ;; Chanoine de Beaune %1465-1481% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/05/2025..

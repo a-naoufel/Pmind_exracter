@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Pignoty
+Also known as: Guillelmus PIGNOTY.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+Ecclesiastical positions held: Clerc séculier ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 25/05/2022.

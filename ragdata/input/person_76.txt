@@ -1,0 +1,9 @@
+PERSON: ADAM de Charniaco
+Also known as: Adam de CHARNIACO.
+Description: Magister.
+Status: Incertain.
+Gender: male.
+Active during: %1284-1284%.
+Studied at: ?.
+Academic grades obtained: Magister.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

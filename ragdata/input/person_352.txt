@@ -1,0 +1,14 @@
+PERSON: ALBERTUS Engelschalk
+Also known as: Albertus ENGELSCHALK; Albert ENGELSCHALK.
+Description: Recteur de l'Université de Prague..
+Status: Extérieur.
+Gender: male.
+Active during: %1378-1430%.
+Born in: Bavière (Strobing)..
+Studied at: Prague jusqu'en ;; Vienne à partir de ..
+Academic grades obtained: Maître ès arts (Prague) ;; Étudiant en théologie (Prague ou Vienne ?)..
+University functions: Prague (Faculté des Arts : maître-régent) ;; Prague (Université : Recteur %1391-1393%) ;; Vienne (Université : professeur)..
+Authored work: '[Commentaire sur les Sentences]', composed around ?.
+Authored work: 'Lectura evangeliorum de tempore et de sanctis', composed around ?.
+Authored work: 'Lectura super epistolas dominicales', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 25/06/2020)..

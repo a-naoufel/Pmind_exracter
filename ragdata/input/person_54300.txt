@@ -1,0 +1,10 @@
+PERSON: NICOLAUS de Egliniaco
+Also known as: Nicolaus de EGLINIACO.
+Description: Chanoine de Sens.
+Status: Incertain.
+Gender: male.
+Active during: %1275-1303%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Sens %1275-1303% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 25/09/2022..

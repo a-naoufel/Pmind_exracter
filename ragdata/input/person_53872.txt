@@ -1,0 +1,9 @@
+PERSON: GODEFRIDUS Le Fevre
+Also known as: Godefridus LEFÈVRE; Godefridus le FÈVRE.
+Description: Chambellan du duc d’Orléans.
+Status: Extérieur.
+Gender: male.
+Active during: %1398-1399%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 05/06/2022)..

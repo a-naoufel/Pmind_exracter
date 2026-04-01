@@ -1,0 +1,10 @@
+PERSON: N. Messent
+Also known as: N. MESSENT.
+Description: Bénédictin.
+Status: Étudiant.
+Gender: male.
+Active during: %1338-1339%.
+Studied at: Paris %1338-1339%..
+Academic grades obtained: Étudiant (Paris) %1338-1339% ;.
+Religious order: O.S.B. : moine bénédictin ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 5/10/2023)..

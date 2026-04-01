@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Warin 1
+Also known as: Nicolaus WARIN.
+Description: Étudiant ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1480-1501%.
+Studied at: Paris %1480-1501%..
+Academic grades obtained: Maître ès arts (Paris) ?.
+College affiliation: Collège de LaMarche : procureur en ;; Collège de LaMarche ; Principal jusqu’en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, ..

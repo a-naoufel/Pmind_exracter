@@ -1,0 +1,13 @@
+PERSON: HENRICUS Des Devises
+Also known as: Henricus des DEVISES; Henri des DEVISES; Henri de DUNSES.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1475-1500%.
+Born in: Normandie..
+Diocese of origin: Diocèse de Coutances ;.
+Studied at: Paris (Nation de Normandie) %1475-1492%..
+Academic grades obtained: Étudiant en médecine (Paris) %1475-1476% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Ecclesiastical positions held: Candidat à un bénéfice à l'église de Meung (Sainte-Marie) dans le diocèse de Bourges ;; Candidat à un bénéfice à Bourges (Saint-Ursin)..
+University functions: Candidat pour la chaire de médecine de l'Université de Bourges, laissée vacante par la mort de Martial RIGAULT..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 25/07/2022..

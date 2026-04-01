@@ -1,0 +1,10 @@
+PERSON: NICOLAUS de Vienna
+Also known as: Nicolaus de VIENNA; Nicolaus dictus Daniel de VIENNA; Nicolas de VIENNE.
+Description: Recteur à l'Université de Paris..
+Status: Maître.
+Gender: male.
+Active during: %1313-1330%.
+Studied at: Paris (Nation de France) %1313-1330%..
+Academic grades obtained: Maître ès arts (Paris) avant ..
+University functions: Maîtrerégent de la Faculté des arts de Paris en mai ;; Paris (Université : recteur en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 14/10/2023)..

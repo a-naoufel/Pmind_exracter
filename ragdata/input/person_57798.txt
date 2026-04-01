@@ -1,0 +1,10 @@
+PERSON: ANTHONIUS de Thesis
+Also known as: Anthoine de THESI.
+Description: Boursier du collège d’Autun.
+Status: Étudiant.
+Gender: male.
+Active during: %1516-1518%.
+Studied at: Paris %1516-1518%..
+Academic grades obtained: Étudiant en décret (Paris)..
+College affiliation: Collège d’Autun : boursier %1516-1518% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 05/06/2024..

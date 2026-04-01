@@ -1,0 +1,11 @@
+PERSON: NATALIS de Longastre
+Also known as: Natalis de LONGASTRE; Natalis de LONGASTIS.
+Description: Docteur en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1485-1487%.
+Studied at: Paris %1485-1487%..
+Academic grades obtained: Licencié en théologie (Paris) (le 20 décembre) ;; Docteur en théologie (Paris) (le 13 février) ..
+College affiliation: Couvent (franciscain) de Paris (Cordeliers) %1485-1487%..
+Religious order: O.F.M. ; frère franciscain..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 7/10/2023)..

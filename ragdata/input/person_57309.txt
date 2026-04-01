@@ -1,0 +1,16 @@
+PERSON: PHILIPPUS 5
+Also known as: PHILIPPUS.
+Description: Dominicain..
+Status: Étudiant.
+Gender: male.
+Active during: %1230-1231%.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Couvent (dominicain) de Paris (Jacobins)..
+Religious order: O.P. : frère dominicain..
+Religious functions: Prieur du couvent (dominicain) de Paris en %1230-1231%..
+Authored work: 'Sermo prioris Sancti Jacobi Dom. ante Nativitatem Domini', composed around (22 décembre)..
+Authored work: 'Sermo fr. Philippi prioris Sancti Jacobi post conversionem S. Pauli', composed around (26 janvier)..
+Authored work: 'Sermo fr. Philippi de ord. Praedic. Dom. VI post oct. Pentecost.', composed around (22 avril)..
+Authored work: 'Sermo prioris Sancti Jacobi Dom. in festo S. Laurentii', composed around (10 août)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, dernière mise à jour, 23-01-2024..

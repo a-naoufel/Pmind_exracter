@@ -1,0 +1,10 @@
+PERSON: PETRUS Crilleti
+Also known as: Petrus CRILLETI.
+Description: Bachelier en théologie du collège d’Autun.
+Status: Gradué.
+Gender: male.
+Active during: %1518-1518%.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en théologie (Paris) en ?.
+College affiliation: Collège d'Autun : boursier en théologie en ?.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

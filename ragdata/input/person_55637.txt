@@ -1,0 +1,13 @@
+PERSON: GALFREDUS de Barecio
+Also known as: Gaufridus de BARECIO.
+Description: Évêque d’Évreux.
+Status: Maître.
+Gender: male.
+Active during: %1270-1299%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Langres ?.
+Studied at: Paris ?.
+Academic grades obtained: Maître ès arts (Paris) ;.
+Family relationships: Son frère est Alanus de BARECIO, chanoine d’Évreux ; Son neveu est Nicolas de BAR, évêque de Mâcon ?.
+Social origin: ?.
+Ecclesiastical positions held: Chanoine de Saint-Quentin ?; Chanoine de Paris (Notre-Dame) ?; Évêque d’Évreux %1298-1299% ;.

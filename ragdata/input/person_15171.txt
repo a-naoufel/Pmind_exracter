@@ -1,0 +1,7 @@
+PERSON: RENERIUS L'Espicier
+Also known as: Regnier L'ESPICIER; Régnier JEAN.
+Description: Médicastre.
+Status: Extérieur.
+Gender: male.
+Active during: %1322-1322%.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 16/01/2024)..

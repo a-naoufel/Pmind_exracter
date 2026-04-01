@@ -1,0 +1,8 @@
+PERSON: ODO de Cormessiaco
+Also known as: Odo de CORMESSIACO.
+Description: Chanoine régulier.
+Status: Extérieur.
+Gender: male.
+Active during: %1322-1322%.
+Religious order: O.S.A. : Chanoine régulier de Paris (Hôtel-Dieu)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/11/2023..

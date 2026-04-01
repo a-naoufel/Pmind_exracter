@@ -1,0 +1,10 @@
+PERSON: GALTERIUS de Lophem
+Also known as: Galterius de LOPHEM.
+Description: Curé de Lophem.
+Status: Étudiant.
+Gender: male.
+Active during: %1270-1300%.
+Studied at: Paris ?.
+College affiliation: Sorbonne ?.
+Ecclesiastical positions held: Curé de Loppem ("Lophem in Flandria") ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 11/11/2021..

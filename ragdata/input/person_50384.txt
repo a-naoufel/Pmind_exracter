@@ -1,0 +1,10 @@
+PERSON: LUDOVICUS Borbonie dux
+Also known as: Louis de CLERMONT, duc de Bourbon.
+Description: Duc de Bourbon.
+Status: Extérieur.
+Gender: male.
+Active during: %1307-1342%.
+Studied at: ?.
+Family relationships: Son père est Robert de CLERMONT ; Sa mère est Béatrice de BOURGOGNE ; Sa femme est Marie d’AVESNES..
+Social origin: Noble ;.
+Source: WIKIPEDIA ;.

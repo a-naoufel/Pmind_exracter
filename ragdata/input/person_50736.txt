@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Duffeld 1
+Also known as: Guillelmus de DUFFELDE.
+Description: Recteur de Rampisham.
+Status: Extérieur.
+Gender: male.
+Active during: %1311-1311%.
+Studied at: Oxford ;.
+Academic grades obtained: Maître ès arts ;.
+Ecclesiastical positions held: Recteur de Rampisham (Dorset) ..
+Authored work: 'Quaestiones s. Analytica posteriora', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 31/03/2020..

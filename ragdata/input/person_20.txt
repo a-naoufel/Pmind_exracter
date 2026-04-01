@@ -1,0 +1,10 @@
+PERSON: ADAM 6
+Also known as: ADAM; ADAMUS.
+Description: Procureur de la nation anglaise.
+Status: Maître.
+Gender: male.
+Active during: %1359-1359%.
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Maître ès arts..
+Ecclesiastical positions held: Paris (Nation Anglo-allemande : procureur en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 6/11/2016..

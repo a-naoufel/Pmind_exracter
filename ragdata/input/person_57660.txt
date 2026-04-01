@@ -1,0 +1,10 @@
+PERSON: HUGO Episcopus Apprensis
+Also known as: H. episcopus Apprensis.
+Description: Évêque d’Apros.
+Status: Extérieur.
+Gender: male.
+Active during: %1261-1263%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Évêque d’Apros en %1261-1263% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 27/03/2024..

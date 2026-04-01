@@ -1,0 +1,11 @@
+PERSON: GERARDUS Swaeffkyn
+Also known as: Gerardus SWAEFFKYN.
+Description: Maître ès arts de Cologne.
+Status: Étudiant.
+Gender: male.
+Active during: %1488-1493%.
+Born in: Pays-Bas (Deventer) ?.
+Diocese of origin: Diocèse de Utrecht ?.
+Studied at: Paris (Nation Anglo-germanique) avant ?; Cologne %1488-1493%..
+Academic grades obtained: Étudiant (Paris) .; Maître ès arts (Cologne) ;; (Cologne) ;.
+Source: RAG ;.

@@ -1,0 +1,11 @@
+PERSON: ANGELUS Johannis
+Also known as: Ange JOHANNIS.
+Description: Médecin.
+Status: Extérieur.
+Gender: male.
+Active during: %1397-1425%.
+Born in: Italie (Abruzzes : L’Aquila)..
+Studied at: Bologne ..
+Academic grades obtained: Maître ès arts (Bologne) ;; Maître en médecine (Bologne) ;.
+Authored work: '(Consultation sur la gravelle)', composed around ?, dedicated to Destinée à Dino RAPONDI..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol, dernière mise à jour 17/07/2015)..

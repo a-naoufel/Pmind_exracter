@@ -1,0 +1,27 @@
+PERSON: HENRICUS Beaufort
+Also known as: Henry BEAUFORT.
+Description: Cardinal.
+Status: Extérieur.
+Gender: male.
+Active during: %1395-1447%.
+Studied at: Cambridge (Peterhouse) %1388-1389% ;; Oxford (Queen's College) %1390-1393% au moins..
+Academic grades obtained: Maître ès arts (Oxford) avant ;; Étudiant en théologie (Oxford) avant ..
+Family relationships: Son père est John of GAUNT, duke of Lancaster ; Sa mère est Catherine SWYNFORD ; Son demi-frère est HENRY IV ; Son frère est John BEAUFORT, earl of Somerset ; Son beau-frère est JACQUES Ier, roi d’Écosse ; Son neveu est HENRY V, roi d’Angleterre ; Son neveu est JOHN, duc de Bedford ; Son neveu est HUMPHREY, duc de Gloucester ; Sa nièce est Isabelle de PORTUGAL, duchesse de Bourgogne ; Sa fille est Jane FITZALAN ; Son gendre est Sir Edward STRADLING ; Son cousin est Sir Thomas CHAUCER..
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine de Lincoln %1389-1398% ;; Chanoine d'York ;; Doyen de Wells %1396-1398% ;; Chanoine de Salisbury %1397-1398% ;; Warden de Tickhill (Yorkshire) ;; Évêque de Lincoln %1398-1404% ;; Évêque de Winchester %1404-1447% ;; Cardinal-prêtre de Saint-Eusèbe %1427-1447% ;.
+University functions: Oxford (Université : chancelier %1397-1398%)..
+Representation roles: Diplomatie, pour le compte des rois d'Angleterre ou des papes ;; Il ne participe pas au Concile de Pise mais conduit en %1408-1409% les négociations pour renouveler les trêves avec la France ;; Il participe au Concile de Constance en ;; Mission diplomatique aux Pays-Bas en ;; Il participe au passage à la conférence de Meulan, en France (%1417-1419%).; Missions diplomatiques en Allemagne et en Bohême en tant que légat pontifical pour la croisade contre les Hussites ;; Mission diplomatique en en Écosse pour renouveler les trêves avec JACQUES Ier ;; Envoyé en avril comme président du conseil de régence en France : il va en Flandre pour rencontrer PHILIPPE le Bon, duc de Bourgogne à Gand en ; il participe au procès de JEANNE d’Arc à Rouen puis au couronnement d’HENRI VI à Paris ; hésitant à aller à Rome, il va en Flandre avant de rentrer en Angleterre où il doit se défendre contre les partisans de HUMPHREY, duc de Gloucester ;.
+Authored work: '(Sermon sur "Multitudo sapientium", Sap. VI, 26)', composed around (14 janvier, à Westminster)..
+Authored work: '(Sermon sur "Rex vocavit seniores terre" Reg. III. 20, 7)', composed around (Octobre, à Coventry)..
+Authored work: '(Sermon sur "Decet nos implere omnem justiciam" Mat. 3, 15)', composed around (27 janvier)..
+Authored work: '(Sermon sur "Ante omnem actum consilium stabile" Eccli. 37, 20)', composed around ..
+Authored work: '(Sermon sur "Posuit cor suum ad investigandas leges" I Esdr. 7, 10)', composed around (Mai, à Leicester)..
+Authored work: '(Sermon sur "Dum tempus habemus operemur bonum" Gal. 6, 10', composed around (Novembre)..
+Authored work: 'Sermon sur "Sicut et ipse fecit nobis ita et nos eis faciamus"', composed around ..
+Authored work: '(Lettre d'un chapelain)', composed around ..
+Authored work: 'Sermon sur "Iniciavit vobis viam" Heb. 10, 20', composed around (6 mars)..
+Authored work: 'Sermon d'ouverture du Parlement, version latine', composed around (6 mars)..
+Authored work: 'Sermon sur "Operam detis ut quieti sitis I Thess. 4, 2', composed around (19 octobre)..
+Authored work: 'Sermon sur "Gloria et honor et pax omni operanti bonum" Rom. 2, 10', composed around (30 avril) à Westminster..
+Authored work: 'Sermon sur "Sic facite ut salvi sitis" Eccle. 3, 2', composed around ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction Jean-Philippe Genet, 29/05/2023..

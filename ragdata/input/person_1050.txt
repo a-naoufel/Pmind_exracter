@@ -1,0 +1,11 @@
+PERSON: ARNULPHUS Provincialis
+Also known as: Arnulfus PROVINCIALIS; Arnoul de PROVENCE.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1250-1265%.
+Born in: Provence ?.
+Studied at: Paris.
+Academic grades obtained: Maître ès arts (Paris)..
+Authored work: 'Divisio scientiarum', composed around .
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/02/2022)..

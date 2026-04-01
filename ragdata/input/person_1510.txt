@@ -1,0 +1,9 @@
+PERSON: BLASIUS 1
+Description: Franciscain.
+Status: Extérieur.
+Gender: male.
+Active during: %1250-1250%.
+Religious order: O.F.M : frère franciscain..
+Authored work: 'Lectura Circii', composed around ?.
+Authored work: 'Palma', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (dernière mise à jour, Jean-Philippe Genet, 18/09/2015)..

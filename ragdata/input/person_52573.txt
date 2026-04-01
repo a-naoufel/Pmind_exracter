@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Dorioti
+Also known as: Nicolaus DORIOTI; Nicolas DORIOT.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1404-1430%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Reims %1404-1430% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 27/08/2021..

@@ -1,0 +1,11 @@
+PERSON: HENRICUS de Boldonis
+Also known as: Henricus de BOLDONIS.
+Description: Médecin.
+Status: Maître.
+Gender: male.
+Active during: %1383-1393%.
+Born in: Italie (Lombardie : Milan) ?.
+Diocese of origin: Diocèse de Milan ?.
+Studied at: Paris (Nation de France) ?; Bologne ;; Vienne ;.
+Academic grades obtained: Maître ès arts (Paris) ?; Docteur en médecine ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/12/2025..

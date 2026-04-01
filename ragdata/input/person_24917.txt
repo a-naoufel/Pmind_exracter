@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Ramibommara
+Also known as: Guillermus de RAMIBOMMARA.
+Description: Étudiant ès arts.
+Status: Étudiant.
+Gender: male.
+Active during: %1379-1380%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris (Nation de Normandie) %1379-1380% ;.
+Academic grades obtained: Étudiant ès arts (Paris) %1379-1380% ;.
+Ecclesiastical status: Pauvre clerc du diocèse de Rouen ;.
+Ecclesiastical positions held: Candidat à un bénéfice à la collation de l'évêque, du doyen et du chapitre de Paris en ;; Candidat à un bénéfice à la collation de l'évêque, du doyen et du chapitre de Paris sur le rotulus de la comtesse Mathilde de GENEVE en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 1/12/2018..

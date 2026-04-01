@@ -1,0 +1,9 @@
+PERSON: AEGIDIUS 10
+Also known as: EGIDIUS.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1470-1471%.
+Studied at: Paris ?.
+Academic grades obtained: Maître (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 12/05/2018)..

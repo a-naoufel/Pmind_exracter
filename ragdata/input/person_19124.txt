@@ -1,0 +1,7 @@
+PERSON: GILBERTUS Soleri
+Also known as: Gilbertus SOLERI.
+Description: Etudiant.
+Status: Incertain.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..

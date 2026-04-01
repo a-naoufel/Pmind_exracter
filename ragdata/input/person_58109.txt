@@ -1,0 +1,10 @@
+PERSON: THEOBALDUS de Anchora
+Also known as: Thibault de ANCHORA.
+Description: Maître ès arts.
+Status: Incertain.
+Gender: male.
+Active during: %1300-1320%.
+Studied at: ?.
+Academic grades obtained: Maître ès arts ?.
+Authored work: 'Quaestiones 4 disputatae', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 02/10/2024).

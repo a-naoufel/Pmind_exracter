@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Sauvage
+Also known as: Nicolaus SAUVAGE.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1451-1451%.
+Studied at: Paris (Nation de France) ?.
+Academic grades obtained: Maître ès arts (Paris) ;.
+University functions: Paris (Faculté des Arts : présenté e (3 avril) comme "tentator superior examinis Sancte Genvefe" par l'abbé de Paris (Sainte-Geneviève) et accepté par l'assemblée) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 04/04/2023..

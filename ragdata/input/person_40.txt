@@ -1,0 +1,10 @@
+PERSON: ADAM Folez Picardus
+Also known as: Adam FOLEZ.
+Description: Étudiant..
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Born in: ?Picardie : "Picardus"..
+Studied at: Paris (Nation de Picardie ?) en ..
+Academic grades obtained: Étudiant (Paris)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 11/04/2020..

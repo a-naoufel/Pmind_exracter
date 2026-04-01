@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Fabri 2 bis
+Also known as: Guillermus FABRI.
+Description: Doyen de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1375-1375%.
+Studied at: ?.
+Academic grades obtained: Licencié en droit canon ;.
+Ecclesiastical positions held: Chanoine de Clermont ;; Doyen de Clermont ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 26/09/2023)..

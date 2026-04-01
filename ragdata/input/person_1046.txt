@@ -1,0 +1,24 @@
+PERSON: ARNALDUS Le Bescochier
+Also known as: Arnoul le BESCOCHIER; Arnoul le BESCHOCE; Arnulphus li BESOCHIES.
+Description: Chanoine d'Amiens.
+Status: Maître.
+Gender: male.
+Active during: %1267-1286%.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) ..
+Ecclesiastical positions held: Chanoine de Senlis ;; Chanoine d'Amiens ..
+University functions: Paris (abbaye de Saint-Victor : Régent )..
+Authored work: '(Sermon pour la fête de Sainte Catherine)', composed around (le 25 novembre, à Paris (Saint-Mathurin))..
+Authored work: '(Sermon pour la fête de Saint Jean)', composed around (27 décembre, à Paris (Béguines))..
+Authored work: '(Sermon pour la fête de Saint Vincent)', composed around (22 janvier, à Paris (Saint-Antoine))..
+Authored work: '(Sermon pour le mardi de Pâques)', composed around (11 avril, à Paris (Béguines))..
+Authored work: '(Sermon pour le lundi de Pentecôte)', composed around (29 mai, à Paris (Saint-Antoine))..
+Authored work: '(Sermon pour le mercredi après la Pentecôte)', composed around (21 mai, à Paris (Béguines))..
+Authored work: '(Sermon pour le 20e dimanche après la Pentecôte)', composed around (15 octobre), à Paris (Béguines))..
+Authored work: '(Sermon pour le 2ème dimanche après l'Epiphanie)', composed around (17 janvier).
+Authored work: '(Sermon pour le Samedi Saint)', composed around ..
+Authored work: '(Sermon sur Joh. 2 1)', composed around ?.
+Authored work: '(Sermon sur Job 23 10)', composed around ?.
+Authored work: '(Sermon sur I Petr. 2 2)', composed around ?.
+Authored work: '(Sermon pour le Jeudi Saint)', composed around %1272-1273% ? (à Saint-Omer)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

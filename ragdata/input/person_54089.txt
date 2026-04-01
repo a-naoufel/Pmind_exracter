@@ -1,0 +1,23 @@
+PERSON: HUGO Eterianus
+Also known as: Hugo ETERIANUS.
+Description: Cardinal.
+Status: Étudiant.
+Gender: male.
+Active during: %1135-1182%.
+Born in: Italie (Toscane : Pise) ?.
+Diocese of origin: Diocèse de Pise ?.
+Studied at: Paris ?.
+Academic grades obtained: Étudiant (Paris) vers %1130-1140% ?.
+Family relationships: Son frère est Leone TOSCANO..
+Academic relationships: Son maître est ALBERICUS de Paris, adversaire de Pierre ABÉLARD, qui enseigne sur la Montagne Sainte-Geneviève à partir des années . ;.
+Ecclesiastical status: Laïc, élevé en seulement au diaconat pour devenir cardinal, d’après une lettre de LUCIUS III à Leone TOSCANO citée par Pietro PODOLAK ?.
+Ecclesiastical positions held: Cardinal-diacre de SanAngeloinPescheria ;.
+Authored work: 'De minoritate ac aequalitate Filii hominis ad Deum Patrem', composed around ?.
+Authored work: 'De anima corpore iam exuta', composed around ?.
+Authored work: 'De sancto et immortali Deo', composed around ..
+Authored work: 'Contra Patharenos', composed around ?.
+Authored work: 'De haeresibus quas Graeci in Latinos devolvunt', composed around ?.
+Authored work: 'De differentia naturae et personae', composed around ?.
+Authored work: 'Liber de immortalitate Dei', composed around Œuvre perdue..
+Authored work: 'Epistolae', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/08/2022)..

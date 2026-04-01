@@ -1,0 +1,10 @@
+PERSON: RADULPHUS 1
+Also known as: Maître RAOUL.
+Description: Maître.
+Status: Incertain.
+Gender: male.
+Active during: %1140-1141%.
+Studied at: ?.
+Academic grades obtained: Magister ;.
+University functions: Paris (Maître vers )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 27/11/2024..

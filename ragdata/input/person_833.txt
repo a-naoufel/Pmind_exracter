@@ -1,0 +1,22 @@
+PERSON: ANTHONIUS Parmensis
+Also known as: Antonius PARMENSIS; Antoine de PARME; Antonio de AZARO Parmensis.
+Description: Professeur de médecine à Bologne.
+Status: Maître.
+Gender: male.
+Active during: %1310-1323%.
+Born in: Italie (Émile-Romagne : Parme ?)..
+Diocese of origin: Diocèse de Parme ?.
+Studied at: ?Paris %:1310:-:1323:% ;; Bologne ..
+Academic grades obtained: ?Maître ès arts (Paris).
+University functions: Professeur de médecine à Bologne ..
+Authored work: 'Questio de intellectu possibili...'Utrum intellectus sit actus et forma'', composed around .
+Authored work: 'Questio disputata 'Utrum primum principium sive Deus'', composed around ?.
+Authored work: 'Questiones super De generatione et corruptione', composed around ?.
+Authored work: 'Questiones super III librum Meteororum', composed around ?.
+Authored work: 'Commentarius super primam fen primi canonis Avicenne', composed around .
+Authored work: 'Compendium medicinae', composed around ?.
+Authored work: 'Quaestiones super librum de accidenti et morbo', composed around ?.
+Authored work: 'Questio utrum idropisis asclites possit fieri a mala conversione epatis', composed around ?.
+Authored work: 'Questio. utrum febris et putrid. possit coniungi', composed around ?.
+Authored work: 'In librum Ethicorum', composed around ?.
+Source: MIRABILEn Federico CENCINI :.

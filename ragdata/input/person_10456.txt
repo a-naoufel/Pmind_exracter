@@ -1,0 +1,9 @@
+PERSON: PONCIUS de Yspaniis
+Also known as: Poncius de YSPANIIS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris %1329-1330% ;.
+Academic grades obtained: Étudiant (Paris)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 9/05/2024..

@@ -1,0 +1,20 @@
+PERSON: GUILLELMUS de Estoutevilla 2
+Also known as: Guillelmus de ESTOUTEVILLA; Guillelmus de TOTESVILLA; Guillelmus de ESTOUTEVILLE.
+Description: Cardinal, archevêque de Rouen.
+Status: Étudiant.
+Gender: male.
+Active during: %1428-1483%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse de Rouen..
+Studied at: Paris (Nation de Normandie ?) ;; Angers ;.
+Academic grades obtained: Étudiant (Paris) en ;; Maître ès arts (Paris) ;; Licencié en décret (Angers) ;.
+Family relationships: Son père est Jean d'ESTOUTEVILLE, seigneur de Valmont, chambellan du duc d'Orléans ; Sa mère est Margerite d'HARCOURT ; Son oncle est Louis d'HARCOURT, archevêque de Rouen ; Sa maîtresse est Girolama TOGLI ; Son fils est Agostino TOTAVILLA ; Son fils est Girolamo TOTAVILLA ; Sa fille est Catarina TOTAVILLA ; Son gendre est Saba di Ludovico MATTEI ; Sa fille est Margherita TOTAVILLA ; Son gendre est Mario di Francesco MASSIMI ; Sa fille est Giulia TOTAVILLA ; Son gendre est Giorgio di Camillo BENINBENE ;.
+Social origin: Noble..
+Ecclesiastical positions held: Chanoine d'Évreux %1428- % ;; Chanoine d'Angers %1433-1445% ;; Archidiacre d'Outre-Loire à la cathédrale d'Angers %1433-1445% ;; Chanoine de Lyon %1433-1440% ;; Archidiacre de Lyon %1433-1440% ;; Évêque d'Angers ;; Évêque de Couserans %1439-1440% ;; Évêque de Digne %1439-1445% ;; Cardinal au titre de San-Martino-ai-Monti %1439-1459% ;; Évêque de Mirepoix %1440-1441% ;; Prieurcommandataire de Saint-Magloire-de-Léhon %1440-1483% ;; Évêque de Nîmes %1441-1450% ;; Abbécommandataire du Mont-Saint-Michel %1444- % ;; Abbécommandataire de Saint-Gildas-des-Bois %1444- % ;; Évêque de Lodève %1450-1462% ;; Prieurcommandataire de Donges ;; Prieurcommandataire de Nantes (Sainte-Croix) ;; Évêque de Maurienne %1453-1483% ;; Archevêque de Rouen %1453-1483% ;; Prieurcommandataire de Paris (Saint-Martin-des-Champs) %1457- % ;; Cardinal au titre de Santa Pudenziana ;; Cardinal-évêque de Porto %1459-1461% ;; Cardinal-évêque de OstiaeVelletri %1461-1483% ;; Abbécommandataire de Cerreto (Sainte-Marie) %1462- % ;; Abbécommandataire de Rouen (Saint-Ouen) %1462- % ;; Abbécommandataire de Montebourg %1466- % ;; Prieurcommandataire de Vertou %1466- % ;; Prieurcommandataire de Beaumont-en-Auge %1466- % ;; Prieurcommandataire de Grandmont-les-Rouen %1467- % ;; Prieurcommandataire de Cunault %1467- % ;; Archiprêtre de Rome (Sainte-Marie-Majeure) ;; Archidiacre du Cotentin à la cathédrale de Coutances ;; Abbécommandataire de Bonnecombe %1475- % ;.
+Representation roles: Légat en France en %1451-1453% ;; Légat en France en %1454-1455% ;.
+Authored work: 'Correspondance avec la famille Sforza', composed around ?.
+Authored work: 'Correspondance avec la famille Medici', composed around ?.
+Authored work: 'Reformatio universitatis per Cardinalem legatum Guillelmum de Estoutevilla-', composed around ..
+Authored work: 'Epistola ad heremitas sancti Augustini', composed around ?.
+Authored work: 'Orationes tres de Pragmatica Sanctione', composed around ..
+Source: MIRABILE : Andrea CENCINI :.

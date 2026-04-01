@@ -1,0 +1,11 @@
+PERSON: GALFREDUS Du Saussay
+Also known as: Geoffroi du SAUSSAY; Geoffroi du SAUSAY; Geoffroi du SAULSAY; Geoffroi du SAUÇAY; Geoffroi du SAUSSOY; Geoffroi du SAULSOY; Geoffroi du SAUCHOY; Geoffroy du SAULSOY.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1477-1525%.
+Studied at: Paris, %1477-1525%..
+Academic grades obtained: Étudiant en médecine (Paris) %1477-1478:% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+College affiliation: Collège de Maître-Gervais : grand-boursier en médecine ou en quadrivium %1481-1484% ;.
+University functions: Maîtrerégent de la Faculté de médecine à Paris, %1485-1525%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 22/10/2020)..

@@ -1,0 +1,17 @@
+PERSON: ALANUS Oliverii
+Also known as: Alanus OLIVERII; Alanus OLIVIER.
+Description: Maître en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1447-1466%.
+Born in: Normandie (?PaysdeCaux) ;.
+Diocese of origin: Diocèse de Rouen ;.
+Studied at: Paris (Collège du Trésorier) %1451-1462%..
+Academic grades obtained: Bachelier en théologie (Paris) attesté en ;; Licencié en théologie Paris (4 mars) ;; Maître en théologie (Paris) (27 avril) ..
+College affiliation: ?Étudiant au collège du Trésorier..
+Family relationships: Son frère est Guillaume OLIVIER..
+Academic relationships: Maître de trois bacheliers en théologie, dont deux bénédictins, %:1457:-:1462:%..
+Ecclesiastical status: Prêtre du diocèse de Rouen ;.
+Ecclesiastical positions held: Chanoine du chapitre cathédral de Rouen %1457-1466% ;; Curé de Saint-MartinauxBuneaux en ;; Curé de Hugleville-sur-Scie en ..
+University functions: Paris (Faculté de Théologie : Lecteur de la Bible le 26 août ) ;; Paris (Faculté de Théologie : Lecteur des Sentences en septembre ) ;; Paris (Faculté de Théologie : Maîtrerégent en %1457-1458%) ;; Paris (Faculté de Théologie : Maîtrerégent en %1461-1462%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol ; révision, Jean-Philippe Genet 08/06/2020)..

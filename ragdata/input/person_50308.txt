@@ -1,0 +1,10 @@
+PERSON: HENRICUS de Chableyo
+Also known as: Henricus de CHABLEYO; Henri de CHABLAIS.
+Description: Conseiller-clerc au Parlement.
+Status: Incertain.
+Gender: male.
+Active during: %1345-1348%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical status: Clerc..
+Source: Paris au Moyen Âge : les Parisiens :.

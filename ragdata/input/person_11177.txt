@@ -1,0 +1,13 @@
+PERSON: ROBERTUS de Louenses
+Also known as: Robertus de LOUENSES.
+Description: Bénédictin.
+Status: Gradué.
+Gender: male.
+Active during: %1320-1343%?.
+Studied at: Paris vers %1320-1325%..
+Academic grades obtained: Bachelier en théologie (Paris) vers %1320-1325% ;.
+Academic relationships: Élève de Petrus ROGERII, D.T., vers %1320-1325%..
+Religious order: O.S.B. : moine de Saint-Denis-en-France (diocèse de Paris) ;.
+Religious functions: Trésorier de Saint-Denis-en-France (diocèse de Paris) en ;; Candidat à des bénéfices en ..
+University functions: Paris (Faculté de Théologie : Lecteur de la Bible à Paris vers %1320-1325%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 2/07/2019..

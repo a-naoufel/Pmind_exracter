@@ -1,0 +1,9 @@
+PERSON: PETRUS de Beloquardo
+Also known as: Pierre de BELOQUARDO; Petrus de BELOQUARDO.
+Description: Etudiant en médecine..
+Status: Étudiant.
+Gender: male.
+Active during: %1414-1415%.
+Studied at: Paris %1414-1415%..
+Academic grades obtained: Étudiant en médecine (Paris) %1414-1415%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 05/02/2024..

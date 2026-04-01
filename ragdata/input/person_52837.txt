@@ -1,0 +1,10 @@
+PERSON: HUGO de Burgundia
+Also known as: Hugo de BURGUNDIA; Hugo BURGONDENSIS; Hugo de BURGUNDIO; Hugues de BOURGOGNE.
+Description: Archidiacre de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1206-1231%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de Reims %1206-1231% ;; Archidiacre de Reims %1218-1225% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 27/10/2021..

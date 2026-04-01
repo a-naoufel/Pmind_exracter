@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Insula 1
+Also known as: Guillelmus de INSULA.
+Description: Chanoine d'Autun.
+Status: Incertain.
+Gender: male.
+Active during: %1317-1330%.
+Studied at: ?.
+Academic grades obtained: Maître..
+Ecclesiastical positions held: Chanoine d'Autun %1317-1330% ;; Chanoine d'Arcy-Saint-Nicolas %1317- % ;; Doyen d'Arcy-Saint-Nicolas %1317- % ;; Chanoine de Bayeux %1322- % ;; Chanoine de Vergy %1327- % ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 28/03/2022..

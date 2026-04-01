@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS Anglici 2
+Also known as: Aegidius ANGLICI.
+Description: Bachelier en théologie à Paris..
+Status: Gradué.
+Gender: male.
+Active during: %1428-1428%.
+Studied at: Paris, %:1408-1408%..
+Academic grades obtained: Bachelier en théologie (Paris) ..
+Religious order: O.S.A. : Chanoine de l'abbaye (O.S.A.) de Cherbourg (Notre-Dame du Voeu) en ;.
+University functions: Paris (Faculté de Théologie, cursor débutant son cours en le 31 août) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 19/04/2020)..

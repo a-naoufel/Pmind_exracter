@@ -1,0 +1,11 @@
+PERSON: PETRUS Alfarde
+Also known as: Don Pedro ALFARDE.
+Description: Chanoine régulier de Saint Augustin.
+Status: Étudiant.
+Gender: male.
+Active during: %1131-1190%.
+Born in: Portugal..
+Studied at: Paris ?.
+Religious order: Chanoine régulier de Saint Augustin avant ..
+Religious functions: Prieur de Coïmbre (Santa Cruz)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 04/12/2023..

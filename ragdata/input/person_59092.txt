@@ -1,0 +1,9 @@
+PERSON: PALINODUS de Winquete
+Also known as: Palinodus de WINQETE.
+Description: Bachelier en décret.
+Status: Gradué.
+Gender: male.
+Active during: %1428-1428%.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en décret (Paris) (4 mars) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 13/06/2025..

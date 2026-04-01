@@ -1,0 +1,13 @@
+PERSON: ROBERTUS de Stampis 1
+Also known as: Robertus de STAMPIS.
+Description: Licencié ès lois.
+Status: Étudiant.
+Gender: male.
+Active during: %1396-1396%.
+Born in: Normandie ;.
+Diocese of origin: Diocèse de Bayeux..
+Studied at: Paris ..
+Academic grades obtained: Étudiant en décret ?; Licencié ès lois ;.
+Ecclesiastical status: Prêtre du diocèse de Bayeux ;.
+Ecclesiastical positions held: Candidat à un bénéfice sur le Rotulus quorundam licentiatorum et bacalariorum Universitatis Parisiensis présenté à BENOÎT XIII en (?) à Avignon ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 5/03/2019..

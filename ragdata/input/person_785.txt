@@ -1,0 +1,12 @@
+PERSON: ANTHONIUS de Castillione
+Also known as: Anthonius de CASTILLIONE; Antoine de CHASTILLON; Antoine de CHATILLON.
+Description: Docteur en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1496-1529%.
+Studied at: Paris %1496-1497%.
+Academic grades obtained: Licencié en théologie (Paris) (le 27 janvier) ;; Docteur en théologie (Paris) (le 13 janvier) ..
+College affiliation: Collège Saint-Bernard..
+Religious order: Cistercien : abbaye cistercienne de Clairvaux..
+Religious functions: Abbé de Froidmont, %1495-1529% ;; Vicaire de l'abbé de Citeaux en chargé de confirmer une élection à un abbatiat..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 24/09/2020)..

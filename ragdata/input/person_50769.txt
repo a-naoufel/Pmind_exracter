@@ -1,0 +1,18 @@
+PERSON: GUILLELMUS de Lidlyngton
+Also known as: Guillelmus de LIDLYNGTON; William LUDLINGTON; William de LITTLINGTON.
+Description: Carme.
+Status: Étudiant.
+Gender: male.
+Active during: %1300-1312%.
+Born in: Angleterre ;.
+Diocese of origin: Diocèse de Lincoln ;.
+Studied at: Oxford ;; Paris ;.
+Academic grades obtained: Docteur en théologie (Oxford) ;; Étudiant en théologie (Paris) %1305-1308% ?.
+Religious order: O. Carm. : frère du couvent (carme) de Stamford ;.
+Religious functions: Provincial (Carme) d’Angleterre %1301-1305% ;; Provincial (Carme) de TerreSainte ;.
+Authored work: 'In Evangelium S. Matthaei Commentaria', composed around ?.
+Authored work: 'Determinationes', composed around ?.
+Authored work: 'Lecturae theologicae', composed around ?.
+Authored work: 'Sermones ad populum', composed around ?.
+Authored work: 'Contra Statutum Narbonense', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 07/04/2020..

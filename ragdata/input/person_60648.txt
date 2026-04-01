@@ -1,0 +1,9 @@
+PERSON: STEPHANUS Boileau
+Also known as: Stephanus dictus BOILEAU.
+Description: Notaire du roi au Châtelet.
+Status: Incertain.
+Gender: male.
+Active during: %1390-1390%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: Chronologie et bibliographie de Paris au Moyen Âge ;.

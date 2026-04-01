@@ -1,0 +1,9 @@
+PERSON: CINIBALDUS Lumbardus
+Also known as: Cenebaut LUMBARDUS.
+Description: ?Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Born in: Italie (Lombardie ?) ?.
+Studied at: Paris %1329-1330%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 06/04/2021..

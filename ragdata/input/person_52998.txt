@@ -1,0 +1,13 @@
+PERSON: THOMAS de Furnivalle
+Also known as: Thomas de FURNIVALLE; Thomas GREFFIN; Thomas de FOURNIVAL.
+Description: Chanoine d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: %1253-1275%.
+Studied at: ?.
+Academic grades obtained: Maître en ;.
+Family relationships: Son oncle est Richard de FOURNIVAL ;.
+Ecclesiastical status: Sous-diacre ;.
+Ecclesiastical positions held: Chanoine d’Amiens %1253-1275% ;.
+Authored work: '(Traité de chirurgie)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/11/2021..

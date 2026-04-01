@@ -1,0 +1,11 @@
+PERSON: ANTHONIUS de Vasselin
+Also known as: Anthonius WASSELIN; Antoine de VASSELIN.
+Description: Hôte du collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1449-1449%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Dormans-Beauvais : hôte en ;.
+Family relationships: Son parent est probablement Andry WASSELIN, chapelain du collège de Dormans-Beauvais en %1450-1466%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet 25/11/2020)..

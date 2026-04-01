@@ -1,0 +1,11 @@
+PERSON: MICHAEL Le Chambrier
+Also known as: Michael LE CHAMBRIER.
+Description: Chanoine d’Amiens.
+Status: Incertain.
+Gender: male.
+Active during: % -1506%.
+Studied at: ?.
+Academic grades obtained: Maître ;; Licencié in utroque jure ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d’Amiens %1473-1506% ;; Chantre d’Amiens %1473-1506% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/12/2021..

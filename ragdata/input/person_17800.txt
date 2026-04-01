@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Foresta 3
+Also known as: Guillelmus de FORESTA; Guillermus de FORESTA.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1482-1482%.
+Born in: Auvergne ?.
+Diocese of origin: Diocèse de Clermont..
+Studied at: Paris %1482-1482%..
+Academic grades obtained: Bachelier en décret (Paris) attesté en ..
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (1e année) en (22 août)) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux ; révision, Jean-Philippe Genet, dernière mise à jour 25/03/2022..

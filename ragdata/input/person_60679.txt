@@ -1,0 +1,11 @@
+PERSON: AEGIDIUS de Bosco 3
+Also known as: Aegidius de BOSCO.
+Description: Chanoine de Cambrai.
+Status: Incertain.
+Gender: male.
+Active during: %1413-1438%.
+Studied at: ?.
+Academic grades obtained: Maître ?.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Cambrai %1413-1438% ;; Chanoine de Cambrai (Collégiale Sainte-Croix) ;; Curé de Cambrai (Saint-Vaast) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ Rédaction : Jean-Philippe Genet, dernière mise à jour 19/12/2025..

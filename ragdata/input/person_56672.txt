@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Socheti
+Also known as: Guillermus SOCHETI; Guillaume SOUCHET.
+Description: Chanoine de Clermont.
+Status: Incertain.
+Gender: male.
+Active during: %1481-1499%.
+Studied at: ?.
+Academic grades obtained: Licencié en droit canon ;.
+Ecclesiastical positions held: Chanoine de Clermont %1481-1499% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 27/09/2023)..

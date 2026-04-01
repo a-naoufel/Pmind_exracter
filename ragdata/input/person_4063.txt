@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Rollandi
+Also known as: Guillelmus ROLLANDI.
+Description: Curé de Saint-Nicolas du Chardonnet.
+Status: Étudiant.
+Gender: male.
+Active during: %1317-1330%.
+Studied at: Paris %1329-1330%..
+Academic grades obtained: Étudiant en théologie (Paris) ;.
+Ecclesiastical positions held: Curé de Paris (Saint-Nicolas-du-Chardonnet) %1317-1330% au moins ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/05/2020..

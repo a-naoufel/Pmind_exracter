@@ -1,0 +1,11 @@
+PERSON: PETRUS Bernier
+Also known as: Pierre BERNIER.
+Description: Boursier du Collège de Laon..
+Status: Étudiant.
+Gender: male.
+Active during: %1390-1394%.
+Born in: Picardie ?.
+Studied at: Paris (Nation de Picardie) %1391-1394%..
+Academic grades obtained: Étudiant ès arts (Paris) %1391-1394% ;.
+College affiliation: Collège de Laon : boursier ès arts %1391-1394% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 14/12/2020..

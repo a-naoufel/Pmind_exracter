@@ -1,0 +1,16 @@
+PERSON: HUGO de Rochecorbon
+Also known as: Hugues de ROCHECORBON.
+Description: Évêque de Langres.
+Status: Extérieur.
+Gender: male.
+Active during: %1210-1250%.
+Born in: Orléanais ?.
+Diocese of origin: Diocèse de Chartres ?.
+Studied at: ?.
+Academic grades obtained: ?.
+Social origin: Noble..
+Religious order: O.S.B. : moine bénédictin..
+Religious functions: Abbé de Marmoutiers %1210-1227% ;; Abbé de Cluny %1236-1242%..
+Ecclesiastical positions held: Évêque de Langres %1242-1250 ;.
+Representation roles: Il participe au concile de Lyon en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 26/03/2024..

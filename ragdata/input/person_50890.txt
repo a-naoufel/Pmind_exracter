@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Persone
+Also known as: Guillelmus PERSONE.
+Description: Chanoine de Vannes.
+Status: Extérieur.
+Gender: male.
+Active during: %1335-1335%.
+Studied at: ?.
+Academic grades obtained: ?.
+Ecclesiastical positions held: Chanoine de Vannes en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 1é/05/2020..

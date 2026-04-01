@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS de Surtanville
+Also known as: Guillelmus de SURTANVILLE; Guillelmus de FURTANVILLE.
+Description: Bachelier en droit canon..
+Status: Gradué.
+Gender: male.
+Active during: %1429-1429%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse du Coutances..
+Studied at: Paris %1429-1429%..
+Academic grades obtained: Bachelier en décret (Paris) (23 juin) ;.
+Ecclesiastical status: Prêtre du diocèse de Coutances..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Anne Tournieroux, 16/04/2015 ; révision, Jean-Philippe Genet, 19/04/2022.

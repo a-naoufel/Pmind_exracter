@@ -1,0 +1,13 @@
+PERSON: ALANUS de Beccles
+Also known as: Alan de BECCLES; Alan BEECLES.
+Description: Archidiacre de Sudbury.
+Status: Maître.
+Gender: male.
+Active during: %1201-1240%.
+Born in: Angleterre (Beccles, dans le Suffolk ?)..
+Studied at: Paris %:1226-1229%.; LUARD (H.R.), éd., Matthew Paris, Chronica majora, Rolls Series, Londres, 1876, III, 168 ;.
+Academic grades obtained: Magister dès ;.
+Ecclesiastical positions held: Archidiacre de Sudbury à la cathédrale de Norwich ;; Recteur de Haughley (Suffolk) ;; Recteur de Shelland (Suffolk) ;; Recteur de Bunwell (Norfolk) ;; Recteur de Garboldisham (Norfolk) ;.
+Other ecclesiastical functions: Official de PANDULF, évêque de Norwich %1222-1226%..
+University functions: Paris (Maître-régent %1226-1229%) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 06/11/2019..

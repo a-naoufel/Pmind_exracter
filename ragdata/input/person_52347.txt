@@ -1,0 +1,9 @@
+PERSON: DIONYSIUS de Seine
+Also known as: Denis de SEINE.
+Description: Relieur.
+Status: Suppôt.
+Gender: male.
+Active during: %1368-1368%.
+Studied at: Paris..
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/05/2021..

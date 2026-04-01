@@ -1,0 +1,32 @@
+PERSON: DOMINICUS Grima
+Also known as: Dominicus GRIMA; Dominicus GRENIER.
+Description: Évêque de Pamiers.
+Status: Extérieur.
+Gender: male.
+Active during: %1290-1347%.
+Studied at: Toulouse ;; Avignon..
+Academic grades obtained: Maître en théologie (Avignon) ..
+Religious order: O.P. : frère du couvent (dominicain) de Toulouse..
+Ecclesiastical positions held: Evêque de Pamiers %1326-1347%..
+University functions: Toulouse (Couvent dominicain : sublector %1301-1302%) ;; Toulouse (Couvent dominicain : lector %1311-1312%) ;; Curie (Magister et lector : %1322-1326%)..
+Representation roles: Légat de JEAN XXII auprès du roi de France en et en ..
+Authored work: 'Lectura super Genesim', composed around ., dedicated to Dédié à JEAN XXII..
+Authored work: 'Lectura in Exodum', composed around ?.
+Authored work: 'Lectura in Leviticum', composed around ?.
+Authored work: 'Lectura in Num.', composed around ?.
+Authored work: 'Lectura in Deuteronomium', composed around ?.
+Authored work: 'Lectura in Iosue', composed around ?.
+Authored work: 'Lectura in Iudic', composed around ?.
+Authored work: 'Lectura in Ruth', composed around ?.
+Authored work: 'Lectura in I-IV Reg.', composed around ?.
+Authored work: 'Lectura in Paralip. I-II', composed around ?.
+Authored work: 'Lectura in Esdras I-II', composed around ?.
+Authored work: 'Lectura in Tob.', composed around ?.
+Authored work: 'Lectura in Iudith', composed around ?.
+Authored work: 'Lectura in Esther', composed around ?.
+Authored work: 'Lectura in I-II Machab.', composed around ?.
+Authored work: 'Lectura in Proverb.', composed around ?.
+Authored work: 'Censura 51 articulorum Guillelmi Ockham…', composed around à Avignon., dedicated to Écrit à la demande de JEAN XXII..
+Authored work: 'Statuta synodalia ecclesie Appamiensis', composed around ?.
+Authored work: 'Consilium de paupertate Christi et apostolorum datum rogatu Iohannis XXII', composed around (août)., dedicated to Écrit à la demande de JEAN XXII..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 5/09/2015)..

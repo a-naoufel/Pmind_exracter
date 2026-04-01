@@ -1,0 +1,7 @@
+PERSON: ALANUS de Mordinc
+Also known as: Alanus de MORDINC.
+Description: Étudiant..
+Status: Étudiant.
+Gender: male.
+Active during: %1313-1313%.
+Studied at: Paris en ..

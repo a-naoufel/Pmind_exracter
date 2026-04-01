@@ -1,0 +1,12 @@
+PERSON: ADAM de Suessione
+Also known as: Adam de SUESSIONE.
+Description: Étudiant du collège Saint-Thomas du Louvre.
+Status: Étudiant.
+Gender: male.
+Active during: %1284-1284%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Soissons ?.
+Studied at: Paris,.
+Academic grades obtained: Étudiant (Paris) ..
+College affiliation: Collège du Louvre (Saint-Thomas) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 17/07/2015)..

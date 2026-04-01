@@ -1,0 +1,18 @@
+PERSON: GALFREDUS de Meldis
+Also known as: Geoffroi de MEAUX; Gaufridus MELEDENSIS; Geoffroi de MELDIS.
+Description: Médecin.
+Status: Maître.
+Gender: male.
+Active during: %1310-:1347:%.
+Born in: Champagne (Meaux?)..
+Diocese of origin: Diocèse de Meaux..
+Studied at: Paris, %:1310-1310%..
+Academic grades obtained: ?Maître ès arts (Paris) ..
+College affiliation: ?Socius du CollègedeSorbonne à Paris, ..
+University functions: Il siège à l'Université de Paris parmi les maîtres qui examinent l'Ars brevis de Ramon LULLE, ..
+Authored work: 'De stellis comatis', composed around .
+Authored work: 'Kalendarium planetarum', composed around .
+Authored work: 'De conjunctione Saturni et Jovis anno 1325', composed around .
+Authored work: 'De causis generalis pestilentiae', composed around ..
+Authored work: 'Emplastrum', composed around ?.
+Source: MIRABILE :.

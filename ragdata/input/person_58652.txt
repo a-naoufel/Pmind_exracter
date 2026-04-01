@@ -1,0 +1,18 @@
+PERSON: HENRICUS de Odendorp
+Also known as: Henricus de ODENDORP; Henricus de ODENDORF.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1374-1399%.
+Born in: Rhénanie ;.
+Diocese of origin: Diocèse de Cologne..
+Studied at: Paris (Nation Anglo-allemande) %1374-1382% ;; Orléans %1376-1378% ;; Vienne %1383-1387% ;; Padoue ;; Cologne ..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) (2 avril) ;; Bachelier ès lois (Orléans) ;; Licencié ès lois (Orléans) ;; Licencié en droit canon (Padoue) ;; Docteur in utroque (Padoue) ;; Docteur in utroque (Cologne) ;.
+Academic relationships: Son maître est Thomas de CLIVIS pour le baccalauréat en ; Son maître est Thomas de CLIVIS pour la maîtrise en ;.
+Ecclesiastical positions held: Chanoine de Kaiserwerth (Saint-Suitbert) ;; Chanoine de Cologne (Saints-Apôtres) ;.
+University functions: Paris (Nation Anglo-allemande : il paie 1 franc en pour son jocundus introitus) ;; Paris (Nation Anglo-allemande : il demande en (20 avril) à être inscrit comme présent sur le rotulus) ;; Vienne (Faculté de droit : professeur de droit canon %1383-1389%) ;; Vienne (Université : recteur ) ;; Vienne (Faculté de droit : doyen ) ;; Vienne (Collegium Ducale : ) ;; Cologne (Faculté de droit : professeur %1389-1390%)..
+Authored work: 'Sermo synodalis', composed around ?.
+Authored work: 'Repetitio Capituli Omnis utriusque sexus de penitentiis et remissionibus', composed around ?%1383-1389% à Vienne..
+Authored work: 'Distinctio de successione ab intestato', composed around ?.
+Authored work: 'Lectura arboris cognationis spiritualis et legalis iuxta modum et formam traditionis egregii doctoris Iohannis Andreae in sua Lectura arboris consanguinitatis et affinitatis conformiter procedendo', composed around ?.
+Source: Early modern jurists Report r289 ;.

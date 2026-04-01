@@ -1,0 +1,11 @@
+PERSON: ADALBERTUS de Lambach
+Also known as: Adalbertus de LAMBACH.
+Description: Évêque de Wurtzbourg.
+Status: Extérieur.
+Gender: male.
+Active during: %1030-1085%.
+Born in: Autriche ?.
+Studied at: ?.
+Family relationships: Son père est ARNOLD, comte de Lambach-Wels ;.
+Social origin: Noble..
+Ecclesiastical positions held: Évêque de Würzburg %1045-1085% ;.

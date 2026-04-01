@@ -1,0 +1,10 @@
+PERSON: ALBERTUS 1
+Also known as: ALBERTUS.
+Description: Archidiacre de Paris.
+Status: Maître.
+Gender: male.
+Active during: %1040-1040%.
+Studied at: Paris..
+Academic grades obtained: Magister..
+Ecclesiastical positions held: Archidiacre de Paris (Notre-Dame)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 14/08/2017..

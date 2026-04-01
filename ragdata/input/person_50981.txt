@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Blesi
+Also known as: Guillermus BLESI; Guillermus WESI; Guillaume LEBEGUE.
+Description: Chanoine d'Auxerre.
+Status: Étudiant.
+Gender: male.
+Active during: % -1423%.
+Diocese of origin: Diocèse de Thérouanne ;.
+Studied at: Paris ;.
+Academic grades obtained: Étudiant en décret (Paris) ;.
+Ecclesiastical status: Prêtre en ;.
+Ecclesiastical positions held: Chanoine d’Auxerre %1382-1423% ;; Chapelain de Fauquembergue ;; Personne de Norren ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 23/07/2020)..

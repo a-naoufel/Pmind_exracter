@@ -1,0 +1,12 @@
+PERSON: ADAM Wallensis
+Also known as: Adamus WALLENSIS; Adam of WALES; ADAM of Wales; ADAM the Welshman.
+Description: Évêque de Saint-Asaph.
+Status: Maître.
+Gender: male.
+Active during: %1158-1181%.
+Born in: Wales..
+Studied at: Paris..
+Academic grades obtained: Magister en théologie (Paris)..
+Ecclesiastical positions held: Chanoine de Paris c.%1158-1175% ;; Évêque de Saint-Asaph %1175-1181%..
+Representation roles: Participe au concile de LatranIII en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 15/04/2020)..

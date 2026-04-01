@@ -1,0 +1,11 @@
+PERSON: PETRUS de La Garde-Dieu
+Also known as: Petrus de LAGARDE-DIEU.
+Description: O. Cist..
+Status: Étudiant.
+Gender: male.
+Active during: %1349-1349%.
+Studied at: Paris..
+Academic grades obtained: Étudiant ;.
+College affiliation: Collège Saint-Bernard..
+Religious order: O. Cist. : moine de l'abbaye (cistercienne) de LaGardeDieu, à Mirabel..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/02/2024..

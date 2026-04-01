@@ -1,0 +1,16 @@
+PERSON: STEPHANUS de Poliniaco
+Also known as: STEPHANUS; Stephanus de POLINIACO; Etienne de POLIGNY.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1242-1248%.
+Born in: Comté de Bourgogne (Poligny) ?.
+Diocese of origin: Diocèse de Besançon ?.
+Studied at: Paris %:1242-1242% ;.
+Academic grades obtained: Maître en théologie (Paris) ..
+Ecclesiastical positions held: Archidiacre de Meaux..
+University functions: Maître-régent en théologie..
+Authored work: 'Comm. in libros sentent principium in I lib', composed around ?.
+Authored work: 'Comm. in libros sentent in IIIm lib.', composed around ?.
+Authored work: 'Quaestio de loco animae exutae'.
+Authored work: 'Postilla in Joann.', composed around ?.

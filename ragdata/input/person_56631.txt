@@ -1,0 +1,10 @@
+PERSON: ADA
+Also known as: ADA.
+Description: Épouse d’Étienne BEROT.
+Status: Extérieur.
+Gender: female.
+Active during: %1209-1209%.
+College affiliation: Collège Saint-Honoré ;.
+Family relationships: Son mari est Étienne BEROT ; Son fils est Stephanus BEROUT..
+Social origin: Bourgeoisie parisienne..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 15/09/2023)..

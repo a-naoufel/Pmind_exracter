@@ -1,0 +1,10 @@
+PERSON: REGINALDUS de Frostiers
+Also known as: Reginaldus de FROSTIERS; Reginaldus de FROTEY.
+Description: Chanoine de Besançon.
+Status: Maître.
+Gender: male.
+Active during: %1375-1402%.
+Studied at: Paris..
+Academic grades obtained: Licencié en décret (Paris) ;.
+Ecclesiastical positions held: Chanoine de Besançon %1375-1402% ;; Chanoine de Toul %1394-1402% ;; Archidiacre de Vosge en la cathédrale de Toul ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 1/12/2021..

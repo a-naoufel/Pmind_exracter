@@ -1,0 +1,12 @@
+PERSON: HENRICUS Everardi de Yselstein
+Also known as: Henricus EVERARDI de Yselstein; Henricus Everardi de YSELSTEIN.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1407-1407%.
+Born in: Pays-Bas (Utrecht (Ijsselstein))..
+Diocese of origin: Diocèse d'Utrecht ?.
+Studied at: Paris (?collège de Skara), ..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Collège de Skara?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 08/02/2019..

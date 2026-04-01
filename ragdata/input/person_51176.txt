@@ -1,0 +1,17 @@
+PERSON: THOMAS Hibernicus
+Also known as: Thomas d'IRLANDE; Thomas of IRELAND; Thomas HIBERNICUS; Thomas YBERNICUS.
+Description: Socius de Sorbonne.
+Status: Maître.
+Gender: male.
+Active during: %1290-1338%.
+Born in: Irlande (Palmerstown, dans le Pale)..
+Diocese of origin: Diocèse de Dublin..
+Studied at: Paris %:1295-1338..
+Academic grades obtained: Maître ès arts (Paris) %:1295-1318% ;; Bachelier en théologie (Paris) ?.
+College affiliation: Collège de Sorbonne : socius %1295-1316% au moins..
+University functions: Paris (Université : témoin d’un acte du recteur en ) ;.
+Authored work: 'De tribus punctis religionis christianae', composed around .
+Authored work: 'De tribus sensibus Sacrae Scripturae', composed around ?.
+Authored work: 'De tribus hierarchiis, tam angelicis quam ecclesiasticis', composed around ?.
+Authored work: 'Manipulus florum', composed around (1er mars) ;.
+Source: The Electronic Manipulus Florum Project : Chris L. NIGHMAN à l’Université Wilfrid Laurier, Waterloo (Ontario), Canada :.

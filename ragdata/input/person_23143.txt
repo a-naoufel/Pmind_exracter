@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Canonicus Tullensis
+Also known as: GUILLELMUS, canonicus Tullensis.
+Description: Chanoine de Toul.
+Status: Maître.
+Gender: male.
+Active during: %1266-1266%.
+Studied at: Paris (Nation de France) en ..
+Academic grades obtained: Maître (Paris) en ..
+Ecclesiastical positions held: Chanoine de Toul..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 01/03/2022)..

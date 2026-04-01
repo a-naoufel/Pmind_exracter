@@ -1,0 +1,11 @@
+PERSON: BERNARDUS Schinkel
+Also known as: Bernardus SCHINKEL.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1492-1502%.
+Born in: AllemagneduNord (Lübeck) ;.
+Diocese of origin: Diocèse de Lübeck..
+Studied at: Rostock %1492-1493% ;; Louvain ;; Paris %1496-1498%..
+Academic grades obtained: Bachelier ès arts (Rostock) ;; Étudiant droit canon (Louvain) ;; Maître ès arts (Paris) ?.
+Source: RAG ;.

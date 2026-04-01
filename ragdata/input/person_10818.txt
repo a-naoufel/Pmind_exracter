@@ -1,0 +1,12 @@
+PERSON: RICARDUS de Orengia
+Also known as: Ricardus de ORENGIA; Richard de ORANGI.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1318-1325%.
+Born in: Normandie ?.
+Diocese of origin: Diocèse de Coutances en ;.
+Studied at: ?Paris %1318-1325%..
+Academic grades obtained: ?Maître en médecine (Paris) ;.
+Ecclesiastical status: Clerc du diocèse de Coutances en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 20/03/2020..

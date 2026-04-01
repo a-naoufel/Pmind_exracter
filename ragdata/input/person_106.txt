@@ -1,0 +1,10 @@
+PERSON: ADAM de Sancto Mauro
+Also known as: Adam de SANCTOMAURO.
+Description: Boursier.
+Status: Étudiant.
+Gender: male.
+Active during: %1346-1348%.
+Studied at: Paris (Collège de Navarre), %1346-1348%..
+Academic grades obtained: Étudiant ès arts (Paris) ;; Étudiant en théologie (Paris) ..
+College affiliation: Boursier artien au Collège de Navarre à Paris en ;; Boursier théologien au Collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Anne Tournierouxn, dernière mise à jour 17/07/2015)..

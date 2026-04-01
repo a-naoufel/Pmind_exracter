@@ -1,0 +1,26 @@
+PERSON: LAURENTIUS de Aquileia
+Also known as: Laurent d'AQUILÉE; Lorenzo di AQUILEIA.
+Description: Magister.
+Status: Maître.
+Gender: male.
+Active during: %1269-1320%.
+Born in: Italie (Vénétie : Cividale-del-Friuli ?) ;.
+Diocese of origin: Diocèse d’Aquilée ?.
+Studied at: Bologne ;; ?Paris..
+Academic grades obtained: Maître ès arts (Bologne ?) ;.
+Family relationships: Son père est GIACOMO, notaire à Cividale ;.
+Social origin: Bourgeoisie ?.
+Ecclesiastical positions held: Chanoine d’Aquilée ;; Chanoine de Cividale ;.
+Other ecclesiastical functions: Service de Raimondo DELLA TORRE, Patriarche d’Aquilée %1287-1293%..
+University functions: Paris (Faculté des Arts : maître-régent %1298-1302 ?) ;; Bologne (Professeur de rhétorique)..
+Authored work: 'Regulae... juxta doctrinam Tulli de epistola ou Rhetorica dictaminis', composed around ?.
+Authored work: 'Salutationes', composed around ?.
+Authored work: 'Epistolarium', composed around ?.
+Authored work: 'Summa dictaminis breviter et artificiose composita secundum stilum Romane curie et consuetudinem modernorum', composed around ?, dedicated to Dédiée à PHILIPPE IV le Bel, roi de France..
+Authored work: 'Ars petendi, narrandi et concludendi', composed around ?.
+Authored work: 'De modo componendi epistolam', composed around ?.
+Authored work: 'Theorica dictaminis', composed around ?.
+Authored work: 'Liber ephythetorum', composed around ?.
+Authored work: 'Speculum dictaminis', composed around ?.
+Authored work: '(Recueils de lettres modèles)', composed around ?.
+Source: MIRABILE : Elisa CHITI :.

@@ -1,0 +1,10 @@
+PERSON: NICOLAUS Cardonis
+Also known as: Nicolaus CARDONIS.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+Family relationships: Son parent est (peut-être) le Magister Johannes CARDONIS qui s’acquitte de sa contribution pour la collecte de en même temps que lui ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 7/08/2016..

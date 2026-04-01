@@ -1,0 +1,10 @@
+PERSON: PETRUS 6 bis
+Also known as: PETRUS.
+Description: Doyen du Mans.
+Status: Incertain.
+Gender: male.
+Active during: %1260-1266%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical positions held: Chanoine de LeMans ;; Doyen de LeMans %1260-1266% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 08/08/2023)..

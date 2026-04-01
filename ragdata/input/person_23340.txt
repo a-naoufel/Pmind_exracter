@@ -1,0 +1,9 @@
+PERSON: GUERNERIUS
+Also known as: GUERNERIUS.
+Description: Locataire de la Sorbonne ; il est qualifié de « Dominus »..
+Status: Extérieur.
+Gender: male.
+Active during: %1474-1474%.
+Studied at: ?.
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 8/05/2018)..

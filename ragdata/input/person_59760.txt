@@ -1,0 +1,12 @@
+PERSON: GALLUS Klett
+Also known as: Gallus KLETT; Gallus PALLURI.
+Description: Prévôt de Thann.
+Status: Étudiant.
+Gender: male.
+Active during: %1502-1529%.
+Born in: Alémanie (Alsace : Rouffach) ;.
+Diocese of origin: Diocèse de Bâle ?.
+Studied at: Paris ;; Bâle %1509-1511%..
+Academic grades obtained: Étudiant (Paris) ;; Bachelier ès arts (Bâle) ;; Maître ès arts (Bâle) ;.
+Ecclesiastical positions held: Prévôt de Thann (Saint-Thiébaut) ..
+Source: RAG ;.

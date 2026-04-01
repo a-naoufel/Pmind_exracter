@@ -1,0 +1,9 @@
+PERSON: ADRIANUS de Atrio
+Also known as: Adrien de ATRIO; Adrianus de ATRIO.
+Description: Licencié en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1424-1430%.
+Studied at: Paris (Nation de Picardie) %1424-1429%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 12/11/2019)..

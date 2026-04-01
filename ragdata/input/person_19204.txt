@@ -1,0 +1,10 @@
+PERSON: BERNARDUS Causacii
+Also known as: Bernardus CAUSACII.
+Description: Bachelier en théologie.
+Status: Gradué.
+Gender: male.
+Active during: %1416-1416%.
+Studied at: Paris ..
+Academic grades obtained: Bachelier en théologie (Paris) ..
+Religious order: Régulier ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 20/01/2021..

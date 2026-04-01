@@ -1,0 +1,13 @@
+PERSON: HENRICUS Amandi
+Also known as: Henri AMANDI.
+Description: Maître en théologie.
+Status: Maître.
+Gender: male.
+Active during: %1304-1316%.
+Studied at: Paris..
+Academic grades obtained: Maître en théologie (Paris) ..
+Ecclesiastical positions held: Chanoine de Rouen ;.
+University functions: Paris (Faculté de théologie : maître-régent en ) ;; Paris (Université : Taxateur des livres en )..
+Authored work: '(Questions disputées : extraits)', composed around ?%1311-1312%.
+Authored work: '(Extraits du premier livre des sentences)', composed around .
+Source: MIRABILE, Andrea CENCINI :.

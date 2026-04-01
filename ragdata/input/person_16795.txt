@@ -1,0 +1,13 @@
+PERSON: GUNNARUS de Thorlose
+Also known as: GUNNARUS de Thorlose; Gunnarus de THORLOSE.
+Description: Clerc.
+Status: Étudiant.
+Gender: male.
+Active during: %1345-1364%.
+Born in: Scanie (Torrlösa).
+Diocese of origin: Diocèse de Lund.
+Studied at: Paris, ..
+Academic grades obtained: É. (P), ..
+Social origin: inconnue.
+Ecclesiastical status: ?Membre du clergé de la cathédrale de Lund..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Élisabeth Mornet, 30/07/2014..

@@ -1,0 +1,11 @@
+PERSON: PETRUS Baraudi
+Also known as: Petrus BARAUDI; Pierre BAIRAUT; Petrus BOILEAUE; Petrus BOILEASVE; Pierre BARRAUT.
+Description: Chanoine de Reims.
+Status: Incertain.
+Gender: male.
+Active during: %1385-1409%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine de Poitiers (Sainte-Radegonde) %1385- % ;; Chanoine de Reims %1394-1409% ;; Prévôt de Poitiers (Sainte-Radegonde) %1403-1404% ;; Chanoine de Lectoure %1404- % ;; Chanoine de Lectoure %1404- % ;; Chanoine de Bourges (Sainte-Chapelle) %1405- % ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/11/2022..

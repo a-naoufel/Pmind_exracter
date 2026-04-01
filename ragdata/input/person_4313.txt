@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Mollieres
+Also known as: Guillelmus de MOLLIERES; Guillaume de MOLLIÈRES.
+Description: Chapelain du Collège de Navarre à Paris..
+Status: Étudiant.
+Gender: male.
+Active during: %1362-1362%.
+Studied at: Paris (Collège de Navarre) %1362-1362%..
+Academic grades obtained: Étudiant en théologie (Paris)..
+College affiliation: Collège de Navarre : chapelain en ..
+Ecclesiastical positions held: Chapelain dans le diocèse d'Auxerre ;; Curé de Paris (Saint-Benoît) ;; Chapelain du Collège de Navarre à Paris en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 04/03/2022..

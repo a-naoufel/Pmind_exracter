@@ -1,0 +1,13 @@
+PERSON: ANDREAS dictus Calis
+Also known as: Andreas CALIJS; ANDREAS dictus Kalias.
+Description: Vicaire cathédral.
+Status: Étudiant.
+Gender: male.
+Active during: %1299-1343%.
+Born in: Suède.
+Studied at: Paris, ..
+Academic grades obtained: Étudiant ?.
+Family relationships: Son cognatus est HEMMINGUS, chanoine d’Uppsala..
+Ecclesiastical status: Prêtre, ;.
+Ecclesiastical positions held: Vicaireprébendé d'Uppsala (cathédrale), ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Elisabeth Mornet)..

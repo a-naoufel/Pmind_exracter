@@ -1,0 +1,12 @@
+PERSON: CLEMENS Vitrarii
+Also known as: Clemens VITRARII.
+Description: Augustin.
+Status: Gradué.
+Gender: male.
+Active during: %1348-1348%.
+Studied at: Paris ;; Montpellier..
+Academic grades obtained: Bachelier en théologie (Paris) .; Maître en théologie (Montpellier) ?.
+College affiliation: Couvent (augustin) de Paris (Grands-Augustins)..
+Religious order: O.E.S.A. : frère augustin..
+University functions: Paris (Faculté de Théologie : Lecteur de la Bible au couvent augustin)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 20/04/2021..

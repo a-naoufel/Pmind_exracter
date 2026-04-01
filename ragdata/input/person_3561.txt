@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS de Apostolatu
+Also known as: Guillelmus de APOSTOLATU; Guillaume de APOSTOLATU; Guillaume de APOSTOLATU alias KENSE.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1422-1434%.
+Studied at: Paris %:1422-1434%..
+Academic grades obtained: Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+Ecclesiastical positions held: Curé de Zwenghen (diocèse de Tournai), ..
+University functions: Paris (Faculté de Médecine : Maîtrerégent %1424-1425%) ;; Paris (Faculté de Médecine : Maîtrerégent %1426-1427%) ;; Paris (Faculté de Médecine : il est l'un des maîtres qui accordent en (7 février), à la demande du duc de Bedford et d'Alan KIRKETON, l'équivalence d'une année et demi d'études à Paris pour trois années d'étude à l'université de Cambridge à Johannes KUN, un Anglais) ;; Paris (Faculté de Médecine : Maîtrerégent %1429-1430%) ;; Paris (Faculté de Médecine : Maîtrerégent %1430-1431%) ;; Paris (Faculté de Médecine : Maîtrerégent %1432-1433%) ;; Paris (Faculté de Médecine : Maîtrerégent %1433-1434%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 05/03/2022..

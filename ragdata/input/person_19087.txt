@@ -1,0 +1,10 @@
+PERSON: LUDOVICUS de Pulchrosono
+Also known as: Ludovicus de PULCHROSONO.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris) en ?.
+Family relationships: Parent (frère ?) de Franciscus de PULCHROSONO qui paye la collecte en même temps que lui ; Parent (frère ?) de Dinetus de PULCHROSONO qui paye la collecte en même temps que lui ; Parent (frère ?) de Jacobus de PULCHROSONO qui paye la collecte en même temps que lui ; Parent (frère ?) de Dominus Petrus de PULCHROSONO qui paye la collecte en même temps que lui ; Parent (frère ?) de Guillelmus de PULCHROSONO qui paye la collecte en même temps que lui ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/09/2023)..

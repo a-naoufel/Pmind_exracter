@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS Textoris 1
+Also known as: Guillelmus TEXTORIS; Guillaume TISSERAND.
+Description: Maître en théologie..
+Status: Maître.
+Gender: male.
+Active during: %1464-1474%.
+Born in: ?Normandie..
+Studied at: Paris (Nation de Normandie) %:1464-1474% ;.
+Academic grades obtained: Maître ès arts ?; Bachelier en théologie (Paris) ? ;; Licencié en théologie (Paris) (12 février) ;; Maître en théologie (Paris) (9 janvier) ..
+College affiliation: Collège d'Harcourt ;.
+Academic relationships: Son maître est Stephanus GERVASII..
+University functions: Paris (Faculté de Théologie : Lecteur de la Bible le 5 juillet ) ;; Paris (Nation de Normandie : procureur en ) ;.
+Authored work: 'Sermones tres de Passione Christi per eximium sacre theologie doctorem guillalmum Textoris ad intentionem Guillermi de Rupeforti, cancellarii regis Franciae', composed around ?..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol ; révision : Jean-Philippe Genet, 4/09/2016..

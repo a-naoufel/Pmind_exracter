@@ -1,0 +1,46 @@
+PERSON: HENRICUS Abrincensis
+Also known as: Henricus ABRINCENSIS; Henricus d'AVRANCHES; Henri d'AVRANCHES; Henricus GRAMMATICUS; Henri TROTEMAN.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1208-1264%.
+Studied at: Paris vers %1208-1214% ;; Oxford..
+Academic grades obtained: Maître ès arts (Paris) vers %1208-1210% ;.
+Academic relationships: Son maître est John BLUND, dont il fera l'éloge en ;.
+University functions: Paris (Magister enseignant l'"Ars dictandi" à Paris) ;; Oxford (Magister enseignant l'"Ars dictandi" à Oxford)..
+Authored work: 'De beata Virgine', composed around ?.
+Authored work: 'De festo omnium sanctorum', composed around ?.
+Authored work: 'Prophetia sancte Hyldegardis de Novis Fratribus', composed around ?.
+Authored work: 'Sequencia de sancta Anna', composed around ?.
+Authored work: 'Sequencia de sancta Anna', composed around ?.
+Authored work: 'Tractatus de epiphania Domini', composed around ?.
+Authored work: '[Règle versifiée de grammaire]', composed around ?.
+Authored work: 'Donatus versificatus', composed around ?.
+Authored work: 'Tract. super grammaticam', composed around .
+Authored work: 'Tract. Henrici Grammatici', composed around ?.
+Authored work: 'Accentus magistri Henrici de Colonia', composed around ?.
+Authored work: 'Aequivoca', composed around ?.
+Authored work: 'Carmina minora', composed around ?.
+Authored work: '[Fables de l'Anti Avianus]', composed around ?.
+Authored work: 'De decretis', composed around ?.
+Authored work: 'Vita sancti Thomae', composed around ?.
+Authored work: 'De quibusdam revelacionibus post martirium beati Thome martyris', composed around ?.
+Authored work: 'De translacione beati Thome martyris', composed around ?.
+Authored work: 'De translacione beati Thome martyris', composed around ?.
+Authored work: 'Verso de sancto Thoma archiepiscopo', composed around ?.
+Authored work: 'De translatione veteris ecclesie Saresberiensis et constructione nove', composed around ?.
+Authored work: 'Vita metrica Sancti Birini', composed around ?.
+Authored work: 'Vita metrica Sancti Edmundi', composed around ?.
+Authored work: 'Vita metrica Sancti Francisci', composed around ?.
+Authored work: 'Vita metrica Sancti Fremundi', composed around ?.
+Authored work: 'Vita metrica Sancti Guthlaci', composed around ?.
+Authored work: 'Vita metrica Sancti Oswaldi', composed around ?.
+Authored work: 'Vita metrica sancti Hugonis', composed around ?.
+Authored work: 'Vita sancti Eduardi', composed around ?.
+Authored work: 'Vita sancti Ethelwoldi episcopi Wintoniensis', composed around ?.
+Authored work: 'Vita sancti Swithuni episcopi Wintoniensis', composed around ?.
+Authored work: 'Vita sancti Georgi', composed around ?.
+Authored work: 'Passio sanctorum Crispini et Crispiniani', composed around ?.
+Authored work: 'Versus de corona spinea, de cruce et ferro lancee quibus rex Ludovicus Franciam insignivit', composed around ?.
+Authored work: 'Versus de allegacionibus et responsionibus habitis iner Innocencium papam et Romanos pro imperio unde Otto imperator et Frethericus ad invicem litigabant', composed around ?.
+Source: MIRABILE : Andrea CENCINI :.

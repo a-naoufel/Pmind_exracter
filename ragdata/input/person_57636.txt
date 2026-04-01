@@ -1,0 +1,11 @@
+PERSON: ADAM de Saint-Leu
+Also known as: Adam de SAINT-LEU.
+Description: Abbé de Royaumont.
+Status: Extérieur.
+Gender: male.
+Active during: %1256-1277%.
+Studied at: ?.
+Academic grades obtained: ?.
+Religious order: O.Cist. : moine cistercien ;.
+Religious functions: Abbé (O.Cist.) de Royaumont %1256-1277%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/03/2024..

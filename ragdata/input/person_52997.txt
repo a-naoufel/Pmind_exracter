@@ -1,0 +1,11 @@
+PERSON: THOMAS de Gueudecourt
+Also known as: Thomas de GUEUDECOURT; Thomas de GENDECORT.
+Description: Chanoine de Rouen.
+Status: Incertain.
+Gender: male.
+Active during: %1260-1260%.
+Studied at: ?.
+Academic grades obtained: Maître ;.
+Ecclesiastical status: Prêtre ;.
+Ecclesiastical positions held: Chanoine d’Amiens ;; Prévôt de Seclin ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 23/11/2021..

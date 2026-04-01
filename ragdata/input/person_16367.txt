@@ -1,0 +1,9 @@
+PERSON: AMBROSIUS Genuys
+Also known as: Ambrosius GENUYS; AMBROSIUS.
+Description: Grand bedeau de la Nation de France.
+Status: Suppôt.
+Gender: male.
+Active during: %1476-1505%.
+Studied at: Paris (Nation de France)..
+University functions: Paris (Nation de France : magnus bedellus)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ dernière mise à jour, Jean-Philippe Genet, 23/07/2020..

@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS Boulon
+Also known as: Guillelmus BOULON.
+Description: Maître d'école.
+Status: Suppôt.
+Gender: male.
+Active during: %1380-1380%.
+Studied at: Paris..
+Academic grades obtained: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 28/02/2022..

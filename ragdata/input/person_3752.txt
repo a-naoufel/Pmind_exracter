@@ -1,0 +1,11 @@
+PERSON: GUILLELMUS Bosvil de Scotia
+Also known as: Wilhelmus BOSVIL de Scotia.
+Description: Bachelier ès arts.
+Status: Gradué.
+Gender: male.
+Active during: %1346-1346%.
+Born in: Écosse..
+Studied at: Paris (Nation Anglo-allemande) ..
+Academic grades obtained: Bachelier ès arts (Paris) ;.
+Academic relationships: Son maître est Galterus de WARDELAV pour le baccalauréat en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 28/02/2022.

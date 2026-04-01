@@ -1,0 +1,12 @@
+PERSON: VINCENTIUS de Crocis
+Also known as: Vincentius de CROCIS; Vincentius de CROSSIS.
+Description: Licencié en droit canon..
+Status: Maître.
+Gender: male.
+Active during: %1440-1446%.
+Studied at: Paris %1445-1446%..
+Academic grades obtained: Bachelier en décret (Paris) attesté en ;; Licencié en décret (Paris) 11 avril ;.
+Academic relationships: Son maître est Petrus de BRENA en ..
+Ecclesiastical positions held: Chanoine de Châlons ;.
+University functions: Paris (Faculté de Décret : Lecteur des Décrétales (6e année) en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Anne Tournieroux ; révision, Jean-Philippe Genet, 14/10/2024..

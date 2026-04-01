@@ -1,0 +1,46 @@
+PERSON: CAMPANUS de Novare
+Also known as: Campanus de NOVARE.
+Description: Astronome..
+Status: Extérieur.
+Gender: male.
+Active during: %1232-1296%.
+Born in: Italie (Lombardie : Novare) ?.
+Studied at: ?.
+Academic grades obtained: Magister..
+Family relationships: Il appartient à la famille Panibada de Novare..
+Ecclesiastical positions held: Recteur de Seaujan ;; Recteur de Sainte-Nourrice ;; Recteur de Flemersham (diocèse de Lincoln) ;; Chanoine de Domodossola ;; Chanoine de Paris %1292-1296% ;; Chanoine de Reims ;; Chanoine de Tolède ;; Archidiacre de Guadalajara..
+Authored work: 'De plenitudine gaudii beatorum', composed around ?.
+Authored work: 'Tractatus de computo majori', composed around .
+Authored work: 'Theorica planetarum', composed around %1261-1265%..
+Authored work: 'Liber astronomicus de erroribus Ptolomaei', composed around .
+Authored work: 'Tractatus de sphera', composed around ?.
+Authored work: 'Tractatus de sphera solida', composed around ?.
+Authored work: 'De quadratura circuli', composed around ?.
+Authored work: 'Tractatus de quadrante composito', composed around ?.
+Authored work: 'Breviloquium duodecim signorum zodiaci', composed around ?.
+Authored work: 'Comment. in libros Elementorum Euclidis', composed around %1252-1259% ?.
+Authored work: 'Astrolabium demonstratum', composed around ?.
+Authored work: 'Tabulae ad cyclos decemnovennales', composed around ?.
+Authored work: 'Tabulae astronomicae', composed around ..
+Authored work: 'De figura sectoris seu alkathe', composed around ?.
+Authored work: 'Astrologia', composed around ?.
+Authored work: 'Responsio de motu octavae spherae', composed around ?, dedicated to "Ad Raynerium Tudertinum"..
+Authored work: 'Practica de dispositione aeris', composed around ?.
+Authored work: 'Computus abbreviatus', composed around ?.
+Authored work: 'Conversio chronologiae arabae et christianae', composed around ?.
+Authored work: 'Almagestum minus', composed around ?.
+Authored work: 'Almanach coniunctionum mediarum solis et lunae', composed around ?.
+Authored work: 'Canon pro minutionibus et purgationibus', composed around ?.
+Authored work: 'Cautelae magistri Campani ex libro De algebra', composed around ?.
+Authored work: 'Commentarium in Iordani Nemorarii Planispherium', composed around ?.
+Authored work: 'Commentarium in Menelai Spheram', composed around ?.
+Authored work: 'Commentarium in Theodosii Spheram', composed around ?.
+Authored work: 'De proportione et proportionalitate', composed around ?.
+Authored work: 'Equatorium planetarum', composed around ?.
+Authored work: 'Tractatus mathematicus', composed around ?.
+Authored work: 'Utilitates instrumentorum', composed around ?.
+Authored work: 'Epistola ad Urbanum IV papam', composed around ?, dedicated to Adressé au Pape URBAIN IV..
+Authored work: 'Epistola ad Simonem Januensem', composed around , dedicated to Adressé à Simon de GÊNES..
+Authored work: 'Tractatus de Musica', composed around .
+Authored work: 'Commentarium in Ptolemaei Musicam', composed around ?.
+Source: http://www.treccani.it/enciclopedia/campano-da-novara_(Dizionario-Biografico)/.

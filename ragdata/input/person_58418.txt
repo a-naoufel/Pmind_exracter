@@ -1,0 +1,18 @@
+PERSON: NICOLAUS de Gorran
+Also known as: Nicolaus de GORRAN.
+Description: Prieur du couvent Saint-Jacques.
+Status: Étudiant.
+Gender: male.
+Active during: %1280-1297%.
+Born in: Anjou-Maine (Gorron) ;.
+Diocese of origin: Diocèse de LeMans ?.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris) ?.
+College affiliation: Couvent (dominicain) de Paris %12870-1295%..
+Religious order: O.P. : frère du couvent dominicain de LeMans..
+Religious functions: Prieur du couvent (dominicain) de Paris avant ..
+Authored work: 'Postillae in Vetus et Novum Testamentum', composed around ?.
+Authored work: 'Distinctiones', composed around ?.
+Authored work: 'Sermones', composed around ?.
+Authored work: 'In I Sent.', composed around ?.
+Source: MIRABILE :.

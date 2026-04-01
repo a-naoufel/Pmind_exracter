@@ -1,0 +1,12 @@
+PERSON: ANDREAS Raffini
+Also known as: Andreas RAFFINI.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1378-1378%.
+Born in: Poitou ?.
+Diocese of origin: Diocèse de Maillezais ;.
+Studied at: Paris (Nation de France ?)..
+Academic grades obtained: Étudiant en Décret ;.
+Ecclesiastical positions held: Clerc du diocèse de Luçon.; Candidat à un bénéfice ecclésiastique du prieur et du chapitre de Poitiers (Sainte Radegonde) en ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 31/08/2020..

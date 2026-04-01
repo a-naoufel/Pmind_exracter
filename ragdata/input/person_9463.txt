@@ -1,0 +1,16 @@
+PERSON: NICOLAUS de Laniis
+Also known as: Nicolaus de LANIIS; Nicolas dLAIGNES.
+Description: Boursier théologien au collège de Navarre..
+Status: Maître.
+Gender: male.
+Active during: %:1349-1375%.
+Born in: Île-de-France ?.
+Diocese of origin: Diocèse de Paris..
+Studied at: Paris (Nation de France), %1349-1375%..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Étudiant en théologie (Paris) vers ;; Bachelier en théologie (Paris) ;; Bachelier en théologie formé (Paris) ou ;; Licencié en théologie (Paris) vers ..
+College affiliation: Boursier théologien au collège de Navarre à Paris, %1352-1363%..
+Family relationships: Son oncle est Nicolas de FREAUVILLE, cardinal et confesseur de PHILIPPE IV le Bel, roi de France mort en ..
+Social origin: Issu d'une "famille d'hommes de pouvoir" ;.
+Ecclesiastical positions held: Diacre du diocèse de Paris en ;; Curé de Saint-Jean-sur-Arve (diocèse de LeMans) en ;; Prieur de Fiscannis (diocèse de Rouen) en ;; Chanoine de Paris (Notre-Dame) ;.
+University functions: Paris (Faculté de théologie : Maître-régent %1366-1375%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 12/10/2023)..

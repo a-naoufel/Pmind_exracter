@@ -1,0 +1,18 @@
+PERSON: NICOLAUS de Lisieux
+Also known as: Nicolas de LISIEUX.
+Description: Trésorier de Lisieux.
+Status: Maître.
+Gender: male.
+Active during: %1259-1272%.
+Born in: ?Normandie..
+Studied at: Paris (Nation de Normandie ?)..
+Academic grades obtained: Maître ès arts en .; Maître en théologie vers ?.
+Ecclesiastical positions held: Chanoine de Lisieux ;; Trésorier de Lisieux..
+Authored work: 'De perfectione et excellentia status clericorum', composed around (avril-juin).
+Authored work: '(Lettre d'envoi du De Perfectione à Guillaume de SAINT-AMOUR).', composed around (avril-juin).
+Authored work: '(Relevé des 23 erreurs de Saint Thomas)', composed around .
+Authored work: 'Liber de ordine praeceptorum ad consilia', composed around ..
+Authored work: 'Responsiones ad questionem fratris Johannis Peckham', composed around ..
+Authored work: 'Responsiones ad questionem fratris Thomas de Aquino', composed around ..
+Authored work: 'De antichristo', composed around Vers.
+Source: MIRABILE :.

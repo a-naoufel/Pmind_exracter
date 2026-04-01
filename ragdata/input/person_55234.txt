@@ -1,0 +1,9 @@
+PERSON: PETRUS Vebert
+Also known as: Petrus VEBERT; Petrus VIBIRT.
+Description: Maître ès arts ?.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris..
+Academic grades obtained: Magister ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 14/08/2015..

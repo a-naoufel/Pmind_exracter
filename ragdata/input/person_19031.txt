@@ -1,0 +1,13 @@
+PERSON: ROBERTUS de Parisius
+Also known as: Robertus de PARISIUS.
+Description: Augustin.
+Status: Étudiant.
+Gender: male.
+Active during: %1385-1385%.
+Born in: Île-de-France (Paris) ?.
+Diocese of origin: Diocèse de Paris ?.
+Studied at: Paris ..
+Academic grades obtained: Étudiant en théologie (Paris) ;.
+College affiliation: Couvent des Grands-Augustins(Paris)..
+Religious order: O.E.S.A. : frère augustin..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : rédaction et dernière révision : Jean-Philippe GENET, 29/08/2020..

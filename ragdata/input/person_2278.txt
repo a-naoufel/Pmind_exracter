@@ -1,0 +1,10 @@
+PERSON: FLORENTIUS de Campo Spicoso
+Also known as: Florentius de CAMPO SPICOSO.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1489-1489%.
+Studied at: Paris (Nation de Picardie) ..
+Academic grades obtained: Maître ès arts (Paris) ;.
+University functions: Paris (Nation de Picardie : receptor temptatorum à Sainte-Geneviève ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/08/2021..

@@ -1,0 +1,12 @@
+PERSON: GUILLELMUS Le Begue
+Also known as: Guillaume LE BESGUE; Guillaume LE BEGUE.
+Description: Boursier du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1388-1392%.
+Studied at: Paris..
+Academic grades obtained: Étudiant (Paris)..
+College affiliation: Boursier du Collège de Dormans-Beauvais %1388-1392% ;; Son hôtage lui fut offert « ob favore magistri Johannis Le Begue, patris sui ».
+Family relationships: Son frère est Philippe LE BESGUE..
+Social origin: Son père est Jean LE BESGUE, notaire au Châtelet de Paris ;.
+Source: LAMOP : Opération Charles VI :.

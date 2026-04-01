@@ -1,0 +1,9 @@
+PERSON: HENRICUS de Cornubia
+Also known as: Henricus de CORNUBIA; Henri de CORNOUAILLES; Henri de CORINVIE.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1338-1342%.
+Studied at: Paris..
+Ecclesiastical status: Clerc ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 05/09/2019..

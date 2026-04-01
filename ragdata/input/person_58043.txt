@@ -1,0 +1,14 @@
+PERSON: SIMON de Southwell
+Also known as: Simon de SOUTHWELL; Simon de SIWELLE.
+Description: Trésorier de Lichfield.
+Status: Maître.
+Gender: male.
+Active during: %1184-1208%.
+Born in: Angleterre..
+Studied at: Oxford ;; Bologne ;; Paris ?.
+Academic grades obtained: Maître en droit canon (Bologne) ?.
+Ecclesiastical positions held: Chanoine de Lincoln ;; Trésorier de Lichfield.
+University functions: Oxford (Maître de droit canon ?); Paris (Étudiant : ilsemble avoir fréquenté les cours de Petrus CANTOR vers %1197-1198% ?) ;.
+Authored work: '(Gloses sur le Décret de Gratien)', composed around ?.
+Authored work: '(Quaestiones disputatae)', composed around ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 13/09/2024)..

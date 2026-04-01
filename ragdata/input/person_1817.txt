@@ -1,0 +1,14 @@
+PERSON: CONSTANTINUS de Gelanis
+Also known as: Constantinus de GELANIS; Constantin de GELANIS.
+Description: Recteur de l'Université de Paris..
+Status: Maître.
+Gender: male.
+Active during: %1375-1387%.
+Born in: Champagne ?.
+Diocese of origin: Diocèse de Troyes..
+Studied at: Paris (Nation de France) %:1375-1387% ;.
+Academic grades obtained: Maître ès arts (Paris) ;; Étudiant en théologie (Paris) ;; Bachelier en théologie (Paris) ..
+College affiliation: Collège de Navarre : maître des artiens %1375-1376%..
+Ecclesiastical positions held: Provision pour un bénéfice dans l'églisecathédrale de Sens à la collation de l'archevêque, du doyen et du chapitre de Sens en : mandat à l'official de Paris.; Provision pour un bénéfice dans l'églisecathédrale de Sens à la collation de l'archevêque, du doyen et du chapitre de Sens en , reprise de l'ancienne provision qui n'avait pas été enregistrée par suite d'une signature ne correspondant pas aux dates valides..
+University functions: Paris (Collège de Navarre : Maître des artiens %1375-1376%) ;; Paris (Université : recteur) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 28/04/2021)..

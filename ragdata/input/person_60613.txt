@@ -1,0 +1,8 @@
+PERSON: HENRICUS Loyen
+Also known as: %1508-1541%.
+Description: Notaire.
+Status: Étudiant.
+Gender: male.
+Studied at: Paris avant ;; Louvain ;; Orléans ..
+Academic grades obtained: Étudiant (Paris) avant ;; Maître ès arts (Louvain) ;; Étudiant en droit (Orléans) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 11/12/2025..

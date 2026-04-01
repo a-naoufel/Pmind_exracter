@@ -1,0 +1,12 @@
+PERSON: SALOMON de Ungaria
+Also known as: Salamon de UNGARIA.
+Description: Dominicain.
+Status: Étudiant.
+Gender: male.
+Active during: %1269-1286%.
+Born in: Hongrie..
+Studied at: Étudiant (Paris) ..
+College affiliation: Couvent (dominicain) de Paris ..
+Religious order: O.P. : frère dominicain..
+Religious functions: Définiteur (dominicain) de Hongrie ..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour, 21/11/2024..

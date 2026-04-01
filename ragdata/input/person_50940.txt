@@ -1,0 +1,13 @@
+PERSON: GUILLELMUS de Vallemerci
+Also known as: Guillermus de VALLEMERCI; Guillaume du VAL-DE-MERCI.
+Description: Chanoine d'Auxerre.
+Status: Extérieur.
+Gender: male.
+Active during: %1409 -1409%.
+Born in: Bourgogne (Auxerre) ?.
+Diocese of origin: Diocèse d'Auxerre ;.
+Studied at: ?.
+Academic grades obtained: Magister..
+Social origin: Bourgeoisie d'Auxerre ?.
+Ecclesiastical positions held: Chanoine d'Auxerre ;; Sous-chantre d'Auxerre ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, 29/06/2020)..

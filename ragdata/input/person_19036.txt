@@ -1,0 +1,9 @@
+PERSON: THOMAS Episcopi
+Also known as: Thomas EPISCOPI.
+Description: Bedeau des Prêcheurs.
+Status: Suppôt.
+Gender: male.
+Active during: %1385-1385%.
+Studied at: Paris ..
+Religious order: Paris (Couvent des Dominicains : bedeau en )..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, dernière mise à jour 07/10/2024..

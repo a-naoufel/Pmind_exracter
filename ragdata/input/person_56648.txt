@@ -1,0 +1,12 @@
+PERSON: PETRUS de Sancto Martino 2
+Also known as: Petrus de SANCTO MARTINO.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1446-1447%.
+Born in: Berry ?.
+Diocese of origin: Diocèse de Bourges ;.
+Studied at: Paris (Nation de France) %1447-1448%..
+Academic grades obtained: Bachelier ès arts (Paris) ;; Licencié ès arts (Paris) ;; Maître ès arts (Paris) ;.
+Academic relationships: Son maître est Petrus CAROZ pour la maîtrise en ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 21/09/2023..

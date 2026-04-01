@@ -1,0 +1,9 @@
+PERSON: GUILLELMUS de Grinibovilla dictus Fabro
+Also known as: Guillelmus de GRININBOVILLA.
+Description: Maître.
+Status: Maître.
+Gender: male.
+Active during: %1279-1279%.
+Studied at: Paris ?.
+Academic grades obtained: Maître (Paris) ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 25/03/2024..

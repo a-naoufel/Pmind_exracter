@@ -1,0 +1,10 @@
+PERSON: P. Magister
+Also known as: Maître P..
+Description: Maître enseignant le décret à Paris..
+Status: Maître.
+Gender: male.
+Active during: %1205-1210%.
+Studied at: Paris %1205-1210%..
+Academic grades obtained: Maître en décret (Paris)..
+University functions: Paris (Maître enseignant le décret en %1205-1210%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 07/09/2023)..

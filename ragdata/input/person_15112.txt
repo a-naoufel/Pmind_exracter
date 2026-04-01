@@ -1,0 +1,10 @@
+PERSON: PETRUS Eschart 2
+Also known as: Pierre ESCHART.
+Description: Maître en médecine..
+Status: Maître.
+Gender: male.
+Active during: %1501-1530%.
+Studied at: Paris (Nation de France) %1501-1530%..
+Academic grades obtained: Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+University functions: Maître régent de la Faculté de médecine de Paris, %1507-1530%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 15/11/2021..

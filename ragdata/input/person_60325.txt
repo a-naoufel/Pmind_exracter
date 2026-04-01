@@ -1,0 +1,13 @@
+PERSON: GERARDUS de Beaumont
+Also known as: Girard de BEAUMONT.
+Description: Maître ès arts.
+Status: Maître.
+Gender: male.
+Active during: %1503-1513%.
+Born in: Picardie ;.
+Diocese of origin: Diocèse de Laon ;.
+Studied at: Paris (Nation de Picardie) %1503-1508% ;.
+Academic grades obtained: Maître ès arts (Paris) en ;.
+College affiliation: Collège de Reims : écolier ;.
+Academic relationships: Son maître est Robert JACQUINOT au collège de Reims ;.
+Source: Dépouillement ORESM sous la direction de Jean-François MOUFFLET ;.

@@ -1,0 +1,12 @@
+PERSON: THEOBALDUS 7
+Also known as: THEOBALDUS.
+Description: Abbé de Sainte-Geneviève.
+Status: Étudiant.
+Gender: male.
+Active during: %1245-1246%.
+Studied at: Paris %1245-1246%..
+Academic grades obtained: Étudiant ?.
+College affiliation: Sainte-Geneviève %1245-1246%..
+Religious order: Chanoinerégulier(O.S.A. victorin) de Paris (Sainte-Geneviève)..
+Religious functions: Abbé (O.S.A) de Paris (Sainte-Geneviève) en %1245-1246%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 20/01/2021)..

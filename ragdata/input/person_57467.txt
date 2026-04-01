@@ -1,0 +1,11 @@
+PERSON: TUGDUALUS Peillac
+Also known as: Tugdualus PEILLAC.
+Description: Bachelier en droit canon.
+Status: Maître.
+Gender: male.
+Active during: %1415-1424%.
+Born in: Bretagne ?.
+Diocese of origin: Diocèse de Tréguier ;.
+Studied at: Paris (Nation de France) %1415-1415%..
+Academic grades obtained: Maître ès arts (Paris) avant ;; Bachelier en décret (Paris) (4 avril) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 9-02-2024..

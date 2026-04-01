@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS Lamy
+Also known as: Guillelmus LAMY; Guillaume LAMY; Guillaume AMY; Guillaume AMICI.
+Description: Maître en médecine.
+Status: Maître.
+Gender: male.
+Active during: %1459-1499%.
+Studied at: Paris (Faculté de Médecine) %1459-1499%..
+Academic grades obtained: Étudiant en médecine (Paris) %1459-1460% ;; Bachelier en médecine (Paris) ;; Licencié en médecine (Paris) ;; Maître en médecine (Paris) ..
+University functions: Paris (Faculté de Médecine : maître-régent sans interruption de %1467-1499%) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 07/05/2022..

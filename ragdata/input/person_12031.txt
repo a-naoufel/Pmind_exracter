@@ -1,0 +1,13 @@
+PERSON: THOMAS de Corbridge 2
+Also known as: Thomas de CORBRIDGE; Thomas de MALTON.
+Description: Magister.
+Status: Étudiant.
+Gender: male.
+Active during: %1300-1329%.
+Born in: Angleterre (Yorkshire : Malton)..
+Diocese of origin: Diocèse d'York ?.
+Studied at: Paris en ;; Oxford..
+Academic grades obtained: Magister ;; Docteur en théologie (Oxford) ..
+College affiliation: Sorbonne ..
+Ecclesiastical positions held: Recteur de Nunburnholme (Yorkshire) %1300- % ;; Recteur de Kippax (Yorkshire) %1302-1318% ;; Chanoine de Ripon (Yorkshire) %1301-1302% ;; Chanoine de Lincoln %1318-1329%..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction, Jean-Philippe Genet, 02/10/2024..

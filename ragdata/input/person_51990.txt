@@ -1,0 +1,12 @@
+PERSON: NICOLAUS de Roseriis
+Also known as: Nicolaus de ROSERIIS.
+Description: Cistercien.
+Status: Gradué.
+Gender: male.
+Active during: %1426-1427%.
+Studied at: Paris %1426-1427%..
+Academic grades obtained: Bachelier cursor en %1426-1427%..
+College affiliation: Collège Saint-Bernard %1426-1427% ?.
+Religious order: O. Cist. : moine cistercien..
+University functions: Paris (Faculté de Théologie : lecteur curseur, premier cours en , (27 novembre) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 1/03/2021)..

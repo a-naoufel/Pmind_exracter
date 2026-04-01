@@ -1,0 +1,9 @@
+PERSON: ROLANDUS de Sauerca
+Also known as: Rolandus de SAUERCA; Rolandus de SAVERCA.
+Description: Magister ?.
+Status: Maître.
+Gender: male.
+Active during: %1464-1464%.
+Studied at: Paris ..
+Academic grades obtained: Maître ès arts à Paris en ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe Genet, 29/08/2015..

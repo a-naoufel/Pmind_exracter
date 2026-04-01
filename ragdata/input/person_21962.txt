@@ -1,0 +1,10 @@
+PERSON: GERARDUS Cotelin
+Also known as: Gérard COTELIN; Gérard d’AVENAY.
+Description: Hôte du Collège de Dormans-Beauvais.
+Status: Étudiant.
+Gender: male.
+Active during: %1405-1405%.
+Studied at: Paris ..
+Academic grades obtained: Étudiant (Paris ?) ?.
+College affiliation: Hôte du Collège de Dormans-Beauvais ;.
+Source: LAMOP : Opération Charles VI :.

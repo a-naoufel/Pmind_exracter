@@ -1,0 +1,12 @@
+PERSON: BARTHOLOMAEUS Persona
+Also known as: Bartholomaeus PERSONA.
+Description: Étudiant ?.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Born in: Pays-Bas (Hollande : Delft ?)..
+Diocese of origin: Diocèse d'Utrecht ?.
+Studied at: ?Paris..
+Academic grades obtained: Étudiant ?.
+Ecclesiastical positions held: ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Jean-Philippe Genet, 15/12/2020..

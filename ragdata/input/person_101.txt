@@ -1,0 +1,9 @@
+PERSON: ADAM de Rusa
+Also known as: Adam de RUSA.
+Description: Étudiant.
+Status: Étudiant.
+Gender: male.
+Active during: %1329-1330%.
+Studied at: Paris..
+Academic grades obtained: Étudiant..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet ; dernière mise à jour : 16/11/2016)..

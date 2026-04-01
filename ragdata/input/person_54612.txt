@@ -1,0 +1,11 @@
+PERSON: THOMAS de Sovole
+Also known as: Thomas de SOVOLES.
+Description: Chanoine de Poitiers.
+Status: Incertain.
+Gender: male.
+Active during: %1291-1298%.
+Born in: Poitou ;.
+Studied at: ?.
+Academic grades obtained: Maître..
+Ecclesiastical positions held: Chanoine de Poitiers %1291-1298% ;; Vicairegénéral de Poitiers ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction Jean-Philippe Genet, 16/11/2022..

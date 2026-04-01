@@ -1,0 +1,10 @@
+PERSON: GUILLELMUS de Aurelianis
+Also known as: Guillaume de AURELIANIS.
+Description: Libraire.
+Status: Suppôt.
+Gender: male.
+Active during: %1342-1342%.
+Studied at: Paris..
+Academic grades obtained: ?.
+Family relationships: Sa femme est AGNES..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Jean-Philippe GENET, 08/03/2020..

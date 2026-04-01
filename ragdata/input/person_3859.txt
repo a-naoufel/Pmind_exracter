@@ -1,0 +1,14 @@
+PERSON: GUILLELMUS Fabri de Pirono
+Also known as: Guillelmus FABRI de Pirono.
+Description: Étudiant en décret.
+Status: Étudiant.
+Gender: male.
+Active during: %1379-1379%.
+Born in: Savoie ?.
+Diocese of origin: Diocèse de Genève..
+Studied at: Paris..
+Academic grades obtained: Étudiant en décret (Paris) en ..
+Ecclesiastical status: Clerc du diocèse de Genève ;.
+Ecclesiastical positions held: Candidat à un canonicat de Bayeux ou à un canonicat de Chartres sur le rotulus spécial des nonces de l'Université ;.
+University functions: Paris (Université : nonce en %1378-1379%)..
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : dernière révision : Jean-Philippe GENET, 30/04/2022..

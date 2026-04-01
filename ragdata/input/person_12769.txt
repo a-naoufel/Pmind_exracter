@@ -1,0 +1,15 @@
+PERSON: NICOLAUS Le Bossu
+Also known as: Nicolaus LE BOSSU.
+Description: Docteur en théologie bénédictin.
+Status: Maître.
+Gender: male.
+Active during: %1497-1522%.
+Born in: Île-de-France (Paris)..
+Diocese of origin: Diocèse de Paris ?.
+Studied at: Paris %1497-1518%..
+Academic grades obtained: Bachelier en théologie (Paris) vers ;; Licencié en théologie (Paris) (le 19 février) ;; Docteur en théologie (Paris) (le 21 janvier) ..
+Academic relationships: Son maître est Simon LE GAY, O.Clun, pour son doctorat en ..
+Religious order: O.S.B. : moine bénédictin de Saint-Denis-en-France (diocèse de Paris) ;.
+Religious functions: Candidat à des bénéfices à la collation du monastère de Saint-Martin de Pontoise (diocèse de Rouen) en ;; Candidat à des bénéfices à la collation du monastère de Saint-Magloire de Paris (diocèse de Paris) en ;; Candidat à des bénéfices à la collation du monastère de Saint-Maur-des-Fossés de Paris (diocèse de Paris) en ;; Grand-prieur de Saint-Denis-en-France (diocèse de Paris) en ..
+University functions: Paris (Faculté de théologie : Maître régent en ) ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ : Rédaction : Claire Priol-Hoogland ; révision, Jean-Philippe Genet, 31/12/2023..

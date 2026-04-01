@@ -1,0 +1,9 @@
+PERSON: TOBIAS
+Also known as: TOBIAS.
+Description: Maître.
+Status: Extérieur.
+Gender: male.
+Active during: %1178-1192%.
+Studied at: ?.
+Academic grades obtained: Maître ?.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction, Jean-Philippe Genet, dernière mise à jour 13/09/2023)..

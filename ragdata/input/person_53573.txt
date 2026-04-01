@@ -1,0 +1,10 @@
+PERSON: PERRINUS Joffridi
+Also known as: Perrinus JOFFRIDI; Petrus JOFFRIDI.
+Description: Chanoine de Besançon.
+Status: Maître.
+Gender: male.
+Active during: %1459-1491%.
+Studied at: Paris ;; Rome ..
+Academic grades obtained: Docteur en droit canon (Paris) ;.
+Ecclesiastical positions held: Chanoine de Besançon %1465-1491% ;; Archidiacre de Salins ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 30/03/2022)..

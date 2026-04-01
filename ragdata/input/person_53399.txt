@@ -1,0 +1,11 @@
+PERSON: EUSTASIUS de Lens
+Also known as: Eustache de LENS.
+Description: Abbé du Val-Chrétien.
+Status: Étudiant.
+Gender: male.
+Active during: %1214-1228%.
+Studied at: Paris..
+Academic grades obtained: Étudiant en théologie avant ;.
+Religious order: O.Praem..
+Religious functions: Abbé (Prémontré) du Valsery %1214-1220% ;; Abbé (Prémontré) du Val-Chrétien %1220-1228% ;.
+Source: STUDIUM : http://lamop-vs3.univ-paris1.fr/studium/ (Rédaction : Jean-Philippe Genet, dernière mise à jour 04/02/2022)..

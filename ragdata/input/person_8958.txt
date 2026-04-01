@@ -1,0 +1,35 @@
+PERSON: MAGNINUS de Maineriis
+Also known as: Magninus de MAINERIIS; Maino MAINERI; Maynus de MAYNERIIS; Maynus de MAINERI; Magninus MEDIOLANENSIS; Magninus de MAGNIS; Magnus MEDIOLANENSIS.
+Description: Médecin..
+Status: Maître.
+Gender: male.
+Active during: %1315-1368%.
+Born in: Italie (Lombardie) ?.
+Diocese of origin: Diocèse de Milan..
+Studied at: Paris (Nation de France) %1325-1326%..
+Academic grades obtained: Maître ès arts (Paris) .; Maître en médecine (Paris) ..
+Family relationships: Son père est Giacomo MAINERI. Son fils est Pietro MAINERI, clerc du diocèse de Milan qui sera aussi médecin des Visconti et finira évêque de Plaisance ;.
+Social origin: Noble ?.
+Ecclesiastical status: Clerc du diocèse de Milan, puis laïc marié..
+Ecclesiastical positions held: Chanoine de Tournai ?.
+University functions: Paris (Faculté de médecine : Maître-régent %1326-1331%) ;.
+Authored work: 'Principium in logica', composed around ?.
+Authored work: 'De intentionibus secundis', composed around ., dedicated to Dédié à Tommaso di SALUZZO..
+Authored work: 'Quaestiones in Averrois De substantia orbis', composed around ?.
+Authored work: 'Liber chiromancie', composed around ?.
+Authored work: 'Theorica corporum celestium', composed around ?.
+Authored work: 'Quaestiones in Averrois De substantia orbis', composed around ?.
+Authored work: 'Dialogue creaturarum', composed around Après ..
+Authored work: 'Regimen sanitatis', composed around %1331-1334% à Paris., dedicated to Dédié à André GHINI de Malpighi, encore évêque d’Arras..
+Authored work: 'Libellus de preservatione ab epydimia', composed around Composé en à l’occasion de l’épidémie de peste qui frappe alors Milan, identifie une conjonction astrologique comme cause de la peste..
+Authored work: 'Liber medicinalis octo tractatuum', composed around ?.
+Authored work: 'Opusculum de saporibus', composed around ?.
+Authored work: 'Consilium contra morbum pestilentialem', composed around ?.
+Authored work: 'De conficiendis vinis', composed around ?.
+Authored work: 'De ordine ciborum', composed around ?.
+Authored work: 'De regimine sterilitatis', composed around ?.
+Authored work: 'De emoptoica passione et ptisi', composed around ?.
+Authored work: 'Liber memorialis de cura egritudinum', composed around ?.
+Authored work: 'De aere', composed around ?.
+Authored work: 'De febribus', composed around ?.
+Source: DBI (Margherita PALUMBO) :.
