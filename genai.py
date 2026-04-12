@@ -22,8 +22,7 @@ from pathlib import Path
 import google.generativeai as genai
 
 # --- CONFIG ---
-# API_KEY = "AIzaSyC2TgkeZDvYwMMgF0O6liPJoiuoaejj5Ig"
-API_KEY = "AIzaSyA29ivzM1EY6EIFPXMunHWcM2sKCk4gwPA"
+API_KEY = "AIzaSyDjWVz_stDcg2g-C3jTK06VshXTtnVh1Oo"
 MODEL_NAME = "gemma-3-27b-it"   # ou autre modèle que tu utilises
 INPUT_FILE = "../studium_llm_ready_people.jsonl"
 ENTITIES_FILE = "entities_1000.jsonl"
