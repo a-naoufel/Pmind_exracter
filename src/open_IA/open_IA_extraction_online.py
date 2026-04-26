@@ -451,6 +451,39 @@ def _compute_backoff(attempt: int, retry_after: Optional[float] = None) -> float
 # ──────────────────────────────────────────────────────────────────────────────
 # Appel modèle
 # ──────────────────────────────────────────────────────────────────────────────
+def _extract_response_text(response) -> str:
+    """
+    Extrait le texte depuis une réponse de l'API Responses (POST /v1/responses).
+    Plusieurs formats possibles selon la version du SDK / du proxy.
+    """
+    # Format SDK openai >= 1.x  →  response.output_text (propriété de convenance)
+    if hasattr(response, "output_text"):
+        return response.output_text or ""
+
+    # Format générique : response.output est une liste de blocs
+    output = getattr(response, "output", None)
+    if isinstance(output, list):
+        parts = []
+        for block in output:
+            # chaque bloc peut avoir .content (liste) ou .text directement
+            content = getattr(block, "content", None)
+            if isinstance(content, list):
+                for c in content:
+                    t = getattr(c, "text", None)
+                    if t:
+                        parts.append(t)
+            elif isinstance(content, str):
+                parts.append(content)
+            t = getattr(block, "text", None)
+            if t and isinstance(t, str):
+                parts.append(t)
+        if parts:
+            return "".join(parts)
+
+    # Dernier recours : sérialisation brute
+    return str(response)
+
+
 def call_model(
     client: OpenAI,
     model_name: str,
@@ -460,27 +493,27 @@ def call_model(
     max_retries: int,
     base_sleep: float,
 ) -> str:
+    """
+    Appelle l'API via POST /v1/responses (Responses API).
+    Ce proxy (api.francestudent.org) ne supporte pas /v1/chat/completions (→ 404).
+    """
     last_error = None
     for attempt in range(1, max_retries + 1):
         try:
-            # FIX: client.chat était rendu comme un lien Markdown cassé
-            response = client.chat.completions.create(
+            response = client.responses.create(
                 model=model_name,
-                messages=[
-                    {"role": "system", "content": SYSTEM_PROMPT},
-                    {"role": "user",   "content": user_content},
-                ],
-                max_tokens=max_tokens,
+                instructions=SYSTEM_PROMPT,   # équivalent du message system
+                input=user_content,            # équivalent du message user
+                max_output_tokens=max_tokens,
                 temperature=temperature,
             )
-            return response.choices[0].message.content or ""
+            return _extract_response_text(response)
 
         except Exception as e:
-            last_error   = e
-            retry_after  = _extract_retry_after(e)
-            wait         = _compute_backoff(attempt, retry_after)
+            last_error  = e
+            retry_after = _extract_retry_after(e)
+            wait        = _compute_backoff(attempt, retry_after)
 
-            # Affiche les détails utiles au débogage
             status = getattr(e, "status_code", None)
             hint   = f" (retry_after={retry_after:.0f}s)" if retry_after else ""
             print(
